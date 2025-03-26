@@ -1,0 +1,88 @@
+{
+  "fetched_at": "2025-03-26T03:45:24.790873",
+  "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
+  "channel_title": "Unreal Engine",
+  "count": 10,
+  "videos": [
+    {
+      "title": "Exploring the Power of Control Rig for Animation in Unreal Engine 5.4 | Unreal Fest Gold Coast 2024",
+      "video_id": "kO6pz8ADgcU",
+      "channel_title": "Unreal Engine",
+      "description": "In this session, we'll explore the Power of Control Rig to build advanced animation rigs in Unreal Engine 5.4. We'll dive deep into ...",
+      "published_at": "2025-03-21T11:29:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kO6pz8ADgcU/hqdefault.jpg"
+    },
+    {
+      "title": "Exploring the New State Tree for AI | Unreal Fest Gold Coast 2024",
+      "video_id": "U8CkmOJg93M",
+      "channel_title": "Unreal Engine",
+      "description": "This talk will explore the new experimental State Tree feature for AI development. Learn the strength and limitations of State Tree ...",
+      "published_at": "2025-03-21T11:29:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U8CkmOJg93M/hqdefault.jpg"
+    },
+    {
+      "title": "Implementing a Quality Cloud CI System Using Horde | Unreal Fest Gold Coast 2024",
+      "video_id": "uL-zTweiJ6s",
+      "channel_title": "Unreal Engine",
+      "description": "Join Playside Studios as they delve into the intricate development of navigation technology within the immersive world of Age of ...",
+      "published_at": "2025-03-21T11:29:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uL-zTweiJ6s/hqdefault.jpg"
+    },
+    {
+      "title": "Where We’re Going, We Need Roads: The Tech Art of Rocket Racing | Unreal Fest Gold Coast 2024",
+      "video_id": "qVibULxaqZ4",
+      "channel_title": "Unreal Engine",
+      "description": "Rocket Racing is a supersonic arcade racer that lets you drift, fly, and boost through an ever-growing selection of tracks.",
+      "published_at": "2025-03-21T11:29:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qVibULxaqZ4/hqdefault.jpg"
+    },
+    {
+      "title": "Learnings from The Amazing Digital Circus and Murder Drones | Unreal Fest Gold Coast 2024",
+      "video_id": "uzTo5vQchkk",
+      "channel_title": "Unreal Engine",
+      "description": "Glitch Productions is an indie animation company that distributes direct to audiences on YouTube with over eight million ...",
+      "published_at": "2025-03-21T11:29:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uzTo5vQchkk/hqdefault.jpg"
+    },
+    {
+      "title": "You’re Probably Lighting Wrong: Physically Based Lighting in UE5 | Unreal Fest Gold Coast 2024",
+      "video_id": "nlbJwMoj1Dg",
+      "channel_title": "Unreal Engine",
+      "description": "Join Sean Gobey for an end-to-end overview on lighting and how to make your projects shine in Unreal Engine. Unreal Engine ...",
+      "published_at": "2025-03-21T11:29:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nlbJwMoj1Dg/hqdefault.jpg"
+    },
+    {
+      "title": "UE India Sizzle 2024",
+      "video_id": "TViN3cq2dGI",
+      "channel_title": "Unreal Engine",
+      "description": "Our creators in India took full advantage of the Unreal Engine toolkit last year! Feast your eyes on some of the incredible projects ...",
+      "published_at": "2025-03-20T17:03:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TViN3cq2dGI/hqdefault.jpg"
+    },
+    {
+      "title": "From VFX to VAD: Artists’ Journeys with Unreal Engine | Unreal Fest 2024",
+      "video_id": "oiv6v_FiP5s",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this recorded session from Unreal Fest Seattle 2024 that explores the journeys of Pixomondo artists who transitioned from ...",
+      "published_at": "2024-10-30T17:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oiv6v_FiP5s/hqdefault.jpg"
+    },
+    {
+      "title": "Nike’s virtual sneaker hunt Airphoria built using Unreal Editor for Fortnite",
+      "video_id": "85A_LolNUGo",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video and find out how Nike used Unreal Editor for Fortnite (UEFN) to create a virtual sneaker hunt in the sky. Airphoria ...",
+      "published_at": "2023-06-23T16:02:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/85A_LolNUGo/hqdefault.jpg"
+    },
+    {
+      "title": "How to Use MetaHuman Animator in Unreal Engine",
+      "video_id": "WWLF-a68-CE",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video and learn how to use MetaHuman Animator to produce facial animation for your digital human in minutes.",
+      "published_at": "2023-06-15T14:18:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WWLF-a68-CE/hqdefault.jpg"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "fetched_at": "2025-03-26T03:45:15.310972",
+  "channel_id": "UC-yuWVUplUJZvieEligKBkA",
+  "channel_title": "javidx9",
+  "count": 10,
+  "videos": [
+    {
+      "title": "Aiming Cannons at Worms (2 of 2) / featuring: Delta Light 2",
+      "video_id": "4hzqmEqHSPY",
+      "channel_title": "javidx9",
+      "description": "Hello! In this video we continue modelling the projectile motion of a cannon in order to aim it at a target, but we take into account ...",
+      "published_at": "2025-03-23T11:44:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4hzqmEqHSPY/hqdefault.jpg"
+    },
+    {
+      "title": "Aiming Cannons at Worms (1 of 2) / featuring: fred",
+      "video_id": "LoHhfqxuxTg",
+      "channel_title": "javidx9",
+      "description": "Hello! In this video I look at how we can calculate the angle at which a cannon must be fired to hit a target. It's classic ballistics, or ...",
+      "published_at": "2025-01-26T21:24:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LoHhfqxuxTg/hqdefault.jpg"
+    },
+    {
+      "title": "New Studio Hype! (and Tour)",
+      "video_id": "Cf8QLS9f4kk",
+      "channel_title": "javidx9",
+      "description": "Spent some time designing a new studio - it's a little different, but opens doors for new projects! Patreon: ...",
+      "published_at": "2024-12-23T16:42:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cf8QLS9f4kk/hqdefault.jpg"
+    },
+    {
+      "title": "olc::CodeJam2024 Theme Reveal",
+      "video_id": "afiVogsZDOw",
+      "channel_title": "javidx9",
+      "description": "https://itch.io/jam/olc-codejam-2024 Patreon: https://www.patreon.com/javidx9 YouTube: https://www.youtube.com/javidx9 ...",
+      "published_at": "2024-08-16T19:27:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/afiVogsZDOw/hqdefault.jpg"
+    },
+    {
+      "title": "You Simply Wont Believe This!",
+      "video_id": "XbLBkB9NbNk",
+      "channel_title": "javidx9",
+      "description": "It's time! Sign up! https://itch.io/jam/olc-codejam-2024.",
+      "published_at": "2024-08-07T20:08:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XbLBkB9NbNk/hqdefault.jpg"
+    },
+    {
+      "title": "Tinkering With Spirographs in C++",
+      "video_id": "AY99hF3kVH8",
+      "channel_title": "javidx9",
+      "description": "In this video I use the fantastic https://pgetinker.com to build a simple interactive model of a favourite childhood toy - the spirograph ...",
+      "published_at": "2024-06-30T15:56:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AY99hF3kVH8/hqdefault.jpg"
+    },
+    {
+      "title": "DIY Programming Language #2: Tokenising with Finite State Machine",
+      "video_id": "wrj3iuRdA-M",
+      "channel_title": "javidx9",
+      "description": "In this video I use a Finite State Machine to parse complicated input into manageable tokens before feeding them to the Shunting ...",
+      "published_at": "2024-06-09T13:15:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wrj3iuRdA-M/hqdefault.jpg"
+    },
+    {
+      "title": "DIY Programming Language #1: The Shunting Yard Algorithm",
+      "video_id": "unh6aK8WMwM",
+      "channel_title": "javidx9",
+      "description": "In this video I demonstrate how the Shunting Yard Algorithm works, and produce a simple implementatin to solve basic ...",
+      "published_at": "2024-05-03T20:26:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/unh6aK8WMwM/hqdefault.jpg"
+    },
+    {
+      "title": "Embedding Lua in C++ Part 3: Meh... Just use Sol...",
+      "video_id": "ONywOoJC4TQ",
+      "channel_title": "javidx9",
+      "description": "In this video, I show how to use the excelent Sol library/wrapper to integrate Lua in your C++ program. This is shown in direct ...",
+      "published_at": "2024-03-29T22:26:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ONywOoJC4TQ/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing 2D Geometry Library",
+      "video_id": "QZFH7yrJ4H4",
+      "channel_title": "javidx9",
+      "description": "In this video, I introduce a One Lone Coder Community project called olcUTIL_Geometry2D. It's a new open source library that ...",
+      "published_at": "2024-02-04T14:58:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QZFH7yrJ4H4/hqdefault.jpg"
+    }
+  ]
+}
