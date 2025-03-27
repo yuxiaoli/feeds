@@ -6,9 +6,7 @@
   <body>
     <outline text="Track Awesome List" title="Track Awesome List" type="rss" xmlUrl="https://www.trackawesomelist.com/rss.xml" />
     <outline text="Terminal Trove" title="Terminal Trove" type="rss" xmlUrl="https://terminaltrove.com/blog.xml" />
-    <outline text="Personal blogs">
-      <outline text="Lil'Log" title="Lil'Log" type="rss" xmlUrl="https://lilianweng.github.io/index.xml" />
-    </outline>
+    <outline text="Lil'Log" title="Lil'Log" type="rss" xmlUrl="https://lilianweng.github.io/index.xml" />
     <outline text="Algo Trading 101" title="All Stories - Quantitative Trading Ideas and Guides - AlgoTrading101 Blog" type="rss" xmlUrl="https://algotrading101.com/learn/feed/" />
   </body>
 </opml>
