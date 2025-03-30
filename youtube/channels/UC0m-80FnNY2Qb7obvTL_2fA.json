@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-03-26T03:45:17.621892",
+  "fetched_at": "2025-03-30T00:27:49.971047",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Opportunity International works to end farmer poverty in Malawi with AI",
-      "video_id": "eMyPr8L2ee8",
+      "title": "MWC 2025 Microsoft Security",
+      "video_id": "cGyGQda8tGk",
       "channel_title": "Microsoft Azure",
-      "description": "Opportunity International is leveraging the power of AI to support farmers in Malawi. Through an Azure-based generative AI ...",
-      "published_at": "2025-03-25T17:36:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eMyPr8L2ee8/hqdefault.jpg"
+      "description": "Accelerate the secure adoption of AI with ready-to-go security and governance tools purpose-built for generative AI. Protect all ...",
+      "published_at": "2025-03-27T01:03:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cGyGQda8tGk/hqdefault.jpg"
     },
     {
-      "title": "AI and analytics on and off the court | NBA",
-      "video_id": "7x-smg-qr2c",
+      "title": "MWC 2025 GitHub and TM Forum",
+      "video_id": "XENiVRqYGKo",
       "channel_title": "Microsoft Azure",
-      "description": "Basketball is life. And like life, it's fast, fluid, and hard to measure. It's about movement, split-second decisions, team dynamics, fan ...",
-      "published_at": "2025-03-25T14:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7x-smg-qr2c/hqdefault.jpg"
+      "description": "Experience how GitHub Copilot and TM Forum revolutionize telecommunications by automating code generation and ...",
+      "published_at": "2025-03-27T01:04:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XENiVRqYGKo/hqdefault.jpg"
     },
     {
-      "title": "NVIDIA NIM on Azure AI Foundry",
-      "video_id": "JAj5f-s4-x4",
+      "title": "MWC 2025 Microsoft 365 Copilot",
+      "video_id": "ZglB_Qcs87M",
       "channel_title": "Microsoft Azure",
-      "description": "Watch the audio description version: https://youtu.be/_sAU4zSgKIY Deploy NVIDIA NIM microservices and optimize your AI ...",
-      "published_at": "2025-03-18T20:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JAj5f-s4-x4/hqdefault.jpg"
+      "description": "Learn how to craft effective prompts that maximize productivity and creativity. See firsthand how intelligent prompting can ...",
+      "published_at": "2025-03-27T01:03:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZglB_Qcs87M/hqdefault.jpg"
     },
     {
-      "title": "o3-mini and RAG for Financial Analysis on the Azure OpenAI Service",
-      "video_id": "iiCxcilZWUw",
+      "title": "MWC 2025 Microsoft Fabric",
+      "video_id": "VKQIXkTIk60",
       "channel_title": "Microsoft Azure",
-      "description": "Learn more about o3-mini and RAG for Financial Analysis on the Azure OpenAI Service: https://msft.it/6053UeDf3 #Microsoft ...",
-      "published_at": "2025-03-18T16:07:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iiCxcilZWUw/hqdefault.jpg"
+      "description": "Explore how telcos can scale AI with a unified data estate, unlocking powerful insights and driving innovation. Explore the ...",
+      "published_at": "2025-03-27T01:03:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VKQIXkTIk60/hqdefault.jpg"
     },
     {
-      "title": "Azure dev quiz",
-      "video_id": "A47VYZBiC0U",
+      "title": "MWC 2025 Dynamics 365 Contact Center",
+      "video_id": "TZmdYrBAwe8",
       "channel_title": "Microsoft Azure",
-      "description": "Create an Azure free account to get these benefits and more: - 12 months of free popular services - 65+ always-free services ...",
-      "published_at": "2025-02-24T17:22:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/A47VYZBiC0U/hqdefault.jpg"
+      "description": "Experience the transformative impact of the latest innovations in customer service. Learn how Copilot Agents and other advanced ...",
+      "published_at": "2025-03-27T01:02:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TZmdYrBAwe8/hqdefault.jpg"
     },
     {
-      "title": "Start innovating with advanced machine learning",
-      "video_id": "slxKbUUcsH4",
+      "title": "MWC 2025 Microsoft Agentic AI",
+      "video_id": "gtJ3tX1uXFw",
       "channel_title": "Microsoft Azure",
-      "description": "Start innovating today with advanced machine learning, natural language processing, and 22 free AI services. Create an Azure ...",
-      "published_at": "2025-02-24T17:11:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/slxKbUUcsH4/hqdefault.jpg"
+      "description": "Explore the transformative potential of Agentic AI for telecoms at MWC. See the future of intelligent telecommunications, featuring ...",
+      "published_at": "2025-03-27T01:02:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gtJ3tX1uXFw/hqdefault.jpg"
     },
     {
-      "title": "Azure built-in compliance tools help you meet industry standards",
-      "video_id": "Ttm5fbjYxMI",
+      "title": "MWC 2025 AI-driven Operations",
+      "video_id": "Tl8DfFbRnMo",
       "channel_title": "Microsoft Azure",
-      "description": "Try Microsoft Azure for free and kickstart development with 65+ always-free services. Meet industry standards with built-in Azure ...",
-      "published_at": "2025-02-24T16:57:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ttm5fbjYxMI/hqdefault.jpg"
+      "description": "Nokia's Digital Operations software uses GenAI to automate BPMN workflow generation, enhancing operational efficiency.",
+      "published_at": "2025-03-27T01:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Tl8DfFbRnMo/hqdefault.jpg"
     },
     {
-      "title": "Safeguard your apps and data with the advanced security features of Azure",
-      "video_id": "U_XRd__Ewto",
+      "title": "MWC 2025 Dynamics 365 Sales and Field Service",
+      "video_id": "5cCjeXGnCCQ",
       "channel_title": "Microsoft Azure",
-      "description": "Stay protected from code to cloud. Create an Azure account today and start with 65+ always-free services. Learn More ...",
-      "published_at": "2025-02-24T16:52:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U_XRd__Ewto/hqdefault.jpg"
+      "description": "Learn how Microsoft Dynamics 365, empowered with Copilot, enables telcos to differentiate themselves across the key telecom ...",
+      "published_at": "2025-03-27T01:02:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5cCjeXGnCCQ/hqdefault.jpg"
     },
     {
-      "title": "Automate dev maintenance with Azure",
-      "video_id": "ya7tJFVytd0",
+      "title": "MWC 2025 Azure Foundry",
+      "video_id": "2iEZ0OMZeAU",
       "channel_title": "Microsoft Azure",
-      "description": "Automate dev maintenance with Azure and free yourself to focus on innovative new projects and spend less time on routine tasks.",
-      "published_at": "2025-02-24T16:47:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ya7tJFVytd0/hqdefault.jpg"
+      "description": "Discover how multi-agent contact centers, network operations powered by the Azure OpenAI o-series model, and enhanced ...",
+      "published_at": "2025-03-27T01:02:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2iEZ0OMZeAU/hqdefault.jpg"
     },
     {
-      "title": "Scale your cloud resources automatically",
-      "video_id": "RtTUEZlKj2M",
+      "title": "MWC 2025 Proactive Threat Discovery",
+      "video_id": "cHYlrrLLEkI",
       "channel_title": "Microsoft Azure",
-      "description": "Microsoft Azure helps you handle workload spikes without sacrificing performance. Scale your cloud resources automatically.",
-      "published_at": "2025-02-24T16:34:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RtTUEZlKj2M/hqdefault.jpg"
+      "description": "The integrated AI-powered Hunt Assistant within Nokia's NetGuard Cybersecurity Dome helps CSP security teams proactively ...",
+      "published_at": "2025-03-27T00:59:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cHYlrrLLEkI/hqdefault.jpg"
     }
   ]
 }

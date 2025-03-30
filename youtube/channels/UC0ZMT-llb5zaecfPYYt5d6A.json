@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-03-26T03:45:16.822221",
+  "fetched_at": "2025-03-30T00:27:49.273566",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "Back in the silo 👀 #newmusic",
+      "video_id": "M_G2dx5t6cc",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2025-03-27T14:54:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M_G2dx5t6cc/hqdefault.jpg"
+    },
     {
       "title": "Anybody heard this live? It’s one of our favorites🙌🏼 #countryband",
       "video_id": "9Eyy1vC_o7E",
@@ -75,14 +83,6 @@
       "description": "The Castellows - Place They Call Home (feat. Flatland Cavalry) [Lyric Video] Listen to the EP Playlist: ...",
       "published_at": "2025-01-24T15:01:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lRJnhfM3iRc/hqdefault.jpg"
-    },
-    {
-      "title": "‘Place They Call Home’ - feat. @FlatlandCavalry is out now!! #countrymusic #shorts",
-      "video_id": "h5D90PG8SiI",
-      "channel_title": "The Castellows",
-      "description": "",
-      "published_at": "2025-01-24T12:01:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h5D90PG8SiI/hqdefault.jpg"
     }
   ]
 }

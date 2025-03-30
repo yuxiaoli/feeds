@@ -1,0 +1,88 @@
+{
+  "fetched_at": "2025-03-30T00:28:33.038510",
+  "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
+  "channel_title": "DeepLearningAI",
+  "count": 10,
+  "videos": [
+    {
+      "title": "AI Dev 25 | Bilge Yücel: Building and Deploying Agentic Workflows with Haystack",
+      "video_id": "tKyvkU69Ers",
+      "channel_title": "DeepLearningAI",
+      "description": "Building an AI agent is exciting—but taking it from prototype to production requires more than just an LLM. In this talk, Bilge Yücel, ...",
+      "published_at": "2025-03-27T19:12:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tKyvkU69Ers/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 | Krishna Sridhar: Shifting Paradigms—The Move of AI&#39;s Center of Gravity to Edge Devices",
+      "video_id": "UkgMVkj1kdM",
+      "channel_title": "DeepLearningAI",
+      "description": "AI is undergoing a major shift—from cloud-based processing to on-device intelligence. In this talk, Krishna Sridhar, Vice President ...",
+      "published_at": "2025-03-27T19:06:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UkgMVkj1kdM/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 | Aman Khan: Beyond Vibe Checks—Rethinking How We Evaluate AI Agent Performance",
+      "video_id": "GzxdGpFhn04",
+      "channel_title": "DeepLearningAI",
+      "description": "A great demo is just the starting point—getting AI agents to perform reliably in production is the real challenge. In his AI Dev 25 ...",
+      "published_at": "2025-03-27T19:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GzxdGpFhn04/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 | Apoorva Joshi: Building Agents That Learn—Managing Memory in AI Agents",
+      "video_id": "30Ofh-Myte4",
+      "channel_title": "DeepLearningAI",
+      "description": "AI agents are redefining what's possible with LLM-powered applications—moving beyond automation toward systems that can ...",
+      "published_at": "2025-03-27T18:49:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/30Ofh-Myte4/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 | Kate Blair &amp; Ismael Faro: The future of agent interoperability",
+      "video_id": "KBUDhgxLND8",
+      "channel_title": "DeepLearningAI",
+      "description": "AI agents are being developed at an unprecedented pace—but today's landscape is fragmented, with incompatible frameworks ...",
+      "published_at": "2025-03-27T18:39:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KBUDhgxLND8/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 | Sharon Zhou &amp; Mahdi Ghodsi: Run Deepseek Reasoning and Finetuning on AMD GPUs w/ Lamini",
+      "video_id": "MohMkvTRjjA",
+      "channel_title": "DeepLearningAI",
+      "description": "In this workshop, Sharon Zhou (CEO & Founder, Lamini) and Mahdi Ghodsi (AI Solution Architect, AMD) demonstrate how to run ...",
+      "published_at": "2025-03-27T18:33:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MohMkvTRjjA/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 | Jeff Huber: Teach Chroma how to play Doom",
+      "video_id": "CK5QGWUf1vo",
+      "channel_title": "DeepLearningAI",
+      "description": "Can a retrieval system learn to play Doom? In this lighthearted and insightful session, Jeff Huber, Founder and CEO of Chroma, ...",
+      "published_at": "2025-03-27T18:23:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CK5QGWUf1vo/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 | Mike Chambers: Serverless Agentic Workflows with Amazon Bedrock",
+      "video_id": "8yHVfM_E39w",
+      "channel_title": "DeepLearningAI",
+      "description": "In his hands-on workshop at AI Dev 25, Mike Chambers, Developer Advocate for Generative AI at AWS, guided participants ...",
+      "published_at": "2025-03-27T18:15:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8yHVfM_E39w/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 | Harrison Chase: Long Term Memory with LangGraph",
+      "video_id": "R0OdB-p-ns4",
+      "channel_title": "DeepLearningAI",
+      "description": "How do you build AI agents that remember, learn, and adapt over time? During AI Dev 25, Harrison Chase, Co-founder and CEO ...",
+      "published_at": "2025-03-27T18:07:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R0OdB-p-ns4/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 | João Moura &amp; Graham Steele: Real AI Agents in Action Automate, Adapt, and Scale",
+      "video_id": "AMsmgJlVhmg",
+      "channel_title": "DeepLearningAI",
+      "description": "AI isn't just about automation—it's about building intelligent systems that can reason, adapt, and deliver real-world value.",
+      "published_at": "2025-03-27T17:54:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AMsmgJlVhmg/hqdefault.jpg"
+    }
+  ]
+}

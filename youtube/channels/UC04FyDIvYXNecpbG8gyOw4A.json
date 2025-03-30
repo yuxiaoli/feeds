@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-03-26T03:45:16.018485",
+  "fetched_at": "2025-03-30T00:27:48.552811",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "what&#39;s great about Quest 3S is it works for a boy or a girl",
+      "video_id": "OwlU4fbO1Hw",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2025-03-26T17:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OwlU4fbO1Hw/hqdefault.jpg"
+    },
     {
       "title": "Farm Simulator now available for Meta Quest 2, 3, and 3S",
       "video_id": "o9V1v-G27CE",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-02-19T17:41:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/31CSLonv748/hqdefault.jpg"
-    },
-    {
-      "title": "Can Meta AI make me a Casanova?",
-      "video_id": "rUptXwbmZm0",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-02-13T20:54:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rUptXwbmZm0/hqdefault.jpg"
     }
   ]
 }

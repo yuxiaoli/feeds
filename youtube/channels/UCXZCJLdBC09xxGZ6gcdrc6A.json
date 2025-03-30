@@ -1,0 +1,88 @@
+{
+  "fetched_at": "2025-03-30T00:28:27.024126",
+  "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+  "channel_title": "OpenAI",
+  "count": 10,
+  "videos": [
+    {
+      "title": "Character Consistency with 4o Image Generation",
+      "video_id": "PFsOUNfBhzI",
+      "channel_title": "OpenAI",
+      "description": "Speaker: dmed Medina.",
+      "published_at": "2025-03-25T18:21:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PFsOUNfBhzI/hqdefault.jpg"
+    },
+    {
+      "title": "Text Rendering with 4o Image Generation",
+      "video_id": "NO7Uo2ii1Sw",
+      "channel_title": "OpenAI",
+      "description": "Speaker: Allan Jabri.",
+      "published_at": "2025-03-25T18:20:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NO7Uo2ii1Sw/hqdefault.jpg"
+    },
+    {
+      "title": "Detailed Directions with 4o Image Generation",
+      "video_id": "ELwb_emN1p0",
+      "channel_title": "OpenAI",
+      "description": "Speaker: Kenji Hata.",
+      "published_at": "2025-03-25T18:20:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ELwb_emN1p0/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI 4o Image Generation",
+      "video_id": "E9RN8jX--uc",
+      "channel_title": "OpenAI",
+      "description": "",
+      "published_at": "2025-03-25T18:20:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E9RN8jX--uc/hqdefault.jpg"
+    },
+    {
+      "title": "Transparent Layers with 4o Image Generation",
+      "video_id": "tMhAASk9i1o",
+      "channel_title": "OpenAI",
+      "description": "Speaker: Jianfeng Wang.",
+      "published_at": "2025-03-25T18:19:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tMhAASk9i1o/hqdefault.jpg"
+    },
+    {
+      "title": "Visual Restyling with 4o Image Generation",
+      "video_id": "jevonM6gBcA",
+      "channel_title": "OpenAI",
+      "description": "Speaker: Lu Liu.",
+      "published_at": "2025-03-25T18:19:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jevonM6gBcA/hqdefault.jpg"
+    },
+    {
+      "title": "4o Image Generation in ChatGPT and Sora",
+      "video_id": "2f3K43FHRKo",
+      "channel_title": "OpenAI",
+      "description": "Sam Altman, Gabriel Goh, Prafulla Dhariwal, Lu Liu, Allan Jabri, and Mengchao Zhong introduce and demo 4o image generation.",
+      "published_at": "2025-03-25T18:18:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2f3K43FHRKo/hqdefault.jpg"
+    },
+    {
+      "title": "New ChatGPT voice mode updates ⬇️",
+      "video_id": "mm4djPNO8os",
+      "channel_title": "OpenAI",
+      "description": "ChatGPT's voice mode now interrupts you less so you can take pauses and gather your thoughts. This update is available for all ...",
+      "published_at": "2025-03-24T20:58:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mm4djPNO8os/hqdefault.jpg"
+    },
+    {
+      "title": "How Protopica uses remix and blend in Sora",
+      "video_id": "HvXVkdiWqcA",
+      "channel_title": "OpenAI",
+      "description": "To celebrate Protopica's first journey around the sun, Manuel Sainsily & Will Selviz partnered with OpenAI's Sora to break down ...",
+      "published_at": "2025-03-24T19:04:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HvXVkdiWqcA/hqdefault.jpg"
+    },
+    {
+      "title": "Booking.com personalizes travel at scale with AI-powered experiences",
+      "video_id": "yUVL76cGXA4",
+      "channel_title": "OpenAI",
+      "description": "What happens when one of the world's largest travel platforms meets the world's most powerful AI models? A new era of ...",
+      "published_at": "2025-03-21T06:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yUVL76cGXA4/hqdefault.jpg"
+    }
+  ]
+}

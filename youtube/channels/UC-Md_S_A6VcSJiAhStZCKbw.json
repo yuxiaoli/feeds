@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-03-26T03:45:14.525809",
+  "fetched_at": "2025-03-30T00:27:47.137714",
   "channel_id": "UC-Md_S_A6VcSJiAhStZCKbw",
   "channel_title": "Jordi Koalitic",
   "count": 10,
   "videos": [
+    {
+      "title": "Fullmetal alchemist inspired 👀 shot w @NikonEurope #nikonZ9 #photography",
+      "video_id": "n9qkdF5UldU",
+      "channel_title": "Jordi Koalitic",
+      "description": "",
+      "published_at": "2025-03-28T13:55:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/n9qkdF5UldU/hqdefault.jpg"
+    },
     {
       "title": "How to Shoot Cinematic Videos with Insta360 Ace Pro 2",
       "video_id": "l-MNoOLS3lk",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-02-27T13:48:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fbqLX1hH6ok/hqdefault.jpg"
-    },
-    {
-      "title": "Chasing Light ✨📸 shot w @NikonEurope #nikonz9 #perspective #photography",
-      "video_id": "4ymSlxVHVsM",
-      "channel_title": "Jordi Koalitic",
-      "description": "",
-      "published_at": "2025-02-25T13:22:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4ymSlxVHVsM/hqdefault.jpg"
     }
   ]
 }

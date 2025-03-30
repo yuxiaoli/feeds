@@ -1,0 +1,88 @@
+{
+  "fetched_at": "2025-03-30T00:28:09.505724",
+  "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
+  "channel_title": "码农高天",
+  "count": 10,
+  "videos": [
+    {
+      "title": "面对无法本地复现的bug，只好尸检了！",
+      "video_id": "BoGsBGXQ4CA",
+      "channel_title": "码农高天",
+      "description": "这期视频介绍一下什么是post mortem debugging，以及最近写的Python的post mortem debugging工具coredumpy。它可以把你 ...",
+      "published_at": "2025-03-15T03:30:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BoGsBGXQ4CA/hqdefault.jpg"
+    },
+    {
+      "title": "【火柴人vs编程】Python核心开发者全解析",
+      "video_id": "-WJXmtcE5BU",
+      "channel_title": "码农高天",
+      "description": "在小伙伴的催促下看了Alan Becker的火柴人vs编程，动画简单又精彩，那就来给大家讲解一下其中的代码吧！",
+      "published_at": "2025-03-02T03:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-WJXmtcE5BU/hqdefault.jpg"
+    },
+    {
+      "title": "PyCon是什么，为什么我玩的这么开心！",
+      "video_id": "Y7uqHx8FJgo",
+      "channel_title": "码农高天",
+      "description": "PyCon US 2025今天发布了行程，大家来一起玩啊！",
+      "published_at": "2025-03-01T04:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y7uqHx8FJgo/hqdefault.jpg"
+    },
+    {
+      "title": "这五行Python程序的结果，谁都不可能猜得到",
+      "video_id": "ltCNkcl9HGI",
+      "channel_title": "码农高天",
+      "description": "短短的五行程序都猜不到结果？这里面可有不少学问。从PEP 709到PEP 667，多少个改动凑到一起才触发了这个特殊的案例？",
+      "published_at": "2025-02-22T03:30:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ltCNkcl9HGI/hqdefault.jpg"
+    },
+    {
+      "title": "【python】引用计数机制中循环引用可能带来的问题",
+      "video_id": "sy0FXlhnX0c",
+      "channel_title": "码农高天",
+      "description": "Python是一门有垃圾回收机制的语言，而这个机制的核心是引用计数。然而引用计数并不能解决一切，循环引用就是最常见的一个 ...",
+      "published_at": "2025-02-04T04:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sy0FXlhnX0c/hqdefault.jpg"
+    },
+    {
+      "title": "一到年底就愁，这$1500该怎么花！",
+      "video_id": "Cg7OjUxdX3o",
+      "channel_title": "码农高天",
+      "description": "每年年底都要想着微软给的这1500刀的报销额度应该怎么用，和大家分享一下什么叫perks！",
+      "published_at": "2024-12-22T04:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cg7OjUxdX3o/hqdefault.jpg"
+    },
+    {
+      "title": "用注释对测试进行分类？这给你能的！",
+      "video_id": "uPd8z0hT6qY",
+      "channel_title": "码农高天",
+      "description": "有的时候我们需要对我们的测试进行分类，然后在不同的环境和场合下运行不同的测试集。这次我和大家分享一下我在工作中遇到的 ...",
+      "published_at": "2024-12-13T10:30:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uPd8z0hT6qY/hqdefault.jpg"
+    },
+    {
+      "title": "想做个人开源项目，应该如何选择方向？",
+      "video_id": "Lxn0nswTS4M",
+      "channel_title": "码农高天",
+      "description": "很多程序员都会想做一个自己的开源项目，这其中最重要的一步就是选对方向。这期视频就来聊一下，个人开源项目应该做什么样的 ...",
+      "published_at": "2024-11-30T05:30:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lxn0nswTS4M/hqdefault.jpg"
+    },
+    {
+      "title": "【Code Review】把异步写成同步？async可未必就异步了！",
+      "video_id": "makiSlq3MLs",
+      "channel_title": "码农高天",
+      "description": "Code Review是提升代码水平最快的方式之一，这期视频我们review一个比较复杂的项目的一部分。这个代码使用了异步的架构， ...",
+      "published_at": "2024-11-23T04:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/makiSlq3MLs/hqdefault.jpg"
+    },
+    {
+      "title": "【python】C扩展里这些METH_都是干啥的？聊聊C模块的方法传参",
+      "video_id": "FkvUcWnDgXk",
+      "channel_title": "码农高天",
+      "description": "可能有很多人并不知道Python的C extension里，当我们定义一个面向Python的方法的时候，给的这个参数是什么意思，分别对应了 ...",
+      "published_at": "2024-11-16T04:30:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FkvUcWnDgXk/hqdefault.jpg"
+    }
+  ]
+}

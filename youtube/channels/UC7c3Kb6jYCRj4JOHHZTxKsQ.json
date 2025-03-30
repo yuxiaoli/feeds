@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-03-26T03:45:23.020654",
+  "fetched_at": "2025-03-30T00:27:56.570455",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Rubber Duck Thursdays - Let&#39;s get building!",
-      "video_id": "pkVM76jhqdk",
+      "title": "Transform your code with GitHub Copilot Chat: Rock paper scissors GUI example",
+      "video_id": "gU8gLtoSkz0",
       "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we work on some projects and do some live coding ...",
-      "published_at": "2025-03-25T15:35:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pkVM76jhqdk/hqdefault_live.jpg"
-    },
-    {
-      "title": "Next Edit Suggestions in Visual Studio Code explained | GitHub Checkout",
-      "video_id": "Ey_VsxtLB40",
-      "channel_title": "GitHub",
-      "description": "GitHub Copilot's Next Edit Suggestions is reshaping how developers interact with their editor. In this GitHub Checkout episode, ...",
-      "published_at": "2025-03-25T13:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ey_VsxtLB40/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays! Yee haw, let&#39;s cowork!",
-      "video_id": "w7XjdsSIHW0",
-      "channel_title": "GitHub",
-      "description": "Come hang out with us and talk open source, hiring, and perhaps code on something cool.",
-      "published_at": "2025-03-24T14:54:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w7XjdsSIHW0/hqdefault_live.jpg"
-    },
-    {
-      "title": "GitHub Copilot Chat arrives for Xcode and Eclipse users",
-      "video_id": "C68maFJfPzo",
-      "channel_title": "GitHub",
-      "description": "GitHub Copilot Chat is expanding its reach to Xcode (general availability) and Eclipse (public preview). Now developers can ...",
-      "published_at": "2025-03-23T14:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/C68maFJfPzo/hqdefault.jpg"
-    },
-    {
-      "title": "How charity: water uses GitHub to bring clean water to millions",
-      "video_id": "kHO1OvfOR7s",
-      "channel_title": "GitHub",
-      "description": "charity: water is not just a nonprofit; it's a tech-driven force for change. By using an in-house engineering team and partnering with ...",
-      "published_at": "2025-03-22T11:48:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kHO1OvfOR7s/hqdefault.jpg"
-    },
-    {
-      "title": "The Download: Copilot Vision input, TypeScript is 10x faster, and open source gaming",
-      "video_id": "kIyXwN16uWw",
-      "channel_title": "GitHub",
-      "description": "GitHub's The Download brings you this week's biggest tech stories, from Copilot Chat gaining vision input and expanding to new ...",
-      "published_at": "2025-03-20T13:01:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kIyXwN16uWw/hqdefault.jpg"
-    },
-    {
-      "title": "How to get noticed by venture capitalists #shorts",
-      "video_id": "3EL8ubXTfzo",
-      "channel_title": "GitHub",
-      "description": "In this video Dani Grant shares how to get noticed by VCs without a network, focusing on being compelling rather than just selling.",
-      "published_at": "2025-03-09T13:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3EL8ubXTfzo/hqdefault.jpg"
-    },
-    {
-      "title": "Copilot agent mode new features in Visual Studio Code | GitHub Checkout",
-      "video_id": "aKx5I0Mrr9g",
-      "channel_title": "GitHub",
-      "description": "In this GitHub Checkout episode, we explore the latest updates to GitHub Copilot's agent mode in Visual Studio Code, ...",
-      "published_at": "2025-03-04T14:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aKx5I0Mrr9g/hqdefault.jpg"
-    },
-    {
-      "title": "GitHub’s Copilot SDK: bring AI to your favorite IDE",
-      "video_id": "aLE0ezV_Wpw",
-      "channel_title": "GitHub",
-      "description": "GitHub has released exciting updates to GitHub Copilot, including the powerful new language server SDK and Agent Mode in VS ...",
-      "published_at": "2025-02-27T14:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aLE0ezV_Wpw/hqdefault.jpg"
+      "description": "GitHub Copilot Chat goes beyond simple code completion. Follow along as we use one prompt to transform a text-based rock ...",
+      "published_at": "2025-03-29T14:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gU8gLtoSkz0/hqdefault.jpg"
     },
     {
       "title": "Open Source Friday with Piotr Skalski: Exploring Supervision",
       "video_id": "Ya9hTzAI91I",
       "channel_title": "GitHub",
       "description": "We're excited to announce our upcoming Open Source Friday livestream featuring Piotr Skalski (@SkalskiP), Open-Source Lead ...",
-      "published_at": "2025-02-26T21:49:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ya9hTzAI91I/hqdefault_live.jpg"
+      "published_at": "2025-03-29T06:40:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ya9hTzAI91I/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday with Open Healthcare Network&#39;s Bodhish Thomas",
+      "video_id": "ukMuK_eq8Rw",
+      "channel_title": "GitHub",
+      "description": "With a community of over 900 contributors, the Open Healthcare Network supports more than 200 Intensive Care Units across 9 ...",
+      "published_at": "2025-03-28T23:57:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ukMuK_eq8Rw/hqdefault.jpg"
+    },
+    {
+      "title": "Clean water, powered by code: GitHub x charity:water",
+      "video_id": "4Q6eyzdljQk",
+      "channel_title": "GitHub",
+      "description": "charity:water is changing the nonprofit tech landscape with their in-house engineering team and GitHub collaboration.",
+      "published_at": "2025-03-28T14:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4Q6eyzdljQk/hqdefault.jpg"
+    },
+    {
+      "title": "The Download: Copilot Edits in JetBrains, GIMP 3.0, and humanoid assistants",
+      "video_id": "hhCMggZXQYU",
+      "channel_title": "GitHub",
+      "description": "From development environments to futuristic robotics, The Download brings this week's tech spectrum into focus. See how GitHub ...",
+      "published_at": "2025-03-28T13:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hhCMggZXQYU/hqdefault.jpg"
+    },
+    {
+      "title": "Event in Spanish: GitHub Presente IA con Carlos Alarcon",
+      "video_id": "9JePc2HP7Ew",
+      "channel_title": "GitHub",
+      "description": "Carlos Andrés Alarcón, Microsoft MVP en AI/ML, Google Developer Expert y actual CTO de Quix, presentará en GitHub Presente: ...",
+      "published_at": "2025-03-28T10:20:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9JePc2HP7Ew/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays! Yee haw, let&#39;s cowork!",
+      "video_id": "w7XjdsSIHW0",
+      "channel_title": "GitHub",
+      "description": "Come hang out with us and talk open source, hiring, and perhaps code on something cool.",
+      "published_at": "2025-03-28T07:16:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w7XjdsSIHW0/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays - Let&#39;s get building!",
+      "video_id": "pkVM76jhqdk",
+      "channel_title": "GitHub",
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we work on some projects and do some live coding ...",
+      "published_at": "2025-03-27T23:57:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pkVM76jhqdk/hqdefault.jpg"
+    },
+    {
+      "title": "[pt-BR] Open Source Friday Brasil com Wheslley Bezerra, BuildCLI",
+      "video_id": "xIta7QGBDdY",
+      "channel_title": "GitHub",
+      "description": "O Open Source Friday Brasil desta semana recebe Wheslley Bezerra, criador do BuildCLI, uma ferramenta de linha de comando ...",
+      "published_at": "2025-03-27T23:15:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xIta7QGBDdY/hqdefault_live.jpg"
+    },
+    {
+      "title": "GitHub Copilot&#39;s hidden power: Using slash commands",
+      "video_id": "Qj42xngx4Qo",
+      "channel_title": "GitHub",
+      "description": "GitHub Copilot Chat just got more powerful with slash commands. Learn how typing a simple \"/\" opens a world of instant coding ...",
+      "published_at": "2025-03-26T14:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qj42xngx4Qo/hqdefault.jpg"
     }
   ]
 }

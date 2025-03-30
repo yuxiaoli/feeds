@@ -1,64 +1,32 @@
 {
-  "fetched_at": "2025-03-26T03:45:24.790873",
+  "fetched_at": "2025-03-30T00:28:00.974140",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 10,
   "videos": [
     {
-      "title": "Exploring the Power of Control Rig for Animation in Unreal Engine 5.4 | Unreal Fest Gold Coast 2024",
-      "video_id": "kO6pz8ADgcU",
+      "title": "Unreal Fellowship: Animation | Showcase – Part 1 (2024)",
+      "video_id": "K3r8KTS8iLU",
       "channel_title": "Unreal Engine",
-      "description": "In this session, we'll explore the Power of Control Rig to build advanced animation rigs in Unreal Engine 5.4. We'll dive deep into ...",
-      "published_at": "2025-03-21T11:29:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kO6pz8ADgcU/hqdefault.jpg"
+      "description": "At the end of last year, 12 CG professionals explored real-time animation with Unreal Engine and MetaHuman during the ...",
+      "published_at": "2025-03-28T14:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K3r8KTS8iLU/hqdefault.jpg"
     },
     {
-      "title": "Exploring the New State Tree for AI | Unreal Fest Gold Coast 2024",
-      "video_id": "U8CkmOJg93M",
+      "title": "Creating Classic MMO Mechanics in UE: Ruins of Tearyn | Inside Unreal",
+      "video_id": "9YOA3cONmGI",
       "channel_title": "Unreal Engine",
-      "description": "This talk will explore the new experimental State Tree feature for AI development. Learn the strength and limitations of State Tree ...",
-      "published_at": "2025-03-21T11:29:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U8CkmOJg93M/hqdefault.jpg"
+      "description": "The team behind the double MegaGrant winning Vertical Third toolset has started purposing those same tools for their own ...",
+      "published_at": "2025-03-27T20:14:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9YOA3cONmGI/hqdefault.jpg"
     },
     {
-      "title": "Implementing a Quality Cloud CI System Using Horde | Unreal Fest Gold Coast 2024",
-      "video_id": "uL-zTweiJ6s",
+      "title": "Clair Obscur: Expedition 33 | Game Profile | Unreal Engine",
+      "video_id": "3qAGdaklVyQ",
       "channel_title": "Unreal Engine",
-      "description": "Join Playside Studios as they delve into the intricate development of navigation technology within the immersive world of Age of ...",
-      "published_at": "2025-03-21T11:29:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uL-zTweiJ6s/hqdefault.jpg"
-    },
-    {
-      "title": "Where We’re Going, We Need Roads: The Tech Art of Rocket Racing | Unreal Fest Gold Coast 2024",
-      "video_id": "qVibULxaqZ4",
-      "channel_title": "Unreal Engine",
-      "description": "Rocket Racing is a supersonic arcade racer that lets you drift, fly, and boost through an ever-growing selection of tracks.",
-      "published_at": "2025-03-21T11:29:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qVibULxaqZ4/hqdefault.jpg"
-    },
-    {
-      "title": "Learnings from The Amazing Digital Circus and Murder Drones | Unreal Fest Gold Coast 2024",
-      "video_id": "uzTo5vQchkk",
-      "channel_title": "Unreal Engine",
-      "description": "Glitch Productions is an indie animation company that distributes direct to audiences on YouTube with over eight million ...",
-      "published_at": "2025-03-21T11:29:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uzTo5vQchkk/hqdefault.jpg"
-    },
-    {
-      "title": "You’re Probably Lighting Wrong: Physically Based Lighting in UE5 | Unreal Fest Gold Coast 2024",
-      "video_id": "nlbJwMoj1Dg",
-      "channel_title": "Unreal Engine",
-      "description": "Join Sean Gobey for an end-to-end overview on lighting and how to make your projects shine in Unreal Engine. Unreal Engine ...",
-      "published_at": "2025-03-21T11:29:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nlbJwMoj1Dg/hqdefault.jpg"
-    },
-    {
-      "title": "UE India Sizzle 2024",
-      "video_id": "TViN3cq2dGI",
-      "channel_title": "Unreal Engine",
-      "description": "Our creators in India took full advantage of the Unreal Engine toolkit last year! Feast your eyes on some of the incredible projects ...",
-      "published_at": "2025-03-20T17:03:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TViN3cq2dGI/hqdefault.jpg"
+      "description": "Watch this video and discover how Sandfall Interactive used UE5 on 'Clair Obscur: Expedition 33'. Sandfall Interactive is on the ...",
+      "published_at": "2025-03-27T13:55:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3qAGdaklVyQ/hqdefault.jpg"
     },
     {
       "title": "From VFX to VAD: Artists’ Journeys with Unreal Engine | Unreal Fest 2024",
@@ -83,6 +51,38 @@
       "description": "Watch this video and learn how to use MetaHuman Animator to produce facial animation for your digital human in minutes.",
       "published_at": "2023-06-15T14:18:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WWLF-a68-CE/hqdefault.jpg"
+    },
+    {
+      "title": "Blue Dot: A 3Lateral Showcase of MetaHuman Animator",
+      "video_id": "bIGnx2jvrbg",
+      "channel_title": "Unreal Engine",
+      "description": "Introducing Blue Dot, a short film created by Epic Games' 3Lateral team in collaboration with local Serbian artists, including ...",
+      "published_at": "2023-06-15T14:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bIGnx2jvrbg/hqdefault.jpg"
+    },
+    {
+      "title": "Discover the Hillside Sample Project | Inside Unreal",
+      "video_id": "rf9JJkL855U",
+      "channel_title": "Unreal Engine",
+      "description": "Explore 'Hillside,' the original vision for Habitat 67 by Safdie Architects. The iconic design revolutionized the architecture industry ...",
+      "published_at": "2023-05-26T02:27:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rf9JJkL855U/hqdefault.jpg"
+    },
+    {
+      "title": "Exploring the Hillside Sample Project with Safdie Architects and Neoscape | Unreal Engine",
+      "video_id": "D55T_v8039s",
+      "channel_title": "Unreal Engine",
+      "description": "The Hillside Sample Project is a virtual recreation of Moshe Safdie's original vision for Habitat 67, one of the most important ...",
+      "published_at": "2023-05-17T10:55:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D55T_v8039s/hqdefault.jpg"
+    },
+    {
+      "title": "Hillside Sample Project Cinematic in Unreal Engine",
+      "video_id": "n95pKxYoLbA",
+      "channel_title": "Unreal Engine",
+      "description": "Watch a beautifully animated tour of the Hillside Sample Project, a virtual recreation of Moshe Safdie's original vision for ...",
+      "published_at": "2023-05-17T10:55:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/n95pKxYoLbA/hqdefault.jpg"
     }
   ]
 }
