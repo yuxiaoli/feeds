@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-03-30T00:27:53.652966",
+  "fetched_at": "2025-04-06T00:27:51.016546",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Every decision you make with concrete is literally set in stone! #imagineering",
+      "video_id": "maaR6sENTzw",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "",
+      "published_at": "2025-04-04T19:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/maaR6sENTzw/hqdefault.jpg"
+    },
+    {
+      "title": "Happy birthday to Disney Legend Marc Davis! #imagineering",
+      "video_id": "f4WyBxjkrrc",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "",
+      "published_at": "2025-03-31T18:19:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f4WyBxjkrrc/hqdefault.jpg"
+    },
     {
       "title": "Imagineers recently tested new gameplay elements for Buzz Lightyear&#39;s Space Ranger Spin!",
       "video_id": "wRc-jShphtU",
@@ -67,22 +83,6 @@
       "description": "We're taking you behind the scenes of ride innovation like never before—are you ready?",
       "published_at": "2025-03-09T15:00:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/VEIFAyd9bFk/hqdefault.jpg"
-    },
-    {
-      "title": "Meet Cristina!",
-      "video_id": "6Sjvz0-_HlI",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "Cristina, Senior Project Engineer at Imagineering, is here for a 60-second Q&A! ⏱  #WICweek.",
-      "published_at": "2025-03-06T16:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6Sjvz0-_HlI/hqdefault.jpg"
-    },
-    {
-      "title": "Meet Megan, associate construction manager and certified Big Al fan! 🐻🎶",
-      "video_id": "hJJxZWD0_G0",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "She helped with the facility work for Country Bear Musical Jamboree. ✨ #WICweek.",
-      "published_at": "2025-03-05T16:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hJJxZWD0_G0/hqdefault.jpg"
     }
   ]
 }

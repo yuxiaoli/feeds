@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-03-30T00:28:37.317850",
+  "fetched_at": "2025-04-06T00:28:34.746889",
   "channel_id": "UCgLUl1WDoDXUtxPaZeSZHsw",
   "channel_title": "李自然说",
   "count": 10,
   "videos": [
+    {
+      "title": "我们终将见证绘画艺术的衰亡",
+      "video_id": "MEu25V2ou6o",
+      "channel_title": "李自然说",
+      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
+      "published_at": "2025-04-02T07:22:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MEu25V2ou6o/hqdefault.jpg"
+    },
     {
       "title": "DeepSeek低调放大招 协议变化要关注",
       "video_id": "Mp72onydytk",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-03-18T12:15:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/RRgiP0KouLM/hqdefault.jpg"
-    },
-    {
-      "title": "守望先锋OWL死亡真相：电竞史最大崩盘案例深度复盘",
-      "video_id": "GTiuyfx8E6U",
-      "channel_title": "李自然说",
-      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
-      "published_at": "2025-03-12T03:39:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GTiuyfx8E6U/hqdefault.jpg"
     }
   ]
 }

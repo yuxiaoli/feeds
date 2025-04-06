@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-03-30T00:28:28.418800",
+  "fetched_at": "2025-04-06T00:28:26.276069",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "BMW Deployment Update",
+      "video_id": "WoXCHr1IaTM",
+      "channel_title": "Figure",
+      "description": "",
+      "published_at": "2025-03-31T14:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WoXCHr1IaTM/hqdefault.jpg"
+    },
     {
       "title": "Introducing Natural Walking",
       "video_id": "z6KiwXT_yAM",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2024-03-13T13:59:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Sq1QZB5baNw/hqdefault.jpg"
-    },
-    {
-      "title": "Figure Status Update - Real World Task",
-      "video_id": "gEjXcEU3Bbw",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2024-02-26T18:26:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gEjXcEU3Bbw/hqdefault.jpg"
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-03-30T00:27:56.570455",
+  "fetched_at": "2025-04-06T00:27:53.803642",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Transform your code with GitHub Copilot Chat: Rock paper scissors GUI example",
-      "video_id": "gU8gLtoSkz0",
+      "title": "Banking on Open Source with TD Bank&#39;s OSPO",
+      "video_id": "5IZsUkTfOy4",
       "channel_title": "GitHub",
-      "description": "GitHub Copilot Chat goes beyond simple code completion. Follow along as we use one prompt to transform a text-based rock ...",
-      "published_at": "2025-03-29T14:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gU8gLtoSkz0/hqdefault.jpg"
+      "description": "Join us for an exclusive Open Source Friday featuring Mark Paulsen, Head of TD Bank's Open Source Program Office. Discover ...",
+      "published_at": "2025-04-05T05:58:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5IZsUkTfOy4/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Piotr Skalski: Exploring Supervision",
-      "video_id": "Ya9hTzAI91I",
+      "title": "[pt-BR]Open Source Brasil - Agenda tech",
+      "video_id": "hB2rDwhipyY",
       "channel_title": "GitHub",
-      "description": "We're excited to announce our upcoming Open Source Friday livestream featuring Piotr Skalski (@SkalskiP), Open-Source Lead ...",
-      "published_at": "2025-03-29T06:40:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ya9hTzAI91I/hqdefault.jpg"
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2025-04-05T04:54:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hB2rDwhipyY/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Open Healthcare Network&#39;s Bodhish Thomas",
-      "video_id": "ukMuK_eq8Rw",
+      "title": "[pt-BR] Open Source Friday Brasil com Marcio Junior Vieira, mantenedor do Tropen!",
+      "video_id": "MaTfZXYCTic",
       "channel_title": "GitHub",
-      "description": "With a community of over 900 contributors, the Open Healthcare Network supports more than 200 Intensive Care Units across 9 ...",
-      "published_at": "2025-03-28T23:57:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ukMuK_eq8Rw/hqdefault.jpg"
+      "description": "Nesta edição do Open Source Friday Brasil, nosso convidado será Marcio Junior Vieira, mantenedor do Tropen! O Tropen é ...",
+      "published_at": "2025-04-04T16:05:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MaTfZXYCTic/hqdefault.jpg"
     },
     {
-      "title": "Clean water, powered by code: GitHub x charity:water",
-      "video_id": "4Q6eyzdljQk",
+      "title": "How open source powers charity:water&#39;s global impact",
+      "video_id": "CuYj8MJyQpU",
       "channel_title": "GitHub",
-      "description": "charity:water is changing the nonprofit tech landscape with their in-house engineering team and GitHub collaboration.",
-      "published_at": "2025-03-28T14:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4Q6eyzdljQk/hqdefault.jpg"
+      "description": "charity:water demonstrates how modern nonprofits can use technology to scale their mission. By collaborating with the open ...",
+      "published_at": "2025-04-04T14:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CuYj8MJyQpU/hqdefault.jpg"
     },
     {
-      "title": "The Download: Copilot Edits in JetBrains, GIMP 3.0, and humanoid assistants",
-      "video_id": "hhCMggZXQYU",
+      "title": "GitHub Issues update: From subtasks to advanced search",
+      "video_id": "hcVNOR_BNMQ",
       "channel_title": "GitHub",
-      "description": "From development environments to futuristic robotics, The Download brings this week's tech spectrum into focus. See how GitHub ...",
-      "published_at": "2025-03-28T13:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hhCMggZXQYU/hqdefault.jpg"
+      "description": "GitHub Issues has been how the world's best software teams collaborate since it first launched in 2009. Now, with GitHub issues ...",
+      "published_at": "2025-04-04T13:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hcVNOR_BNMQ/hqdefault.jpg"
     },
     {
-      "title": "Event in Spanish: GitHub Presente IA con Carlos Alarcon",
-      "video_id": "9JePc2HP7Ew",
+      "title": "Event in Spanish: Ingenieria de Prompts con @alepsy",
+      "video_id": "xIPtalyKFF4",
       "channel_title": "GitHub",
-      "description": "Carlos Andrés Alarcón, Microsoft MVP en AI/ML, Google Developer Expert y actual CTO de Quix, presentará en GitHub Presente: ...",
-      "published_at": "2025-03-28T10:20:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9JePc2HP7Ew/hqdefault.jpg"
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2025-04-04T12:12:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xIPtalyKFF4/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays! Yee haw, let&#39;s cowork!",
-      "video_id": "w7XjdsSIHW0",
+      "title": "Rubber Duck Thursdays! | Come cowork and ask questions about open source, AI, jobs, or memes.",
+      "video_id": "dsGwq7FT4zw",
       "channel_title": "GitHub",
-      "description": "Come hang out with us and talk open source, hiring, and perhaps code on something cool.",
-      "published_at": "2025-03-28T07:16:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w7XjdsSIHW0/hqdefault.jpg"
+      "description": "Come hang out with the GitHub team to talk tech and fun!",
+      "published_at": "2025-04-04T07:12:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dsGwq7FT4zw/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Let&#39;s get building!",
-      "video_id": "pkVM76jhqdk",
-      "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we work on some projects and do some live coding ...",
-      "published_at": "2025-03-27T23:57:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pkVM76jhqdk/hqdefault.jpg"
-    },
-    {
-      "title": "[pt-BR] Open Source Friday Brasil com Wheslley Bezerra, BuildCLI",
+      "title": "[pt-BR] Quinta do Patinho - Vamos fazer um blog?",
       "video_id": "xIta7QGBDdY",
       "channel_title": "GitHub",
-      "description": "O Open Source Friday Brasil desta semana recebe Wheslley Bezerra, criador do BuildCLI, uma ferramenta de linha de comando ...",
-      "published_at": "2025-03-27T23:15:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xIta7QGBDdY/hqdefault_live.jpg"
+      "description": "Na edição desta semana da Quinta do Patinho, vamos explorar como criar blog! Vamos escolher tecnologias, configurar o ...",
+      "published_at": "2025-04-04T04:46:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xIta7QGBDdY/hqdefault.jpg"
     },
     {
-      "title": "GitHub Copilot&#39;s hidden power: Using slash commands",
-      "video_id": "Qj42xngx4Qo",
+      "title": "Rubber Duck Thursdays - Sshh, let&#39;s talk about secrets.",
+      "video_id": "oJqHZBKCGSE",
       "channel_title": "GitHub",
-      "description": "GitHub Copilot Chat just got more powerful with slash commands. Learn how typing a simple \"/\" opens a world of instant coding ...",
-      "published_at": "2025-03-26T14:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Qj42xngx4Qo/hqdefault.jpg"
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we work on some projects and do some live coding ...",
+      "published_at": "2025-04-03T22:59:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oJqHZBKCGSE/hqdefault.jpg"
+    },
+    {
+      "title": "Humanoid robots coming to homes: NEO Gamma preview",
+      "video_id": "FR3v7sntwPI",
+      "channel_title": "GitHub",
+      "description": "Norwegian startup 1X prepares to bring humanoid robots into everyday life through home testing of NEO Gamma. Though not fully ...",
+      "published_at": "2025-04-02T15:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FR3v7sntwPI/hqdefault.jpg"
     }
   ]
 }

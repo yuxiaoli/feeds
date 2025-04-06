@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2025-03-30T00:28:13.897501",
+  "fetched_at": "2025-04-06T00:28:11.565156",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
   "count": 10,
   "videos": [
     {
-      "title": "NASA&#39;s SpaceX Crew-9 Post-Flight News Conference",
-      "video_id": "Nm6S_DD3F04",
+      "title": "Jared Isaacman Senate Nomination Hearing for NASA Administrator",
+      "video_id": "tqejrlbfB84",
       "channel_title": "NASA",
-      "description": "After completing a long-duration stay aboard the International Space Station, NASA's SpaceX Crew-9 astronauts — Nick Hague, ...",
-      "published_at": "2025-03-27T14:38:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nm6S_DD3F04/hqdefault_live.jpg"
+      "description": "Jared Isaacman is set to participate in his confirmation hearing to become the next NASA administrator. The hearing will take ...",
+      "published_at": "2025-04-04T20:50:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tqejrlbfB84/hqdefault_live.jpg"
     },
     {
-      "title": "&quot;Far Out&quot; Episode 2: Now Streaming on NASA+",
-      "video_id": "SCNKXOmsU90",
+      "title": "NASA’s Artemis II Mission Patch Just Launched",
+      "video_id": "w8PLJrJuU8Q",
       "channel_title": "NASA",
-      "description": "What does it take to live on the Moon? Join host Megan Cruz as she explores how NASA is preparing our lunar pioneers in the ...",
-      "published_at": "2025-03-26T18:12:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SCNKXOmsU90/hqdefault.jpg"
+      "description": "Behold: the mission patch for Artemis II! The Artemis II mission will embark on its journey around the Moon early 2026 with four ...",
+      "published_at": "2025-04-03T17:21:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w8PLJrJuU8Q/hqdefault.jpg"
     },
     {
-      "title": "How Can I See the Northern Lights? We Asked a NASA Expert",
-      "video_id": "1DEx3bnr6gQ",
+      "title": "What Are the Dangers of Going to Space? We Asked a NASA Expert",
+      "video_id": "ryHNj_SLwlE",
       "channel_title": "NASA",
-      "description": "Want to catch a glimpse of the northern lights? You'll need dark skies, the right location, good space weather and a little patience!",
-      "published_at": "2025-03-26T14:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1DEx3bnr6gQ/hqdefault.jpg"
+      "description": "What are the dangers of going to space? Space might look peaceful from afar but it's a harsh environment, especially for humans.",
+      "published_at": "2025-04-02T17:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ryHNj_SLwlE/hqdefault.jpg"
     },
     {
-      "title": "NASA Science Live: Aurora Glow, Electric Flow &amp; the EZIE Mission",
-      "video_id": "TezRF9gidHg",
+      "title": "NASA Astronaut Jonny Kim Soyuz MS-27 Launch",
+      "video_id": "dC807gzD9l8",
       "channel_title": "NASA",
-      "description": "Join NASA experts to talk about EZIE, a trio of just-launched NASA spacecraft that will study powerful electric currents in the sky.",
-      "published_at": "2025-03-24T20:06:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TezRF9gidHg/hqdefault.jpg"
+      "description": "NASA astronaut Jonny Kim is set to lift off on his first mission to the International Space Station on Tuesday, April 8. Launch is ...",
+      "published_at": "2025-04-01T17:24:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dC807gzD9l8/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
@@ -43,6 +43,14 @@
       "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
       "published_at": "2025-02-27T17:35:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jKHvbJe9c_Y/hqdefault_live.jpg"
+    },
+    {
+      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
+      "video_id": "H999s0P1Er0",
+      "channel_title": "NASA",
+      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
+      "published_at": "2025-02-27T17:28:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H999s0P1Er0/hqdefault_live.jpg"
     },
     {
       "title": "Launch of Cyclone-Tracking TROPICS CubeSats from New Zealand (Official NASA Broadcast)",
@@ -75,14 +83,6 @@
       "description": "On Nov. 16, 2022, NASA made history with the launch of our Space Launch System (SLS) rocket and Orion spacecraft – our ...",
       "published_at": "2023-03-31T18:44:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/yae96AxH7V0/hqdefault.jpg"
-    },
-    {
-      "title": "Artemis II Astronaut Announcement: April 3, 2023 (Official NASA Trailer)",
-      "video_id": "PFbNDSttnPQ",
-      "channel_title": "NASA",
-      "description": "Don't miss it! NASA and CSA (Canadian Space Agency) will announce during an event at 11 a.m. EDT on Monday, April 3, from ...",
-      "published_at": "2023-03-28T21:40:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PFbNDSttnPQ/hqdefault.jpg"
     }
   ]
 }

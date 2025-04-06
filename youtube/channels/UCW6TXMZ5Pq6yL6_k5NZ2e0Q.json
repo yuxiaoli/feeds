@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-03-30T00:28:23.991461",
+  "fetched_at": "2025-04-06T00:28:21.978220",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "What is Quantitative Finance? 📈 Intro for Aspiring Quants",
+      "video_id": "JVtUcM1sWQw",
+      "channel_title": "Socratica",
+      "description": "NOTIFY ME when the course launches: https://snu.socratica.com/quantitative-finance What ...",
+      "published_at": "2025-03-31T10:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JVtUcM1sWQw/hqdefault.jpg"
+    },
     {
       "title": "Quantitative Finance Course - EARLY SIGN UPS",
       "video_id": "Fddv4RRWAvo",
@@ -75,14 +83,6 @@
       "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
       "published_at": "2024-08-12T11:00:14Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CYyrz3EBs54/hqdefault.jpg"
-    },
-    {
-      "title": "How to use the BANK for BANKING 🏧 🥰 Personal Finance",
-      "video_id": "g69oXYgObFw",
-      "channel_title": "Socratica",
-      "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
-      "published_at": "2024-08-05T11:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g69oXYgObFw/hqdefault.jpg"
     }
   ]
 }

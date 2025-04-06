@@ -1,32 +1,24 @@
 {
-  "fetched_at": "2025-03-30T00:28:00.974140",
+  "fetched_at": "2025-04-06T00:27:58.367195",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 10,
   "videos": [
     {
-      "title": "Unreal Fellowship: Animation | Showcase – Part 1 (2024)",
-      "video_id": "K3r8KTS8iLU",
+      "title": "Unreal Fellowship: Animation | Showcase – Part 2 (2024)",
+      "video_id": "W_kmf8nnQpo",
       "channel_title": "Unreal Engine",
       "description": "At the end of last year, 12 CG professionals explored real-time animation with Unreal Engine and MetaHuman during the ...",
-      "published_at": "2025-03-28T14:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K3r8KTS8iLU/hqdefault.jpg"
+      "published_at": "2025-04-04T13:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W_kmf8nnQpo/hqdefault.jpg"
     },
     {
-      "title": "Creating Classic MMO Mechanics in UE: Ruins of Tearyn | Inside Unreal",
-      "video_id": "9YOA3cONmGI",
+      "title": "New Template Sneak Peek | Inside Unreal",
+      "video_id": "BHI6zx8QMkg",
       "channel_title": "Unreal Engine",
-      "description": "The team behind the double MegaGrant winning Vertical Third toolset has started purposing those same tools for their own ...",
-      "published_at": "2025-03-27T20:14:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9YOA3cONmGI/hqdefault.jpg"
-    },
-    {
-      "title": "Clair Obscur: Expedition 33 | Game Profile | Unreal Engine",
-      "video_id": "3qAGdaklVyQ",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video and discover how Sandfall Interactive used UE5 on 'Clair Obscur: Expedition 33'. Sandfall Interactive is on the ...",
-      "published_at": "2025-03-27T13:55:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3qAGdaklVyQ/hqdefault.jpg"
+      "description": "This week we'll be chatting with the amazing team behind some of the template's you know and adore to get a peek at what's ...",
+      "published_at": "2025-04-03T19:38:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BHI6zx8QMkg/hqdefault.jpg"
     },
     {
       "title": "From VFX to VAD: Artists’ Journeys with Unreal Engine | Unreal Fest 2024",
@@ -83,6 +75,14 @@
       "description": "Watch a beautifully animated tour of the Hillside Sample Project, a virtual recreation of Moshe Safdie's original vision for ...",
       "published_at": "2023-05-17T10:55:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/n95pKxYoLbA/hqdefault.jpg"
+    },
+    {
+      "title": "Unreal Engine 5.2 Feature Highlights",
+      "video_id": "I7zyNDazmGQ",
+      "channel_title": "Unreal Engine",
+      "description": "Unreal Engine 5.2 further expands UE5's groundbreaking toolset with some innovative new functionality—including a Procedural ...",
+      "published_at": "2023-05-11T15:03:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I7zyNDazmGQ/hqdefault.jpg"
     }
   ]
 }

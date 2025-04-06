@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-03-30T00:28:33.038510",
+  "fetched_at": "2025-04-06T00:28:30.530182",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "A new short course created with DotTxt is available now",
+      "video_id": "qUt0-B8s1vE",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/3FLpRcN We've teamed up with DotTxt to bring you a new short course: Getting Structured LLM Output, ...",
+      "published_at": "2025-04-02T14:08:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qUt0-B8s1vE/hqdefault.jpg"
+    },
     {
       "title": "AI Dev 25 | Bilge Yücel: Building and Deploying Agentic Workflows with Haystack",
       "video_id": "tKyvkU69Ers",
@@ -75,14 +83,6 @@
       "description": "How do you build AI agents that remember, learn, and adapt over time? During AI Dev 25, Harrison Chase, Co-founder and CEO ...",
       "published_at": "2025-03-27T18:07:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/R0OdB-p-ns4/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 | João Moura &amp; Graham Steele: Real AI Agents in Action Automate, Adapt, and Scale",
-      "video_id": "AMsmgJlVhmg",
-      "channel_title": "DeepLearningAI",
-      "description": "AI isn't just about automation—it's about building intelligent systems that can reason, adapt, and deliver real-world value.",
-      "published_at": "2025-03-27T17:54:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AMsmgJlVhmg/hqdefault.jpg"
     }
   ]
 }

@@ -1,64 +1,40 @@
 {
-  "fetched_at": "2025-03-30T00:28:10.225373",
+  "fetched_at": "2025-04-06T00:28:07.741223",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
   "count": 10,
   "videos": [
     {
-      "title": "Spring is here. Enjoy the art break 🌻",
-      "video_id": "PeNP0z0Q2Do",
+      "title": "Supporting Teens in a Video-Driven World | The Check Up with Google &#39;25",
+      "video_id": "PERytbCO-Fo",
+      "channel_title": "Google",
+      "description": "How is YouTube helping teens navigate the evolving world of generative AI? Dr. Garth Graham discusses a new partnership with ...",
+      "published_at": "2025-04-04T15:58:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PERytbCO-Fo/hqdefault.jpg"
+    },
+    {
+      "title": "Enjoy the art break",
+      "video_id": "DCzR1gwaKDA",
       "channel_title": "Google",
       "description": "Subscribe to our Channel: https://www.youtube.com/google Find us on X: https://twitter.com/google Watch us on TikTok: ...",
-      "published_at": "2025-03-28T17:57:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PeNP0z0Q2Do/hqdefault.jpg"
+      "published_at": "2025-04-04T14:24:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DCzR1gwaKDA/hqdefault.jpg"
     },
     {
-      "title": "American Cancer Society: Transforming Access to Care Resources | The Check Up with Google &#39;25",
-      "video_id": "yeveICg3EJ8",
+      "title": "Made by Google Podcast S7E3 | Pixel 9a: Smart AI, smart deal!",
+      "video_id": "RRsRa8G9j0Y",
       "channel_title": "Google",
-      "description": "Empowering patients and caregivers through technology! Aashima Gupta and Dr. Arif Kamal from the American Cancer Society ...",
-      "published_at": "2025-03-28T16:02:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yeveICg3EJ8/hqdefault.jpg"
+      "description": "Get the inside scoop on the Pixel 9a, the phone that's standardizing Google AI! We're diving deep into all the features that make ...",
+      "published_at": "2025-04-03T15:56:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RRsRa8G9j0Y/hqdefault.jpg"
     },
     {
-      "title": "From Innovation to Impact in Health AI | The Check Up with Google ‘25",
-      "video_id": "5Fkx5gZlLco",
+      "title": "Ubie&#39;s Generative AI: Empowering Healthcare Professionals | The Check Up with Google &#39;25",
+      "video_id": "zGrOKVFTj-8",
       "channel_title": "Google",
-      "description": "Can AI be a scientific collaborator? Yossi Matias introduces AI Co-Scientist, built on Gemini 2.0, and how it's revolutionizing health ...",
-      "published_at": "2025-03-27T16:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5Fkx5gZlLco/hqdefault.jpg"
-    },
-    {
-      "title": "Decode confusing parking signs with Gemini Live on #Pixel9",
-      "video_id": "l4DUHJUf5yA",
-      "channel_title": "Google",
-      "description": "Subscribe to our Channel: https://www.youtube.com/google Find us on X: https://twitter.com/google Watch us on TikTok: ...",
-      "published_at": "2025-03-26T19:14:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l4DUHJUf5yA/hqdefault.jpg"
-    },
-    {
-      "title": "Fitbit: The future of personalized Health | The Check Up with Google &#39;25",
-      "video_id": "qF4I2-F6Ng0",
-      "channel_title": "Google",
-      "description": "Ever wondered how cutting-edge AI can tackle something as critical as detecting the absence of a pulse? Join Rishi Chandra ...",
-      "published_at": "2025-03-26T16:02:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qF4I2-F6Ng0/hqdefault.jpg"
-    },
-    {
-      "title": "Alessia Cara x Google Arts &amp; Culture | Culture Threads",
-      "video_id": "wHxe5Vwpdd4",
-      "channel_title": "Google",
-      "description": "ad We invited @alessiacara to collaborate with us in our latest episode of Culture Threads. Watch the singer and songwriter ...",
-      "published_at": "2025-03-25T15:59:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wHxe5Vwpdd4/hqdefault.jpg"
-    },
-    {
-      "title": "NotebookLM x Grow with Google | Heritage Bikes &amp; Coffee",
-      "video_id": "3zrUnCb8J_Y",
-      "channel_title": "Google",
-      "description": "Mike Salvatore, founder of Heritage Bikes & Coffee, is learning to use Google AI tools like NotebookLM to help with everything ...",
-      "published_at": "2025-03-24T18:16:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3zrUnCb8J_Y/hqdefault.jpg"
+      "description": "How is Ubie using Google's Gemini in clinics today? Dr. Shohei Harase, PM, explains the real-world applications and impact.",
+      "published_at": "2025-04-02T15:57:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zGrOKVFTj-8/hqdefault.jpg"
     },
     {
       "title": "Introducing Canvas in Gemini",
@@ -83,6 +59,30 @@
       "description": "",
       "published_at": "2024-05-28T14:22:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lguHFyrLWaw/hqdefault.jpg"
+    },
+    {
+      "title": "Google I/O 2024 Keynote: Developer",
+      "video_id": "V_-FkyIGUcg",
+      "channel_title": "Google",
+      "description": "Gemini API and Gemma updates from Google I/O on May 14, 2024. Join Josh Woodward, VP, Labs, to learn about Gemini 1.5 ...",
+      "published_at": "2024-05-17T16:34:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V_-FkyIGUcg/hqdefault.jpg"
+    },
+    {
+      "title": "Google I/O 2024 Keynote: Android",
+      "video_id": "SWlr6otGrGo",
+      "channel_title": "Google",
+      "description": "Android updates from Google I/O on May 14, 2024. Join Sameer Samat, President, Android Ecosystem, and Dave Burke, VP, ...",
+      "published_at": "2024-05-17T14:32:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SWlr6otGrGo/hqdefault.jpg"
+    },
+    {
+      "title": "Project Astra: Our vision for the future of AI assistants",
+      "video_id": "nXVvvRhiGjI",
+      "channel_title": "Google",
+      "description": "Introducing Project Astra. We created a demo in which a tester interacts with a prototype of AI agents supported by our multimodal ...",
+      "published_at": "2024-05-14T17:26:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nXVvvRhiGjI/hqdefault.jpg"
     }
   ]
 }

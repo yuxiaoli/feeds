@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-03-30T00:28:39.546393",
+  "fetched_at": "2025-04-06T00:28:36.823122",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "最新的AI论文研究趋势",
+      "video_id": "w9_gvTTFuh8",
+      "channel_title": "Find Interesting AI",
+      "description": "",
+      "published_at": "2025-04-05T16:01:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w9_gvTTFuh8/hqdefault.jpg"
+    },
     {
       "title": "智能体的核心模式和架构",
       "video_id": "RPmKC2cb7JM",
@@ -75,14 +83,6 @@
       "description": "自动筛选工作、监控新职位、投简历的免费神器https://github.com/AIHawk-app/Auto_Jobs_Applier.",
       "published_at": "2024-11-11T23:00:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SFoavItoaqM/hqdefault.jpg"
-    },
-    {
-      "title": "一周AI最热项目实战",
-      "video_id": "mgU0vmAEIqQ",
-      "channel_title": "Find Interesting AI",
-      "description": "https://github.com/facebookresearch/co-tracker https://github.com/ranaroussi/yfinance https://github.com/openai/swarm.",
-      "published_at": "2024-11-04T00:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mgU0vmAEIqQ/hqdefault.jpg"
     }
   ]
 }

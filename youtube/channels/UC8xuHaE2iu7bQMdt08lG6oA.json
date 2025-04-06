@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-03-30T00:27:58.785035",
+  "fetched_at": "2025-04-06T00:27:56.202416",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "The Joker’s Mustang is Nothing to Play With @AgentsofKhaosJoker #mustang #jokeredit #cinematic",
+      "video_id": "O4urQqFysUY",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2025-04-05T12:56:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O4urQqFysUY/hqdefault.jpg"
+    },
     {
       "title": "Can I make a toy jet look like a full-scale fighter in action? #sr71 #blackbird #cinematic",
       "video_id": "OO6487Jb3jw",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-01-04T19:50:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/M6NDs1IMduE/hqdefault.jpg"
-    },
-    {
-      "title": "Gene Winfield Pulled up In His 31 Model A #videography #ford",
-      "video_id": "av5YccNiQSc",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-01-02T00:11:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/av5YccNiQSc/hqdefault.jpg"
     }
   ]
 }

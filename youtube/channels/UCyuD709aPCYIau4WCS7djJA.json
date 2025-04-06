@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-03-30T00:28:49.658951",
+  "fetched_at": "2025-04-06T00:28:46.879258",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "🌕✨ How Big Are the Moons in Our Solar System?",
+      "video_id": "biADgyEJdTk",
+      "channel_title": "Star Walk",
+      "description": "This video shows a size comparison of the most famous planetary moons — and some might surprise you! Ganymede (Jupiter's ...",
+      "published_at": "2025-04-04T10:20:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/biADgyEJdTk/hqdefault.jpg"
+    },
+    {
+      "title": "Star Walk 2: What Can I Get with Premium Access?",
+      "video_id": "vVCGfn0lW5U",
+      "channel_title": "Star Walk",
+      "description": "The free version of Star Walk 2 already offers an amazing sky exploration experience, but if you want to unlock the app's full ...",
+      "published_at": "2025-04-01T08:11:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vVCGfn0lW5U/hqdefault.jpg"
+    },
+    {
+      "title": "Top Astronomy Events of April 2025 ✨",
+      "video_id": "tUbXSqneVJY",
+      "channel_title": "Star Walk",
+      "description": "starrysky #stargazing #nightsky #astronomy #starwalk.",
+      "published_at": "2025-04-01T05:00:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tUbXSqneVJY/hqdefault.jpg"
+    },
     {
       "title": "Eclipse glasses 😎",
       "video_id": "LwSQnUw1H4E",
@@ -59,30 +83,6 @@
       "description": "On the night of March 13-14, we'll get to see the Blood Moon Lunar Eclipse! But what exactly happens during an eclipse?",
       "published_at": "2025-03-11T10:00:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Frw4cYxWNtI/hqdefault.jpg"
-    },
-    {
-      "title": "Mercury Retrograde Alert! 🔥",
-      "video_id": "Z7sGUr4mFFo",
-      "channel_title": "Star Walk",
-      "description": "From March 14 to April 6, Mercury will appear to move backward in the sky. But don't panic—it's just an illusion! What's really ...",
-      "published_at": "2025-03-07T09:19:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z7sGUr4mFFo/hqdefault.jpg"
-    },
-    {
-      "title": "Landing on the Moon again! 🌕",
-      "video_id": "uqstr759oQY",
-      "channel_title": "Star Walk",
-      "description": "Today, we're landing on the Moon again — this time with Athena and its rovers. The mission, led by Intuitive Machines, ...",
-      "published_at": "2025-03-06T11:59:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uqstr759oQY/hqdefault.jpg"
-    },
-    {
-      "title": "⚡ Blue Jets: Lightning That Strikes Up! ⚡",
-      "video_id": "7rV5KAR0yZY",
-      "channel_title": "Star Walk",
-      "description": "Blue jet” may sound like some kind of fictional superhero. But these jets — produced during thunderstorms — are real, though ...",
-      "published_at": "2025-03-04T12:44:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7rV5KAR0yZY/hqdefault.jpg"
     }
   ]
 }

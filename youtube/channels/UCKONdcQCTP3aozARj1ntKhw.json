@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-03-30T00:28:11.048679",
+  "fetched_at": "2025-04-06T00:28:08.476157",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "warpdotdev",
   "count": 10,
   "videos": [
+    {
+      "title": "Coding by Prompt with Warp",
+      "video_id": "VP03wHzaMJc",
+      "channel_title": "warpdotdev",
+      "description": "Learn how to code by prompt with Warp!",
+      "published_at": "2025-04-01T21:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VP03wHzaMJc/hqdefault_live.jpg"
+    },
     {
       "title": "Launch Log 01 | Warp Updates",
       "video_id": "sjbaWZfgbyg",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2024-09-19T20:13:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/E0A_t--VKzo/hqdefault.jpg"
-    },
-    {
-      "title": "EASIEST Way to Fine-Tune a LLM and Use It With Ollama",
-      "video_id": "pxhkDaKzBaY",
-      "channel_title": "warpdotdev",
-      "description": "In this video, we go over how you can fine-tune Llama 3.1 and run it locally on your machine using Ollama! We use the open ...",
-      "published_at": "2024-09-12T14:30:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pxhkDaKzBaY/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2025-03-30T00:27:54.366148",
+  "fetched_at": "2025-04-06T00:27:51.737925",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
+    {
+      "title": "Did Vibe Coding Kill Software Engineering...",
+      "video_id": "FC1GIXKGxlY",
+      "channel_title": "Tech With Tim",
+      "description": "Get the free guide on \"Learn To Code With ChatGPT\" from Hubspot here: https://clickhubspot.com/fzme So it is finally time to talk ...",
+      "published_at": "2025-04-05T14:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FC1GIXKGxlY/hqdefault.jpg"
+    },
+    {
+      "title": "The most important skill for programmers *NON TECH SKILL*",
+      "video_id": "tg0l5nA-r2s",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-04-05T10:45:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tg0l5nA-r2s/hqdefault.jpg"
+    },
+    {
+      "title": "Dataclass inheritance in Python",
+      "video_id": "KTnq1fMO3nI",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-04-03T19:06:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KTnq1fMO3nI/hqdefault.jpg"
+    },
+    {
+      "title": "How to learn programming in just 2 hours a week",
+      "video_id": "JXaXd9iyksc",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-04-02T23:45:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JXaXd9iyksc/hqdefault.jpg"
+    },
+    {
+      "title": "The BEST way to learn AI",
+      "video_id": "1oDACjhZT5A",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-04-01T23:51:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1oDACjhZT5A/hqdefault.jpg"
+    },
+    {
+      "title": "If you don&#39;t wanna USE AI in your workflow you need to watch THIS",
+      "video_id": "opKV5y1UHJQ",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-03-31T19:32:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/opKV5y1UHJQ/hqdefault.jpg"
+    },
+    {
+      "title": "How to Build a Local AI Agent With Python (Ollama, LangChain &amp; RAG)",
+      "video_id": "E4l91XKQSgw",
+      "channel_title": "Tech With Tim",
+      "description": "Thanks to Microsoft for sponsoring this video! Submit your #CodingWithCopilot stories so I can review them! I'm excited to check ...",
+      "published_at": "2025-03-31T14:39:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E4l91XKQSgw/hqdefault.jpg"
+    },
+    {
+      "title": "Learn These 3 GENUIS Python Features",
+      "video_id": "8dsrpSCmq-o",
+      "channel_title": "Tech With Tim",
+      "description": "Check out PyCharm, the Python IDE for data and web professionals: https://jb.gg/get-pycharm-ide Free 3-Month Personal ...",
+      "published_at": "2025-03-30T15:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8dsrpSCmq-o/hqdefault.jpg"
+    },
     {
       "title": "How to Prepare for a Python Interview: A Complete Guide",
       "video_id": "BeqlRl5dV_8",
@@ -19,70 +83,6 @@
       "description": "My Software Development Program: ...",
       "published_at": "2025-03-29T11:03:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/MWYLeDbdnVM/hqdefault.jpg"
-    },
-    {
-      "title": "Fstrings and how to use them in Python",
-      "video_id": "1qbdHwN86P8",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-29T00:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1qbdHwN86P8/hqdefault.jpg"
-    },
-    {
-      "title": "If you don&#39;t want to USE AI as a developer you need to watch THIS",
-      "video_id": "ePNQrCpZrko",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-28T21:46:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ePNQrCpZrko/hqdefault.jpg"
-    },
-    {
-      "title": "Build Anything with MCP Agents… Here’s How",
-      "video_id": "L94WBLL0KjY",
-      "channel_title": "Tech With Tim",
-      "description": "Check out SambaNova's Deep Research Agents here: https://fnf.dev/4kwvYRU Let's talk about MCP or the Model Context ...",
-      "published_at": "2025-03-27T15:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L94WBLL0KjY/hqdefault.jpg"
-    },
-    {
-      "title": "The MOST important tip for software engineers *ALL LEVELS*",
-      "video_id": "UvJopfqYWts",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-26T23:52:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UvJopfqYWts/hqdefault.jpg"
-    },
-    {
-      "title": "The difference between TOP class developers and the rest",
-      "video_id": "bn4ydnn-kM8",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-25T22:43:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bn4ydnn-kM8/hqdefault.jpg"
-    },
-    {
-      "title": "Claude 3.7 is Kinda Crazy For Programmers...",
-      "video_id": "zZ_a3WjoPEM",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with CodeRabbit here: https://coderabbit.ai?utm_source=techwithtim A few weeks ago, Anthropic released their ...",
-      "published_at": "2025-03-25T15:01:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zZ_a3WjoPEM/hqdefault.jpg"
-    },
-    {
-      "title": "Backend Software Engineer roadmap",
-      "video_id": "FlsrKv_xIyg",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-24T21:17:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FlsrKv_xIyg/hqdefault.jpg"
-    },
-    {
-      "title": "Browser Use: This New AI Agent Can Do Anything (Full AI Scraping Tutorial)",
-      "video_id": "zGkVKix_CRU",
-      "channel_title": "Tech With Tim",
-      "description": "Check out SysAids AI Agent Builder: ...",
-      "published_at": "2025-03-23T15:01:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zGkVKix_CRU/hqdefault.jpg"
     }
   ]
 }

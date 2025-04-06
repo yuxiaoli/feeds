@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-03-30T00:27:48.552811",
+  "fetched_at": "2025-04-06T00:27:45.747143",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Tattooing with Ray-Ban Meta",
+      "video_id": "6GraZv2f40A",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2025-04-04T13:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6GraZv2f40A/hqdefault.jpg"
+    },
     {
       "title": "what&#39;s great about Quest 3S is it works for a boy or a girl",
       "video_id": "OwlU4fbO1Hw",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-02-21T16:16:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AbtFGDU9QUc/hqdefault.jpg"
-    },
-    {
-      "title": "POV: Breaking illusions with science facts via @meta.ai @museumofillusions_dc",
-      "video_id": "31CSLonv748",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-02-19T17:41:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/31CSLonv748/hqdefault.jpg"
     }
   ]
 }
