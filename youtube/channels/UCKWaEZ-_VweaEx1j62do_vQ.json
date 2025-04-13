@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-04-06T00:28:09.970522",
+  "fetched_at": "2025-04-13T00:51:38.856113",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "AI Dominance: 3 Key Strengths of Amazon",
-      "video_id": "AOPtplw1ld4",
+      "title": "Control vs Data Plane Explained",
+      "video_id": "JFRI6yDIqqE",
       "channel_title": "IBM Technology",
-      "description": "Expert analysis: Amazon's AI agent leadership driven by data, infrastructure, and computational power. Leveraging global ...",
-      "published_at": "2025-04-04T17:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AOPtplw1ld4/hqdefault.jpg"
+      "description": "Learn more about Control Plane vs. Data Plane here → https://ibm.biz/BdnRte How does data processing happen? 🖥️ Discover ...",
+      "published_at": "2025-04-12T14:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JFRI6yDIqqE/hqdefault.jpg"
     },
     {
-      "title": "OpenAI goes open, Anthropic on interpretability, Apple Intelligence updates and Amazon AI agents",
-      "video_id": "x0DQfLQHT0Q",
+      "title": "AI on IBM z17, Llama 4, and Google Cloud Next 2025",
+      "video_id": "7ENEqWZufZE",
       "channel_title": "IBM Technology",
-      "description": "Subscribe for AI updates → https://ibm.biz/BdnEMz Will OpenAI be fully open source by 2027? In episode 49 of Mixture of Experts, ...",
-      "published_at": "2025-04-04T10:01:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x0DQfLQHT0Q/hqdefault.jpg"
+      "description": "IBM z17 launches with AI power, Llama 4 drops, and we're live from Google Cloud Next. Plus: what Pew's new AI report means for ...",
+      "published_at": "2025-04-11T17:28:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7ENEqWZufZE/hqdefault.jpg"
     },
     {
-      "title": "Run AI Models Locally with Ollama: Fast &amp; Simple Deployment",
-      "video_id": "uxE8FFiu_UQ",
+      "title": "AI on IBM z17, Meta&#39;s Llama 4 and Google Cloud Next 2025",
+      "video_id": "90fUR1PQgt4",
       "channel_title": "IBM Technology",
-      "description": "Curious about running AI models locally with Ollama? Check out the code here → https://ibm.biz/BdndQU Ready to become a ...",
-      "published_at": "2025-04-03T11:01:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uxE8FFiu_UQ/hqdefault.jpg"
+      "description": "Explore the new features of IBM z17 → https://ibm.biz/Bdn4UR IBM z17 is here! In episode 50 of Mixture of Experts, host Tim ...",
+      "published_at": "2025-04-11T10:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/90fUR1PQgt4/hqdefault.jpg"
     },
     {
-      "title": "Modernizing Apps: 3 Steps with Automation &amp; Generative AI",
-      "video_id": "j8Lq6tpJjnE",
+      "title": "Why Are LLMs Expensive to Deploy?",
+      "video_id": "7caDFcTAssA",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Mainframe Modernization Architect? Register now and use code IBMTechYT20 for 20% off ...",
-      "published_at": "2025-04-02T11:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j8Lq6tpJjnE/hqdefault.jpg"
+      "description": "Learn more about Large Language Models here → https://ibm.biz/BdnRtz Why are LLMs so costly? Learn how use cases, ...",
+      "published_at": "2025-04-10T17:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7caDFcTAssA/hqdefault.jpg"
     },
     {
-      "title": "DIY AI Infrastructure: Build Your Own Privacy-Preserving AI at Home",
-      "video_id": "BvCOZrqGyNU",
+      "title": "Agentic Research: How AI Agents Are Shaping the Future of Research",
+      "video_id": "TiNedLS_txU",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-04-10T11:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TiNedLS_txU/hqdefault.jpg"
+    },
+    {
+      "title": "How to Build Trustworthy AI",
+      "video_id": "SAxQk5tVFNE",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about Trustworthy AI here → https://ibm.biz/BdnRkU Your AI model is live, but it fails! Learn how to ensure AI ...",
+      "published_at": "2025-04-09T17:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SAxQk5tVFNE/hqdefault.jpg"
+    },
+    {
+      "title": "What is LLMJacking? The Hidden Cloud Security Threat of AI Models",
+      "video_id": "dibZ1itSvM4",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Administrator - Cloud Pak for Security? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-04-09T11:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dibZ1itSvM4/hqdefault.jpg"
+    },
+    {
+      "title": "Where will the mainframe be in 5 years?",
+      "video_id": "Ro2p4ANJTbs",
+      "channel_title": "IBM Technology",
+      "description": "What does the future of mainframes look like? Hint: Lots of AI capabilities. #Infrastructure #Tech #mainframes Learn more here ...",
+      "published_at": "2025-04-08T17:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ro2p4ANJTbs/hqdefault.jpg"
+    },
+    {
+      "title": "What is Ollama? Running Local LLMs Made Simple",
+      "video_id": "5RIOQuHOihY",
       "channel_title": "IBM Technology",
       "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-04-01T11:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BvCOZrqGyNU/hqdefault.jpg"
+      "published_at": "2025-04-08T11:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5RIOQuHOihY/hqdefault.jpg"
     },
     {
-      "title": "DeepSeek-V3-0324, Gemini Canvas and GPT-4o image generation",
-      "video_id": "CgqHN38l6Ko",
+      "title": "AI Accelerators: Transforming Scalability &amp; Model Efficiency",
+      "video_id": "KX0qBM-ByAg",
       "channel_title": "IBM Technology",
-      "description": "Subscribe for AI updates → https://ibm.biz/Bdnxtk What's the best open-source model? In episode 48 of Mixture of Experts, host ...",
-      "published_at": "2025-03-28T11:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CgqHN38l6Ko/hqdefault.jpg"
-    },
-    {
-      "title": "Build a Text-to-SQL Agent for Smarter Database Queries",
-      "video_id": "U2TP0pTsSlw",
-      "channel_title": "IBM Technology",
-      "description": "Want to try building a Text-to-SQL Agent for yourself? Find the code here → https://ibm.biz/BdGUkE Ready to become a certified ...",
-      "published_at": "2025-03-27T11:00:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U2TP0pTsSlw/hqdefault.jpg"
-    },
-    {
-      "title": "GSLB: Traffic Steering Made Simple",
-      "video_id": "YvLRR9GA5sY",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Global Server Load Balancing here → https://www.ibm.com/think/topics/global-server-load-balancing ...",
-      "published_at": "2025-03-25T17:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YvLRR9GA5sY/hqdefault.jpg"
-    },
-    {
-      "title": "LLM Lifecycle: Tackling Data Challenges",
-      "video_id": "heoUvaKJppI",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about large language model operations here → https://www.ibm.com/think/topics/llmops Streamline LLMs with ...",
-      "published_at": "2025-03-24T17:00:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/heoUvaKJppI/hqdefault.jpg"
-    },
-    {
-      "title": "What is a Vector Database? Powering Semantic Search &amp; AI Applications",
-      "video_id": "gl1r1XV0SLw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Qiskit Developer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-03-24T11:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gl1r1XV0SLw/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-04-07T11:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KX0qBM-ByAg/hqdefault.jpg"
     }
   ]
 }

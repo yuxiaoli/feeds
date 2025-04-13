@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-04-06T00:28:18.960389",
+  "fetched_at": "2025-04-13T00:51:47.671095",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
@@ -27,6 +27,14 @@
       "description": "Relationship network of Harry Potter using Python Create captivating relationship network with ease on Programiz PRO ...",
       "published_at": "2023-06-23T15:05:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/TO_UqGXyNN0/hqdefault.jpg"
+    },
+    {
+      "title": "Can You Conquer the #ProgramizSummerChallenge in Just 3 Months?",
+      "video_id": "3mXk-w7_-Bk",
+      "channel_title": "Programiz",
+      "description": "Learn to code from scratch and challenge your skills this summer. We have launched #ProgramizSummerChallenge to make your ...",
+      "published_at": "2023-06-12T10:15:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3mXk-w7_-Bk/hqdefault.jpg"
     },
     {
       "title": "Meet #sensAI - your personal programming mentor #shorts",
@@ -75,14 +83,6 @@
       "description": "Python Challenge: Create a Full Pyramid in 30 seconds #shorts Get ready to put your Python skills to the test with this exciting ...",
       "published_at": "2023-03-03T10:15:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/c0pCUwG5nSg/hqdefault.jpg"
-    },
-    {
-      "title": "😲 Unbelievable Python Trick - Inverted Pyramid Pattern in 1 min #shorts",
-      "video_id": "e5BRrMMHNEY",
-      "channel_title": "Programiz",
-      "description": "Unbelievable Python Trick - Inverted Pyramid Pattern in 1 min #shorts Construct an inverted pyramid of symbols, numbers, and ...",
-      "published_at": "2023-02-24T10:15:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e5BRrMMHNEY/hqdefault.jpg"
     }
   ]
 }

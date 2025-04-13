@@ -1,24 +1,72 @@
 {
-  "fetched_at": "2025-04-06T00:27:58.367195",
+  "fetched_at": "2025-04-13T00:51:26.642907",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 10,
   "videos": [
     {
-      "title": "Unreal Fellowship: Animation | Showcase – Part 2 (2024)",
-      "video_id": "W_kmf8nnQpo",
+      "title": "Developing Adventure Horror in Unreal: Senscape&#39;s &#39;ASYLUM&#39; | Inside Unreal",
+      "video_id": "slWqXcV84pY",
       "channel_title": "Unreal Engine",
-      "description": "At the end of last year, 12 CG professionals explored real-time animation with Unreal Engine and MetaHuman during the ...",
-      "published_at": "2025-04-04T13:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W_kmf8nnQpo/hqdefault.jpg"
+      "description": "This week we'll have on the founder of Senscape, the studio behind projects Scratches, Serena, SILENT HILL: Ascension and ...",
+      "published_at": "2025-04-10T19:32:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/slWqXcV84pY/hqdefault.jpg"
     },
     {
-      "title": "New Template Sneak Peek | Inside Unreal",
-      "video_id": "BHI6zx8QMkg",
+      "title": "Switching to Unreal | Deciding What to Move to Unreal Engine Blueprint versus C++",
+      "video_id": "IhdobKXv_vY",
       "channel_title": "Unreal Engine",
-      "description": "This week we'll be chatting with the amazing team behind some of the template's you know and adore to get a peek at what's ...",
-      "published_at": "2025-04-03T19:38:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BHI6zx8QMkg/hqdefault.jpg"
+      "description": "Watch this video presented by Enduring Games to find out the code that's best kept in C++ versus the code that can live in the ...",
+      "published_at": "2025-04-10T13:58:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IhdobKXv_vY/hqdefault.jpg"
+    },
+    {
+      "title": "Switching to Unreal | Garbage collection in Unity and Unreal Engine",
+      "video_id": "Pjad5TVfWrU",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video presented by Enduring Games and find out how to manage memory in Unreal Engine. Garbage collection is a ...",
+      "published_at": "2025-04-10T13:58:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pjad5TVfWrU/hqdefault.jpg"
+    },
+    {
+      "title": "Switching to Unreal | Understanding Unreal Engine Gameplay Framework",
+      "video_id": "nL4NmaHNaGc",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video presented by Enduring Games and find out C++ and the Blueprint visual scripting system combine to form the ...",
+      "published_at": "2025-04-10T13:58:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nL4NmaHNaGc/hqdefault.jpg"
+    },
+    {
+      "title": "Switching to Unreal | How to Transition from Unity Visual Scripting to Unreal Engine Blueprint",
+      "video_id": "HkNVy4Z2AR8",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video presented by Enduring Games to find out how to make the move from Unity visual scripting to the Blueprint visual ...",
+      "published_at": "2025-04-10T13:58:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HkNVy4Z2AR8/hqdefault.jpg"
+    },
+    {
+      "title": "Switching to Unreal | How to transition C# to C++ for Unreal Engine",
+      "video_id": "IJSq2lCwCQg",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video presented by Enduring Games to find out how to transition from C# in Unity to C++ for your Unreal Engine ...",
+      "published_at": "2025-04-10T13:58:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IJSq2lCwCQg/hqdefault.jpg"
+    },
+    {
+      "title": "Epic Professional Training Sizzle",
+      "video_id": "0-2Avz3sG0g",
+      "channel_title": "Unreal Engine",
+      "description": "From architecture and automotive to manufacturing and retail, technology is constantly evolving and with Epic Professional ...",
+      "published_at": "2025-04-09T18:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0-2Avz3sG0g/hqdefault.jpg"
+    },
+    {
+      "title": "Lushfoil Photography Sim | Game Profile | Unreal Engine",
+      "video_id": "kSZUOW-VKAU",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video for a look at how solo developer Matt Newell used UE5 to create a photography-themed game based around the ...",
+      "published_at": "2025-04-08T14:05:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kSZUOW-VKAU/hqdefault.jpg"
     },
     {
       "title": "From VFX to VAD: Artists’ Journeys with Unreal Engine | Unreal Fest 2024",
@@ -35,54 +83,6 @@
       "description": "Watch this video and find out how Nike used Unreal Editor for Fortnite (UEFN) to create a virtual sneaker hunt in the sky. Airphoria ...",
       "published_at": "2023-06-23T16:02:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/85A_LolNUGo/hqdefault.jpg"
-    },
-    {
-      "title": "How to Use MetaHuman Animator in Unreal Engine",
-      "video_id": "WWLF-a68-CE",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video and learn how to use MetaHuman Animator to produce facial animation for your digital human in minutes.",
-      "published_at": "2023-06-15T14:18:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WWLF-a68-CE/hqdefault.jpg"
-    },
-    {
-      "title": "Blue Dot: A 3Lateral Showcase of MetaHuman Animator",
-      "video_id": "bIGnx2jvrbg",
-      "channel_title": "Unreal Engine",
-      "description": "Introducing Blue Dot, a short film created by Epic Games' 3Lateral team in collaboration with local Serbian artists, including ...",
-      "published_at": "2023-06-15T14:01:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bIGnx2jvrbg/hqdefault.jpg"
-    },
-    {
-      "title": "Discover the Hillside Sample Project | Inside Unreal",
-      "video_id": "rf9JJkL855U",
-      "channel_title": "Unreal Engine",
-      "description": "Explore 'Hillside,' the original vision for Habitat 67 by Safdie Architects. The iconic design revolutionized the architecture industry ...",
-      "published_at": "2023-05-26T02:27:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rf9JJkL855U/hqdefault.jpg"
-    },
-    {
-      "title": "Exploring the Hillside Sample Project with Safdie Architects and Neoscape | Unreal Engine",
-      "video_id": "D55T_v8039s",
-      "channel_title": "Unreal Engine",
-      "description": "The Hillside Sample Project is a virtual recreation of Moshe Safdie's original vision for Habitat 67, one of the most important ...",
-      "published_at": "2023-05-17T10:55:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D55T_v8039s/hqdefault.jpg"
-    },
-    {
-      "title": "Hillside Sample Project Cinematic in Unreal Engine",
-      "video_id": "n95pKxYoLbA",
-      "channel_title": "Unreal Engine",
-      "description": "Watch a beautifully animated tour of the Hillside Sample Project, a virtual recreation of Moshe Safdie's original vision for ...",
-      "published_at": "2023-05-17T10:55:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n95pKxYoLbA/hqdefault.jpg"
-    },
-    {
-      "title": "Unreal Engine 5.2 Feature Highlights",
-      "video_id": "I7zyNDazmGQ",
-      "channel_title": "Unreal Engine",
-      "description": "Unreal Engine 5.2 further expands UE5's groundbreaking toolset with some innovative new functionality—including a Procedural ...",
-      "published_at": "2023-05-11T15:03:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I7zyNDazmGQ/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-06T00:27:51.016546",
+  "fetched_at": "2025-04-13T00:51:19.165222",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "You asked, Grek answered. 🤖✨  #NationalRoboticsWeek",
+      "video_id": "U1-jt3_XHVo",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Over on our Instagram, we let followers ask our BDX Droid their most pressing questions. Here's Grek's answers!",
+      "published_at": "2025-04-11T19:01:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U1-jt3_XHVo/hqdefault.jpg"
+    },
+    {
+      "title": "Imagineers to name their favorite Disney robot (and droids 🤖) — did yours make the list? 👀✨",
+      "video_id": "5YiMfFOdZRY",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "NationalRoboticsWeek.",
+      "published_at": "2025-04-08T19:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5YiMfFOdZRY/hqdefault.jpg"
+    },
     {
       "title": "Every decision you make with concrete is literally set in stone! #imagineering",
       "video_id": "maaR6sENTzw",
@@ -67,22 +83,6 @@
       "description": "This episode takes you behind the scenes to see how rides come to life, including an inside look at Stark Flight Lab coming to ...",
       "published_at": "2025-03-10T15:00:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IuQPrGLo0QM/hqdefault.jpg"
-    },
-    {
-      "title": "New episode out now 🚀🎢",
-      "video_id": "LpLnYGgjGuc",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "See how ride systems come to life! #WeCallItImagineering.",
-      "published_at": "2025-03-10T15:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LpLnYGgjGuc/hqdefault.jpg"
-    },
-    {
-      "title": "New episode of #WeCallItImagineering TOMORROW at 11 am ET!",
-      "video_id": "VEIFAyd9bFk",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "We're taking you behind the scenes of ride innovation like never before—are you ready?",
-      "published_at": "2025-03-09T15:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VEIFAyd9bFk/hqdefault.jpg"
     }
   ]
 }

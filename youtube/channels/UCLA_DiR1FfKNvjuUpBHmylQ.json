@@ -1,40 +1,56 @@
 {
-  "fetched_at": "2025-04-06T00:28:11.565156",
+  "fetched_at": "2025-04-13T00:51:40.342160",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
   "count": 10,
   "videos": [
     {
+      "title": "Science Launching on SpaceX&#39;s 32nd Cargo Resupply Mission to the Space Station",
+      "video_id": "4841piONzVk",
+      "channel_title": "NASA",
+      "description": "Experiments focused on vision-based navigation, spacecraft air quality, materials for drug and product manufacturing, and ...",
+      "published_at": "2025-04-10T15:43:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4841piONzVk/hqdefault.jpg"
+    },
+    {
+      "title": "Have We Been to Uranus? We Asked a NASA Expert",
+      "video_id": "tzNAWw9EerQ",
+      "channel_title": "NASA",
+      "description": "Have We Ever Been to Uranus? In 1986, NASA's Voyager 2 gave us our first and only close-up look at this ice giant. What it found ...",
+      "published_at": "2025-04-10T14:01:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tzNAWw9EerQ/hqdefault.jpg"
+    },
+    {
       "title": "Jared Isaacman Senate Nomination Hearing for NASA Administrator",
       "video_id": "tqejrlbfB84",
       "channel_title": "NASA",
       "description": "Jared Isaacman is set to participate in his confirmation hearing to become the next NASA administrator. The hearing will take ...",
-      "published_at": "2025-04-04T20:50:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tqejrlbfB84/hqdefault_live.jpg"
+      "published_at": "2025-04-09T17:12:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tqejrlbfB84/hqdefault.jpg"
     },
     {
-      "title": "NASA’s Artemis II Mission Patch Just Launched",
-      "video_id": "w8PLJrJuU8Q",
+      "title": "NASA Astronaut Jonny Kim Soyuz MS-27 Hatch Opening",
+      "video_id": "83VU509bbKQ",
       "channel_title": "NASA",
-      "description": "Behold: the mission patch for Artemis II! The Artemis II mission will embark on its journey around the Moon early 2026 with four ...",
-      "published_at": "2025-04-03T17:21:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w8PLJrJuU8Q/hqdefault.jpg"
+      "description": "After lifting off from the Baikonur Cosmodrome in Kazakhstan and docking with the International Space Station, the Soyuz MS-27 ...",
+      "published_at": "2025-04-08T11:51:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/83VU509bbKQ/hqdefault.jpg"
     },
     {
-      "title": "What Are the Dangers of Going to Space? We Asked a NASA Expert",
-      "video_id": "ryHNj_SLwlE",
+      "title": "NASA Astronaut Jonny Kim Soyuz MS-27 Docking",
+      "video_id": "b7Kk4r9DomA",
       "channel_title": "NASA",
-      "description": "What are the dangers of going to space? Space might look peaceful from afar but it's a harsh environment, especially for humans.",
-      "published_at": "2025-04-02T17:00:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ryHNj_SLwlE/hqdefault.jpg"
+      "description": "After lifting off from the Baikonur Cosmodrome in Kazakhstan, NASA astronaut Jonny Kim is scheduled to dock with the ...",
+      "published_at": "2025-04-08T09:14:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b7Kk4r9DomA/hqdefault.jpg"
     },
     {
       "title": "NASA Astronaut Jonny Kim Soyuz MS-27 Launch",
       "video_id": "dC807gzD9l8",
       "channel_title": "NASA",
       "description": "NASA astronaut Jonny Kim is set to lift off on his first mission to the International Space Station on Tuesday, April 8. Launch is ...",
-      "published_at": "2025-04-01T17:24:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dC807gzD9l8/hqdefault_live.jpg"
+      "published_at": "2025-04-08T06:10:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dC807gzD9l8/hqdefault.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
@@ -67,22 +83,6 @@
       "description": "Introducing the crew of our Artemis II Moon mission, lighting up an Artemis rocket engine, and a new image of a distant planet.",
       "published_at": "2023-04-07T21:34:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vu-qFyWnrZY/hqdefault.jpg"
-    },
-    {
-      "title": "#PassThePhone with NASA and CSA’s Artemis II Lunar Flyby Astronauts",
-      "video_id": "VgSFtZ7UGCE",
-      "channel_title": "NASA",
-      "description": "Four astronauts are flying around the Moon on our 10-day Artemis II mission: NASA's Reid Wiseman, Victor Glover, and Christina ...",
-      "published_at": "2023-04-03T18:59:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VgSFtZ7UGCE/hqdefault.jpg"
-    },
-    {
-      "title": "Artemis I Path to the Pad: Launch and Recovery",
-      "video_id": "yae96AxH7V0",
-      "channel_title": "NASA",
-      "description": "On Nov. 16, 2022, NASA made history with the launch of our Space Launch System (SLS) rocket and Orion spacecraft – our ...",
-      "published_at": "2023-03-31T18:44:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yae96AxH7V0/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-06T00:28:10.757870",
+  "fetched_at": "2025-04-13T00:51:39.596571",
   "channel_id": "UCKo61AAaRD00ibCWJZ321MQ",
   "channel_title": "SoKrispyMedia",
   "count": 10,
   "videos": [
+    {
+      "title": "What happens when you enter a videogame",
+      "video_id": "t-2iVCQql7E",
+      "channel_title": "SoKrispyMedia",
+      "description": "We gotta stop getting trapped inside these video games… FragPunk is now LIVE and free to play on PC! Jump in now to claim ...",
+      "published_at": "2025-04-12T14:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t-2iVCQql7E/hqdefault.jpg"
+    },
+    {
+      "title": "Trying the BIGGEST Chalk Warfare weapon",
+      "video_id": "t-9XyKNejj0",
+      "channel_title": "SoKrispyMedia",
+      "description": "This drawing was insane… & FragPunk is now LIVE and free to play on PC! Jump in now to claim your pre-registration rewards ...",
+      "published_at": "2025-04-09T14:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t-9XyKNejj0/hqdefault.jpg"
+    },
     {
       "title": "ALL this work for one shot?! #vfx",
       "video_id": "6lLPM-PBrCU",
@@ -67,22 +83,6 @@
       "description": "Forget about your job... AI is coming for your hobbies next.",
       "published_at": "2024-03-16T14:00:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dWMzUuMXhMg/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Robot quits his Restaurant Job",
-      "video_id": "Tn4LUQCFb8o",
-      "channel_title": "SoKrispyMedia",
-      "description": "The hibachi grill lost a real one today…",
-      "published_at": "2024-01-08T01:45:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Tn4LUQCFb8o/hqdefault.jpg"
-    },
-    {
-      "title": "Robots testing the Bulletproof #cybertruck",
-      "video_id": "2cukB4_hDCI",
-      "channel_title": "SoKrispyMedia",
-      "description": "An on-site look at the intelligence helping build the Cybertruck.",
-      "published_at": "2023-12-01T12:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2cukB4_hDCI/hqdefault.jpg"
     }
   ]
 }

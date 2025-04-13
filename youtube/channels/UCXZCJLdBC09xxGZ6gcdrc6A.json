@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2025-04-06T00:28:24.921871",
+  "fetched_at": "2025-04-13T00:51:53.731101",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Pre-Training GPT-4.5",
+      "video_id": "6nJZopACRuQ",
+      "channel_title": "OpenAI",
+      "description": "Sam Altman sits down with Amin Tootoonchian, Alex Paino, and Daniel Selsam to discuss the journey to get to GPT-4.5.",
+      "published_at": "2025-04-11T01:02:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6nJZopACRuQ/hqdefault.jpg"
+    },
+    {
+      "title": "Market research with ChatGPT",
+      "video_id": "0G2pCw9wGfQ",
+      "channel_title": "OpenAI",
+      "description": "Deep research is the first truly agentic tool from OpenAI. In this demo, we show how ChatGPT can plan, search, read sources, and ...",
+      "published_at": "2025-04-08T19:35:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0G2pCw9wGfQ/hqdefault.jpg"
+    },
+    {
+      "title": "Strategic planning with ChatGPT",
+      "video_id": "HKk972fTfkk",
+      "channel_title": "OpenAI",
+      "description": "Want ChatGPT to be more strategic? This demo shows how o1 pro mode can reason through complex business challenges.",
+      "published_at": "2025-04-08T19:34:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HKk972fTfkk/hqdefault.jpg"
+    },
+    {
+      "title": "Shipping code to your IDE with ChatGPT",
+      "video_id": "_WvtdRtG1aY",
+      "channel_title": "OpenAI",
+      "description": "See how OpenAI's ChatGPT can now integrate directly with apps like IDEs to help engineers write, debug, and refactor code in ...",
+      "published_at": "2025-04-08T19:31:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_WvtdRtG1aY/hqdefault.jpg"
+    },
+    {
+      "title": "Creating a contextual workspace in ChatGPT",
+      "video_id": "-ctJEx1n15g",
+      "channel_title": "OpenAI",
+      "description": "Discover how ChatGPT's Projects feature helps you organize files, save context, and keep conversations consistent across your ...",
+      "published_at": "2025-04-08T19:29:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-ctJEx1n15g/hqdefault.jpg"
+    },
+    {
+      "title": "Vision and voice in ChatGPT",
+      "video_id": "tmzyE9AawiE",
+      "channel_title": "OpenAI",
+      "description": "In this demo, we show how to use ChatGPT's advanced vision + voice mode in OpenAI's mobile app. Using the camera and ...",
+      "published_at": "2025-04-08T19:27:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tmzyE9AawiE/hqdefault.jpg"
+    },
+    {
+      "title": "Prototyping with canvas in ChatGPT",
+      "video_id": "JbIvaFh44EY",
+      "channel_title": "OpenAI",
+      "description": "See how to go from a product requirements document to a working HTML/React prototype using canvas in ChatGPT. This video ...",
+      "published_at": "2025-04-08T19:25:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JbIvaFh44EY/hqdefault.jpg"
+    },
+    {
+      "title": "Writing with canvas in ChatGPT",
+      "video_id": "Ks1C-5p04PY",
+      "channel_title": "OpenAI",
+      "description": "See how to use canvas in ChatGPT to turn meeting notes, transcripts, or uploaded content into polished marketing and business ...",
+      "published_at": "2025-04-08T19:21:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ks1C-5p04PY/hqdefault.jpg"
+    },
     {
       "title": "Meet ChatGPT&#39;s New Voice, Monday 🙄",
       "video_id": "2uoF2w8-hKg",
@@ -19,70 +83,6 @@
       "description": "Speaker: dmed Medina.",
       "published_at": "2025-03-25T18:21:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PFsOUNfBhzI/hqdefault.jpg"
-    },
-    {
-      "title": "Text Rendering with 4o Image Generation",
-      "video_id": "NO7Uo2ii1Sw",
-      "channel_title": "OpenAI",
-      "description": "Speaker: Allan Jabri.",
-      "published_at": "2025-03-25T18:20:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NO7Uo2ii1Sw/hqdefault.jpg"
-    },
-    {
-      "title": "Detailed Directions with 4o Image Generation",
-      "video_id": "ELwb_emN1p0",
-      "channel_title": "OpenAI",
-      "description": "Speaker: Kenji Hata.",
-      "published_at": "2025-03-25T18:20:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ELwb_emN1p0/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI 4o Image Generation",
-      "video_id": "E9RN8jX--uc",
-      "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2025-03-25T18:20:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E9RN8jX--uc/hqdefault.jpg"
-    },
-    {
-      "title": "Transparent Layers with 4o Image Generation",
-      "video_id": "tMhAASk9i1o",
-      "channel_title": "OpenAI",
-      "description": "Speaker: Jianfeng Wang.",
-      "published_at": "2025-03-25T18:19:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tMhAASk9i1o/hqdefault.jpg"
-    },
-    {
-      "title": "Visual Restyling with 4o Image Generation",
-      "video_id": "jevonM6gBcA",
-      "channel_title": "OpenAI",
-      "description": "Speaker: Lu Liu.",
-      "published_at": "2025-03-25T18:19:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jevonM6gBcA/hqdefault.jpg"
-    },
-    {
-      "title": "4o Image Generation in ChatGPT and Sora",
-      "video_id": "2f3K43FHRKo",
-      "channel_title": "OpenAI",
-      "description": "Sam Altman, Gabriel Goh, Prafulla Dhariwal, Lu Liu, Allan Jabri, and Mengchao Zhong introduce and demo 4o image generation.",
-      "published_at": "2025-03-25T18:18:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2f3K43FHRKo/hqdefault.jpg"
-    },
-    {
-      "title": "New ChatGPT voice mode updates ⬇️",
-      "video_id": "mm4djPNO8os",
-      "channel_title": "OpenAI",
-      "description": "ChatGPT's voice mode now interrupts you less so you can take pauses and gather your thoughts. This update is available for all ...",
-      "published_at": "2025-03-24T20:58:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mm4djPNO8os/hqdefault.jpg"
-    },
-    {
-      "title": "How Protopica uses remix and blend in Sora",
-      "video_id": "HvXVkdiWqcA",
-      "channel_title": "OpenAI",
-      "description": "To celebrate Protopica's first journey around the sun, Manuel Sainsily & Will Selviz partnered with OpenAI's Sora to break down ...",
-      "published_at": "2025-03-24T19:04:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HvXVkdiWqcA/hqdefault.jpg"
     }
   ]
 }

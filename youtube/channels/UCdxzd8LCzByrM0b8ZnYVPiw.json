@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-06T00:28:32.620920",
+  "fetched_at": "2025-04-13T00:52:02.014627",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Different by Nature. Bang &amp; Olufsen x Antolini",
+      "video_id": "5G1_AItknT0",
+      "channel_title": "Bang & Olufsen",
+      "description": "Sound from Struer, Denmark. Stone from @antolini, Italy. Introducing a new work of art that's different by nature.",
+      "published_at": "2025-04-10T20:39:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5G1_AItknT0/hqdefault.jpg"
+    },
+    {
+      "title": "Bang Olufsen x Antolini",
+      "video_id": "-DhzWO8JbeY",
+      "channel_title": "Bang & Olufsen",
+      "description": "Sound from Struer, Denmark. Stone from @antolini, Italy. Introducing a new work of art that's different by nature.",
+      "published_at": "2025-04-10T11:58:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-DhzWO8JbeY/hqdefault.jpg"
+    },
     {
       "title": "An exquisite showcase at The International Concours of Elegance (I.C.E.) , St Moritz 🇨🇭",
       "video_id": "NDEZy9X1z64",
@@ -67,22 +83,6 @@
       "description": "Tune in. Catch up. Beoplay H100 brings you closer to what matters. #Somethingtocomehometo #BeoplayH100 #BangOlufsen.",
       "published_at": "2024-12-16T14:03:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3ZjDtMAv-wM/hqdefault.jpg"
-    },
-    {
-      "title": "Beoplay Eleven",
-      "video_id": "6p06d2zXcLM",
-      "channel_title": "Bang & Olufsen",
-      "description": "Music with more zest. Comfort with more class. And a shine that sings. With Beoplay Eleven wireless earbuds, every vibration is ...",
-      "published_at": "2024-12-10T08:49:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6p06d2zXcLM/hqdefault.jpg"
-    },
-    {
-      "title": "Beosound Explore",
-      "video_id": "dtPTJrOtKQY",
-      "channel_title": "Bang & Olufsen",
-      "description": "Grab. Go. And get together. Play anywhere with Beosound Explore. Now that's something to come home to.",
-      "published_at": "2024-11-18T12:45:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dtPTJrOtKQY/hqdefault.jpg"
     }
   ]
 }

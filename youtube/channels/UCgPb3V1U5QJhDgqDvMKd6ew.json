@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-06T00:28:35.414360",
+  "fetched_at": "2025-04-13T00:52:04.946107",
   "channel_id": "UCgPb3V1U5QJhDgqDvMKd6ew",
   "channel_title": "AILOVEAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The signal",
+      "video_id": "t1tnQ6kz7c0",
+      "channel_title": "AILOVEAI",
+      "description": "https://www.facebook.com/AiloveaiOPE https://www.instagram.com/o.pe_2b/ https://www.youtube.com/@AILOVEAI_OPE ...",
+      "published_at": "2025-04-10T09:58:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t1tnQ6kz7c0/hqdefault.jpg"
+    },
     {
       "title": "The Theory of Possibilities.",
       "video_id": "tdBkpW5x1pQ",
@@ -75,14 +83,6 @@
       "description": "Step into the World of the Clockwork Duchess Picture a realm where gears turn the tides of time, where steam drifts through ...",
       "published_at": "2024-12-26T21:34:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/S3CtWZ5dgv4/hqdefault.jpg"
-    },
-    {
-      "title": "Still Voyage",
-      "video_id": "tJ3tH0a_x3g",
-      "channel_title": "AILOVEAI",
-      "description": "She does not move, yet she traverses the universe. Around her, worlds are born and fade, time stretches and dissolves.",
-      "published_at": "2024-12-25T21:41:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tJ3tH0a_x3g/hqdefault.jpg"
     }
   ]
 }

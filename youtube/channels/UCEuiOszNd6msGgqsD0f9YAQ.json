@@ -1,24 +1,32 @@
 {
-  "fetched_at": "2025-04-06T00:28:02.126431",
+  "fetched_at": "2025-04-13T00:51:30.540202",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
     {
-      "title": "The Man Who Flew Before The Wright Brothers",
-      "video_id": "4LDZCpCNGxM",
+      "title": "The Sewing Machine War of the 1850s",
+      "video_id": "MF43N2gvMYk",
       "channel_title": "Interesting Engineering",
-      "description": "The airplane is one of the most important inventions in the history of mankind. But did you know there were many people who tried ...",
-      "published_at": "2025-04-05T00:30:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4LDZCpCNGxM/hqdefault.jpg"
+      "description": "You might think science is just about experiments and discoveries. But there's actually a lot of drama behind the scenes.",
+      "published_at": "2025-04-11T21:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MF43N2gvMYk/hqdefault.jpg"
     },
     {
-      "title": "World&#39;s Fastest Civilian Plane Breaks Sound Barrier",
-      "video_id": "l3_o5oCJVe8",
+      "title": "Touching A 3D Hologram",
+      "video_id": "fB5lU3DP1wQ",
       "channel_title": "Interesting Engineering",
-      "description": "Canadian jet maker Bombardier has just released their newest private jet model: the Global 8000. But what makes this jet so ...",
-      "published_at": "2025-04-04T21:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l3_o5oCJVe8/hqdefault.jpg"
+      "description": "3D holograms have always felt like something out of a sci-fi movie. Not anymore. Researchers have discovered a way for people ...",
+      "published_at": "2025-04-10T21:00:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fB5lU3DP1wQ/hqdefault.jpg"
+    },
+    {
+      "title": "The DRAMA Behind Inventing The Lightbulb",
+      "video_id": "COLO-mcnWRU",
+      "channel_title": "Interesting Engineering",
+      "description": "Everyone knows who invented the lightbulb: Thomas Edison, the great American inventor who also invented the phonograph.",
+      "published_at": "2025-04-09T21:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/COLO-mcnWRU/hqdefault.jpg"
     },
     {
       "title": "China is Building Gravity Batteries",
@@ -75,14 +83,6 @@
       "description": "Want to know more about military tech? Don't Miss Out! *SUBSCRIBE & HIT THE BELL* https://bit.ly/SubscribeNowIE ...",
       "published_at": "2023-10-02T19:00:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/j6EfpgMt3-I/hqdefault.jpg"
-    },
-    {
-      "title": "⚡ How Skynex Annihilates Russian Drones in Ukraine",
-      "video_id": "qJi88DEmRCA",
-      "channel_title": "Interesting Engineering",
-      "description": "Want to know more about military tech? Don't Miss Out! *SUBSCRIBE & HIT THE BELL* https://bit.ly/SubscribeNowIE ...",
-      "published_at": "2023-09-06T18:07:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qJi88DEmRCA/hqdefault.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-04-06T00:28:08.476157",
+  "fetched_at": "2025-04-13T00:51:37.293699",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "warpdotdev",
   "count": 10,
@@ -9,8 +9,16 @@
       "video_id": "VP03wHzaMJc",
       "channel_title": "warpdotdev",
       "description": "Learn how to code by prompt with Warp!",
-      "published_at": "2025-04-01T21:00:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VP03wHzaMJc/hqdefault_live.jpg"
+      "published_at": "2025-04-11T06:48:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VP03wHzaMJc/hqdefault.jpg"
+    },
+    {
+      "title": "Coding by Prompt with Warp",
+      "video_id": "ceDXjd8OO04",
+      "channel_title": "warpdotdev",
+      "description": "Learn how to code by prompt with Warp!",
+      "published_at": "2025-04-01T21:03:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ceDXjd8OO04/hqdefault_live.jpg"
     },
     {
       "title": "Launch Log 01 | Warp Updates",
@@ -35,14 +43,6 @@
       "description": "Try Warp now for FREE https://www.warp.dev TODAY IS THE DAY. WE ARE FINALLY LAUNCHING WARP ON WINDOWS!",
       "published_at": "2025-02-26T13:00:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LOo9QkXZebk/hqdefault.jpg"
-    },
-    {
-      "title": "Get Early Access to Warp on Windows",
-      "video_id": "GRhuizrnapI",
-      "channel_title": "warpdotdev",
-      "description": "www.windows-when.com We are giving thousands of users on our waitlist early access to Warp on Windows. Join now!",
-      "published_at": "2025-02-05T20:10:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GRhuizrnapI/hqdefault.jpg"
     },
     {
       "title": "We have new swag",

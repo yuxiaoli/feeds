@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-06T00:27:45.747143",
+  "fetched_at": "2025-04-13T00:51:13.934609",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Boz To The Future Podcast #23 - The Future According to James Cameron",
+      "video_id": "qOdjM14QW0s",
+      "channel_title": "Meta",
+      "description": "In the latest episode of the Boz To The Future podcast, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth goes deep ...",
+      "published_at": "2025-04-09T12:15:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qOdjM14QW0s/hqdefault.jpg"
+    },
     {
       "title": "Tattooing with Ray-Ban Meta",
       "video_id": "6GraZv2f40A",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-02-28T20:33:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Jjp9THsgQ-4/hqdefault.jpg"
-    },
-    {
-      "title": "Rave-ioli anyone? Via IG artisan @stoccafisso_design",
-      "video_id": "AbtFGDU9QUc",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-02-21T16:16:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AbtFGDU9QUc/hqdefault.jpg"
     }
   ]
 }

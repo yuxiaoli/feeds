@@ -1,40 +1,56 @@
 {
-  "fetched_at": "2025-04-06T00:28:07.741223",
+  "fetched_at": "2025-04-13T00:51:36.569019",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
   "count": 10,
   "videos": [
     {
-      "title": "Supporting Teens in a Video-Driven World | The Check Up with Google &#39;25",
-      "video_id": "PERytbCO-Fo",
-      "channel_title": "Google",
-      "description": "How is YouTube helping teens navigate the evolving world of generative AI? Dr. Garth Graham discusses a new partnership with ...",
-      "published_at": "2025-04-04T15:58:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PERytbCO-Fo/hqdefault.jpg"
-    },
-    {
-      "title": "Enjoy the art break",
-      "video_id": "DCzR1gwaKDA",
+      "title": "Hit a snag? Gemini Live can help. Share your camera and screen to get clear, step-by-step guidance.",
+      "video_id": "atAk9c54sAw",
       "channel_title": "Google",
       "description": "Subscribe to our Channel: https://www.youtube.com/google Find us on X: https://twitter.com/google Watch us on TikTok: ...",
-      "published_at": "2025-04-04T14:24:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DCzR1gwaKDA/hqdefault.jpg"
+      "published_at": "2025-04-11T22:07:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/atAk9c54sAw/hqdefault.jpg"
     },
     {
-      "title": "Made by Google Podcast S7E3 | Pixel 9a: Smart AI, smart deal!",
-      "video_id": "RRsRa8G9j0Y",
+      "title": "Everything you missed at #GoogleCloudNext",
+      "video_id": "EXCDG_I6cjM",
       "channel_title": "Google",
-      "description": "Get the inside scoop on the Pixel 9a, the phone that's standardizing Google AI! We're diving deep into all the features that make ...",
-      "published_at": "2025-04-03T15:56:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RRsRa8G9j0Y/hqdefault.jpg"
+      "description": "",
+      "published_at": "2025-04-11T19:37:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EXCDG_I6cjM/hqdefault.jpg"
     },
     {
-      "title": "Ubie&#39;s Generative AI: Empowering Healthcare Professionals | The Check Up with Google &#39;25",
-      "video_id": "zGrOKVFTj-8",
+      "title": "When you’re lost in the darkness, look for the light of the search bar. @thelastofus",
+      "video_id": "vJvOmkE01Z0",
       "channel_title": "Google",
-      "description": "How is Ubie using Google's Gemini in clinics today? Dr. Shohei Harase, PM, explains the real-world applications and impact.",
-      "published_at": "2025-04-02T15:57:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zGrOKVFTj-8/hqdefault.jpg"
+      "description": "Subscribe to our Channel: https://www.youtube.com/google Find us on X: https://twitter.com/google Watch us on TikTok: ...",
+      "published_at": "2025-04-11T18:13:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vJvOmkE01Z0/hqdefault.jpg"
+    },
+    {
+      "title": "Investing in AI-Powered Solutions for the Electric Grid",
+      "video_id": "Qh-yL_JPEI8",
+      "channel_title": "Google",
+      "description": "AI can be a powerful tool to help build the electricity system of the future. We're collaborating with Tapestry and PJM ...",
+      "published_at": "2025-04-10T16:05:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qh-yL_JPEI8/hqdefault.jpg"
+    },
+    {
+      "title": "Google Pixel 9a first look #Pixel9a #Google",
+      "video_id": "71fx5l8-se8",
+      "channel_title": "Google",
+      "description": "",
+      "published_at": "2025-04-10T13:09:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/71fx5l8-se8/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing AI Mode: A New Experiment in Google Search",
+      "video_id": "qbqZQFOVfA8",
+      "channel_title": "Google",
+      "description": "Ask whatever's on your mind to get an AI powered response, and keep exploring with follow-up questions and helpful web links.",
+      "published_at": "2025-04-09T21:34:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qbqZQFOVfA8/hqdefault.jpg"
     },
     {
       "title": "Introducing Canvas in Gemini",
@@ -67,22 +83,6 @@
       "description": "Gemini API and Gemma updates from Google I/O on May 14, 2024. Join Josh Woodward, VP, Labs, to learn about Gemini 1.5 ...",
       "published_at": "2024-05-17T16:34:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/V_-FkyIGUcg/hqdefault.jpg"
-    },
-    {
-      "title": "Google I/O 2024 Keynote: Android",
-      "video_id": "SWlr6otGrGo",
-      "channel_title": "Google",
-      "description": "Android updates from Google I/O on May 14, 2024. Join Sameer Samat, President, Android Ecosystem, and Dave Burke, VP, ...",
-      "published_at": "2024-05-17T14:32:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SWlr6otGrGo/hqdefault.jpg"
-    },
-    {
-      "title": "Project Astra: Our vision for the future of AI assistants",
-      "video_id": "nXVvvRhiGjI",
-      "channel_title": "Google",
-      "description": "Introducing Project Astra. We created a demo in which a tester interacts with a prototype of AI agents supported by our multimodal ...",
-      "published_at": "2024-05-14T17:26:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nXVvvRhiGjI/hqdefault.jpg"
     }
   ]
 }

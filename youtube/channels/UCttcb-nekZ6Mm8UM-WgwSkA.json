@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-06T00:28:44.646223",
+  "fetched_at": "2025-04-13T00:52:14.683729",
   "channel_id": "UCttcb-nekZ6Mm8UM-WgwSkA",
   "channel_title": "Piixel Clowns",
   "count": 10,
   "videos": [
+    {
+      "title": "How to Master Blender RENDER LAYERS &amp; CRYPTOMATTE for Pro-Level Compositing!",
+      "video_id": "w__hM12vefQ",
+      "channel_title": "Piixel Clowns",
+      "description": "\"Struggling to keep your Blender CGI projects organized? In this step-by-step Blender tutorial, discover how to master Render ...",
+      "published_at": "2025-04-07T13:30:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w__hM12vefQ/hqdefault.jpg"
+    },
     {
       "title": "Master Blender Lighting: Professional Workflows for Stunning 3D Scenes | Lighting Tutorial",
       "video_id": "9vopq78UJvc",
@@ -75,14 +83,6 @@
       "description": "In this dynamic YouTube Short, witness the future of digital marketing come to life with stunning CGI effects, all created using ...",
       "published_at": "2024-10-17T13:30:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hr7XFJ-_XzA/hqdefault.jpg"
-    },
-    {
-      "title": "The Wandering Knight | UNREAL ENGINE short fim",
-      "video_id": "bY1BQ-Ct2Hg",
-      "channel_title": "Piixel Clowns",
-      "description": "The Wandering Knight: A Desert's Echo,\" follow the solitary journey of a knight lost in a vast, unforgiving desert. Stripped of ...",
-      "published_at": "2024-09-26T13:30:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bY1BQ-Ct2Hg/hqdefault.jpg"
     }
   ]
 }

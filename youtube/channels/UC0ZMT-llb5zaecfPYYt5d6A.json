@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-06T00:27:46.476598",
+  "fetched_at": "2025-04-13T00:51:14.664352",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "~Sheltered~ who’s ready?? #thecastellows",
+      "video_id": "iML0pmj-uLk",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2025-04-08T14:41:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iML0pmj-uLk/hqdefault.jpg"
+    },
     {
       "title": "Back in the silo 👀 #newmusic",
       "video_id": "M_G2dx5t6cc",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-02-01T13:30:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0KJzuRQWqvo/hqdefault.jpg"
-    },
-    {
-      "title": "The Castellows - Place They Call Home (feat. Flatland Cavalry) [Lyric Video]",
-      "video_id": "lRJnhfM3iRc",
-      "channel_title": "The Castellows",
-      "description": "The Castellows - Place They Call Home (feat. Flatland Cavalry) [Lyric Video] Listen to the EP Playlist: ...",
-      "published_at": "2025-01-24T15:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lRJnhfM3iRc/hqdefault.jpg"
     }
   ]
 }
