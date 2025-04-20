@@ -1,40 +1,88 @@
 {
-  "fetched_at": "2025-04-13T00:51:15.441675",
+  "fetched_at": "2025-04-20T00:28:22.057663",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
-  "count": 4,
+  "count": 10,
   "videos": [
     {
-      "title": "Analyze, estimate, and optimize costs with Microsoft Copilot in Azure",
-      "video_id": "fmEV4EjMz00",
+      "title": "Quantum Error Correction with Q#",
+      "video_id": "PxuLc3g2qCA",
       "channel_title": "Microsoft Azure",
-      "description": "Learn how Microsoft Copilot in Azure can help you analyze, estimate, and optimize cloud costs. Copilot in Azure is now generally ...",
-      "published_at": "2025-04-08T23:11:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fmEV4EjMz00/hqdefault.jpg"
+      "description": "This video demonstrates implementing an error correction algorithm using the Q# language in the Microsoft Azure Quantum ...",
+      "published_at": "2025-04-18T15:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PxuLc3g2qCA/hqdefault.jpg"
     },
     {
-      "title": "Pioneering AI Innovation with NVIDIA Blackwell Platform on Azure",
-      "video_id": "maQAZkjVOoQ",
+      "title": "Microsoft Azure Quantum Development Kit overview",
+      "video_id": "ldcaDQTLTkY",
       "channel_title": "Microsoft Azure",
-      "description": "Discover how Microsoft and NVIDIA are revolutionizing AI with the integration of the NVIDIA Blackwell platform into Azure.",
-      "published_at": "2024-12-30T16:53:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/maQAZkjVOoQ/hqdefault.jpg"
+      "description": "This video gives a quick overview of the various features available in the Microsoft Azure Quantum Development Kit (QDK).",
+      "published_at": "2025-04-17T13:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ldcaDQTLTkY/hqdefault.jpg"
     },
     {
-      "title": "Azure confidential computing - your data is protected",
-      "video_id": "PAsftKAXFxc",
+      "title": "Nationwide Building Society maximizes cloud investments with the Microsoft marketplace",
+      "video_id": "McoqJkyYUoo",
       "channel_title": "Microsoft Azure",
-      "description": "Satya Nadella announces the general availability of new Azure Confidential Computing DCsv3 Virtual Machines and a preview of ...",
-      "published_at": "2022-06-06T15:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PAsftKAXFxc/hqdefault.jpg"
+      "description": "Nationwide Building Society is one of the world's largest member-owned banks. The Microsoft marketplace helps Nationwide ...",
+      "published_at": "2025-04-15T19:05:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/McoqJkyYUoo/hqdefault.jpg"
     },
     {
-      "title": "How to use the whiteboard within your Visual Studio Live Share experience | Azure Tips and Tricks",
-      "video_id": "EzjYtsX5LgI",
+      "title": "Microsoft Saas Stories | Learn from Software Experts | Episode 14, Dalikoo",
+      "video_id": "JtIL21FANWM",
       "channel_title": "Microsoft Azure",
-      "description": "In this edition of Azure Tips and Tricks, you'll learn how to collaboratively draw on the whiteboard in real-time from within Visual ...",
-      "published_at": "2020-05-08T15:15:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EzjYtsX5LgI/hqdefault.jpg"
+      "description": "In this interview series, we interview Microsoft partners at various stages of their software as a service (SaaS) journey and learn ...",
+      "published_at": "2025-04-14T13:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JtIL21FANWM/hqdefault.jpg"
+    },
+    {
+      "title": "Author Azure Resource Graph queries with Microsoft Copilot in Azure",
+      "video_id": "WYRFaWBWTRY",
+      "channel_title": "Microsoft Azure",
+      "description": "Learn how Microsoft Copilot in Azure can help you gain better insights for cloud resource management by generating Azure ...",
+      "published_at": "2025-04-08T23:09:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WYRFaWBWTRY/hqdefault.jpg"
+    },
+    {
+      "title": "The transformative power of neurodiversity and AI | EY, Neurodiversity Center of Excellence",
+      "video_id": "-kF7rNLlv5k",
+      "channel_title": "Microsoft Azure",
+      "description": "Great minds think alike—or do they? In this episode, Susan speaks with Hiren Shukla, Global Neurodiversity and Inclusive Value ...",
+      "published_at": "2025-04-08T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-kF7rNLlv5k/hqdefault.jpg"
+    },
+    {
+      "title": "Operation Smile makes faces happier around the world",
+      "video_id": "qq5XJsLyZXE",
+      "channel_title": "Microsoft Azure",
+      "description": "To serve its global patients, Operation Smile needed better support for translation and localized data input, faster ways to identify ...",
+      "published_at": "2025-04-02T22:45:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qq5XJsLyZXE/hqdefault.jpg"
+    },
+    {
+      "title": "NTT DATA, Inc. simplifies AI deployment with Fabric data agents and Azure AI Agent Service",
+      "video_id": "pKrWV0s1acY",
+      "channel_title": "Microsoft Azure",
+      "description": "Learn how NTT DATA, Inc. used Microsoft's data and AI platforms: Microsoft Fabric data agents and Azure AI Agent Service.",
+      "published_at": "2025-03-31T17:05:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pKrWV0s1acY/hqdefault.jpg"
+    },
+    {
+      "title": "MWC 2025 Microsoft Fabric",
+      "video_id": "VKQIXkTIk60",
+      "channel_title": "Microsoft Azure",
+      "description": "Explore how telcos can scale AI with a unified data estate, unlocking powerful insights and driving innovation. Explore the ...",
+      "published_at": "2025-03-27T01:03:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VKQIXkTIk60/hqdefault.jpg"
+    },
+    {
+      "title": "MWC 2025 Dynamics 365 Sales and Field Service",
+      "video_id": "5cCjeXGnCCQ",
+      "channel_title": "Microsoft Azure",
+      "description": "Learn how Microsoft Dynamics 365, empowered with Copilot, enables telcos to differentiate themselves across the key telecom ...",
+      "published_at": "2025-03-27T01:02:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5cCjeXGnCCQ/hqdefault.jpg"
     }
   ]
 }

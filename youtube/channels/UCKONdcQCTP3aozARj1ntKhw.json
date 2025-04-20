@@ -1,21 +1,29 @@
 {
-  "fetched_at": "2025-04-13T00:51:37.293699",
+  "fetched_at": "2025-04-20T00:28:44.122773",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
-  "channel_title": "warpdotdev",
+  "channel_title": "Warp",
   "count": 10,
   "videos": [
     {
-      "title": "Coding by Prompt with Warp",
+      "title": "Ep.1 — Holy S^&amp;% (The New Guy) | Fixing a broken dev environment",
+      "video_id": "StMShnRdqnA",
+      "channel_title": "Warp",
+      "description": "Three days from launch and the product doesn't build, no one agrees on what it even does, and the team is already stretched thin.",
+      "published_at": "2025-04-16T16:07:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/StMShnRdqnA/hqdefault.jpg"
+    },
+    {
+      "title": "Coding a Lovable/Bolt Clone with Warp",
       "video_id": "VP03wHzaMJc",
-      "channel_title": "warpdotdev",
-      "description": "Learn how to code by prompt with Warp!",
+      "channel_title": "Warp",
+      "description": "Learn how to code by prompt with Warp.",
       "published_at": "2025-04-11T06:48:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/VP03wHzaMJc/hqdefault.jpg"
     },
     {
       "title": "Coding by Prompt with Warp",
       "video_id": "ceDXjd8OO04",
-      "channel_title": "warpdotdev",
+      "channel_title": "Warp",
       "description": "Learn how to code by prompt with Warp!",
       "published_at": "2025-04-01T21:03:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ceDXjd8OO04/hqdefault_live.jpg"
@@ -31,7 +39,7 @@
     {
       "title": "Coding a MCP Server with Warp",
       "video_id": "AV9sz_PsXR4",
-      "channel_title": "warpdotdev",
+      "channel_title": "Warp",
       "description": "Join Zach Lloyd, Warp's CEO and founder, for a live coding session! Zach will take on a couple of tasks and show how he uses ...",
       "published_at": "2025-03-27T05:00:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AV9sz_PsXR4/hqdefault.jpg"
@@ -39,15 +47,23 @@
     {
       "title": "Warp on Windows...has arrived",
       "video_id": "LOo9QkXZebk",
-      "channel_title": "warpdotdev",
+      "channel_title": "Warp",
       "description": "Try Warp now for FREE https://www.warp.dev TODAY IS THE DAY. WE ARE FINALLY LAUNCHING WARP ON WINDOWS!",
       "published_at": "2025-02-26T13:00:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LOo9QkXZebk/hqdefault.jpg"
     },
     {
+      "title": "Get Early Access to Warp on Windows",
+      "video_id": "GRhuizrnapI",
+      "channel_title": "warpdotdev",
+      "description": "www.windows-when.com We are giving thousands of users on our waitlist early access to Warp on Windows. Join now!",
+      "published_at": "2025-02-05T20:10:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GRhuizrnapI/hqdefault.jpg"
+    },
+    {
       "title": "We have new swag",
       "video_id": "ZRk7I0Np1hk",
-      "channel_title": "warpdotdev",
+      "channel_title": "Warp",
       "description": "Want to get our swag for free? https://docs.warp.dev/getting-started/refer-a-friend.",
       "published_at": "2024-12-03T06:00:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZRk7I0Np1hk/hqdefault.jpg"
@@ -67,22 +83,6 @@
       "description": "Too often, the complexity of devtools gets in the way of shipping good software quickly. Warp's mission is to empower our users ...",
       "published_at": "2024-10-25T15:47:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/A6ghDJz3nNM/hqdefault.jpg"
-    },
-    {
-      "title": "What is a Rest API? (in 2 Minutes)",
-      "video_id": "WRsKs-K6iII",
-      "channel_title": "warpdotdev",
-      "description": "What is a Rest API? In this video, we give the easiest explanation in only 2 minutes as well as some examples written in ...",
-      "published_at": "2024-09-26T15:15:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WRsKs-K6iII/hqdefault.jpg"
-    },
-    {
-      "title": "BEST Package for Rust Developers #programming #rust",
-      "video_id": "E0A_t--VKzo",
-      "channel_title": "warpdotdev",
-      "description": "",
-      "published_at": "2024-09-19T20:13:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E0A_t--VKzo/hqdefault.jpg"
     }
   ]
 }

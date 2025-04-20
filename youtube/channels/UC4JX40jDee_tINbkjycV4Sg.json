@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2025-04-13T00:51:19.917087",
+  "fetched_at": "2025-04-20T00:28:26.428026",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
+    {
+      "title": "How To Automate Your Finances with Python - Full Tutorial (Pandas, Streamlit, Plotly &amp; More)",
+      "video_id": "wqBlmAWqa6A",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with DataCamp and their Finance with Python track today! https://datacamp.pxf.io/RGZMVb In this video, I'll show you ...",
+      "published_at": "2025-04-19T12:16:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wqBlmAWqa6A/hqdefault.jpg"
+    },
+    {
+      "title": "Can anyone really be a software engineer?",
+      "video_id": "zbqhpHAQUW8",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-04-18T12:01:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zbqhpHAQUW8/hqdefault.jpg"
+    },
+    {
+      "title": "Do THIS and your resume will stand out 10x more than other devs",
+      "video_id": "YXjJN1vVqw0",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-04-17T22:33:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YXjJN1vVqw0/hqdefault.jpg"
+    },
+    {
+      "title": "&quot;New Junior Developers Can&#39;t Actually Code&quot;",
+      "video_id": "mTJOpK100bQ",
+      "channel_title": "Tech With Tim",
+      "description": "Check out ManageEngine Site24x7 today and get 6 months for FREE to evaluate the platform!",
+      "published_at": "2025-04-17T13:01:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mTJOpK100bQ/hqdefault.jpg"
+    },
+    {
+      "title": "How to level up as a programmer in 2025",
+      "video_id": "BJOVlsOVK54",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-04-16T21:00:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BJOVlsOVK54/hqdefault.jpg"
+    },
+    {
+      "title": "Stop Using Pip - This New Tool is 100x Faster (UV Tutorial)",
+      "video_id": "6pttmsBSi8M",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with Mend Renovate today!",
+      "published_at": "2025-04-14T15:13:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6pttmsBSi8M/hqdefault.jpg"
+    },
+    {
+      "title": "If you wanna work at Google try solving THIS",
+      "video_id": "HsaGeSA8dAk",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-04-13T14:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HsaGeSA8dAk/hqdefault.jpg"
+    },
     {
       "title": "Build Anything With a CUSTOM MCP Server - Python Tutorial",
       "video_id": "-8k9lGpGQ6g",
@@ -11,38 +67,6 @@
       "description": "Check out PyCharm, the Python IDE for data and web professionals: https://jb.gg/get_pycharm_ide Free 3-Month Personal ...",
       "published_at": "2025-04-12T12:50:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-8k9lGpGQ6g/hqdefault.jpg"
-    },
-    {
-      "title": "What are Dunder methods in python?",
-      "video_id": "twzWPL-qVjk",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-04-12T12:01:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/twzWPL-qVjk/hqdefault.jpg"
-    },
-    {
-      "title": "The BEST way to get good at programming *EVEN WITH 0 EXPERIENCE*",
-      "video_id": "sy7SrVUA_rM",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-04-12T09:21:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sy7SrVUA_rM/hqdefault.jpg"
-    },
-    {
-      "title": "You will never create classes the *USUAL* way again in Python",
-      "video_id": "ENEo_Gv_V_s",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-04-10T18:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ENEo_Gv_V_s/hqdefault.jpg"
-    },
-    {
-      "title": "Why I changed my mind about using AI",
-      "video_id": "xGRFSj8S-Qo",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-04-10T14:07:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xGRFSj8S-Qo/hqdefault.jpg"
     },
     {
       "title": "The benefits of working at a startup as a beginner engineer",
@@ -53,36 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FomxEaxZLzY/hqdefault.jpg"
     },
     {
-      "title": "How To Pick a Programming Language in 2025... And Should You?",
-      "video_id": "ADjyDF0RNY8",
-      "channel_title": "Tech With Tim",
-      "description": "Click this link https://sponsr.is/bootdev_TechWithTim and use my code TECHWITHTIM to get 25% off your first payment for ...",
-      "published_at": "2025-04-07T16:08:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ADjyDF0RNY8/hqdefault.jpg"
-    },
-    {
       "title": "Did Vibe Coding Kill Software Engineering...",
       "video_id": "FC1GIXKGxlY",
       "channel_title": "Tech With Tim",
       "description": "Get the free guide on \"Learn To Code With ChatGPT\" from Hubspot here: https://clickhubspot.com/fzme So it is finally time to talk ...",
       "published_at": "2025-04-05T14:00:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FC1GIXKGxlY/hqdefault.jpg"
-    },
-    {
-      "title": "How to Build a Local AI Agent With Python (Ollama, LangChain &amp; RAG)",
-      "video_id": "E4l91XKQSgw",
-      "channel_title": "Tech With Tim",
-      "description": "Thanks to Microsoft for sponsoring this video! Submit your #CodingWithCopilot stories so I can review them! I'm excited to check ...",
-      "published_at": "2025-03-31T14:39:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E4l91XKQSgw/hqdefault.jpg"
-    },
-    {
-      "title": "Learn These 3 GENUIS Python Features",
-      "video_id": "8dsrpSCmq-o",
-      "channel_title": "Tech With Tim",
-      "description": "Check out PyCharm, the Python IDE for data and web professionals: https://jb.gg/get-pycharm-ide Free 3-Month Personal ...",
-      "published_at": "2025-03-30T15:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8dsrpSCmq-o/hqdefault.jpg"
     }
   ]
 }

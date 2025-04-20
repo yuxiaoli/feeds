@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-13T00:52:16.927098",
+  "fetched_at": "2025-04-20T00:29:23.103307",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "🔥❄️ Welcome to the Cosmic Thermometer! 🌡️🪐",
+      "video_id": "NzSfujGj2nQ",
+      "channel_title": "Star Walk",
+      "description": "In this video, we've lined up all the planets of the Solar System by their temperatures — and the results might surprise you!",
+      "published_at": "2025-04-17T08:12:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NzSfujGj2nQ/hqdefault.jpg"
+    },
+    {
+      "title": "🌍✨ 4-Planet Alignment – April 17, 2025! 🌄🔭",
+      "video_id": "tRHyIQbJM6w",
+      "channel_title": "Star Walk",
+      "description": "Look up in the early morning sky — Venus, Saturn, Mercury, and Neptune will align in Pisces! What you'll see: Venus, Saturn ...",
+      "published_at": "2025-04-14T08:50:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tRHyIQbJM6w/hqdefault.jpg"
+    },
     {
       "title": "🎧 Turn up the volume... if you dare. 😱🌞",
       "video_id": "O7TGZ7GJMCg",
@@ -67,22 +83,6 @@
       "description": "starrysky #stargazing #nightsky #astronomy #starwalk.",
       "published_at": "2025-04-01T05:00:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tUbXSqneVJY/hqdefault.jpg"
-    },
-    {
-      "title": "Eclipse glasses 😎",
-      "video_id": "LwSQnUw1H4E",
-      "channel_title": "Star Walk",
-      "description": "All jokes aside, using proper solar eclipse glasses and filters for your equipment is a must when observing a solar eclipse.",
-      "published_at": "2025-03-28T08:06:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LwSQnUw1H4E/hqdefault.jpg"
-    },
-    {
-      "title": "Sun, Moon, Earth",
-      "video_id": "h8dZh54I_PU",
-      "channel_title": "Star Walk",
-      "description": "On January 14, 2005, the Huygens probe captured a rare event — Earth and the Moon passed in front of the Sun, as seen from ...",
-      "published_at": "2025-03-27T13:12:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h8dZh54I_PU/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-13T00:51:57.543985",
+  "fetched_at": "2025-04-20T00:29:03.964800",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "Front lever muscle-up to handstand push-up",
+      "video_id": "p1Xx7uXZZuw",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2025-04-15T11:41:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p1Xx7uXZZuw/hqdefault.jpg"
+    },
     {
       "title": "تمرين صانع الايسكريم Ice cream maker front lever",
       "video_id": "XkPZ1xS_yDM",
@@ -37,6 +45,22 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Onezye5KB7A/hqdefault.jpg"
     },
     {
+      "title": "تجربة تمرين كالسثنكس في الثلج ودرجة الحرارة تحت الصفر",
+      "video_id": "ISpropWfRPk",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2025-04-01T09:33:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ISpropWfRPk/hqdefault.jpg"
+    },
+    {
+      "title": "كل عام و أنتم بخير على طريقة الكالسثنكس",
+      "video_id": "zae4fzOeGRk",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2025-03-30T20:32:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zae4fzOeGRk/hqdefault.jpg"
+    },
+    {
       "title": "أجمل رياضة",
       "video_id": "0tDCGQM1lFY",
       "channel_title": "Hemo Calisthenics",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2025-02-13T12:11:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Y3P8cVc3VIM/hqdefault.jpg"
-    },
-    {
-      "title": "تمرين Full front lever Raises",
-      "video_id": "fTfs984zS7A",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-02-08T12:16:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fTfs984zS7A/hqdefault.jpg"
-    },
-    {
-      "title": "توجع 💔",
-      "video_id": "mb1ZxQMm11s",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2024-12-02T19:53:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mb1ZxQMm11s/hqdefault.jpg"
-    },
-    {
-      "title": "One arm handstand control",
-      "video_id": "17HllGRiNx0",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2024-11-06T10:29:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/17HllGRiNx0/hqdefault.jpg"
     }
   ]
 }

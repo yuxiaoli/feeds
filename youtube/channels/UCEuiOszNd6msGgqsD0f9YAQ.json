@@ -1,32 +1,16 @@
 {
-  "fetched_at": "2025-04-13T00:51:30.540202",
+  "fetched_at": "2025-04-20T00:28:37.373457",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
     {
-      "title": "The Sewing Machine War of the 1850s",
-      "video_id": "MF43N2gvMYk",
+      "title": "What Happens Inside a Nuclear Meltdown?",
+      "video_id": "gH3Wlhwy_2E",
       "channel_title": "Interesting Engineering",
-      "description": "You might think science is just about experiments and discoveries. But there's actually a lot of drama behind the scenes.",
-      "published_at": "2025-04-11T21:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MF43N2gvMYk/hqdefault.jpg"
-    },
-    {
-      "title": "Touching A 3D Hologram",
-      "video_id": "fB5lU3DP1wQ",
-      "channel_title": "Interesting Engineering",
-      "description": "3D holograms have always felt like something out of a sci-fi movie. Not anymore. Researchers have discovered a way for people ...",
-      "published_at": "2025-04-10T21:00:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fB5lU3DP1wQ/hqdefault.jpg"
-    },
-    {
-      "title": "The DRAMA Behind Inventing The Lightbulb",
-      "video_id": "COLO-mcnWRU",
-      "channel_title": "Interesting Engineering",
-      "description": "Everyone knows who invented the lightbulb: Thomas Edison, the great American inventor who also invented the phonograph.",
-      "published_at": "2025-04-09T21:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/COLO-mcnWRU/hqdefault.jpg"
+      "description": "The nightmare of a nuclear meltdown has haunted people all over the world ever since Chernobyl, but why is it know as a ...",
+      "published_at": "2025-04-13T08:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gH3Wlhwy_2E/hqdefault.jpg"
     },
     {
       "title": "China is Building Gravity Batteries",
@@ -83,6 +67,22 @@
       "description": "Want to know more about military tech? Don't Miss Out! *SUBSCRIBE & HIT THE BELL* https://bit.ly/SubscribeNowIE ...",
       "published_at": "2023-10-02T19:00:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/j6EfpgMt3-I/hqdefault.jpg"
+    },
+    {
+      "title": "⚡ How Skynex Annihilates Russian Drones in Ukraine",
+      "video_id": "qJi88DEmRCA",
+      "channel_title": "Interesting Engineering",
+      "description": "Want to know more about military tech? Don't Miss Out! *SUBSCRIBE & HIT THE BELL* https://bit.ly/SubscribeNowIE ...",
+      "published_at": "2023-09-06T18:07:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qJi88DEmRCA/hqdefault.jpg"
+    },
+    {
+      "title": "What Makes KA-52 A Nightmare For Ukraine&#39;s Tanks",
+      "video_id": "6JjvEVLGL2E",
+      "channel_title": "Interesting Engineering",
+      "description": "Emerging from the lineage of Russian rotary-wing engineering, the KA-52 Alligator (NATO designation Hokum-B), is a highly ...",
+      "published_at": "2023-09-04T19:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6JjvEVLGL2E/hqdefault.jpg"
     }
   ]
 }

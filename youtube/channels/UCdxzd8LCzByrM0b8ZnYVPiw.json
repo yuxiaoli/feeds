@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-13T00:52:02.014627",
+  "fetched_at": "2025-04-20T00:29:08.624759",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Celebrating the launch of our collaboration with Italian natural stone brand, Antolini, in Milan.",
+      "video_id": "2tEnIVYqTXo",
+      "channel_title": "Bang & Olufsen",
+      "description": "Danish design. Italian materials. As part of our Atelier Bespoke offering, we are excited to unveil a new collaboration with Italian ...",
+      "published_at": "2025-04-14T05:20:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2tEnIVYqTXo/hqdefault.jpg"
+    },
     {
       "title": "Different by Nature. Bang &amp; Olufsen x Antolini",
       "video_id": "5G1_AItknT0",
@@ -75,14 +83,6 @@
       "description": "As we fly towards our 100-year anniversary, we pause to appreciate our journey so far. And we begin here, with wood. It's more ...",
       "published_at": "2025-01-29T21:03:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CgF-olWb2Sc/hqdefault.jpg"
-    },
-    {
-      "title": "Beoplay H100",
-      "video_id": "3ZjDtMAv-wM",
-      "channel_title": "Bang & Olufsen",
-      "description": "Tune in. Catch up. Beoplay H100 brings you closer to what matters. #Somethingtocomehometo #BeoplayH100 #BangOlufsen.",
-      "published_at": "2024-12-16T14:03:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3ZjDtMAv-wM/hqdefault.jpg"
     }
   ]
 }

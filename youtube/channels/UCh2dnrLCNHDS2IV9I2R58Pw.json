@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-13T00:52:05.822129",
+  "fetched_at": "2025-04-20T00:29:12.206575",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Britain&#39;s Supersonic Transport",
+      "video_id": "wm8QUxKHwIM",
+      "channel_title": "Hazegrayart",
+      "description": "The Vickers Swallow was a Mach 2.5 supersonic aircraft project headed by Barnes Wallis, working at the British aircraft company ...",
+      "published_at": "2025-04-18T10:30:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wm8QUxKHwIM/hqdefault.jpg"
+    },
+    {
+      "title": "Reusable One Stage Orbital Space Truck (ROOST)",
+      "video_id": "QOBZa-Lw3N8",
+      "channel_title": "Hazegrayart",
+      "description": "Philip Bono's study of a reusable Single Stage to Orbit (SSTO) The Douglas Aircraft Reusable One-Stage Orbital Space Truck ...",
+      "published_at": "2025-04-15T12:30:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QOBZa-Lw3N8/hqdefault.jpg"
+    },
     {
       "title": "Mach 2.5 Vickers Swallow",
       "video_id": "XKZFbmlzh90",
@@ -67,22 +83,6 @@
       "description": "Project Daedalus (named after Daedalus, the Greek mythological designer who crafted wings for human flight) was a study ...",
       "published_at": "2025-03-18T12:00:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3ILA_syG_pM/hqdefault.jpg"
-    },
-    {
-      "title": "Saturn V-4X(U) Staging",
-      "video_id": "q8orcKHXhgs",
-      "channel_title": "Hazegrayart",
-      "description": "Boeing 1968 study, four improved Saturn S-IC first stage stretched TO 498 inches with 6.64 million pounds propellant and 5 F-1 ...",
-      "published_at": "2025-03-15T11:45:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q8orcKHXhgs/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s Survivable Crew Compartment Space Shuttle",
-      "video_id": "zzzJ7ADcHh0",
-      "channel_title": "Hazegrayart",
-      "description": "Engineers in Houston envisioned the Shuttle II as an evolution of the Space Shuttle, with the Evolved Shuttle at its core.",
-      "published_at": "2025-03-14T15:19:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zzzJ7ADcHh0/hqdefault.jpg"
     }
   ]
 }

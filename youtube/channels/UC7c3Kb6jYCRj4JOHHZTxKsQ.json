@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-04-13T00:51:22.203233",
+  "fetched_at": "2025-04-20T00:28:28.550663",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Open Source Friday: Building Modern Web Applications with Oqtane Framework",
-      "video_id": "j7WID3q1yY0",
+      "title": "Open Source Friday with the GitHub Team!",
+      "video_id": "T4Sfl9_tumY",
       "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday with Shaun Walker, the original creator of both Oqtane and DotNetNuke (DNN) - two of the most ...",
-      "published_at": "2025-04-12T06:06:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j7WID3q1yY0/hqdefault.jpg"
+      "description": "Join us for a chat on all things open source and learn how you can be a guest on Open source Friday!",
+      "published_at": "2025-04-19T06:09:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/T4Sfl9_tumY/hqdefault.jpg"
     },
     {
-      "title": "The Download: Git turns 20, MCP server news, and GitHub Universe updates",
-      "video_id": "iMSyB9aWuAc",
+      "title": "[pt-BR] Open Source Friday Brasil com Bruno Rocha, mantenedor do Marmite",
+      "video_id": "sL_n4A_LYS4",
       "channel_title": "GitHub",
-      "description": "Join Cassidy Williams for the latest episode of The Download! This week, we celebrate 20 years of Git, dive into the new GitHub ...",
-      "published_at": "2025-04-11T16:47:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iMSyB9aWuAc/hqdefault.jpg"
+      "description": "Hoje o papo é com Bruno Rocha, mantenedor do projeto Marmite! O Marmite é um gerador de sites estáticos feito com Python, ...",
+      "published_at": "2025-04-19T05:31:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sL_n4A_LYS4/hqdefault.jpg"
     },
     {
-      "title": "Event in Spanish: Jueves de Cuack",
-      "video_id": "htK7Lagh_YM",
+      "title": "Measure your code&#39;s carbon footprint with GitHub Copilot and CodeCarbon",
+      "video_id": "eEr0BR1PbLA",
       "channel_title": "GitHub",
-      "description": "Es el cumpleaños de GitHub! Únete a nuestra sesión de trabajo colaborativo donde desarrolladores de todo el mundo nos ...",
-      "published_at": "2025-04-11T08:48:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/htK7Lagh_YM/hqdefault.jpg"
+      "description": "Computational tasks, especially in AI, have a growing carbon footprint. Learn how CodeCarbon, an open-source Python library, ...",
+      "published_at": "2025-04-18T13:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eEr0BR1PbLA/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays ~ Happy birthday GitHub!",
-      "video_id": "v9k0GazSqOY",
+      "title": "Event in Spanish: Jueves de Quack",
+      "video_id": "qGrTTFI7Nis",
       "channel_title": "GitHub",
-      "description": "It's GitHub's birthday! Let's cowork together and make some cool stuff!",
-      "published_at": "2025-04-11T07:12:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v9k0GazSqOY/hqdefault.jpg"
+      "description": "Únete a nuestra sesión de trabajo colaborativo donde desarrolladores de todo el mundo nos reunimos para crear proyectos ...",
+      "published_at": "2025-04-18T08:52:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qGrTTFI7Nis/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Building with Agent Mode and MCP",
-      "video_id": "rLbjeaDwCMM",
+      "title": "Rubber Duck Thursdays! | Come cowork and hang out on this beautiful day!",
+      "video_id": "9BY4Xlm3QRo",
       "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we work on some projects and do some live coding ...",
-      "published_at": "2025-04-10T23:29:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rLbjeaDwCMM/hqdefault.jpg"
+      "description": "We're going to play with GitHub Copilot and do some open sourcing, woo hoo! 🎙️ New to streaming or looking to level up?",
+      "published_at": "2025-04-18T07:12:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9BY4Xlm3QRo/hqdefault.jpg"
     },
     {
-      "title": "How developers can use open source to address climate change",
-      "video_id": "QyEVrNqFr_c",
+      "title": "[pt-BR] Quinta do Patinho - Vamos vibecodar? Que isso?",
+      "video_id": "ODj5KjaGJKA",
       "channel_title": "GitHub",
-      "description": "The path to reducing global emissions involves innovation, collaboration, and code. GitHub is partnering with Speed and Scale to ...",
-      "published_at": "2025-04-10T15:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QyEVrNqFr_c/hqdefault.jpg"
+      "description": "Nessa Quinta do Patinho, vamos explorar juntos como usar o framework Astro pra construir (ou reconstruir) meu blog pessoal, ...",
+      "published_at": "2025-04-18T04:51:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ODj5KjaGJKA/hqdefault.jpg"
     },
     {
-      "title": "New security tools explained: Secret Protection and Code Security | GitHub Checkout",
-      "video_id": "S3iDgVCBtz8",
+      "title": "Rubber Duck Thursdays – Coding with the latest models",
+      "video_id": "pc5SKYxujDY",
       "channel_title": "GitHub",
-      "description": "With 39 million leaked secrets discovered in 2024, GitHub is expanding its security products. Andrea Griffiths talks with Erin ...",
-      "published_at": "2025-04-10T14:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S3iDgVCBtz8/hqdefault.jpg"
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We've been ...",
+      "published_at": "2025-04-17T23:38:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pc5SKYxujDY/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] Live Especial – Bate-papo com Jeff, da Linux Tips, sobre o GIRUS!",
-      "video_id": "ruNYJ__Tpjc",
+      "title": "How to contribute to climate change projects on GitHub",
+      "video_id": "1AgOJl93ywY",
       "channel_title": "GitHub",
-      "description": "Hove vamos ter uma live super especial! Vou bater um papo descontraído com Jeff, fundador da Linux Tips e responsável pelo ...",
-      "published_at": "2025-04-10T04:58:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ruNYJ__Tpjc/hqdefault.jpg"
+      "description": "Did you know over 60000 climate-focused projects live on GitHub? Learn how you can easily find opportunities to contribute, ...",
+      "published_at": "2025-04-17T16:03:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1AgOJl93ywY/hqdefault.jpg"
     },
     {
-      "title": "Two decades of Git: A conversation with creator Linus Torvalds",
-      "video_id": "sCr_gb8rdEI",
+      "title": "Event in Spanish: VS Code Live Agent Mode Day",
+      "video_id": "GWnscOTG9n0",
       "channel_title": "GitHub",
-      "description": "Twenty years ago, Linus Torvalds created the basis for Git in just 10 days, forever changing how developers collaborate on code.",
-      "published_at": "2025-04-09T19:01:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sCr_gb8rdEI/hqdefault.jpg"
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2025-04-17T13:09:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GWnscOTG9n0/hqdefault.jpg"
     },
     {
-      "title": "Event in Spanish: Calculando con el compilador: Comp time vs Run time en Rust",
-      "video_id": "3IcTYTMNp2g",
+      "title": "[pt-BR] GitHub Presente Brasil - Abril",
+      "video_id": "qZiMzaFZsb4",
       "channel_title": "GitHub",
-      "description": "Únete al experto en Rust Miguel Raz para una presentación sobre 'Calculando con el compilador: Comp time vs Run time en ...",
-      "published_at": "2025-04-07T16:55:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3IcTYTMNp2g/hqdefault_live.jpg"
+      "description": "GitHub Presente Brasil – Abril | Duas palestras imperdíveis para quem quer ir além do código! Palestra 1: De Volta ao Código ...",
+      "published_at": "2025-04-17T11:25:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qZiMzaFZsb4/hqdefault.jpg"
     }
   ]
 }

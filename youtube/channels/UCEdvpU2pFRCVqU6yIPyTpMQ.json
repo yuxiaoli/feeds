@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-04-13T00:51:28.993263",
+  "fetched_at": "2025-04-20T00:28:35.583028",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "The OG mask that started it all…",
+      "video_id": "VrokBUaWXfU",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-04-18T18:19:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VrokBUaWXfU/hqdefault.jpg"
+    },
+    {
+      "title": "had to go hard for this one #marshmello #music #edm",
+      "video_id": "zrI5NTDpl3g",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-04-17T16:08:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zrI5NTDpl3g/hqdefault.jpg"
+    },
+    {
+      "title": "This is a masterpiece @tori.segura #edm #remix #friends",
+      "video_id": "TtUPktNycQY",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-04-15T17:31:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TtUPktNycQY/hqdefault.jpg"
+    },
     {
       "title": "it all started from somewhere #edm #music #dj #marshmello",
       "video_id": "p5BPJkkDaes",
@@ -59,30 +83,6 @@
       "description": "Marshmello - Just Can't Stop (SKAN Remix) stream/download: https://marshmello.ffm.to/therootsremixes stream/download \"The ...",
       "published_at": "2025-03-07T05:00:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/O43_rqRFhkM/hqdefault.jpg"
-    },
-    {
-      "title": "Marshmello - Da Da Da (The Arp Song) (Hekler Remix)",
-      "video_id": "EOY-cwR0018",
-      "channel_title": "Marshmello",
-      "description": "Marshmello - Da Da Da (The Arp Song) (Hekler Remix) stream/download: https://marshmello.ffm.to/therootsremixes ...",
-      "published_at": "2025-03-07T05:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EOY-cwR0018/hqdefault.jpg"
-    },
-    {
-      "title": "Marshmello x Hamdi - Fired Up (MUNK Remix)",
-      "video_id": "f6gp3rE2eyQ",
-      "channel_title": "Marshmello",
-      "description": "Marshmello x Hamdi - Fired Up (MUNK Remix) Stream/Download: https://marshmello.ffm.to/therootsremixes Official Marshmello ...",
-      "published_at": "2025-03-07T05:00:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f6gp3rE2eyQ/hqdefault.jpg"
-    },
-    {
-      "title": "Marshmello x Viperactive - In The Cut (VIP)",
-      "video_id": "OqaKdpG4MZc",
-      "channel_title": "Marshmello",
-      "description": "Marshmello x Viperactive - In The Cut (VIP) Stream/Download: https://marshmello.ffm.to/therootsremixes Stream/Download The ...",
-      "published_at": "2025-03-07T04:45:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OqaKdpG4MZc/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-13T00:51:59.765298",
+  "fetched_at": "2025-04-20T00:29:06.181044",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Enroll in DeepLearning.AI&#39;s Data Analytics Professional Certificate!",
+      "video_id": "xTQd3s2P8lo",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/3Rmge6P Data-informed decision-making is now an essential skill for everyone, from everyday consumer ...",
+      "published_at": "2025-04-18T16:36:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xTQd3s2P8lo/hqdefault.jpg"
+    },
+    {
+      "title": "New short course: Building AI Browser Agents",
+      "video_id": "76BUJ9hYu-g",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4jzZchG Introducing Building AI Browser Agents, a free, short course made in collaboration with AGI Inc, ...",
+      "published_at": "2025-04-16T14:20:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/76BUJ9hYu-g/hqdefault.jpg"
+    },
     {
       "title": "A new short course created with DotTxt is available now",
       "video_id": "qUt0-B8s1vE",
@@ -67,22 +83,6 @@
       "description": "Can a retrieval system learn to play Doom? In this lighthearted and insightful session, Jeff Huber, Founder and CEO of Chroma, ...",
       "published_at": "2025-03-27T18:23:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CK5QGWUf1vo/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 | Mike Chambers: Serverless Agentic Workflows with Amazon Bedrock",
-      "video_id": "8yHVfM_E39w",
-      "channel_title": "DeepLearningAI",
-      "description": "In his hands-on workshop at AI Dev 25, Mike Chambers, Developer Advocate for Generative AI at AWS, guided participants ...",
-      "published_at": "2025-03-27T18:15:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8yHVfM_E39w/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 | Harrison Chase: Long Term Memory with LangGraph",
-      "video_id": "R0OdB-p-ns4",
-      "channel_title": "DeepLearningAI",
-      "description": "How do you build AI agents that remember, learn, and adapt over time? During AI Dev 25, Harrison Chase, Co-founder and CEO ...",
-      "published_at": "2025-03-27T18:07:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R0OdB-p-ns4/hqdefault.jpg"
     }
   ]
 }

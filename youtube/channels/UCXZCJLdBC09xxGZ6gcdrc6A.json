@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-04-13T00:51:53.731101",
+  "fetched_at": "2025-04-20T00:29:00.185254",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "OpenAI Codex CLI",
+      "video_id": "FUq9qRwrDrI",
+      "channel_title": "OpenAI",
+      "description": "Meet Codex CLI—an open-source local coding agent that turns natural language into working code. Tell Codex CLI what to build, ...",
+      "published_at": "2025-04-16T18:18:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FUq9qRwrDrI/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI o3 &amp; o4-mini",
+      "video_id": "sq8GBPUb3rk",
+      "channel_title": "OpenAI",
+      "description": "Greg Brockman, Mark Chen, Eric Mitchell, Brandon McKinzie, Wenda Zhou, Fouad Matin, Michael Bolin, and Ananya Kumar ...",
+      "published_at": "2025-04-16T17:33:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sq8GBPUb3rk/hqdefault.jpg"
+    },
+    {
+      "title": "World-building in Sora with Alexia Adana",
+      "video_id": "PZk4t7Np4Ds",
+      "channel_title": "OpenAI",
+      "description": "Remix, presets, and seamless transitions—oh my! Go behind the scenes of Bloomchild, a stunning project by Sora Fellow Alexia ...",
+      "published_at": "2025-04-14T23:57:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PZk4t7Np4Ds/hqdefault.jpg"
+    },
+    {
+      "title": "GPT 4.1 in the API",
+      "video_id": "kA-P9ood-cE",
+      "channel_title": "OpenAI",
+      "description": "Join Michelle Pokrass, Ishaan Singal, and Kevin Weil as they introduce and demo our new family of GPT-4.1 models in the API.",
+      "published_at": "2025-04-14T17:30:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kA-P9ood-cE/hqdefault.jpg"
+    },
     {
       "title": "Pre-Training GPT-4.5",
       "video_id": "6nJZopACRuQ",
@@ -51,38 +83,6 @@
       "description": "In this demo, we show how to use ChatGPT's advanced vision + voice mode in OpenAI's mobile app. Using the camera and ...",
       "published_at": "2025-04-08T19:27:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tmzyE9AawiE/hqdefault.jpg"
-    },
-    {
-      "title": "Prototyping with canvas in ChatGPT",
-      "video_id": "JbIvaFh44EY",
-      "channel_title": "OpenAI",
-      "description": "See how to go from a product requirements document to a working HTML/React prototype using canvas in ChatGPT. This video ...",
-      "published_at": "2025-04-08T19:25:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JbIvaFh44EY/hqdefault.jpg"
-    },
-    {
-      "title": "Writing with canvas in ChatGPT",
-      "video_id": "Ks1C-5p04PY",
-      "channel_title": "OpenAI",
-      "description": "See how to use canvas in ChatGPT to turn meeting notes, transcripts, or uploaded content into polished marketing and business ...",
-      "published_at": "2025-04-08T19:21:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ks1C-5p04PY/hqdefault.jpg"
-    },
-    {
-      "title": "Meet ChatGPT&#39;s New Voice, Monday 🙄",
-      "video_id": "2uoF2w8-hKg",
-      "channel_title": "OpenAI",
-      "description": "We heard you like to be roasted. ⚫️ To access Monday, make sure you have the latest version of the ChatGPT app (iOS or ...",
-      "published_at": "2025-04-01T20:02:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2uoF2w8-hKg/hqdefault.jpg"
-    },
-    {
-      "title": "Character Consistency with 4o Image Generation",
-      "video_id": "PFsOUNfBhzI",
-      "channel_title": "OpenAI",
-      "description": "Speaker: dmed Medina.",
-      "published_at": "2025-03-25T18:21:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PFsOUNfBhzI/hqdefault.jpg"
     }
   ]
 }

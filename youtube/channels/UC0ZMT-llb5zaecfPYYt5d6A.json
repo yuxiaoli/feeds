@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-13T00:51:14.664352",
+  "fetched_at": "2025-04-20T00:28:21.370061",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "Excited to announce that ‘Sheltered’ comes out 4/25! #thecastellows",
+      "video_id": "_zH32kPq3zU",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2025-04-14T15:24:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_zH32kPq3zU/hqdefault.jpg"
+    },
     {
       "title": "~Sheltered~ who’s ready?? #thecastellows",
       "video_id": "iML0pmj-uLk",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-02-22T20:50:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Mm7Q5ebZGiQ/hqdefault.jpg"
-    },
-    {
-      "title": "Place They Call Home is out NOW!!",
-      "video_id": "0KJzuRQWqvo",
-      "channel_title": "The Castellows",
-      "description": "",
-      "published_at": "2025-02-01T13:30:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0KJzuRQWqvo/hqdefault.jpg"
     }
   ]
 }

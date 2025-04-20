@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-13T00:52:06.572111",
+  "fetched_at": "2025-04-20T00:29:13.029174",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "量化交易基础、工具选择、学习建议",
+      "video_id": "fH4KbFWkTWM",
+      "channel_title": "Find Interesting AI",
+      "description": "相关链接： https://github.com/ranaroussi/yfinance https://github.com/Micro-sheep/efinance https://github.com/vnpy/vnpy ...",
+      "published_at": "2025-04-13T06:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fH4KbFWkTWM/hqdefault.jpg"
+    },
     {
       "title": "最新的AI论文研究趋势",
       "video_id": "w9_gvTTFuh8",
@@ -75,14 +83,6 @@
       "description": "用一个项目串通coze的核心流程、能力边界.",
       "published_at": "2024-12-10T06:56:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LpyaAyhysLM/hqdefault.jpg"
-    },
-    {
-      "title": "自动找工作投简历神器",
-      "video_id": "SFoavItoaqM",
-      "channel_title": "Find Interesting AI",
-      "description": "自动筛选工作、监控新职位、投简历的免费神器https://github.com/AIHawk-app/Auto_Jobs_Applier.",
-      "published_at": "2024-11-11T23:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SFoavItoaqM/hqdefault.jpg"
     }
   ]
 }
