@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-20T00:28:44.122773",
+  "fetched_at": "2025-04-27T00:28:44.054459",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Coding A Full Webpage From Figma Mocks",
+      "video_id": "ceDXjd8OO04",
+      "channel_title": "Warp",
+      "description": "Learn how to code by prompt with Warp!",
+      "published_at": "2025-04-23T17:14:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ceDXjd8OO04/hqdefault.jpg"
+    },
+    {
+      "title": "Ep.2 —  I Love You | Fixing failing tests",
+      "video_id": "UCClh28snS8",
+      "channel_title": "Warp",
+      "description": "As the rest of the team clocks out, Kelly stays behind, buried in failing tests and unfinished tickets. In the quiet, she finally asks for ...",
+      "published_at": "2025-04-23T14:56:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UCClh28snS8/hqdefault.jpg"
+    },
     {
       "title": "Ep.1 — Holy S^&amp;% (The New Guy) | Fixing a broken dev environment",
       "video_id": "StMShnRdqnA",
@@ -21,17 +37,9 @@
       "thumbnail_url": "https://i.ytimg.com/vi/VP03wHzaMJc/hqdefault.jpg"
     },
     {
-      "title": "Coding by Prompt with Warp",
-      "video_id": "ceDXjd8OO04",
-      "channel_title": "Warp",
-      "description": "Learn how to code by prompt with Warp!",
-      "published_at": "2025-04-01T21:03:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ceDXjd8OO04/hqdefault_live.jpg"
-    },
-    {
       "title": "Launch Log 01 | Warp Updates",
       "video_id": "sjbaWZfgbyg",
-      "channel_title": "warpdotdev",
+      "channel_title": "Warp",
       "description": "This quarter has been one of the busiest in Warp's history. We've made improvements to our AI features, UI, and performance.",
       "published_at": "2025-03-27T14:01:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/sjbaWZfgbyg/hqdefault.jpg"
@@ -55,7 +63,7 @@
     {
       "title": "Get Early Access to Warp on Windows",
       "video_id": "GRhuizrnapI",
-      "channel_title": "warpdotdev",
+      "channel_title": "Warp",
       "description": "www.windows-when.com We are giving thousands of users on our waitlist early access to Warp on Windows. Join now!",
       "published_at": "2025-02-05T20:10:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GRhuizrnapI/hqdefault.jpg"
@@ -71,18 +79,10 @@
     {
       "title": "Warp summarized in 3 minutes (Basics, AI, Teams, Customization)",
       "video_id": "Ab7tRyN62yI",
-      "channel_title": "warpdotdev",
+      "channel_title": "Warp",
       "description": "This is Warp, a reimagined command line terminal with built-in AI and collaborative tools for teams. We are built in Rust and ...",
       "published_at": "2024-11-21T05:39:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Ab7tRyN62yI/hqdefault.jpg"
-    },
-    {
-      "title": "Warp&#39;s Origin Story (and New Brand)",
-      "video_id": "A6ghDJz3nNM",
-      "channel_title": "warpdotdev",
-      "description": "Too often, the complexity of devtools gets in the way of shipping good software quickly. Warp's mission is to empower our users ...",
-      "published_at": "2024-10-25T15:47:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/A6ghDJz3nNM/hqdefault.jpg"
     }
   ]
 }

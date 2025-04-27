@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:28:31.024203",
+  "fetched_at": "2025-04-27T00:28:31.843139",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "1970 Hellcat Charger Burns a lot of Rubber #dodgecharger #hellcat #mopar",
+      "video_id": "IJ9L905ThvE",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2025-04-22T18:22:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IJ9L905ThvE/hqdefault.jpg"
+    },
     {
       "title": "The Joker’s Mustang is Nothing to Play With @AgentsofKhaosJoker #mustang #jokeredit #cinematic",
       "video_id": "O4urQqFysUY",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-01-08T22:42:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/RI0hQyd9KQ8/hqdefault.jpg"
-    },
-    {
-      "title": "She Showed up In a Hellcat #hellcat #srt #dodge",
-      "video_id": "M6NDs1IMduE",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-01-04T19:50:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M6NDs1IMduE/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-04-20T00:29:12.206575",
+  "fetched_at": "2025-04-27T00:29:11.425440",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "SpaceX Falcon XX Super Heavy Concept Launch",
+      "video_id": "6AujLuaoz1Q",
+      "channel_title": "Hazegrayart",
+      "description": "rocket #spacex #starship At the 2010 AIAA Joint Propulsion conference, SpaceX presented potential designs for future heavy and ...",
+      "published_at": "2025-04-25T11:15:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6AujLuaoz1Q/hqdefault.jpg"
+    },
+    {
+      "title": "Saturn 4x Satelite Deployment",
+      "video_id": "3LAGsjDOYkw",
+      "channel_title": "Hazegrayart",
+      "description": "Boeing 1968 study, four improved Saturn S-IC first stage stretched TO 498 inches with 6.64 million pounds propellant and 5 F-1 ...",
+      "published_at": "2025-04-22T11:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3LAGsjDOYkw/hqdefault.jpg"
+    },
+    {
+      "title": "Orbital Space Truck (ROOST)",
+      "video_id": "FvnvH_q8s38",
+      "channel_title": "Hazegrayart",
+      "description": "Philip Bono's study of a reusable Single Stage to Orbit (SSTO) The Douglas Aircraft Reusable One-Stage Orbital Space Truck ...",
+      "published_at": "2025-04-20T11:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FvnvH_q8s38/hqdefault.jpg"
+    },
     {
       "title": "Britain&#39;s Supersonic Transport",
       "video_id": "wm8QUxKHwIM",
@@ -59,30 +83,6 @@
       "description": "United States Patent 3576298 applied for in 1967 and issued to the North American Rockwell Corp in 1971. ABSTRACT: An ...",
       "published_at": "2025-03-28T14:04:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/glylOvbxJpQ/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s Unpressurized Lunar Crew Transport",
-      "video_id": "OQHyC4k5Q5E",
-      "channel_title": "Hazegrayart",
-      "description": "Langley Research Center Unpressurized Crew Transport with Surface Habitat: 0605-LLPS-LaRC-2 This was a two-stage lander ...",
-      "published_at": "2025-03-25T15:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OQHyC4k5Q5E/hqdefault.jpg"
-    },
-    {
-      "title": "Philip Bono&#39;s  Single Stage to Orbit Rocket (SSTO)",
-      "video_id": "h3TlFzi1_MA",
-      "channel_title": "Hazegrayart",
-      "description": "Douglas Aircraft's SASSTO, short for \"Saturn Application Single Stage to Orbit\", was a single stage to orbit (SSTO) reusable launch ...",
-      "published_at": "2025-03-21T11:30:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h3TlFzi1_MA/hqdefault.jpg"
-    },
-    {
-      "title": "British Interplanetary Society: Project Daedalus",
-      "video_id": "3ILA_syG_pM",
-      "channel_title": "Hazegrayart",
-      "description": "Project Daedalus (named after Daedalus, the Greek mythological designer who crafted wings for human flight) was a study ...",
-      "published_at": "2025-03-18T12:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3ILA_syG_pM/hqdefault.jpg"
     }
   ]
 }

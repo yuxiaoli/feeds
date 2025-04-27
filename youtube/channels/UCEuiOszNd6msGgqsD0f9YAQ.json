@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2025-04-20T00:28:37.373457",
+  "fetched_at": "2025-04-27T00:28:37.617571",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
     {
-      "title": "What Happens Inside a Nuclear Meltdown?",
-      "video_id": "gH3Wlhwy_2E",
+      "title": "Robot Hand With A Sense of Touch",
+      "video_id": "wf6RryukffE",
       "channel_title": "Interesting Engineering",
-      "description": "The nightmare of a nuclear meltdown has haunted people all over the world ever since Chernobyl, but why is it know as a ...",
-      "published_at": "2025-04-13T08:00:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gH3Wlhwy_2E/hqdefault.jpg"
+      "description": "The dream of robots with a sense of touch has now come true. Psyonic have created the Ability Hand, improving greatly on the ...",
+      "published_at": "2025-04-24T21:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wf6RryukffE/hqdefault.jpg"
+    },
+    {
+      "title": "Did You Know that Sunscreen....",
+      "video_id": "4I5XzbkNx7o",
+      "channel_title": "Interesting Engineering",
+      "description": "Sunscreen is such an integral aspect to protecting our skin. But do you know how it REALLY works? Is there really a possibility ...",
+      "published_at": "2025-04-23T17:15:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4I5XzbkNx7o/hqdefault.jpg"
     },
     {
       "title": "China is Building Gravity Batteries",
@@ -75,14 +83,6 @@
       "description": "Want to know more about military tech? Don't Miss Out! *SUBSCRIBE & HIT THE BELL* https://bit.ly/SubscribeNowIE ...",
       "published_at": "2023-09-06T18:07:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qJi88DEmRCA/hqdefault.jpg"
-    },
-    {
-      "title": "What Makes KA-52 A Nightmare For Ukraine&#39;s Tanks",
-      "video_id": "6JjvEVLGL2E",
-      "channel_title": "Interesting Engineering",
-      "description": "Emerging from the lineage of Russian rotary-wing engineering, the KA-52 Alligator (NATO designation Hokum-B), is a highly ...",
-      "published_at": "2023-09-04T19:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6JjvEVLGL2E/hqdefault.jpg"
     }
   ]
 }

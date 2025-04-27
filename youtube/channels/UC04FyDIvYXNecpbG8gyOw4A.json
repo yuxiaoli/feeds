@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:28:20.622184",
+  "fetched_at": "2025-04-27T00:28:21.730757",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "it&#39;s a zero mistakes kind of day",
+      "video_id": "EpqSIhmpaO0",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2025-04-22T15:30:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EpqSIhmpaO0/hqdefault.jpg"
+    },
     {
       "title": "Boz To The Future Podcast #23 - The Future According to James Cameron",
       "video_id": "qOdjM14QW0s",
@@ -75,14 +83,6 @@
       "description": "a @meta.ai assist, just in thyme.",
       "published_at": "2025-03-03T19:26:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GCkIOCjICio/hqdefault.jpg"
-    },
-    {
-      "title": "The giant ephemeral paintings of @saype_artiste: Reel of the Week",
-      "video_id": "Jjp9THsgQ-4",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-02-28T20:33:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Jjp9THsgQ-4/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:29:03.964800",
+  "fetched_at": "2025-04-27T00:29:03.567730",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "تمارين لتقوية أسفل الظهر في الكالسثنكس",
+      "video_id": "N6BP4CA5Vas",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2025-04-25T12:12:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N6BP4CA5Vas/hqdefault.jpg"
+    },
     {
       "title": "Front lever muscle-up to handstand push-up",
       "video_id": "p1Xx7uXZZuw",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-02-18T11:39:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/atrv-XGRYu8/hqdefault.jpg"
-    },
-    {
-      "title": "#calisthenics",
-      "video_id": "Y3P8cVc3VIM",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-02-13T12:11:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y3P8cVc3VIM/hqdefault.jpg"
     }
   ]
 }

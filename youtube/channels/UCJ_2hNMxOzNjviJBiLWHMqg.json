@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:28:41.897832",
+  "fetched_at": "2025-04-27T00:28:41.897607",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "We 3D printed an underground city for our Dune video",
+      "video_id": "Np3hWUUcUn0",
+      "channel_title": "DamiLee",
+      "description": "Derinkuyu model https://ko-fi.com/s/97b74d9cad.",
+      "published_at": "2025-04-25T15:27:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Np3hWUUcUn0/hqdefault.jpg"
+    },
     {
       "title": "Do you think we captured the idea of &quot;liminal space&quot;?",
       "video_id": "x1aSNPThBvU",
@@ -75,14 +83,6 @@
       "description": "Check out Acelab's Materials Hub to streamline your workflow: acelabusa.com/materialshub.",
       "published_at": "2025-03-22T15:16:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/45NsOz8dJ98/hqdefault.jpg"
-    },
-    {
-      "title": "How we recreated this scene from Severance",
-      "video_id": "9FQwq2NyUZI",
-      "channel_title": "DamiLee",
-      "description": "Let me know if you want more BTS!",
-      "published_at": "2025-03-20T16:57:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9FQwq2NyUZI/hqdefault.jpg"
     }
   ]
 }

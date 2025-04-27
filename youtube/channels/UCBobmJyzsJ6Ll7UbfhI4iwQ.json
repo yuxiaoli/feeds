@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2025-04-20T00:28:33.283023",
+  "fetched_at": "2025-04-27T00:28:33.968327",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 10,
   "videos": [
     {
-      "title": "Walkers | UEFN Build Along",
-      "video_id": "mClYbMk8pAc",
+      "title": "Let’s Chat Moderation with Mustard Plays | UEFN",
+      "video_id": "Lexbh2XF1Wo",
       "channel_title": "Unreal Engine",
-      "description": "Terrified of taking on the Walkers alone? Then join us on the next Build Along livestream! April 15 @ 2 PM ET All about ...",
-      "published_at": "2025-04-15T19:58:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mClYbMk8pAc/hqdefault.jpg"
+      "description": "Join us live on April 25 at 3:30 PM ET as MustardPlays speaks with Fortnite team members Saxs Persson and Dan Walsh about ...",
+      "published_at": "2025-04-25T20:47:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lexbh2XF1Wo/hqdefault.jpg"
+    },
+    {
+      "title": "MotoGP 25 | Game Profile | Unreal Engine",
+      "video_id": "ClJzydnleYw",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video for a taste of how Milestone used UE5 to keep the latest instalment of its annual franchise 'MotoGP' on track.",
+      "published_at": "2025-04-25T13:59:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ClJzydnleYw/hqdefault.jpg"
     },
     {
       "title": "From VFX to VAD: Artists’ Journeys with Unreal Engine | Unreal Fest 2024",
@@ -75,14 +83,6 @@
       "description": "Unreal Engine 5.2 further expands UE5's groundbreaking toolset with some innovative new functionality—including a Procedural ...",
       "published_at": "2023-05-11T15:03:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/I7zyNDazmGQ/hqdefault.jpg"
-    },
-    {
-      "title": "Creating Your First Game in ‘Fortnite’ with UEFN | GDC 2023",
-      "video_id": "by7QPeQH8ZY",
-      "channel_title": "Unreal Engine",
-      "description": "Watch the recording of Epic Games' talk from GDC 2023, 'Creating Your First Game in Fortnite with UEFN'. Fortnite has become ...",
-      "published_at": "2023-04-21T14:59:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/by7QPeQH8ZY/hqdefault.jpg"
     }
   ]
 }

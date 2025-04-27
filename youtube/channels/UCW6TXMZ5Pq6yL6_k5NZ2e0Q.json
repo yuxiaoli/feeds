@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:28:57.393514",
+  "fetched_at": "2025-04-27T00:28:57.017933",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "What are Hedge Funds? 📈 Intro for Aspiring Quants",
+      "video_id": "eLU77gPIK4E",
+      "channel_title": "Socratica",
+      "description": "NOTIFY ME when the course launches: https://snu.socratica.com/quantitative-finance What do ...",
+      "published_at": "2025-04-21T10:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eLU77gPIK4E/hqdefault.jpg"
+    },
     {
       "title": "What is Quantitative Finance? 📈 Intro for Aspiring Quants",
       "video_id": "JVtUcM1sWQw",
@@ -75,14 +83,6 @@
       "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
       "published_at": "2024-08-21T07:00:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eLWIRLRpqRk/hqdefault.jpg"
-    },
-    {
-      "title": "How to choose Debit vs Credit cards 💳 Personal Finance",
-      "video_id": "CYyrz3EBs54",
-      "channel_title": "Socratica",
-      "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
-      "published_at": "2024-08-12T11:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CYyrz3EBs54/hqdefault.jpg"
     }
   ]
 }

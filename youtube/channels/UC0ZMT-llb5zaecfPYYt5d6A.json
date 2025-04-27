@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-20T00:28:21.370061",
+  "fetched_at": "2025-04-27T00:28:22.492927",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "The Castellows - Sheltered (Official Music Video)",
+      "video_id": "I8emSlcUQvk",
+      "channel_title": "The Castellows",
+      "description": "The Castellows - Sheltered (Official Music Video) Listen to the EP Playlist: ...",
+      "published_at": "2025-04-25T04:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I8emSlcUQvk/hqdefault.jpg"
+    },
+    {
+      "title": "Sheltered THIS friday!!! #thecastellows #newmusic",
+      "video_id": "yYf7fRq2gX4",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2025-04-21T21:24:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yYf7fRq2gX4/hqdefault.jpg"
+    },
     {
       "title": "Excited to announce that ‘Sheltered’ comes out 4/25! #thecastellows",
       "video_id": "_zH32kPq3zU",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-03-04T02:49:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/77mJl78K8Nk/hqdefault.jpg"
-    },
-    {
-      "title": "Verse 2 ‘I ain’t ashamed to claim the name’….  🌎🌎 #newmusic",
-      "video_id": "F1IrXgUumNg",
-      "channel_title": "The Castellows",
-      "description": "",
-      "published_at": "2025-02-22T20:56:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F1IrXgUumNg/hqdefault.jpg"
-    },
-    {
-      "title": "We wrote a song about growing up homeschooled, hope y’all like it! #sheltered #newmusic",
-      "video_id": "Mm7Q5ebZGiQ",
-      "channel_title": "The Castellows",
-      "description": "",
-      "published_at": "2025-02-22T20:50:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Mm7Q5ebZGiQ/hqdefault.jpg"
     }
   ]
 }

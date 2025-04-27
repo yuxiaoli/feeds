@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:28:46.359345",
+  "fetched_at": "2025-04-27T00:28:46.224007",
   "channel_id": "UCKo61AAaRD00ibCWJZ321MQ",
   "channel_title": "SoKrispyMedia",
   "count": 10,
   "videos": [
+    {
+      "title": "Entering a Videogame - BEFORE &amp; AFTER #vfx",
+      "video_id": "qTcaR1vdkCg",
+      "channel_title": "SoKrispyMedia",
+      "description": "Before and after the visual effects of our previous short!",
+      "published_at": "2025-04-21T01:30:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qTcaR1vdkCg/hqdefault.jpg"
+    },
     {
       "title": "What happens when you enter a videogame",
       "video_id": "t-2iVCQql7E",
@@ -37,7 +45,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xRCFtukHZ0A/hqdefault.jpg"
     },
     {
-      "title": "Tesla Robots Fight Back | Action Film",
+      "title": "AI Robots Fight Back | Action Film",
       "video_id": "LyP7gsp2g8w",
       "channel_title": "SoKrispyMedia",
       "description": "The new Tesla Software full self driving update is pretty intense Directed by Sam Wickert Subscribe to the actors in this film ...",
@@ -75,14 +83,6 @@
       "description": "Taking a closer look at some of the robots MKBHD has working in his office #vfx.",
       "published_at": "2024-06-15T14:00:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DVV3XyF1TCw/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Robot learns to Snowboard #ai",
-      "video_id": "dWMzUuMXhMg",
-      "channel_title": "SoKrispyMedia",
-      "description": "Forget about your job... AI is coming for your hobbies next.",
-      "published_at": "2024-03-16T14:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dWMzUuMXhMg/hqdefault.jpg"
     }
   ]
 }

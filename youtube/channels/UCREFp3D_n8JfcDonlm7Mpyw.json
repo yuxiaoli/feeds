@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:28:54.559583",
+  "fetched_at": "2025-04-27T00:28:54.115557",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Is learning to code worth it in 2025? #shorts",
+      "video_id": "WTfn7dIddt8",
+      "channel_title": "Programiz",
+      "description": "Is learning to code still worth it in 2025? Without a doubt. Learning coding is not just about programming; it's about becoming a ...",
+      "published_at": "2025-04-21T12:15:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WTfn7dIddt8/hqdefault.jpg"
+    },
     {
       "title": "How to Hide Passwords &amp; Credit Card Numbers (with Python) #shorts",
       "video_id": "WLQVdpbVJJs",
@@ -75,14 +83,6 @@
       "description": "Only JavaScript Masters Can Solve These Quizzes!   #shortsvideo Are you a JavaScript Master? Test your JS skills with these fun ...",
       "published_at": "2023-03-10T10:15:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nb14SJTbBLU/hqdefault.jpg"
-    },
-    {
-      "title": "Python Challenge: Create a Full Pyramid in 30 seconds #shorts",
-      "video_id": "c0pCUwG5nSg",
-      "channel_title": "Programiz",
-      "description": "Python Challenge: Create a Full Pyramid in 30 seconds #shorts Get ready to put your Python skills to the test with this exciting ...",
-      "published_at": "2023-03-03T10:15:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c0pCUwG5nSg/hqdefault.jpg"
     }
   ]
 }

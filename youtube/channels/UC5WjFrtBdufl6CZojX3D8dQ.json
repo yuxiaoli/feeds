@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:28:27.113956",
+  "fetched_at": "2025-04-27T00:28:28.305462",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Tesla Q1 2025 Financial Results and Q&amp;A Webcast",
+      "video_id": "vs4cfyyMWhQ",
+      "channel_title": "Tesla",
+      "description": "Earnings Call start: https://youtu.be/vs4cfyyMWhQ?t=425.",
+      "published_at": "2025-04-22T23:06:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vs4cfyyMWhQ/hqdefault.jpg"
+    },
     {
       "title": "Kingdom of Saudi Arabia Launch | Tesla",
       "video_id": "ILOpnUUIhVI",
@@ -75,14 +83,6 @@
       "description": "Redesigned from end to end, check out the upgrades to the new Model Y that make the best-selling car in the world even better ...",
       "published_at": "2025-03-08T17:16:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iPJDW5EaIzE/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Dashcam",
-      "video_id": "5OdeKlDhz8E",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-03-05T17:48:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5OdeKlDhz8E/hqdefault.jpg"
     }
   ]
 }

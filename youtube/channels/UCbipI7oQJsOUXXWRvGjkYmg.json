@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-20T00:29:04.726969",
+  "fetched_at": "2025-04-27T00:29:04.268820",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "Your Future Depends on Today’s Choices",
+      "video_id": "aBu55YbvWzU",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2025-04-26T14:02:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aBu55YbvWzU/hqdefault.jpg"
+    },
+    {
+      "title": "Can I Beat Italy’s Strongest Athlete? Erik Barsi",
+      "video_id": "z5gc2lrmZ0U",
+      "channel_title": "Andry Strong",
+      "description": "I just flew to Italy to Challenge Erik Barsi — one of the country's strongest calisthenics athletes. His legendary finger strength and ...",
+      "published_at": "2025-04-20T10:49:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z5gc2lrmZ0U/hqdefault.jpg"
+    },
     {
       "title": "People’s reaction at the gym are crazy",
       "video_id": "3Sw2WGK7SdU",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-03-27T15:41:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zzaQXiFab48/hqdefault.jpg"
-    },
-    {
-      "title": "I Challenged Norway’s Strongest Athlete | Sondre Beeg",
-      "video_id": "yimn_jsziUw",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-03-26T10:44:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yimn_jsziUw/hqdefault.jpg"
-    },
-    {
-      "title": "When a Wife asks Calisthenics Husband Help around the House",
-      "video_id": "Syp3BZfDlIw",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-03-25T14:22:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Syp3BZfDlIw/hqdefault.jpg"
     }
   ]
 }

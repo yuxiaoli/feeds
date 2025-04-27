@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:29:00.185254",
+  "fetched_at": "2025-04-27T00:28:59.874639",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "How to make Sora music videos with David Sheldrick",
+      "video_id": "0dhX84UkwFs",
+      "channel_title": "OpenAI",
+      "description": "Sora Fellow David Sheldrick shares an inside look at his latest project—a vibrant, multicultural twist on Victorian elegance ...",
+      "published_at": "2025-04-23T15:29:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0dhX84UkwFs/hqdefault.jpg"
+    },
     {
       "title": "OpenAI Codex CLI",
       "video_id": "FUq9qRwrDrI",
@@ -75,14 +83,6 @@
       "description": "Discover how ChatGPT's Projects feature helps you organize files, save context, and keep conversations consistent across your ...",
       "published_at": "2025-04-08T19:29:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-ctJEx1n15g/hqdefault.jpg"
-    },
-    {
-      "title": "Vision and voice in ChatGPT",
-      "video_id": "tmzyE9AawiE",
-      "channel_title": "OpenAI",
-      "description": "In this demo, we show how to use ChatGPT's advanced vision + voice mode in OpenAI's mobile app. Using the camera and ...",
-      "published_at": "2025-04-08T19:27:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tmzyE9AawiE/hqdefault.jpg"
     }
   ]
 }

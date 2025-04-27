@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-04-20T00:28:28.550663",
+  "fetched_at": "2025-04-27T00:28:29.740313",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Open Source Friday with the GitHub Team!",
-      "video_id": "T4Sfl9_tumY",
+      "title": "GitHub Copilot for security: Finding vulnerabilities in your code",
+      "video_id": "RpkKcS0j9dA",
       "channel_title": "GitHub",
-      "description": "Join us for a chat on all things open source and learn how you can be a guest on Open source Friday!",
-      "published_at": "2025-04-19T06:09:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T4Sfl9_tumY/hqdefault.jpg"
+      "description": "Did you know GitHub Copilot can help analyze your code for security issues? Learn how to ask Copilot direct questions about ...",
+      "published_at": "2025-04-26T14:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RpkKcS0j9dA/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] Open Source Friday Brasil com Bruno Rocha, mantenedor do Marmite",
-      "video_id": "sL_n4A_LYS4",
+      "title": "Scaling GitHub Secret Protection across your repositories",
+      "video_id": "AaYcmq5zpKY",
       "channel_title": "GitHub",
-      "description": "Hoje o papo é com Bruno Rocha, mantenedor do projeto Marmite! O Marmite é um gerador de sites estáticos feito com Python, ...",
-      "published_at": "2025-04-19T05:31:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sL_n4A_LYS4/hqdefault.jpg"
+      "description": "Learn how to deploy GitHub's Secret Protection across your entire enterprise with minimal effort. This guide covers enterprise or ...",
+      "published_at": "2025-04-26T13:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AaYcmq5zpKY/hqdefault.jpg"
     },
     {
-      "title": "Measure your code&#39;s carbon footprint with GitHub Copilot and CodeCarbon",
-      "video_id": "eEr0BR1PbLA",
+      "title": "Open Source with OpenSPP - Digital Public Good for Social Protection",
+      "video_id": "K1oNHBavlq8",
       "channel_title": "GitHub",
-      "description": "Computational tasks, especially in AI, have a growing carbon footprint. Learn how CodeCarbon, an open-source Python library, ...",
-      "published_at": "2025-04-18T13:01:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eEr0BR1PbLA/hqdefault.jpg"
+      "description": "This week on Open Source Friday, we're chatting with the maintainer of OPENSPP, an open source project helping governments ...",
+      "published_at": "2025-04-26T05:56:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K1oNHBavlq8/hqdefault.jpg"
+    },
+    {
+      "title": "[pt-BR] Open Source Friday Brasil  com Vinicius Jose De Moura",
+      "video_id": "3JqQV2UwDNA",
+      "channel_title": "GitHub",
+      "description": "[pt-BR] Open Source Friday Brasil Hoje vamos conversar com Vinicius Moura, mantenedor do projeto Azure DevOps ...",
+      "published_at": "2025-04-26T04:55:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3JqQV2UwDNA/hqdefault.jpg"
+    },
+    {
+      "title": "The Download: New OpenAI models in Copilot, Fauna goes open source &amp; more",
+      "video_id": "Z5ocxtb5nNI",
+      "channel_title": "GitHub",
+      "description": "Catch the latest developer updates on The Download with Andrea Griffiths! This episode covers Fauna database going fully open ...",
+      "published_at": "2025-04-25T16:10:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z5ocxtb5nNI/hqdefault.jpg"
+    },
+    {
+      "title": "13 lines of code, 70% faster loads: The real story behind the GTA fix",
+      "video_id": "gLI8-l3ftjY",
+      "channel_title": "GitHub",
+      "description": "Remember the GTA Online load time fix by 'Toast' that cut times by 70% with just 13 lines of code? This video explores the ...",
+      "published_at": "2025-04-25T14:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gLI8-l3ftjY/hqdefault.jpg"
     },
     {
       "title": "Event in Spanish: Jueves de Quack",
-      "video_id": "qGrTTFI7Nis",
+      "video_id": "r_6YR4KIoxU",
       "channel_title": "GitHub",
       "description": "Únete a nuestra sesión de trabajo colaborativo donde desarrolladores de todo el mundo nos reunimos para crear proyectos ...",
-      "published_at": "2025-04-18T08:52:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qGrTTFI7Nis/hqdefault.jpg"
+      "published_at": "2025-04-25T09:10:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r_6YR4KIoxU/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays! | Come cowork and hang out on this beautiful day!",
-      "video_id": "9BY4Xlm3QRo",
+      "title": "Rubber Duck Thursdays - Building with Agent Mode!",
+      "video_id": "ugu4trHcn0M",
       "channel_title": "GitHub",
-      "description": "We're going to play with GitHub Copilot and do some open sourcing, woo hoo! 🎙️ New to streaming or looking to level up?",
-      "published_at": "2025-04-18T07:12:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9BY4Xlm3QRo/hqdefault.jpg"
+      "description": "Let's cowork on some code together and talk about all things tech.",
+      "published_at": "2025-04-25T07:07:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ugu4trHcn0M/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] Quinta do Patinho - Vamos vibecodar? Que isso?",
-      "video_id": "ODj5KjaGJKA",
+      "title": "Rubber Duck Thursdays - Back to building GitHub CLI Extensions",
+      "video_id": "d_1EYv0QsmU",
       "channel_title": "GitHub",
-      "description": "Nessa Quinta do Patinho, vamos explorar juntos como usar o framework Astro pra construir (ou reconstruir) meu blog pessoal, ...",
-      "published_at": "2025-04-18T04:51:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ODj5KjaGJKA/hqdefault.jpg"
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We'll be running ...",
+      "published_at": "2025-04-24T23:13:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d_1EYv0QsmU/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays – Coding with the latest models",
-      "video_id": "pc5SKYxujDY",
+      "title": "Stressed about secret leaks? 😰",
+      "video_id": "SuPU6yVp2-M",
       "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We've been ...",
-      "published_at": "2025-04-17T23:38:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pc5SKYxujDY/hqdefault.jpg"
-    },
-    {
-      "title": "How to contribute to climate change projects on GitHub",
-      "video_id": "1AgOJl93ywY",
-      "channel_title": "GitHub",
-      "description": "Did you know over 60000 climate-focused projects live on GitHub? Learn how you can easily find opportunities to contribute, ...",
-      "published_at": "2025-04-17T16:03:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1AgOJl93ywY/hqdefault.jpg"
-    },
-    {
-      "title": "Event in Spanish: VS Code Live Agent Mode Day",
-      "video_id": "GWnscOTG9n0",
-      "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2025-04-17T13:09:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GWnscOTG9n0/hqdefault.jpg"
-    },
-    {
-      "title": "[pt-BR] GitHub Presente Brasil - Abril",
-      "video_id": "qZiMzaFZsb4",
-      "channel_title": "GitHub",
-      "description": "GitHub Presente Brasil – Abril | Duas palestras imperdíveis para quem quer ir além do código! Palestra 1: De Volta ao Código ...",
-      "published_at": "2025-04-17T11:25:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qZiMzaFZsb4/hqdefault.jpg"
+      "description": "Here's how you can protect yourself #developer #security #developerlife Stay up-to-date on all things GitHub by connecting ...",
+      "published_at": "2025-04-24T21:06:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SuPU6yVp2-M/hqdefault.jpg"
     }
   ]
 }

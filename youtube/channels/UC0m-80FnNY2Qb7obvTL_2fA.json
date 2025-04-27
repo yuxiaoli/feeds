@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:28:22.057663",
+  "fetched_at": "2025-04-27T00:28:23.227026",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
+    {
+      "title": "Unveiling GPT-image-1: Rising to new heights with image generation in Azure AI Foundry",
+      "video_id": "btA8njJjLXY",
+      "channel_title": "Microsoft Azure",
+      "description": "We are thrilled to announce the launch of GPT-image-1, the latest and most advanced image generation model, now available on ...",
+      "published_at": "2025-04-23T19:26:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/btA8njJjLXY/hqdefault.jpg"
+    },
     {
       "title": "Quantum Error Correction with Q#",
       "video_id": "PxuLc3g2qCA",
@@ -75,14 +83,6 @@
       "description": "Explore how telcos can scale AI with a unified data estate, unlocking powerful insights and driving innovation. Explore the ...",
       "published_at": "2025-03-27T01:03:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/VKQIXkTIk60/hqdefault.jpg"
-    },
-    {
-      "title": "MWC 2025 Dynamics 365 Sales and Field Service",
-      "video_id": "5cCjeXGnCCQ",
-      "channel_title": "Microsoft Azure",
-      "description": "Learn how Microsoft Dynamics 365, empowered with Copilot, enables telcos to differentiate themselves across the key telecom ...",
-      "published_at": "2025-03-27T01:02:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5cCjeXGnCCQ/hqdefault.jpg"
     }
   ]
 }

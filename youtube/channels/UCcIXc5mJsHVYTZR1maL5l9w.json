@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:29:06.181044",
+  "fetched_at": "2025-04-27T00:29:05.687500",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "New course! Enroll in Building Code Agents with Hugging Face smolagents",
+      "video_id": "OWZ13KiWP0s",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/3RrxUhi Learn how to build code agents in Building Code Agents with Hugging Face smolagents, ...",
+      "published_at": "2025-04-23T14:43:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OWZ13KiWP0s/hqdefault.jpg"
+    },
     {
       "title": "Enroll in DeepLearning.AI&#39;s Data Analytics Professional Certificate!",
       "video_id": "xTQd3s2P8lo",
@@ -75,14 +83,6 @@
       "description": "In this workshop, Sharon Zhou (CEO & Founder, Lamini) and Mahdi Ghodsi (AI Solution Architect, AMD) demonstrate how to run ...",
       "published_at": "2025-03-27T18:33:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/MohMkvTRjjA/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 | Jeff Huber: Teach Chroma how to play Doom",
-      "video_id": "CK5QGWUf1vo",
-      "channel_title": "DeepLearningAI",
-      "description": "Can a retrieval system learn to play Doom? In this lighthearted and insightful session, Jeff Huber, Founder and CEO of Chroma, ...",
-      "published_at": "2025-03-27T18:23:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CK5QGWUf1vo/hqdefault.jpg"
     }
   ]
 }

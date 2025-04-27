@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:28:19.883477",
+  "fetched_at": "2025-04-27T00:28:21.012473",
   "channel_id": "UC-yuWVUplUJZvieEligKBkA",
   "channel_title": "javidx9",
   "count": 10,
   "videos": [
+    {
+      "title": "Code-It-Yourself! Remote Home Energy Monitor with ESP32, Websockets &amp; C++",
+      "video_id": "NJXEzL3peIA",
+      "channel_title": "javidx9",
+      "description": "Frustrated by the lack of information provided by my smart meter via my energy supplier, I set about building a system where I can ...",
+      "published_at": "2025-04-24T15:31:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NJXEzL3peIA/hqdefault.jpg"
+    },
     {
       "title": "Aiming Cannons at Worms (2 of 2) / featuring: Delta Light 2",
       "video_id": "4hzqmEqHSPY",
@@ -75,14 +83,6 @@
       "description": "In this video, I show how to use the excelent Sol library/wrapper to integrate Lua in your C++ program. This is shown in direct ...",
       "published_at": "2024-03-29T22:26:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ONywOoJC4TQ/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing 2D Geometry Library",
-      "video_id": "QZFH7yrJ4H4",
-      "channel_title": "javidx9",
-      "description": "In this video, I introduce a One Lone Coder Community project called olcUTIL_Geometry2D. It's a new open source library that ...",
-      "published_at": "2024-02-04T14:58:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QZFH7yrJ4H4/hqdefault.jpg"
     }
   ]
 }

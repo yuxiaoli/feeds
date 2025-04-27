@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:28:35.583028",
+  "fetched_at": "2025-04-27T00:28:36.198829",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "I need this car😁 #edm #marshmello #alone",
+      "video_id": "DQB4VqfkQ6M",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-04-22T22:05:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DQB4VqfkQ6M/hqdefault.jpg"
+    },
     {
       "title": "The OG mask that started it all…",
       "video_id": "VrokBUaWXfU",
@@ -75,14 +83,6 @@
       "description": "Marshmello - Just Can't Stop (Pryzms Remix) stream/download: https://marshmello.ffm.to/therootsremixes stream/download \"The ...",
       "published_at": "2025-03-07T05:00:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6j-PZTxYlbQ/hqdefault.jpg"
-    },
-    {
-      "title": "Marshmello - Just Can&#39;t Stop (SKAN Remix)",
-      "video_id": "O43_rqRFhkM",
-      "channel_title": "Marshmello",
-      "description": "Marshmello - Just Can't Stop (SKAN Remix) stream/download: https://marshmello.ffm.to/therootsremixes stream/download \"The ...",
-      "published_at": "2025-03-07T05:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O43_rqRFhkM/hqdefault.jpg"
     }
   ]
 }

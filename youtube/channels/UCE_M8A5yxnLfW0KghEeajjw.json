@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-20T00:28:34.859339",
+  "fetched_at": "2025-04-27T00:28:35.495742",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "iPhone 16 Ceramic Shield | Trust Issues | Apple",
+      "video_id": "gdR32VJQ6aE",
+      "channel_title": "Apple",
+      "description": "iPhone 16 features the latest-generation Ceramic Shield material which is two times tougher than any smartphone glass. Relax ...",
+      "published_at": "2025-04-24T16:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gdR32VJQ6aE/hqdefault.jpg"
+    },
+    {
+      "title": "Apple Intelligence | Clean Up Photos: Flex | iPhone 16",
+      "video_id": "iL88A5F9V3k",
+      "channel_title": "Apple",
+      "description": "With Apple Intelligence, you can now remove distracting objects from your photos with the Clean Up tool. Learn more about ...",
+      "published_at": "2025-04-21T16:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iL88A5F9V3k/hqdefault.jpg"
+    },
     {
       "title": "Want to see a magic trick? Copy on iPhone, paste on Mac. #Shorts",
       "video_id": "90HxEee8s1w",
@@ -67,22 +83,6 @@
       "description": "Shoot cinematic slow motion in 4K 120 fps Dolby Vision on iPhone 16 Pro. Learn more about iPhone 16 Pro and iPhone 16 Pro ...",
       "published_at": "2025-03-14T13:01:14Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Mk1_KbPuCUI/hqdefault.jpg"
-    },
-    {
-      "title": "🥾 3 outdoorsy features on iPhone 16e #Shorts",
-      "video_id": "7FOyAAHF5lk",
-      "channel_title": "Apple",
-      "description": "Some key features for getting into nature with the new iPhone 16e: Messages via satellite 48MP Fusion camera Color ...",
-      "published_at": "2025-03-05T17:02:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7FOyAAHF5lk/hqdefault.jpg"
-    },
-    {
-      "title": "✈️ 5 travel tips with iPhone 16e #Shorts",
-      "video_id": "DPRU-CHmemg",
-      "channel_title": "Apple",
-      "description": "Must-have features for your next trip with the new iPhone 16e: Background Sounds Vehicle Motion Cues Currency ...",
-      "published_at": "2025-03-05T17:02:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DPRU-CHmemg/hqdefault.jpg"
     }
   ]
 }

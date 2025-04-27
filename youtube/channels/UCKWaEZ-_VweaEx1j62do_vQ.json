@@ -1,16 +1,80 @@
 {
-  "fetched_at": "2025-04-20T00:28:45.649703",
+  "fetched_at": "2025-04-27T00:28:45.530968",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Data Scientist vs AI Engineer",
-      "video_id": "TRVWp3c1Em8",
+      "title": "What is Large Scale Generative AI?",
+      "video_id": "Y-PgAmHMikw",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Data Engineer vs Data Scientist vs Analytics Engineer here → https://ibm.biz/BdniBn How do AI engineers differ ...",
-      "published_at": "2025-04-19T11:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TRVWp3c1Em8/hqdefault.jpg"
+      "description": "Learn more about Generative AI here → https://ibm.biz/BdnZ3P How do we scale Generative AI? Explore batch systems ...",
+      "published_at": "2025-04-26T12:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y-PgAmHMikw/hqdefault.jpg"
+    },
+    {
+      "title": "Humanoid robots ran a half marathon",
+      "video_id": "t5zLVKcpmaM",
+      "channel_title": "IBM Technology",
+      "description": "Humanoid robots ran a half marathon—as AI enters the physical world, what could human-robot interaction mean for AI research?",
+      "published_at": "2025-04-25T18:02:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t5zLVKcpmaM/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI social network, Anthropic’s reasoning study and humanoid half-marathon",
+      "video_id": "LnVkwuwL7LU",
+      "channel_title": "IBM Technology",
+      "description": "Subscribe for AI updates → https://ibm.biz/Bdn2J2 Is OpenAI going to enter the social media game? In episode 52 of Mixture of ...",
+      "published_at": "2025-04-25T10:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LnVkwuwL7LU/hqdefault.jpg"
+    },
+    {
+      "title": "Identity Threat Detection &amp; Response",
+      "video_id": "WNLA51mqsRA",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about Threat Detection & Response Solutions here → https://ibm.biz/BdnZ3g Firewalls are outdated—identity is the ...",
+      "published_at": "2025-04-24T17:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WNLA51mqsRA/hqdefault.jpg"
+    },
+    {
+      "title": "How Hackers Steal Passwords: 5 Attack Methods Explained",
+      "video_id": "vKPGZHoHX8k",
+      "channel_title": "IBM Technology",
+      "description": "Want to uncover the latest insights on ransomware, dark web threats, and AI risks? Read the 2024 Threat Intelligence Index ...",
+      "published_at": "2025-04-24T12:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vKPGZHoHX8k/hqdefault.jpg"
+    },
+    {
+      "title": "What Are Orchestrator Agents? AI Tools Working Smarter Together",
+      "video_id": "X3XJeTApVMM",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Solution Implementer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-04-23T11:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X3XJeTApVMM/hqdefault.jpg"
+    },
+    {
+      "title": "Democratizing Model Pre-Training",
+      "video_id": "uY-4R1dWtrw",
+      "channel_title": "IBM Technology",
+      "description": "https://youtu.be/SkXgG6ksKTA Building AI models takes months—and 'unobtainium' GPUs. #GPU #AI.",
+      "published_at": "2025-04-22T17:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uY-4R1dWtrw/hqdefault.jpg"
+    },
+    {
+      "title": "Master NoSQL: Scalable Databases for Modern Applications",
+      "video_id": "pYK4No7ACRE",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Professional Developer - Cloud v6? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-04-22T11:01:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pYK4No7ACRE/hqdefault.jpg"
+    },
+    {
+      "title": "Generative vs Agentic AI: Shaping the Future of AI Collaboration",
+      "video_id": "EDb37y_MhRw",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-04-21T11:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EDb37y_MhRw/hqdefault.jpg"
     },
     {
       "title": "Is This the Year of the Agentic AI Ecosystem?",
@@ -19,70 +83,6 @@
       "description": "In episode 51 of Mixture of Experts, we cover OpenAI o3 and o4-mini, Google Gemini running on-prem, AI evaluation tools and ...",
       "published_at": "2025-04-18T19:00:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7FOGtPXVhIU/hqdefault.jpg"
-    },
-    {
-      "title": "o3 and o4-mini, Google Gemini on-prem and NVIDIA’s U.S. chip manufacturing",
-      "video_id": "8e6StFBP0VM",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to learn more AI content → https://ibm.biz/Bdnj3J John's blog on AI evaluation tools ...",
-      "published_at": "2025-04-18T11:47:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8e6StFBP0VM/hqdefault.jpg"
-    },
-    {
-      "title": "AI Assistants vs. Chatbots",
-      "video_id": "2ndawJX9Lso",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Chatbots here → https://ibm.biz/BdnEkm Are chatbots and AI assistants the same? Learn how AI assistants ...",
-      "published_at": "2025-04-17T17:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2ndawJX9Lso/hqdefault.jpg"
-    },
-    {
-      "title": "2025 Threat Intelligence Index: Dark Web, AI, &amp; Ransomware Trends",
-      "video_id": "iGE7b_XQqtY",
-      "channel_title": "IBM Technology",
-      "description": "Want to uncover the latest insights on ransomware, dark web threats, and AI risks? Read the 2025 Threat Intelligence Index ...",
-      "published_at": "2025-04-17T09:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iGE7b_XQqtY/hqdefault.jpg"
-    },
-    {
-      "title": "How to Build an MCP Server for LLM Agents: Simplify AI Integration",
-      "video_id": "EyYJI8TPIj8",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-04-16T12:15:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EyYJI8TPIj8/hqdefault.jpg"
-    },
-    {
-      "title": "How Infrastructure is Powering the Age of AI",
-      "video_id": "ooCwp6IGi3Q",
-      "channel_title": "IBM Technology",
-      "description": "Learn more here → https://ibm.biz/BdnHGF Discover how hardware capabilities enable the matrix math behind large language ...",
-      "published_at": "2025-04-15T20:29:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ooCwp6IGi3Q/hqdefault.jpg"
-    },
-    {
-      "title": "Secrets Management: Secure Credentials &amp; Avoid Data Leaks",
-      "video_id": "BqekRTA6VCs",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Deployment Professional? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-04-15T11:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BqekRTA6VCs/hqdefault.jpg"
-    },
-    {
-      "title": "RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models",
-      "video_id": "zYGDpG-pTho",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-04-14T11:01:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zYGDpG-pTho/hqdefault.jpg"
-    },
-    {
-      "title": "Control vs Data Plane Explained",
-      "video_id": "JFRI6yDIqqE",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Control Plane vs. Data Plane here → https://ibm.biz/BdnRte How does data processing happen? 🖥️ Discover ...",
-      "published_at": "2025-04-12T14:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JFRI6yDIqqE/hqdefault.jpg"
     }
   ]
 }

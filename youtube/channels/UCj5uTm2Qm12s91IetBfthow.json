@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-20T00:29:13.029174",
+  "fetched_at": "2025-04-27T00:29:12.172777",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "本周HuggingFace最火的8个项目",
+      "video_id": "0W_2Qd-e5ag",
+      "channel_title": "Find Interesting AI",
+      "description": "每周最火的huggingface项目，需科学上网https://huggingface.co/spaces/",
+      "published_at": "2025-04-20T04:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0W_2Qd-e5ag/hqdefault.jpg"
+    },
     {
       "title": "量化交易基础、工具选择、学习建议",
       "video_id": "fH4KbFWkTWM",
@@ -75,14 +83,6 @@
       "description": "2024年程序员的AI年终总结.",
       "published_at": "2024-12-28T06:32:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lurIQK0XKwE/hqdefault.jpg"
-    },
-    {
-      "title": "一次性讲明白扣子核心、能力边界",
-      "video_id": "LpyaAyhysLM",
-      "channel_title": "Find Interesting AI",
-      "description": "用一个项目串通coze的核心流程、能力边界.",
-      "published_at": "2024-12-10T06:56:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LpyaAyhysLM/hqdefault.jpg"
     }
   ]
 }
