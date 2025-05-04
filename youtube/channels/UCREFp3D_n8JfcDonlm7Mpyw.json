@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-27T00:28:54.115557",
+  "fetched_at": "2025-05-04T00:30:08.220655",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "&quot;I passed my C++ exam with Programiz PRO.” -  Landon | Learner story",
+      "video_id": "cwp0JmX8HoA",
+      "channel_title": "Programiz",
+      "description": "I was lucky to come across Programiz PRO because it instantly changed my experience of learning to code. Programiz PRO has ...",
+      "published_at": "2025-04-30T11:15:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cwp0JmX8HoA/hqdefault.jpg"
+    },
     {
       "title": "Is learning to code worth it in 2025? #shorts",
       "video_id": "WTfn7dIddt8",
@@ -75,14 +83,6 @@
       "description": "Are You a True Python Pro? Take This Quiz and Find Out! #shorts Are you preparing for a Python interview and want to test ...",
       "published_at": "2023-03-17T10:15:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IpGgXcDeqnU/hqdefault.jpg"
-    },
-    {
-      "title": "Only JavaScript Masters Can Solve These Quizzes!😮 #shorts",
-      "video_id": "nb14SJTbBLU",
-      "channel_title": "Programiz",
-      "description": "Only JavaScript Masters Can Solve These Quizzes!   #shortsvideo Are you a JavaScript Master? Test your JS skills with these fun ...",
-      "published_at": "2023-03-10T10:15:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nb14SJTbBLU/hqdefault.jpg"
     }
   ]
 }

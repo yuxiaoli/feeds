@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-27T00:28:59.874639",
+  "fetched_at": "2025-05-04T00:30:14.495702",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "ChatGPT Has Multiple Voices?!",
+      "video_id": "nN65VbhKCxU",
+      "channel_title": "OpenAI",
+      "description": "ChatGPT has 9 different voices for you to try. : Yi from ChatGPT's multimodal team.",
+      "published_at": "2025-05-02T20:01:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nN65VbhKCxU/hqdefault.jpg"
+    },
     {
       "title": "How to make Sora music videos with David Sheldrick",
       "video_id": "0dhX84UkwFs",
@@ -75,14 +83,6 @@
       "description": "See how OpenAI's ChatGPT can now integrate directly with apps like IDEs to help engineers write, debug, and refactor code in ...",
       "published_at": "2025-04-08T19:31:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_WvtdRtG1aY/hqdefault.jpg"
-    },
-    {
-      "title": "Creating a contextual workspace in ChatGPT",
-      "video_id": "-ctJEx1n15g",
-      "channel_title": "OpenAI",
-      "description": "Discover how ChatGPT's Projects feature helps you organize files, save context, and keep conversations consistent across your ...",
-      "published_at": "2025-04-08T19:29:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-ctJEx1n15g/hqdefault.jpg"
     }
   ]
 }

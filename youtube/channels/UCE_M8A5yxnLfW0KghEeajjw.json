@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-27T00:28:35.495742",
+  "fetched_at": "2025-05-04T00:29:47.985123",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Hands on with Apple Intelligence | Apple",
+      "video_id": "GGMhQkHCjxo",
+      "channel_title": "Apple",
+      "description": "Get to know Apple Intelligence, a powerful set of features built into your iPhone, iPad, and Mac, to help you write, express yourself, ...",
+      "published_at": "2025-05-02T20:10:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GGMhQkHCjxo/hqdefault.jpg"
+    },
     {
       "title": "iPhone 16 Ceramic Shield | Trust Issues | Apple",
       "video_id": "gdR32VJQ6aE",
@@ -75,14 +83,6 @@
       "description": "Watch Metallica's first immersive concert film, only on Apple Vision Pro starting March 14th. Link to schedule Apple Vision Pro ...",
       "published_at": "2025-03-14T23:40:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4e5DgSrN3E4/hqdefault.jpg"
-    },
-    {
-      "title": "iPhone 16 Pro | Slow motion in 4K 120 | Apple",
-      "video_id": "Mk1_KbPuCUI",
-      "channel_title": "Apple",
-      "description": "Shoot cinematic slow motion in 4K 120 fps Dolby Vision on iPhone 16 Pro. Learn more about iPhone 16 Pro and iPhone 16 Pro ...",
-      "published_at": "2025-03-14T13:01:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Mk1_KbPuCUI/hqdefault.jpg"
     }
   ]
 }

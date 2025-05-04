@@ -1,40 +1,64 @@
 {
-  "fetched_at": "2025-04-27T00:28:45.530968",
+  "fetched_at": "2025-05-04T00:29:58.723478",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "What is Large Scale Generative AI?",
-      "video_id": "Y-PgAmHMikw",
+      "title": "Qwen3’s hybrid thinking explained",
+      "video_id": "7D4fiRvSWMI",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Generative AI here → https://ibm.biz/BdnZ3P How do we scale Generative AI? Explore batch systems ...",
-      "published_at": "2025-04-26T12:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y-PgAmHMikw/hqdefault.jpg"
+      "description": "Qwen3 uses \"thinking\" and \"non-thinking\" modes to solve problems. Listen to AI expert, Chris Hay, explain how hybrid AI models ...",
+      "published_at": "2025-05-02T21:15:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7D4fiRvSWMI/hqdefault.jpg"
     },
     {
-      "title": "Humanoid robots ran a half marathon",
-      "video_id": "t5zLVKcpmaM",
+      "title": "LlamaCon, Qwen3, DeepSeek-R2 rumors and JP Morgan’s open letter on AI",
+      "video_id": "yeutlpU13YM",
       "channel_title": "IBM Technology",
-      "description": "Humanoid robots ran a half marathon—as AI enters the physical world, what could human-robot interaction mean for AI research?",
-      "published_at": "2025-04-25T18:02:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t5zLVKcpmaM/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to learn more AI content → https://ibm.biz/BdnPYG We are celebrating MoE podcast's one ...",
+      "published_at": "2025-05-02T10:01:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yeutlpU13YM/hqdefault.jpg"
     },
     {
-      "title": "OpenAI social network, Anthropic’s reasoning study and humanoid half-marathon",
-      "video_id": "LnVkwuwL7LU",
+      "title": "Optimize SQL Queries for AI, Performance, &amp; Real-Time Insights",
+      "video_id": "watwW4Hwyyw",
       "channel_title": "IBM Technology",
-      "description": "Subscribe for AI updates → https://ibm.biz/Bdn2J2 Is OpenAI going to enter the social media game? In episode 52 of Mixture of ...",
-      "published_at": "2025-04-25T10:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LnVkwuwL7LU/hqdefault.jpg"
+      "description": "Ready to become a certified Architect on Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-05-01T11:01:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/watwW4Hwyyw/hqdefault.jpg"
     },
     {
-      "title": "Identity Threat Detection &amp; Response",
-      "video_id": "WNLA51mqsRA",
+      "title": "Optimize RAG with AI Agents &amp; Vector Databases",
+      "video_id": "Yq29bZ8Hlrc",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Threat Detection & Response Solutions here → https://ibm.biz/BdnZ3g Firewalls are outdated—identity is the ...",
-      "published_at": "2025-04-24T17:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WNLA51mqsRA/hqdefault.jpg"
+      "description": "Ready to become a certified Administrator on IBM Cloud Pak for Integration? Register now and use code IBMTechYT20 for 20% ...",
+      "published_at": "2025-04-30T11:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Yq29bZ8Hlrc/hqdefault.jpg"
+    },
+    {
+      "title": "What is AI Data Management? Discover, Clean, &amp; Secure Data with AI",
+      "video_id": "swp1QJZQzEw",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Deployment Professional? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-04-29T11:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/swp1QJZQzEw/hqdefault.jpg"
+    },
+    {
+      "title": "2025 Cyber Threats: Ransomware &amp; Beyond",
+      "video_id": "aofmtE6Rp-w",
+      "channel_title": "IBM Technology",
+      "description": "Want to uncover the latest insights on ransomware, dark web threats, and AI risks? Read the 2025 Threat Intelligence Index ...",
+      "published_at": "2025-04-28T17:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aofmtE6Rp-w/hqdefault.jpg"
+    },
+    {
+      "title": "5 Types of AI Agents: Autonomous Functions &amp; Real-World Applications",
+      "video_id": "fXizBc03D7E",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-04-28T11:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fXizBc03D7E/hqdefault.jpg"
     },
     {
       "title": "How Hackers Steal Passwords: 5 Attack Methods Explained",
@@ -43,14 +67,6 @@
       "description": "Want to uncover the latest insights on ransomware, dark web threats, and AI risks? Read the 2024 Threat Intelligence Index ...",
       "published_at": "2025-04-24T12:00:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vKPGZHoHX8k/hqdefault.jpg"
-    },
-    {
-      "title": "What Are Orchestrator Agents? AI Tools Working Smarter Together",
-      "video_id": "X3XJeTApVMM",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Solution Implementer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-04-23T11:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X3XJeTApVMM/hqdefault.jpg"
     },
     {
       "title": "Democratizing Model Pre-Training",
@@ -67,22 +83,6 @@
       "description": "Ready to become a certified Professional Developer - Cloud v6? Register now and use code IBMTechYT20 for 20% off of your ...",
       "published_at": "2025-04-22T11:01:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/pYK4No7ACRE/hqdefault.jpg"
-    },
-    {
-      "title": "Generative vs Agentic AI: Shaping the Future of AI Collaboration",
-      "video_id": "EDb37y_MhRw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-04-21T11:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EDb37y_MhRw/hqdefault.jpg"
-    },
-    {
-      "title": "Is This the Year of the Agentic AI Ecosystem?",
-      "video_id": "7FOGtPXVhIU",
-      "channel_title": "IBM Technology",
-      "description": "In episode 51 of Mixture of Experts, we cover OpenAI o3 and o4-mini, Google Gemini running on-prem, AI evaluation tools and ...",
-      "published_at": "2025-04-18T19:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7FOGtPXVhIU/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-27T00:29:03.567730",
+  "fetched_at": "2025-05-04T00:30:18.292773",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "One arm handstand",
+      "video_id": "WxgKJKRUHTw",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2025-04-29T13:38:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WxgKJKRUHTw/hqdefault.jpg"
+    },
     {
       "title": "تمارين لتقوية أسفل الظهر في الكالسثنكس",
       "video_id": "N6BP4CA5Vas",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-02-24T11:59:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0tDCGQM1lFY/hqdefault.jpg"
-    },
-    {
-      "title": "توازن و قوة",
-      "video_id": "atrv-XGRYu8",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-02-18T11:39:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/atrv-XGRYu8/hqdefault.jpg"
     }
   ]
 }

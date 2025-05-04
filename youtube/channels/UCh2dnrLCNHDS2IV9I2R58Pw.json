@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-27T00:29:11.425440",
+  "fetched_at": "2025-05-04T00:30:26.781767",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Kistler Armchair Rocket",
+      "video_id": "G5vRAyjmcUw",
+      "channel_title": "Hazegrayart",
+      "description": "An early design concept sometimes referred to as the Bedpost Rocket the Kistler K-1 was a two-stage, fully reusable launch ...",
+      "published_at": "2025-05-02T02:46:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G5vRAyjmcUw/hqdefault.jpg"
+    },
+    {
+      "title": "Reusable One Stage Orbital Space Truck (ROOST)",
+      "video_id": "Ka4b2E5h3u0",
+      "channel_title": "Hazegrayart",
+      "description": "Philip Bono's study of a reusable Single Stage to Orbit (SSTO) The Douglas Aircraft Reusable One-Stage Orbital Space Truck ...",
+      "published_at": "2025-04-30T02:18:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ka4b2E5h3u0/hqdefault.jpg"
+    },
     {
       "title": "SpaceX Falcon XX Super Heavy Concept Launch",
       "video_id": "6AujLuaoz1Q",
@@ -67,22 +83,6 @@
       "description": "Gateway is a critical part of NASA's deep space exploration plans, along with the Space Launch System (SLS) rocket, Orion ...",
       "published_at": "2025-04-05T11:42:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zhmXrNFp1EI/hqdefault.jpg"
-    },
-    {
-      "title": "Apollo Winged Command Module Landing #apollo #nasa",
-      "video_id": "UfclYAB9llc",
-      "channel_title": "Hazegrayart",
-      "description": "United States Patent 3576298 applied for in 1967 and issued to the North American Rockwell Corp in 1971. ABSTRACT: An ...",
-      "published_at": "2025-04-01T13:00:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UfclYAB9llc/hqdefault.jpg"
-    },
-    {
-      "title": "Apollo Shuttle #apollo #nasa",
-      "video_id": "glylOvbxJpQ",
-      "channel_title": "Hazegrayart",
-      "description": "United States Patent 3576298 applied for in 1967 and issued to the North American Rockwell Corp in 1971. ABSTRACT: An ...",
-      "published_at": "2025-03-28T14:04:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/glylOvbxJpQ/hqdefault.jpg"
     }
   ]
 }

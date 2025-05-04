@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-04-27T00:28:29.740313",
+  "fetched_at": "2025-05-04T00:29:41.744711",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "GitHub Copilot for security: Finding vulnerabilities in your code",
-      "video_id": "RpkKcS0j9dA",
+      "title": "Open Source Friday: Building Fast UIs with Typewind and Tailwind CSS",
+      "video_id": "4QShqGuMxmw",
       "channel_title": "GitHub",
-      "description": "Did you know GitHub Copilot can help analyze your code for security issues? Learn how to ask Copilot direct questions about ...",
-      "published_at": "2025-04-26T14:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RpkKcS0j9dA/hqdefault.jpg"
+      "description": "Join us for Open Source Friday with Mokshit Jain, the maintainer of Typewind - the game-changing project that brings the full ...",
+      "published_at": "2025-05-03T05:55:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4QShqGuMxmw/hqdefault.jpg"
     },
     {
-      "title": "Scaling GitHub Secret Protection across your repositories",
-      "video_id": "AaYcmq5zpKY",
+      "title": "[pt-BR] Open Source Friday Brasil com Arthur Henrique",
+      "video_id": "PIQtebdIQa4",
       "channel_title": "GitHub",
-      "description": "Learn how to deploy GitHub's Secret Protection across your entire enterprise with minimal effort. This guide covers enterprise or ...",
-      "published_at": "2025-04-26T13:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AaYcmq5zpKY/hqdefault.jpg"
+      "description": "[Brazilian Stream] Na edição de hoje do Open Source Friday Brasil, vamos receber Arthur Henrique, mantenedor de um template ...",
+      "published_at": "2025-05-03T05:03:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PIQtebdIQa4/hqdefault.jpg"
     },
     {
-      "title": "Open Source with OpenSPP - Digital Public Good for Social Protection",
-      "video_id": "K1oNHBavlq8",
+      "title": "Open Source Friday with NPCI&#39;s Vishal Kanvaty",
+      "video_id": "ERBaSFWzcyM",
       "channel_title": "GitHub",
-      "description": "This week on Open Source Friday, we're chatting with the maintainer of OPENSPP, an open source project helping governments ...",
-      "published_at": "2025-04-26T05:56:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K1oNHBavlq8/hqdefault.jpg"
+      "description": "What happens when open source powers one of the world's largest digital ecosystems? Join us for a special Open Source Friday ...",
+      "published_at": "2025-05-02T23:22:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ERBaSFWzcyM/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] Open Source Friday Brasil  com Vinicius Jose De Moura",
-      "video_id": "3JqQV2UwDNA",
+      "title": "[pt-BR] Live Especial: Bate Papo com Téo Calvo",
+      "video_id": "1KyFyOZCMdA",
       "channel_title": "GitHub",
-      "description": "[pt-BR] Open Source Friday Brasil Hoje vamos conversar com Vinicius Moura, mantenedor do projeto Azure DevOps ...",
-      "published_at": "2025-04-26T04:55:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3JqQV2UwDNA/hqdefault.jpg"
+      "description": "[Brazilian Stream] Live Especial com Teo Calvo – Ciência de Dados e GitHub na Prática! Nessa edição super especial, Téo Calvo ...",
+      "published_at": "2025-05-02T17:58:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1KyFyOZCMdA/hqdefault_live.jpg"
     },
     {
-      "title": "The Download: New OpenAI models in Copilot, Fauna goes open source &amp; more",
-      "video_id": "Z5ocxtb5nNI",
+      "title": "Linus Torvalds on choosing Git&#39;s maintainer: It&#39;s about taste",
+      "video_id": "exNrTPVspQc",
       "channel_title": "GitHub",
-      "description": "Catch the latest developer updates on The Download with Andrea Griffiths! This episode covers Fauna database going fully open ...",
-      "published_at": "2025-04-25T16:10:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z5ocxtb5nNI/hqdefault.jpg"
+      "description": "What makes a great open source maintainer according to Linus Torvalds? It's not just about being first. Hear Linus explain the ...",
+      "published_at": "2025-05-02T14:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/exNrTPVspQc/hqdefault.jpg"
     },
     {
-      "title": "13 lines of code, 70% faster loads: The real story behind the GTA fix",
-      "video_id": "gLI8-l3ftjY",
+      "title": "Meet GitHub at Microsoft Build 2025 (May 19-22 in Seattle)",
+      "video_id": "4OmdhEpq_Ac",
       "channel_title": "GitHub",
-      "description": "Remember the GTA Online load time fix by 'Toast' that cut times by 70% with just 13 lines of code? This video explores the ...",
-      "published_at": "2025-04-25T14:01:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gLI8-l3ftjY/hqdefault.jpg"
-    },
-    {
-      "title": "Event in Spanish: Jueves de Quack",
-      "video_id": "r_6YR4KIoxU",
-      "channel_title": "GitHub",
-      "description": "Únete a nuestra sesión de trabajo colaborativo donde desarrolladores de todo el mundo nos reunimos para crear proyectos ...",
-      "published_at": "2025-04-25T09:10:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r_6YR4KIoxU/hqdefault.jpg"
+      "description": "Heading to Microsoft Build in Seattle (May 19-22)? Make sure to visit the GitHub team! We're bringing fun activities like the Copilot ...",
+      "published_at": "2025-05-02T14:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4OmdhEpq_Ac/hqdefault.jpg"
     },
     {
       "title": "Rubber Duck Thursdays - Building with Agent Mode!",
-      "video_id": "ugu4trHcn0M",
+      "video_id": "wzRgcGMBAGQ",
       "channel_title": "GitHub",
-      "description": "Let's cowork on some code together and talk about all things tech.",
-      "published_at": "2025-04-25T07:07:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ugu4trHcn0M/hqdefault.jpg"
+      "description": "Let's hack a project together and cowork!",
+      "published_at": "2025-05-02T07:10:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wzRgcGMBAGQ/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Back to building GitHub CLI Extensions",
-      "video_id": "d_1EYv0QsmU",
+      "title": "Rubber Duck Thursdays - The one with custom instructions",
+      "video_id": "_DOrUBjJgUw",
       "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We'll be running ...",
-      "published_at": "2025-04-24T23:13:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d_1EYv0QsmU/hqdefault.jpg"
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. In this stream, we'll ...",
+      "published_at": "2025-05-01T23:19:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_DOrUBjJgUw/hqdefault.jpg"
     },
     {
-      "title": "Stressed about secret leaks? 😰",
-      "video_id": "SuPU6yVp2-M",
+      "title": "Open Source Licensing, SBOMs and Security for Maintainers",
+      "video_id": "8hbkfKAl4hk",
       "channel_title": "GitHub",
-      "description": "Here's how you can protect yourself #developer #security #developerlife Stay up-to-date on all things GitHub by connecting ...",
-      "published_at": "2025-04-24T21:06:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SuPU6yVp2-M/hqdefault.jpg"
+      "description": "Join Jeff Luszcz from the GitHub Open Source Programs Office as he reviews what every maintainer should know about Open ...",
+      "published_at": "2025-05-01T17:30:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8hbkfKAl4hk/hqdefault_live.jpg"
+    },
+    {
+      "title": "Fauna database goes fully open source after service sunset",
+      "video_id": "ck4dJ-XLztE",
+      "channel_title": "GitHub",
+      "description": "Major news from database company Fauna: they are sunsetting their cloud service but fully committing to open-sourcing their ...",
+      "published_at": "2025-05-01T14:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ck4dJ-XLztE/hqdefault.jpg"
     }
   ]
 }

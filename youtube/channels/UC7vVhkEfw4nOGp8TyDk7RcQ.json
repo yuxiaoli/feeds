@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-27T00:28:30.434766",
+  "fetched_at": "2025-05-04T00:29:42.525567",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Arm you glad to see me, Atlas? | Boston Dynamics",
+      "video_id": "dFObux6mfTc",
+      "channel_title": "Boston Dynamics",
+      "description": "In robotics, dexterity and perception go hand-in-hand, literally! Our Atlas manipulation test stand practices a range of grasps, using ...",
+      "published_at": "2025-04-28T14:04:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dFObux6mfTc/hqdefault.jpg"
+    },
     {
       "title": "Stretch at Gap | Boston Dynamics",
       "video_id": "_dhwRYdZs9w",
@@ -75,14 +83,6 @@
       "description": "Code & Circuit, a non-profit organization based in Amesbury, MA, is a place where kids can use technology to create, collaborate, ...",
       "published_at": "2024-11-26T15:08:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/UVpkyJto-DQ/hqdefault.jpg"
-    },
-    {
-      "title": "Spot Watches Its Step | Boston Dynamics",
-      "video_id": "YD9EaS3VRbc",
-      "channel_title": "Boston Dynamics",
-      "description": "On a typical day, our customers are operating the Spot® robot in factories, foundries, substations, sub basements, and beyond.",
-      "published_at": "2024-11-14T14:59:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YD9EaS3VRbc/hqdefault.jpg"
     }
   ]
 }

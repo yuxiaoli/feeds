@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-27T00:28:28.305462",
+  "fetched_at": "2025-05-04T00:29:40.057198",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Making Megapack",
+      "video_id": "i8ycR2VTrA4",
+      "channel_title": "Tesla",
+      "description": "Megafactory is the largest utility-scale battery manufacturing facility in North America with a manufacturing capacity of 40 GWh or ...",
+      "published_at": "2025-04-29T20:33:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i8ycR2VTrA4/hqdefault.jpg"
+    },
+    {
+      "title": "Semi Factory Progress Update | Tesla",
+      "video_id": "U7Em2I7-DJ0",
+      "channel_title": "Tesla",
+      "description": "Follow Tesla Semi on X for more updates – https://x.com/tesla_semi.",
+      "published_at": "2025-04-28T17:34:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U7Em2I7-DJ0/hqdefault.jpg"
+    },
     {
       "title": "Tesla Q1 2025 Financial Results and Q&amp;A Webcast",
       "video_id": "vs4cfyyMWhQ",
@@ -67,22 +83,6 @@
       "description": "758 MW of solar supported by 1.2 GWh of Megapack at Arevon's site in Kern County, California provide critical grid stability and ...",
       "published_at": "2025-03-17T23:22:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cDapXW5QlVI/hqdefault.jpg"
-    },
-    {
-      "title": "Your Tesla can shift directions for you",
-      "video_id": "3mvOB88iYkE",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-03-12T19:48:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3mvOB88iYkE/hqdefault.jpg"
-    },
-    {
-      "title": "The New Model Y In 60 Seconds | Tesla",
-      "video_id": "iPJDW5EaIzE",
-      "channel_title": "Tesla",
-      "description": "Redesigned from end to end, check out the upgrades to the new Model Y that make the best-selling car in the world even better ...",
-      "published_at": "2025-03-08T17:16:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iPJDW5EaIzE/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-04-27T00:28:44.054459",
+  "fetched_at": "2025-05-04T00:29:57.181865",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Ep.3 — Let Warp Do It | One last critical python bug",
+      "video_id": "1RcnwPOuh90",
+      "channel_title": "Warp",
+      "description": "One last bug, and one minute to fix it. This is the kind of moment that makes or breaks a launch. Watch more at ...",
+      "published_at": "2025-04-30T14:49:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1RcnwPOuh90/hqdefault.jpg"
+    },
+    {
+      "title": "Building a social listening Slackbot with Warp",
+      "video_id": "Nshgv9QuWq4",
+      "channel_title": "Warp",
+      "description": "Learn how to code by prompt with Warp!",
+      "published_at": "2025-04-29T18:10:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nshgv9QuWq4/hqdefault_live.jpg"
+    },
     {
       "title": "Coding A Full Webpage From Figma Mocks",
       "video_id": "ceDXjd8OO04",
@@ -67,22 +83,6 @@
       "description": "www.windows-when.com We are giving thousands of users on our waitlist early access to Warp on Windows. Join now!",
       "published_at": "2025-02-05T20:10:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GRhuizrnapI/hqdefault.jpg"
-    },
-    {
-      "title": "We have new swag",
-      "video_id": "ZRk7I0Np1hk",
-      "channel_title": "Warp",
-      "description": "Want to get our swag for free? https://docs.warp.dev/getting-started/refer-a-friend.",
-      "published_at": "2024-12-03T06:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZRk7I0Np1hk/hqdefault.jpg"
-    },
-    {
-      "title": "Warp summarized in 3 minutes (Basics, AI, Teams, Customization)",
-      "video_id": "Ab7tRyN62yI",
-      "channel_title": "Warp",
-      "description": "This is Warp, a reimagined command line terminal with built-in AI and collaborative tools for teams. We are built in Rust and ...",
-      "published_at": "2024-11-21T05:39:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ab7tRyN62yI/hqdefault.jpg"
     }
   ]
 }

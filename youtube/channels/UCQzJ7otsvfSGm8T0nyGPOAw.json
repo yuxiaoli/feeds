@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-04-27T00:28:53.429184",
+  "fetched_at": "2025-05-04T00:30:07.421740",
   "channel_id": "UCQzJ7otsvfSGm8T0nyGPOAw",
   "channel_title": "Jason & Lucia",
   "count": 10,
   "videos": [
+    {
+      "title": "It’s gonna be MAY 😁",
+      "video_id": "4rBKD69lEKs",
+      "channel_title": "Jason & Lucia",
+      "description": "",
+      "published_at": "2025-04-30T12:53:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4rBKD69lEKs/hqdefault.jpg"
+    },
     {
       "title": "“Cheap” (BabyMonster Sheesh Parody) @luseeyalu #couple #comedy",
       "video_id": "zcq6YSISGiw",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-04-03T15:15:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Jk-TeVivXjo/hqdefault.jpg"
-    },
-    {
-      "title": "When you try to be sexy, but he’s a neat freak 🫠 @Luseeyalu",
-      "video_id": "ihlRWVjhaYs",
-      "channel_title": "Jason & Lucia",
-      "description": "",
-      "published_at": "2025-03-31T14:58:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ihlRWVjhaYs/hqdefault.jpg"
     }
   ]
 }

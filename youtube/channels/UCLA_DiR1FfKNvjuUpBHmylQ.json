@@ -1,56 +1,24 @@
 {
-  "fetched_at": "2025-04-27T00:28:46.949439",
+  "fetched_at": "2025-05-04T00:30:00.175800",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 10,
+  "count": 4,
   "videos": [
-    {
-      "title": "NASA Astronaut Don Pettit Post-Flight News Conference",
-      "video_id": "5q8RKIRTqn4",
-      "channel_title": "NASA",
-      "description": "After seven months, 93 million miles, and 670000 photos, astronaut Don Pettit has returned to Earth. Pettit is taking part in a news ...",
-      "published_at": "2025-04-23T16:55:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5q8RKIRTqn4/hqdefault_live.jpg"
-    },
-    {
-      "title": "How Are We Made of Star Stuff? We Asked a NASA Expert",
-      "video_id": "63uNNcCpxHI",
-      "channel_title": "NASA",
-      "description": "How are we made of star stuff? Nearly all the elements in your body were forged in ancient stars long before Earth, the Sun or our ...",
-      "published_at": "2025-04-23T14:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/63uNNcCpxHI/hqdefault.jpg"
-    },
-    {
-      "title": "Seeing Earth as Only NASA Can",
-      "video_id": "iTHUUjTA-LI",
-      "channel_title": "NASA",
-      "description": "NASA missions have shared unique views of our home planet for more than 60 years. In that time, science and technology in air ...",
-      "published_at": "2025-04-22T14:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iTHUUjTA-LI/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX 32nd Commercial Resupply Services Rendezvous and Docking",
-      "video_id": "UlBJrUBOpwo",
-      "channel_title": "NASA",
-      "description": "Watch a SpaceX Dragon spacecraft dock to the International Space Station after a successful liftoff on April 21 at 4:15 a.m. EDT ...",
-      "published_at": "2025-04-22T13:08:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UlBJrUBOpwo/hqdefault.jpg"
-    },
     {
       "title": "U.S. Spacewalk 93",
       "video_id": "xP9LyPsqI_g",
       "channel_title": "NASA",
       "description": "On Thursday, May 1, NASA astronauts Anne McClain and Nichole Ayers will step outside the International Space Station to ...",
-      "published_at": "2025-04-21T19:46:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xP9LyPsqI_g/hqdefault_live.jpg"
+      "published_at": "2025-05-01T20:10:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xP9LyPsqI_g/hqdefault.jpg"
     },
     {
-      "title": "NASA Astronaut Don Pettit Turns the Camera on Science",
-      "video_id": "rc02JNRyG6g",
+      "title": "NASA Astronaut Don Pettit Post-Flight News Conference",
+      "video_id": "5q8RKIRTqn4",
       "channel_title": "NASA",
-      "description": "NASA astronaut Don Pettit is scheduled to return home in mid-April 2025 after a seven-month mission aboard the International ...",
-      "published_at": "2025-04-17T14:02:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rc02JNRyG6g/hqdefault.jpg"
+      "description": "After seven months, 93 million miles, and 670000 photos, astronaut Don Pettit has returned to Earth. Pettit is taking part in a news ...",
+      "published_at": "2025-04-28T18:37:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5q8RKIRTqn4/hqdefault.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
@@ -67,22 +35,6 @@
       "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
       "published_at": "2025-02-27T17:28:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/H999s0P1Er0/hqdefault_live.jpg"
-    },
-    {
-      "title": "Launch of Cyclone-Tracking TROPICS CubeSats from New Zealand (Official NASA Broadcast)",
-      "video_id": "AjnByCGS2Bs",
-      "channel_title": "NASA",
-      "description": "Launch of NASA's Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats ...",
-      "published_at": "2023-05-08T01:52:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AjnByCGS2Bs/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing the Crew of our Artemis II Moon Mission on This Week @NASA – April 7, 2023",
-      "video_id": "vu-qFyWnrZY",
-      "channel_title": "NASA",
-      "description": "Introducing the crew of our Artemis II Moon mission, lighting up an Artemis rocket engine, and a new image of a distant planet.",
-      "published_at": "2023-04-07T21:34:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vu-qFyWnrZY/hqdefault.jpg"
     }
   ]
 }
