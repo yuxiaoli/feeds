@@ -1,16 +1,48 @@
 {
-  "fetched_at": "2025-05-04T00:29:39.268679",
+  "fetched_at": "2025-05-11T00:28:57.402876",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "Wanna be a full stack developer? Learn these languages",
-      "video_id": "KmNT3kdtMkA",
+      "title": "You NEED to understand THIS to land a tech job",
+      "video_id": "UHcF7AiwLSQ",
       "channel_title": "Tech With Tim",
       "description": "My Software Development Program: ...",
-      "published_at": "2025-05-03T11:30:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KmNT3kdtMkA/hqdefault.jpg"
+      "published_at": "2025-05-10T11:05:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UHcF7AiwLSQ/hqdefault.jpg"
+    },
+    {
+      "title": "THIS is how advanced Software Engineers think",
+      "video_id": "0onYIFvfEvM",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-05-10T01:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0onYIFvfEvM/hqdefault.jpg"
+    },
+    {
+      "title": "When should you stop watching tutorials as a programmer?",
+      "video_id": "TXh_KIuI3PU",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-05-09T21:41:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TXh_KIuI3PU/hqdefault.jpg"
+    },
+    {
+      "title": "3 Python AI Projects for Beginners - Full Tutorial",
+      "video_id": "XZdY15sHUa8",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with Recraft today and get $11 off any Recraft plan using code \"TIM11\" at: https://go.recraft.ai/tim Today, you'll learn ...",
+      "published_at": "2025-05-09T15:51:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XZdY15sHUa8/hqdefault.jpg"
+    },
+    {
+      "title": "How I Scrape Any Site Using This MCP Server + Claude, LangGraph &amp; AI Agents",
+      "video_id": "6DXuadyaJ4g",
+      "channel_title": "Tech With Tim",
+      "description": "Create a BrightData account to start using this MCP server: https://brdta.com/techwithtim_mcp So you've built an AI agent.",
+      "published_at": "2025-05-07T13:30:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6DXuadyaJ4g/hqdefault.jpg"
     },
     {
       "title": "What does the SetDefault function do in Python",
@@ -19,14 +51,6 @@
       "description": "My Software Development Program: ...",
       "published_at": "2025-05-02T15:00:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/alISyR7ntsg/hqdefault.jpg"
-    },
-    {
-      "title": "THIS is why most tech startups fail",
-      "video_id": "3tqLQleAzuw",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-05-02T12:32:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3tqLQleAzuw/hqdefault.jpg"
     },
     {
       "title": "4 Programming Projects for Employment in 2025",
@@ -59,30 +83,6 @@
       "description": "Get started wirh ChatLLM here: https://chatllm.abacus.ai I want you to ask yourself how many I subscriptions are you currently ...",
       "published_at": "2025-04-25T13:48:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EYcDauqeJjI/hqdefault.jpg"
-    },
-    {
-      "title": "The difference between TOP class developers and the rest",
-      "video_id": "bn4ydnn-kM8",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-25T22:43:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bn4ydnn-kM8/hqdefault.jpg"
-    },
-    {
-      "title": "Backend Software Engineer roadmap",
-      "video_id": "FlsrKv_xIyg",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-24T21:17:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FlsrKv_xIyg/hqdefault.jpg"
-    },
-    {
-      "title": "Did you know about this function in Python?",
-      "video_id": "fsBC6k3DbWo",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-17T21:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fsBC6k3DbWo/hqdefault.jpg"
     }
   ]
 }

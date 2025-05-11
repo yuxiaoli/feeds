@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-05-04T00:29:32.018020",
+  "fetched_at": "2025-05-11T00:28:50.418030",
   "channel_id": "UC-yuWVUplUJZvieEligKBkA",
   "channel_title": "javidx9",
   "count": 10,
@@ -13,7 +13,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NJXEzL3peIA/hqdefault.jpg"
     },
     {
-      "title": "Aiming Cannons at Worms (2 of 2) / featuring: Delta Light 2",
+      "title": "Aiming Cannons at Worms C++ (2 of 2) / featuring: Delta Light 2",
       "video_id": "4hzqmEqHSPY",
       "channel_title": "javidx9",
       "description": "Hello! In this video we continue modelling the projectile motion of a cannon in order to aim it at a target, but we take into account ...",
@@ -21,7 +21,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4hzqmEqHSPY/hqdefault.jpg"
     },
     {
-      "title": "Aiming Cannons at Worms (1 of 2) / featuring: fred",
+      "title": "Aiming Cannons at Worms C++ (1 of 2) / featuring: fred",
       "video_id": "LoHhfqxuxTg",
       "channel_title": "javidx9",
       "description": "Hello! In this video I look at how we can calculate the angle at which a cannon must be fired to hit a target. It's classic ballistics, or ...",

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-04T00:30:20.633477",
+  "fetched_at": "2025-05-11T00:29:37.621096",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Building AI Voice Agents for Production",
+      "video_id": "mwL5Yzg6UJE",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/3EELtr7 Join Building AI Voice Agents for Production, created in collaboration with LiveKit and ...",
+      "published_at": "2025-05-07T14:54:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mwL5Yzg6UJE/hqdefault.jpg"
+    },
     {
       "title": "New course! Enroll in Building Code Agents with Hugging Face smolagents",
       "video_id": "OWZ13KiWP0s",
@@ -53,6 +61,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/UkgMVkj1kdM/hqdefault.jpg"
     },
     {
+      "title": "AI Dev 25 | Aman Khan: Beyond Vibe Checks—Rethinking How We Evaluate AI Agent Performance",
+      "video_id": "GzxdGpFhn04",
+      "channel_title": "DeepLearningAI",
+      "description": "A great demo is just the starting point—getting AI agents to perform reliably in production is the real challenge. In his AI Dev 25 ...",
+      "published_at": "2025-03-27T19:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GzxdGpFhn04/hqdefault.jpg"
+    },
+    {
       "title": "AI Dev 25 | Apoorva Joshi: Building Agents That Learn—Managing Memory in AI Agents",
       "video_id": "30Ofh-Myte4",
       "channel_title": "DeepLearningAI",
@@ -67,22 +83,6 @@
       "description": "AI agents are being developed at an unprecedented pace—but today's landscape is fragmented, with incompatible frameworks ...",
       "published_at": "2025-03-27T18:39:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KBUDhgxLND8/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 | Sharon Zhou &amp; Mahdi Ghodsi: Run Deepseek Reasoning and Finetuning on AMD GPUs w/ Lamini",
-      "video_id": "MohMkvTRjjA",
-      "channel_title": "DeepLearningAI",
-      "description": "In this workshop, Sharon Zhou (CEO & Founder, Lamini) and Mahdi Ghodsi (AI Solution Architect, AMD) demonstrate how to run ...",
-      "published_at": "2025-03-27T18:33:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MohMkvTRjjA/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 | Jeff Huber: Teach Chroma how to play Doom",
-      "video_id": "CK5QGWUf1vo",
-      "channel_title": "DeepLearningAI",
-      "description": "Can a retrieval system learn to play Doom? In this lighthearted and insightful session, Jeff Huber, Founder and CEO of Chroma, ...",
-      "published_at": "2025-03-27T18:23:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CK5QGWUf1vo/hqdefault.jpg"
     }
   ]
 }

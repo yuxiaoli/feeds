@@ -1,32 +1,16 @@
 {
-  "fetched_at": "2025-05-04T00:30:00.175800",
+  "fetched_at": "2025-05-11T00:29:17.944329",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 4,
+  "count": 10,
   "videos": [
     {
-      "title": "U.S. Spacewalk 93",
-      "video_id": "xP9LyPsqI_g",
+      "title": "What is a Black Hole? We Asked a NASA Expert",
+      "video_id": "EJXTZ5jpSmk",
       "channel_title": "NASA",
-      "description": "On Thursday, May 1, NASA astronauts Anne McClain and Nichole Ayers will step outside the International Space Station to ...",
-      "published_at": "2025-05-01T20:10:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xP9LyPsqI_g/hqdefault.jpg"
-    },
-    {
-      "title": "NASA Astronaut Don Pettit Post-Flight News Conference",
-      "video_id": "5q8RKIRTqn4",
-      "channel_title": "NASA",
-      "description": "After seven months, 93 million miles, and 670000 photos, astronaut Don Pettit has returned to Earth. Pettit is taking part in a news ...",
-      "published_at": "2025-04-28T18:37:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5q8RKIRTqn4/hqdefault.jpg"
-    },
-    {
-      "title": "Live Video from the International Space Station (Official NASA Stream)",
-      "video_id": "jKHvbJe9c_Y",
-      "channel_title": "NASA",
-      "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
-      "published_at": "2025-02-27T17:35:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jKHvbJe9c_Y/hqdefault_live.jpg"
+      "description": "What exactly is a black hole? Well, they're not holes at all, rather incredibly dense regions in space with gravity so strong, not even ...",
+      "published_at": "2025-05-07T14:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EJXTZ5jpSmk/hqdefault.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
@@ -35,6 +19,70 @@
       "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
       "published_at": "2025-02-27T17:28:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/H999s0P1Er0/hqdefault_live.jpg"
+    },
+    {
+      "title": "Equipping the Space Station to Produce More Power on This Week @NASA – June 16, 2023",
+      "video_id": "6U3WiUA2CEs",
+      "channel_title": "NASA",
+      "description": "Equipping the space station to produce more power, our newest experimental X-plane, and preparing to test a new laser ...",
+      "published_at": "2023-06-16T22:04:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6U3WiUA2CEs/hqdefault.jpg"
+    },
+    {
+      "title": "Launch of Cyclone-Tracking TROPICS CubeSats from New Zealand (Official NASA Broadcast)",
+      "video_id": "AjnByCGS2Bs",
+      "channel_title": "NASA",
+      "description": "Launch of NASA's Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats ...",
+      "published_at": "2023-05-08T01:52:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AjnByCGS2Bs/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing the Crew of our Artemis II Moon Mission on This Week @NASA – April 7, 2023",
+      "video_id": "vu-qFyWnrZY",
+      "channel_title": "NASA",
+      "description": "Introducing the crew of our Artemis II Moon mission, lighting up an Artemis rocket engine, and a new image of a distant planet.",
+      "published_at": "2023-04-07T21:34:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vu-qFyWnrZY/hqdefault.jpg"
+    },
+    {
+      "title": "#PassThePhone with NASA and CSA’s Artemis II Lunar Flyby Astronauts",
+      "video_id": "VgSFtZ7UGCE",
+      "channel_title": "NASA",
+      "description": "Four astronauts are flying around the Moon on our 10-day Artemis II mission: NASA's Reid Wiseman, Victor Glover, and Christina ...",
+      "published_at": "2023-04-03T18:59:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VgSFtZ7UGCE/hqdefault.jpg"
+    },
+    {
+      "title": "Artemis I Path to the Pad: Launch and Recovery",
+      "video_id": "yae96AxH7V0",
+      "channel_title": "NASA",
+      "description": "On Nov. 16, 2022, NASA made history with the launch of our Space Launch System (SLS) rocket and Orion spacecraft – our ...",
+      "published_at": "2023-03-31T18:44:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yae96AxH7V0/hqdefault.jpg"
+    },
+    {
+      "title": "Artemis II Astronaut Announcement: April 3, 2023 (Official NASA Trailer)",
+      "video_id": "PFbNDSttnPQ",
+      "channel_title": "NASA",
+      "description": "Don't miss it! NASA and CSA (Canadian Space Agency) will announce during an event at 11 a.m. EDT on Monday, April 3, from ...",
+      "published_at": "2023-03-28T21:40:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PFbNDSttnPQ/hqdefault.jpg"
+    },
+    {
+      "title": "2023 ‘State of NASA’ Address from Administrator Bill Nelson",
+      "video_id": "yTVxELrVfB0",
+      "channel_title": "NASA",
+      "description": "NASA Administrator Bill Nelson delivers the State of NASA address for 2023. Learn about our plans to explore the Moon and Mars ...",
+      "published_at": "2023-03-09T20:06:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yTVxELrVfB0/hqdefault.jpg"
+    },
+    {
+      "title": "A New Crew Heads to the Space Station on This Week at NASA – March 3, 2023",
+      "video_id": "G77jdUMUj0Y",
+      "channel_title": "NASA",
+      "description": "The next crew heads to the space station, navigating the lunar landscape, and a view to look forward to. A few of the stories to tell ...",
+      "published_at": "2023-03-04T00:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G77jdUMUj0Y/hqdefault.jpg"
     }
   ]
 }

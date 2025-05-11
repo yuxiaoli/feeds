@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2025-05-04T00:30:14.495702",
+  "fetched_at": "2025-05-11T00:29:31.464467",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Collaborate and write with GPT-4o",
+      "video_id": "ordedK86DxQ",
+      "channel_title": "OpenAI",
+      "description": "Explore how GPT‑4o makes writing and collaboration more natural. This demo shows how ChatGPT drafts, refines, and adjusts ...",
+      "published_at": "2025-05-08T16:02:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ordedK86DxQ/hqdefault.jpg"
+    },
+    {
+      "title": "Connect internal knowledge from Google Drive",
+      "video_id": "8bAtx3WuRZw",
+      "channel_title": "OpenAI",
+      "description": "Connect ChatGPT to Google Drive and tap into internal knowledge instantly. In this demo, we show how teams can surface ...",
+      "published_at": "2025-05-08T15:59:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8bAtx3WuRZw/hqdefault.jpg"
+    },
+    {
+      "title": "Automate complex workflows with OpenAI o3",
+      "video_id": "ydJNqND6N_Y",
+      "channel_title": "OpenAI",
+      "description": "This demo highlights how OpenAI o3 models can complete multi-step tasks and use tools—analyzing data, visualizing insights, ...",
+      "published_at": "2025-05-08T15:57:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ydJNqND6N_Y/hqdefault.jpg"
+    },
+    {
+      "title": "Create on-brand visuals with image generation",
+      "video_id": "GAf0KHM4fnk",
+      "channel_title": "OpenAI",
+      "description": "See how ChatGPT's image generation unlocks fast, high-quality visuals for businesses—from branded assets to product mockups.",
+      "published_at": "2025-05-08T15:54:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GAf0KHM4fnk/hqdefault.jpg"
+    },
+    {
+      "title": "The San Antonio Spurs use ChatGPT to scale impact on and off the court",
+      "video_id": "yRAzw9-Yegs",
+      "channel_title": "OpenAI",
+      "description": "The San Antonio Spurs use ChatGPT Enterprise to save over 1800 staff hours a month, boost AI fluency from 14% to 85%, and ...",
+      "published_at": "2025-05-07T16:22:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yRAzw9-Yegs/hqdefault.jpg"
+    },
+    {
+      "title": "Lowe’s puts project expertise into every hand with OpenAI",
+      "video_id": "Tp3sgIEe7XE",
+      "channel_title": "OpenAI",
+      "description": "What happens when 1, 700 home improvement stores connect to OpenAI's LLMs? Project expertise for millions of people. Lowe's ...",
+      "published_at": "2025-05-07T14:00:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Tp3sgIEe7XE/hqdefault.jpg"
+    },
     {
       "title": "ChatGPT Has Multiple Voices?!",
       "video_id": "nN65VbhKCxU",
@@ -35,54 +83,6 @@
       "description": "Greg Brockman, Mark Chen, Eric Mitchell, Brandon McKinzie, Wenda Zhou, Fouad Matin, Michael Bolin, and Ananya Kumar ...",
       "published_at": "2025-04-16T17:33:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/sq8GBPUb3rk/hqdefault.jpg"
-    },
-    {
-      "title": "World-building in Sora with Alexia Adana",
-      "video_id": "PZk4t7Np4Ds",
-      "channel_title": "OpenAI",
-      "description": "Remix, presets, and seamless transitions—oh my! Go behind the scenes of Bloomchild, a stunning project by Sora Fellow Alexia ...",
-      "published_at": "2025-04-14T23:57:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PZk4t7Np4Ds/hqdefault.jpg"
-    },
-    {
-      "title": "GPT 4.1 in the API",
-      "video_id": "kA-P9ood-cE",
-      "channel_title": "OpenAI",
-      "description": "Join Michelle Pokrass, Ishaan Singal, and Kevin Weil as they introduce and demo our new family of GPT-4.1 models in the API.",
-      "published_at": "2025-04-14T17:30:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kA-P9ood-cE/hqdefault.jpg"
-    },
-    {
-      "title": "Pre-Training GPT-4.5",
-      "video_id": "6nJZopACRuQ",
-      "channel_title": "OpenAI",
-      "description": "Sam Altman sits down with Amin Tootoonchian, Alex Paino, and Daniel Selsam to discuss the journey to get to GPT-4.5.",
-      "published_at": "2025-04-11T01:02:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6nJZopACRuQ/hqdefault.jpg"
-    },
-    {
-      "title": "Market research with ChatGPT",
-      "video_id": "0G2pCw9wGfQ",
-      "channel_title": "OpenAI",
-      "description": "Deep research is the first truly agentic tool from OpenAI. In this demo, we show how ChatGPT can plan, search, read sources, and ...",
-      "published_at": "2025-04-08T19:35:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0G2pCw9wGfQ/hqdefault.jpg"
-    },
-    {
-      "title": "Strategic planning with ChatGPT",
-      "video_id": "HKk972fTfkk",
-      "channel_title": "OpenAI",
-      "description": "Want ChatGPT to be more strategic? This demo shows how o1 pro mode can reason through complex business challenges.",
-      "published_at": "2025-04-08T19:34:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HKk972fTfkk/hqdefault.jpg"
-    },
-    {
-      "title": "Shipping code to your IDE with ChatGPT",
-      "video_id": "_WvtdRtG1aY",
-      "channel_title": "OpenAI",
-      "description": "See how OpenAI's ChatGPT can now integrate directly with apps like IDEs to help engineers write, debug, and refactor code in ...",
-      "published_at": "2025-04-08T19:31:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_WvtdRtG1aY/hqdefault.jpg"
     }
   ]
 }

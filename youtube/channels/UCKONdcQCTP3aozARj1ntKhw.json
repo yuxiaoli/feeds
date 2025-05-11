@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-04T00:29:57.181865",
+  "fetched_at": "2025-05-11T00:29:14.860937",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Building a social listening Slackbot with Warp",
+      "video_id": "Nshgv9QuWq4",
+      "channel_title": "Warp",
+      "description": "Learn how to code by prompt with Warp!",
+      "published_at": "2025-05-06T17:10:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nshgv9QuWq4/hqdefault.jpg"
+    },
     {
       "title": "Ep.3 — Let Warp Do It | One last critical python bug",
       "video_id": "1RcnwPOuh90",
@@ -11,14 +19,6 @@
       "description": "One last bug, and one minute to fix it. This is the kind of moment that makes or breaks a launch. Watch more at ...",
       "published_at": "2025-04-30T14:49:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1RcnwPOuh90/hqdefault.jpg"
-    },
-    {
-      "title": "Building a social listening Slackbot with Warp",
-      "video_id": "Nshgv9QuWq4",
-      "channel_title": "Warp",
-      "description": "Learn how to code by prompt with Warp!",
-      "published_at": "2025-04-29T18:10:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nshgv9QuWq4/hqdefault_live.jpg"
     },
     {
       "title": "Coding A Full Webpage From Figma Mocks",

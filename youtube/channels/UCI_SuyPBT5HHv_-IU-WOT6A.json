@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2025-05-04T00:29:54.176333",
+  "fetched_at": "2025-05-11T00:29:11.824082",
   "channel_id": "UCI_SuyPBT5HHv_-IU-WOT6A",
   "channel_title": "Hayman Media",
-  "count": 6,
+  "count": 7,
   "videos": [
     {
       "title": "Porsche GT4 Rainy Mountain Drive Cinematic 4K",
@@ -51,6 +51,14 @@
       "description": "This is first showcase film on my channel which features a Porsche GT3RS and some mountain roads in the Brisbane hinterland.",
       "published_at": "2024-02-18T05:00:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HVf28fVK5Xk/hqdefault.jpg"
+    },
+    {
+      "title": "Porsche gt3 cup cars on the streets of the Gold Coast #gt3cup #porsche911 #porsche992gt3",
+      "video_id": "nKzHSp6wcnA",
+      "channel_title": "Hayman Media",
+      "description": "",
+      "published_at": "2023-11-01T08:23:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nKzHSp6wcnA/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-04T00:29:44.085260",
+  "fetched_at": "2025-05-11T00:29:02.037540",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "Toretto Spotted in Mia’s Integra @fitrich76-richardavalos #fastandfurious #jdm",
+      "video_id": "cUwgcVGUoDU",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2025-05-09T16:47:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cUwgcVGUoDU/hqdefault.jpg"
+    },
     {
       "title": "The Joker’s Mustang is Nothing to Play With @AgentsofKhaosJoker  @melloracing #ford #joker",
       "video_id": "lJPth73rx84",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-02-16T20:58:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xo2a-71o6GM/hqdefault.jpg"
-    },
-    {
-      "title": "2005 Ford GT screaming in the Canyon @Boden_Autohaus @always-evolving  #ford #videography",
-      "video_id": "jX20yAxS0KM",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-01-31T22:59:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jX20yAxS0KM/hqdefault.jpg"
     }
   ]
 }

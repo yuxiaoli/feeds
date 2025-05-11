@@ -1,40 +1,88 @@
 {
-  "fetched_at": "2025-05-04T00:29:46.463624",
+  "fetched_at": "2025-05-11T00:29:04.357172",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 4,
+  "count": 10,
   "videos": [
     {
-      "title": "Taking PCG to the Extreme with the PCGEx Plugin | Inside Unreal",
-      "video_id": "AwF7ZknhDGM",
+      "title": "Finishing Touches: Adding Movement To The World | 2.5D Game Course",
+      "video_id": "7O4lj8uYwco",
       "channel_title": "Unreal Engine",
-      "description": "The PCG Extended Toolkit is a free (libre), community-driven and open-source plugin that extends Unreal Engine' Procedural ...",
-      "published_at": "2025-05-01T20:26:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AwF7ZknhDGM/hqdefault.jpg"
+      "description": "Thiago Carneiro demonstrates how to enhance your game world with animated elements. This session covers setting up movable ...",
+      "published_at": "2025-05-09T18:25:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7O4lj8uYwco/hqdefault.jpg"
     },
     {
-      "title": "Creating In Fortnite I The Walking Dead Universe",
-      "video_id": "jRD-bOcUOsA",
+      "title": "Landscape Advanced Concepts: Grass Types | 2.5D Game Course",
+      "video_id": "MmQNFJQPqYI",
       "channel_title": "Unreal Engine",
-      "description": "The Walking Dead Universe lurches into the next Creating In Fortnite livestream! May 6 @ 2 PM ET All about building with ...",
-      "published_at": "2025-04-30T23:17:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jRD-bOcUOsA/hqdefault_live.jpg"
+      "description": "Explore advanced concepts in landscape vegetation as you set up grass types and related assets. In this video, Thiago Carneiro ...",
+      "published_at": "2025-05-09T18:25:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MmQNFJQPqYI/hqdefault.jpg"
     },
     {
-      "title": "Automotive Innovation Powered by UE5 at CES 2025",
-      "video_id": "_8o3vqxazZA",
+      "title": "Getting Started: Navigating the Engine |  2.5D Game Course",
+      "video_id": "SSGBLIbiXXA",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to discover some of the innovative use cases of Unreal Engine across automotive and mobility, as seen on the ...",
-      "published_at": "2025-04-30T17:25:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_8o3vqxazZA/hqdefault.jpg"
+      "description": "In this video, Thiago Carneiro explains how to effectively navigate the Unreal Engine environment. He demonstrates resetting the ...",
+      "published_at": "2025-05-09T18:25:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SSGBLIbiXXA/hqdefault.jpg"
     },
     {
-      "title": "Customizable Unreal Engine-Integrated Cockpits from Elektrobit at CES 2025",
-      "video_id": "oBYV5AyEOdk",
+      "title": "Project Setup: Character Setup  |  2.5D Game Course",
+      "video_id": "COx5b1-oTww",
       "channel_title": "Unreal Engine",
-      "description": "Elektrobit's software powers over five billion devices in more than 600 million vehicles. Watch this video and explore how you can ...",
-      "published_at": "2025-04-30T17:25:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oBYV5AyEOdk/hqdefault.jpg"
+      "description": "In this video, Thiago Carneiro walks you through setting up your project by integrating and organizing assets sourced from ...",
+      "published_at": "2025-05-09T18:25:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/COx5b1-oTww/hqdefault.jpg"
+    },
+    {
+      "title": "Gameplay: Character Setup | 2.5D Game Course",
+      "video_id": "CglDQON44gs",
+      "channel_title": "Unreal Engine",
+      "description": "In this video, Thiago Carneiro shifts the focus from project preparation to active gameplay. He isolates the character in a dedicated ...",
+      "published_at": "2025-05-09T18:25:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CglDQON44gs/hqdefault.jpg"
+    },
+    {
+      "title": "Landscape Basics: Making Mountains | 2.5D Game Course",
+      "video_id": "1nPQZRI8BJI",
+      "channel_title": "Unreal Engine",
+      "description": "Explore advanced landscape creation as Thiago Carneiro shows how to use Bezier-based custom brushes and non-destructive ...",
+      "published_at": "2025-05-09T18:25:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1nPQZRI8BJI/hqdefault.jpg"
+    },
+    {
+      "title": "Getting Started: Working with Assets |  2.5D Game Course",
+      "video_id": "9WxTKgsq5pw",
+      "channel_title": "Unreal Engine",
+      "description": "In this video, Thiago Carneiro shows you how to work with assets in Unreal Engine. He covers the basics of importing assets, ...",
+      "published_at": "2025-05-09T18:25:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9WxTKgsq5pw/hqdefault.jpg"
+    },
+    {
+      "title": "Landscape Advanced Concepts: Procedural Foliage | 2.5D Game Course",
+      "video_id": "1ZwxpbY0-0I",
+      "channel_title": "Unreal Engine",
+      "description": "Thiago Carneiro demonstrates advanced techniques for setting up procedural foliage to bring natural variation to your ...",
+      "published_at": "2025-05-09T18:25:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1ZwxpbY0-0I/hqdefault.jpg"
+    },
+    {
+      "title": "Landscape Basics: Getting Started | 2.5D Game Course",
+      "video_id": "H5jIMq98hRg",
+      "channel_title": "Unreal Engine",
+      "description": "In this video, Thiago Carneiro introduces the basics of world building in Unreal Engine. Learn how to set up a dynamic game ...",
+      "published_at": "2025-05-09T18:25:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H5jIMq98hRg/hqdefault.jpg"
+    },
+    {
+      "title": "World Building: Lighting | 2.5D Game Course",
+      "video_id": "tohqFoF4dsU",
+      "channel_title": "Unreal Engine",
+      "description": "In this video, instructor Thiago Carneiro explains how to create a dynamic lighting setup for your game world. You'll learn to ...",
+      "published_at": "2025-05-09T18:25:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tohqFoF4dsU/hqdefault.jpg"
     }
   ]
 }

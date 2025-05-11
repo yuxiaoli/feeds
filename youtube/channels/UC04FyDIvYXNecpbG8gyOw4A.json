@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-05-04T00:29:32.806624",
+  "fetched_at": "2025-05-11T00:28:51.189343",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "make memories come alive with @meta.ai",
+      "video_id": "Az-2D-77s7c",
+      "channel_title": "Meta",
+      "description": "upload your favorite photos to the Meta AI app and write \"animate ...",
+      "published_at": "2025-05-09T18:16:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Az-2D-77s7c/hqdefault.jpg"
+    },
+    {
+      "title": "we think it’s going to be the song of the summer",
+      "video_id": "2-vbfNP5rUo",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2025-05-08T15:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2-vbfNP5rUo/hqdefault.jpg"
+    },
+    {
+      "title": "@meta.ai is root-ing for you",
+      "video_id": "eDvpCAlQ_g8",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2025-05-07T19:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eDvpCAlQ_g8/hqdefault.jpg"
+    },
     {
       "title": "it&#39;s a zero mistakes kind of day",
       "video_id": "EpqSIhmpaO0",
@@ -59,30 +83,6 @@
       "description": "Talk with Meta AI to get inspiration, ideas and planning help for the perfect night with friends.",
       "published_at": "2025-03-07T17:40:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bOj_LCHmINU/hqdefault.jpg"
-    },
-    {
-      "title": "Talk it out with Meta AI - Thermodynamics",
-      "video_id": "G4QO490GlG8",
-      "channel_title": "Meta",
-      "description": "Talk with Meta AI to help sharpen your skills and transform the way you learn and understand complex subjects.",
-      "published_at": "2025-03-07T17:39:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G4QO490GlG8/hqdefault.jpg"
-    },
-    {
-      "title": "Mixed reality muralist @thesuperama harnesses Meta Quest and Gravity Sketch",
-      "video_id": "zovxKZEGFz0",
-      "channel_title": "Meta",
-      "description": "Muralist and digital illustrator @thesuperama recently made a Reel with the @metaquest 3S, using it as a \"projector\" to trace her ...",
-      "published_at": "2025-03-05T20:07:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zovxKZEGFz0/hqdefault.jpg"
-    },
-    {
-      "title": "I achieved mastery over thyme and spice with @meta.ai and @raybanmeta",
-      "video_id": "GCkIOCjICio",
-      "channel_title": "Meta",
-      "description": "a @meta.ai assist, just in thyme.",
-      "published_at": "2025-03-03T19:26:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GCkIOCjICio/hqdefault.jpg"
     }
   ]
 }

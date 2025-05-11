@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-05-04T00:30:38.314915",
+  "fetched_at": "2025-05-11T00:29:55.195100",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Ever wondered what stargazing would be like from Mars?",
+      "video_id": "PjJi_75Ecz0",
+      "channel_title": "Star Walk",
+      "description": "Surprisingly, the night sky on Mars would look quite familiar — the constellations keep their shapes, so you'd still spot Orion, ...",
+      "published_at": "2025-05-07T11:58:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PjJi_75Ecz0/hqdefault.jpg"
+    },
+    {
+      "title": "Did you know? 🌌",
+      "video_id": "64LspzcilOo",
+      "channel_title": "Star Walk",
+      "description": "The Milky Way looks like a glowing band to us because we're inside it — looking edge-on through its dense disk of stars, dust, ...",
+      "published_at": "2025-05-04T22:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/64LspzcilOo/hqdefault.jpg"
+    },
     {
       "title": "Top Astronomy Events of May 2025 ✨",
       "video_id": "KwJdRG-VSB0",
@@ -67,22 +83,6 @@
       "description": "Here are 8 constellations to look for this month — some famous, some hidden gems: Leo – The proud lion stands tall with bright ...",
       "published_at": "2025-04-11T13:16:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/D6TtbN7WmLA/hqdefault.jpg"
-    },
-    {
-      "title": "Earth + Theia = 🌕",
-      "video_id": "Jg1QWP_63e4",
-      "channel_title": "Star Walk",
-      "description": "Billions of years ago, Earth wasn't alone. A rogue planet the size of Mars — named Theia — slammed into our young world in a ...",
-      "published_at": "2025-04-10T22:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Jg1QWP_63e4/hqdefault.jpg"
-    },
-    {
-      "title": "Star Walk 2 Plus or Pro: What to Choose?",
-      "video_id": "ceTQNKzO4cA",
-      "channel_title": "Star Walk",
-      "description": "Star Walk 2 has two versions. The main difference between them is simple: ads. ✨ Star Walk 2 Plus is free but has ads.",
-      "published_at": "2025-04-10T13:31:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ceTQNKzO4cA/hqdefault.jpg"
     }
   ]
 }

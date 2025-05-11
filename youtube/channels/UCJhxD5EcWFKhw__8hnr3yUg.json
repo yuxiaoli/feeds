@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-04T00:29:55.667543",
+  "fetched_at": "2025-05-11T00:29:13.356582",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "每个python版本，从何而起，又因何而终？",
+      "video_id": "wgfZpqJqX9Y",
+      "channel_title": "码农高天",
+      "description": "这期视频我们来详细介绍一下python每个版本的生命周期，让大家对版本发布这个事情有一个更清晰的概念。",
+      "published_at": "2025-05-09T10:30:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wgfZpqJqX9Y/hqdefault.jpg"
+    },
     {
       "title": "【python】pyi文件是干啥的？函数实现怎么是空的？",
       "video_id": "cuFpTXaZP8o",
@@ -75,14 +83,6 @@
       "description": "短短的五行程序都猜不到结果？这里面可有不少学问。从PEP 709到PEP 667，多少个改动凑到一起才触发了这个特殊的案例？",
       "published_at": "2025-02-22T03:30:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ltCNkcl9HGI/hqdefault.jpg"
-    },
-    {
-      "title": "【python】引用计数机制中循环引用可能带来的问题",
-      "video_id": "sy0FXlhnX0c",
-      "channel_title": "码农高天",
-      "description": "Python是一门有垃圾回收机制的语言，而这个机制的核心是引用计数。然而引用计数并不能解决一切，循环引用就是最常见的一个 ...",
-      "published_at": "2025-02-04T04:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sy0FXlhnX0c/hqdefault.jpg"
     }
   ]
 }

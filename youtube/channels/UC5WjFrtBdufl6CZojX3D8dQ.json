@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-04T00:29:40.057198",
+  "fetched_at": "2025-05-11T00:28:58.207897",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Outage Protection | You Are In Control",
+      "video_id": "m1QQWvE18kU",
+      "channel_title": "Tesla",
+      "description": "Learn more about Powerwall: https://www.tesla.com/powerwall.",
+      "published_at": "2025-05-06T13:28:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m1QQWvE18kU/hqdefault.jpg"
+    },
     {
       "title": "Making Megapack",
       "video_id": "i8ycR2VTrA4",
@@ -75,14 +83,6 @@
       "description": "No more high electricity bills or outages with Solar & Powerwall. See how Northeast US customers power their homes and charge ...",
       "published_at": "2025-03-18T17:51:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EQ1FqipyKD4/hqdefault.jpg"
-    },
-    {
-      "title": "Supporting the Grid During Peak Demand | Megapack",
-      "video_id": "cDapXW5QlVI",
-      "channel_title": "Tesla",
-      "description": "758 MW of solar supported by 1.2 GWh of Megapack at Arevon's site in Kern County, California provide critical grid stability and ...",
-      "published_at": "2025-03-17T23:22:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cDapXW5QlVI/hqdefault.jpg"
     }
   ]
 }

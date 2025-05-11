@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-04T00:30:25.244438",
+  "fetched_at": "2025-05-11T00:29:42.158953",
   "channel_id": "UCgLUl1WDoDXUtxPaZeSZHsw",
   "channel_title": "李自然说",
   "count": 10,
   "videos": [
+    {
+      "title": "【长江商学院】AI落地之道：从技术创新到商业价值",
+      "video_id": "a0noSgyBJMI",
+      "channel_title": "李自然说",
+      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
+      "published_at": "2025-05-09T11:20:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a0noSgyBJMI/hqdefault.jpg"
+    },
     {
       "title": "鱼雷视角沉浸体验，双板80km/h下山 ⛷⛷ #ski",
       "video_id": "VemWXresxgw",
@@ -75,14 +83,6 @@
       "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
       "published_at": "2025-03-19T03:01:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8WV32eoglpg/hqdefault.jpg"
-    },
-    {
-      "title": "对韩国的刻板印象？中日韩棋手素质对比",
-      "video_id": "m74M4CzYQrk",
-      "channel_title": "李自然说",
-      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
-      "published_at": "2025-03-19T00:46:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m74M4CzYQrk/hqdefault.jpg"
     }
   ]
 }

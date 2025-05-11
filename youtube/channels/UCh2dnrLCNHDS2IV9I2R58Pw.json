@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-05-04T00:30:26.781767",
+  "fetched_at": "2025-05-11T00:29:43.684881",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "ROOST Reentry Landing",
+      "video_id": "PZg_dx8f4kM",
+      "channel_title": "Hazegrayart",
+      "description": "Philip Bono's study of a reusable Single Stage to Orbit (SSTO) The Douglas Aircraft Reusable One-Stage Orbital Space Truck ...",
+      "published_at": "2025-05-09T11:15:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PZg_dx8f4kM/hqdefault.jpg"
+    },
+    {
+      "title": "Boeing Mars Mission Return Home",
+      "video_id": "cHqGmyxdH3s",
+      "channel_title": "Hazegrayart",
+      "description": "In the year 1960, Philip Bono, a highly specialized Space Vehicle Design Specialist affiliated with the Boeing Airplane Company, ...",
+      "published_at": "2025-05-05T23:34:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cHqGmyxdH3s/hqdefault.jpg"
+    },
+    {
+      "title": "Freedom 7: Alan Shepard, 1st American In Space",
+      "video_id": "U95MYWKfD5M",
+      "channel_title": "Hazegrayart",
+      "description": "Some of the highlights of the first American to fly to space. Alan Shepard.",
+      "published_at": "2025-05-05T16:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U95MYWKfD5M/hqdefault.jpg"
+    },
+    {
+      "title": "Kliper Spaceplane: ESA-Russia Collaboration Diorama",
+      "video_id": "hhRwiMKa7Is",
+      "channel_title": "Hazegrayart",
+      "description": "The Kliper spaceplane was a proposed Russian reusable spacecraft intended for crewed missions to low Earth orbit (LEO), the ...",
+      "published_at": "2025-05-04T03:15:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hhRwiMKa7Is/hqdefault.jpg"
+    },
     {
       "title": "Kistler Armchair Rocket",
       "video_id": "G5vRAyjmcUw",
@@ -51,38 +83,6 @@
       "description": "The Vickers Swallow was a Mach 2.5 supersonic aircraft project headed by Barnes Wallis, working at the British aircraft company ...",
       "published_at": "2025-04-18T10:30:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wm8QUxKHwIM/hqdefault.jpg"
-    },
-    {
-      "title": "Reusable One Stage Orbital Space Truck (ROOST)",
-      "video_id": "QOBZa-Lw3N8",
-      "channel_title": "Hazegrayart",
-      "description": "Philip Bono's study of a reusable Single Stage to Orbit (SSTO) The Douglas Aircraft Reusable One-Stage Orbital Space Truck ...",
-      "published_at": "2025-04-15T12:30:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QOBZa-Lw3N8/hqdefault.jpg"
-    },
-    {
-      "title": "Mach 2.5 Vickers Swallow",
-      "video_id": "XKZFbmlzh90",
-      "channel_title": "Hazegrayart",
-      "description": "The Vickers Swallow was a Mach 2.5 supersonic aircraft project headed by Barnes Wallis, working at the British aircraft company ...",
-      "published_at": "2025-04-11T18:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XKZFbmlzh90/hqdefault.jpg"
-    },
-    {
-      "title": "Britain&#39;s Supersonic Transport, Vickers Swallow",
-      "video_id": "ISxb_PLSdgY",
-      "channel_title": "Hazegrayart",
-      "description": "The Vickers Swallow was a Mach 2.5 supersonic aircraft project headed by Barnes Wallis, working at the British aircraft company ...",
-      "published_at": "2025-04-08T15:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ISxb_PLSdgY/hqdefault.jpg"
-    },
-    {
-      "title": "The Artemis Gateway Diorama",
-      "video_id": "zhmXrNFp1EI",
-      "channel_title": "Hazegrayart",
-      "description": "Gateway is a critical part of NASA's deep space exploration plans, along with the Space Launch System (SLS) rocket, Orion ...",
-      "published_at": "2025-04-05T11:42:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zhmXrNFp1EI/hqdefault.jpg"
     }
   ]
 }

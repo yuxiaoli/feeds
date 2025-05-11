@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-04T00:29:33.594365",
+  "fetched_at": "2025-05-11T00:28:51.960768",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "And we all go broke🤎 #thecastellows #unreleased",
+      "video_id": "Nt7qvogg5Q8",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2025-05-07T21:44:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nt7qvogg5Q8/hqdefault.jpg"
+    },
     {
       "title": "A new one off the upcoming EP.. what y’all think? #thecastellows",
       "video_id": "rfW2sHFT-9U",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-03-19T12:12:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8qFmyPFm50E/hqdefault.jpg"
-    },
-    {
-      "title": "The Castellows - You Don&#39;t Even Know Who I Am (Audio)",
-      "video_id": "JwQrbA7OTwc",
-      "channel_title": "The Castellows",
-      "description": "The Castellows - You Don't Even Know Who I Am (Audio) Listen to the EP Playlist: ...",
-      "published_at": "2025-03-14T04:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JwQrbA7OTwc/hqdefault.jpg"
     }
   ]
 }

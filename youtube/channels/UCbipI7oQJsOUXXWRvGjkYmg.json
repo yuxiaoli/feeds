@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-05-04T00:30:19.050761",
+  "fetched_at": "2025-05-11T00:29:36.100930",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "Training with PAIN: Yes or No?",
+      "video_id": "-kWZJLIXRqI",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2025-05-09T20:06:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-kWZJLIXRqI/hqdefault.jpg"
+    },
+    {
+      "title": "Step by step towards my dream",
+      "video_id": "fQo0th0PGmE",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2025-05-04T13:48:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fQo0th0PGmE/hqdefault.jpg"
+    },
     {
       "title": "10 Minutes Workout in Hotel Room",
       "video_id": "qWy1AZMO8is",
@@ -11,14 +27,6 @@
       "description": "",
       "published_at": "2025-05-01T12:24:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qWy1AZMO8is/hqdefault.jpg"
-    },
-    {
-      "title": "Your Future Depends on Today’s Choices",
-      "video_id": "aBu55YbvWzU",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-04-26T14:02:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aBu55YbvWzU/hqdefault.jpg"
     },
     {
       "title": "Can I Beat Italy’s Strongest Athlete? Erik Barsi",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-03-31T13:44:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nUNiKwvycAs/hqdefault.jpg"
-    },
-    {
-      "title": "It’s NOT Genetics",
-      "video_id": "zzaQXiFab48",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-03-27T15:41:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zzaQXiFab48/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2025-05-04T00:29:34.494200",
+  "fetched_at": "2025-05-11T00:28:52.732693",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
+    {
+      "title": "What will it take to create the quantum internet of the future?",
+      "video_id": "KKPL6G6i-w0",
+      "channel_title": "Microsoft Azure",
+      "description": "Originally Presented: January 31, 2024 - The potential of quantum networking is immense: by transmitting and sharing information ...",
+      "published_at": "2025-05-09T16:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KKPL6G6i-w0/hqdefault.jpg"
+    },
+    {
+      "title": "Entering the era of reliable quantum computing",
+      "video_id": "Hds4unwHUHY",
+      "channel_title": "Microsoft Azure",
+      "description": "[Originally Presented: April 30, 2024] A hybrid supercomputer that combines both classical and quantum capabilities has the ...",
+      "published_at": "2025-05-09T14:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Hds4unwHUHY/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft&#39;s path to Quantum computing at scale",
+      "video_id": "N-djietgxfM",
+      "channel_title": "Microsoft Azure",
+      "description": "[Originally Presented: March 5, 2025] Join Chetan Nayak, Technical Fellow at Microsoft, to learn more about the groundbreaking ...",
+      "published_at": "2025-05-09T13:00:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N-djietgxfM/hqdefault.jpg"
+    },
+    {
+      "title": "Sneak Peek - Transforming Homes.com with Azure OpenAI",
+      "video_id": "Ee7dF6_3Jzw",
+      "channel_title": "Microsoft Azure",
+      "description": "Join us for our conversation with CoStar Group as they unveil groundbreaking advancements with Azure OpenAI ...",
+      "published_at": "2025-04-28T22:46:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ee7dF6_3Jzw/hqdefault.jpg"
+    },
+    {
+      "title": "Unveiling GPT-image-1: Rising to new heights with image generation in Azure AI Foundry",
+      "video_id": "btA8njJjLXY",
+      "channel_title": "Microsoft Azure",
+      "description": "We are thrilled to announce the launch of GPT-image-1, the latest and most advanced image generation model, now available on ...",
+      "published_at": "2025-04-23T19:26:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/btA8njJjLXY/hqdefault.jpg"
+    },
+    {
+      "title": "Quantum Error Correction with Q#",
+      "video_id": "PxuLc3g2qCA",
+      "channel_title": "Microsoft Azure",
+      "description": "This video demonstrates implementing an error correction algorithm using the Q# language in the Microsoft Azure Quantum ...",
+      "published_at": "2025-04-18T15:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PxuLc3g2qCA/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft Azure Quantum Development Kit overview",
+      "video_id": "ldcaDQTLTkY",
+      "channel_title": "Microsoft Azure",
+      "description": "This video gives a quick overview of the various features available in the Microsoft Azure Quantum Development Kit (QDK).",
+      "published_at": "2025-04-17T13:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ldcaDQTLTkY/hqdefault.jpg"
+    },
+    {
+      "title": "Nationwide Building Society maximizes cloud investments with the Microsoft marketplace",
+      "video_id": "McoqJkyYUoo",
+      "channel_title": "Microsoft Azure",
+      "description": "Nationwide Building Society is one of the world's largest member-owned banks. The Microsoft marketplace helps Nationwide ...",
+      "published_at": "2025-04-15T19:05:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/McoqJkyYUoo/hqdefault.jpg"
+    },
     {
       "title": "Microsoft Saas Stories | Learn from Software Experts | Episode 14, Dalikoo",
       "video_id": "JtIL21FANWM",
@@ -19,70 +83,6 @@
       "description": "Learn how Microsoft Copilot in Azure can help you gain better insights for cloud resource management by generating Azure ...",
       "published_at": "2025-04-08T23:09:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WYRFaWBWTRY/hqdefault.jpg"
-    },
-    {
-      "title": "The transformative power of neurodiversity and AI | EY, Neurodiversity Center of Excellence",
-      "video_id": "-kF7rNLlv5k",
-      "channel_title": "Microsoft Azure",
-      "description": "Great minds think alike—or do they? In this episode, Susan speaks with Hiren Shukla, Global Neurodiversity and Inclusive Value ...",
-      "published_at": "2025-04-08T14:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-kF7rNLlv5k/hqdefault.jpg"
-    },
-    {
-      "title": "Operation Smile makes faces happier around the world",
-      "video_id": "qq5XJsLyZXE",
-      "channel_title": "Microsoft Azure",
-      "description": "To serve its global patients, Operation Smile needed better support for translation and localized data input, faster ways to identify ...",
-      "published_at": "2025-04-02T22:45:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qq5XJsLyZXE/hqdefault.jpg"
-    },
-    {
-      "title": "MWC 2025 Microsoft Fabric",
-      "video_id": "VKQIXkTIk60",
-      "channel_title": "Microsoft Azure",
-      "description": "Explore how telcos can scale AI with a unified data estate, unlocking powerful insights and driving innovation. Explore the ...",
-      "published_at": "2025-03-27T01:03:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VKQIXkTIk60/hqdefault.jpg"
-    },
-    {
-      "title": "AI and analytics on and off the court | NBA",
-      "video_id": "7x-smg-qr2c",
-      "channel_title": "Microsoft Azure",
-      "description": "Basketball is life. And like life, it's fast, fluid, and hard to measure. It's about movement, split-second decisions, team dynamics, fan ...",
-      "published_at": "2025-03-25T14:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7x-smg-qr2c/hqdefault.jpg"
-    },
-    {
-      "title": "NVIDIA NIM on Azure AI Foundry",
-      "video_id": "JAj5f-s4-x4",
-      "channel_title": "Microsoft Azure",
-      "description": "Watch the audio description version: https://youtu.be/_sAU4zSgKIY Deploy NVIDIA NIM microservices and optimize your AI ...",
-      "published_at": "2025-03-18T20:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JAj5f-s4-x4/hqdefault.jpg"
-    },
-    {
-      "title": "o3-mini and RAG for Financial Analysis on the Azure OpenAI Service",
-      "video_id": "iiCxcilZWUw",
-      "channel_title": "Microsoft Azure",
-      "description": "Learn more about o3-mini and RAG for Financial Analysis on the Azure OpenAI Service: https://msft.it/6053UeDf3 #Microsoft ...",
-      "published_at": "2025-03-18T16:07:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iiCxcilZWUw/hqdefault.jpg"
-    },
-    {
-      "title": "Azure dev quiz",
-      "video_id": "A47VYZBiC0U",
-      "channel_title": "Microsoft Azure",
-      "description": "Create an Azure free account to get these benefits and more: - 12 months of free popular services - 65+ always-free services ...",
-      "published_at": "2025-02-24T17:22:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/A47VYZBiC0U/hqdefault.jpg"
-    },
-    {
-      "title": "Start innovating with advanced machine learning",
-      "video_id": "slxKbUUcsH4",
-      "channel_title": "Microsoft Azure",
-      "description": "Start innovating today with advanced machine learning, natural language processing, and 22 free AI services. Create an Azure ...",
-      "published_at": "2025-02-24T17:11:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/slxKbUUcsH4/hqdefault.jpg"
     }
   ]
 }

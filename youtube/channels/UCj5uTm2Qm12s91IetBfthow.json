@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-04T00:30:27.556585",
+  "fetched_at": "2025-05-11T00:29:44.450281",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "Github趋势榜5月总结",
+      "video_id": "TGEe1VLNHXU",
+      "channel_title": "Find Interesting AI",
+      "description": "93个项目总结文档https://qadso0i11yj.feishu.cn/base/GF7mbmMM7aww1gs8kHVc2pGonLh?from=from_copylink.",
+      "published_at": "2025-05-10T12:58:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TGEe1VLNHXU/hqdefault.jpg"
+    },
     {
       "title": "5月最新AI论文趋势汇总",
       "video_id": "t2m7yV1TXkY",
@@ -75,14 +83,6 @@
       "description": "使用AI，亲手给自己做一款哪吒手办.",
       "published_at": "2025-02-23T08:14:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/QrCdJClH8yY/hqdefault.jpg"
-    },
-    {
-      "title": "分享3款最新的免费数字人项目",
-      "video_id": "t25ZM6bo5s4",
-      "channel_title": "Find Interesting AI",
-      "description": "第一款：humva.com 第二款：github.com/bytedance/LatentSync 第三款：github.com/Kedreamix/Linly-Talker.",
-      "published_at": "2025-01-31T02:30:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t25ZM6bo5s4/hqdefault.jpg"
     }
   ]
 }
