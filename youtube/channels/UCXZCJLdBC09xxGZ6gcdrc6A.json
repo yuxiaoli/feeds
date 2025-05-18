@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2025-05-11T00:29:31.464467",
+  "fetched_at": "2025-05-18T00:30:20.699946",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Codex CLI with codex-mini",
+      "video_id": "O-ZfXbfAMKU",
+      "channel_title": "OpenAI",
+      "description": "Fouad Matin, Hyung Won Chung, and Anup Krishnamraju demo the latest updates to Codex CLI: Sign in with ChatGPT and a new ...",
+      "published_at": "2025-05-16T21:59:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O-ZfXbfAMKU/hqdefault.jpg"
+    },
+    {
+      "title": "Building faster with Codex",
+      "video_id": "wSAkqlzSZyw",
+      "channel_title": "OpenAI",
+      "description": "See how OpenAI engineer Nacho Soto can build faster with Codex, letting him start with pre-drafted PRs and kick off tasks from ...",
+      "published_at": "2025-05-16T16:41:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wSAkqlzSZyw/hqdefault.jpg"
+    },
+    {
+      "title": "Fixing papercuts with Codex",
+      "video_id": "yHzfc1Ih7jw",
+      "channel_title": "OpenAI",
+      "description": "See how OpenAI engineer Max Johnson can finally get to fixing papercuts, rather than letting them accumulate into tech debt.",
+      "published_at": "2025-05-16T16:41:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yHzfc1Ih7jw/hqdefault.jpg"
+    },
+    {
+      "title": "On call with Codex",
+      "video_id": "9nT_t9pZHg8",
+      "channel_title": "OpenAI",
+      "description": "See how OpenAI engineer Calvin French-Owen uses Codex when he's on call to triage issues and prioritize bug fixes, to help him ...",
+      "published_at": "2025-05-16T16:40:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9nT_t9pZHg8/hqdefault.jpg"
+    },
+    {
+      "title": "A research preview of Codex in ChatGPT",
+      "video_id": "hhdpnbfH6NU",
+      "channel_title": "OpenAI",
+      "description": "Greg Brockman, Jerry Tworek, Joshua Ma, Hanson Wang, Thibault Sottiaux, Katy Shi, and Andrey Mishchenko introduce and ...",
+      "published_at": "2025-05-16T15:30:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hhdpnbfH6NU/hqdefault.jpg"
+    },
+    {
+      "title": "Personalize ChatGPT with custom instructions",
+      "video_id": "i_cskqmWA3U",
+      "channel_title": "OpenAI",
+      "description": "With custom instructions, ChatGPT becomes more relevant to your day-to-day. In this demo, we show how to personalize how ...",
+      "published_at": "2025-05-12T16:39:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i_cskqmWA3U/hqdefault.jpg"
+    },
+    {
+      "title": "Run faster code reviews with deep research for GitHub",
+      "video_id": "ZWwquOvw5Bk",
+      "channel_title": "OpenAI",
+      "description": "ChatGPT's deep research integration with GitHub can run code reviews. This demo walks through how ChatGPT analyzes pull ...",
+      "published_at": "2025-05-12T16:33:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZWwquOvw5Bk/hqdefault.jpg"
+    },
+    {
+      "title": "Moms use ChatGPT for the first time #Shorts",
+      "video_id": "dPxfnWz7dwI",
+      "channel_title": "OpenAI",
+      "description": "We love our moms and our moms love ChatGPT. : The offspring of these great moms... (From TikTok) @easae__ @alextench ...",
+      "published_at": "2025-05-11T14:46:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dPxfnWz7dwI/hqdefault.jpg"
+    },
     {
       "title": "Collaborate and write with GPT-4o",
       "video_id": "ordedK86DxQ",
@@ -16,73 +80,9 @@
       "title": "Connect internal knowledge from Google Drive",
       "video_id": "8bAtx3WuRZw",
       "channel_title": "OpenAI",
-      "description": "Connect ChatGPT to Google Drive and tap into internal knowledge instantly. In this demo, we show how teams can surface ...",
+      "description": "Connect ChatGPT to Google Drive and tap into internal knowledge. In this demo, we show how teams can surface answers, ...",
       "published_at": "2025-05-08T15:59:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8bAtx3WuRZw/hqdefault.jpg"
-    },
-    {
-      "title": "Automate complex workflows with OpenAI o3",
-      "video_id": "ydJNqND6N_Y",
-      "channel_title": "OpenAI",
-      "description": "This demo highlights how OpenAI o3 models can complete multi-step tasks and use tools—analyzing data, visualizing insights, ...",
-      "published_at": "2025-05-08T15:57:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ydJNqND6N_Y/hqdefault.jpg"
-    },
-    {
-      "title": "Create on-brand visuals with image generation",
-      "video_id": "GAf0KHM4fnk",
-      "channel_title": "OpenAI",
-      "description": "See how ChatGPT's image generation unlocks fast, high-quality visuals for businesses—from branded assets to product mockups.",
-      "published_at": "2025-05-08T15:54:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GAf0KHM4fnk/hqdefault.jpg"
-    },
-    {
-      "title": "The San Antonio Spurs use ChatGPT to scale impact on and off the court",
-      "video_id": "yRAzw9-Yegs",
-      "channel_title": "OpenAI",
-      "description": "The San Antonio Spurs use ChatGPT Enterprise to save over 1800 staff hours a month, boost AI fluency from 14% to 85%, and ...",
-      "published_at": "2025-05-07T16:22:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yRAzw9-Yegs/hqdefault.jpg"
-    },
-    {
-      "title": "Lowe’s puts project expertise into every hand with OpenAI",
-      "video_id": "Tp3sgIEe7XE",
-      "channel_title": "OpenAI",
-      "description": "What happens when 1, 700 home improvement stores connect to OpenAI's LLMs? Project expertise for millions of people. Lowe's ...",
-      "published_at": "2025-05-07T14:00:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Tp3sgIEe7XE/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT Has Multiple Voices?!",
-      "video_id": "nN65VbhKCxU",
-      "channel_title": "OpenAI",
-      "description": "ChatGPT has 9 different voices for you to try. : Yi from ChatGPT's multimodal team.",
-      "published_at": "2025-05-02T20:01:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nN65VbhKCxU/hqdefault.jpg"
-    },
-    {
-      "title": "How to make Sora music videos with David Sheldrick",
-      "video_id": "0dhX84UkwFs",
-      "channel_title": "OpenAI",
-      "description": "Sora Fellow David Sheldrick shares an inside look at his latest project—a vibrant, multicultural twist on Victorian elegance ...",
-      "published_at": "2025-04-23T15:29:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0dhX84UkwFs/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI Codex CLI",
-      "video_id": "FUq9qRwrDrI",
-      "channel_title": "OpenAI",
-      "description": "Meet Codex CLI—an open-source local coding agent that turns natural language into working code. Tell Codex CLI what to build, ...",
-      "published_at": "2025-04-16T18:18:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FUq9qRwrDrI/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI o3 &amp; o4-mini",
-      "video_id": "sq8GBPUb3rk",
-      "channel_title": "OpenAI",
-      "description": "Greg Brockman, Mark Chen, Eric Mitchell, Brandon McKinzie, Wenda Zhou, Fouad Matin, Michael Bolin, and Ananya Kumar ...",
-      "published_at": "2025-04-16T17:33:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sq8GBPUb3rk/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-11T00:28:58.207897",
+  "fetched_at": "2025-05-18T00:29:47.552781",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Me in my room at 3am",
+      "video_id": "Y_6H-7mIT4w",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-05-14T17:50:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y_6H-7mIT4w/hqdefault.jpg"
+    },
     {
       "title": "Outage Protection | You Are In Control",
       "video_id": "m1QQWvE18kU",
@@ -75,14 +83,6 @@
       "description": "Company-wide all-hands keynote for Q1 2025.",
       "published_at": "2025-03-21T03:49:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/QGJysv_Qzkw/hqdefault.jpg"
-    },
-    {
-      "title": "Powerwall in the Northeast | Tesla Energy",
-      "video_id": "EQ1FqipyKD4",
-      "channel_title": "Tesla",
-      "description": "No more high electricity bills or outages with Solar & Powerwall. See how Northeast US customers power their homes and charge ...",
-      "published_at": "2025-03-18T17:51:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EQ1FqipyKD4/hqdefault.jpg"
     }
   ]
 }

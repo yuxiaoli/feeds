@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-11T00:29:14.860937",
+  "fetched_at": "2025-05-18T00:30:04.576570",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Launch Log 02 | Warp Updates",
+      "video_id": "hqC8RSGhBRA",
+      "channel_title": "Warp",
+      "description": "We've launched so many new features in Warp in just the last month, including MCP support (in Preview), Kitty image support, ...",
+      "published_at": "2025-05-14T14:44:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hqC8RSGhBRA/hqdefault.jpg"
+    },
     {
       "title": "Building a social listening Slackbot with Warp",
       "video_id": "Nshgv9QuWq4",
@@ -75,14 +83,6 @@
       "description": "Try Warp now for FREE https://www.warp.dev TODAY IS THE DAY. WE ARE FINALLY LAUNCHING WARP ON WINDOWS!",
       "published_at": "2025-02-26T13:00:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LOo9QkXZebk/hqdefault.jpg"
-    },
-    {
-      "title": "Get Early Access to Warp on Windows",
-      "video_id": "GRhuizrnapI",
-      "channel_title": "Warp",
-      "description": "www.windows-when.com We are giving thousands of users on our waitlist early access to Warp on Windows. Join now!",
-      "published_at": "2025-02-05T20:10:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GRhuizrnapI/hqdefault.jpg"
     }
   ]
 }

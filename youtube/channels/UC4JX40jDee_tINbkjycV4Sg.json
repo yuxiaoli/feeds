@@ -1,72 +1,48 @@
 {
-  "fetched_at": "2025-05-11T00:28:57.402876",
+  "fetched_at": "2025-05-18T00:29:46.850763",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "You NEED to understand THIS to land a tech job",
-      "video_id": "UHcF7AiwLSQ",
+      "title": "How to actually get good at AI engineering",
+      "video_id": "96Y6KSMqdFg",
       "channel_title": "Tech With Tim",
       "description": "My Software Development Program: ...",
-      "published_at": "2025-05-10T11:05:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UHcF7AiwLSQ/hqdefault.jpg"
+      "published_at": "2025-05-17T10:33:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/96Y6KSMqdFg/hqdefault.jpg"
     },
     {
-      "title": "THIS is how advanced Software Engineers think",
-      "video_id": "0onYIFvfEvM",
+      "title": "The BEST Python VSCode feature you are NOT using",
+      "video_id": "fLl3M0B7WQk",
       "channel_title": "Tech With Tim",
       "description": "My Software Development Program: ...",
-      "published_at": "2025-05-10T01:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0onYIFvfEvM/hqdefault.jpg"
+      "published_at": "2025-05-16T17:36:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fLl3M0B7WQk/hqdefault.jpg"
     },
     {
-      "title": "When should you stop watching tutorials as a programmer?",
-      "video_id": "TXh_KIuI3PU",
+      "title": "Do THIS instead of watching endless tutorials - how I’d learn Python FAST…",
+      "video_id": "mB0EBW-vDSQ",
+      "channel_title": "Tech With Tim",
+      "description": "These are two of the best beginner-friendly Python resources I recommend: Python Programming Fundamentals (Datacamp) ...",
+      "published_at": "2025-05-16T15:43:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mB0EBW-vDSQ/hqdefault.jpg"
+    },
+    {
+      "title": "How to become a Python dev expert",
+      "video_id": "gVN7WSiyc0g",
       "channel_title": "Tech With Tim",
       "description": "My Software Development Program: ...",
-      "published_at": "2025-05-09T21:41:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TXh_KIuI3PU/hqdefault.jpg"
+      "published_at": "2025-05-15T08:19:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gVN7WSiyc0g/hqdefault.jpg"
     },
     {
-      "title": "3 Python AI Projects for Beginners - Full Tutorial",
-      "video_id": "XZdY15sHUa8",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with Recraft today and get $11 off any Recraft plan using code \"TIM11\" at: https://go.recraft.ai/tim Today, you'll learn ...",
-      "published_at": "2025-05-09T15:51:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XZdY15sHUa8/hqdefault.jpg"
-    },
-    {
-      "title": "How I Scrape Any Site Using This MCP Server + Claude, LangGraph &amp; AI Agents",
-      "video_id": "6DXuadyaJ4g",
-      "channel_title": "Tech With Tim",
-      "description": "Create a BrightData account to start using this MCP server: https://brdta.com/techwithtim_mcp So you've built an AI agent.",
-      "published_at": "2025-05-07T13:30:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6DXuadyaJ4g/hqdefault.jpg"
-    },
-    {
-      "title": "What does the SetDefault function do in Python",
-      "video_id": "alISyR7ntsg",
+      "title": "The BIGGEST mistake devs make when learning Python",
+      "video_id": "TtXICGwBBOM",
       "channel_title": "Tech With Tim",
       "description": "My Software Development Program: ...",
-      "published_at": "2025-05-02T15:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/alISyR7ntsg/hqdefault.jpg"
-    },
-    {
-      "title": "4 Programming Projects for Employment in 2025",
-      "video_id": "9TDtDCXTtPM",
-      "channel_title": "Tech With Tim",
-      "description": "Take advantage of 4Geeks Job Guarantee and break into tech today!",
-      "published_at": "2025-05-01T12:49:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9TDtDCXTtPM/hqdefault.jpg"
-    },
-    {
-      "title": "How I&#39;d Learn ML/AI FAST If I Had to Start Over",
-      "video_id": "8xUher8-5_Q",
-      "channel_title": "Tech With Tim",
-      "description": "Start you tech career today with Simplilearn: https://bit.ly/Tech-with-Tim-AIML AI is changing extremely fast in 2025, and so is the ...",
-      "published_at": "2025-04-28T14:39:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8xUher8-5_Q/hqdefault.jpg"
+      "published_at": "2025-05-14T20:58:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TtXICGwBBOM/hqdefault.jpg"
     },
     {
       "title": "You need to MASTER THIS if you wanna land your dream job in tech",
@@ -83,6 +59,30 @@
       "description": "Get started wirh ChatLLM here: https://chatllm.abacus.ai I want you to ask yourself how many I subscriptions are you currently ...",
       "published_at": "2025-04-25T13:48:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EYcDauqeJjI/hqdefault.jpg"
+    },
+    {
+      "title": "The difference between TOP class developers and the rest",
+      "video_id": "bn4ydnn-kM8",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-03-25T22:43:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bn4ydnn-kM8/hqdefault.jpg"
+    },
+    {
+      "title": "Backend Software Engineer roadmap",
+      "video_id": "FlsrKv_xIyg",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-03-24T21:17:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FlsrKv_xIyg/hqdefault.jpg"
+    },
+    {
+      "title": "Did you know about this function in Python?",
+      "video_id": "fsBC6k3DbWo",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-03-17T21:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fsBC6k3DbWo/hqdefault.jpg"
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-05-11T00:28:59.770706",
+  "fetched_at": "2025-05-18T00:29:48.901680",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "GitHub Copilot deep dive: Model selection, prompting techniques &amp; agent mode",
-      "video_id": "0Oz-WQi51aU",
+      "title": "GitHub Copilot for screen reader users: Sound cues &amp; navigable edits in VS Code",
+      "video_id": "mn8kTicygiw",
       "channel_title": "GitHub",
-      "description": "Level up your AI-assisted development with this GitHub Copilot deep dive where we try out all different AI models to see what ...",
-      "published_at": "2025-05-10T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0Oz-WQi51aU/hqdefault.jpg"
+      "description": "How does GitHub Copilot support blind developers using screen readers? Vytautas shares his workflow, showcasing the ...",
+      "published_at": "2025-05-17T19:00:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mn8kTicygiw/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday - Building Real-Time Backends with Convex",
-      "video_id": "t0c2MND32ts",
+      "title": "How beginners build APIs rapidly with GitHub Copilot",
+      "video_id": "_gEjD1XBIWU",
       "channel_title": "GitHub",
-      "description": "Join us for a chat with the maintainers of Convex, the open-source backend built for real-time apps. We'll dive into how it works, ...",
-      "published_at": "2025-05-10T06:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t0c2MND32ts/hqdefault.jpg"
+      "description": "See how beginners build backend API models in record time using GitHub Copilot! Kedasha demonstrates Copilot creating files, ...",
+      "published_at": "2025-05-17T18:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_gEjD1XBIWU/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] Open Source Friday Brasil com Leticia &#39;Levxyca&#39; Leonardo - Diciotech",
-      "video_id": "jywizvNZpDM",
+      "title": "How GitHub Copilot helps developers navigate complex codebases",
+      "video_id": "2xh3e__iDEQ",
       "channel_title": "GitHub",
-      "description": "[Brazilian Stream] Hoje, no Open Source Friday, a convidada é Leticia 'Levxyca' Leonardo, criadora do Diciotech. Este é um ...",
-      "published_at": "2025-05-10T05:14:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jywizvNZpDM/hqdefault.jpg"
+      "description": "How can AI tools assist developers with in fast-paced, collaborative environments? Tom, a dyslexic software engineer intern, ...",
+      "published_at": "2025-05-17T14:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2xh3e__iDEQ/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday: Sustainability Workshop",
-      "video_id": "e1SD01RmAs0",
+      "title": "Open Source Friday: Supermemory",
+      "video_id": "83DRdPdod7k",
       "channel_title": "GitHub",
-      "description": "In this comprehensive workshop, Shaun Walker draws from his 12+ years of full-time open source experience to explore the ...",
-      "published_at": "2025-05-10T03:35:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e1SD01RmAs0/hqdefault.jpg"
+      "description": "Join us for our upcoming Open Source Friday session featuring Dhravya Shah, creator of Supermemory, an AI-powered second ...",
+      "published_at": "2025-05-17T05:33:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/83DRdPdod7k/hqdefault.jpg"
     },
     {
-      "title": "The Download: JetBrains gets Copilot Edits, World’s Orb Mini, Docker’s MCP Server",
-      "video_id": "CGsZ7332qQM",
-      "channel_title": "GitHub",
-      "description": "Your weekly dose of AI and developer news on The Download! We explore GitHub Copilot Edits integrating with JetBrains, ...",
-      "published_at": "2025-05-09T13:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CGsZ7332qQM/hqdefault.jpg"
-    },
-    {
-      "title": "Event in Spanish: Jueves de Quack",
-      "video_id": "a81tAYvGvJU",
+      "title": "[ptBR] Open Source Friday Brasil com Rafael Gonzaga - replay",
+      "video_id": "6AOLpwhoXyE",
       "channel_title": "GitHub",
       "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2025-05-09T09:12:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a81tAYvGvJU/hqdefault.jpg"
+      "published_at": "2025-05-17T05:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6AOLpwhoXyE/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Building with Agent Mode!",
-      "video_id": "RxVd6ieiUQ0",
+      "title": "Open Source Friday Meets Accessibility: A Special GAAD Edition",
+      "video_id": "ffvposQU7EA",
       "channel_title": "GitHub",
-      "description": "Let's hack a project together and cowork!",
-      "published_at": "2025-05-09T07:08:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RxVd6ieiUQ0/hqdefault.jpg"
+      "description": "In this special edition of Open Source Fridays, we celebrate Maintainer Month and Global Accessibility Awareness Day (GAAD).",
+      "published_at": "2025-05-17T01:46:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ffvposQU7EA/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Agent mode and custom instructions",
-      "video_id": "HZ_eLkwugWg",
+      "title": "What is GitHub announcing at Microsoft Build? 👀",
+      "video_id": "tRpKiilbILM",
       "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. In this stream, we'll ...",
-      "published_at": "2025-05-08T23:13:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HZ_eLkwugWg/hqdefault.jpg"
+      "description": "We're bursting to tell you about [BEEP] and especially [REDACTED] coming at Microsoft Build, but our lips are sealed... for now!",
+      "published_at": "2025-05-16T20:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tRpKiilbILM/hqdefault.jpg"
     },
     {
-      "title": "How GitHub Copilot improves code quality | Beyond the Commit",
-      "video_id": "R03lvlbbREY",
+      "title": "Copilot &amp; accessibility: A deaf tech lead&#39;s productivity strategy",
+      "video_id": "tER3tbrOXzs",
       "channel_title": "GitHub",
-      "description": "In Episode 2 of Beyond the Commit, Jared Bauer dives into research exploring GitHub Copilot's true impact, beyond just speed.",
-      "published_at": "2025-05-08T21:59:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R03lvlbbREY/hqdefault.jpg"
+      "description": "How can AI assistants enhance productivity for documenting and studying? Chris, a tech lead, explains how GitHub Copilot is ...",
+      "published_at": "2025-05-16T14:01:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tER3tbrOXzs/hqdefault.jpg"
     },
     {
-      "title": "Linus Torvalds: Why Git&#39;s distributed design works so well",
-      "video_id": "NYOdqo0OZbY",
+      "title": "[pt-BR🇧🇷] Quinta do Patinho",
+      "video_id": "cnAzrXGW7p4",
       "channel_title": "GitHub",
-      "description": "Why is Git so effective? Linus Torvalds explains how its distributed nature makes local work easy, sharing simple, and scaling ...",
-      "published_at": "2025-05-08T14:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NYOdqo0OZbY/hqdefault.jpg"
+      "description": "[Brazilian Stream ] Quinta do Patinho é uma live semanal descontraída com a Pachi explorando projetos de programação, ...",
+      "published_at": "2025-05-16T09:03:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cnAzrXGW7p4/hqdefault.jpg"
+    },
+    {
+      "title": "Event in Spanish: Jueves de Quack: Especial VS Code y GitHub Copilot",
+      "video_id": "2sckM3X4bCI",
+      "channel_title": "GitHub",
+      "description": "En esta edición de Jueves de Quack veremos una entrevista con el gran DotCSV (https://www.youtube.com/c/dotcsv) y después, ...",
+      "published_at": "2025-05-16T04:14:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2sckM3X4bCI/hqdefault.jpg"
     }
   ]
 }

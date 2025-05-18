@@ -1,88 +1,48 @@
 {
-  "fetched_at": "2025-05-11T00:29:04.357172",
+  "fetched_at": "2025-05-18T00:29:53.344257",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 10,
+  "count": 5,
   "videos": [
     {
-      "title": "Finishing Touches: Adding Movement To The World | 2.5D Game Course",
-      "video_id": "7O4lj8uYwco",
+      "title": "Pixomondo&#39;s PXO AKIRA Part 2",
+      "video_id": "NWFGcO82XDc",
       "channel_title": "Unreal Engine",
-      "description": "Thiago Carneiro demonstrates how to enhance your game world with animated elements. This session covers setting up movable ...",
-      "published_at": "2025-05-09T18:25:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7O4lj8uYwco/hqdefault.jpg"
+      "description": "PXO AKIRA assists in making sure that lighting and reflections remain consistent with realism during virtual production by utilizing ...",
+      "published_at": "2025-05-17T18:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NWFGcO82XDc/hqdefault.jpg"
     },
     {
-      "title": "Landscape Advanced Concepts: Grass Types | 2.5D Game Course",
-      "video_id": "MmQNFJQPqYI",
+      "title": "Pixomondo&#39;s PXO AKIRA Part 1",
+      "video_id": "Q8YvRzwkIow",
       "channel_title": "Unreal Engine",
-      "description": "Explore advanced concepts in landscape vegetation as you set up grass types and related assets. In this video, Thiago Carneiro ...",
-      "published_at": "2025-05-09T18:25:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MmQNFJQPqYI/hqdefault.jpg"
+      "description": "PXO AKIRA is helping make shooting vehicles for productions less complicated by removing the need to film live in the streets and ...",
+      "published_at": "2025-05-16T18:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q8YvRzwkIow/hqdefault.jpg"
     },
     {
-      "title": "Getting Started: Navigating the Engine |  2.5D Game Course",
-      "video_id": "SSGBLIbiXXA",
+      "title": "Beyond Average: How Tech Artists Can Make Games More Accessible | Inside Unreal",
+      "video_id": "BYvZO1V6qxs",
       "channel_title": "Unreal Engine",
-      "description": "In this video, Thiago Carneiro explains how to effectively navigate the Unreal Engine environment. He demonstrates resetting the ...",
-      "published_at": "2025-05-09T18:25:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SSGBLIbiXXA/hqdefault.jpg"
+      "description": "As part of Accessibility Week, we're excited to welcome Camille Kay, Technical Artist on the Developer Relations team at Epic ...",
+      "published_at": "2025-05-15T19:39:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BYvZO1V6qxs/hqdefault.jpg"
     },
     {
-      "title": "Project Setup: Character Setup  |  2.5D Game Course",
-      "video_id": "COx5b1-oTww",
+      "title": "Unreal Engine Sizzle: Beyond Games 2025",
+      "video_id": "beBxaauDxUc",
       "channel_title": "Unreal Engine",
-      "description": "In this video, Thiago Carneiro walks you through setting up your project by integrating and organizing assets sourced from ...",
-      "published_at": "2025-05-09T18:25:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/COx5b1-oTww/hqdefault.jpg"
+      "description": "Watch the Unreal Engine Sizzle: Beyond Games and discover some of the projects talented creators are using Unreal Engine for ...",
+      "published_at": "2025-05-14T19:14:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/beBxaauDxUc/hqdefault.jpg"
     },
     {
-      "title": "Gameplay: Character Setup | 2.5D Game Course",
-      "video_id": "CglDQON44gs",
+      "title": "State of Unreal 2025 Official 4K Livestream I Unreal Fest Orlando",
+      "video_id": "AjikvaR0i34",
       "channel_title": "Unreal Engine",
-      "description": "In this video, Thiago Carneiro shifts the focus from project preparation to active gameplay. He isolates the character in a dedicated ...",
-      "published_at": "2025-05-09T18:25:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CglDQON44gs/hqdefault.jpg"
-    },
-    {
-      "title": "Landscape Basics: Making Mountains | 2.5D Game Course",
-      "video_id": "1nPQZRI8BJI",
-      "channel_title": "Unreal Engine",
-      "description": "Explore advanced landscape creation as Thiago Carneiro shows how to use Bezier-based custom brushes and non-destructive ...",
-      "published_at": "2025-05-09T18:25:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1nPQZRI8BJI/hqdefault.jpg"
-    },
-    {
-      "title": "Getting Started: Working with Assets |  2.5D Game Course",
-      "video_id": "9WxTKgsq5pw",
-      "channel_title": "Unreal Engine",
-      "description": "In this video, Thiago Carneiro shows you how to work with assets in Unreal Engine. He covers the basics of importing assets, ...",
-      "published_at": "2025-05-09T18:25:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9WxTKgsq5pw/hqdefault.jpg"
-    },
-    {
-      "title": "Landscape Advanced Concepts: Procedural Foliage | 2.5D Game Course",
-      "video_id": "1ZwxpbY0-0I",
-      "channel_title": "Unreal Engine",
-      "description": "Thiago Carneiro demonstrates advanced techniques for setting up procedural foliage to bring natural variation to your ...",
-      "published_at": "2025-05-09T18:25:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1ZwxpbY0-0I/hqdefault.jpg"
-    },
-    {
-      "title": "Landscape Basics: Getting Started | 2.5D Game Course",
-      "video_id": "H5jIMq98hRg",
-      "channel_title": "Unreal Engine",
-      "description": "In this video, Thiago Carneiro introduces the basics of world building in Unreal Engine. Learn how to set up a dynamic game ...",
-      "published_at": "2025-05-09T18:25:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H5jIMq98hRg/hqdefault.jpg"
-    },
-    {
-      "title": "World Building: Lighting | 2.5D Game Course",
-      "video_id": "tohqFoF4dsU",
-      "channel_title": "Unreal Engine",
-      "description": "In this video, instructor Thiago Carneiro explains how to create a dynamic lighting setup for your game world. You'll learn to ...",
-      "published_at": "2025-05-09T18:25:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tohqFoF4dsU/hqdefault.jpg"
+      "description": "Buckle up—it's nearly time for the State of Unreal! We'll be streaming live from Unreal Fest Orlando at 9:30 AM EDT on June 3.",
+      "published_at": "2025-04-08T16:09:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AjikvaR0i34/hqdefault_live.jpg"
     }
   ]
 }

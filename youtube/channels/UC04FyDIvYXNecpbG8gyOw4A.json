@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-11T00:28:51.189343",
+  "fetched_at": "2025-05-18T00:29:40.615043",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "now we have more time to make a better crown",
+      "video_id": "G-I2MeXz9fs",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2025-05-16T13:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G-I2MeXz9fs/hqdefault.jpg"
+    },
     {
       "title": "make memories come alive with @meta.ai",
       "video_id": "Az-2D-77s7c",
@@ -75,14 +83,6 @@
       "description": "jays_visions is an underwater videographer who has leveraged his stunning video encounters with sea-life to educate others ...",
       "published_at": "2025-03-14T17:05:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wzS8DyRZlHk/hqdefault.jpg"
-    },
-    {
-      "title": "Talk it out with Meta AI - Book Club",
-      "video_id": "bOj_LCHmINU",
-      "channel_title": "Meta",
-      "description": "Talk with Meta AI to get inspiration, ideas and planning help for the perfect night with friends.",
-      "published_at": "2025-03-07T17:40:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bOj_LCHmINU/hqdefault.jpg"
     }
   ]
 }

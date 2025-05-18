@@ -1,16 +1,56 @@
 {
-  "fetched_at": "2025-05-11T00:29:16.420420",
+  "fetched_at": "2025-05-18T00:30:05.968718",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "IBM Think 2025: 150+ AI Agents Unleashed!",
-      "video_id": "yhR3ecXldV4",
+      "title": "AI agents need new benchmarks",
+      "video_id": "DZp5gX0GW5o",
       "channel_title": "IBM Technology",
-      "description": "Kaoutar El Maghraoui shares how IBM Think 2025 showcased 150+ pre-built AI agents via watsonx Orchestrate, boosting ...",
-      "published_at": "2025-05-09T19:02:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yhR3ecXldV4/hqdefault.jpg"
+      "description": "Agentic AI is here, but we're still using chatbot-era benchmarks. Here's why hybrid, domain-specific evaluations are the future of AI ...",
+      "published_at": "2025-05-17T12:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DZp5gX0GW5o/hqdefault.jpg"
+    },
+    {
+      "title": "Mistral Medium 3, OpenAI HealthBench and AI chips to Saudi Arabia",
+      "video_id": "kjRHpuXGmH0",
+      "channel_title": "IBM Technology",
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/Bdnat7 Can Mistral make Europe a global AI ...",
+      "published_at": "2025-05-16T10:10:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kjRHpuXGmH0/hqdefault.jpg"
+    },
+    {
+      "title": "Risks of Agentic AI: What You Need to Know About Autonomous AI",
+      "video_id": "v07Y4fmSi6Y",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Architect on Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-05-15T14:48:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v07Y4fmSi6Y/hqdefault.jpg"
+    },
+    {
+      "title": "How to Choose Large Language Models: A Developer’s Guide to LLMs",
+      "video_id": "pYax2rupKEY",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-05-14T13:07:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pYax2rupKEY/hqdefault.jpg"
+    },
+    {
+      "title": "LLMs and AI Agents: Transforming Unstructured Data",
+      "video_id": "_pEEJu-2KKM",
+      "channel_title": "IBM Technology",
+      "description": "Read more about Terzo here → https://ibm.biz/Bdnmpr Learn more about Intelligent Data Extraction here ...",
+      "published_at": "2025-05-13T11:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_pEEJu-2KKM/hqdefault.jpg"
+    },
+    {
+      "title": "How CAG Transforms LLMs",
+      "video_id": "NSE6zhV8KnI",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about Large Language Models here → https://ibm.biz/Bdnmn8 Is CAG just prompting? Discover how Cache ...",
+      "published_at": "2025-05-12T18:12:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NSE6zhV8KnI/hqdefault.jpg"
     },
     {
       "title": "IBM Think 2025, OpenAI Windsurf acquisition, reasoning models and hallucinations",
@@ -21,68 +61,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5M-VD9F1W7A/hqdefault.jpg"
     },
     {
-      "title": "What Are AI Identities? Understanding Agentic Systems &amp; Governance",
-      "video_id": "AuV62XbiZcw",
+      "title": "2025 Cyber Threats: Ransomware &amp; Beyond",
+      "video_id": "aofmtE6Rp-w",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-05-08T11:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AuV62XbiZcw/hqdefault.jpg"
+      "description": "Want to uncover the latest insights on ransomware, dark web threats, and AI risks? Read the 2025 Threat Intelligence Index ...",
+      "published_at": "2025-04-28T17:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aofmtE6Rp-w/hqdefault.jpg"
     },
     {
-      "title": "AI Chatbots: NLP &amp; Emotional Intelligence",
-      "video_id": "W_FaxJMhuTQ",
+      "title": "How Infrastructure is Powering the Age of AI",
+      "video_id": "ooCwp6IGi3Q",
       "channel_title": "IBM Technology",
-      "description": "Learn more about AI Chatbots here → https://ibm.biz/BdnqMq How human should AI chatbots be? Discover how NLP ...",
-      "published_at": "2025-05-07T17:00:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W_FaxJMhuTQ/hqdefault.jpg"
+      "description": "Learn more here → https://ibm.biz/BdnHGF Discover how hardware capabilities enable the matrix math behind large language ...",
+      "published_at": "2025-04-15T20:29:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ooCwp6IGi3Q/hqdefault.jpg"
     },
     {
-      "title": "Language Concept Models: The Next Leap in Generative AI",
-      "video_id": "Le86PMGK2Uk",
+      "title": "What is LLMJacking? The Hidden Cloud Security Threat of AI Models",
+      "video_id": "dibZ1itSvM4",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-05-06T11:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Le86PMGK2Uk/hqdefault.jpg"
-    },
-    {
-      "title": "MCP vs API: Simplifying AI Agent Integration with External Data",
-      "video_id": "7j1t3UZA1TY",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Solution Implementer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-05-05T11:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7j1t3UZA1TY/hqdefault.jpg"
-    },
-    {
-      "title": "Qwen3’s hybrid thinking explained",
-      "video_id": "7D4fiRvSWMI",
-      "channel_title": "IBM Technology",
-      "description": "Qwen3 uses \"thinking\" and \"non-thinking\" modes to solve problems. Listen to AI expert, Chris Hay, explain how hybrid AI models ...",
-      "published_at": "2025-05-02T21:15:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7D4fiRvSWMI/hqdefault.jpg"
-    },
-    {
-      "title": "LlamaCon, Qwen3, DeepSeek-R2 rumors and JP Morgan’s open letter on AI",
-      "video_id": "yeutlpU13YM",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to learn more AI content → https://ibm.biz/BdnPYG We are celebrating MoE podcast's one ...",
-      "published_at": "2025-05-02T10:01:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yeutlpU13YM/hqdefault.jpg"
-    },
-    {
-      "title": "Optimize RAG with AI Agents &amp; Vector Databases",
-      "video_id": "Yq29bZ8Hlrc",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Administrator on IBM Cloud Pak for Integration? Register now and use code IBMTechYT20 for 20% ...",
-      "published_at": "2025-04-30T11:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Yq29bZ8Hlrc/hqdefault.jpg"
-    },
-    {
-      "title": "What is AI Data Management? Discover, Clean, &amp; Secure Data with AI",
-      "video_id": "swp1QJZQzEw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Deployment Professional? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-04-29T11:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/swp1QJZQzEw/hqdefault.jpg"
+      "description": "Ready to become a certified Administrator - Cloud Pak for Security? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-04-09T11:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dibZ1itSvM4/hqdefault.jpg"
     }
   ]
 }

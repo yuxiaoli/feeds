@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-05-11T00:29:52.149015",
+  "fetched_at": "2025-05-18T00:30:41.304204",
   "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
   "channel_title": "SpaceX",
   "count": 10,
@@ -19,14 +19,6 @@
       "description": "The first Starship flight test of 2025 flew with ambitious goals: seeking to repeat our previous success of launching and catching ...",
       "published_at": "2025-02-25T00:31:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Pn6e1O5bEyA/hqdefault.jpg"
-    },
-    {
-      "title": "Starship | Sixth Flight Test",
-      "video_id": "CMGiNKcVSek",
-      "channel_title": "SpaceX",
-      "description": "The sixth flight test of Starship launched from Starbase on November 19, 2024, seeking to expand the envelope on ship and ...",
-      "published_at": "2025-01-03T16:32:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CMGiNKcVSek/hqdefault.jpg"
     },
     {
       "title": "Making Life Multi-Planetary",
@@ -77,12 +69,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zgN373ZDtJg/hqdefault.jpg"
     },
     {
-      "title": "Starship | Fourth Flight Test",
-      "video_id": "j2BdNDTlWbo",
+      "title": "The Extravehicular Activity (EVA) Suit",
+      "video_id": "fdELVCg2Ank",
       "channel_title": "SpaceX",
-      "description": "Starship's fourth flight test launched with ambitious goals, attempting to go farther than any previous test before and begin ...",
-      "published_at": "2024-07-04T16:29:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j2BdNDTlWbo/hqdefault.jpg"
+      "description": "At ~700 km above Earth, the EVA suit will support the Polaris Dawn crew in the vacuum of space during the first-ever commercial ...",
+      "published_at": "2024-05-05T04:16:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fdELVCg2Ank/hqdefault.jpg"
+    },
+    {
+      "title": "To Make Life Multiplanetary",
+      "video_id": "v9lAGmWhcZM",
+      "channel_title": "SpaceX",
+      "description": "The goal of SpaceX is to build the technologies necessary to make life multiplanetary. This is the first time in the 4-billion-year ...",
+      "published_at": "2024-04-06T17:58:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v9lAGmWhcZM/hqdefault.jpg"
     }
   ]
 }

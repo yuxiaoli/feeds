@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-05-11T00:29:05.835841",
+  "fetched_at": "2025-05-18T00:29:54.784693",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Magnifier on Mac | Apple",
+      "video_id": "R3rBlZGEssw",
+      "channel_title": "Apple",
+      "description": "Magnifier on Mac makes the physical world more accessible for anyone with low vision. If you're in a setting like a classroom, ...",
+      "published_at": "2025-05-15T16:02:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R3rBlZGEssw/hqdefault.jpg"
+    },
+    {
+      "title": "Mac | Pointed | Apple",
+      "video_id": "dl-po6sw55E",
+      "channel_title": "Apple",
+      "description": "Summarize long notes into key points with Apple Intelligence Writing Tools. Mac to school. Learn more: ...",
+      "published_at": "2025-05-12T16:30:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dl-po6sw55E/hqdefault.jpg"
+    },
+    {
+      "title": "Mac | Mirrored | Apple",
+      "video_id": "pmyBHUIrQic",
+      "channel_title": "Apple",
+      "description": "Use your iPhone from your Mac with iPhone Mirroring. Mac to school. Learn more: ...",
+      "published_at": "2025-05-12T16:30:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pmyBHUIrQic/hqdefault.jpg"
+    },
+    {
+      "title": "Mac | Dropped In | Apple",
+      "video_id": "D-UGw9c-H64",
+      "channel_title": "Apple",
+      "description": "Transfer files seamlessly between iPhone and Mac with AirDrop. Mac to school. Learn more: ...",
+      "published_at": "2025-05-12T16:30:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D-UGw9c-H64/hqdefault.jpg"
+    },
     {
       "title": "Shot on iPhone 16 Pro | Behind the Last Scene | Apple",
       "video_id": "DioEA6YBCrw",
@@ -51,38 +83,6 @@
       "description": "With Apple Intelligence, you can now remove distracting objects from your photos with the Clean Up tool. Learn more about ...",
       "published_at": "2025-04-21T16:00:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iL88A5F9V3k/hqdefault.jpg"
-    },
-    {
-      "title": "Want to see a magic trick? Copy on iPhone, paste on Mac. #Shorts",
-      "video_id": "90HxEee8s1w",
-      "channel_title": "Apple",
-      "description": "When you use Mac and iPhone together, you can do incredible things. Audio Descriptions: ...",
-      "published_at": "2025-04-16T16:11:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/90HxEee8s1w/hqdefault.jpg"
-    },
-    {
-      "title": "Low Glare | Mac does that | Apple",
-      "video_id": "O1fB2RgU4fE",
-      "channel_title": "Apple",
-      "description": "Bright days? Bring it on. The nano-texture display option for MacBook Pro scatters light to minimize glare and reflections in bright ...",
-      "published_at": "2025-04-16T16:09:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O1fB2RgU4fE/hqdefault.jpg"
-    },
-    {
-      "title": "Up to 24 hours | Mac does that | Apple",
-      "video_id": "Fwu3yFuHYeo",
-      "channel_title": "Apple",
-      "description": "Lost charger? That's a tomorrow problem when you have up to 24 hours of battery life. Learn more at ...",
-      "published_at": "2025-04-16T16:11:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Fwu3yFuHYeo/hqdefault.jpg"
-    },
-    {
-      "title": "Behind the Mac: Editing Severance | Apple",
-      "video_id": "TXNQ01Sy6Xw",
-      "channel_title": "Apple",
-      "description": "Warning: This film contains spoilers of Season 2 of the Apple Original show Severance. Director Ben Stiller and lead editor ...",
-      "published_at": "2025-03-26T16:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TXNQ01Sy6Xw/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-11T00:29:43.684881",
+  "fetched_at": "2025-05-18T00:30:33.156858",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "SpaceX HLS Moon Mission",
+      "video_id": "7RQ0dO_4YtQ",
+      "channel_title": "Hazegrayart",
+      "description": "Gateway is a critical part of NASA's deep space exploration plans, along with the Space Launch System (SLS) rocket, Orion ...",
+      "published_at": "2025-05-16T14:23:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7RQ0dO_4YtQ/hqdefault.jpg"
+    },
     {
       "title": "ROOST Reentry Landing",
       "video_id": "PZg_dx8f4kM",
@@ -75,14 +83,6 @@
       "description": "Philip Bono's study of a reusable Single Stage to Orbit (SSTO) The Douglas Aircraft Reusable One-Stage Orbital Space Truck ...",
       "published_at": "2025-04-20T11:00:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FvnvH_q8s38/hqdefault.jpg"
-    },
-    {
-      "title": "Britain&#39;s Supersonic Transport",
-      "video_id": "wm8QUxKHwIM",
-      "channel_title": "Hazegrayart",
-      "description": "The Vickers Swallow was a Mach 2.5 supersonic aircraft project headed by Barnes Wallis, working at the British aircraft company ...",
-      "published_at": "2025-04-18T10:30:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wm8QUxKHwIM/hqdefault.jpg"
     }
   ]
 }
