@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-18T00:30:26.967085",
+  "fetched_at": "2025-05-25T00:30:56.165053",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "New short course: Reinforcement Fine-Tuning with GRPO",
+      "video_id": "sgy7jSbPUWY",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/43p1WIa DeepSeek has put reinforcement learning at the top of the minds of developers, machine ...",
+      "published_at": "2025-05-21T14:02:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sgy7jSbPUWY/hqdefault.jpg"
+    },
     {
       "title": "New course on MCP (Model Context Protocol) with Anthropic!",
       "video_id": "IkBslShH5to",
@@ -75,14 +83,6 @@
       "description": "A great demo is just the starting point—getting AI agents to perform reliably in production is the real challenge. In his AI Dev 25 ...",
       "published_at": "2025-03-27T19:00:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GzxdGpFhn04/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 | Kate Blair &amp; Ismael Faro: The future of agent interoperability",
-      "video_id": "KBUDhgxLND8",
-      "channel_title": "DeepLearningAI",
-      "description": "AI agents are being developed at an unprecedented pace—but today's landscape is fragmented, with incompatible frameworks ...",
-      "published_at": "2025-03-27T18:39:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KBUDhgxLND8/hqdefault.jpg"
     }
   ]
 }

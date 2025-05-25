@@ -1,16 +1,80 @@
 {
-  "fetched_at": "2025-05-18T00:29:42.208055",
+  "fetched_at": "2025-05-25T00:30:10.334832",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Neo4j expanded reach 6X through the Microsoft marketplace",
-      "video_id": "tParUaDdN0I",
+      "title": "Carvana’s Michael Graf shares his perspective on Azure Cosmos DB",
+      "video_id": "eyFBmzOQeUk",
       "channel_title": "Microsoft Azure",
-      "description": "Neo4j's graph database transforms data insights by revealing hidden patterns through relationships. Devs need databases like ...",
-      "published_at": "2025-05-16T14:01:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tParUaDdN0I/hqdefault.jpg"
+      "description": "Michael Graf, Associate Director of Engineering at Carvana, works in customer care. The team developed Sebastian, an AI agent ...",
+      "published_at": "2025-05-22T18:10:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eyFBmzOQeUk/hqdefault.jpg"
+    },
+    {
+      "title": "Manus AI powered by Azure AI Foundry",
+      "video_id": "YHHd01ToVmc",
+      "channel_title": "Microsoft Azure",
+      "description": "Hear Tao Cheung, co-founder of Manus AI (Singapore), talk about the how Azure AI Foundry is helping Manus AI shape the future ...",
+      "published_at": "2025-05-20T16:10:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YHHd01ToVmc/hqdefault.jpg"
+    },
+    {
+      "title": "Demo: Azure AI Foundry SDK",
+      "video_id": "mOs3-4S1_Ys",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover the latest capabilities offered in the unified Azure AI Foundry SDK. Design, customize, and manage AI applications and ...",
+      "published_at": "2025-05-19T16:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mOs3-4S1_Ys/hqdefault.jpg"
+    },
+    {
+      "title": "Carvana builds efficient, seamless customer experience with agent on Azure",
+      "video_id": "obcYLjzSX6E",
+      "channel_title": "Microsoft Azure",
+      "description": "Carvana built an AI-powered conversation analysis engine to enhance visibility and continuously improve every customer ...",
+      "published_at": "2025-05-19T16:01:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/obcYLjzSX6E/hqdefault.jpg"
+    },
+    {
+      "title": "AI templates in Azure AI Foundry",
+      "video_id": "xbRrAmy0ChA",
+      "channel_title": "Microsoft Azure",
+      "description": "Azure AI Foundry offers AI templates designed for the most common, high-value use cases and technical patterns – as designated ...",
+      "published_at": "2025-05-19T16:01:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xbRrAmy0ChA/hqdefault.jpg"
+    },
+    {
+      "title": "How our customers are using and customizing Azure AI Foundry Models",
+      "video_id": "4Xa42MCYhW8",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover how Draftwise, healow, Bayer, and Saifr are unlocking the power of Azure AI Foundry models to solve unique challenges ...",
+      "published_at": "2025-05-19T16:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4Xa42MCYhW8/hqdefault.jpg"
+    },
+    {
+      "title": "Kubiya.ai Transforms DevOps with Azure AI Foundry and Agentic AI",
+      "video_id": "BbEHXJt_Q-A",
+      "channel_title": "Microsoft Azure",
+      "description": "Kubiya. ai transforms DevOps through Microsoft Azure AI Foundry and Agentic AI. Kubiya equips AI engineering teams with ...",
+      "published_at": "2025-05-19T15:50:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BbEHXJt_Q-A/hqdefault.jpg"
+    },
+    {
+      "title": "Experimental Showcase- Agent memory implemented using Structured RAG",
+      "video_id": "CWgrAEK123U",
+      "channel_title": "Microsoft Azure",
+      "description": "The user can have conversations with the agent about events and entities that were extracted months ago. Entities are pulled from ...",
+      "published_at": "2025-05-19T15:32:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CWgrAEK123U/hqdefault.jpg"
+    },
+    {
+      "title": "Expand Azure AI Foundry Agent Service with New Knowledge Tools",
+      "video_id": "eJ_eS-V_Bvk",
+      "channel_title": "Microsoft Azure",
+      "description": "Join us as we dive into the capabilities of Azure AI Foundry Agent Service, showcasing its new integrations with SharePoint and ...",
+      "published_at": "2025-05-19T14:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eJ_eS-V_Bvk/hqdefault.jpg"
     },
     {
       "title": "Can AI make the world of art more accessible? | Art Basel",
@@ -19,70 +83,6 @@
       "description": "From cave painters to digital creators, artists continually discover new ways to express themselves and connect. That connection ...",
       "published_at": "2025-05-13T19:00:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NFCeG-pSuho/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft&#39;s path to Quantum computing at scale",
-      "video_id": "N-djietgxfM",
-      "channel_title": "Microsoft Azure",
-      "description": "[Originally Presented: March 5, 2025] Join Chetan Nayak, Technical Fellow at Microsoft, to learn more about the groundbreaking ...",
-      "published_at": "2025-05-09T13:00:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N-djietgxfM/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Saas Stories | Learn from Software Experts | Episode 14, Dalikoo",
-      "video_id": "JtIL21FANWM",
-      "channel_title": "Microsoft Azure",
-      "description": "In this interview series, we interview Microsoft partners at various stages of their software as a service (SaaS) journey and learn ...",
-      "published_at": "2025-04-14T13:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JtIL21FANWM/hqdefault.jpg"
-    },
-    {
-      "title": "Author Azure Resource Graph queries with Microsoft Copilot in Azure",
-      "video_id": "WYRFaWBWTRY",
-      "channel_title": "Microsoft Azure",
-      "description": "Learn how Microsoft Copilot in Azure can help you gain better insights for cloud resource management by generating Azure ...",
-      "published_at": "2025-04-08T23:09:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WYRFaWBWTRY/hqdefault.jpg"
-    },
-    {
-      "title": "The transformative power of neurodiversity and AI | EY, Neurodiversity Center of Excellence",
-      "video_id": "-kF7rNLlv5k",
-      "channel_title": "Microsoft Azure",
-      "description": "Great minds think alike—or do they? In this episode, Susan speaks with Hiren Shukla, Global Neurodiversity and Inclusive Value ...",
-      "published_at": "2025-04-08T14:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-kF7rNLlv5k/hqdefault.jpg"
-    },
-    {
-      "title": "Operation Smile makes faces happier around the world",
-      "video_id": "qq5XJsLyZXE",
-      "channel_title": "Microsoft Azure",
-      "description": "To serve its global patients, Operation Smile needed better support for translation and localized data input, faster ways to identify ...",
-      "published_at": "2025-04-02T22:45:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qq5XJsLyZXE/hqdefault.jpg"
-    },
-    {
-      "title": "MWC 2025 Microsoft Fabric",
-      "video_id": "VKQIXkTIk60",
-      "channel_title": "Microsoft Azure",
-      "description": "Explore how telcos can scale AI with a unified data estate, unlocking powerful insights and driving innovation. Explore the ...",
-      "published_at": "2025-03-27T01:03:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VKQIXkTIk60/hqdefault.jpg"
-    },
-    {
-      "title": "AI and analytics on and off the court | NBA",
-      "video_id": "7x-smg-qr2c",
-      "channel_title": "Microsoft Azure",
-      "description": "Basketball is life. And like life, it's fast, fluid, and hard to measure. It's about movement, split-second decisions, team dynamics, fan ...",
-      "published_at": "2025-03-25T14:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7x-smg-qr2c/hqdefault.jpg"
-    },
-    {
-      "title": "NVIDIA NIM on Azure AI Foundry",
-      "video_id": "JAj5f-s4-x4",
-      "channel_title": "Microsoft Azure",
-      "description": "Watch the audio description version: https://youtu.be/_sAU4zSgKIY Deploy NVIDIA NIM microservices and optimize your AI ...",
-      "published_at": "2025-03-18T20:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JAj5f-s4-x4/hqdefault.jpg"
     }
   ]
 }

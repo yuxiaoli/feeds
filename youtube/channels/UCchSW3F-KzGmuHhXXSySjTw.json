@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-18T00:30:27.744944",
+  "fetched_at": "2025-05-25T00:30:56.959729",
   "channel_id": "UCchSW3F-KzGmuHhXXSySjTw",
   "channel_title": "Christian Sommer",
   "count": 10,
   "videos": [
+    {
+      "title": "Camí de Ronda - The coastal hiking trail on the Costa Brava -  Caminos de Ronda - Camino de Ronda",
+      "video_id": "W5IWfMB2HVg",
+      "channel_title": "HikingFex",
+      "description": "Hiking the Camí de Ronda - Camino de Ronda - Caminos de Ronda on the Costa Brava Experience the legendary Cami de ...",
+      "published_at": "2025-05-19T14:05:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W5IWfMB2HVg/hqdefault.jpg"
+    },
     {
       "title": "Fischerweg Portugal - Rota Vicentina - Fischermans Trail",
       "video_id": "aVE62WQYd_k",
@@ -75,14 +83,6 @@
       "description": "A massive volcano erupting close to a global travel hub, Iceland's Keflavik Airport, led to close monitoring by officials and sparked ...",
       "published_at": "2022-08-05T11:57:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/d8hyyrfzHrE/hqdefault.jpg"
-    },
-    {
-      "title": "Hiking 135 km the Glocknerrunde in Austria",
-      "video_id": "YY5lWIr7e_g",
-      "channel_title": "HikingFex",
-      "description": "Here you can find all information about my tour: https://www.hikingfex.com/en/post/glocknerrunde-in-austria Seven days of hiking ...",
-      "published_at": "2022-07-27T06:36:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YY5lWIr7e_g/hqdefault.jpg"
     }
   ]
 }

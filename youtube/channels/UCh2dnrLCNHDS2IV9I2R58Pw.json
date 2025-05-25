@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-05-18T00:30:33.156858",
+  "fetched_at": "2025-05-25T00:31:02.168652",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Kistler Rocket Staging #space #rocket #nasa",
+      "video_id": "3Jq3RTQCbVM",
+      "channel_title": "Hazegrayart",
+      "description": "An early design concept sometimes referred to as the Bedpost Rocket the Kistler K-1 was a two-stage, fully reusable launch ...",
+      "published_at": "2025-05-23T19:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3Jq3RTQCbVM/hqdefault.jpg"
+    },
+    {
+      "title": "Kistler Fully Reusable Rocket Concept",
+      "video_id": "ZB-NHHw6bps",
+      "channel_title": "Hazegrayart",
+      "description": "An early design concept sometimes referred to as the Bedpost Rocket the Kistler K-1 was a two-stage, fully reusable launch ...",
+      "published_at": "2025-05-18T17:33:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZB-NHHw6bps/hqdefault.jpg"
+    },
     {
       "title": "SpaceX HLS Moon Mission",
       "video_id": "7RQ0dO_4YtQ",
@@ -67,22 +83,6 @@
       "description": "rocket #spacex #starship At the 2010 AIAA Joint Propulsion conference, SpaceX presented potential designs for future heavy and ...",
       "published_at": "2025-04-25T11:15:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6AujLuaoz1Q/hqdefault.jpg"
-    },
-    {
-      "title": "Saturn 4x Satelite Deployment",
-      "video_id": "3LAGsjDOYkw",
-      "channel_title": "Hazegrayart",
-      "description": "Boeing 1968 study, four improved Saturn S-IC first stage stretched TO 498 inches with 6.64 million pounds propellant and 5 F-1 ...",
-      "published_at": "2025-04-22T11:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3LAGsjDOYkw/hqdefault.jpg"
-    },
-    {
-      "title": "Orbital Space Truck (ROOST)",
-      "video_id": "FvnvH_q8s38",
-      "channel_title": "Hazegrayart",
-      "description": "Philip Bono's study of a reusable Single Stage to Orbit (SSTO) The Douglas Aircraft Reusable One-Stage Orbital Space Truck ...",
-      "published_at": "2025-04-20T11:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FvnvH_q8s38/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-18T00:29:49.590412",
+  "fetched_at": "2025-05-25T00:30:18.486532",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "New in Spot &amp; Orbit 5.0 | Boston Dynamics",
+      "video_id": "vTgTAe53YdM",
+      "channel_title": "Boston Dynamics",
+      "description": "The latest release of Spot & Orbit allows users to unlocks insights from maintenance and beyond, helping you understand the full ...",
+      "published_at": "2025-05-20T13:54:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vTgTAe53YdM/hqdefault.jpg"
+    },
     {
       "title": "Arm you glad to see me, Atlas? | Boston Dynamics",
       "video_id": "dFObux6mfTc",
@@ -75,14 +83,6 @@
       "description": "Wishing you a holiday season full of light and laughter as we flip over into the new year!",
       "published_at": "2024-12-23T15:02:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/sFkUH5XFHKU/hqdefault.jpg"
-    },
-    {
-      "title": "Spot at Code &amp; Circuit | Boston Dynamics",
-      "video_id": "UVpkyJto-DQ",
-      "channel_title": "Boston Dynamics",
-      "description": "Code & Circuit, a non-profit organization based in Amesbury, MA, is a place where kids can use technology to create, collaborate, ...",
-      "published_at": "2024-11-26T15:08:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UVpkyJto-DQ/hqdefault.jpg"
     }
   ]
 }

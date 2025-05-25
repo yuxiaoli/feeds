@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-18T00:30:44.422927",
+  "fetched_at": "2025-05-25T00:31:13.623375",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Betelgeuse 🚨",
+      "video_id": "X1dGZeg9J-E",
+      "channel_title": "Star Walk",
+      "description": "NEWS : Betelgeuse — the red supergiant in Orion's shoulder — will explode in a supernova, and now recent simulations give ...",
+      "published_at": "2025-05-22T06:57:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X1dGZeg9J-E/hqdefault.jpg"
+    },
     {
       "title": "Ever wondered what stargazing would be like from Mars?",
       "video_id": "PjJi_75Ecz0",
@@ -75,14 +83,6 @@
       "description": "That creepy background sound isn't a sci-fi soundtrack — it's real data from NASA's Parker Solar Probe. What you're hearing is ...",
       "published_at": "2025-04-12T22:00:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/O7TGZ7GJMCg/hqdefault.jpg"
-    },
-    {
-      "title": "Which constellations are best seen in the April sky?",
-      "video_id": "D6TtbN7WmLA",
-      "channel_title": "Star Walk",
-      "description": "Here are 8 constellations to look for this month — some famous, some hidden gems: Leo – The proud lion stands tall with bright ...",
-      "published_at": "2025-04-11T13:16:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D6TtbN7WmLA/hqdefault.jpg"
     }
   ]
 }

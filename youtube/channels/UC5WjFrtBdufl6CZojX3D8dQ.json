@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-05-18T00:29:47.552781",
+  "fetched_at": "2025-05-25T00:30:15.730751",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Highrider to lowrider",
+      "video_id": "VLLLGijAYYE",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-05-23T17:05:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VLLLGijAYYE/hqdefault.jpg"
+    },
+    {
+      "title": "Seat dance on the new Model Y",
+      "video_id": "iWiYy04xnDk",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-05-22T23:01:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iWiYy04xnDk/hqdefault.jpg"
+    },
+    {
+      "title": "Things you’ll never pay for again",
+      "video_id": "ETSRdsgzy74",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-05-19T18:20:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ETSRdsgzy74/hqdefault.jpg"
+    },
     {
       "title": "Me in my room at 3am",
       "video_id": "Y_6H-7mIT4w",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2025-04-09T17:35:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8NdBCAv6jUw/hqdefault.jpg"
-    },
-    {
-      "title": "Start FSD from Park",
-      "video_id": "j7YqcdJZ0io",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-04-07T21:09:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j7YqcdJZ0io/hqdefault.jpg"
-    },
-    {
-      "title": "New Diamond Black Paint 💎",
-      "video_id": "v9AMAYoLEt8",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-04-07T16:54:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v9AMAYoLEt8/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla All-Hands | Q1 2025",
-      "video_id": "QGJysv_Qzkw",
-      "channel_title": "Tesla",
-      "description": "Company-wide all-hands keynote for Q1 2025.",
-      "published_at": "2025-03-21T03:49:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QGJysv_Qzkw/hqdefault.jpg"
     }
   ]
 }

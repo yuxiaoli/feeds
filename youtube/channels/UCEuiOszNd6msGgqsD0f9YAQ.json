@@ -1,24 +1,16 @@
 {
-  "fetched_at": "2025-05-18T00:29:57.370938",
+  "fetched_at": "2025-05-25T00:30:26.126741",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
-  "count": 2,
+  "count": 1,
   "videos": [
     {
-      "title": "Quantum Computing Will Change Everything – Here&#39;s Why",
-      "video_id": "qdv4DSlFOeo",
+      "title": "The Man Who Invented The Concept of Computers",
+      "video_id": "YlGPfO3dVZg",
       "channel_title": "Interesting Engineering",
-      "description": "The innovations in quantum computing are promising to herald a new era of mind bending advances in areas like climate change, ...",
-      "published_at": "2025-05-11T08:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qdv4DSlFOeo/hqdefault.jpg"
-    },
-    {
-      "title": "The Castle That Killed Las Vegas",
-      "video_id": "bHBdMte5trI",
-      "channel_title": "Interesting Engineering",
-      "description": "From 1989 to 1999 Las Vegas went through a massive change. The city had gone from being one of glits and glamour, neon ...",
-      "published_at": "2025-02-16T10:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bHBdMte5trI/hqdefault.jpg"
+      "description": "Computers have become so integral to human life in such a short amount of time. Who even made up the idea of a machine that ...",
+      "published_at": "2025-05-23T15:07:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YlGPfO3dVZg/hqdefault.jpg"
     }
   ]
 }

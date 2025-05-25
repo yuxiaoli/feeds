@@ -1,48 +1,32 @@
 {
-  "fetched_at": "2025-05-18T00:29:53.344257",
+  "fetched_at": "2025-05-25T00:30:22.319732",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 5,
+  "count": 3,
   "videos": [
     {
-      "title": "Pixomondo&#39;s PXO AKIRA Part 2",
-      "video_id": "NWFGcO82XDc",
+      "title": "Creating In Fortnite I Verse UI",
+      "video_id": "EppPlURDWQE",
       "channel_title": "Unreal Engine",
-      "description": "PXO AKIRA assists in making sure that lighting and reflections remain consistent with realism during virtual production by utilizing ...",
-      "published_at": "2025-05-17T18:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NWFGcO82XDc/hqdefault.jpg"
+      "description": "The next Creating In Fortnite livestream is all about Verse UI! May 27 @ 2 PM ET Verse UI ❔ Q&A with the dev team.",
+      "published_at": "2025-05-24T00:15:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EppPlURDWQE/hqdefault_live.jpg"
     },
     {
-      "title": "Pixomondo&#39;s PXO AKIRA Part 1",
-      "video_id": "Q8YvRzwkIow",
+      "title": "Introducing Career Connections",
+      "video_id": "ZA6Vym2WG1g",
       "channel_title": "Unreal Engine",
-      "description": "PXO AKIRA is helping make shooting vehicles for productions less complicated by removing the need to film live in the streets and ...",
-      "published_at": "2025-05-16T18:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q8YvRzwkIow/hqdefault.jpg"
+      "description": "Your future in real-time starts now Designed for students and new grads, Career Connections brings together industry ...",
+      "published_at": "2025-05-23T14:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZA6Vym2WG1g/hqdefault.jpg"
     },
     {
-      "title": "Beyond Average: How Tech Artists Can Make Games More Accessible | Inside Unreal",
-      "video_id": "BYvZO1V6qxs",
+      "title": "Maximize and Steady Performance in UE Mobile Development | Inside Unreal",
+      "video_id": "Ax4cXRAtZTw",
       "channel_title": "Unreal Engine",
-      "description": "As part of Accessibility Week, we're excited to welcome Camille Kay, Technical Artist on the Developer Relations team at Epic ...",
-      "published_at": "2025-05-15T19:39:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BYvZO1V6qxs/hqdefault.jpg"
-    },
-    {
-      "title": "Unreal Engine Sizzle: Beyond Games 2025",
-      "video_id": "beBxaauDxUc",
-      "channel_title": "Unreal Engine",
-      "description": "Watch the Unreal Engine Sizzle: Beyond Games and discover some of the projects talented creators are using Unreal Engine for ...",
-      "published_at": "2025-05-14T19:14:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/beBxaauDxUc/hqdefault.jpg"
-    },
-    {
-      "title": "State of Unreal 2025 Official 4K Livestream I Unreal Fest Orlando",
-      "video_id": "AjikvaR0i34",
-      "channel_title": "Unreal Engine",
-      "description": "Buckle up—it's nearly time for the State of Unreal! We'll be streaming live from Unreal Fest Orlando at 9:30 AM EDT on June 3.",
-      "published_at": "2025-04-08T16:09:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AjikvaR0i34/hqdefault_live.jpg"
+      "description": "Senior Instructor Sam Deiter will show you how to maximize and steady performance and share useful case studies of Mobile use ...",
+      "published_at": "2025-05-22T19:40:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ax4cXRAtZTw/hqdefault.jpg"
     }
   ]
 }

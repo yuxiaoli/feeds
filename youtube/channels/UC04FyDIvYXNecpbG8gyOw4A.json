@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-18T00:29:40.615043",
+  "fetched_at": "2025-05-25T00:30:08.837391",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Dog’s Day Out",
+      "video_id": "6M95wMZRSj4",
+      "channel_title": "Meta",
+      "description": "it's Larry's world, we're just living in it.",
+      "published_at": "2025-05-19T17:37:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6M95wMZRSj4/hqdefault.jpg"
+    },
     {
       "title": "now we have more time to make a better crown",
       "video_id": "G-I2MeXz9fs",
@@ -75,14 +83,6 @@
       "description": "Meanwhile, back at the farm... #FarmingSimulator VR is now available for @MetaQuest 2, 3, and 3S.",
       "published_at": "2025-03-20T16:01:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/o9V1v-G27CE/hqdefault.jpg"
-    },
-    {
-      "title": "Stunning seal encounter via @jays_visions on IG",
-      "video_id": "wzS8DyRZlHk",
-      "channel_title": "Meta",
-      "description": "jays_visions is an underwater videographer who has leveraged his stunning video encounters with sea-life to educate others ...",
-      "published_at": "2025-03-14T17:05:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wzS8DyRZlHk/hqdefault.jpg"
     }
   ]
 }

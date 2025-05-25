@@ -1,24 +1,16 @@
 {
-  "fetched_at": "2025-05-18T00:30:07.314323",
+  "fetched_at": "2025-05-25T00:30:36.269578",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
   "count": 3,
   "videos": [
     {
-      "title": "Will the Sun Ever Burn Out? We Asked a NASA Expert",
-      "video_id": "z_qpt3eYn0c",
+      "title": "How Big is Space? We Asked a NASA Expert",
+      "video_id": "r0bbq-soSfI",
       "channel_title": "NASA",
-      "description": "Will the Sun ever burn out? Not quite, but it will change dramatically. Like all stars, it's going through a life cycle powered by ...",
-      "published_at": "2025-05-14T14:01:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z_qpt3eYn0c/hqdefault.jpg"
-    },
-    {
-      "title": "NASA YouTube (Official Channel Trailer)",
-      "video_id": "_MwmAwTQurs",
-      "channel_title": "NASA",
-      "description": "Subscribe to NASA's flagship YouTube channel to join astronauts on a spacewalk, watch rocket launches, see innovative ...",
-      "published_at": "2025-05-13T15:29:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_MwmAwTQurs/hqdefault.jpg"
+      "description": "How big is space? It's one of the most mind-bending questions we can ask because the deeper we look, the more the universe ...",
+      "published_at": "2025-05-21T14:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r0bbq-soSfI/hqdefault.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
@@ -27,6 +19,14 @@
       "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
       "published_at": "2025-05-12T13:39:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DIgkvm2nmHc/hqdefault_live.jpg"
+    },
+    {
+      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
+      "video_id": "H999s0P1Er0",
+      "channel_title": "NASA",
+      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
+      "published_at": "2025-02-27T17:28:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H999s0P1Er0/hqdefault_live.jpg"
     }
   ]
 }

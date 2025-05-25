@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-18T00:30:14.475317",
+  "fetched_at": "2025-05-25T00:30:43.957481",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Tired of Errors? Start Coding in Seconds! #shorts",
+      "video_id": "2GfhUs1g3kI",
+      "channel_title": "Programiz",
+      "description": "Struggling to get started with coding? Let's fix that! You've probably been there — you're ready to learn to code, open your laptop, ...",
+      "published_at": "2025-05-22T11:15:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2GfhUs1g3kI/hqdefault.jpg"
+    },
     {
       "title": "Stuck in Tutorial Hell? (Do this instead) #shorts",
       "video_id": "rczNFVfIcbs",
@@ -75,14 +83,6 @@
       "description": "Get expert coding help with sensAI - your personal coding mentor. With sensAI, you can analyze your code and identify any errors, ...",
       "published_at": "2023-04-20T14:16:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AxNyNHYSN60/hqdefault.jpg"
-    },
-    {
-      "title": "Big Announcement - Something Sensational is Coming!",
-      "video_id": "gdsyB7sMh78",
-      "channel_title": "Programiz",
-      "description": "Big Announcement - Something Sensational is Coming! Learning to code made easier with ___ Big Reveal on April 20. Join the ...",
-      "published_at": "2023-04-18T08:05:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gdsyB7sMh78/hqdefault.jpg"
     }
   ]
 }

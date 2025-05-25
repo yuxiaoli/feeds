@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-18T00:30:20.699946",
+  "fetched_at": "2025-05-25T00:30:50.134277",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Sam &amp; Jony introduce io",
+      "video_id": "W09bIpc_3ms",
+      "channel_title": "OpenAI",
+      "description": "Building a family of AI products for everyone.",
+      "published_at": "2025-05-21T17:02:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W09bIpc_3ms/hqdefault.jpg"
+    },
     {
       "title": "Codex CLI with codex-mini",
       "video_id": "O-ZfXbfAMKU",
@@ -75,14 +83,6 @@
       "description": "Explore how GPT‑4o makes writing and collaboration more natural. This demo shows how ChatGPT drafts, refines, and adjusts ...",
       "published_at": "2025-05-08T16:02:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ordedK86DxQ/hqdefault.jpg"
-    },
-    {
-      "title": "Connect internal knowledge from Google Drive",
-      "video_id": "8bAtx3WuRZw",
-      "channel_title": "OpenAI",
-      "description": "Connect ChatGPT to Google Drive and tap into internal knowledge. In this demo, we show how teams can surface answers, ...",
-      "published_at": "2025-05-08T15:59:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8bAtx3WuRZw/hqdefault.jpg"
     }
   ]
 }

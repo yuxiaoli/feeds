@@ -1,56 +1,56 @@
 {
-  "fetched_at": "2025-05-18T00:30:05.968718",
+  "fetched_at": "2025-05-25T00:30:34.716649",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "AI agents need new benchmarks",
-      "video_id": "DZp5gX0GW5o",
+      "title": "Is search the supreme AI agent feature?",
+      "video_id": "9ZCAG8zU7nk",
       "channel_title": "IBM Technology",
-      "description": "Agentic AI is here, but we're still using chatbot-era benchmarks. Here's why hybrid, domain-specific evaluations are the future of AI ...",
-      "published_at": "2025-05-17T12:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DZp5gX0GW5o/hqdefault.jpg"
+      "description": "Everyone's building agents, and Google is betting on agentic search. But is search the killer application of AI agents?",
+      "published_at": "2025-05-24T11:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9ZCAG8zU7nk/hqdefault.jpg"
     },
     {
-      "title": "Mistral Medium 3, OpenAI HealthBench and AI chips to Saudi Arabia",
-      "video_id": "kjRHpuXGmH0",
+      "title": "Claude 4: Everything you need to know",
+      "video_id": "Blq_pf6yd6U",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/Bdnat7 Can Mistral make Europe a global AI ...",
-      "published_at": "2025-05-16T10:10:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kjRHpuXGmH0/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/Bdnp9f How long until Anthropic drops Claude 5.0?",
+      "published_at": "2025-05-23T20:41:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Blq_pf6yd6U/hqdefault.jpg"
     },
     {
-      "title": "Risks of Agentic AI: What You Need to Know About Autonomous AI",
-      "video_id": "v07Y4fmSi6Y",
+      "title": "Google I/O, NLWeb, llm-d and is Stack Overflow dead?",
+      "video_id": "rNk3OuUj1UA",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Architect on Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-05-15T14:48:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v07Y4fmSi6Y/hqdefault.jpg"
+      "description": "Subscribe for AI news → https://ibm.biz/Bdnatk Should you pay for Google's AI Ultra subscription plan? In episode 56 of Mixture of ...",
+      "published_at": "2025-05-23T10:31:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rNk3OuUj1UA/hqdefault.jpg"
     },
     {
-      "title": "How to Choose Large Language Models: A Developer’s Guide to LLMs",
-      "video_id": "pYax2rupKEY",
+      "title": "Risky Business: Strengthening Cybersecurity with Risk Analysis",
+      "video_id": "_c2L4z-v06g",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Certified Administrator - Security Guardium? Register now and use code IBMTechYT20 for 20% off of ...",
+      "published_at": "2025-05-22T11:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_c2L4z-v06g/hqdefault.jpg"
+    },
+    {
+      "title": "AI Agents in Action: How Research Agents Solve Complex Problems",
+      "video_id": "j_Q1cL6Cog4",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-05-21T11:01:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j_Q1cL6Cog4/hqdefault.jpg"
+    },
+    {
+      "title": "What Are Vision Language Models? How AI Sees &amp; Understands Images",
+      "video_id": "lOD_EE96jhM",
       "channel_title": "IBM Technology",
       "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-05-14T13:07:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pYax2rupKEY/hqdefault.jpg"
-    },
-    {
-      "title": "LLMs and AI Agents: Transforming Unstructured Data",
-      "video_id": "_pEEJu-2KKM",
-      "channel_title": "IBM Technology",
-      "description": "Read more about Terzo here → https://ibm.biz/Bdnmpr Learn more about Intelligent Data Extraction here ...",
-      "published_at": "2025-05-13T11:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_pEEJu-2KKM/hqdefault.jpg"
-    },
-    {
-      "title": "How CAG Transforms LLMs",
-      "video_id": "NSE6zhV8KnI",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Large Language Models here → https://ibm.biz/Bdnmn8 Is CAG just prompting? Discover how Cache ...",
-      "published_at": "2025-05-12T18:12:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NSE6zhV8KnI/hqdefault.jpg"
+      "published_at": "2025-05-19T11:01:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lOD_EE96jhM/hqdefault.jpg"
     },
     {
       "title": "IBM Think 2025, OpenAI Windsurf acquisition, reasoning models and hallucinations",
