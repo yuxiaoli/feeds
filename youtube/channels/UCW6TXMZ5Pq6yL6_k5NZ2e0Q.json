@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2025-05-25T00:30:47.017495",
+  "fetched_at": "2025-06-01T00:34:27.695100",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
-    {
-      "title": "Normal Distributions Explained – With Real-World Examples",
-      "video_id": "xlxaa9YhT6A",
-      "channel_title": "Socratica",
-      "description": "Connect with us on PATREON https://www.patreon.com/socratica Why do so many things in the world follow ...",
-      "published_at": "2025-05-21T10:01:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xlxaa9YhT6A/hqdefault.jpg"
-    },
     {
       "title": "What are Hedge Funds? 📈 Intro for Aspiring Quants",
       "video_id": "eLU77gPIK4E",
@@ -77,12 +69,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-cDiK5qmaAY/hqdefault.jpg"
     },
     {
-      "title": "Why Your CREDIT SCORE Matters 📈 Personal Finance",
+      "title": "How Your Credit Score Affects Your Money 💰 Personal Finance",
       "video_id": "eWhcUiMzUGI",
       "channel_title": "Socratica",
       "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
       "published_at": "2024-08-27T11:00:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eWhcUiMzUGI/hqdefault.jpg"
+    },
+    {
+      "title": "CREDIT Cards 💳 Pros &amp; Cons - Personal Finance",
+      "video_id": "eLWIRLRpqRk",
+      "channel_title": "Socratica",
+      "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
+      "published_at": "2024-08-21T07:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eLWIRLRpqRk/hqdefault.jpg"
     }
   ]
 }

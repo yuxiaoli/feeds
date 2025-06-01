@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-25T00:30:54.635465",
+  "fetched_at": "2025-06-01T00:34:35.225873",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "I Challenged a 4 Time World Champion - Can I Beat Him?",
+      "video_id": "29FExCWZzPM",
+      "channel_title": "Andry Strong",
+      "description": "I challenged Eryc Ortiz, a 4-time world champion. I decided to test who's stronger in the planche. We prepared four variations: I ...",
+      "published_at": "2025-05-25T14:26:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/29FExCWZzPM/hqdefault.jpg"
+    },
     {
       "title": "Did she win the genetic lottery?",
       "video_id": "Ck29CIsT25s",
@@ -21,14 +29,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0EKPTbdH-Iw/hqdefault.jpg"
     },
     {
-      "title": "Which level are you at?",
-      "video_id": "zc7qMEH-LD4",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-05-19T12:50:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zc7qMEH-LD4/hqdefault.jpg"
-    },
-    {
       "title": "Who Has Stronger Biceps? Andry Strong VS Dejan Stipke",
       "video_id": "USdXftuiMrM",
       "channel_title": "Andry Strong",
@@ -43,14 +43,6 @@
       "description": "Dejan Stipke is one of the most recognized athletes in the Street Workout world. He began his sports journey in 1999 and spent ...",
       "published_at": "2025-05-18T10:01:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EJcE3kv9JoM/hqdefault.jpg"
-    },
-    {
-      "title": "1 Major reason your Planche Progress is Stuck",
-      "video_id": "41DIM_lnsZo",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-05-17T16:10:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/41DIM_lnsZo/hqdefault.jpg"
     },
     {
       "title": "Strong Dad - New Generation",
@@ -83,6 +75,14 @@
       "description": "",
       "published_at": "2025-05-04T13:48:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fQo0th0PGmE/hqdefault.jpg"
+    },
+    {
+      "title": "10 Minutes Workout in Hotel Room",
+      "video_id": "qWy1AZMO8is",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2025-05-01T12:24:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qWy1AZMO8is/hqdefault.jpg"
     }
   ]
 }

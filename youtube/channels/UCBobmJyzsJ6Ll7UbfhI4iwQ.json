@@ -1,32 +1,48 @@
 {
-  "fetched_at": "2025-05-25T00:30:22.319732",
+  "fetched_at": "2025-06-01T00:34:03.565216",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 3,
+  "count": 5,
   "videos": [
     {
-      "title": "Creating In Fortnite I Verse UI",
-      "video_id": "EppPlURDWQE",
+      "title": "3 Days Until State of Unreal!",
+      "video_id": "5TkD_K6ELbc",
       "channel_title": "Unreal Engine",
-      "description": "The next Creating In Fortnite livestream is all about Verse UI! May 27 @ 2 PM ET Verse UI ❔ Q&A with the dev team.",
-      "published_at": "2025-05-24T00:15:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EppPlURDWQE/hqdefault_live.jpg"
+      "description": "The future of Unreal is on the horizon, let's head towards it together   Join us for the State of Unreal on June 3, where we'll be ...",
+      "published_at": "2025-05-31T16:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5TkD_K6ELbc/hqdefault.jpg"
     },
     {
-      "title": "Introducing Career Connections",
-      "video_id": "ZA6Vym2WG1g",
+      "title": "Let’s Chat Fortnite Data API with Birdo",
+      "video_id": "-YME2CkHkfc",
       "channel_title": "Unreal Engine",
-      "description": "Your future in real-time starts now Designed for students and new grads, Career Connections brings together industry ...",
-      "published_at": "2025-05-23T14:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZA6Vym2WG1g/hqdefault.jpg"
+      "description": "The new Fortnite Data API just dropped, so we're joining Birdo to chat all about it. Don't forget to get your questions in about the ...",
+      "published_at": "2025-05-30T20:32:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-YME2CkHkfc/hqdefault.jpg"
     },
     {
-      "title": "Maximize and Steady Performance in UE Mobile Development | Inside Unreal",
-      "video_id": "Ax4cXRAtZTw",
+      "title": "Automotive Sizzle 2025 | Unreal Engine and Twinmotion",
+      "video_id": "Ev7LPYVzJdo",
       "channel_title": "Unreal Engine",
-      "description": "Senior Instructor Sam Deiter will show you how to maximize and steady performance and share useful case studies of Mobile use ...",
-      "published_at": "2025-05-22T19:40:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ax4cXRAtZTw/hqdefault.jpg"
+      "description": "Watch this video for a thrilling ride through some of the spectacular automotive content that has been created in Unreal Engine ...",
+      "published_at": "2025-05-29T18:35:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ev7LPYVzJdo/hqdefault.jpg"
+    },
+    {
+      "title": "A voyage into Spice Frontier’s retro 2D look | Spotlight | Unreal Engine",
+      "video_id": "zH4Vc_4Yp0A",
+      "channel_title": "Unreal Engine",
+      "description": "Find out how Steamroller Animation achieved a 2D, 80s-cartoon aesthetic in Unreal Engine for animated show 'Spice ...",
+      "published_at": "2025-05-29T18:19:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zH4Vc_4Yp0A/hqdefault.jpg"
+    },
+    {
+      "title": "State of Unreal 2025 Official 4K Livestream I Unreal Fest Orlando",
+      "video_id": "AjikvaR0i34",
+      "channel_title": "Unreal Engine",
+      "description": "Buckle up—it's nearly time for the State of Unreal! We'll be streaming live from Unreal Fest Orlando at 9:30 AM EDT on June 3.",
+      "published_at": "2025-04-08T16:09:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AjikvaR0i34/hqdefault_live.jpg"
     }
   ]
 }

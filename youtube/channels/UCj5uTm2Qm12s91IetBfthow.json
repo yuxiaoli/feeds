@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-25T00:31:02.951476",
+  "fetched_at": "2025-06-01T00:34:43.625302",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "程序员量子计算入门指南",
+      "video_id": "IfVkUokH4gM",
+      "channel_title": "Find Interesting AI",
+      "description": "从双缝干涉到量子纠缠、薛猫再到量子计算机、量子算法最后聊聊量子计算与AI 相关资料： https://github.com/Qiskit/qiskit ...",
+      "published_at": "2025-05-25T03:50:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IfVkUokH4gM/hqdefault.jpg"
+    },
     {
       "title": "Github趋势榜5月总结",
       "video_id": "TGEe1VLNHXU",
@@ -75,14 +83,6 @@
       "description": "爆火出圈的manus究竟是不是炒作？对我们普通人影响如何？",
       "published_at": "2025-03-08T13:36:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NfW6OB5VAVE/hqdefault.jpg"
-    },
-    {
-      "title": "用AI给自己造玩具",
-      "video_id": "QrCdJClH8yY",
-      "channel_title": "Find Interesting AI",
-      "description": "使用AI，亲手给自己做一款哪吒手办.",
-      "published_at": "2025-02-23T08:14:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QrCdJClH8yY/hqdefault.jpg"
     }
   ]
 }

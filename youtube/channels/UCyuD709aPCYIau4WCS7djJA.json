@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-05-25T00:31:13.623375",
+  "fetched_at": "2025-06-01T00:34:54.358026",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Top Astronomy Events of June 2025 ✨",
+      "video_id": "60tZZOCG1FY",
+      "channel_title": "Star Walk",
+      "description": "",
+      "published_at": "2025-05-30T22:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/60tZZOCG1FY/hqdefault.jpg"
+    },
+    {
+      "title": "POV: you&#39;re a space lover ❤️🧑‍🚀",
+      "video_id": "j-xQHcUfMr8",
+      "channel_title": "Star Walk",
+      "description": "Shot-out to @whatif.show for the footages of flat and donut-shaped Earth, @igreenscreenthings for the meme templates, and ...",
+      "published_at": "2025-05-26T09:57:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j-xQHcUfMr8/hqdefault.jpg"
+    },
     {
       "title": "Betelgeuse 🚨",
       "video_id": "X1dGZeg9J-E",
@@ -67,22 +83,6 @@
       "description": "In this video, we've lined up all the planets of the Solar System by their temperatures — and the results might surprise you!",
       "published_at": "2025-04-17T08:12:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NzSfujGj2nQ/hqdefault.jpg"
-    },
-    {
-      "title": "🌍✨ 4-Planet Alignment – April 17, 2025! 🌄🔭",
-      "video_id": "tRHyIQbJM6w",
-      "channel_title": "Star Walk",
-      "description": "Look up in the early morning sky — Venus, Saturn, Mercury, and Neptune will align in Pisces! What you'll see: Venus, Saturn ...",
-      "published_at": "2025-04-14T08:50:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tRHyIQbJM6w/hqdefault.jpg"
-    },
-    {
-      "title": "🎧 Turn up the volume... if you dare. 😱🌞",
-      "video_id": "O7TGZ7GJMCg",
-      "channel_title": "Star Walk",
-      "description": "That creepy background sound isn't a sci-fi soundtrack — it's real data from NASA's Parker Solar Probe. What you're hearing is ...",
-      "published_at": "2025-04-12T22:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O7TGZ7GJMCg/hqdefault.jpg"
     }
   ]
 }

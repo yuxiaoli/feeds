@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-25T00:30:18.486532",
+  "fetched_at": "2025-06-01T00:33:59.716681",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Perception and Adaptability | Inside the Lab with Atlas",
+      "video_id": "oe1dke3Cf7I",
+      "channel_title": "Boston Dynamics",
+      "description": "For a humanoid robot to be successful and generalizable in a factory, warehouse, or even at home requires a comprehensive ...",
+      "published_at": "2025-05-28T13:01:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oe1dke3Cf7I/hqdefault.jpg"
+    },
     {
       "title": "New in Spot &amp; Orbit 5.0 | Boston Dynamics",
       "video_id": "vTgTAe53YdM",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2024-12-23T17:05:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/yHo6nKWkwgs/hqdefault.jpg"
-    },
-    {
-      "title": "Happy Holidays | 2024 | Boston Dynamics",
-      "video_id": "sFkUH5XFHKU",
-      "channel_title": "Boston Dynamics",
-      "description": "Wishing you a holiday season full of light and laughter as we flip over into the new year!",
-      "published_at": "2024-12-23T15:02:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sFkUH5XFHKU/hqdefault.jpg"
     }
   ]
 }

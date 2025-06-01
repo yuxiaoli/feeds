@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-25T00:30:14.180493",
+  "fetched_at": "2025-06-01T00:33:55.864663",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Imagineer Stories at Journey of Water, Inspired by Moana",
+      "video_id": "PjLH47DPbeI",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Join Charlie from Walt Disney Imagineering on a walkthrough of Journey of Water, Inspired by Moana in EPCOT at Walt Disney ...",
+      "published_at": "2025-05-30T17:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PjLH47DPbeI/hqdefault.jpg"
+    },
     {
       "title": "Science Experiment at Home with Walt Disney Imagineering Illusions &amp; Effects",
       "video_id": "cCW9c7oiJtc",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-03-26T12:31:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wRc-jShphtU/hqdefault.jpg"
-    },
-    {
-      "title": "Our Imagineers find inspiration in many places including classic attractions!",
-      "video_id": "_Wh6baMWIWk",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "",
-      "published_at": "2025-03-18T19:05:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_Wh6baMWIWk/hqdefault.jpg"
     }
   ]
 }

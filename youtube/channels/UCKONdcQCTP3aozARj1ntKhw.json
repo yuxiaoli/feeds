@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-25T00:30:33.185157",
+  "fetched_at": "2025-06-01T00:34:14.123777",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "We GAVE AWAY a $10K FALCON PC!!",
+      "video_id": "GwQACNz273E",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-05-29T19:14:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GwQACNz273E/hqdefault.jpg"
+    },
     {
       "title": "Launch Log 02 | Warp Updates",
       "video_id": "hqC8RSGhBRA",
@@ -75,14 +83,6 @@
       "description": "Join Zach Lloyd, Warp's CEO and founder, for a live coding session! Zach will take on a couple of tasks and show how he uses ...",
       "published_at": "2025-03-27T05:00:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AV9sz_PsXR4/hqdefault.jpg"
-    },
-    {
-      "title": "Warp on Windows...has arrived",
-      "video_id": "LOo9QkXZebk",
-      "channel_title": "Warp",
-      "description": "Try Warp now for FREE https://www.warp.dev TODAY IS THE DAY. WE ARE FINALLY LAUNCHING WARP ON WINDOWS!",
-      "published_at": "2025-02-26T13:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LOo9QkXZebk/hqdefault.jpg"
     }
   ]
 }

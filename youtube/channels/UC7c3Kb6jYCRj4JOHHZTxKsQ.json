@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-05-25T00:30:17.664692",
+  "fetched_at": "2025-06-01T00:33:58.932281",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Copilot Agent Mode is now available in GitHub Copilot for Xcode",
-      "video_id": "8P0V8o-KFJ4",
+      "title": "Appwrite Sites: self-hostable, open source, full-stack platform",
+      "video_id": "4x0BGsN-RbU",
       "channel_title": "GitHub",
-      "description": "You can now use Copilot Agent Mode in GitHub Copilot for Xcode, with support for the Model Context Protocol (MCP). Switch from ...",
-      "published_at": "2025-05-24T15:11:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8P0V8o-KFJ4/hqdefault.jpg"
+      "description": "Appwrite Sites has arrived! The open-source backend-as-a-service platform now includes built-in hosting. This means you can ...",
+      "published_at": "2025-05-31T17:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4x0BGsN-RbU/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Daniel Roe and Nuxt.js",
-      "video_id": "tRIQVQ23ykM",
+      "title": "Copilot agent mode is now available in Eclipse",
+      "video_id": "lmZ1aPUJ92s",
       "channel_title": "GitHub",
-      "description": "Join us for an exciting edition of Open Source Friday dedicated to exploring Nuxt.js with Daniel Roe, who leads the Nuxt core ...",
-      "published_at": "2025-05-24T06:24:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tRIQVQ23ykM/hqdefault.jpg"
+      "description": "See how GitHub Copilot in Eclipse boosts your productivity with AI-powered code completion, chat, and agent mode, helping you ...",
+      "published_at": "2025-05-31T14:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lmZ1aPUJ92s/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR🇧🇷] Open Source Friday Brasil com Wheslley Rimar Bezerra, mantenedor do Build CLI",
-      "video_id": "duaDQkxHT_k",
+      "title": "Open Source Friday with Effection",
+      "video_id": "_tk8m_zuzis",
       "channel_title": "GitHub",
-      "description": "[Brazilian Stream ] Na próxima edição, nosso convidado é Wheslley Rimar Bezerra, mantenedor do projeto Build CLI!",
-      "published_at": "2025-05-24T05:08:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/duaDQkxHT_k/hqdefault.jpg"
+      "description": "Join us for an exciting Open Source Friday session with @cowboyd (Charles Lowell), the creator and maintainer of Effection, ...",
+      "published_at": "2025-05-31T06:13:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_tk8m_zuzis/hqdefault.jpg"
     },
     {
-      "title": "The Download: Copilot Coding Agent, GitHub Models Tab &amp; Firefox on GitHub",
-      "video_id": "g2Y56vI0YCM",
+      "title": "[pt-BR] Open Source Friday Brasil 🇧🇷 com Vitor Mattos",
+      "video_id": "a34UxYzVU1k",
       "channel_title": "GitHub",
-      "description": "This week on The Download, we're packed with major GitHub announcements! We cover the public preview of the GitHub Copilot ...",
-      "published_at": "2025-05-23T20:01:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g2Y56vI0YCM/hqdefault.jpg"
+      "description": "[Brazilian Stream ] No último episódio do mês, recebemos Vitor Mattos, mantenedor do projeto LibreSign! O LibreSign é ...",
+      "published_at": "2025-05-31T05:08:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a34UxYzVU1k/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] 🇧🇷 Quinta do Patinho :3 Quack!",
-      "video_id": "zdC14avR60Y",
+      "title": "Open Source Friday with Ente&#39;s Vishnu Mohandas",
+      "video_id": "8qxtwJKqSas",
       "channel_title": "GitHub",
-      "description": "Brazilian Ruber Duck Thursday.",
-      "published_at": "2025-05-23T08:56:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zdC14avR60Y/hqdefault.jpg"
+      "description": "Join us for a powerful conversation with Vishnu Mohandas, Founder & CEO of Ente.io, a team building open source, end-to-end ...",
+      "published_at": "2025-05-30T23:20:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8qxtwJKqSas/hqdefault.jpg"
     },
     {
-      "title": "Assigning Copilot ad-hoc tasks through Copilot chat",
-      "video_id": "W9G_gHBuxlc",
+      "title": "How the GitHub Copilot coding agent works | GitHub Checkout",
+      "video_id": "1GVBRhDI5No",
       "channel_title": "GitHub",
-      "description": "You can now assign issues to GitHub Copilot in the background, not just from GitHub issues - but even ad hoc tasks while you're ...",
-      "published_at": "2025-05-22T14:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W9G_gHBuxlc/hqdefault.jpg"
+      "description": "Join us on GitHub Checkout as Tim Rogers demonstrates the capabilities of the GitHub Copilot coding agent. See how it goes ...",
+      "published_at": "2025-05-30T18:57:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1GVBRhDI5No/hqdefault.jpg"
+    },
+    {
+      "title": "Meet your AI coding partner - The GitHub Copilot coding agent",
+      "video_id": "Crw41r9moNc",
+      "channel_title": "GitHub",
+      "description": "Ready for an AI assistant that does more than suggest code? The GitHub Copilot coding agent, announced at Microsoft Build ...",
+      "published_at": "2025-05-30T18:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Crw41r9moNc/hqdefault.jpg"
     },
     {
       "title": "Event in Spanish: Jueves de Quack",
       "video_id": "CoMvYpKDMIY",
       "channel_title": "GitHub",
       "description": "Únete a nuestra sesión de trabajo colaborativo donde desarrolladores de todo el mundo nos reunimos para crear proyectos ...",
-      "published_at": "2025-05-21T22:48:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CoMvYpKDMIY/hqdefault_live.jpg"
+      "published_at": "2025-05-30T09:29:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CoMvYpKDMIY/hqdefault.jpg"
     },
     {
-      "title": "Introducing the GitHub Models tab: Manage &amp; test your AI prompts",
-      "video_id": "NgLhYqkU4YM",
+      "title": "[pt-BR🇧🇷] Quinta do Patinho, Live coding🐥",
+      "video_id": "8VxyikIJ4SI",
       "channel_title": "GitHub",
-      "description": "Build and ship AI directly from your GitHub repo with GitHub Models—a powerful new integration that brings AI development into ...",
-      "published_at": "2025-05-21T18:30:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NgLhYqkU4YM/hqdefault.jpg"
+      "description": "[Btazilian stream    ] Quinta do Patinho é uma live semanal descontraída com a Pachi, focada em explorações ao vivo de ...",
+      "published_at": "2025-05-30T08:58:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8VxyikIJ4SI/hqdefault.jpg"
     },
     {
-      "title": "How to get the most out of the Copilot coding agent",
-      "video_id": "GPML5a2jZCY",
+      "title": "GitHub Models is here: Better LLM evaluation and prompt versioning",
+      "video_id": "fG0BsIIVcOA",
       "channel_title": "GitHub",
-      "description": "Assign issues to GitHub Copilot in the background, freeing you up for other tasks! But what can you do to set Copilot up for ...",
-      "published_at": "2025-05-21T16:12:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GPML5a2jZCY/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing the GitHub Copilot coding agent",
-      "video_id": "EPyyyB23NUU",
-      "channel_title": "GitHub",
-      "description": "Tired of endless tab switching? GitHub's AI coding agent is changing the game. Plan, build, test, and collaborate seamlessly, from ...",
-      "published_at": "2025-05-19T16:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EPyyyB23NUU/hqdefault.jpg"
+      "description": "Introducing GitHub Models, a new way to manage and evaluate LLMs for your projects, now in public preview. This feature adds a ...",
+      "published_at": "2025-05-29T17:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fG0BsIIVcOA/hqdefault.jpg"
     }
   ]
 }

@@ -1,24 +1,32 @@
 {
-  "fetched_at": "2025-05-25T00:30:10.334832",
+  "fetched_at": "2025-06-01T00:33:51.832740",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Carvana’s Michael Graf shares his perspective on Azure Cosmos DB",
-      "video_id": "eyFBmzOQeUk",
+      "title": "Azure Files Provisioned v2 Pricing Model: Flexibile and Cost Efficienct File Shares",
+      "video_id": "fnxEFw4mMyQ",
       "channel_title": "Microsoft Azure",
-      "description": "Michael Graf, Associate Director of Engineering at Carvana, works in customer care. The team developed Sebastian, an AI agent ...",
-      "published_at": "2025-05-22T18:10:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eyFBmzOQeUk/hqdefault.jpg"
+      "description": "In this video, Microsoft Azure Files & File Sync team is excited to introduce our new Provisioned Version 2 pricing model for HDD ...",
+      "published_at": "2025-05-30T18:01:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fnxEFw4mMyQ/hqdefault.jpg"
     },
     {
-      "title": "Manus AI powered by Azure AI Foundry",
-      "video_id": "YHHd01ToVmc",
+      "title": "Microsoft Build 2025 | Software Development Company Highlights",
+      "video_id": "f7POcnSsGzY",
       "channel_title": "Microsoft Azure",
-      "description": "Hear Tao Cheung, co-founder of Manus AI (Singapore), talk about the how Azure AI Foundry is helping Manus AI shape the future ...",
-      "published_at": "2025-05-20T16:10:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YHHd01ToVmc/hqdefault.jpg"
+      "description": "Catch up on the highlights from Satya Nadella's Microsoft Build keynote, tailored for software companies. Read about the latest ...",
+      "published_at": "2025-05-29T14:01:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f7POcnSsGzY/hqdefault.jpg"
+    },
+    {
+      "title": "Software development is an act of empathy | Kilimo",
+      "video_id": "c7R6auLG6fg",
+      "channel_title": "Microsoft Azure",
+      "description": "Water is fundamental to our existence, but only a tiny fraction of fresh water on Earth is available to sustain life. How can we ...",
+      "published_at": "2025-05-28T16:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c7R6auLG6fg/hqdefault.jpg"
     },
     {
       "title": "Demo: Azure AI Foundry SDK",
@@ -45,22 +53,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xbRrAmy0ChA/hqdefault.jpg"
     },
     {
-      "title": "How our customers are using and customizing Azure AI Foundry Models",
-      "video_id": "4Xa42MCYhW8",
-      "channel_title": "Microsoft Azure",
-      "description": "Discover how Draftwise, healow, Bayer, and Saifr are unlocking the power of Azure AI Foundry models to solve unique challenges ...",
-      "published_at": "2025-05-19T16:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4Xa42MCYhW8/hqdefault.jpg"
-    },
-    {
-      "title": "Kubiya.ai Transforms DevOps with Azure AI Foundry and Agentic AI",
-      "video_id": "BbEHXJt_Q-A",
-      "channel_title": "Microsoft Azure",
-      "description": "Kubiya. ai transforms DevOps through Microsoft Azure AI Foundry and Agentic AI. Kubiya equips AI engineering teams with ...",
-      "published_at": "2025-05-19T15:50:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BbEHXJt_Q-A/hqdefault.jpg"
-    },
-    {
       "title": "Experimental Showcase- Agent memory implemented using Structured RAG",
       "video_id": "CWgrAEK123U",
       "channel_title": "Microsoft Azure",
@@ -69,20 +61,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CWgrAEK123U/hqdefault.jpg"
     },
     {
-      "title": "Expand Azure AI Foundry Agent Service with New Knowledge Tools",
-      "video_id": "eJ_eS-V_Bvk",
-      "channel_title": "Microsoft Azure",
-      "description": "Join us as we dive into the capabilities of Azure AI Foundry Agent Service, showcasing its new integrations with SharePoint and ...",
-      "published_at": "2025-05-19T14:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eJ_eS-V_Bvk/hqdefault.jpg"
-    },
-    {
       "title": "Can AI make the world of art more accessible? | Art Basel",
       "video_id": "NFCeG-pSuho",
       "channel_title": "Microsoft Azure",
       "description": "From cave painters to digital creators, artists continually discover new ways to express themselves and connect. That connection ...",
       "published_at": "2025-05-13T19:00:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NFCeG-pSuho/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft&#39;s path to Quantum computing at scale",
+      "video_id": "N-djietgxfM",
+      "channel_title": "Microsoft Azure",
+      "description": "[Originally Presented: March 5, 2025] Join Chetan Nayak, Technical Fellow at Microsoft, to learn more about the groundbreaking ...",
+      "published_at": "2025-05-09T13:00:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N-djietgxfM/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft Saas Stories | Learn from Software Experts | Episode 14, Dalikoo",
+      "video_id": "JtIL21FANWM",
+      "channel_title": "Microsoft Azure",
+      "description": "In this interview series, we interview Microsoft partners at various stages of their software as a service (SaaS) journey and learn ...",
+      "published_at": "2025-04-14T13:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JtIL21FANWM/hqdefault.jpg"
     }
   ]
 }

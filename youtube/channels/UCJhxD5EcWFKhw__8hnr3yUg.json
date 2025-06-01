@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-05-25T00:30:31.684257",
+  "fetched_at": "2025-06-01T00:34:12.615177",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
@@ -61,6 +61,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/P70WnfbDWzA/hqdefault.jpg"
     },
     {
+      "title": "【Code Review】做了个我做过的东西？这不撞枪口上了么！",
+      "video_id": "WfUY2-jtjlA",
+      "channel_title": "码农高天",
+      "description": "这次我们review一个小巧但是完整的库。这个库实现了一个我曾经做过的功能，所以很难得地我们可以从产品的角度去聊聊这个代码 ...",
+      "published_at": "2025-04-05T00:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WfUY2-jtjlA/hqdefault.jpg"
+    },
+    {
       "title": "【Code Review】一个函数能优化五次？这Python写的有C的味道了。",
       "video_id": "_FBU-jsf7rM",
       "channel_title": "码农高天",
@@ -75,14 +83,6 @@
       "description": "这次的code reivew我们看了一个自动化鼠标操作的中间件。很简单的一段代码，但是里面依然有不少你可能不知道的细节。",
       "published_at": "2025-04-03T04:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/01_4T_UI6q8/hqdefault.jpg"
-    },
-    {
-      "title": "面对无法本地复现的bug，只好尸检了！",
-      "video_id": "BoGsBGXQ4CA",
-      "channel_title": "码农高天",
-      "description": "这期视频介绍一下什么是post mortem debugging，以及最近写的Python的post mortem debugging工具coredumpy。它可以把你 ...",
-      "published_at": "2025-03-15T03:30:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BoGsBGXQ4CA/hqdefault.jpg"
     }
   ]
 }

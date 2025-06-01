@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-25T00:30:58.419367",
+  "fetched_at": "2025-06-01T00:34:39.065264",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "It&#39;s about time | Beosystem 3000c",
+      "video_id": "Ezkt0xQpANQ",
+      "channel_title": "Bang & Olufsen",
+      "description": "Beosystem 3000c is more than a setup. It's an invitation - open the case, cue the record, slip away into circles of sound. Explore: ...",
+      "published_at": "2025-05-27T12:30:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ezkt0xQpANQ/hqdefault.jpg"
+    },
     {
       "title": "Beoplay H100 Charles Leclerc Limited Edition",
       "video_id": "xDGThTzrLP4",
@@ -75,14 +83,6 @@
       "description": "Sound that travels. And fits in your carry-on. Beosound A1 3rd Gen is ready for take-off.​ #BangOlufsen ​ #A1ofakind​",
       "published_at": "2025-05-06T12:00:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Wiuwy6rly6s/hqdefault.jpg"
-    },
-    {
-      "title": "Beosound A1 3rd Gen",
-      "video_id": "sspCyMFMizY",
-      "channel_title": "Bang & Olufsen",
-      "description": "Sound that travels. And fits in your carry-on. Beosound A1 3rd Gen is ready for take-off.​ Explore: ...",
-      "published_at": "2025-05-06T11:52:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sspCyMFMizY/hqdefault.jpg"
     }
   ]
 }

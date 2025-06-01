@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-05-25T00:30:15.730751",
+  "fetched_at": "2025-06-01T00:33:57.440051",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Model X doors open &amp; close automatically with a tap",
+      "video_id": "NHRj2hUHJmI",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-05-29T17:04:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NHRj2hUHJmI/hqdefault.jpg"
+    },
     {
       "title": "Highrider to lowrider",
       "video_id": "VLLLGijAYYE",
@@ -75,14 +83,6 @@
       "description": "Tesla is now available to order in the Kingdom of Saudi Arabia Design yours today – https://www.tesla.com/en_SA.",
       "published_at": "2025-04-10T17:54:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ILOpnUUIhVI/hqdefault.jpg"
-    },
-    {
-      "title": "Work it",
-      "video_id": "8NdBCAv6jUw",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-04-09T17:35:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8NdBCAv6jUw/hqdefault.jpg"
     }
   ]
 }

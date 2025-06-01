@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2025-05-25T00:30:26.126741",
+  "fetched_at": "2025-06-01T00:34:07.422805",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
-  "count": 1,
+  "count": 3,
   "videos": [
     {
-      "title": "The Man Who Invented The Concept of Computers",
-      "video_id": "YlGPfO3dVZg",
+      "title": "Human Experiments On People With A Cold?!",
+      "video_id": "cPDNrkAcy5c",
       "channel_title": "Interesting Engineering",
-      "description": "Computers have become so integral to human life in such a short amount of time. Who even made up the idea of a machine that ...",
-      "published_at": "2025-05-23T15:07:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YlGPfO3dVZg/hqdefault.jpg"
+      "description": "In 1946, people began being admitted into the Harvard Hospital in Salisbury, UK. In this building, they were determined to find ...",
+      "published_at": "2025-05-30T15:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cPDNrkAcy5c/hqdefault.jpg"
+    },
+    {
+      "title": "They&#39;re Training Robots to FIGHT!",
+      "video_id": "NMoHWzE7DC8",
+      "channel_title": "Interesting Engineering",
+      "description": "Unitree hosted the world's first ever robot boxing championship in China, known as the Unitree Iron Fist King: Awakening!",
+      "published_at": "2025-05-29T17:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NMoHWzE7DC8/hqdefault.jpg"
+    },
+    {
+      "title": "The Flood of Sugar That Swallowed Boston",
+      "video_id": "aHw1i8BLpM4",
+      "channel_title": "Interesting Engineering",
+      "description": "A wave of molasses sounds like something straight out of a dream... but for Boston in 1915, it was more like a nightmare. How did ...",
+      "published_at": "2025-05-29T00:30:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aHw1i8BLpM4/hqdefault.jpg"
     }
   ]
 }

@@ -1,56 +1,56 @@
 {
-  "fetched_at": "2025-05-25T00:30:34.716649",
+  "fetched_at": "2025-06-01T00:34:15.630879",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Is search the supreme AI agent feature?",
-      "video_id": "9ZCAG8zU7nk",
+      "title": "What stood out in Claude 4’s prompts",
+      "video_id": "7T_LHf-e7h0",
       "channel_title": "IBM Technology",
-      "description": "Everyone's building agents, and Google is betting on agentic search. But is search the killer application of AI agents?",
-      "published_at": "2025-05-24T11:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9ZCAG8zU7nk/hqdefault.jpg"
+      "description": "Chris Hay explains how system prompts are like behavior guides for AI models.",
+      "published_at": "2025-05-31T11:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7T_LHf-e7h0/hqdefault.jpg"
     },
     {
-      "title": "Claude 4: Everything you need to know",
-      "video_id": "Blq_pf6yd6U",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/Bdnp9f How long until Anthropic drops Claude 5.0?",
-      "published_at": "2025-05-23T20:41:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Blq_pf6yd6U/hqdefault.jpg"
-    },
-    {
-      "title": "Google I/O, NLWeb, llm-d and is Stack Overflow dead?",
-      "video_id": "rNk3OuUj1UA",
-      "channel_title": "IBM Technology",
-      "description": "Subscribe for AI news → https://ibm.biz/Bdnatk Should you pay for Google's AI Ultra subscription plan? In episode 56 of Mixture of ...",
-      "published_at": "2025-05-23T10:31:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rNk3OuUj1UA/hqdefault.jpg"
-    },
-    {
-      "title": "Risky Business: Strengthening Cybersecurity with Risk Analysis",
-      "video_id": "_c2L4z-v06g",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Certified Administrator - Security Guardium? Register now and use code IBMTechYT20 for 20% off of ...",
-      "published_at": "2025-05-22T11:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_c2L4z-v06g/hqdefault.jpg"
-    },
-    {
-      "title": "AI Agents in Action: How Research Agents Solve Complex Problems",
-      "video_id": "j_Q1cL6Cog4",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-05-21T11:01:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j_Q1cL6Cog4/hqdefault.jpg"
-    },
-    {
-      "title": "What Are Vision Language Models? How AI Sees &amp; Understands Images",
-      "video_id": "lOD_EE96jhM",
+      "title": "GraphRAG Explained: AI Retrieval with Knowledge Graphs &amp; Cypher",
+      "video_id": "Za7aG-ooGLQ",
       "channel_title": "IBM Technology",
       "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-05-19T11:01:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lOD_EE96jhM/hqdefault.jpg"
+      "published_at": "2025-05-31T11:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Za7aG-ooGLQ/hqdefault.jpg"
+    },
+    {
+      "title": "Claude 4 system prompt, Jony Ive at OpenAI and Microsoft’s “agent factory”",
+      "video_id": "e_B91C2vILc",
+      "channel_title": "IBM Technology",
+      "description": "Want more AI analysis and hot takes? Subscribe to the newsletter → https://ibm.biz/BdnVVB Claude 4's system prompt leaked?",
+      "published_at": "2025-05-30T10:13:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e_B91C2vILc/hqdefault.jpg"
+    },
+    {
+      "title": "What Is a Triage AI Agent? Automation &amp; Multi-Agent Systems Explained",
+      "video_id": "x2ghX_RyHG4",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Administrator - Cloud Pak for Integration? Register now and use code IBMTechYT20 for 20% off of ...",
+      "published_at": "2025-05-29T11:01:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x2ghX_RyHG4/hqdefault.jpg"
+    },
+    {
+      "title": "AI Research Agents in Action",
+      "video_id": "PZ5Q-OKOMX4",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about AI Agents here → https://ibm.biz/Bdnp9C Ever wondered how AI agents automate complex research?",
+      "published_at": "2025-05-27T11:00:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PZ5Q-OKOMX4/hqdefault.jpg"
+    },
+    {
+      "title": "What is vLLM? Efficient AI Inference for Large Language Models",
+      "video_id": "McLdlg5Gc9s",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-05-26T11:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/McLdlg5Gc9s/hqdefault.jpg"
     },
     {
       "title": "IBM Think 2025, OpenAI Windsurf acquisition, reasoning models and hallucinations",
