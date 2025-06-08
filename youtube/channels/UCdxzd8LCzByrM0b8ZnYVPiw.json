@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-01T00:34:39.065264",
+  "fetched_at": "2025-06-08T00:31:21.090981",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "It&#39;s about time | Beosystem 3000c",
+      "video_id": "_XlfnUt0Qg4",
+      "channel_title": "Bang & Olufsen",
+      "description": "Even when there's nothing playing, it speaks volumes. Hear every detail with Beosystem 3000c. Explore: ...",
+      "published_at": "2025-06-05T10:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_XlfnUt0Qg4/hqdefault.jpg"
+    },
+    {
+      "title": "It&#39;s about time | Beogram 3000c",
+      "video_id": "jzYrDJHWkpQ",
+      "channel_title": "Bang & Olufsen",
+      "description": "Stay a while. Immerse in the moment. Let Beogram 3000c play every note with precision and poetry. Explore: ...",
+      "published_at": "2025-06-02T16:01:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jzYrDJHWkpQ/hqdefault.jpg"
+    },
     {
       "title": "It&#39;s about time | Beosystem 3000c",
       "video_id": "Ezkt0xQpANQ",
@@ -67,22 +83,6 @@
       "description": "\"I am a very creative person by nature. Looking at the sea and the movement of the sea, it's never really the same. That helps me ...",
       "published_at": "2025-05-19T16:00:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JsjCOA67eZ4/hqdefault.jpg"
-    },
-    {
-      "title": "B&amp;O X Charles Leclerc | Beosound A1 3rd Gen",
-      "video_id": "EyMZ2LsEFsk",
-      "channel_title": "Bang & Olufsen",
-      "description": "A presence that fills any space. Close your eyes, and you'll forget how small it is. Open them, and you'll wonder how it's possible.",
-      "published_at": "2025-05-09T14:53:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EyMZ2LsEFsk/hqdefault.jpg"
-    },
-    {
-      "title": "Beosound A1 3rd Gen",
-      "video_id": "Wiuwy6rly6s",
-      "channel_title": "Bang & Olufsen",
-      "description": "Sound that travels. And fits in your carry-on. Beosound A1 3rd Gen is ready for take-off.​ #BangOlufsen ​ #A1ofakind​",
-      "published_at": "2025-05-06T12:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wiuwy6rly6s/hqdefault.jpg"
     }
   ]
 }

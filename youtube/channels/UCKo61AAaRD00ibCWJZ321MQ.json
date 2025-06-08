@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:34:16.378027",
+  "fetched_at": "2025-06-08T00:30:59.374451",
   "channel_id": "UCKo61AAaRD00ibCWJZ321MQ",
   "channel_title": "SoKrispyMedia",
   "count": 10,
   "videos": [
+    {
+      "title": "Realistic Rick and Morty is Nightmare fuel...",
+      "video_id": "0kwQNklYkZc",
+      "channel_title": "SoKrispyMedia",
+      "description": "DIY portal gun took me to an unrecognizable version of Rick and Morty.",
+      "published_at": "2025-06-02T01:30:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0kwQNklYkZc/hqdefault.jpg"
+    },
     {
       "title": "Real Life Mario Kart World",
       "video_id": "QsF5hjDEaaY",
@@ -75,14 +83,6 @@
       "description": "Testing out some of the most requested Chalk Warfare drawings from the comments. Leave a comment below what you'd like to ...",
       "published_at": "2024-10-05T13:30:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6JAbaxALcl8/hqdefault.jpg"
-    },
-    {
-      "title": "Robots testing the Bulletproof #cybertruck  - BEFORE &amp; AFTER",
-      "video_id": "6RMAVHBVLC8",
-      "channel_title": "SoKrispyMedia",
-      "description": "An on-site look at how we really pulled it off… #vfx #cybertruck.",
-      "published_at": "2024-07-07T14:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6RMAVHBVLC8/hqdefault.jpg"
     }
   ]
 }

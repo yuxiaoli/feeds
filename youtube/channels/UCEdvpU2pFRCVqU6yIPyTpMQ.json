@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:34:05.910886",
+  "fetched_at": "2025-06-08T00:30:49.208990",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "‘Save My Love’ with @elliegouldingofficial + @avaion  out June 6th",
+      "video_id": "xd_A8bcOHMY",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-06-04T20:20:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xd_A8bcOHMY/hqdefault.jpg"
+    },
     {
       "title": "aint no way😩",
       "video_id": "NxGDm3nEucc",
@@ -75,14 +83,6 @@
       "description": "Marshmello x AR/CO - Worlds Apart (Official Performance Video) Stream/Download: https://marshmello.ffm.to/worldsapart Official ...",
       "published_at": "2025-04-04T17:00:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/V5XN_kDltlE/hqdefault.jpg"
-    },
-    {
-      "title": "Marshmello x AR/CO - Worlds Apart (Official Visualizer)",
-      "video_id": "e5-fzHNap4M",
-      "channel_title": "Marshmello",
-      "description": "Marshmello x AR/CO - Worlds Apart (Official Visualizer) Stream/Download: https://marshmello.ffm.to/worldsapart Official ...",
-      "published_at": "2025-03-28T03:46:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e5-fzHNap4M/hqdefault.jpg"
     }
   ]
 }

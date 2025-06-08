@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2025-06-01T00:34:17.098362",
+  "fetched_at": "2025-06-08T00:31:00.056764",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 3,
+  "count": 10,
   "videos": [
     {
-      "title": "How Do We Do Research in Zero Gravity? We Asked a NASA Expert",
-      "video_id": "EU8dbEH25ak",
+      "title": "Cosmic Dawn (Official NASA Trailer)",
+      "video_id": "Kk1vR7BdTno",
       "channel_title": "NASA",
-      "description": "When it comes to experiments in space, astronauts on the International Space Station face challenges you won't find on Earth: ...",
-      "published_at": "2025-05-28T14:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EU8dbEH25ak/hqdefault.jpg"
+      "description": "Coming June 2025 to NASA+, YouTube, and other platforms, the original documentary film \"Cosmic Dawn\" takes you behind the ...",
+      "published_at": "2025-06-04T15:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Kk1vR7BdTno/hqdefault.jpg"
+    },
+    {
+      "title": "Axiom Mission 4 Launches to the International Space Station",
+      "video_id": "_4TT_1e6rkM",
+      "channel_title": "NASA",
+      "description": "Axiom Mission 4, set to lift off at 8:22 a.m. EDT (1222 UTC) on Tuesday, June 10, is Axiom's fourth private astronaut mission to the ...",
+      "published_at": "2025-05-29T22:32:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_4TT_1e6rkM/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
@@ -21,12 +29,60 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DIgkvm2nmHc/hqdefault_live.jpg"
     },
     {
+      "title": "Seeing Earth as Only NASA Can",
+      "video_id": "iTHUUjTA-LI",
+      "channel_title": "NASA",
+      "description": "NASA missions have shared unique views of our home planet for more than 60 years. In that time, science and technology in air ...",
+      "published_at": "2025-04-22T14:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iTHUUjTA-LI/hqdefault.jpg"
+    },
+    {
+      "title": "Jared Isaacman Senate Nomination Hearing for NASA Administrator",
+      "video_id": "tqejrlbfB84",
+      "channel_title": "NASA",
+      "description": "Jared Isaacman is set to participate in his confirmation hearing to become the next NASA administrator. The hearing will take ...",
+      "published_at": "2025-04-09T17:12:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tqejrlbfB84/hqdefault.jpg"
+    },
+    {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
       "video_id": "H999s0P1Er0",
       "channel_title": "NASA",
       "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
       "published_at": "2025-02-27T17:28:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/H999s0P1Er0/hqdefault_live.jpg"
+    },
+    {
+      "title": "What&#39;s Going on with the Hole in the Ozone Layer? We Asked a NASA Expert",
+      "video_id": "cNV_GlKcjUc",
+      "channel_title": "NASA",
+      "description": "What's going on with the hole in the ozone layer? Thanks to a global effort to regulate ozone-depleting substances, the ozone ...",
+      "published_at": "2023-07-19T14:43:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cNV_GlKcjUc/hqdefault.jpg"
+    },
+    {
+      "title": "Northern Lights Seen From the International Space Station",
+      "video_id": "mjnGe-zLhcM",
+      "channel_title": "NASA",
+      "description": "As they orbited above Earth early in the morning on Feb. 26, 2023, NASA astronauts Josh Cassada, Nicole Mann, and JAXA ...",
+      "published_at": "2023-04-22T13:55:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mjnGe-zLhcM/hqdefault.jpg"
+    },
+    {
+      "title": "Share Your #NASAMoonSnap and Get Excited for Artemis I!",
+      "video_id": "9rgOU1AIv-g",
+      "channel_title": "NASA",
+      "description": "Does the Moon inspire you to think creatively or wonder about the mysteries of the universe? NASA will soon be launching ...",
+      "published_at": "2022-08-08T14:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9rgOU1AIv-g/hqdefault.jpg"
+    },
+    {
+      "title": "Spacewalk to Prepare the International Space Station for Solar Array Upgrades ",
+      "video_id": "gcv6beMn750",
+      "channel_title": "NASA",
+      "description": "Early riser? Watch two humans work in the vacuum of space on Sunday, Feb. 28! NASA astronauts Kate Rubins and Victor Glover ...",
+      "published_at": "2021-02-28T19:43:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gcv6beMn750/hqdefault.jpg"
     }
   ]
 }

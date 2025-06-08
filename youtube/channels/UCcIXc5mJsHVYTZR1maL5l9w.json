@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:34:36.779369",
+  "fetched_at": "2025-06-08T00:31:18.917359",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "New course with Databricks! DSPy: Build and Optimize Agentic Apps",
+      "video_id": "f5ym8e1pwHA",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4mIpgcJ As generative AI applications grow more complex, spanning reasoning, retrieval, and tool use, ...",
+      "published_at": "2025-06-04T14:09:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f5ym8e1pwHA/hqdefault.jpg"
+    },
     {
       "title": "New short course: Reinforcement Fine-Tuning with GRPO",
       "video_id": "sgy7jSbPUWY",
@@ -75,14 +83,6 @@
       "description": "AI is undergoing a major shift—from cloud-based processing to on-device intelligence. In this talk, Krishna Sridhar, Vice President ...",
       "published_at": "2025-03-27T19:06:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/UkgMVkj1kdM/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 | Aman Khan: Beyond Vibe Checks—Rethinking How We Evaluate AI Agent Performance",
-      "video_id": "GzxdGpFhn04",
-      "channel_title": "DeepLearningAI",
-      "description": "A great demo is just the starting point—getting AI agents to perform reliably in production is the real challenge. In his AI Dev 25 ...",
-      "published_at": "2025-03-27T19:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GzxdGpFhn04/hqdefault.jpg"
     }
   ]
 }

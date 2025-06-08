@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-01T00:34:30.736183",
+  "fetched_at": "2025-06-08T00:31:13.111491",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "What was the last thing you ChatGPT&#39;d?",
+      "video_id": "0sAdTcbK-qs",
+      "channel_title": "OpenAI",
+      "description": "Under25.",
+      "published_at": "2025-06-05T16:06:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0sAdTcbK-qs/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT for Business Updates",
+      "video_id": "9lSRViLugE0",
+      "channel_title": "OpenAI",
+      "description": "Nate Gonzalez, Preeti Iyer, Neel Ajjarapu, Sondra Batbold, and Dibya Bhattacharjee introduce and demo several updates to ...",
+      "published_at": "2025-06-04T17:27:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9lSRViLugE0/hqdefault.jpg"
+    },
     {
       "title": "Sam &amp; Jony introduce io",
       "video_id": "W09bIpc_3ms",
@@ -67,22 +83,6 @@
       "description": "ChatGPT's deep research integration with GitHub can run code reviews. This demo walks through how ChatGPT analyzes pull ...",
       "published_at": "2025-05-12T16:33:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZWwquOvw5Bk/hqdefault.jpg"
-    },
-    {
-      "title": "Moms use ChatGPT for the first time #Shorts",
-      "video_id": "dPxfnWz7dwI",
-      "channel_title": "OpenAI",
-      "description": "We love our moms and our moms love ChatGPT. : The offspring of these great moms... (From TikTok) @easae__ @alextench ...",
-      "published_at": "2025-05-11T14:46:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dPxfnWz7dwI/hqdefault.jpg"
-    },
-    {
-      "title": "Collaborate and write with GPT-4o",
-      "video_id": "ordedK86DxQ",
-      "channel_title": "OpenAI",
-      "description": "Explore how GPT‑4o makes writing and collaboration more natural. This demo shows how ChatGPT drafts, refines, and adjusts ...",
-      "published_at": "2025-05-08T16:02:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ordedK86DxQ/hqdefault.jpg"
     }
   ]
 }

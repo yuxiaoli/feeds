@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:34:21.621886",
+  "fetched_at": "2025-06-08T00:31:04.414234",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "Natural calisthenics physique #shorts",
+      "video_id": "HMrfJEQQaOU",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2025-05-25T14:30:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HMrfJEQQaOU/hqdefault.jpg"
+    },
     {
       "title": "calisthenics lets you do this #shorts",
       "video_id": "l7cmbzBDSQc",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-02-22T17:28:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5_93lqyui5w/hqdefault.jpg"
-    },
-    {
-      "title": "some of the cleanest muscleups #shorts",
-      "video_id": "KqGwGNz7GgM",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-02-09T16:53:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KqGwGNz7GgM/hqdefault.jpg"
     }
   ]
 }

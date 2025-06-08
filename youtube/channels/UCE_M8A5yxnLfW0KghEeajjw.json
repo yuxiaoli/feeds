@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:34:05.142897",
+  "fetched_at": "2025-06-08T00:30:48.487010",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "WWDC 2025 — June 9 | Apple",
+      "video_id": "0_DjDdfqtUE",
+      "channel_title": "Apple",
+      "description": "Get a sleek peek at what's to come this WWDC. This year's week of technology, community, and creativity with developers across ...",
+      "published_at": "2025-05-29T16:41:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0_DjDdfqtUE/hqdefault_live.jpg"
+    },
     {
       "title": "Magnifier on Mac | Apple",
       "video_id": "R3rBlZGEssw",
@@ -75,14 +83,6 @@
       "description": "iPhone 16 features the latest-generation Ceramic Shield material which is two times tougher than any smartphone glass. Relax ...",
       "published_at": "2025-04-24T16:00:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gdR32VJQ6aE/hqdefault.jpg"
-    },
-    {
-      "title": "Apple Intelligence | Clean Up Photos: Flex | iPhone 16",
-      "video_id": "iL88A5F9V3k",
-      "channel_title": "Apple",
-      "description": "With Apple Intelligence, you can now remove distracting objects from your photos with the Clean Up tool. Learn more about ...",
-      "published_at": "2025-04-21T16:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iL88A5F9V3k/hqdefault.jpg"
     }
   ]
 }

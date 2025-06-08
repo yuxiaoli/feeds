@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-06-01T00:33:58.932281",
+  "fetched_at": "2025-06-08T00:30:42.609481",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Appwrite Sites: self-hostable, open source, full-stack platform",
-      "video_id": "4x0BGsN-RbU",
+      "title": "How to create unit tests easily using GitHub Copilot Chat",
+      "video_id": "Px2gqsKpPrA",
       "channel_title": "GitHub",
-      "description": "Appwrite Sites has arrived! The open-source backend-as-a-service platform now includes built-in hosting. This means you can ...",
-      "published_at": "2025-05-31T17:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4x0BGsN-RbU/hqdefault.jpg"
+      "description": "Learn how GitHub Copilot can simplify writing unit tests, even if you're new to testing! This video demonstrates using Copilot Chat ...",
+      "published_at": "2025-06-07T18:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Px2gqsKpPrA/hqdefault.jpg"
     },
     {
-      "title": "Copilot agent mode is now available in Eclipse",
-      "video_id": "lmZ1aPUJ92s",
+      "title": "Open Source Friday with Community Health Toolkit - Tech for Health Equity",
+      "video_id": "sWMm57RVZ1U",
       "channel_title": "GitHub",
-      "description": "See how GitHub Copilot in Eclipse boosts your productivity with AI-powered code completion, chat, and agent mode, helping you ...",
-      "published_at": "2025-05-31T14:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lmZ1aPUJ92s/hqdefault.jpg"
+      "description": "Join us for a conversation with the Community Manager at Medic, the team behind the Community Health Toolkit (CHT), an open ...",
+      "published_at": "2025-06-07T05:52:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sWMm57RVZ1U/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Effection",
-      "video_id": "_tk8m_zuzis",
+      "title": "Open Source Friday with Supabase",
+      "video_id": "gkHNdxy6uKE",
       "channel_title": "GitHub",
-      "description": "Join us for an exciting Open Source Friday session with @cowboyd (Charles Lowell), the creator and maintainer of Effection, ...",
-      "published_at": "2025-05-31T06:13:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_tk8m_zuzis/hqdefault.jpg"
+      "description": "Join us this Friday for a special Maintainer Month edition of Open Source Friday as we spotlight Tyler Shukert from the Supabase ...",
+      "published_at": "2025-06-07T03:10:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gkHNdxy6uKE/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] Open Source Friday Brasil 🇧🇷 com Vitor Mattos",
-      "video_id": "a34UxYzVU1k",
+      "title": "Open Source Friday with Karate Labs&#39; Peter Thomas",
+      "video_id": "CfwxeyMaqWA",
       "channel_title": "GitHub",
-      "description": "[Brazilian Stream ] No último episódio do mês, recebemos Vitor Mattos, mantenedor do projeto LibreSign! O LibreSign é ...",
-      "published_at": "2025-05-31T05:08:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a34UxYzVU1k/hqdefault.jpg"
+      "description": "Join us for an Open Source Friday livestream with Peter Thomas, the creator of the open-source Karate framework, ...",
+      "published_at": "2025-06-06T23:34:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CfwxeyMaqWA/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Ente&#39;s Vishnu Mohandas",
-      "video_id": "8qxtwJKqSas",
+      "title": "The Download: Claude 4, Copilot Spaces, Mistral Agents API &amp; TypeScript Native preview",
+      "video_id": "yRGlFJhlM2Y",
       "channel_title": "GitHub",
-      "description": "Join us for a powerful conversation with Vishnu Mohandas, Founder & CEO of Ente.io, a team building open source, end-to-end ...",
-      "published_at": "2025-05-30T23:20:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8qxtwJKqSas/hqdefault.jpg"
+      "description": "The latest developer news with The Download! This week's highlights include the public preview of TypeScript Native, Anthropic's ...",
+      "published_at": "2025-06-06T18:36:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yRGlFJhlM2Y/hqdefault.jpg"
     },
     {
-      "title": "How the GitHub Copilot coding agent works | GitHub Checkout",
-      "video_id": "1GVBRhDI5No",
+      "title": "Software testing basics for beginners: What, why &amp; how (with Copilot)",
+      "video_id": "Wwk14j_SAC4",
       "channel_title": "GitHub",
-      "description": "Join us on GitHub Checkout as Tim Rogers demonstrates the capabilities of the GitHub Copilot coding agent. See how it goes ...",
-      "published_at": "2025-05-30T18:57:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1GVBRhDI5No/hqdefault.jpg"
+      "description": "\"Does my code actually work?\" Testing provides the answer! In this guide, we explore the importance of software testing in the ...",
+      "published_at": "2025-06-06T18:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wwk14j_SAC4/hqdefault.jpg"
     },
     {
-      "title": "Meet your AI coding partner - The GitHub Copilot coding agent",
-      "video_id": "Crw41r9moNc",
+      "title": "Rubber Duck Thursdays - Copilot coding agent and Copilot agent mode",
+      "video_id": "Orh3knzHfus",
       "channel_title": "GitHub",
-      "description": "Ready for an AI assistant that does more than suggest code? The GitHub Copilot coding agent, announced at Microsoft Build ...",
-      "published_at": "2025-05-30T18:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Crw41r9moNc/hqdefault.jpg"
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. In this stream, we'll ...",
+      "published_at": "2025-06-05T22:57:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Orh3knzHfus/hqdefault.jpg"
     },
     {
-      "title": "Event in Spanish: Jueves de Quack",
-      "video_id": "CoMvYpKDMIY",
+      "title": "How Copilot helps with test-driven development (Red-Green-Refactor guide)",
+      "video_id": "94ATR5k939U",
       "channel_title": "GitHub",
-      "description": "Únete a nuestra sesión de trabajo colaborativo donde desarrolladores de todo el mundo nos reunimos para crear proyectos ...",
-      "published_at": "2025-05-30T09:29:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CoMvYpKDMIY/hqdefault.jpg"
+      "description": "\"Red-green-refactor\" is the heartbeat of Test-Driven Development (TDD). This tutorial clearly explains each stage: writing unit tests ...",
+      "published_at": "2025-06-05T18:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/94ATR5k939U/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR🇧🇷] Quinta do Patinho, Live coding🐥",
-      "video_id": "8VxyikIJ4SI",
+      "title": "Reduce duplicated efforts: Mastering automation with GitHub Actions| Jessica Deen| Beyond the Commit",
+      "video_id": "PAwvQDFAUCA",
       "channel_title": "GitHub",
-      "description": "[Btazilian stream    ] Quinta do Patinho é uma live semanal descontraída com a Pachi, focada em explorações ao vivo de ...",
-      "published_at": "2025-05-30T08:58:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8VxyikIJ4SI/hqdefault.jpg"
+      "description": "Apply the \"Don't Repeat Yourself\" principle beyond just your code! Jessica Deen joins Beyond the Commit to discuss automating ...",
+      "published_at": "2025-06-05T14:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PAwvQDFAUCA/hqdefault.jpg"
     },
     {
-      "title": "GitHub Models is here: Better LLM evaluation and prompt versioning",
-      "video_id": "fG0BsIIVcOA",
+      "title": "Complete GitHub Learning Pathway with Ari Livigni | Free Certification Vouchers!",
+      "video_id": "fmaoWxHiSVQ",
       "channel_title": "GitHub",
-      "description": "Introducing GitHub Models, a new way to manage and evaluate LLMs for your projects, now in public preview. This feature adds a ...",
-      "published_at": "2025-05-29T17:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fG0BsIIVcOA/hqdefault.jpg"
+      "description": "Join us for a comprehensive GitHub Learn session covering everything you need to master GitHub and advance your career!",
+      "published_at": "2025-06-05T11:46:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fmaoWxHiSVQ/hqdefault.jpg"
     }
   ]
 }

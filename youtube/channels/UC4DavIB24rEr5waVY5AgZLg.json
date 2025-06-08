@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:33:55.864663",
+  "fetched_at": "2025-06-08T00:30:39.698470",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Up for a stroll? Watch the full video now! ✨",
+      "video_id": "qk4pNuT33U4",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Follow Charlie through Journey of Water, Inspired by Moana #waltdisneyimagineering #imagineering #moana.",
+      "published_at": "2025-06-02T17:08:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qk4pNuT33U4/hqdefault.jpg"
+    },
     {
       "title": "Imagineer Stories at Journey of Water, Inspired by Moana",
       "video_id": "PjLH47DPbeI",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-03-31T18:19:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/f4WyBxjkrrc/hqdefault.jpg"
-    },
-    {
-      "title": "Imagineers recently tested new gameplay elements for Buzz Lightyear&#39;s Space Ranger Spin!",
-      "video_id": "wRc-jShphtU",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "",
-      "published_at": "2025-03-26T12:31:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wRc-jShphtU/hqdefault.jpg"
     }
   ]
 }

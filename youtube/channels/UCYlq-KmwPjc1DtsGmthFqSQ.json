@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:34:32.237670",
+  "fetched_at": "2025-06-08T00:31:14.571723",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "Scaling Helix - Logistics",
+      "video_id": "lkc2y0yb89U",
+      "channel_title": "Figure",
+      "description": "Helix can now handle a wider variety of packaging approaching human-level dexterity and speed, bringing us closer to fully ...",
+      "published_at": "2025-06-07T16:42:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lkc2y0yb89U/hqdefault.jpg"
+    },
     {
       "title": "BMW Deployment Update",
       "video_id": "WoXCHr1IaTM",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2024-07-01T16:24:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/K1TrbI0BaaU/hqdefault.jpg"
-    },
-    {
-      "title": "Figure Status Update - OpenAI Speech-to-Speech Reasoning",
-      "video_id": "Sq1QZB5baNw",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2024-03-13T13:59:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Sq1QZB5baNw/hqdefault.jpg"
     }
   ]
 }

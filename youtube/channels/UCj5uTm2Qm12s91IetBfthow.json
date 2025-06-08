@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:34:43.625302",
+  "fetched_at": "2025-06-08T00:31:25.416938",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "6月趋势总结以及那些有趣的论文",
+      "video_id": "Oh_3o0ai5JM",
+      "channel_title": "Find Interesting AI",
+      "description": "AI论文6月文档https://qadso0i11yj.feishu.cn/base/AROmbHaYsaAIlzsjxV3c1lsRn6c?from=from_copylink.",
+      "published_at": "2025-06-07T10:25:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Oh_3o0ai5JM/hqdefault.jpg"
+    },
     {
       "title": "程序员量子计算入门指南",
       "video_id": "IfVkUokH4gM",
@@ -75,14 +83,6 @@
       "description": "一首内容完全由AI创作的MV 词、曲、人物、动画.",
       "published_at": "2025-03-15T12:00:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/VPAJoDoM7aI/hqdefault.jpg"
-    },
-    {
-      "title": "Manus最全硬核分析",
-      "video_id": "NfW6OB5VAVE",
-      "channel_title": "Find Interesting AI",
-      "description": "爆火出圈的manus究竟是不是炒作？对我们普通人影响如何？",
-      "published_at": "2025-03-08T13:36:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NfW6OB5VAVE/hqdefault.jpg"
     }
   ]
 }

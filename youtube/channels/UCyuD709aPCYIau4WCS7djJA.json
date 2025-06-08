@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:34:54.358026",
+  "fetched_at": "2025-06-08T00:31:35.748239",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "🚀🌌 10 Deep-Sky Objects in 30 Seconds!",
+      "video_id": "Wzi12V4eRnc",
+      "channel_title": "Star Walk",
+      "description": "Galaxy season may be over, but June brings a stunning showcase of nebulae and star clusters! In just 30 seconds, journey ...",
+      "published_at": "2025-06-02T12:53:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wzi12V4eRnc/hqdefault.jpg"
+    },
     {
       "title": "Top Astronomy Events of June 2025 ✨",
       "video_id": "60tZZOCG1FY",
@@ -75,14 +83,6 @@
       "description": "Io is the most volcanically active body in the Solar System. It has a metallic core (iron + iron sulfide), a partially molten silicate ...",
       "published_at": "2025-04-25T11:40:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HkGKN75MYuY/hqdefault.jpg"
-    },
-    {
-      "title": "🔥❄️ Welcome to the Cosmic Thermometer! 🌡️🪐",
-      "video_id": "NzSfujGj2nQ",
-      "channel_title": "Star Walk",
-      "description": "In this video, we've lined up all the planets of the Solar System by their temperatures — and the results might surprise you!",
-      "published_at": "2025-04-17T08:12:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NzSfujGj2nQ/hqdefault.jpg"
     }
   ]
 }

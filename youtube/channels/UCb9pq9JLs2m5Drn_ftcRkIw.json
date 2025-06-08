@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:34:34.453355",
+  "fetched_at": "2025-06-08T00:31:16.771870",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "خطأ شائع في البلانش",
+      "video_id": "Lbd85a6RF7o",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2025-06-01T12:58:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lbd85a6RF7o/hqdefault.jpg"
+    },
     {
       "title": "تمرين كالسثنكس متقدم Back Lever reverse leg raise",
       "video_id": "4CzkIDV4_Y8",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-04-06T09:14:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/y_DJ2LgqasU/hqdefault.jpg"
-    },
-    {
-      "title": "كيف تختار المسافة المناسبة بين اليدين عشان تبدأ الهاندستاند بوش اب",
-      "video_id": "Onezye5KB7A",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-04-04T12:37:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Onezye5KB7A/hqdefault.jpg"
     }
   ]
 }

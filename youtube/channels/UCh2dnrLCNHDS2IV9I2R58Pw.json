@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:34:42.884683",
+  "fetched_at": "2025-06-08T00:31:24.715141",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "SpaceX BFR Arrives at ISS animation",
+      "video_id": "dJDrtmUnK_M",
+      "channel_title": "Hazegrayart",
+      "description": "SpaceX BFS Arrives at the ISS animation.",
+      "published_at": "2025-06-06T14:43:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dJDrtmUnK_M/hqdefault.jpg"
+    },
     {
       "title": "Kistler Capsule Landing #spacec #spacexstarship #spacetraveler",
       "video_id": "qtGFDCe-h5Q",
@@ -75,14 +83,6 @@
       "description": "In the year 1960, Philip Bono, a highly specialized Space Vehicle Design Specialist affiliated with the Boeing Airplane Company, ...",
       "published_at": "2025-05-05T23:34:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cHqGmyxdH3s/hqdefault.jpg"
-    },
-    {
-      "title": "Freedom 7: Alan Shepard, 1st American In Space",
-      "video_id": "U95MYWKfD5M",
-      "channel_title": "Hazegrayart",
-      "description": "Some of the highlights of the first American to fly to space. Alan Shepard.",
-      "published_at": "2025-05-05T16:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U95MYWKfD5M/hqdefault.jpg"
     }
   ]
 }

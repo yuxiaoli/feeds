@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:34:53.641582",
+  "fetched_at": "2025-06-08T00:31:35.036579",
   "channel_id": "UCy7T8DVITdnblEm68Vv3_ig",
   "channel_title": "UNlimited",
   "count": 10,
   "videos": [
+    {
+      "title": "Lake Garda: Italy’s Largest Lake",
+      "video_id": "rvO66zpJjtE",
+      "channel_title": "UNlimited",
+      "description": "lakegarda #gardalake #italianlakes #garda #limonesulgarda #pizza #italianfood #placesonearththatdontfeelreal ...",
+      "published_at": "2025-06-05T23:57:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rvO66zpJjtE/hqdefault.jpg"
+    },
     {
       "title": "Japan Cherry Blossoms 🌸",
       "video_id": "15kTZF-2Mb0",
@@ -75,14 +83,6 @@
       "description": "mykonosisland #mykonosgreece #mykonos #greecetrip #greece #greecevlog #greeceislands #adventuretime #adventures ...",
       "published_at": "2025-05-03T03:00:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DRQAR919EtM/hqdefault.jpg"
-    },
-    {
-      "title": "Lago di Como: Italy&#39;s Most Beautiful Lake",
-      "video_id": "vmZ-7vPmXFg",
-      "channel_title": "UNlimited",
-      "description": "lakecomo #comolake #lagodicomo #italianlakes #como #lakecomoitaly #lake #pizza #italianfood #placesonearththatdontfeelreal ...",
-      "published_at": "2025-05-02T00:55:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vmZ-7vPmXFg/hqdefault.jpg"
     }
   ]
 }

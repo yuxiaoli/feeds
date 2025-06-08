@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:33:59.716681",
+  "fetched_at": "2025-06-08T00:30:43.317047",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Check it off the list, with Spot &amp; Orbit | Boston Dynamics",
+      "video_id": "xWmWmhRt-fs",
+      "channel_title": "Boston Dynamics",
+      "description": "What if you could detect, diagnose, and act—before issues even arise? With Spot and Orbit, you can. Orbit provides a real-time ...",
+      "published_at": "2025-06-04T13:20:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xWmWmhRt-fs/hqdefault.jpg"
+    },
     {
       "title": "Perception and Adaptability | Inside the Lab with Atlas",
       "video_id": "oe1dke3Cf7I",
@@ -75,14 +83,6 @@
       "description": "Take a look back at some of our 2024 highlights and get ready for even more in 2025!",
       "published_at": "2025-01-07T15:08:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ebwVjuyuaFY/hqdefault.jpg"
-    },
-    {
-      "title": "Happy Holidays, Atlas",
-      "video_id": "yHo6nKWkwgs",
-      "channel_title": "Boston Dynamics",
-      "description": "",
-      "published_at": "2024-12-23T17:05:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yHo6nKWkwgs/hqdefault.jpg"
     }
   ]
 }

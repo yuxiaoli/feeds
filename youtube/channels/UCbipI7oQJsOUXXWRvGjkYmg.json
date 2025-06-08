@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-01T00:34:35.225873",
+  "fetched_at": "2025-06-08T00:31:17.471683",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "The Hardest Challenge Ever",
+      "video_id": "dIJhMDI5D3k",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2025-06-07T15:31:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dIJhMDI5D3k/hqdefault.jpg"
+    },
+    {
+      "title": "She Never Expected This from Calisthenics",
+      "video_id": "7C2cKcUGAfw",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2025-06-01T12:36:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7C2cKcUGAfw/hqdefault.jpg"
+    },
     {
       "title": "I Challenged a 4 Time World Champion - Can I Beat Him?",
       "video_id": "29FExCWZzPM",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-05-11T16:20:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/uEVEXE9wZLc/hqdefault.jpg"
-    },
-    {
-      "title": "Step by step towards my dream",
-      "video_id": "fQo0th0PGmE",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-05-04T13:48:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fQo0th0PGmE/hqdefault.jpg"
-    },
-    {
-      "title": "10 Minutes Workout in Hotel Room",
-      "video_id": "qWy1AZMO8is",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-05-01T12:24:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qWy1AZMO8is/hqdefault.jpg"
     }
   ]
 }

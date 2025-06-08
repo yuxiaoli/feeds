@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-01T00:34:14.123777",
+  "fetched_at": "2025-06-08T00:30:57.255359",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Warp&#39;s Launch Log 03 | MCP Support",
+      "video_id": "ja6dZwWgtd8",
+      "channel_title": "Warp",
+      "description": "We've launched so many new features in Warp in just the last month, including MCP support, image as context, and more.",
+      "published_at": "2025-06-04T14:38:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ja6dZwWgtd8/hqdefault.jpg"
+    },
     {
       "title": "We GAVE AWAY a $10K FALCON PC!!",
       "video_id": "GwQACNz273E",
@@ -75,14 +83,6 @@
       "description": "This quarter has been one of the busiest in Warp's history. We've made improvements to our AI features, UI, and performance.",
       "published_at": "2025-03-27T14:01:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/sjbaWZfgbyg/hqdefault.jpg"
-    },
-    {
-      "title": "Coding a MCP Server with Warp",
-      "video_id": "AV9sz_PsXR4",
-      "channel_title": "Warp",
-      "description": "Join Zach Lloyd, Warp's CEO and founder, for a live coding session! Zach will take on a couple of tasks and show how he uses ...",
-      "published_at": "2025-03-27T05:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AV9sz_PsXR4/hqdefault.jpg"
     }
   ]
 }

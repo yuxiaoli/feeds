@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-01T00:33:50.292534",
+  "fetched_at": "2025-06-08T00:30:34.542317",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Your personal AI. The new Meta AI app.",
+      "video_id": "2l_2k5KrXmo",
+      "channel_title": "Meta",
+      "description": "Meta AI is your personal AI for whatever life throws at you. Get the new app today.",
+      "published_at": "2025-06-06T14:16:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2l_2k5KrXmo/hqdefault.jpg"
+    },
+    {
+      "title": "no more fighting over dinner options thanks to Meta AI",
+      "video_id": "M8Ir6cEpu7Q",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2025-06-02T18:37:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M8Ir6cEpu7Q/hqdefault.jpg"
+    },
     {
       "title": "Traveling with the @mumbaiindians was not on our 2025 bingo card  😎⚡",
       "video_id": "rEy9m8AVyk4",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-04-22T15:30:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EpqSIhmpaO0/hqdefault.jpg"
-    },
-    {
-      "title": "Boz To The Future Podcast #23 - The Future According to James Cameron",
-      "video_id": "qOdjM14QW0s",
-      "channel_title": "Meta",
-      "description": "In the latest episode of the Boz To The Future podcast, Meta CTO and Head of Reality Labs Andrew “Boz” Bosworth goes deep ...",
-      "published_at": "2025-04-09T12:15:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qOdjM14QW0s/hqdefault.jpg"
-    },
-    {
-      "title": "Tattooing with Ray-Ban Meta",
-      "video_id": "6GraZv2f40A",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-04-04T13:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6GraZv2f40A/hqdefault.jpg"
     }
   ]
 }
