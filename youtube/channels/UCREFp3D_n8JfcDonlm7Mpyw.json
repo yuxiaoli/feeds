@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-08T00:31:07.266170",
+  "fetched_at": "2025-06-15T00:31:29.348914",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Why use Ask Programiz instead of AI? #shorts",
+      "video_id": "PBm5d07HY_k",
+      "channel_title": "Programiz",
+      "description": "Stuck on a concept while learning to code? You're not alone — and you don't have to figure it out alone either. With Ask ...",
+      "published_at": "2025-06-12T12:15:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PBm5d07HY_k/hqdefault.jpg"
+    },
     {
       "title": "Tired of Errors? Start Coding in Seconds! #shorts",
       "video_id": "2GfhUs1g3kI",
@@ -75,14 +83,6 @@
       "description": "Meet #sensAI - your personal programming mentor! With sensAI, you'll have 24/7 guidance in your coding journey. Find errors ...",
       "published_at": "2023-05-26T05:46:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XimOqC5yNbc/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing sensAI - Your Personal Coding Mentor🤖🤖",
-      "video_id": "AxNyNHYSN60",
-      "channel_title": "Programiz",
-      "description": "Get expert coding help with sensAI - your personal coding mentor. With sensAI, you can analyze your code and identify any errors, ...",
-      "published_at": "2023-04-20T14:16:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AxNyNHYSN60/hqdefault.jpg"
     }
   ]
 }

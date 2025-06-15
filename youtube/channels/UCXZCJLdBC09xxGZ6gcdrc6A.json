@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-08T00:31:13.111491",
+  "fetched_at": "2025-06-15T00:31:35.381254",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Deploying AI: How businesses worldwide are succeeding with OpenAI",
+      "video_id": "ehdGa7BRwd4",
+      "channel_title": "OpenAI",
+      "description": "See how leading companies are using OpenAI in production and driving results across industries.",
+      "published_at": "2025-06-11T20:08:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ehdGa7BRwd4/hqdefault.jpg"
+    },
     {
       "title": "What was the last thing you ChatGPT&#39;d?",
       "video_id": "0sAdTcbK-qs",
@@ -75,14 +83,6 @@
       "description": "With custom instructions, ChatGPT becomes more relevant to your day-to-day. In this demo, we show how to personalize how ...",
       "published_at": "2025-05-12T16:39:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/i_cskqmWA3U/hqdefault.jpg"
-    },
-    {
-      "title": "Run faster code reviews with deep research for GitHub",
-      "video_id": "ZWwquOvw5Bk",
-      "channel_title": "OpenAI",
-      "description": "ChatGPT's deep research integration with GitHub can run code reviews. This demo walks through how ChatGPT analyzes pull ...",
-      "published_at": "2025-05-12T16:33:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZWwquOvw5Bk/hqdefault.jpg"
     }
   ]
 }

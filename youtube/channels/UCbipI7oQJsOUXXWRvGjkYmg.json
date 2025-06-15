@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-08T00:31:17.471683",
+  "fetched_at": "2025-06-15T00:31:39.680660",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "Can a Professional Breakdancer Do Calisthenics Skills?",
+      "video_id": "8-yYGhXvdN8",
+      "channel_title": "Andry Strong",
+      "description": "I flew all the way to Dubai to test one of the best breakdancers in the UAE. He's a winner of many international competitions.",
+      "published_at": "2025-06-08T10:27:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8-yYGhXvdN8/hqdefault.jpg"
+    },
     {
       "title": "The Hardest Challenge Ever",
       "video_id": "dIJhMDI5D3k",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-05-12T08:01:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0dJzzY9ta4w/hqdefault.jpg"
-    },
-    {
-      "title": "POV: Coach gives you a Beginner exercise",
-      "video_id": "uEVEXE9wZLc",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-05-11T16:20:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uEVEXE9wZLc/hqdefault.jpg"
     }
   ]
 }

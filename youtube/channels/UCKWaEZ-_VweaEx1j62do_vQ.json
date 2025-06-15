@@ -1,40 +1,48 @@
 {
-  "fetched_at": "2025-06-08T00:30:58.657083",
+  "fetched_at": "2025-06-15T00:31:20.468824",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "NY Tech Week, open source AI reports and Claude 4 behaviors",
-      "video_id": "tU9Jal1-E6c",
+      "title": "Apple’s WWDC, Meta &amp; Scale AI, o3-pro and fault-tolerant quantum computing",
+      "video_id": "Y5yiQDnTimU",
       "channel_title": "IBM Technology",
-      "description": "Subscribe for AI updates → https://ibm.biz/BdnuK4 Is open source winning the AI race? In episode 58 of Mixture of Experts, host ...",
-      "published_at": "2025-06-06T10:01:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tU9Jal1-E6c/hqdefault.jpg"
+      "description": "How IBM will build the world's first large-scale, fault-tolerant quantum computer: https://ibm.biz/BdnQdD Did Apple's WWDC 2025 ...",
+      "published_at": "2025-06-13T10:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y5yiQDnTimU/hqdefault.jpg"
     },
     {
-      "title": "What Open Source AI Really Means: Transparency, Freedom, &amp; Impact",
-      "video_id": "P-BUZViHK4o",
+      "title": "Apple&#39;s AI: Balancing Functionality &amp; Privacy",
+      "video_id": "z-dbD6Co27M",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Five Open-Source AI tools to know here → https://ibm.biz/BdnJ62 What does open source AI really mean?",
-      "published_at": "2025-06-05T14:03:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/P-BUZViHK4o/hqdefault.jpg"
+      "description": "Kaoutar highlights Apple's foundation model framework, praising developers' access to AI models for fine-tuning. The cohesive ...",
+      "published_at": "2025-06-12T18:41:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z-dbD6Co27M/hqdefault.jpg"
     },
     {
-      "title": "Big Data vs Fast Data: Optimize Your AI Strategy",
-      "video_id": "vWVOMV_vxxs",
+      "title": "AI Search Agents Redefined: Agentic Research, MCP, &amp; Tool Calling",
+      "video_id": "pUUzXimhUuA",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Big Data here → https://ibm.biz/BdnJQ7 Big data or fast data? Ellie Najewicz breaks down their key ...",
-      "published_at": "2025-06-03T13:49:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vWVOMV_vxxs/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-06-12T11:01:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pUUzXimhUuA/hqdefault.jpg"
     },
     {
-      "title": "What Is Quishing? How Hackers Use QR Codes to Steal Your Data",
-      "video_id": "RVF6NVnJvd8",
+      "title": "Small vs. Large AI Models: Trade-offs &amp; Use Cases Explained",
+      "video_id": "0Wwn5IEqFcg",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Analyst - Security QRadar? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-06-02T11:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RVF6NVnJvd8/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-06-10T11:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0Wwn5IEqFcg/hqdefault.jpg"
+    },
+    {
+      "title": "What is Retrieval-Augmented Fine-Tuning (RAFT)?",
+      "video_id": "rqyczEvh3D4",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-06-09T11:01:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rqyczEvh3D4/hqdefault.jpg"
     },
     {
       "title": "AI Research Agents in Action",
@@ -69,20 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fXizBc03D7E/hqdefault.jpg"
     },
     {
-      "title": "Generative vs Agentic AI: Shaping the Future of AI Collaboration",
-      "video_id": "EDb37y_MhRw",
+      "title": "How Infrastructure is Powering the Age of AI",
+      "video_id": "ooCwp6IGi3Q",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-04-21T11:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EDb37y_MhRw/hqdefault.jpg"
-    },
-    {
-      "title": "How to Build an MCP Server for LLM Agents: Simplify AI Integration",
-      "video_id": "EyYJI8TPIj8",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-04-16T12:15:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EyYJI8TPIj8/hqdefault.jpg"
+      "description": "Learn more here → https://ibm.biz/BdnHGF Discover how hardware capabilities enable the matrix math behind large language ...",
+      "published_at": "2025-04-15T20:29:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ooCwp6IGi3Q/hqdefault.jpg"
     }
   ]
 }

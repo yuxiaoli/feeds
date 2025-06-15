@@ -1,88 +1,56 @@
 {
-  "fetched_at": "2025-06-08T00:30:42.609481",
+  "fetched_at": "2025-06-15T00:31:04.727535",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 10,
+  "count": 6,
   "videos": [
     {
-      "title": "How to create unit tests easily using GitHub Copilot Chat",
-      "video_id": "Px2gqsKpPrA",
+      "title": "Code review vs refactoring: What beginners need to know",
+      "video_id": "vPnnyh53O2c",
       "channel_title": "GitHub",
-      "description": "Learn how GitHub Copilot can simplify writing unit tests, even if you're new to testing! This video demonstrates using Copilot Chat ...",
-      "published_at": "2025-06-07T18:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Px2gqsKpPrA/hqdefault.jpg"
+      "description": "New to software development? This video breaks down two crucial concepts: code review and refactoring. Learn how a code ...",
+      "published_at": "2025-06-14T18:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vPnnyh53O2c/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Community Health Toolkit - Tech for Health Equity",
-      "video_id": "sWMm57RVZ1U",
+      "title": "[pt-BR] 🇧🇷 Open Source Friday com Rebeca Almeida mantenedora do querido diário",
+      "video_id": "rsaKOV1fMhs",
       "channel_title": "GitHub",
-      "description": "Join us for a conversation with the Community Manager at Medic, the team behind the Community Health Toolkit (CHT), an open ...",
-      "published_at": "2025-06-07T05:52:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sWMm57RVZ1U/hqdefault.jpg"
+      "description": "BRAZILIAN STREAM Essa sexta tem Open Source Friday Brasil! Vamos receber Rebeca Almeida, mantenedora do projeto ...",
+      "published_at": "2025-06-14T05:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rsaKOV1fMhs/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Supabase",
-      "video_id": "gkHNdxy6uKE",
+      "title": "Open Source Friday with AdonisJS creator Harminder Virk",
+      "video_id": "UmAXrQKxie0",
       "channel_title": "GitHub",
-      "description": "Join us this Friday for a special Maintainer Month edition of Open Source Friday as we spotlight Tyler Shukert from the Supabase ...",
-      "published_at": "2025-06-07T03:10:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gkHNdxy6uKE/hqdefault.jpg"
+      "description": "Building a JavaScript framework from scratch is no small feat—especially one as developer-focused and feature-rich as AdonisJS.",
+      "published_at": "2025-06-13T23:26:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UmAXrQKxie0/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Karate Labs&#39; Peter Thomas",
-      "video_id": "CfwxeyMaqWA",
+      "title": "How to refactor your code easily with GitHub Copilot",
+      "video_id": "rTaK6EBwVnI",
       "channel_title": "GitHub",
-      "description": "Join us for an Open Source Friday livestream with Peter Thomas, the creator of the open-source Karate framework, ...",
-      "published_at": "2025-06-06T23:34:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CfwxeyMaqWA/hqdefault.jpg"
+      "description": "Learn how GitHub Copilot can help you quickly refactor your code for better clarity and performance. This short guide ...",
+      "published_at": "2025-06-13T18:00:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rTaK6EBwVnI/hqdefault.jpg"
     },
     {
-      "title": "The Download: Claude 4, Copilot Spaces, Mistral Agents API &amp; TypeScript Native preview",
-      "video_id": "yRGlFJhlM2Y",
+      "title": "Shift left the right way: Practical security integration with Angela Wen | Beyond the Commit",
+      "video_id": "eQegu9jZRx8",
       "channel_title": "GitHub",
-      "description": "The latest developer news with The Download! This week's highlights include the public preview of TypeScript Native, Anthropic's ...",
-      "published_at": "2025-06-06T18:36:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yRGlFJhlM2Y/hqdefault.jpg"
+      "description": "What does it truly mean to \"Shift Left\" security effectively in modern development? Angela Wen joins Beyond the Commit to ...",
+      "published_at": "2025-06-12T14:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eQegu9jZRx8/hqdefault.jpg"
     },
     {
-      "title": "Software testing basics for beginners: What, why &amp; how (with Copilot)",
-      "video_id": "Wwk14j_SAC4",
+      "title": "What is GitHub Copilot Spaces? Centralize your project’s context | GitHub Checkout",
+      "video_id": "a0LWEWLUt48",
       "channel_title": "GitHub",
-      "description": "\"Does my code actually work?\" Testing provides the answer! In this guide, we explore the importance of software testing in the ...",
-      "published_at": "2025-06-06T18:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wwk14j_SAC4/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays - Copilot coding agent and Copilot agent mode",
-      "video_id": "Orh3knzHfus",
-      "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. In this stream, we'll ...",
-      "published_at": "2025-06-05T22:57:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Orh3knzHfus/hqdefault.jpg"
-    },
-    {
-      "title": "How Copilot helps with test-driven development (Red-Green-Refactor guide)",
-      "video_id": "94ATR5k939U",
-      "channel_title": "GitHub",
-      "description": "\"Red-green-refactor\" is the heartbeat of Test-Driven Development (TDD). This tutorial clearly explains each stage: writing unit tests ...",
-      "published_at": "2025-06-05T18:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/94ATR5k939U/hqdefault.jpg"
-    },
-    {
-      "title": "Reduce duplicated efforts: Mastering automation with GitHub Actions| Jessica Deen| Beyond the Commit",
-      "video_id": "PAwvQDFAUCA",
-      "channel_title": "GitHub",
-      "description": "Apply the \"Don't Repeat Yourself\" principle beyond just your code! Jessica Deen joins Beyond the Commit to discuss automating ...",
-      "published_at": "2025-06-05T14:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PAwvQDFAUCA/hqdefault.jpg"
-    },
-    {
-      "title": "Complete GitHub Learning Pathway with Ari Livigni | Free Certification Vouchers!",
-      "video_id": "fmaoWxHiSVQ",
-      "channel_title": "GitHub",
-      "description": "Join us for a comprehensive GitHub Learn session covering everything you need to master GitHub and advance your career!",
-      "published_at": "2025-06-05T11:46:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fmaoWxHiSVQ/hqdefault.jpg"
+      "description": "GitHub Copilot Spaces is a new feature that acts as a centralized, AI-powered knowledge hub for your organization, making it ...",
+      "published_at": "2025-06-11T22:51:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a0LWEWLUt48/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-06-08T00:30:41.178119",
+  "fetched_at": "2025-06-15T00:31:03.272549",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Meet the Updated Model S &amp; X",
+      "video_id": "47U0dBn7his",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-06-13T21:22:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/47U0dBn7his/hqdefault.jpg"
+    },
+    {
+      "title": "Meet the Updated Model S &amp; X | Tesla",
+      "video_id": "k0oMa2jWXaM",
+      "channel_title": "Tesla",
+      "description": "Model S & X are now even better – launching this week in the US Design yours Model S – https://www.tesla.com/models ...",
+      "published_at": "2025-06-13T19:41:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k0oMa2jWXaM/hqdefault.jpg"
+    },
+    {
+      "title": "Peace of Mind at Home | Powerwall &amp; Solar",
+      "video_id": "OHsv4xmTAxQ",
+      "channel_title": "Tesla",
+      "description": "From hurricanes to winter storms, Powerwall and Solar provide our customers and their families with seamless outage protection, ...",
+      "published_at": "2025-06-11T20:54:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OHsv4xmTAxQ/hqdefault.jpg"
+    },
+    {
+      "title": "TeslaVision | Create your own Tesla video",
+      "video_id": "tzVo5XQ8Xa4",
+      "channel_title": "Tesla",
+      "description": "TeslaVision rules & prizes → https://www.tesla.com/teslavision-contest Tesla owners & supporters have always been able to see ...",
+      "published_at": "2025-06-10T22:06:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tzVo5XQ8Xa4/hqdefault.jpg"
+    },
     {
       "title": "Model X doors open &amp; close automatically with a tap",
       "video_id": "NHRj2hUHJmI",
@@ -51,38 +83,6 @@
       "description": "Learn more about Powerwall: https://www.tesla.com/powerwall.",
       "published_at": "2025-05-06T13:28:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/m1QQWvE18kU/hqdefault.jpg"
-    },
-    {
-      "title": "Making Megapack",
-      "video_id": "i8ycR2VTrA4",
-      "channel_title": "Tesla",
-      "description": "Megafactory is the largest utility-scale battery manufacturing facility in North America with a manufacturing capacity of 40 GWh or ...",
-      "published_at": "2025-04-29T20:33:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i8ycR2VTrA4/hqdefault.jpg"
-    },
-    {
-      "title": "Semi Factory Progress Update | Tesla",
-      "video_id": "U7Em2I7-DJ0",
-      "channel_title": "Tesla",
-      "description": "Follow Tesla Semi on X for more updates – https://x.com/tesla_semi.",
-      "published_at": "2025-04-28T17:34:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U7Em2I7-DJ0/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Q1 2025 Financial Results and Q&amp;A Webcast",
-      "video_id": "vs4cfyyMWhQ",
-      "channel_title": "Tesla",
-      "description": "Earnings Call start: https://youtu.be/vs4cfyyMWhQ?t=425.",
-      "published_at": "2025-04-22T23:06:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vs4cfyyMWhQ/hqdefault.jpg"
-    },
-    {
-      "title": "Kingdom of Saudi Arabia Launch | Tesla",
-      "video_id": "ILOpnUUIhVI",
-      "channel_title": "Tesla",
-      "description": "Tesla is now available to order in the Kingdom of Saudi Arabia Design yours today – https://www.tesla.com/en_SA.",
-      "published_at": "2025-04-10T17:54:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ILOpnUUIhVI/hqdefault.jpg"
     }
   ]
 }

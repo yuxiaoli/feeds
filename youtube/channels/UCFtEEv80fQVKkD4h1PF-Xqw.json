@@ -1,24 +1,16 @@
 {
-  "fetched_at": "2025-06-08T00:30:52.728284",
+  "fetched_at": "2025-06-15T00:31:14.758773",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "How to get unstuck with AI #microsoft #aitips #techpodcast",
-      "video_id": "iOaysOrLRss",
+      "title": "Bringing a skating costume to life with help from Microsoft Copilot",
+      "video_id": "NZeWQCWfRpA",
       "channel_title": "Microsoft",
-      "description": "Anne-Laure Le Cunff left a successful tech-marketing career to study neuroscience, and now writes the popular Ness Labs ...",
-      "published_at": "2025-06-06T15:32:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iOaysOrLRss/hqdefault.jpg"
-    },
-    {
-      "title": "How understanding your brain can help navigate uncertainty | Neuroscientist Anne-Laure Le Cunff",
-      "video_id": "GJUmgP_U1yk",
-      "channel_title": "Microsoft",
-      "description": "It's time to replace the old linear model of success with a circular model of growth, in which goals are discovered, pursued, and ...",
-      "published_at": "2025-06-06T15:32:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GJUmgP_U1yk/hqdefault.jpg"
+      "description": "When Special Olympic skater, Cori Piels, wanted a new figure skating costume for the 2025 World Winter Games, she turned to a ...",
+      "published_at": "2025-06-10T20:02:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NZeWQCWfRpA/hqdefault.jpg"
     },
     {
       "title": "Students are learning to read with the help of AI-powered Microsoft Reading Coach",
@@ -61,28 +53,36 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4CMJDiPq1f4/hqdefault.jpg"
     },
     {
-      "title": "How Microsoft protects rural hospitals from cyberattacks",
-      "video_id": "Vkpl1lCLXbI",
-      "channel_title": "Microsoft",
-      "description": "In rural Show Low, Arizona, a hospital serving thousands could come to a complete standstill from a cyberattack. They're ...",
-      "published_at": "2025-02-03T21:59:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vkpl1lCLXbI/hqdefault.jpg"
-    },
-    {
-      "title": "Overcoming “the search bar problem” Can Help Everyone Get the Most Out of AI at Work",
-      "video_id": "XpKB2fG-crg",
-      "channel_title": "Microsoft",
-      "description": "Learning how AI can help with a few tasks won't lead us to unlock its true power—for that, we need to fundamentally change how ...",
-      "published_at": "2025-01-29T16:59:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XpKB2fG-crg/hqdefault.jpg"
-    },
-    {
       "title": "Stanford Professor Michele Elam and Kevin Scott on art, AI, the engineering mindset and more",
       "video_id": "wFgxS36DxJI",
       "channel_title": "Microsoft",
       "description": "0:00 Intro – Michele Elam 1:00 Early life, pathway into tech and AI 11:06 The engineering mindset 17:04 Kevin & Michele get ...",
       "published_at": "2025-01-21T16:59:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wFgxS36DxJI/hqdefault.jpg"
+    },
+    {
+      "title": "Refik Anadol and Kevin Scott at the intersection of AI and Art",
+      "video_id": "R93cfvrdGFQ",
+      "channel_title": "Microsoft",
+      "description": "Refik Anadol, an internationally renowned media artist and director, joins Behind the Tech to discuss his journey from a childhood ...",
+      "published_at": "2024-11-12T17:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R93cfvrdGFQ/hqdefault.jpg"
+    },
+    {
+      "title": "What All Leaders Can Learn from How AI is Revolutionizing Medicine",
+      "video_id": "7v6aSn0eFRY",
+      "channel_title": "Microsoft",
+      "description": "Peter Lee, President of Microsoft Research, explains how AI is transforming every aspect of the medical industry, from research to ...",
+      "published_at": "2024-07-10T16:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7v6aSn0eFRY/hqdefault.jpg"
+    },
+    {
+      "title": "BWT Alpine F1 Team&#39;s Everyday AI Companion | Microsoft Copilot",
+      "video_id": "DA2_e-qB9dQ",
+      "channel_title": "Microsoft",
+      "description": "When team driver Pierre Gasly forgets a birthday, Microsoft Copilot has his back. Learn more: ...",
+      "published_at": "2024-06-03T15:30:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DA2_e-qB9dQ/hqdefault.jpg"
     }
   ]
 }

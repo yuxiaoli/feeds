@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-08T00:30:57.255359",
+  "fetched_at": "2025-06-15T00:31:19.018997",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Coding by Prompt: Father&#39;s day edition",
+      "video_id": "3rf4ipZzRFg",
+      "channel_title": "Warp",
+      "description": "Learn how to code by prompt with Warp!",
+      "published_at": "2025-06-12T00:26:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3rf4ipZzRFg/hqdefault_live.jpg"
+    },
     {
       "title": "Warp&#39;s Launch Log 03 | MCP Support",
       "video_id": "ja6dZwWgtd8",
@@ -75,14 +83,6 @@
       "description": "Learn how to code by prompt with Warp.",
       "published_at": "2025-04-11T06:48:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/VP03wHzaMJc/hqdefault.jpg"
-    },
-    {
-      "title": "Launch Log 01 | Warp Updates",
-      "video_id": "sjbaWZfgbyg",
-      "channel_title": "Warp",
-      "description": "This quarter has been one of the busiest in Warp's history. We've made improvements to our AI features, UI, and performance.",
-      "published_at": "2025-03-27T14:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sjbaWZfgbyg/hqdefault.jpg"
     }
   ]
 }

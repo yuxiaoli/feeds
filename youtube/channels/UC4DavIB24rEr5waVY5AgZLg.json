@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-08T00:30:39.698470",
+  "fetched_at": "2025-06-15T00:31:01.833498",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Go on a journey with Charlie looking at the different effects ✨",
+      "video_id": "CzlTCZWXf-A",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Full video now on YouTube (link in bio).",
+      "published_at": "2025-06-13T16:22:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CzlTCZWXf-A/hqdefault.jpg"
+    },
     {
       "title": "Up for a stroll? Watch the full video now! ✨",
       "video_id": "qk4pNuT33U4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-04-04T19:00:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/maaR6sENTzw/hqdefault.jpg"
-    },
-    {
-      "title": "Happy birthday to Disney Legend Marc Davis! #imagineering",
-      "video_id": "f4WyBxjkrrc",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "",
-      "published_at": "2025-03-31T18:19:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f4WyBxjkrrc/hqdefault.jpg"
     }
   ]
 }
