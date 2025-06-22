@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-15T00:31:17.620987",
+  "fetched_at": "2025-06-22T00:31:09.197362",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "Python3.14正式支持Free Threaded版本！",
+      "video_id": "G5lpLInBCmk",
+      "channel_title": "码农高天",
+      "description": "没有GIL的Python真的离我们越来越近了呀。",
+      "published_at": "2025-06-21T04:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G5lpLInBCmk/hqdefault.jpg"
+    },
+    {
+      "title": "今年PyCon我的talk，聊一下我完成的第一个PEP",
+      "video_id": "XU5ZEUtIZAU",
+      "channel_title": "码农高天",
+      "description": "今年PyCon我的talk，聊一下我完成的第一个PEP.",
+      "published_at": "2025-06-15T04:53:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XU5ZEUtIZAU/hqdefault.jpg"
+    },
     {
       "title": "不光会下还会讲？揭秘这个围棋AI背后的机制！",
       "video_id": "3etKEFxUrZc",
@@ -67,22 +83,6 @@
       "description": "coredumpy的视频出来的第二天就有人找到了一个安全漏洞？不要紧，我们正好用这个例子来和大家讲一下黑客每天都在干些什么， ...",
       "published_at": "2025-04-11T10:30:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/P70WnfbDWzA/hqdefault.jpg"
-    },
-    {
-      "title": "【Code Review】做了个我做过的东西？这不撞枪口上了么！",
-      "video_id": "WfUY2-jtjlA",
-      "channel_title": "码农高天",
-      "description": "这次我们review一个小巧但是完整的库。这个库实现了一个我曾经做过的功能，所以很难得地我们可以从产品的角度去聊聊这个代码 ...",
-      "published_at": "2025-04-05T00:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WfUY2-jtjlA/hqdefault.jpg"
-    },
-    {
-      "title": "【Code Review】一个函数能优化五次？这Python写的有C的味道了。",
-      "video_id": "_FBU-jsf7rM",
-      "channel_title": "码农高天",
-      "description": "这次的code reivew的是一个很简单的json到csv的脚本，但是这个脚本写的比较粗糙，里面有非常多可以改善的地方。对Python不 ...",
-      "published_at": "2025-04-04T02:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_FBU-jsf7rM/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-15T00:31:24.292466",
+  "fetched_at": "2025-06-22T00:31:16.351303",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "自由意志崩塌：科學實驗如何挑戰「自我決定」",
+      "video_id": "X102eAtGVGE",
+      "channel_title": "科學漫聊",
+      "description": "為什麼我們會感覺自己在做決定？大腦中的神經脈衝真能誕生「我」嗎？本期《科學漫聊》從利貝特實驗說起，追蹤神經訊號的提前 ...",
+      "published_at": "2025-06-16T13:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X102eAtGVGE/hqdefault.jpg"
+    },
     {
       "title": "時間旅行：當時間開始扭曲，因果還能存在嗎？",
       "video_id": "-8uQ8D6Q29A",
@@ -19,6 +27,14 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-05-18T12:45:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/75nxlwmG9RY/hqdefault.jpg"
+    },
+    {
+      "title": "从三体到N体",
+      "video_id": "ncZoECBlM4U",
+      "channel_title": "科學漫聊",
+      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
+      "published_at": "2025-04-30T15:17:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ncZoECBlM4U/hqdefault.jpg"
     },
     {
       "title": "宇宙大尺度的形狀：對稱性背後的時空密碼",
@@ -67,22 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-03-18T14:29:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7RU0qiX8_iU/hqdefault.jpg"
-    },
-    {
-      "title": "薛定谔对生命繁衍和遗传的独特见解",
-      "video_id": "CRtTRlmGdnU",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-03-18T14:29:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CRtTRlmGdnU/hqdefault.jpg"
-    },
-    {
-      "title": "薛定谔《生命是什么》探讨的三个生命本质问题",
-      "video_id": "qHr-QQp-JQo",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-03-18T14:23:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qHr-QQp-JQo/hqdefault.jpg"
     }
   ]
 }

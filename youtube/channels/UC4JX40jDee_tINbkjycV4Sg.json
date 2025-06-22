@@ -1,48 +1,40 @@
 {
-  "fetched_at": "2025-06-15T00:31:02.553139",
+  "fetched_at": "2025-06-22T00:30:52.306000",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "The BIGGEST shift in the tech industry",
-      "video_id": "4089qcGaaq4",
+      "title": "Non Conventional advice for new programmers",
+      "video_id": "odNgcv8kE-8",
       "channel_title": "Tech With Tim",
-      "description": "Video Resources ⏳ Timestamps ⏳ Hashtags.",
-      "published_at": "2025-06-14T06:05:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4089qcGaaq4/hqdefault.jpg"
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-06-20T06:04:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/odNgcv8kE-8/hqdefault.jpg"
     },
     {
-      "title": "Python Advanced AI Agent Tutorial - LangGraph, LangChain, Firecrawl &amp; More!",
-      "video_id": "xekw62yQu14",
+      "title": "THIS is why you always forget what you learn",
+      "video_id": "klnE3W2e4s8",
       "channel_title": "Tech With Tim",
-      "description": "Get started with Firecrawl today - https://firecrawl.link/OqIPqD0 Check out PyCharm, the Python IDE for data and web ...",
-      "published_at": "2025-06-13T13:34:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xekw62yQu14/hqdefault.jpg"
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-06-19T05:58:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/klnE3W2e4s8/hqdefault.jpg"
     },
     {
-      "title": "Did you know about this in python?",
-      "video_id": "R4sT_gtVscI",
+      "title": "How to Learn Coding Fast and Never Forget It",
+      "video_id": "3E0dqwQwX4k",
       "channel_title": "Tech With Tim",
-      "description": "Video Resources ⏳ Timestamps ⏳ Hashtags.",
-      "published_at": "2025-06-13T04:15:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R4sT_gtVscI/hqdefault.jpg"
+      "description": "Get started with Recall - https://www.getrecall.ai/?t=techwithtim & use code Tim30 for 30% off until July 1st! I've been programing ...",
+      "published_at": "2025-06-18T12:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3E0dqwQwX4k/hqdefault.jpg"
     },
     {
-      "title": "99% of beginner devs make THIS mistake",
-      "video_id": "vSG_xXR430U",
+      "title": "99% of devs don&#39;t know THIS in Python",
+      "video_id": "-zUULGlT7mA",
       "channel_title": "Tech With Tim",
-      "description": "Video Resources ⏳ Timestamps ⏳ Hashtags.",
-      "published_at": "2025-06-13T02:04:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vSG_xXR430U/hqdefault.jpg"
-    },
-    {
-      "title": "Why companies are NOT asking for CS degrees anymore",
-      "video_id": "eIy8ulPvEtw",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-06-12T07:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eIy8ulPvEtw/hqdefault.jpg"
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-06-18T03:38:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-zUULGlT7mA/hqdefault.jpg"
     },
     {
       "title": "THIS is why a CS degree won&#39;t get you a coding job",
@@ -53,14 +45,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_yNbcn-WCVo/hqdefault.jpg"
     },
     {
-      "title": "PLEASE Learn These 4 Python Tools",
-      "video_id": "mUZlA1m-MRM",
-      "channel_title": "Tech With Tim",
-      "description": "Get a 25% discount using the code TWT25 for SEOWriting at ...",
-      "published_at": "2025-06-09T14:35:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mUZlA1m-MRM/hqdefault.jpg"
-    },
-    {
       "title": "How to get ahead of 99% of devs in 2025",
       "video_id": "DJqGKv_q3bA",
       "channel_title": "Tech With Tim",
@@ -69,20 +53,36 @@
       "thumbnail_url": "https://i.ytimg.com/vi/DJqGKv_q3bA/hqdefault.jpg"
     },
     {
-      "title": "How I Plan My Coding Projects - 9 Steps",
-      "video_id": "AGWyx96lP8U",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with ManageEngine Site24x7 and evaluate the product for FREE: ...",
-      "published_at": "2025-06-06T23:21:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AGWyx96lP8U/hqdefault.jpg"
-    },
-    {
       "title": "How to become an AI engineer in 2025",
       "video_id": "V529teeIQ5o",
       "channel_title": "Tech With Tim",
       "description": "My Software Development Program: ...",
       "published_at": "2025-05-22T12:40:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/V529teeIQ5o/hqdefault.jpg"
+    },
+    {
+      "title": "You need to MASTER THIS if you wanna land your dream job in tech",
+      "video_id": "kdSxZCztEXA",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-04-27T20:19:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kdSxZCztEXA/hqdefault.jpg"
+    },
+    {
+      "title": "Why I’m Ditching ChatGPT… ChatLLM Tutorial",
+      "video_id": "EYcDauqeJjI",
+      "channel_title": "Tech With Tim",
+      "description": "Get started wirh ChatLLM here: https://chatllm.abacus.ai I want you to ask yourself how many I subscriptions are you currently ...",
+      "published_at": "2025-04-25T13:48:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EYcDauqeJjI/hqdefault.jpg"
+    },
+    {
+      "title": "The difference between TOP class developers and the rest",
+      "video_id": "bn4ydnn-kM8",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-03-25T22:43:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bn4ydnn-kM8/hqdefault.jpg"
     }
   ]
 }

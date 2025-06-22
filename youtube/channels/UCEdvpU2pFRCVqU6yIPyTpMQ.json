@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-15T00:31:11.261362",
+  "fetched_at": "2025-06-22T00:31:01.918382",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "Have to get them the best shot possible",
+      "video_id": "_6SJdUL8RdM",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-06-17T19:32:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_6SJdUL8RdM/hqdefault.jpg"
+    },
+    {
+      "title": "Marshmello Presents: 10 Years of Joytime",
+      "video_id": "x6DUrfy6kQI",
+      "channel_title": "Marshmello",
+      "description": "Hard to believe it's been 10 years since I began dropping songs on Joytime Collective. Seeing where it all started, it's impossible ...",
+      "published_at": "2025-06-16T17:14:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x6DUrfy6kQI/hqdefault.jpg"
+    },
     {
       "title": "I think they like the song @avaion &amp; @elliegouldingofficial #edm",
       "video_id": "YaD-o7N3HGE",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-04-17T16:08:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zrI5NTDpl3g/hqdefault.jpg"
-    },
-    {
-      "title": "This is a masterpiece @tori.segura #edm #remix #friends",
-      "video_id": "TtUPktNycQY",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-04-15T17:31:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TtUPktNycQY/hqdefault.jpg"
-    },
-    {
-      "title": "it all started from somewhere #edm #music #dj #marshmello",
-      "video_id": "p5BPJkkDaes",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-04-11T22:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p5BPJkkDaes/hqdefault.jpg"
     }
   ]
 }

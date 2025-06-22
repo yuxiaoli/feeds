@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-15T00:31:05.449430",
+  "fetched_at": "2025-06-22T00:30:55.477463",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Spot at Cargill | Boston Dynamics",
+      "video_id": "AqRquSReZHY",
+      "channel_title": "Boston Dynamics",
+      "description": "Cargill's Amsterdam Multiseed facility enlists Spot and Orbit to inspect machinery and perform visual checks, enhanced by all-new ...",
+      "published_at": "2025-06-17T13:44:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AqRquSReZHY/hqdefault.jpg"
+    },
     {
       "title": "Having Such a Good Time #AGTAuditions",
       "video_id": "2-eBap2ECJA",
@@ -43,14 +51,6 @@
       "description": "In robotics, dexterity and perception go hand-in-hand, literally! Our Atlas manipulation test stand practices a range of grasps, using ...",
       "published_at": "2025-04-28T14:04:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dFObux6mfTc/hqdefault.jpg"
-    },
-    {
-      "title": "Stretch at Gap | Boston Dynamics",
-      "video_id": "_dhwRYdZs9w",
-      "channel_title": "Boston Dynamics",
-      "description": "By having Stretch take on the physically demanding task of unloading trailers stacked floor to ceiling with boxes, Gap Inc has ...",
-      "published_at": "2025-03-26T14:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_dhwRYdZs9w/hqdefault.jpg"
     },
     {
       "title": "Breakdancin’ | Boston Dynamics &amp; RAI Institute",

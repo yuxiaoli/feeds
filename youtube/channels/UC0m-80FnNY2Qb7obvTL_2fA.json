@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2025-06-15T00:30:58.173912",
+  "fetched_at": "2025-06-22T00:30:47.444666",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Migrate and modernize Windows Server, SQL Server, and .NET workloads",
-      "video_id": "H_2OgOL3fpo",
+      "title": "Granular RBAC in Azure Monitor Log Analytics",
+      "video_id": "8WhOA0LCgU0",
       "channel_title": "Microsoft Azure",
-      "description": "Learn how to enhance and boost the performance, scalability and security of your SQL Server and .NET workloads, and be ...",
-      "published_at": "2025-06-13T22:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H_2OgOL3fpo/hqdefault.jpg"
+      "description": "Granular role-based access control (RBAC) in Azure Monitor Log Analytics allows you to filter workspace data that each user can ...",
+      "published_at": "2025-06-16T15:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8WhOA0LCgU0/hqdefault.jpg"
     },
     {
       "title": "Secure and Scale for GenAI apps with Cloud Migration and Modernization",
@@ -19,22 +19,6 @@
       "description": "Learn about the challenges of building GenAI apps on-premises and how Azure is optimized to help you migrate and modernize ...",
       "published_at": "2025-06-13T20:00:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1rdfQcdTqyc/hqdefault.jpg"
-    },
-    {
-      "title": "Keynote: Migrate to Innovate: Be AI Ready, be Secure",
-      "video_id": "9cgiDE5Qr7A",
-      "channel_title": "Microsoft Azure",
-      "description": "Hear from Microsoft executives Jeremy Winter, Chief Product Officer and Corporate Vice President for Azure Core, Omar Khan, ...",
-      "published_at": "2025-06-13T17:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9cgiDE5Qr7A/hqdefault.jpg"
-    },
-    {
-      "title": "Azure Files Provisioned v2 Pricing Model: Flexible and Cost Efficient File Shares",
-      "video_id": "fnxEFw4mMyQ",
-      "channel_title": "Microsoft Azure",
-      "description": "In this video, Microsoft Azure Files & File Sync team is excited to introduce our new Provisioned Version 2 pricing model for HDD ...",
-      "published_at": "2025-05-30T18:01:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fnxEFw4mMyQ/hqdefault.jpg"
     },
     {
       "title": "Microsoft Build 2025 | Software Development Company Highlights",
@@ -83,6 +67,22 @@
       "description": "The user can have conversations with the agent about events and entities that were extracted months ago. Entities are pulled from ...",
       "published_at": "2025-05-19T15:32:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CWgrAEK123U/hqdefault.jpg"
+    },
+    {
+      "title": "Can AI make the world of art more accessible? | Art Basel",
+      "video_id": "NFCeG-pSuho",
+      "channel_title": "Microsoft Azure",
+      "description": "From cave painters to digital creators, artists continually discover new ways to express themselves and connect. That connection ...",
+      "published_at": "2025-05-13T19:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NFCeG-pSuho/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft&#39;s path to Quantum computing at scale",
+      "video_id": "N-djietgxfM",
+      "channel_title": "Microsoft Azure",
+      "description": "[Originally Presented: March 5, 2025] Join Chetan Nayak, Technical Fellow at Microsoft, to learn more about the groundbreaking ...",
+      "published_at": "2025-05-09T13:00:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N-djietgxfM/hqdefault.jpg"
     }
   ]
 }

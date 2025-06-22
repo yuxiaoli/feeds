@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-15T00:31:41.126033",
+  "fetched_at": "2025-06-22T00:31:34.708395",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "New course with Meta! Enroll in &quot;Building with Llama 4&quot; 🦙",
+      "video_id": "86OuivQ-q58",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/43PCo8s Introducing Building with Llama 4, a short course, created in collaboration with Meta and taught ...",
+      "published_at": "2025-06-18T14:03:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/86OuivQ-q58/hqdefault.jpg"
+    },
     {
       "title": "New course! Orchestrating Workflows for GenAI Applications",
       "video_id": "WvQTkMiOrxo",
@@ -35,14 +43,6 @@
       "description": "Learn more: https://bit.ly/4jRNkYC Introducing MCP: Build Rich-Context AI Apps with Anthropic, our latest course made in ...",
       "published_at": "2025-05-14T14:44:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IkBslShH5to/hqdefault.jpg"
-    },
-    {
-      "title": "Building AI Voice Agents for Production",
-      "video_id": "mwL5Yzg6UJE",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/3EELtr7 Join Building AI Voice Agents for Production, created in collaboration with LiveKit and ...",
-      "published_at": "2025-05-07T14:54:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mwL5Yzg6UJE/hqdefault.jpg"
     },
     {
       "title": "New course! Enroll in Building Code Agents with Hugging Face smolagents",

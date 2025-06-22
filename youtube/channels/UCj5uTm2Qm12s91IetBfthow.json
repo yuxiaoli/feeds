@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-15T00:31:47.500421",
+  "fetched_at": "2025-06-22T00:31:41.780789",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "HuggingFace 6月最火AI一次性总结清楚",
+      "video_id": "UmHl6qJEQcs",
+      "channel_title": "Find Interesting AI",
+      "description": "HuggingFace 6月最火的8个AI项目.",
+      "published_at": "2025-06-21T10:44:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UmHl6qJEQcs/hqdefault_live.jpg"
+    },
+    {
+      "title": "最新105个项目总结 有趣项目分享",
+      "video_id": "wZELolxolhQ",
+      "channel_title": "Find Interesting AI",
+      "description": "视频文档： https://qadso0i11yj.feishu.cn/base/C9PAbl4JGaciCxsjxtac9RAVn3e?from=from_copylink.",
+      "published_at": "2025-06-15T09:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wZELolxolhQ/hqdefault.jpg"
+    },
     {
       "title": "6月趋势总结以及那些有趣的论文",
       "video_id": "Oh_3o0ai5JM",
@@ -67,22 +83,6 @@
       "description": "Agent框架调研https://blog.csdn.net/2401_85390073/article/details/143659429 开源awesome项目 ...",
       "published_at": "2025-03-29T00:30:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/RPmKC2cb7JM/hqdefault.jpg"
-    },
-    {
-      "title": "browser use实战教程",
-      "video_id": "z06NLPIKJCE",
-      "channel_title": "Find Interesting AI",
-      "description": "一键启动包下载地址https://pan.baidu.com/s/1IDeDI79IgpL8a9x2H3Om_w?pwd=pkck.",
-      "published_at": "2025-03-22T00:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z06NLPIKJCE/hqdefault.jpg"
-    },
-    {
-      "title": "一个完全不懂音乐的人，用AI做了首MV",
-      "video_id": "VPAJoDoM7aI",
-      "channel_title": "Find Interesting AI",
-      "description": "一首内容完全由AI创作的MV 词、曲、人物、动画.",
-      "published_at": "2025-03-15T12:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VPAJoDoM7aI/hqdefault.jpg"
     }
   ]
 }

@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2025-06-15T00:31:14.758773",
+  "fetched_at": "2025-06-22T00:31:05.777498",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "Bringing a skating costume to life with help from Microsoft Copilot",
-      "video_id": "NZeWQCWfRpA",
+      "title": "AI is changing the rules of business, see how to adapt from a Harvard Business School professor",
+      "video_id": "Gol8PECt-To",
       "channel_title": "Microsoft",
-      "description": "When Special Olympic skater, Cori Piels, wanted a new figure skating costume for the 2025 World Winter Games, she turned to a ...",
-      "published_at": "2025-06-10T20:02:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NZeWQCWfRpA/hqdefault.jpg"
+      "description": "A core component of every company's value proposition is its unique expertise. “But AI is lowering the cost of expertise,” says ...",
+      "published_at": "2025-06-18T15:29:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gol8PECt-To/hqdefault.jpg"
+    },
+    {
+      "title": "Lead smarter with AI #podcast #harvardbusinessschool",
+      "video_id": "r7lAjjzx4LE",
+      "channel_title": "Microsoft",
+      "description": "techpodcast #microsoft #leadership #ai A core component of every company's value proposition is its unique expertise. “But AI is ...",
+      "published_at": "2025-06-18T15:29:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r7lAjjzx4LE/hqdefault.jpg"
+    },
+    {
+      "title": "Changing how doctors diagnose diseases with AI | Microsoft Azure and NVIDIA",
+      "video_id": "yKPu8n42LPs",
+      "channel_title": "Microsoft",
+      "description": "Introducing Catalyst: a new docuseries about the future of AI that follows groundbreaking global companies that are changing the ...",
+      "published_at": "2025-06-17T20:59:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yKPu8n42LPs/hqdefault.jpg"
     },
     {
       "title": "Students are learning to read with the help of AI-powered Microsoft Reading Coach",
@@ -67,22 +83,6 @@
       "description": "Refik Anadol, an internationally renowned media artist and director, joins Behind the Tech to discuss his journey from a childhood ...",
       "published_at": "2024-11-12T17:00:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/R93cfvrdGFQ/hqdefault.jpg"
-    },
-    {
-      "title": "What All Leaders Can Learn from How AI is Revolutionizing Medicine",
-      "video_id": "7v6aSn0eFRY",
-      "channel_title": "Microsoft",
-      "description": "Peter Lee, President of Microsoft Research, explains how AI is transforming every aspect of the medical industry, from research to ...",
-      "published_at": "2024-07-10T16:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7v6aSn0eFRY/hqdefault.jpg"
-    },
-    {
-      "title": "BWT Alpine F1 Team&#39;s Everyday AI Companion | Microsoft Copilot",
-      "video_id": "DA2_e-qB9dQ",
-      "channel_title": "Microsoft",
-      "description": "When team driver Pierre Gasly forgets a birthday, Microsoft Copilot has his back. Learn more: ...",
-      "published_at": "2024-06-03T15:30:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DA2_e-qB9dQ/hqdefault.jpg"
     }
   ]
 }

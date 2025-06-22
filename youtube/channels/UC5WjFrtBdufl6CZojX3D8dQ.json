@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-15T00:31:03.272549",
+  "fetched_at": "2025-06-22T00:30:53.097735",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Model 3 Performance seats",
+      "video_id": "alVeBDFo0sk",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-06-21T20:12:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/alVeBDFo0sk/hqdefault.jpg"
+    },
+    {
+      "title": "Dynamic ambient lighting on Model S &amp; X",
+      "video_id": "qteGFagMp3g",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-06-16T20:55:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qteGFagMp3g/hqdefault.jpg"
+    },
     {
       "title": "Meet the Updated Model S &amp; X",
       "video_id": "47U0dBn7his",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-05-19T18:20:42Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ETSRdsgzy74/hqdefault.jpg"
-    },
-    {
-      "title": "Me in my room at 3am",
-      "video_id": "Y_6H-7mIT4w",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-05-14T17:50:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y_6H-7mIT4w/hqdefault.jpg"
-    },
-    {
-      "title": "Outage Protection | You Are In Control",
-      "video_id": "m1QQWvE18kU",
-      "channel_title": "Tesla",
-      "description": "Learn more about Powerwall: https://www.tesla.com/powerwall.",
-      "published_at": "2025-05-06T13:28:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m1QQWvE18kU/hqdefault.jpg"
     }
   ]
 }

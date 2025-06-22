@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-15T00:31:10.530064",
+  "fetched_at": "2025-06-22T00:31:01.109841",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Shot on iPhone 16 Pro | Big Man - Behind The Scenes | Apple",
+      "video_id": "HVuB_LoUE7Q",
+      "channel_title": "Apple",
+      "description": "The cast and crew take us behind the scenes of Big Man for a look at how the film was brought to life with iPhone 16 Pro.",
+      "published_at": "2025-06-18T19:11:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HVuB_LoUE7Q/hqdefault.jpg"
+    },
+    {
+      "title": "Shot on iPhone 16 Pro | Big Man - Starring Stormzy | Apple",
+      "video_id": "AUrLMJQf2Bw",
+      "channel_title": "Apple",
+      "description": "Big Man tells the fictional story of Tenzman, a world-weary musician, and the two bright, joyful kids who come into his life by ...",
+      "published_at": "2025-06-18T19:10:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AUrLMJQf2Bw/hqdefault.jpg"
+    },
     {
       "title": "Screenshots become events. Just like that. #Shorts",
       "video_id": "B93UVj8MaWo",
@@ -67,22 +83,6 @@
       "description": "Watch the WWDC25 keynote introducing our broadest design update ever and a more helpful Apple Intelligence. You'll also learn ...",
       "published_at": "2025-06-09T18:41:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0_DjDdfqtUE/hqdefault.jpg"
-    },
-    {
-      "title": "New things on the way from Apple",
-      "video_id": "Qz8u00pX738",
-      "channel_title": "Apple",
-      "description": "Woah. Here's your guide to some of the big announcements from this year's Worldwide Developers Conference. Watch the full ...",
-      "published_at": "2025-06-09T18:41:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Qz8u00pX738/hqdefault.jpg"
-    },
-    {
-      "title": "Magnifier on Mac | Apple",
-      "video_id": "R3rBlZGEssw",
-      "channel_title": "Apple",
-      "description": "Magnifier on Mac makes the physical world more accessible for anyone with low vision. If you're in a setting like a classroom, ...",
-      "published_at": "2025-05-15T16:02:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R3rBlZGEssw/hqdefault.jpg"
     }
   ]
 }

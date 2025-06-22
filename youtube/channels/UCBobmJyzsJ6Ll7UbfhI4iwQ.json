@@ -1,24 +1,40 @@
 {
-  "fetched_at": "2025-06-15T00:31:09.121526",
+  "fetched_at": "2025-06-22T00:30:59.500445",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 2,
+  "count": 4,
   "videos": [
     {
-      "title": "Animation Sizzle Reel 2025 | Unreal Engine",
-      "video_id": "CWwc2FcoLC8",
+      "title": "to a T | Game Profile | Unreal Engine",
+      "video_id": "KPoqlj-eO4g",
       "channel_title": "Unreal Engine",
-      "description": "Ready to be inspired? Dive in for a look at what talented animators from around the globe have been up to with Unreal Engine.",
-      "published_at": "2025-06-13T17:05:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CWwc2FcoLC8/hqdefault.jpg"
+      "description": "Watch this video and find out how Keita Takahashi used UE5 to create an episodic adventure game about a teenager who is stuck ...",
+      "published_at": "2025-06-20T13:59:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KPoqlj-eO4g/hqdefault.jpg"
     },
     {
-      "title": "State of Unreal 2025 4K | Unreal Fest Orlando | Epic Games",
-      "video_id": "ubCXb9BHhbE",
+      "title": "Motion Design in Unreal Engine, Episode 02: Cloners",
+      "video_id": "nuIQQJZRg2U",
       "channel_title": "Unreal Engine",
-      "description": "Watch the full recording of the State of Unreal from Unreal Fest Orlando. There were tons of big announcements at this year's ...",
-      "published_at": "2025-06-05T14:49:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ubCXb9BHhbE/hqdefault.jpg"
+      "description": "Watch this video from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) explores the ...",
+      "published_at": "2025-06-20T01:30:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nuIQQJZRg2U/hqdefault.jpg"
+    },
+    {
+      "title": "Motion Design in Unreal Engine, Episode 01: Setup &amp; Preferences",
+      "video_id": "lYj-XG6XHxs",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) demonstrates how ...",
+      "published_at": "2025-06-19T19:14:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lYj-XG6XHxs/hqdefault.jpg"
+    },
+    {
+      "title": "Creating In Fortnite I LEGO® Brick Editor",
+      "video_id": "kc7HiyisD4s",
+      "channel_title": "Unreal Engine",
+      "description": "Event Info: Join us for an exciting session where we'll dive deep into the latest Fortnite Creative and Unreal Editor for Fortnite ...",
+      "published_at": "2025-06-18T20:24:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kc7HiyisD4s/hqdefault_live.jpg"
     }
   ]
 }

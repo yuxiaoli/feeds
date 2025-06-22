@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-15T00:31:46.807592",
+  "fetched_at": "2025-06-22T00:31:41.019563",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Humpback Orbiter Space Shuttle Concept",
+      "video_id": "DX7FtbMpIvQ",
+      "channel_title": "Hazegrayart",
+      "description": "Humpback Orbiter Space Shuttle Concept An undefined need for more payload bay volume inspired the thought that the lee side ...",
+      "published_at": "2025-06-20T21:25:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DX7FtbMpIvQ/hqdefault.jpg"
+    },
+    {
+      "title": "McDonnell Douglas Star Wars Rocket",
+      "video_id": "RvO31_Odpyg",
+      "channel_title": "Hazegrayart",
+      "description": "The McDonnell Douglas Barbarian was a heavy-lift launch vehicle concept proposed by McDonnell Douglas in 1987 as part of the ...",
+      "published_at": "2025-06-20T19:31:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RvO31_Odpyg/hqdefault.jpg"
+    },
     {
       "title": "Mach 2.5 Vickers Swallow; Britain&#39;s Supersonic Transport",
       "video_id": "ZJ3-N__2_1o",
@@ -67,22 +83,6 @@
       "description": "An early design concept sometimes referred to as the Bedpost Rocket the Kistler K-1 was a two-stage, fully reusable launch ...",
       "published_at": "2025-05-18T17:33:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZB-NHHw6bps/hqdefault.jpg"
-    },
-    {
-      "title": "SpaceX HLS Moon Mission",
-      "video_id": "7RQ0dO_4YtQ",
-      "channel_title": "Hazegrayart",
-      "description": "Gateway is a critical part of NASA's deep space exploration plans, along with the Space Launch System (SLS) rocket, Orion ...",
-      "published_at": "2025-05-16T14:23:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7RQ0dO_4YtQ/hqdefault.jpg"
-    },
-    {
-      "title": "ROOST Reentry Landing",
-      "video_id": "PZg_dx8f4kM",
-      "channel_title": "Hazegrayart",
-      "description": "Philip Bono's study of a reusable Single Stage to Orbit (SSTO) The Douglas Aircraft Reusable One-Stage Orbital Space Truck ...",
-      "published_at": "2025-05-09T11:15:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PZg_dx8f4kM/hqdefault.jpg"
     }
   ]
 }

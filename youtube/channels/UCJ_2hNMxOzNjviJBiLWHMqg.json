@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-06-15T00:31:16.906008",
+  "fetched_at": "2025-06-22T00:31:08.193789",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "The Tallest Cemetery in the World",
+      "video_id": "vqfxjEtiZLU",
+      "channel_title": "DamiLee",
+      "description": "Imagine visiting a cemetery with a café and a toucan-breeding program. This 14-story Brazilian tower is changing the way we ...",
+      "published_at": "2025-06-19T19:03:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vqfxjEtiZLU/hqdefault.jpg"
+    },
+    {
+      "title": "This Buddhist Temple shows us the mourning doesn&#39;t have to be a special event.",
+      "video_id": "v0E1UAMsM7A",
+      "channel_title": "DamiLee",
+      "description": "At this Tokyo Buddhist temple, they offer Sunday services and concerts to make remembering the dead a part of everyday life.",
+      "published_at": "2025-06-18T19:04:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v0E1UAMsM7A/hqdefault.jpg"
+    },
+    {
+      "title": "Could caves help us reach enlightenment?",
+      "video_id": "eYpOoe1h4Pk",
+      "channel_title": "DamiLee",
+      "description": "Full video here: https://youtu.be/LNO-2w_dlMk Plato believed that true wisdom could only be found when free from the body.",
+      "published_at": "2025-06-16T19:03:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eYpOoe1h4Pk/hqdefault.jpg"
+    },
     {
       "title": "Is this Black Mirror in real life? AI bringing the dead back... sort of.",
       "video_id": "dqXgSf4fjhw",
@@ -59,30 +83,6 @@
       "description": "This is one of the solutions to dealing with death in dense cities. But do we lose anything when we lose the physical anchors that ...",
       "published_at": "2025-05-09T15:31:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/58tA6lmqv10/hqdefault.jpg"
-    },
-    {
-      "title": "What we have Wrong about Living on the Moon [SPACE ARCHITECTURE]",
-      "video_id": "kwRSBcrpyj0",
-      "channel_title": "DamiLee",
-      "description": "Try https://charter.space — the platform that connects teams, tools, and mission needs in one place. Directed and Post Produced ...",
-      "published_at": "2025-05-06T15:30:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kwRSBcrpyj0/hqdefault.jpg"
-    },
-    {
-      "title": "Fremen Tents AKA desert technology at its finest🤩",
-      "video_id": "91eS7VteAco",
-      "channel_title": "DamiLee",
-      "description": "The way a community lives reveals everything about who they are. Harsh desert world? No problem. The Fremen's way of life ...",
-      "published_at": "2025-05-05T15:31:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/91eS7VteAco/hqdefault.jpg"
-    },
-    {
-      "title": "What does a Fremen Sietch SMELL like? #Dune",
-      "video_id": "RZgi8wrwBQY",
-      "channel_title": "DamiLee",
-      "description": "Imagine the earthy scent of spice mingling with the musky aroma of stillsuits, crucial garments that recycle the body's moisture.",
-      "published_at": "2025-05-01T21:11:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RZgi8wrwBQY/hqdefault.jpg"
     }
   ]
 }

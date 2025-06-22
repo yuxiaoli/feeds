@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-15T00:31:39.680660",
+  "fetched_at": "2025-06-22T00:31:33.106830",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "Wait… where are the genetics?",
+      "video_id": "uMLG_nK8TPg",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2025-06-20T12:26:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uMLG_nK8TPg/hqdefault.jpg"
+    },
     {
       "title": "Can a Professional Breakdancer Do Calisthenics Skills?",
       "video_id": "8-yYGhXvdN8",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-05-14T09:39:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/YfBcpFMpwDU/hqdefault.jpg"
-    },
-    {
-      "title": "One thing that can skyrocket your progress",
-      "video_id": "0dJzzY9ta4w",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-05-12T08:01:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0dJzzY9ta4w/hqdefault.jpg"
     }
   ]
 }

@@ -1,48 +1,48 @@
 {
-  "fetched_at": "2025-06-15T00:31:20.468824",
+  "fetched_at": "2025-06-22T00:31:12.251588",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Apple’s WWDC, Meta &amp; Scale AI, o3-pro and fault-tolerant quantum computing",
-      "video_id": "Y5yiQDnTimU",
+      "title": "Why Chatbots Spiral?",
+      "video_id": "A9eYnT4LnAo",
       "channel_title": "IBM Technology",
-      "description": "How IBM will build the world's first large-scale, fault-tolerant quantum computer: https://ibm.biz/BdnQdD Did Apple's WWDC 2025 ...",
-      "published_at": "2025-06-13T10:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y5yiQDnTimU/hqdefault.jpg"
+      "description": "Reinforcement learning trains AI chatbots to go all in—for better or weirder.",
+      "published_at": "2025-06-21T11:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/A9eYnT4LnAo/hqdefault.jpg"
     },
     {
-      "title": "Apple&#39;s AI: Balancing Functionality &amp; Privacy",
-      "video_id": "z-dbD6Co27M",
+      "title": "Impact of AI on jobs, Scale AI fallout and chatbot conspiracies",
+      "video_id": "SuDcg-lg5So",
       "channel_title": "IBM Technology",
-      "description": "Kaoutar highlights Apple's foundation model framework, praising developers' access to AI models for fine-tuning. The cohesive ...",
-      "published_at": "2025-06-12T18:41:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z-dbD6Co27M/hqdefault.jpg"
+      "description": "Subscribe for AI updates → https://ibm.biz/Bdnkrx Could AI take your job? In episode 60 of Mixture of Experts, host Tim Hwang is ...",
+      "published_at": "2025-06-20T10:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SuDcg-lg5So/hqdefault.jpg"
     },
     {
-      "title": "AI Search Agents Redefined: Agentic Research, MCP, &amp; Tool Calling",
-      "video_id": "pUUzXimhUuA",
+      "title": "Good, Fast, Cheap: Balancing Software Project Trade-Offs",
+      "video_id": "FTTRzy9VQnA",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-06-12T11:01:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pUUzXimhUuA/hqdefault.jpg"
+      "description": "Ready to become a certified Deployment Professional - Security QRadar? Register now and use code IBMTechYT20 for 20% off ...",
+      "published_at": "2025-06-19T11:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FTTRzy9VQnA/hqdefault.jpg"
     },
     {
-      "title": "Small vs. Large AI Models: Trade-offs &amp; Use Cases Explained",
-      "video_id": "0Wwn5IEqFcg",
+      "title": "Sycophantic AI: Why Accuracy Matters",
+      "video_id": "ujFqaZSguto",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-06-10T11:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0Wwn5IEqFcg/hqdefault.jpg"
+      "description": "Learn more about AI Alignment here → https://ibm.biz/Bdn3Aq Sycophantic AI prioritizes flattery over accuracy, disrupting ...",
+      "published_at": "2025-06-18T17:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ujFqaZSguto/hqdefault.jpg"
     },
     {
-      "title": "What is Retrieval-Augmented Fine-Tuning (RAFT)?",
-      "video_id": "rqyczEvh3D4",
+      "title": "What is AI Search? The Evolution from Keywords to Vector Search &amp; RAG",
+      "video_id": "iVUMuC7OzUI",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-06-09T11:01:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rqyczEvh3D4/hqdefault.jpg"
+      "description": "Ready to become a certified Certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of ...",
+      "published_at": "2025-06-16T11:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iVUMuC7OzUI/hqdefault.jpg"
     },
     {
       "title": "AI Research Agents in Action",

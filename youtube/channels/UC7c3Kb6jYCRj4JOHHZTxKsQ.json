@@ -1,56 +1,88 @@
 {
-  "fetched_at": "2025-06-15T00:31:04.727535",
+  "fetched_at": "2025-06-22T00:30:54.661575",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 6,
+  "count": 10,
   "videos": [
     {
-      "title": "Code review vs refactoring: What beginners need to know",
-      "video_id": "vPnnyh53O2c",
+      "title": "Linus Torvalds on the early &quot;hate&quot; for Git&#39;s interface",
+      "video_id": "T52UtF2HGxc",
       "channel_title": "GitHub",
-      "description": "New to software development? This video breaks down two crucial concepts: code review and refactoring. Learn how a code ...",
-      "published_at": "2025-06-14T18:00:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vPnnyh53O2c/hqdefault.jpg"
+      "description": "\"I just didn't like CVS very much.\" In this short clip, Linus Torvalds explains the reasoning behind Git's controversial command ...",
+      "published_at": "2025-06-21T18:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/T52UtF2HGxc/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] 🇧🇷 Open Source Friday com Rebeca Almeida mantenedora do querido diário",
-      "video_id": "rsaKOV1fMhs",
+      "title": "GitHub Universe 2025: Our biggest celebration of code yet",
+      "video_id": "Wtpxgc6CbeI",
       "channel_title": "GitHub",
-      "description": "BRAZILIAN STREAM Essa sexta tem Open Source Friday Brasil! Vamos receber Rebeca Almeida, mantenedora do projeto ...",
-      "published_at": "2025-06-14T05:01:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rsaKOV1fMhs/hqdefault.jpg"
+      "description": "The developer party of the year is back, and it's our biggest one yet! Get your ticket now and join us for the magic of GitHub ...",
+      "published_at": "2025-06-21T14:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wtpxgc6CbeI/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with AdonisJS creator Harminder Virk",
-      "video_id": "UmAXrQKxie0",
+      "title": "Open Source Friday with Daytona, Infrastructure for AI-Generated Code",
+      "video_id": "pXULhUeWGxM",
       "channel_title": "GitHub",
-      "description": "Building a JavaScript framework from scratch is no small feat—especially one as developer-focused and feature-rich as AdonisJS.",
-      "published_at": "2025-06-13T23:26:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UmAXrQKxie0/hqdefault.jpg"
+      "description": "Daytona is an open-source platform designed for secure, scalable execution of AI-generated code and agent workflows. It offers ...",
+      "published_at": "2025-06-21T05:54:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pXULhUeWGxM/hqdefault.jpg"
     },
     {
-      "title": "How to refactor your code easily with GitHub Copilot",
-      "video_id": "rTaK6EBwVnI",
+      "title": "[pt-BR🇧🇷] Open Source Friday Brasil com o Emerson Delatorre, mantenedor do PyFlunt",
+      "video_id": "QMBebHrqsZY",
       "channel_title": "GitHub",
-      "description": "Learn how GitHub Copilot can help you quickly refactor your code for better clarity and performance. This short guide ...",
-      "published_at": "2025-06-13T18:00:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rTaK6EBwVnI/hqdefault.jpg"
+      "description": "Open Source Friday Brasil: PyFlunt com Emerson Delatorre Nesta edição, vamos conhecer o projeto PyFlunt, mantido por ...",
+      "published_at": "2025-06-21T05:07:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QMBebHrqsZY/hqdefault.jpg"
     },
     {
-      "title": "Shift left the right way: Practical security integration with Angela Wen | Beyond the Commit",
-      "video_id": "eQegu9jZRx8",
+      "title": "The Download: Remote GitHub MCP Server, FAIR package manager &amp; more",
+      "video_id": "PdQWgF4oV7Q",
       "channel_title": "GitHub",
-      "description": "What does it truly mean to \"Shift Left\" security effectively in modern development? Angela Wen joins Beyond the Commit to ...",
-      "published_at": "2025-06-12T14:01:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eQegu9jZRx8/hqdefault.jpg"
+      "description": "This week on The Download, we're diving into some major updates for developers! Learn about the public preview of the remote ...",
+      "published_at": "2025-06-20T14:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PdQWgF4oV7Q/hqdefault.jpg"
     },
     {
-      "title": "What is GitHub Copilot Spaces? Centralize your project’s context | GitHub Checkout",
-      "video_id": "a0LWEWLUt48",
+      "title": "[pt-BR🇧🇷] Quinta to Patinho! Quack!",
+      "video_id": "MIwsprho4hI",
       "channel_title": "GitHub",
-      "description": "GitHub Copilot Spaces is a new feature that acts as a centralized, AI-powered knowledge hub for your organization, making it ...",
-      "published_at": "2025-06-11T22:51:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a0LWEWLUt48/hqdefault.jpg"
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2025-06-20T09:30:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MIwsprho4hI/hqdefault.jpg"
+    },
+    {
+      "title": "Best practices for administering GitHub Copilot with Luis Pujols | Beyond the Commit",
+      "video_id": "CwP81uyISuc",
+      "channel_title": "GitHub",
+      "description": "How do you manage GitHub Copilot effectively across your organization for maximum impact? In this Beyond the Commit episode ...",
+      "published_at": "2025-06-19T14:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CwP81uyISuc/hqdefault.jpg"
+    },
+    {
+      "title": "[pt-BR]GitHub Presente Brasil Junho",
+      "video_id": "HbjCe9TXgNY",
+      "channel_title": "GitHub",
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2025-06-19T10:28:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HbjCe9TXgNY/hqdefault.jpg"
+    },
+    {
+      "title": "The turning point for Git: A reflection from Linus Torvalds",
+      "video_id": "MubhcAyF20o",
+      "channel_title": "GitHub",
+      "description": "Linus Torvalds reflects on a pivotal time in Git's history: the years between 2007 and 2010. Hear from the creator of Git about the ...",
+      "published_at": "2025-06-18T20:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MubhcAyF20o/hqdefault.jpg"
+    },
+    {
+      "title": "Modernize enterprise developer workflows with GitHub Copilot",
+      "video_id": "gmgaeQgBer0",
+      "channel_title": "GitHub",
+      "description": "Hear from technology leaders as they share how GitHub Copilot is transforming the way their developers work. Dani Grant, CEO ...",
+      "published_at": "2025-06-18T16:05:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gmgaeQgBer0/hqdefault.jpg"
     }
   ]
 }

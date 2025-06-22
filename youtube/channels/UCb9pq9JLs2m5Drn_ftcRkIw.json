@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-15T00:31:38.975992",
+  "fetched_at": "2025-06-22T00:31:32.332748",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "كيف انتقل من الهاندستاند على الجدار للهاندستاند الحر و كيف نزيد مدة الثبات",
+      "video_id": "2AZaLK3yCGY",
+      "channel_title": "Hemo Calisthenics",
+      "description": "رابط تعليم الوقوف الحر على اليدين : https://www.youtube.com/watch?v=buWWlbpeZIk حاب تبدأ رياضة الكاليسثينكس ؟ ‏أول شي ...",
+      "published_at": "2025-06-20T11:11:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2AZaLK3yCGY/hqdefault.jpg"
+    },
     {
       "title": "خطأ شائع في البلانش",
       "video_id": "Lbd85a6RF7o",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-04-07T17:46:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9sIJW0XZTU8/hqdefault.jpg"
-    },
-    {
-      "title": "طريقة كتم التنفس في الهاندستاند",
-      "video_id": "y_DJ2LgqasU",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-04-06T09:14:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y_DJ2LgqasU/hqdefault.jpg"
     }
   ]
 }

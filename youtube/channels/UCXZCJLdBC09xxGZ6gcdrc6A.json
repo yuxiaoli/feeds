@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-15T00:31:35.381254",
+  "fetched_at": "2025-06-22T00:31:28.435019",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The real ways college students use ChatGPT",
+      "video_id": "jELUAaGqjSA",
+      "channel_title": "OpenAI",
+      "description": "",
+      "published_at": "2025-06-18T23:21:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jELUAaGqjSA/hqdefault.jpg"
+    },
+    {
+      "title": "Sam Altman on AGI, GPT-5, and what’s next — the OpenAI Podcast Ep. 1",
+      "video_id": "DB9mjd-65gw",
+      "channel_title": "OpenAI",
+      "description": "On the first episode of the OpenAI Podcast, Sam Altman joins host Andrew Mayne to talk about the future of AI: from GPT-5 and ...",
+      "published_at": "2025-06-18T14:59:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DB9mjd-65gw/hqdefault.jpg"
+    },
     {
       "title": "Deploying AI: How businesses worldwide are succeeding with OpenAI",
       "video_id": "ehdGa7BRwd4",
@@ -27,14 +43,6 @@
       "description": "Nate Gonzalez, Preeti Iyer, Neel Ajjarapu, Sondra Batbold, and Dibya Bhattacharjee introduce and demo several updates to ...",
       "published_at": "2025-06-04T17:27:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9lSRViLugE0/hqdefault.jpg"
-    },
-    {
-      "title": "Sam &amp; Jony introduce io",
-      "video_id": "W09bIpc_3ms",
-      "channel_title": "OpenAI",
-      "description": "Building a family of AI products for everyone.",
-      "published_at": "2025-05-21T17:02:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W09bIpc_3ms/hqdefault.jpg"
     },
     {
       "title": "Codex CLI with codex-mini",
@@ -75,14 +83,6 @@
       "description": "Greg Brockman, Jerry Tworek, Joshua Ma, Hanson Wang, Thibault Sottiaux, Katy Shi, and Andrey Mishchenko introduce and ...",
       "published_at": "2025-05-16T15:30:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hhdpnbfH6NU/hqdefault.jpg"
-    },
-    {
-      "title": "Personalize ChatGPT with custom instructions",
-      "video_id": "i_cskqmWA3U",
-      "channel_title": "OpenAI",
-      "description": "With custom instructions, ChatGPT becomes more relevant to your day-to-day. In this demo, we show how to personalize how ...",
-      "published_at": "2025-05-12T16:39:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i_cskqmWA3U/hqdefault.jpg"
     }
   ]
 }
