@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-22T00:31:01.918382",
+  "fetched_at": "2025-06-29T00:31:43.072780",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "We were cringe but we were happy😂",
+      "video_id": "hj4ewm0IBiQ",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-06-27T19:17:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hj4ewm0IBiQ/hqdefault.jpg"
+    },
     {
       "title": "Have to get them the best shot possible",
       "video_id": "_6SJdUL8RdM",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-04-18T18:19:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/VrokBUaWXfU/hqdefault.jpg"
-    },
-    {
-      "title": "had to go hard for this one #marshmello #music #edm",
-      "video_id": "zrI5NTDpl3g",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-04-17T16:08:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zrI5NTDpl3g/hqdefault.jpg"
     }
   ]
 }

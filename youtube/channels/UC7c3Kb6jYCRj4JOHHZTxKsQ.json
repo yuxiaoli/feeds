@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2025-06-22T00:30:54.661575",
+  "fetched_at": "2025-06-29T00:31:35.702560",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
+    {
+      "title": "Open Source Friday with Llmware.ai",
+      "video_id": "Wdl156_At9g",
+      "channel_title": "GitHub",
+      "description": "Join us for Open Source Friday on June 27, 2025, featuring Namee and Darren Oberst from llmare.ai. Discover how LLMWare ...",
+      "published_at": "2025-06-28T06:06:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wdl156_At9g/hqdefault.jpg"
+    },
+    {
+      "title": "Linus Torvalds on why Git had to be fast: The performance story",
+      "video_id": "FSi150R5mJI",
+      "channel_title": "GitHub",
+      "description": "For Linus Torvalds, the creation of Git was driven by one primary need: performance. In this clip, he explains his \"disdain\" for older ...",
+      "published_at": "2025-06-27T18:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FSi150R5mJI/hqdefault.jpg"
+    },
+    {
+      "title": "[pt-BR🇧🇷] Quinta do Patinho - Vamos construir com Copilot.",
+      "video_id": "K0s8NTXb8HY",
+      "channel_title": "GitHub",
+      "description": "Brazilian Live Stream    ] Quinta do Patinho é uma live semanal descontraída com a Pachi, focada em explorações ao vivo de ...",
+      "published_at": "2025-06-27T08:56:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K0s8NTXb8HY/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays - Let&#39;s build",
+      "video_id": "UXAbtYbxD_w",
+      "channel_title": "GitHub",
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We'll take a look at ...",
+      "published_at": "2025-06-26T23:18:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UXAbtYbxD_w/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday Brasil com Ana Carolyne do Codaqui",
+      "video_id": "wy7khJTIv3w",
+      "channel_title": "GitHub",
+      "description": "Open Source Friday Brasil com Ana Carolyne do Codaqui.",
+      "published_at": "2025-06-26T20:58:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wy7khJTIv3w/hqdefault_live.jpg"
+    },
+    {
+      "title": "Introducing the 2025 dev/core collection from the GitHub Shop",
+      "video_id": "AmY8kG4PR0w",
+      "channel_title": "GitHub",
+      "description": "The 2025 Dev Core collection has officially arrived! It's time to \"commit to comfort\" with our latest line of developer swag, optimized ...",
+      "published_at": "2025-06-26T18:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AmY8kG4PR0w/hqdefault.jpg"
+    },
+    {
+      "title": "How 21 dependencies become 1,000: Understanding your software supply chain | GitHub Checkout",
+      "video_id": "gGQXIfLNmB0",
+      "channel_title": "GitHub",
+      "description": "Did you know that up to 97% of your application's code can come from open source dependencies? Securing the software supply ...",
+      "published_at": "2025-06-26T16:18:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gGQXIfLNmB0/hqdefault.jpg"
+    },
+    {
+      "title": "How difficult was Git in its first week? Linus Torvalds explains",
+      "video_id": "oyWGcg0t0EA",
+      "channel_title": "GitHub",
+      "description": "Ever wonder what Git was like in its first week? Linus Torvalds shares the story of using raw \"plumbing\" commands like ...",
+      "published_at": "2025-06-24T18:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oyWGcg0t0EA/hqdefault.jpg"
+    },
     {
       "title": "Linus Torvalds on the early &quot;hate&quot; for Git&#39;s interface",
       "video_id": "T52UtF2HGxc",
@@ -13,76 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/T52UtF2HGxc/hqdefault.jpg"
     },
     {
-      "title": "GitHub Universe 2025: Our biggest celebration of code yet",
-      "video_id": "Wtpxgc6CbeI",
+      "title": "Copilot agent mode is now available in Eclipse",
+      "video_id": "lmZ1aPUJ92s",
       "channel_title": "GitHub",
-      "description": "The developer party of the year is back, and it's our biggest one yet! Get your ticket now and join us for the magic of GitHub ...",
-      "published_at": "2025-06-21T14:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wtpxgc6CbeI/hqdefault.jpg"
-    },
-    {
-      "title": "Open Source Friday with Daytona, Infrastructure for AI-Generated Code",
-      "video_id": "pXULhUeWGxM",
-      "channel_title": "GitHub",
-      "description": "Daytona is an open-source platform designed for secure, scalable execution of AI-generated code and agent workflows. It offers ...",
-      "published_at": "2025-06-21T05:54:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pXULhUeWGxM/hqdefault.jpg"
-    },
-    {
-      "title": "[pt-BR🇧🇷] Open Source Friday Brasil com o Emerson Delatorre, mantenedor do PyFlunt",
-      "video_id": "QMBebHrqsZY",
-      "channel_title": "GitHub",
-      "description": "Open Source Friday Brasil: PyFlunt com Emerson Delatorre Nesta edição, vamos conhecer o projeto PyFlunt, mantido por ...",
-      "published_at": "2025-06-21T05:07:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QMBebHrqsZY/hqdefault.jpg"
-    },
-    {
-      "title": "The Download: Remote GitHub MCP Server, FAIR package manager &amp; more",
-      "video_id": "PdQWgF4oV7Q",
-      "channel_title": "GitHub",
-      "description": "This week on The Download, we're diving into some major updates for developers! Learn about the public preview of the remote ...",
-      "published_at": "2025-06-20T14:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PdQWgF4oV7Q/hqdefault.jpg"
-    },
-    {
-      "title": "[pt-BR🇧🇷] Quinta to Patinho! Quack!",
-      "video_id": "MIwsprho4hI",
-      "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2025-06-20T09:30:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MIwsprho4hI/hqdefault.jpg"
-    },
-    {
-      "title": "Best practices for administering GitHub Copilot with Luis Pujols | Beyond the Commit",
-      "video_id": "CwP81uyISuc",
-      "channel_title": "GitHub",
-      "description": "How do you manage GitHub Copilot effectively across your organization for maximum impact? In this Beyond the Commit episode ...",
-      "published_at": "2025-06-19T14:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CwP81uyISuc/hqdefault.jpg"
-    },
-    {
-      "title": "[pt-BR]GitHub Presente Brasil Junho",
-      "video_id": "HbjCe9TXgNY",
-      "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2025-06-19T10:28:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HbjCe9TXgNY/hqdefault.jpg"
-    },
-    {
-      "title": "The turning point for Git: A reflection from Linus Torvalds",
-      "video_id": "MubhcAyF20o",
-      "channel_title": "GitHub",
-      "description": "Linus Torvalds reflects on a pivotal time in Git's history: the years between 2007 and 2010. Hear from the creator of Git about the ...",
-      "published_at": "2025-06-18T20:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MubhcAyF20o/hqdefault.jpg"
-    },
-    {
-      "title": "Modernize enterprise developer workflows with GitHub Copilot",
-      "video_id": "gmgaeQgBer0",
-      "channel_title": "GitHub",
-      "description": "Hear from technology leaders as they share how GitHub Copilot is transforming the way their developers work. Dani Grant, CEO ...",
-      "published_at": "2025-06-18T16:05:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gmgaeQgBer0/hqdefault.jpg"
+      "description": "See how GitHub Copilot in Eclipse boosts your productivity with AI-powered code completion, chat, and agent mode, helping you ...",
+      "published_at": "2025-05-31T14:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lmZ1aPUJ92s/hqdefault.jpg"
     }
   ]
 }

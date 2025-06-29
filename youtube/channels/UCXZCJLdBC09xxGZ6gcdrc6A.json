@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-06-22T00:31:28.435019",
+  "fetched_at": "2025-06-29T00:32:08.583049",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "A quick guide | How to search in ChatGPT",
+      "video_id": "XGswiRpn6js",
+      "channel_title": "OpenAI",
+      "description": "",
+      "published_at": "2025-06-27T19:51:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XGswiRpn6js/hqdefault.jpg"
+    },
+    {
+      "title": "UCLA student shares how he was using ChatGPT",
+      "video_id": "rswUgIfj1YU",
+      "channel_title": "OpenAI",
+      "description": "",
+      "published_at": "2025-06-25T18:32:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rswUgIfj1YU/hqdefault.jpg"
+    },
+    {
+      "title": "If ChatGPT were your wingman…",
+      "video_id": "E0NJyUy8kc8",
+      "channel_title": "OpenAI",
+      "description": "Under25.",
+      "published_at": "2025-06-23T18:02:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E0NJyUy8kc8/hqdefault.jpg"
+    },
     {
       "title": "The real ways college students use ChatGPT",
       "video_id": "jELUAaGqjSA",
@@ -59,30 +83,6 @@
       "description": "See how OpenAI engineer Nacho Soto can build faster with Codex, letting him start with pre-drafted PRs and kick off tasks from ...",
       "published_at": "2025-05-16T16:41:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wSAkqlzSZyw/hqdefault.jpg"
-    },
-    {
-      "title": "Fixing papercuts with Codex",
-      "video_id": "yHzfc1Ih7jw",
-      "channel_title": "OpenAI",
-      "description": "See how OpenAI engineer Max Johnson can finally get to fixing papercuts, rather than letting them accumulate into tech debt.",
-      "published_at": "2025-05-16T16:41:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yHzfc1Ih7jw/hqdefault.jpg"
-    },
-    {
-      "title": "On call with Codex",
-      "video_id": "9nT_t9pZHg8",
-      "channel_title": "OpenAI",
-      "description": "See how OpenAI engineer Calvin French-Owen uses Codex when he's on call to triage issues and prioritize bug fixes, to help him ...",
-      "published_at": "2025-05-16T16:40:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9nT_t9pZHg8/hqdefault.jpg"
-    },
-    {
-      "title": "A research preview of Codex in ChatGPT",
-      "video_id": "hhdpnbfH6NU",
-      "channel_title": "OpenAI",
-      "description": "Greg Brockman, Jerry Tworek, Joshua Ma, Hanson Wang, Thibault Sottiaux, Katy Shi, and Andrey Mishchenko introduce and ...",
-      "published_at": "2025-05-16T15:30:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hhdpnbfH6NU/hqdefault.jpg"
     }
   ]
 }

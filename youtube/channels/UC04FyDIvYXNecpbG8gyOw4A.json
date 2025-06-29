@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-22T00:30:45.796168",
+  "fetched_at": "2025-06-29T00:31:27.236395",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Your personal AI. The new Meta AI app.",
+      "video_id": "jjwt-7Iov0k",
+      "channel_title": "Meta",
+      "description": "For whatever life throws at you. Get the new app today.",
+      "published_at": "2025-06-24T13:32:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jjwt-7Iov0k/hqdefault.jpg"
+    },
     {
       "title": "brb we’re going to be singing this all week",
       "video_id": "VRqkbZRD2C8",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-05-28T14:00:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_KXJI51GNC0/hqdefault.jpg"
-    },
-    {
-      "title": "Dog’s Day Out",
-      "video_id": "6M95wMZRSj4",
-      "channel_title": "Meta",
-      "description": "it's Larry's world, we're just living in it.",
-      "published_at": "2025-05-19T17:37:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6M95wMZRSj4/hqdefault.jpg"
     }
   ]
 }

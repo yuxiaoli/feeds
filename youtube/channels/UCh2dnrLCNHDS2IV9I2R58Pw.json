@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-22T00:31:41.019563",
+  "fetched_at": "2025-06-29T00:32:21.320916",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Humpback Shuttle,  2001 Space Odyssey",
+      "video_id": "ZCuUs_B6y2I",
+      "channel_title": "Hazegrayart",
+      "description": "Humpback Orbiter Space Shuttle Concept An undefined need for more payload bay volume inspired the thought that the lee side ...",
+      "published_at": "2025-06-28T02:04:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZCuUs_B6y2I/hqdefault.jpg"
+    },
     {
       "title": "Humpback Orbiter Space Shuttle Concept",
       "video_id": "DX7FtbMpIvQ",
@@ -75,14 +83,6 @@
       "description": "An early design concept sometimes referred to as the Bedpost Rocket the Kistler K-1 was a two-stage, fully reusable launch ...",
       "published_at": "2025-05-23T19:00:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3Jq3RTQCbVM/hqdefault.jpg"
-    },
-    {
-      "title": "Kistler Fully Reusable Rocket Concept",
-      "video_id": "ZB-NHHw6bps",
-      "channel_title": "Hazegrayart",
-      "description": "An early design concept sometimes referred to as the Bedpost Rocket the Kistler K-1 was a two-stage, fully reusable launch ...",
-      "published_at": "2025-05-18T17:33:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZB-NHHw6bps/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-06-22T00:30:53.097735",
+  "fetched_at": "2025-06-29T00:31:34.189246",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Autonomous Tesla Delivery | Long Version",
+      "video_id": "lRRtW16GalE",
+      "channel_title": "Tesla",
+      "description": "Full drive in 1x speed This Tesla drove itself from Gigafactory Texas to its new owner's home ~30min away — crossing parking ...",
+      "published_at": "2025-06-28T14:16:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lRRtW16GalE/hqdefault.jpg"
+    },
+    {
+      "title": "World&#39;s First Autonomous Delivery of a Car | Tesla",
+      "video_id": "GU16hXSSGKs",
+      "channel_title": "Tesla",
+      "description": "This Tesla drove itself from Gigafactory Texas to its new owner's home ~30min away — crossing parking lots, highways & the city ...",
+      "published_at": "2025-06-28T04:48:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GU16hXSSGKs/hqdefault.jpg"
+    },
+    {
+      "title": "Rogue shopping carts don&#39;t stand a chance",
+      "video_id": "z4M1uSu4swQ",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-06-26T21:20:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z4M1uSu4swQ/hqdefault.jpg"
+    },
     {
       "title": "Model 3 Performance seats",
       "video_id": "alVeBDFo0sk",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2025-05-29T17:04:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NHRj2hUHJmI/hqdefault.jpg"
-    },
-    {
-      "title": "Highrider to lowrider",
-      "video_id": "VLLLGijAYYE",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-05-23T17:05:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VLLLGijAYYE/hqdefault.jpg"
-    },
-    {
-      "title": "Seat dance on the new Model Y",
-      "video_id": "iWiYy04xnDk",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-05-22T23:01:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iWiYy04xnDk/hqdefault.jpg"
-    },
-    {
-      "title": "Things you’ll never pay for again",
-      "video_id": "ETSRdsgzy74",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-05-19T18:20:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ETSRdsgzy74/hqdefault.jpg"
     }
   ]
 }

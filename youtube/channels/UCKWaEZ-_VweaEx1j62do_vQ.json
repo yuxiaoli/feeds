@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2025-06-22T00:31:12.251588",
+  "fetched_at": "2025-06-29T00:31:52.897784",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Why Chatbots Spiral?",
-      "video_id": "A9eYnT4LnAo",
+      "title": "Your brain on ChatGPT, human-like AI for safer AVs, and AI-generated ads",
+      "video_id": "brrJRoqjVY4",
       "channel_title": "IBM Technology",
-      "description": "Reinforcement learning trains AI chatbots to go all in—for better or weirder.",
-      "published_at": "2025-06-21T11:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/A9eYnT4LnAo/hqdefault.jpg"
+      "description": "Subscribe for AI updates → https://ibm.biz/Bdnkrx In episode 61 of Mixture of Experts, host Tim Hwang is joined by Kaoutar El ...",
+      "published_at": "2025-06-27T10:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/brrJRoqjVY4/hqdefault.jpg"
+    },
+    {
+      "title": "How will AI Agents Manage Identity &amp; Build Trust in Complex Systems",
+      "video_id": "wiU7VEvi1LM",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-06-25T11:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wiU7VEvi1LM/hqdefault.jpg"
+    },
+    {
+      "title": "AI vs Human Thinking: How Large Language Models Really Work",
+      "video_id": "-ovM0daP6bw",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-06-23T13:43:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-ovM0daP6bw/hqdefault.jpg"
     },
     {
       "title": "Impact of AI on jobs, Scale AI fallout and chatbot conspiracies",
@@ -19,30 +35,6 @@
       "description": "Subscribe for AI updates → https://ibm.biz/Bdnkrx Could AI take your job? In episode 60 of Mixture of Experts, host Tim Hwang is ...",
       "published_at": "2025-06-20T10:00:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SuDcg-lg5So/hqdefault.jpg"
-    },
-    {
-      "title": "Good, Fast, Cheap: Balancing Software Project Trade-Offs",
-      "video_id": "FTTRzy9VQnA",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Deployment Professional - Security QRadar? Register now and use code IBMTechYT20 for 20% off ...",
-      "published_at": "2025-06-19T11:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FTTRzy9VQnA/hqdefault.jpg"
-    },
-    {
-      "title": "Sycophantic AI: Why Accuracy Matters",
-      "video_id": "ujFqaZSguto",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI Alignment here → https://ibm.biz/Bdn3Aq Sycophantic AI prioritizes flattery over accuracy, disrupting ...",
-      "published_at": "2025-06-18T17:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ujFqaZSguto/hqdefault.jpg"
-    },
-    {
-      "title": "What is AI Search? The Evolution from Keywords to Vector Search &amp; RAG",
-      "video_id": "iVUMuC7OzUI",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of ...",
-      "published_at": "2025-06-16T11:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iVUMuC7OzUI/hqdefault.jpg"
     },
     {
       "title": "AI Research Agents in Action",
@@ -83,6 +75,14 @@
       "description": "Learn more here → https://ibm.biz/BdnHGF Discover how hardware capabilities enable the matrix math behind large language ...",
       "published_at": "2025-04-15T20:29:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ooCwp6IGi3Q/hqdefault.jpg"
+    },
+    {
+      "title": "What is LLMJacking? The Hidden Cloud Security Threat of AI Models",
+      "video_id": "dibZ1itSvM4",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Administrator - Cloud Pak for Security? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-04-09T11:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dibZ1itSvM4/hqdefault.jpg"
     }
   ]
 }

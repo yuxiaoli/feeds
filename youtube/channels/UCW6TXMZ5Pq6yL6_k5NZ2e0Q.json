@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-22T00:31:25.230148",
+  "fetched_at": "2025-06-29T00:32:05.359130",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "Covariance Explained ← Probability &amp; Statistics",
+      "video_id": "ATfDsdlze3E",
+      "channel_title": "Socratica",
+      "description": "Connect with us on PATREON https://www.patreon.com/socratica Covariance measures how two variables ...",
+      "published_at": "2025-06-23T10:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ATfDsdlze3E/hqdefault.jpg"
+    },
     {
       "title": "What are Hedge Funds? 📈 Intro for Aspiring Quants",
       "video_id": "eLU77gPIK4E",
@@ -75,14 +83,6 @@
       "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
       "published_at": "2024-08-27T11:00:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eWhcUiMzUGI/hqdefault.jpg"
-    },
-    {
-      "title": "CREDIT Cards 💳 Pros &amp; Cons - Personal Finance",
-      "video_id": "eLWIRLRpqRk",
-      "channel_title": "Socratica",
-      "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
-      "published_at": "2024-08-21T07:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eLWIRLRpqRk/hqdefault.jpg"
     }
   ]
 }

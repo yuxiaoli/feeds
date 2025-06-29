@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-22T00:31:34.708395",
+  "fetched_at": "2025-06-29T00:32:15.155867",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "New course! Enroll in &quot;ACP: Agent Communication Protocol&quot;",
+      "video_id": "B1ORNlS76lE",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4kRqOj7 Introducing ACP: Agent Communication Protocol, a short course built in partnership with IBM ...",
+      "published_at": "2025-06-25T14:17:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B1ORNlS76lE/hqdefault.jpg"
+    },
     {
       "title": "New course with Meta! Enroll in &quot;Building with Llama 4&quot; 🦙",
       "video_id": "86OuivQ-q58",
@@ -75,14 +83,6 @@
       "description": "Learn more: https://bit.ly/3FLpRcN We've teamed up with DotTxt to bring you a new short course: Getting Structured LLM Output, ...",
       "published_at": "2025-04-02T14:08:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qUt0-B8s1vE/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 | Bilge Yücel: Building and Deploying Agentic Workflows with Haystack",
-      "video_id": "tKyvkU69Ers",
-      "channel_title": "DeepLearningAI",
-      "description": "Building an AI agent is exciting—but taking it from prototype to production requires more than just an LLM. In this talk, Bilge Yücel, ...",
-      "published_at": "2025-03-27T19:12:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tKyvkU69Ers/hqdefault.jpg"
     }
   ]
 }

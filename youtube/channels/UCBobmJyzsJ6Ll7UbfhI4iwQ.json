@@ -1,40 +1,48 @@
 {
-  "fetched_at": "2025-06-22T00:30:59.500445",
+  "fetched_at": "2025-06-29T00:31:40.623075",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 4,
+  "count": 5,
   "videos": [
     {
-      "title": "to a T | Game Profile | Unreal Engine",
-      "video_id": "KPoqlj-eO4g",
+      "title": "Making the World of &#39;Echoes of the End&#39; | Inside Unreal",
+      "video_id": "CFSjV7fBS9g",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video and find out how Keita Takahashi used UE5 to create an episodic adventure game about a teenager who is stuck ...",
-      "published_at": "2025-06-20T13:59:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KPoqlj-eO4g/hqdefault.jpg"
+      "description": "Come join us as we chat with some of the incredible team at Myrkur Games to discuss the process of building the world for their ...",
+      "published_at": "2025-06-27T20:05:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CFSjV7fBS9g/hqdefault.jpg"
     },
     {
-      "title": "Motion Design in Unreal Engine, Episode 02: Cloners",
-      "video_id": "nuIQQJZRg2U",
+      "title": "News &amp; Community Spotlight | June 27th, 2025",
+      "video_id": "eSqIt_BOIe8",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) explores the ...",
-      "published_at": "2025-06-20T01:30:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nuIQQJZRg2U/hqdefault.jpg"
+      "description": "News: New Templates 5.6 ...",
+      "published_at": "2025-06-27T15:32:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eSqIt_BOIe8/hqdefault.jpg"
     },
     {
-      "title": "Motion Design in Unreal Engine, Episode 01: Setup &amp; Preferences",
-      "video_id": "lYj-XG6XHxs",
+      "title": "Motion Design in Unreal Engine, Episode 03: Text",
+      "video_id": "fOr7lBNhjt4",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) demonstrates how ...",
-      "published_at": "2025-06-19T19:14:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lYj-XG6XHxs/hqdefault.jpg"
+      "description": "Watch this video from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) explores how to ...",
+      "published_at": "2025-06-26T21:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fOr7lBNhjt4/hqdefault.jpg"
     },
     {
-      "title": "Creating In Fortnite I LEGO® Brick Editor",
-      "video_id": "kc7HiyisD4s",
+      "title": "Exploring the Parrot Game Sample | Inside Unreal",
+      "video_id": "G8GrRA-8BHA",
       "channel_title": "Unreal Engine",
-      "description": "Event Info: Join us for an exciting session where we'll dive deep into the latest Fortnite Creative and Unreal Editor for Fortnite ...",
-      "published_at": "2025-06-18T20:24:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kc7HiyisD4s/hqdefault_live.jpg"
+      "description": "Want a practical and fun way to learn game development in Unreal Engine if you're coming from Unity experience? This week ...",
+      "published_at": "2025-06-26T20:02:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G8GrRA-8BHA/hqdefault.jpg"
+    },
+    {
+      "title": "Let&#39;s Chat IP Program w/ DirectingPete",
+      "video_id": "3xDzj8XyTR4",
+      "channel_title": "Unreal Engine",
+      "description": "This month we're chatting all about how to bring existing IP into the Fortnite Ecosystem by building experiences through our IP ...",
+      "published_at": "2025-06-26T16:39:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3xDzj8XyTR4/hqdefault.jpg"
     }
   ]
 }

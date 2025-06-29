@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-22T00:31:22.126900",
+  "fetched_at": "2025-06-29T00:32:02.318399",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Introducing Code Visualizer: Learn to Code with Visuals",
+      "video_id": "c6nr9T7aoP0",
+      "channel_title": "Programiz",
+      "description": "Ever written code that should work... but doesn't? With Code Visualizer, you can watch your code run line by line and see exactly ...",
+      "published_at": "2025-06-26T12:15:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c6nr9T7aoP0/hqdefault.jpg"
+    },
     {
       "title": "Why use Ask Programiz instead of AI? #shorts",
       "video_id": "PBm5d07HY_k",
@@ -75,14 +83,6 @@
       "description": "Learn to code from scratch and challenge your skills this summer. We have launched #ProgramizSummerChallenge to make your ...",
       "published_at": "2023-06-12T10:15:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3mXk-w7_-Bk/hqdefault.jpg"
-    },
-    {
-      "title": "Meet #sensAI - your personal programming mentor #shorts",
-      "video_id": "XimOqC5yNbc",
-      "channel_title": "Programiz",
-      "description": "Meet #sensAI - your personal programming mentor! With sensAI, you'll have 24/7 guidance in your coding journey. Find errors ...",
-      "published_at": "2023-05-26T05:46:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XimOqC5yNbc/hqdefault.jpg"
     }
   ]
 }

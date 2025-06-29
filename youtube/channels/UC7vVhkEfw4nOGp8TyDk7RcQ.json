@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-06-22T00:30:55.477463",
+  "fetched_at": "2025-06-29T00:31:36.495089",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
@@ -53,6 +53,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/dFObux6mfTc/hqdefault.jpg"
     },
     {
+      "title": "Stretch at Gap | Boston Dynamics",
+      "video_id": "_dhwRYdZs9w",
+      "channel_title": "Boston Dynamics",
+      "description": "By having Stretch take on the physically demanding task of unloading trailers stacked floor to ceiling with boxes, Gap Inc has ...",
+      "published_at": "2025-03-26T14:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_dhwRYdZs9w/hqdefault.jpg"
+    },
+    {
       "title": "Breakdancin’ | Boston Dynamics &amp; RAI Institute",
       "video_id": "omwFoOReSFI",
       "channel_title": "Boston Dynamics",
@@ -75,14 +83,6 @@
       "description": "Last year, we unveiled the new Atlas—faster, stronger, more compact, and less messy. We're designing the world's most dynamic ...",
       "published_at": "2025-03-05T14:07:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/v8UaiRgqvlc/hqdefault.jpg"
-    },
-    {
-      "title": "Spot at Ash Grove Cement | Boston Dynamics",
-      "video_id": "4s7_ng-pSow",
-      "channel_title": "Boston Dynamics",
-      "description": "Ash Grove Cement, a CRH Company, has employed Spot to help boost efficiency and safety during site inspections in their ...",
-      "published_at": "2025-02-25T14:40:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4s7_ng-pSow/hqdefault.jpg"
     }
   ]
 }

@@ -1,32 +1,16 @@
 {
-  "fetched_at": "2025-06-22T00:31:05.777498",
+  "fetched_at": "2025-06-29T00:31:46.798908",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "AI is changing the rules of business, see how to adapt from a Harvard Business School professor",
-      "video_id": "Gol8PECt-To",
+      "title": "Why Satya Nadella fell in love with coding and poetry #podcast #satyanadella",
+      "video_id": "NqOTGljoOYU",
       "channel_title": "Microsoft",
-      "description": "A core component of every company's value proposition is its unique expertise. “But AI is lowering the cost of expertise,” says ...",
-      "published_at": "2025-06-18T15:29:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gol8PECt-To/hqdefault.jpg"
-    },
-    {
-      "title": "Lead smarter with AI #podcast #harvardbusinessschool",
-      "video_id": "r7lAjjzx4LE",
-      "channel_title": "Microsoft",
-      "description": "techpodcast #microsoft #leadership #ai A core component of every company's value proposition is its unique expertise. “But AI is ...",
-      "published_at": "2025-06-18T15:29:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r7lAjjzx4LE/hqdefault.jpg"
-    },
-    {
-      "title": "Changing how doctors diagnose diseases with AI | Microsoft Azure and NVIDIA",
-      "video_id": "yKPu8n42LPs",
-      "channel_title": "Microsoft",
-      "description": "Introducing Catalyst: a new docuseries about the future of AI that follows groundbreaking global companies that are changing the ...",
-      "published_at": "2025-06-17T20:59:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yKPu8n42LPs/hqdefault.jpg"
+      "description": "microsoft #microsoftceo #coding #developer #engineers #poetry Satya Nadella shares his journey from his early days playing ...",
+      "published_at": "2025-06-26T17:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NqOTGljoOYU/hqdefault.jpg"
     },
     {
       "title": "Students are learning to read with the help of AI-powered Microsoft Reading Coach",
@@ -83,6 +67,22 @@
       "description": "Refik Anadol, an internationally renowned media artist and director, joins Behind the Tech to discuss his journey from a childhood ...",
       "published_at": "2024-11-12T17:00:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/R93cfvrdGFQ/hqdefault.jpg"
+    },
+    {
+      "title": "BWT Alpine F1 Team&#39;s Everyday AI Companion | Microsoft Copilot",
+      "video_id": "DA2_e-qB9dQ",
+      "channel_title": "Microsoft",
+      "description": "When team driver Pierre Gasly forgets a birthday, Microsoft Copilot has his back. Learn more: ...",
+      "published_at": "2024-06-03T15:30:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DA2_e-qB9dQ/hqdefault.jpg"
+    },
+    {
+      "title": "Infrastructure | Satya Nadella at Microsoft Build 2024",
+      "video_id": "2G97BW32pWg",
+      "channel_title": "Microsoft",
+      "description": "Satya Nadella at Microsoft Build 2024 - Satya Nadella talks about Microsoft's innovation in Infrastructure Subscribe to Microsoft on ...",
+      "published_at": "2024-05-22T00:05:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2G97BW32pWg/hqdefault.jpg"
     }
   ]
 }

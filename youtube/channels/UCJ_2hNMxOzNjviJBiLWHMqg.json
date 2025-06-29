@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-22T00:31:08.193789",
+  "fetched_at": "2025-06-29T00:31:49.143212",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Why The Most Valuable Time is The Least Profitable (in Architecture)",
+      "video_id": "iME_95LcBBM",
+      "channel_title": "DamiLee",
+      "description": "Check out Snaptrude here!",
+      "published_at": "2025-06-25T19:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iME_95LcBBM/hqdefault.jpg"
+    },
+    {
+      "title": "The largest underground city in the world 😳",
+      "video_id": "vgXh__KjHCU",
+      "channel_title": "DamiLee",
+      "description": "In 1963, a farmer accidentally stumbled upon the largest underground city in the world. Derinkuyu was a marvel of ancient ...",
+      "published_at": "2025-06-24T19:03:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vgXh__KjHCU/hqdefault.jpg"
+    },
     {
       "title": "The Tallest Cemetery in the World",
       "video_id": "vqfxjEtiZLU",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-05-22T15:31:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/QnMLX3j8SGk/hqdefault.jpg"
-    },
-    {
-      "title": "What’s more important in a burial—tradition or practicality? 🤔",
-      "video_id": "ZWFicbX4hug",
-      "channel_title": "DamiLee",
-      "description": "",
-      "published_at": "2025-05-18T15:31:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZWFicbX4hug/hqdefault.jpg"
-    },
-    {
-      "title": "Would you find comfort in this columbarium?",
-      "video_id": "58tA6lmqv10",
-      "channel_title": "DamiLee",
-      "description": "This is one of the solutions to dealing with death in dense cities. But do we lose anything when we lose the physical anchors that ...",
-      "published_at": "2025-05-09T15:31:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/58tA6lmqv10/hqdefault.jpg"
     }
   ]
 }

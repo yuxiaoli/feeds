@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2025-06-22T00:31:31.562621",
+  "fetched_at": "2025-06-29T00:32:12.020561",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 1,
+  "count": 3,
   "videos": [
     {
-      "title": "Summer daydreams #shorts",
-      "video_id": "8UeNxy1UF1c",
+      "title": "Parked in paradise #shorts",
+      "video_id": "4fQJIAEuQN8",
       "channel_title": "Porsche",
-      "description": "It's the season to take things slow. @thetargadriver.",
-      "published_at": "2025-06-19T18:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8UeNxy1UF1c/hqdefault.jpg"
+      "description": "Where the road ends and beauty begins. @ra.visualzz.",
+      "published_at": "2025-06-26T18:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4fQJIAEuQN8/hqdefault.jpg"
+    },
+    {
+      "title": "How to use the drive mode switch in the all-electric Macan | Tutorial | Spot On",
+      "video_id": "wOgt8Wit7u8",
+      "channel_title": "Porsche",
+      "description": "Join Sabine as she explains drive modes, the drive mode switch and how you can customise your drive modes in the all-electric ...",
+      "published_at": "2025-06-25T16:07:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wOgt8Wit7u8/hqdefault.jpg"
+    },
+    {
+      "title": "Porsche Italia x Ferragamo: the story behind Blusogno",
+      "video_id": "hO05F_S2cLw",
+      "channel_title": "Porsche",
+      "description": "In celebration of Porsche Italia's 40th anniversary, discover how a beautiful Ferragamo colour became the inspiration for a new ...",
+      "published_at": "2025-06-23T11:07:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hO05F_S2cLw/hqdefault.jpg"
     }
   ]
 }

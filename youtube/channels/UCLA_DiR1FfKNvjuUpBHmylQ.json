@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-22T00:31:13.760285",
+  "fetched_at": "2025-06-29T00:31:54.394425",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 2,
+  "count": 4,
   "videos": [
+    {
+      "title": "Axiom Mission 4 Arrival and Welcome Remarks",
+      "video_id": "7eCWkePf9sk",
+      "channel_title": "NASA",
+      "description": "Following the successful launch of Axiom Mission 4 from NASA's Kennedy Space Center on Wednesday, June 25, its four crew ...",
+      "published_at": "2025-06-26T14:18:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7eCWkePf9sk/hqdefault.jpg"
+    },
+    {
+      "title": "Axiom Mission 4 Launches to the International Space Station",
+      "video_id": "_4TT_1e6rkM",
+      "channel_title": "NASA",
+      "description": "Axiom Mission 4, set to lift off at 2:31 a.m. EDT (0631 UTC) on Wednesday, June 25, is Axiom's fourth private astronaut mission to ...",
+      "published_at": "2025-06-25T06:52:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_4TT_1e6rkM/hqdefault.jpg"
+    },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
       "video_id": "DIgkvm2nmHc",

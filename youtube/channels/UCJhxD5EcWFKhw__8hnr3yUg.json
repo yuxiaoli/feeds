@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-22T00:31:09.197362",
+  "fetched_at": "2025-06-29T00:31:49.930055",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "不改源代码，我也能给你加点功能！",
+      "video_id": "yoRgehrLrmc",
+      "channel_title": "码农高天",
+      "description": "这期视频我来介绍一下我这几周一直在做的一个库，叫做dowhen。这个库可以让你非常方便地在某一行代码运行之前去插入 ...",
+      "published_at": "2025-06-27T10:30:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yoRgehrLrmc/hqdefault.jpg"
+    },
     {
       "title": "Python3.14正式支持Free Threaded版本！",
       "video_id": "G5lpLInBCmk",
@@ -75,14 +83,6 @@
       "description": "这期视频来聊一下pyi文件，它是干什么的，为什么会出现，以及我们什么时候会用到它。",
       "published_at": "2025-04-26T03:00:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cuFpTXaZP8o/hqdefault.jpg"
-    },
-    {
-      "title": "安全漏洞长啥样？黑客每天就研究这个么？",
-      "video_id": "P70WnfbDWzA",
-      "channel_title": "码农高天",
-      "description": "coredumpy的视频出来的第二天就有人找到了一个安全漏洞？不要紧，我们正好用这个例子来和大家讲一下黑客每天都在干些什么， ...",
-      "published_at": "2025-04-11T10:30:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/P70WnfbDWzA/hqdefault.jpg"
     }
   ]
 }

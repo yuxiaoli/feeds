@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-06-22T00:31:10.741116",
+  "fetched_at": "2025-06-29T00:31:51.391085",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Warp x Anthropic: Supercharge your development with Warp &amp; Claude 4",
+      "video_id": "GBe0X14E0GM",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-06-25T21:51:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GBe0X14E0GM/hqdefault_live.jpg"
+    },
+    {
+      "title": "Introducing Warp 2.0: The Agentic Development Environment",
+      "video_id": "k9BRhSbVSpI",
+      "channel_title": "Warp",
+      "description": "Try Warp now for FREE https://www.warp.dev AI is completely transforming how developers write code. The tool that they need ...",
+      "published_at": "2025-06-24T14:58:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k9BRhSbVSpI/hqdefault.jpg"
+    },
+    {
+      "title": "The Future of Development: Introducing Warp 2.0",
+      "video_id": "CDXqMd3klvo",
+      "channel_title": "Warp",
+      "description": "AI is fundamentally changing how developers write code and ship software. This shift calls for a new interface — one built for ...",
+      "published_at": "2025-06-24T14:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CDXqMd3klvo/hqdefault.jpg"
+    },
     {
       "title": "Coding by Prompt: Father&#39;s day edition",
       "video_id": "3rf4ipZzRFg",
@@ -59,30 +83,6 @@
       "description": "Learn how to code by prompt with Warp!",
       "published_at": "2025-04-23T17:14:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ceDXjd8OO04/hqdefault.jpg"
-    },
-    {
-      "title": "Ep.2 —  I Love You | Fixing failing tests",
-      "video_id": "UCClh28snS8",
-      "channel_title": "Warp",
-      "description": "As the rest of the team clocks out, Kelly stays behind, buried in failing tests and unfinished tickets. In the quiet, she finally asks for ...",
-      "published_at": "2025-04-23T14:56:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UCClh28snS8/hqdefault.jpg"
-    },
-    {
-      "title": "Ep.1 — Holy S^&amp;% (The New Guy) | Fixing a broken dev environment",
-      "video_id": "StMShnRdqnA",
-      "channel_title": "Warp",
-      "description": "Three days from launch and the product doesn't build, no one agrees on what it even does, and the team is already stretched thin.",
-      "published_at": "2025-04-16T16:07:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/StMShnRdqnA/hqdefault.jpg"
-    },
-    {
-      "title": "Coding a Lovable/Bolt Clone with Warp",
-      "video_id": "VP03wHzaMJc",
-      "channel_title": "Warp",
-      "description": "Learn how to code by prompt with Warp.",
-      "published_at": "2025-04-11T06:48:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VP03wHzaMJc/hqdefault.jpg"
     }
   ]
 }

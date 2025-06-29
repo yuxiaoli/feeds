@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-22T00:31:16.351303",
+  "fetched_at": "2025-06-29T00:31:56.683785",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "科學實驗如何挑戰自我決定【23 分鐘精簡版】",
+      "video_id": "lsjSVZWriwc",
+      "channel_title": "科學漫聊",
+      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
+      "published_at": "2025-06-25T03:27:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lsjSVZWriwc/hqdefault.jpg"
+    },
+    {
+      "title": "决策先于意识？揭秘大脑“预演”机制 #深度自我覺察",
+      "video_id": "dyHM4l3u9pQ",
+      "channel_title": "科學漫聊",
+      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
+      "published_at": "2025-06-24T08:26:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dyHM4l3u9pQ/hqdefault.jpg"
+    },
     {
       "title": "自由意志崩塌：科學實驗如何挑戰「自我決定」",
       "video_id": "X102eAtGVGE",
@@ -67,22 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-03-18T14:29:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AE1sxprhuoQ/hqdefault.jpg"
-    },
-    {
-      "title": "薛定谔不仅懂量子力学，在生物学领域也超厉害！ #science #星光體 #universe",
-      "video_id": "ffWD21SFPL4",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-03-18T14:29:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ffWD21SFPL4/hqdefault.jpg"
-    },
-    {
-      "title": "薛定谔眼中基因的稳定性与突变的平衡",
-      "video_id": "7RU0qiX8_iU",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-03-18T14:29:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7RU0qiX8_iU/hqdefault.jpg"
     }
   ]
 }

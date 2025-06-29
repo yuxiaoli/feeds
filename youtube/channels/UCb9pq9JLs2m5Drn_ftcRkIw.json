@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-22T00:31:32.332748",
+  "fetched_at": "2025-06-29T00:32:12.807712",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "كيف اسوي مصل اب How to muscle up",
+      "video_id": "10EihtnFRxo",
+      "channel_title": "Hemo Calisthenics",
+      "description": "حاب تبدأ رياضة الكاليسثينكس ؟ ‏أول شي تشوف هذا الفيديو عشان تتعرف على رياضة الكاليسثينكس https://youtu.be/iNIFmVe9mkk ...",
+      "published_at": "2025-06-27T10:10:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/10EihtnFRxo/hqdefault.jpg"
+    },
     {
       "title": "كيف انتقل من الهاندستاند على الجدار للهاندستاند الحر و كيف نزيد مدة الثبات",
       "video_id": "2AZaLK3yCGY",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-04-08T09:09:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XkPZ1xS_yDM/hqdefault.jpg"
-    },
-    {
-      "title": "كيف تكون وضعية الأرجل في تمرين الهاندستاند بوش اب",
-      "video_id": "9sIJW0XZTU8",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-04-07T17:46:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9sIJW0XZTU8/hqdefault.jpg"
     }
   ]
 }
