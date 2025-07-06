@@ -1,48 +1,16 @@
 {
-  "fetched_at": "2025-06-29T00:31:40.623075",
+  "fetched_at": "2025-07-06T00:31:15.361421",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 5,
+  "count": 1,
   "videos": [
     {
-      "title": "Making the World of &#39;Echoes of the End&#39; | Inside Unreal",
-      "video_id": "CFSjV7fBS9g",
+      "title": "RealityScan 2.0: Quality Analysis",
+      "video_id": "Ehobo7UmO1Y",
       "channel_title": "Unreal Engine",
-      "description": "Come join us as we chat with some of the incredible team at Myrkur Games to discuss the process of building the world for their ...",
-      "published_at": "2025-06-27T20:05:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CFSjV7fBS9g/hqdefault.jpg"
-    },
-    {
-      "title": "News &amp; Community Spotlight | June 27th, 2025",
-      "video_id": "eSqIt_BOIe8",
-      "channel_title": "Unreal Engine",
-      "description": "News: New Templates 5.6 ...",
-      "published_at": "2025-06-27T15:32:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eSqIt_BOIe8/hqdefault.jpg"
-    },
-    {
-      "title": "Motion Design in Unreal Engine, Episode 03: Text",
-      "video_id": "fOr7lBNhjt4",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) explores how to ...",
-      "published_at": "2025-06-26T21:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fOr7lBNhjt4/hqdefault.jpg"
-    },
-    {
-      "title": "Exploring the Parrot Game Sample | Inside Unreal",
-      "video_id": "G8GrRA-8BHA",
-      "channel_title": "Unreal Engine",
-      "description": "Want a practical and fun way to learn game development in Unreal Engine if you're coming from Unity experience? This week ...",
-      "published_at": "2025-06-26T20:02:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G8GrRA-8BHA/hqdefault.jpg"
-    },
-    {
-      "title": "Let&#39;s Chat IP Program w/ DirectingPete",
-      "video_id": "3xDzj8XyTR4",
-      "channel_title": "Unreal Engine",
-      "description": "This month we're chatting all about how to bring existing IP into the Fortnite Ecosystem by building experiences through our IP ...",
-      "published_at": "2025-06-26T16:39:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3xDzj8XyTR4/hqdefault.jpg"
+      "description": "In order to get the best out of your data, you'll need to evaluate its quality RealityScan 2.0 gives you access to the Quality ...",
+      "published_at": "2025-07-04T14:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ehobo7UmO1Y/hqdefault.jpg"
     }
   ]
 }

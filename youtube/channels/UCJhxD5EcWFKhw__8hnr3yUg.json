@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-29T00:31:49.930055",
+  "fetched_at": "2025-07-06T00:31:24.691427",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "35岁这年，我选择从微软辞职，去环游世界",
+      "video_id": "k8YUF--Q2qQ",
+      "channel_title": "码农高天",
+      "description": "我要辞职去环游世界啦，虽然只有三个月，但还是很期待呢！",
+      "published_at": "2025-07-04T10:30:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k8YUF--Q2qQ/hqdefault.jpg"
+    },
     {
       "title": "不改源代码，我也能给你加点功能！",
       "video_id": "yoRgehrLrmc",
@@ -75,14 +83,6 @@
       "description": "这期视频我们来详细介绍一下python每个版本的生命周期，让大家对版本发布这个事情有一个更清晰的概念。",
       "published_at": "2025-05-09T10:30:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wgfZpqJqX9Y/hqdefault.jpg"
-    },
-    {
-      "title": "【python】pyi文件是干啥的？函数实现怎么是空的？",
-      "video_id": "cuFpTXaZP8o",
-      "channel_title": "码农高天",
-      "description": "这期视频来聊一下pyi文件，它是干什么的，为什么会出现，以及我们什么时候会用到它。",
-      "published_at": "2025-04-26T03:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cuFpTXaZP8o/hqdefault.jpg"
     }
   ]
 }

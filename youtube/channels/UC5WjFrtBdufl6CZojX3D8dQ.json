@@ -1,11 +1,35 @@
 {
-  "fetched_at": "2025-06-29T00:31:34.189246",
+  "fetched_at": "2025-07-06T00:31:09.309334",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
     {
-      "title": "Autonomous Tesla Delivery | Long Version",
+      "title": "Why Drivers Love FSD",
+      "video_id": "Z-wqyqgQeAI",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-07-03T20:47:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z-wqyqgQeAI/hqdefault.jpg"
+    },
+    {
+      "title": "Why Drivers Love FSD | Tesla",
+      "video_id": "eCrU0EdIiO4",
+      "channel_title": "Tesla",
+      "description": "FSD Supervised gives you back time & energy, all while making the roads safer for you & others. We asked Tesla owners to share ...",
+      "published_at": "2025-07-03T17:07:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eCrU0EdIiO4/hqdefault.jpg"
+    },
+    {
+      "title": "Tesla Delivers Itself to New Owner",
+      "video_id": "ZvBJ-MF0iX0",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-06-30T17:32:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZvBJ-MF0iX0/hqdefault.jpg"
+    },
+    {
+      "title": "Autonomous Tesla Delivery | Full Drive",
       "video_id": "lRRtW16GalE",
       "channel_title": "Tesla",
       "description": "Full drive in 1x speed This Tesla drove itself from Gigafactory Texas to its new owner's home ~30min away — crossing parking ...",
@@ -13,10 +37,10 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lRRtW16GalE/hqdefault.jpg"
     },
     {
-      "title": "World&#39;s First Autonomous Delivery of a Car | Tesla",
+      "title": "Tesla Delivers Itself to New Owner",
       "video_id": "GU16hXSSGKs",
       "channel_title": "Tesla",
-      "description": "This Tesla drove itself from Gigafactory Texas to its new owner's home ~30min away — crossing parking lots, highways & the city ...",
+      "description": "The world's first autonomous delivery of a car! This Model Y drove itself from Gigafactory Texas to its new owner's home ~30min ...",
       "published_at": "2025-06-28T04:48:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GU16hXSSGKs/hqdefault.jpg"
     },
@@ -59,30 +83,6 @@
       "description": "Model S & X are now even better – launching this week in the US Design yours Model S – https://www.tesla.com/models ...",
       "published_at": "2025-06-13T19:41:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/k0oMa2jWXaM/hqdefault.jpg"
-    },
-    {
-      "title": "Peace of Mind at Home | Powerwall &amp; Solar",
-      "video_id": "OHsv4xmTAxQ",
-      "channel_title": "Tesla",
-      "description": "From hurricanes to winter storms, Powerwall and Solar provide our customers and their families with seamless outage protection, ...",
-      "published_at": "2025-06-11T20:54:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OHsv4xmTAxQ/hqdefault.jpg"
-    },
-    {
-      "title": "TeslaVision | Create your own Tesla video",
-      "video_id": "tzVo5XQ8Xa4",
-      "channel_title": "Tesla",
-      "description": "TeslaVision rules & prizes → https://www.tesla.com/teslavision-contest Tesla owners & supporters have always been able to see ...",
-      "published_at": "2025-06-10T22:06:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tzVo5XQ8Xa4/hqdefault.jpg"
-    },
-    {
-      "title": "Model X doors open &amp; close automatically with a tap",
-      "video_id": "NHRj2hUHJmI",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-05-29T17:04:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NHRj2hUHJmI/hqdefault.jpg"
     }
   ]
 }

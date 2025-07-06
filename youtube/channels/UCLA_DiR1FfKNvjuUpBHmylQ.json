@@ -1,24 +1,32 @@
 {
-  "fetched_at": "2025-06-29T00:31:54.394425",
+  "fetched_at": "2025-07-06T00:31:29.089954",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 4,
+  "count": 5,
   "videos": [
     {
-      "title": "Axiom Mission 4 Arrival and Welcome Remarks",
-      "video_id": "7eCWkePf9sk",
+      "title": "Progress 92 Cargo Ship Docking",
+      "video_id": "gs1ic-neuWc",
       "channel_title": "NASA",
-      "description": "Following the successful launch of Axiom Mission 4 from NASA's Kennedy Space Center on Wednesday, June 25, its four crew ...",
-      "published_at": "2025-06-26T14:18:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7eCWkePf9sk/hqdefault.jpg"
+      "description": "After lifting off from Baikonur Cosmodrome in Kazakhstan on Thursday, July 3, a Roscosmos cargo spacecraft, delivering ...",
+      "published_at": "2025-07-05T21:37:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gs1ic-neuWc/hqdefault.jpg"
     },
     {
-      "title": "Axiom Mission 4 Launches to the International Space Station",
-      "video_id": "_4TT_1e6rkM",
+      "title": "Progress 92 Cargo Ship Launch",
+      "video_id": "1dmcRo4wp6E",
       "channel_title": "NASA",
-      "description": "Axiom Mission 4, set to lift off at 2:31 a.m. EDT (0631 UTC) on Wednesday, June 25, is Axiom's fourth private astronaut mission to ...",
-      "published_at": "2025-06-25T06:52:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_4TT_1e6rkM/hqdefault.jpg"
+      "description": "A Roscosmos cargo spacecraft, delivering approximately three tons of food, fuel, and supplies to the Expedition 73 crew aboard ...",
+      "published_at": "2025-07-03T19:49:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1dmcRo4wp6E/hqdefault.jpg"
+    },
+    {
+      "title": "NASA Astronauts Send Fourth of July Wishes From the International Space Station",
+      "video_id": "Rbymsx1N35k",
+      "channel_title": "NASA",
+      "description": "Aboard the International Space Station, NASA astronauts Nichole Ayers, Anne McClain, and Jonny Kim share a Fourth of July ...",
+      "published_at": "2025-07-03T15:43:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Rbymsx1N35k/hqdefault.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

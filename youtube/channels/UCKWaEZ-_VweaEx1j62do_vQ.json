@@ -1,40 +1,48 @@
 {
-  "fetched_at": "2025-06-29T00:31:52.897784",
+  "fetched_at": "2025-07-06T00:31:27.682023",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Your brain on ChatGPT, human-like AI for safer AVs, and AI-generated ads",
-      "video_id": "brrJRoqjVY4",
+      "title": "Anthropic’s Project Vend, computer science education and AI prompts in papers",
+      "video_id": "myIre7iONII",
       "channel_title": "IBM Technology",
-      "description": "Subscribe for AI updates → https://ibm.biz/Bdnkrx In episode 61 of Mixture of Experts, host Tim Hwang is joined by Kaoutar El ...",
-      "published_at": "2025-06-27T10:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/brrJRoqjVY4/hqdefault.jpg"
+      "description": "Subscribe for AI updates → https://ibm.biz/BdnWwx Will AI agents run all businesses? In episode 62 of Mixture of Experts, host ...",
+      "published_at": "2025-07-04T10:01:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/myIre7iONII/hqdefault.jpg"
     },
     {
-      "title": "How will AI Agents Manage Identity &amp; Build Trust in Complex Systems",
-      "video_id": "wiU7VEvi1LM",
+      "title": "Waymo&#39;s AI Learns to Drive",
+      "video_id": "wd2FAz4v8iw",
+      "channel_title": "IBM Technology",
+      "description": "Listen how Waymo might be using reinforcement learning and generative AI to adapt self-driving cars to local environments, like ...",
+      "published_at": "2025-07-03T17:41:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wd2FAz4v8iw/hqdefault.jpg"
+    },
+    {
+      "title": "ETL vs ELT: Powering Data Pipelines for AI &amp; Analytics",
+      "video_id": "KIv2Na2-u24",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Administrator - Security QRadar? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-07-03T11:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KIv2Na2-u24/hqdefault.jpg"
+    },
+    {
+      "title": "LLM Hacking Defense: Strategies for Secure AI",
+      "video_id": "y8iDGA4Y650",
       "channel_title": "IBM Technology",
       "description": "Ready to become a certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-06-25T11:01:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wiU7VEvi1LM/hqdefault.jpg"
+      "published_at": "2025-07-02T11:01:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y8iDGA4Y650/hqdefault.jpg"
     },
     {
-      "title": "AI vs Human Thinking: How Large Language Models Really Work",
-      "video_id": "-ovM0daP6bw",
+      "title": "How to Make AI More Accurate: Top Techniques for Reliable Results",
+      "video_id": "pNbU1vGkIK4",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-06-23T13:43:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-ovM0daP6bw/hqdefault.jpg"
-    },
-    {
-      "title": "Impact of AI on jobs, Scale AI fallout and chatbot conspiracies",
-      "video_id": "SuDcg-lg5So",
-      "channel_title": "IBM Technology",
-      "description": "Subscribe for AI updates → https://ibm.biz/Bdnkrx Could AI take your job? In episode 60 of Mixture of Experts, host Tim Hwang is ...",
-      "published_at": "2025-06-20T10:00:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SuDcg-lg5So/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-06-30T12:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pNbU1vGkIK4/hqdefault.jpg"
     },
     {
       "title": "AI Research Agents in Action",
@@ -75,14 +83,6 @@
       "description": "Learn more here → https://ibm.biz/BdnHGF Discover how hardware capabilities enable the matrix math behind large language ...",
       "published_at": "2025-04-15T20:29:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ooCwp6IGi3Q/hqdefault.jpg"
-    },
-    {
-      "title": "What is LLMJacking? The Hidden Cloud Security Threat of AI Models",
-      "video_id": "dibZ1itSvM4",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Administrator - Cloud Pak for Security? Register now and use code IBMTechYT20 for 20% off of your ...",
-      "published_at": "2025-04-09T11:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dibZ1itSvM4/hqdefault.jpg"
     }
   ]
 }

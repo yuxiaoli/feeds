@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-29T00:31:32.652778",
+  "fetched_at": "2025-07-06T00:31:07.838716",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "What’s cooler than an original EPCOT map? Nothing. The answer is nothing.",
+      "video_id": "eyMA8lUub38",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "imagineering #EPCOT #showmesomethingcool.",
+      "published_at": "2025-07-02T15:42:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eyMA8lUub38/hqdefault.jpg"
+    },
     {
       "title": "Keep an eye out fore these details at Winter Summerland Mini Golf at WDW⛳️ #disney #imagineering",
       "video_id": "j_qiizmHc48",
@@ -75,14 +83,6 @@
       "description": "Show lighting Imagineers used their skills to bring the ambiance of Hollywood to World Premiere at Disneyland Paris.",
       "published_at": "2025-05-19T16:00:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Yv9SM0opCSI/hqdefault.jpg"
-    },
-    {
-      "title": "There’s more than meets the eye in these EPCOT topiaries 👀🌿",
-      "video_id": "fu6fMaVa2sc",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "SevenDwarfs #ShowMeSomethingCool #EPCOT #Topiaries.",
-      "published_at": "2025-05-09T16:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fu6fMaVa2sc/hqdefault.jpg"
     }
   ]
 }

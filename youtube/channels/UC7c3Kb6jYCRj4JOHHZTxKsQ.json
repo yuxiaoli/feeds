@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-06-29T00:31:35.702560",
+  "fetched_at": "2025-07-06T00:31:10.829887",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Open Source Friday with Llmware.ai",
-      "video_id": "Wdl156_At9g",
+      "title": "GitHub Copilot Chat for VS Code is now open source",
+      "video_id": "U3jWIm_ksb4",
       "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday on June 27, 2025, featuring Namee and Darren Oberst from llmare.ai. Discover how LLMWare ...",
-      "published_at": "2025-06-28T06:06:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wdl156_At9g/hqdefault.jpg"
+      "description": "In a big win for open source, the GitHub Copilot Chat client for VS Code is now fully open source under the MIT license! You can ...",
+      "published_at": "2025-07-05T14:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U3jWIm_ksb4/hqdefault.jpg"
     },
     {
-      "title": "Linus Torvalds on why Git had to be fast: The performance story",
-      "video_id": "FSi150R5mJI",
+      "title": "Restream: Open Source Friday with Piotr Skalski: Exploring Supervision",
+      "video_id": "x5FoLwfEh4g",
       "channel_title": "GitHub",
-      "description": "For Linus Torvalds, the creation of Git was driven by one primary need: performance. In this clip, he explains his \"disdain\" for older ...",
-      "published_at": "2025-06-27T18:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FSi150R5mJI/hqdefault.jpg"
+      "description": "We're excited to announce our upcoming Open Source Friday livestream featuring Piotr Skalski (@SkalskiP), Open-Source Lead ...",
+      "published_at": "2025-07-05T06:35:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x5FoLwfEh4g/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR🇧🇷] Quinta do Patinho - Vamos construir com Copilot.",
-      "video_id": "K0s8NTXb8HY",
+      "title": "The Download: open source Copilot chat, personal robots &amp; reinvented BSOD",
+      "video_id": "F8632GJzgqk",
       "channel_title": "GitHub",
-      "description": "Brazilian Live Stream    ] Quinta do Patinho é uma live semanal descontraída com a Pachi, focada em explorações ao vivo de ...",
-      "published_at": "2025-06-27T08:56:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K0s8NTXb8HY/hqdefault.jpg"
+      "description": "Your weekly developer news roundup is here! This episode of The Download includes the open sourcing of the Copilot Chat ...",
+      "published_at": "2025-07-04T14:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F8632GJzgqk/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Let&#39;s build",
-      "video_id": "UXAbtYbxD_w",
+      "title": "Event in Spanish: Jueves de Quack",
+      "video_id": "AwTUxXl9Nyo",
+      "channel_title": "GitHub",
+      "description": "Esta semana con invitado especial Axel Garbiel Labruna, discutiremos herramientas de IA para desarrollo moderno.",
+      "published_at": "2025-07-04T08:37:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AwTUxXl9Nyo/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays - Building a party game",
+      "video_id": "RDwJWZ4X_LY",
       "channel_title": "GitHub",
       "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We'll take a look at ...",
-      "published_at": "2025-06-26T23:18:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UXAbtYbxD_w/hqdefault.jpg"
+      "published_at": "2025-07-04T07:08:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RDwJWZ4X_LY/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday Brasil com Ana Carolyne do Codaqui",
-      "video_id": "wy7khJTIv3w",
+      "title": "Rubber Duck Thursdays - Let&#39;s build with agents",
+      "video_id": "fWsj8caUPt0",
       "channel_title": "GitHub",
-      "description": "Open Source Friday Brasil com Ana Carolyne do Codaqui.",
-      "published_at": "2025-06-26T20:58:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wy7khJTIv3w/hqdefault_live.jpg"
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We'll take a look at ...",
+      "published_at": "2025-07-03T23:26:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fWsj8caUPt0/hqdefault.jpg"
     },
     {
-      "title": "Introducing the 2025 dev/core collection from the GitHub Shop",
-      "video_id": "AmY8kG4PR0w",
+      "title": "How open source and real-time data are used to fight wildfires",
+      "video_id": "nZioLmpXBWg",
       "channel_title": "GitHub",
-      "description": "The 2025 Dev Core collection has officially arrived! It's time to \"commit to comfort\" with our latest line of developer swag, optimized ...",
-      "published_at": "2025-06-26T18:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AmY8kG4PR0w/hqdefault.jpg"
+      "description": "With wildfires becoming a year-round threat, see how technology and collaboration are making a difference. This video highlights ...",
+      "published_at": "2025-07-03T14:01:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nZioLmpXBWg/hqdefault.jpg"
     },
     {
-      "title": "How 21 dependencies become 1,000: Understanding your software supply chain | GitHub Checkout",
-      "video_id": "gGQXIfLNmB0",
+      "title": "Event in Spanish: Jueves de Quack",
+      "video_id": "IpYbGAaiJT8",
       "channel_title": "GitHub",
-      "description": "Did you know that up to 97% of your application's code can come from open source dependencies? Securing the software supply ...",
-      "published_at": "2025-06-26T16:18:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gGQXIfLNmB0/hqdefault.jpg"
+      "description": "Con invitado especial Sergio Valverde. Únete a nuestra sesión de trabajo colaborativo donde desarrolladores de todo el mundo ...",
+      "published_at": "2025-07-02T21:27:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IpYbGAaiJT8/hqdefault_live.jpg"
     },
     {
-      "title": "How difficult was Git in its first week? Linus Torvalds explains",
-      "video_id": "oyWGcg0t0EA",
+      "title": "Meet the 3D printed, open source, GitHub Copilot floating lamp project",
+      "video_id": "gI6XRWfl1As",
       "channel_title": "GitHub",
-      "description": "Ever wonder what Git was like in its first week? Linus Torvalds shares the story of using raw \"plumbing\" commands like ...",
-      "published_at": "2025-06-24T18:00:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oyWGcg0t0EA/hqdefault.jpg"
+      "description": "Check out this amazing passion project from GitHub's own Christopher Blake! He's created a floating GitHub Copilot lamp that ...",
+      "published_at": "2025-07-01T18:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gI6XRWfl1As/hqdefault.jpg"
     },
     {
-      "title": "Linus Torvalds on the early &quot;hate&quot; for Git&#39;s interface",
-      "video_id": "T52UtF2HGxc",
+      "title": "End-to-end development with GitHub Copilot + MCP server | Full Workflow Demo",
+      "video_id": "HN47tveqfQU",
       "channel_title": "GitHub",
-      "description": "\"I just didn't like CVS very much.\" In this short clip, Linus Torvalds explains the reasoning behind Git's controversial command ...",
-      "published_at": "2025-06-21T18:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T52UtF2HGxc/hqdefault.jpg"
-    },
-    {
-      "title": "Copilot agent mode is now available in Eclipse",
-      "video_id": "lmZ1aPUJ92s",
-      "channel_title": "GitHub",
-      "description": "See how GitHub Copilot in Eclipse boosts your productivity with AI-powered code completion, chat, and agent mode, helping you ...",
-      "published_at": "2025-05-31T14:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lmZ1aPUJ92s/hqdefault.jpg"
+      "description": "Use GitHub Copilot and the GitHub MCP Server together for seamless, end-to-end software development - right from your IDE.",
+      "published_at": "2025-07-01T14:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HN47tveqfQU/hqdefault.jpg"
     }
   ]
 }

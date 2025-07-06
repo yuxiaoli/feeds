@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-29T00:32:22.109967",
+  "fetched_at": "2025-07-06T00:31:55.425217",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "千里挑一，论文分享",
+      "video_id": "IEY5Y3wdoPk",
+      "channel_title": "Find Interesting AI",
+      "description": "6月论文汇总： https://qadso0i11yj.feishu.cn/base/LLumbYdgJaziD2sihWYcyGQQnQe?from=from_copylink.",
+      "published_at": "2025-07-03T23:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IEY5Y3wdoPk/hqdefault.jpg"
+    },
     {
       "title": "HuggingFace 6月最火AI一次性总结清楚",
       "video_id": "UmHl6qJEQcs",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-04-05T16:01:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/w9_gvTTFuh8/hqdefault.jpg"
-    },
-    {
-      "title": "智能体的核心模式和架构",
-      "video_id": "RPmKC2cb7JM",
-      "channel_title": "Find Interesting AI",
-      "description": "Agent框架调研https://blog.csdn.net/2401_85390073/article/details/143659429 开源awesome项目 ...",
-      "published_at": "2025-03-29T00:30:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RPmKC2cb7JM/hqdefault.jpg"
     }
   ]
 }

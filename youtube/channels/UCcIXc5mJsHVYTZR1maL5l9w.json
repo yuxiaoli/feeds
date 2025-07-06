@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-06-29T00:32:15.155867",
+  "fetched_at": "2025-07-06T00:31:48.730113",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
@@ -53,6 +53,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IkBslShH5to/hqdefault.jpg"
     },
     {
+      "title": "Building AI Voice Agents for Production",
+      "video_id": "mwL5Yzg6UJE",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/3EELtr7 Join Building AI Voice Agents for Production, created in collaboration with LiveKit and ...",
+      "published_at": "2025-05-07T14:54:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mwL5Yzg6UJE/hqdefault.jpg"
+    },
+    {
       "title": "New course! Enroll in Building Code Agents with Hugging Face smolagents",
       "video_id": "OWZ13KiWP0s",
       "channel_title": "DeepLearningAI",
@@ -75,14 +83,6 @@
       "description": "Learn more: https://bit.ly/4jzZchG Introducing Building AI Browser Agents, a free, short course made in collaboration with AGI Inc, ...",
       "published_at": "2025-04-16T14:20:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/76BUJ9hYu-g/hqdefault.jpg"
-    },
-    {
-      "title": "A new short course created with DotTxt is available now",
-      "video_id": "qUt0-B8s1vE",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/3FLpRcN We've teamed up with DotTxt to bring you a new short course: Getting Structured LLM Output, ...",
-      "published_at": "2025-04-02T14:08:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qUt0-B8s1vE/hqdefault.jpg"
     }
   ]
 }

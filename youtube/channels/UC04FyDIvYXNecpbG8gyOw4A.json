@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-29T00:31:27.236395",
+  "fetched_at": "2025-07-06T00:31:02.432705",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "How VR sculptures become 3D printed toys with @tokyo.tommy",
+      "video_id": "bnF20Hm9OOs",
+      "channel_title": "Meta",
+      "description": "Did you know you can use Meta Quest 3 to turn wild VR sculptures into printed toys? VR creator Tommy does! Sharing his work on ...",
+      "published_at": "2025-07-02T15:08:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bnF20Hm9OOs/hqdefault.jpg"
+    },
+    {
+      "title": "Behind the Tech: Digit 360",
+      "video_id": "kvBK09W-m7A",
+      "channel_title": "Meta",
+      "description": "It all starts with a touch. Check out the work Meta is doing to advance the perception, dexterity, and usability of robotic tools like the ...",
+      "published_at": "2025-07-01T14:12:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kvBK09W-m7A/hqdefault.jpg"
+    },
     {
       "title": "Your personal AI. The new Meta AI app.",
       "video_id": "jjwt-7Iov0k",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-06-02T18:37:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/M8Ir6cEpu7Q/hqdefault.jpg"
-    },
-    {
-      "title": "Traveling with the @mumbaiindians was not on our 2025 bingo card  😎⚡",
-      "video_id": "rEy9m8AVyk4",
-      "channel_title": "Meta",
-      "description": "MumbaiIndians x @raybanmetaofficial #collab.",
-      "published_at": "2025-05-29T13:50:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rEy9m8AVyk4/hqdefault.jpg"
-    },
-    {
-      "title": "sleep tight, whether you’re a space wizard named Jason or not",
-      "video_id": "_KXJI51GNC0",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-05-28T14:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_KXJI51GNC0/hqdefault.jpg"
     }
   ]
 }

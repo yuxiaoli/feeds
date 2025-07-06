@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-06-29T00:32:29.982879",
+  "fetched_at": "2025-07-06T00:32:02.924105",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "This Nutrition Myth Took Over the World",
+      "video_id": "touEbuMYnqA",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2025-07-05T21:14:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/touEbuMYnqA/hqdefault.jpg"
+    },
+    {
+      "title": "The Fat Myth That Fooled the World",
+      "video_id": "iSnqsaO0Yy8",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2025-07-02T15:40:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iSnqsaO0Yy8/hqdefault.jpg"
+    },
+    {
+      "title": "You’ve Been Lied to About Cholesterol",
+      "video_id": "1uYT80WC3ZE",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2025-07-01T15:22:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1uYT80WC3ZE/hqdefault.jpg"
+    },
+    {
+      "title": "Oats vs Eggs: Which Is Actually Better for Your Heart?",
+      "video_id": "w_aTPE2_jP4",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2025-06-30T16:32:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w_aTPE2_jP4/hqdefault.jpg"
+    },
     {
       "title": "These Are the Tests That Actually Predict Heart Disease",
       "video_id": "78IETihtfEk",
@@ -51,38 +83,6 @@
       "description": "",
       "published_at": "2025-06-20T16:29:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5aJQbGI8a6c/hqdefault.jpg"
-    },
-    {
-      "title": "Why Fruit Isn’t Always “Healthy”",
-      "video_id": "pEOizjAgo7A",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-06-19T12:51:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pEOizjAgo7A/hqdefault.jpg"
-    },
-    {
-      "title": "Naked Carbs? Just Add Clothes",
-      "video_id": "L6WODYyQ09I",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-06-18T19:39:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L6WODYyQ09I/hqdefault.jpg"
-    },
-    {
-      "title": "Why Insulin Is So Important",
-      "video_id": "ZtAJ07D5uuk",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-06-16T16:36:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZtAJ07D5uuk/hqdefault.jpg"
-    },
-    {
-      "title": "The Secret Power of Post-Menopause",
-      "video_id": "DhHxmpwpST4",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-06-13T16:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DhHxmpwpST4/hqdefault.jpg"
     }
   ]
 }

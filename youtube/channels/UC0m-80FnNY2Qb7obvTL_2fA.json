@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-06-29T00:31:28.763549",
+  "fetched_at": "2025-07-06T00:31:04.021105",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
+    {
+      "title": "Human agency is the force-multiplier for AI | Scott Hanselman, Microsoft",
+      "video_id": "tjdQvIpOlAA",
+      "channel_title": "Microsoft Azure",
+      "description": "Scott Hanselman, VP of Developer Community at Microsoft, joins the pod to offer his unique perspective on the evolution of ...",
+      "published_at": "2025-06-24T14:01:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tjdQvIpOlAA/hqdefault.jpg"
+    },
+    {
+      "title": "Make-A-Wish brings more joy, hope, and strength to children through Microsoft technology",
+      "video_id": "cH1Y0xTomwM",
+      "channel_title": "Microsoft Azure",
+      "description": "Make-A-Wish works to provide a life-changing experience of their dreams to every eligible child with a critical illness.",
+      "published_at": "2025-06-17T14:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cH1Y0xTomwM/hqdefault.jpg"
+    },
     {
       "title": "Granular RBAC in Azure Monitor Log Analytics",
       "video_id": "8WhOA0LCgU0",
@@ -19,6 +35,14 @@
       "description": "Learn about the challenges of building GenAI apps on-premises and how Azure is optimized to help you migrate and modernize ...",
       "published_at": "2025-06-13T20:00:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1rdfQcdTqyc/hqdefault.jpg"
+    },
+    {
+      "title": "OC3 2025 | OpenHCL: the new open source paravisor by Chris Oo",
+      "video_id": "oJFEKuHGCzA",
+      "channel_title": "Microsoft Azure",
+      "description": "Join Chris Oo as he discusses Microsoft's development of the first industry “paravisor” that enables existing VM workloads to ...",
+      "published_at": "2025-06-03T14:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oJFEKuHGCzA/hqdefault.jpg"
     },
     {
       "title": "Microsoft Build 2025 | Software Development Company Highlights",
@@ -59,30 +83,6 @@
       "description": "Azure AI Foundry offers AI templates designed for the most common, high-value use cases and technical patterns – as designated ...",
       "published_at": "2025-05-19T16:01:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xbRrAmy0ChA/hqdefault.jpg"
-    },
-    {
-      "title": "Experimental Showcase- Agent memory implemented using Structured RAG",
-      "video_id": "CWgrAEK123U",
-      "channel_title": "Microsoft Azure",
-      "description": "The user can have conversations with the agent about events and entities that were extracted months ago. Entities are pulled from ...",
-      "published_at": "2025-05-19T15:32:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CWgrAEK123U/hqdefault.jpg"
-    },
-    {
-      "title": "Can AI make the world of art more accessible? | Art Basel",
-      "video_id": "NFCeG-pSuho",
-      "channel_title": "Microsoft Azure",
-      "description": "From cave painters to digital creators, artists continually discover new ways to express themselves and connect. That connection ...",
-      "published_at": "2025-05-13T19:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NFCeG-pSuho/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft&#39;s path to Quantum computing at scale",
-      "video_id": "N-djietgxfM",
-      "channel_title": "Microsoft Azure",
-      "description": "[Originally Presented: March 5, 2025] Join Chetan Nayak, Technical Fellow at Microsoft, to learn more about the groundbreaking ...",
-      "published_at": "2025-05-09T13:00:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N-djietgxfM/hqdefault.jpg"
     }
   ]
 }

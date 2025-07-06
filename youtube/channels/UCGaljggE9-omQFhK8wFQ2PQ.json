@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-29T00:31:47.588398",
+  "fetched_at": "2025-07-06T00:31:22.253090",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Full Aussie Podcast Serving Up Some Mushrooms",
+      "video_id": "97aVClfE9LE",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Welcome to MrGrantGregory AI Channel Where we do AI. Copyright ...",
+      "published_at": "2025-07-05T14:34:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/97aVClfE9LE/hqdefault.jpg"
+    },
     {
       "title": "Full Aussie Podcast Breaks Cease Fire",
       "video_id": "kuUHNTOumk4",
@@ -75,14 +83,6 @@
       "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Welcome to MrGrantGregory AI Channel Where we do AI. Copyright ...",
       "published_at": "2025-02-25T03:33:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/c7sFkFDXz6Q/hqdefault.jpg"
-    },
-    {
-      "title": "Interview With Doug E Hughes - The Man In Yellow",
-      "video_id": "uywbLlM6Pc8",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Douglas E. Hughes is a seasoned Canadian actor, playwright, and ...",
-      "published_at": "2025-02-14T01:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uywbLlM6Pc8/hqdefault.jpg"
     }
   ]
 }

@@ -1,24 +1,48 @@
 {
-  "fetched_at": "2025-06-29T00:31:33.405413",
+  "fetched_at": "2025-07-06T00:31:08.559737",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "EASIEST Way to Fine-Tune a LLM and Use It With Ollama",
-      "video_id": "pTaSDVz0gok",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with 10Web and their AI Website Builder API: ...",
-      "published_at": "2025-06-27T13:01:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pTaSDVz0gok/hqdefault.jpg"
-    },
-    {
-      "title": "THIS is why you keep failing coding interviews",
-      "video_id": "ZuBYcdzpz5I",
+      "title": "THIS is why you keep getting ghosted by recruiters",
+      "video_id": "fRkxtW12oBI",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-06-27T05:17:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZuBYcdzpz5I/hqdefault.jpg"
+      "published_at": "2025-07-04T02:52:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
+    },
+    {
+      "title": "The 3 Ways to Make Websites in Python - Fast &amp; Easy",
+      "video_id": "H0JfZDXStKY",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with SiteGround's web hosting today!",
+      "published_at": "2025-07-03T14:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H0JfZDXStKY/hqdefault.jpg"
+    },
+    {
+      "title": "THIS is how you should be using AI as a developer",
+      "video_id": "ypxnAO53K44",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-07-03T08:01:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ypxnAO53K44/hqdefault.jpg"
+    },
+    {
+      "title": "Pick one of THESE programming languages if you wanna be web dev",
+      "video_id": "AD0MQwYLur0",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-07-03T05:36:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AD0MQwYLur0/hqdefault.jpg"
+    },
+    {
+      "title": "You need to understand THIS as a backend developer",
+      "video_id": "4WBOsdkzpzQ",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-07-01T19:22:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4WBOsdkzpzQ/hqdefault.jpg"
     },
     {
       "title": "If you&#39;re serious about learning programming you need to be doing THIS",
@@ -27,14 +51,6 @@
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
       "published_at": "2025-06-26T05:15:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AcMqasZP1Lg/hqdefault.jpg"
-    },
-    {
-      "title": "The Most Advanced Vibe Coding Tool I’ve Ever Seen… This is Crazy",
-      "video_id": "1P3jqYRPo-o",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with Pythogera for free ...",
-      "published_at": "2025-06-25T14:30:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1P3jqYRPo-o/hqdefault.jpg"
     },
     {
       "title": "THIS is why a CS degree won&#39;t get you a coding job",
@@ -67,22 +83,6 @@
       "description": "My Software Development Program: ...",
       "published_at": "2025-04-27T20:19:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/kdSxZCztEXA/hqdefault.jpg"
-    },
-    {
-      "title": "Why I’m Ditching ChatGPT… ChatLLM Tutorial",
-      "video_id": "EYcDauqeJjI",
-      "channel_title": "Tech With Tim",
-      "description": "Get started wirh ChatLLM here: https://chatllm.abacus.ai I want you to ask yourself how many I subscriptions are you currently ...",
-      "published_at": "2025-04-25T13:48:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EYcDauqeJjI/hqdefault.jpg"
-    },
-    {
-      "title": "The difference between TOP class developers and the rest",
-      "video_id": "bn4ydnn-kM8",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-25T22:43:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bn4ydnn-kM8/hqdefault.jpg"
     }
   ]
 }

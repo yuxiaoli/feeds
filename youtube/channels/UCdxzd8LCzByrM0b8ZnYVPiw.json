@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-06-29T00:32:17.484199",
+  "fetched_at": "2025-07-06T00:31:50.939504",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Beosound A1 3rd Gen",
+      "video_id": "HNO_R3Z_CTQ",
+      "channel_title": "Bang & Olufsen",
+      "description": "Small size. Serious sound. Toshiki Studio Explore: https://www.bang-olufsen.com/en/speakers/beosound-a1 #BangOlufsen ...",
+      "published_at": "2025-07-03T15:04:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HNO_R3Z_CTQ/hqdefault.jpg"
+    },
     {
       "title": "A1 of a kind | Beosound A1 3rd Gen",
       "video_id": "vHHGdv9eBVo",
@@ -75,14 +83,6 @@
       "description": "This isn't just a place. It's a frequency.​ #BangOlufsen.",
       "published_at": "2025-05-23T10:01:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cJoNK7H1md0/hqdefault.jpg"
-    },
-    {
-      "title": "Beosound A1 3rd Gen - The best moments should never be cut short",
-      "video_id": "k2-ieFQeTpY",
-      "channel_title": "Bang & Olufsen",
-      "description": "Press play, slip away. Whatever the destination, pack Beosound A1 3rd Gen. The best possible soundtrack for your summer.",
-      "published_at": "2025-05-22T07:40:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k2-ieFQeTpY/hqdefault.jpg"
     }
   ]
 }
