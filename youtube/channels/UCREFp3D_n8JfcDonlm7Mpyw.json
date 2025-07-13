@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-06T00:31:36.714113",
+  "fetched_at": "2025-07-13T00:32:41.725324",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Why Your Code “Works” But You Still Don’t Get It",
+      "video_id": "rxVTlNACr0c",
+      "channel_title": "Programiz",
+      "description": "You pressed run. It worked. But did you understand what actually happened? Watch your code execute line by line. See variables ...",
+      "published_at": "2025-07-10T10:15:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rxVTlNACr0c/hqdefault.jpg"
+    },
     {
       "title": "Introducing Code Visualizer: Learn to Code with Visuals",
       "video_id": "c6nr9T7aoP0",
@@ -75,14 +83,6 @@
       "description": "Relationship network of Harry Potter using Python Create captivating relationship network with ease on Programiz PRO ...",
       "published_at": "2023-06-23T15:05:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/TO_UqGXyNN0/hqdefault.jpg"
-    },
-    {
-      "title": "Can You Conquer the #ProgramizSummerChallenge in Just 3 Months?",
-      "video_id": "3mXk-w7_-Bk",
-      "channel_title": "Programiz",
-      "description": "Learn to code from scratch and challenge your skills this summer. We have launched #ProgramizSummerChallenge to make your ...",
-      "published_at": "2023-06-12T10:15:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3mXk-w7_-Bk/hqdefault.jpg"
     }
   ]
 }

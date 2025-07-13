@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-07-06T00:31:10.829887",
+  "fetched_at": "2025-07-13T00:32:15.884527",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "GitHub Copilot Chat for VS Code is now open source",
-      "video_id": "U3jWIm_ksb4",
+      "title": "Open Source Friday with Cluecumber - Turning Cucumber Tests into Clean Reports",
+      "video_id": "ab-IHhGjOSY",
       "channel_title": "GitHub",
-      "description": "In a big win for open source, the GitHub Copilot Chat client for VS Code is now fully open source under the MIT license! You can ...",
-      "published_at": "2025-07-05T14:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U3jWIm_ksb4/hqdefault.jpg"
+      "description": "Join us as we chat with the maintainer of Cluecumber, an open-source reporting plugin that turns your Cucumber test results into ...",
+      "published_at": "2025-07-12T05:48:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ab-IHhGjOSY/hqdefault.jpg"
     },
     {
-      "title": "Restream: Open Source Friday with Piotr Skalski: Exploring Supervision",
-      "video_id": "x5FoLwfEh4g",
+      "title": "Open Source Zone with with Mockoon",
+      "video_id": "J2FQVBmBttY",
       "channel_title": "GitHub",
-      "description": "We're excited to announce our upcoming Open Source Friday livestream featuring Piotr Skalski (@SkalskiP), Open-Source Lead ...",
-      "published_at": "2025-07-05T06:35:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x5FoLwfEh4g/hqdefault.jpg"
+      "description": "Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.",
+      "published_at": "2025-07-12T03:22:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J2FQVBmBttY/hqdefault.jpg"
     },
     {
-      "title": "The Download: open source Copilot chat, personal robots &amp; reinvented BSOD",
-      "video_id": "F8632GJzgqk",
+      "title": "Open Source Zone with Image Glass",
+      "video_id": "Q-j1jGL7_rw",
       "channel_title": "GitHub",
-      "description": "Your weekly developer news roundup is here! This episode of The Download includes the open sourcing of the Copilot Chat ...",
-      "published_at": "2025-07-04T14:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F8632GJzgqk/hqdefault.jpg"
+      "description": "ImageGlass stands as an open-source, ad-free photo viewer, yet its development and upkeep demand resources. Your financial ...",
+      "published_at": "2025-07-11T15:38:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q-j1jGL7_rw/hqdefault.jpg"
     },
     {
-      "title": "Event in Spanish: Jueves de Quack",
-      "video_id": "AwTUxXl9Nyo",
+      "title": "Open Source Zone with Cilium",
+      "video_id": "rSIb4hBPOmg",
       "channel_title": "GitHub",
-      "description": "Esta semana con invitado especial Axel Garbiel Labruna, discutiremos herramientas de IA para desarrollo moderno.",
-      "published_at": "2025-07-04T08:37:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AwTUxXl9Nyo/hqdefault.jpg"
+      "description": "Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat Layer 3 ...",
+      "published_at": "2025-07-11T14:21:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rSIb4hBPOmg/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Building a party game",
-      "video_id": "RDwJWZ4X_LY",
+      "title": "Open Source Zone with Ladybird Browser",
+      "video_id": "vU1tSj_uUU0",
+      "channel_title": "GitHub",
+      "description": "Ladybird is an open-source web browser developed by the Ladybird Browser Initiative, a nonprofit organization focused on ...",
+      "published_at": "2025-07-11T13:42:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vU1tSj_uUU0/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Zone live from WAD with Kestra",
+      "video_id": "aMcDcQmFz1s",
+      "channel_title": "GitHub",
+      "description": "Kestra is Open Source, unified orchestration for all engineers. Build and govern all your workflows — Everything-as-Code, and ...",
+      "published_at": "2025-07-11T13:16:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aMcDcQmFz1s/hqdefault.jpg"
+    },
+    {
+      "title": "Live from We Are Developers Congress GitHub Open Source Zone",
+      "video_id": "57f-H_DvITY",
+      "channel_title": "GitHub",
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2025-07-11T12:52:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/57f-H_DvITY/hqdefault.jpg"
+    },
+    {
+      "title": "[pt-BR🇧🇷] Quinta do Patinho: Construindo um Encurtador de Links com Dashboard ao Vivo",
+      "video_id": "228tByoyNYM",
+      "channel_title": "GitHub",
+      "description": "Brazilian Stream, in portuguese     Hoje na Quinta do Patinho vamos construir (ou pelo enos tentar haha) um encurtador de ...",
+      "published_at": "2025-07-11T09:04:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/228tByoyNYM/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursday - Hack + Chill with Agent Mode",
+      "video_id": "TwVIrfhdTjU",
       "channel_title": "GitHub",
       "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We'll take a look at ...",
-      "published_at": "2025-07-04T07:08:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RDwJWZ4X_LY/hqdefault.jpg"
+      "published_at": "2025-07-11T07:20:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TwVIrfhdTjU/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Let&#39;s build with agents",
-      "video_id": "fWsj8caUPt0",
+      "title": "Is this the end of custom ROMs? Android 16 source code released",
+      "video_id": "RJzFbEKwXGs",
       "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We'll take a look at ...",
-      "published_at": "2025-07-03T23:26:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fWsj8caUPt0/hqdefault.jpg"
-    },
-    {
-      "title": "How open source and real-time data are used to fight wildfires",
-      "video_id": "nZioLmpXBWg",
-      "channel_title": "GitHub",
-      "description": "With wildfires becoming a year-round threat, see how technology and collaboration are making a difference. This video highlights ...",
-      "published_at": "2025-07-03T14:01:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nZioLmpXBWg/hqdefault.jpg"
-    },
-    {
-      "title": "Event in Spanish: Jueves de Quack",
-      "video_id": "IpYbGAaiJT8",
-      "channel_title": "GitHub",
-      "description": "Con invitado especial Sergio Valverde. Únete a nuestra sesión de trabajo colaborativo donde desarrolladores de todo el mundo ...",
-      "published_at": "2025-07-02T21:27:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IpYbGAaiJT8/hqdefault_live.jpg"
-    },
-    {
-      "title": "Meet the 3D printed, open source, GitHub Copilot floating lamp project",
-      "video_id": "gI6XRWfl1As",
-      "channel_title": "GitHub",
-      "description": "Check out this amazing passion project from GitHub's own Christopher Blake! He's created a floating GitHub Copilot lamp that ...",
-      "published_at": "2025-07-01T18:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gI6XRWfl1As/hqdefault.jpg"
-    },
-    {
-      "title": "End-to-end development with GitHub Copilot + MCP server | Full Workflow Demo",
-      "video_id": "HN47tveqfQU",
-      "channel_title": "GitHub",
-      "description": "Use GitHub Copilot and the GitHub MCP Server together for seamless, end-to-end software development - right from your IDE.",
-      "published_at": "2025-07-01T14:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HN47tveqfQU/hqdefault.jpg"
+      "description": "In big Android news, Google has just dropped the source code for Android 16. However, for the first time, it's missing the Pixel ...",
+      "published_at": "2025-07-10T14:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RJzFbEKwXGs/hqdefault.jpg"
     }
   ]
 }

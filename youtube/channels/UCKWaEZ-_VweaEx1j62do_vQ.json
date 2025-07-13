@@ -1,16 +1,40 @@
 {
-  "fetched_at": "2025-07-06T00:31:27.682023",
+  "fetched_at": "2025-07-13T00:32:32.641784",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Anthropic’s Project Vend, computer science education and AI prompts in papers",
-      "video_id": "myIre7iONII",
+      "title": "Perplexity’s Comet browser, Cloudflare blocks AI scrapers and Wimbledon Match Chat",
+      "video_id": "ieR3u8sUX-U",
       "channel_title": "IBM Technology",
-      "description": "Subscribe for AI updates → https://ibm.biz/BdnWwx Will AI agents run all businesses? In episode 62 of Mixture of Experts, host ...",
-      "published_at": "2025-07-04T10:01:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/myIre7iONII/hqdefault.jpg"
+      "description": "Subscribe for AI updates → https://ibm.biz/Bdex8z How will AI agents change search? In episode 63 of Mixture of Experts, host ...",
+      "published_at": "2025-07-11T10:01:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ieR3u8sUX-U/hqdefault.jpg"
+    },
+    {
+      "title": "Defeat the Quantum Menace: Protecting Data from Quantum Computers",
+      "video_id": "TU9CRyAOekQ",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Guardium Data Protection v12.x Administrator? Register now and use code IBMTechYT20 for 20% off ...",
+      "published_at": "2025-07-10T11:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TU9CRyAOekQ/hqdefault.jpg"
+    },
+    {
+      "title": "What is Content-Aware Storage? Unlocking AI&#39;s Potential with RAG",
+      "video_id": "6862BFYBe9M",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-07-09T11:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6862BFYBe9M/hqdefault.jpg"
+    },
+    {
+      "title": "Protecting Data in AI: Strategies for Security &amp; Governance",
+      "video_id": "LyfG7SGRiZA",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Administrator - Security QRadar SIEM? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-07-08T11:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LyfG7SGRiZA/hqdefault.jpg"
     },
     {
       "title": "Waymo&#39;s AI Learns to Drive",
@@ -19,30 +43,6 @@
       "description": "Listen how Waymo might be using reinforcement learning and generative AI to adapt self-driving cars to local environments, like ...",
       "published_at": "2025-07-03T17:41:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wd2FAz4v8iw/hqdefault.jpg"
-    },
-    {
-      "title": "ETL vs ELT: Powering Data Pipelines for AI &amp; Analytics",
-      "video_id": "KIv2Na2-u24",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Administrator - Security QRadar? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-07-03T11:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KIv2Na2-u24/hqdefault.jpg"
-    },
-    {
-      "title": "LLM Hacking Defense: Strategies for Secure AI",
-      "video_id": "y8iDGA4Y650",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-07-02T11:01:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y8iDGA4Y650/hqdefault.jpg"
-    },
-    {
-      "title": "How to Make AI More Accurate: Top Techniques for Reliable Results",
-      "video_id": "pNbU1vGkIK4",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-06-30T12:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pNbU1vGkIK4/hqdefault.jpg"
     },
     {
       "title": "AI Research Agents in Action",

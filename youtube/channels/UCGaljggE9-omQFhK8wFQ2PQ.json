@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-06T00:31:22.253090",
+  "fetched_at": "2025-07-13T00:32:27.333815",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Full Aussie Podcast Serving Up Some Mushrooms",
+      "video_id": "7zkiDTCYsK0",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Welcome to MrGrantGregory AI Channel Where we do AI. Copyright ...",
+      "published_at": "2025-07-12T14:45:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7zkiDTCYsK0/hqdefault.jpg"
+    },
     {
       "title": "Full Aussie Podcast Serving Up Some Mushrooms",
       "video_id": "97aVClfE9LE",
@@ -75,14 +83,6 @@
       "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Welcome to MrGrantGregory AI Channel Where we do AI. Copyright ...",
       "published_at": "2025-02-25T14:00:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5nLl7JxhMEQ/hqdefault.jpg"
-    },
-    {
-      "title": "AI Robot Destroys Russian Fighter",
-      "video_id": "c7sFkFDXz6Q",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Welcome to MrGrantGregory AI Channel Where we do AI. Copyright ...",
-      "published_at": "2025-02-25T03:33:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c7sFkFDXz6Q/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-07-06T00:31:08.559737",
+  "fetched_at": "2025-07-13T00:32:13.601897",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
+    {
+      "title": "The Ultimate FastAPI + React Full Stack Project (Deploy This and You’re Set)",
+      "video_id": "_1P0Uqk50Ps",
+      "channel_title": "Tech With Tim",
+      "description": "In this video, you'll learn how to build a full stack application using FastAPI in Python and JavaScript and React. Now I'll cover ...",
+      "published_at": "2025-07-11T15:01:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_1P0Uqk50Ps/hqdefault.jpg"
+    },
+    {
+      "title": "The biggest MISTAKE new devs make when applying to jobs",
+      "video_id": "_6UpwwxSMPw",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-07-11T11:18:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_6UpwwxSMPw/hqdefault.jpg"
+    },
+    {
+      "title": "THIS is why you can&#39;t land a coding job",
+      "video_id": "f1TjL7b4NA4",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-07-11T11:14:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f1TjL7b4NA4/hqdefault.jpg"
+    },
+    {
+      "title": "Your coding resume is sh*t  Here&#39;s how to fix it",
+      "video_id": "BAmeO4DFaIY",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-07-09T06:34:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BAmeO4DFaIY/hqdefault.jpg"
+    },
     {
       "title": "THIS is why you keep getting ghosted by recruiters",
       "video_id": "fRkxtW12oBI",
@@ -11,38 +43,6 @@
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
       "published_at": "2025-07-04T02:52:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
-    },
-    {
-      "title": "The 3 Ways to Make Websites in Python - Fast &amp; Easy",
-      "video_id": "H0JfZDXStKY",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with SiteGround's web hosting today!",
-      "published_at": "2025-07-03T14:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H0JfZDXStKY/hqdefault.jpg"
-    },
-    {
-      "title": "THIS is how you should be using AI as a developer",
-      "video_id": "ypxnAO53K44",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-03T08:01:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ypxnAO53K44/hqdefault.jpg"
-    },
-    {
-      "title": "Pick one of THESE programming languages if you wanna be web dev",
-      "video_id": "AD0MQwYLur0",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-03T05:36:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AD0MQwYLur0/hqdefault.jpg"
-    },
-    {
-      "title": "You need to understand THIS as a backend developer",
-      "video_id": "4WBOsdkzpzQ",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-01T19:22:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4WBOsdkzpzQ/hqdefault.jpg"
     },
     {
       "title": "If you&#39;re serious about learning programming you need to be doing THIS",

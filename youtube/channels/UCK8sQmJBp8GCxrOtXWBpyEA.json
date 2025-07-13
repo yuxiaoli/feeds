@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-07-06T00:31:25.427146",
+  "fetched_at": "2025-07-13T00:32:30.349898",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 1,
+  "count": 5,
   "videos": [
+    {
+      "title": "We got a teeeeeext! 📲 (and it says to search “amaya papaya” for a surprise)",
+      "video_id": "5m2ef79HzuA",
+      "channel_title": "Google",
+      "description": "Hot new surprises have entered the Search bar. Just type “amaya papaya” for a bombshell #LoveIslandUSA.",
+      "published_at": "2025-07-12T15:39:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5m2ef79HzuA/hqdefault.jpg"
+    },
+    {
+      "title": "Bring old photos to life with new photo to video capabilities in Gemini. Pro/Ultra users only.",
+      "video_id": "IPpVEMZNC_Q",
+      "channel_title": "Google",
+      "description": "Here's how to turn your photos into videos: 1. Open the Gemini app or gemini.google 2. Select Video in the prompt bar (Pro or ...",
+      "published_at": "2025-07-11T20:04:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IPpVEMZNC_Q/hqdefault.jpg"
+    },
+    {
+      "title": "A new Gemini feature just dropped! Make photos come alive by turning them into videos with sound.",
+      "video_id": "dypZ3jCr8Gk",
+      "channel_title": "Google",
+      "description": "It's rolling out today: 1. Open the Gemini app or gemini.google 2. Select Video in the prompt bar (Pro or Ultra users only) 3. Upload ...",
+      "published_at": "2025-07-10T15:47:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dypZ3jCr8Gk/hqdefault.jpg"
+    },
+    {
+      "title": "Trying Something New? Just Ask Google",
+      "video_id": "h-AkoDlQ0L0",
+      "channel_title": "Google",
+      "description": "Lens with AI-powered Search helps you dive deeper into your interests. Want to learn more about something you see?",
+      "published_at": "2025-07-08T21:32:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h-AkoDlQ0L0/hqdefault.jpg"
+    },
     {
       "title": "Happy 4th of July!  🎆 Made with Veo 3 in Gemini",
       "video_id": "QBV2KL0Sufo",

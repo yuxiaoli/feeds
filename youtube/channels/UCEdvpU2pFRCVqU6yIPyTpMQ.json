@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-06T00:31:17.620290",
+  "fetched_at": "2025-07-13T00:32:22.864397",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "I can’t wait for yall to watch this @SmurfsMovie",
+      "video_id": "iWraO07JAqo",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-07-07T17:46:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iWraO07JAqo/hqdefault.jpg"
+    },
     {
       "title": "Marshmello - Bassline Flexa [@JoytimeCollective  Presents: Jumpstart Vol. 1]",
       "video_id": "fdE0BivhxTE",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-05-09T17:53:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bbZpePQPyiE/hqdefault.jpg"
-    },
-    {
-      "title": "What a magical moment in China❤️",
-      "video_id": "9ryPinQw_a8",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-05-05T21:49:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9ryPinQw_a8/hqdefault.jpg"
     }
   ]
 }

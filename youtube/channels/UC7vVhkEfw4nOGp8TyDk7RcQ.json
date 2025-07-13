@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-06T00:31:11.526289",
+  "fetched_at": "2025-07-13T00:32:16.680305",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Spot at POSCO | Boston Dynamics",
+      "video_id": "V7D7jXF2pj8",
+      "channel_title": "Boston Dynamics",
+      "description": "South Korean steel maker POSCO uses Spot and Orbit for preventive maintenance on its largest blast furnaces. POSCO's ...",
+      "published_at": "2025-07-09T14:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V7D7jXF2pj8/hqdefault.jpg"
+    },
     {
       "title": "Spot at Cargill | Boston Dynamics",
       "video_id": "AqRquSReZHY",
@@ -75,14 +83,6 @@
       "description": "In this video, Atlas is demonstrating policies developed using reinforcement learning with references from human motion capture ...",
       "published_at": "2025-03-19T13:59:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/I44_zbEwz_w/hqdefault.jpg"
-    },
-    {
-      "title": "Pick, Carry, Place, Repeat | Inside the Lab with Atlas",
-      "video_id": "v8UaiRgqvlc",
-      "channel_title": "Boston Dynamics",
-      "description": "Last year, we unveiled the new Atlas—faster, stronger, more compact, and less messy. We're designing the world's most dynamic ...",
-      "published_at": "2025-03-05T14:07:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v8UaiRgqvlc/hqdefault.jpg"
     }
   ]
 }

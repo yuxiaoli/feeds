@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-07-06T00:31:26.200281",
+  "fetched_at": "2025-07-13T00:32:31.087604",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Warp Updates | Dirty Git Branch, UDI Styling, Terminal Mode",
+      "video_id": "F6BPFUzJFyM",
+      "channel_title": "Warp",
+      "description": "A couple of new improvements to announce in Warp: 1. Close tab button on left 2. UDI only shows styling when active 3. Press ! to ...",
+      "published_at": "2025-07-11T21:26:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F6BPFUzJFyM/hqdefault.jpg"
+    },
+    {
+      "title": "Defining the future of development with OpenAI &amp; Warp",
+      "video_id": "Kw6bfR5oLuQ",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-07-10T22:14:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Kw6bfR5oLuQ/hqdefault_live.jpg"
+    },
     {
       "title": "Warp x Anthropic: Supercharge your development with Warp &amp; Claude 4",
       "video_id": "GBe0X14E0GM",
@@ -67,22 +83,6 @@
       "description": "Learn how to code by prompt with Warp!",
       "published_at": "2025-05-06T17:10:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Nshgv9QuWq4/hqdefault.jpg"
-    },
-    {
-      "title": "Ep.3 — Let Warp Do It | One last critical python bug",
-      "video_id": "1RcnwPOuh90",
-      "channel_title": "Warp",
-      "description": "One last bug, and one minute to fix it. This is the kind of moment that makes or breaks a launch. Watch more at ...",
-      "published_at": "2025-04-30T14:49:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1RcnwPOuh90/hqdefault.jpg"
-    },
-    {
-      "title": "Coding A Full Webpage From Figma Mocks",
-      "video_id": "ceDXjd8OO04",
-      "channel_title": "Warp",
-      "description": "Learn how to code by prompt with Warp!",
-      "published_at": "2025-04-23T17:14:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ceDXjd8OO04/hqdefault.jpg"
     }
   ]
 }

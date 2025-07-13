@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-06T00:31:02.432705",
+  "fetched_at": "2025-07-13T00:32:07.056673",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "This is Meta AI",
+      "video_id": "j5BtGIkhjtE",
+      "channel_title": "Meta",
+      "description": "Both roles are essential.",
+      "published_at": "2025-07-07T14:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j5BtGIkhjtE/hqdefault.jpg"
+    },
     {
       "title": "How VR sculptures become 3D printed toys with @tokyo.tommy",
       "video_id": "bnF20Hm9OOs",
@@ -75,14 +83,6 @@
       "description": "Meta AI is your personal AI for whatever life throws at you. Get the new app today.",
       "published_at": "2025-06-06T14:16:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2l_2k5KrXmo/hqdefault.jpg"
-    },
-    {
-      "title": "no more fighting over dinner options thanks to Meta AI",
-      "video_id": "M8Ir6cEpu7Q",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-06-02T18:37:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M8Ir6cEpu7Q/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-06T00:31:48.730113",
+  "fetched_at": "2025-07-13T00:32:53.917774",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Learn to post-train LLMs in this free course",
+      "video_id": "uOh4r1ZtrCM",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4lqtWmr Before a large language model can follow instructions, it undergoes two key stages: pre-training ...",
+      "published_at": "2025-07-09T14:28:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uOh4r1ZtrCM/hqdefault.jpg"
+    },
     {
       "title": "New course! Enroll in &quot;ACP: Agent Communication Protocol&quot;",
       "video_id": "B1ORNlS76lE",
@@ -75,14 +83,6 @@
       "description": "Learn more: https://bit.ly/3Rmge6P Data-informed decision-making is now an essential skill for everyone, from everyday consumer ...",
       "published_at": "2025-04-18T16:36:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xTQd3s2P8lo/hqdefault.jpg"
-    },
-    {
-      "title": "New short course: Building AI Browser Agents",
-      "video_id": "76BUJ9hYu-g",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4jzZchG Introducing Building AI Browser Agents, a free, short course made in collaboration with AGI Inc, ...",
-      "published_at": "2025-04-16T14:20:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/76BUJ9hYu-g/hqdefault.jpg"
     }
   ]
 }

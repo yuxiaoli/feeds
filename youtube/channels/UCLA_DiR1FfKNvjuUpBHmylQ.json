@@ -1,32 +1,24 @@
 {
-  "fetched_at": "2025-07-06T00:31:29.089954",
+  "fetched_at": "2025-07-13T00:32:34.132765",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 5,
+  "count": 4,
   "videos": [
     {
-      "title": "Progress 92 Cargo Ship Docking",
-      "video_id": "gs1ic-neuWc",
+      "title": "Axiom Mission 4 Undocking",
+      "video_id": "fmm5wq53j-g",
       "channel_title": "NASA",
-      "description": "After lifting off from Baikonur Cosmodrome in Kazakhstan on Thursday, July 3, a Roscosmos cargo spacecraft, delivering ...",
-      "published_at": "2025-07-05T21:37:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gs1ic-neuWc/hqdefault.jpg"
+      "description": "Watch Axiom Mission 4 begin the journey home from the International Space Station. Peggy Whitson, former NASA astronaut and ...",
+      "published_at": "2025-07-11T19:35:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fmm5wq53j-g/hqdefault_live.jpg"
     },
     {
-      "title": "Progress 92 Cargo Ship Launch",
-      "video_id": "1dmcRo4wp6E",
+      "title": "Axiom Mission 4 Hatch Close",
+      "video_id": "BkUmeVlocCU",
       "channel_title": "NASA",
-      "description": "A Roscosmos cargo spacecraft, delivering approximately three tons of food, fuel, and supplies to the Expedition 73 crew aboard ...",
-      "published_at": "2025-07-03T19:49:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1dmcRo4wp6E/hqdefault.jpg"
-    },
-    {
-      "title": "NASA Astronauts Send Fourth of July Wishes From the International Space Station",
-      "video_id": "Rbymsx1N35k",
-      "channel_title": "NASA",
-      "description": "Aboard the International Space Station, NASA astronauts Nichole Ayers, Anne McClain, and Jonny Kim share a Fourth of July ...",
-      "published_at": "2025-07-03T15:43:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Rbymsx1N35k/hqdefault.jpg"
+      "description": "Watch as the Axiom Mission 4 crew – Peggy Whitson, former NASA astronaut and director of human spaceflight at Axiom Space, ...",
+      "published_at": "2025-07-11T17:42:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BkUmeVlocCU/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

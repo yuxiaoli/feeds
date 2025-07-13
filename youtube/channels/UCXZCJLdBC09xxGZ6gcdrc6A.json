@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-07-06T00:31:42.717967",
+  "fetched_at": "2025-07-13T00:32:47.872321",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "It speaks!",
+      "video_id": "_fLEOwWF3A0",
+      "channel_title": "OpenAI",
+      "description": "Steps to access different voice options: 1️⃣ Tap the voice mode button (wave icon next to microphone) in the lower right.",
+      "published_at": "2025-07-10T17:55:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_fLEOwWF3A0/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI 🤝 @teamganassi",
+      "video_id": "LxYpRZYPNZ0",
+      "channel_title": "OpenAI",
+      "description": "Congrats on an amazing IndyCar weekend for Alex Palou! : Larry Chen.",
+      "published_at": "2025-07-08T05:26:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LxYpRZYPNZ0/hqdefault.jpg"
+    },
     {
       "title": "ChatGPT almost wasn&#39;t named ChatGPT",
       "video_id": "dQ3l__GAw6E",
@@ -67,22 +83,6 @@
       "description": "See how leading companies are using OpenAI in production and driving results across industries.",
       "published_at": "2025-06-11T20:08:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ehdGa7BRwd4/hqdefault.jpg"
-    },
-    {
-      "title": "What was the last thing you ChatGPT&#39;d?",
-      "video_id": "0sAdTcbK-qs",
-      "channel_title": "OpenAI",
-      "description": "Under25.",
-      "published_at": "2025-06-05T16:06:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0sAdTcbK-qs/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT for Business Updates",
-      "video_id": "9lSRViLugE0",
-      "channel_title": "OpenAI",
-      "description": "Nate Gonzalez, Preeti Iyer, Neel Ajjarapu, Sondra Batbold, and Dibya Bhattacharjee introduce and demo several updates to ...",
-      "published_at": "2025-06-04T17:27:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lSRViLugE0/hqdefault.jpg"
     }
   ]
 }

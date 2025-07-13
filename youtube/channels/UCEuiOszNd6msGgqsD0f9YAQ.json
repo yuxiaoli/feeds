@@ -1,32 +1,40 @@
 {
-  "fetched_at": "2025-07-06T00:31:19.084702",
+  "fetched_at": "2025-07-13T00:32:24.317403",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
-  "count": 3,
+  "count": 4,
   "videos": [
     {
-      "title": "The Mystery of Moldy Mary",
-      "video_id": "9luf4Wa8SSc",
+      "title": "How Do Pool Cleaning Robots Actually Work?",
+      "video_id": "KBtBYohoxQc",
       "channel_title": "Interesting Engineering",
-      "description": "Everyone knows who Alexander Fleming is. But what nobody knows is that he actually failed to turn his discovery of penicillin into ...",
-      "published_at": "2025-07-04T23:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9luf4Wa8SSc/hqdefault.jpg"
+      "description": "Beatbot Prime Day starts from July 5th till July 11th, use code \"BBINTEREST\" for extra 2% off! https://amzn.to/3ZT6AgI Beatbot ...",
+      "published_at": "2025-07-11T15:31:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KBtBYohoxQc/hqdefault.jpg"
     },
     {
-      "title": "The 15 Million USD NEW Blimp... But Why?",
-      "video_id": "XcEQciBuDGs",
+      "title": "How Does Cloud Seeding Work?",
+      "video_id": "ZeK1Y5p4xiE",
       "channel_title": "Interesting Engineering",
-      "description": "This massive balloon could change the way we see the world. Known as a high altitude platform station, what could the Sceye be ...",
-      "published_at": "2025-07-03T21:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XcEQciBuDGs/hqdefault.jpg"
+      "description": "With all the crazy weather happening around the world, is there some way we can control it? Mitigate damage? Cloud seeding ...",
+      "published_at": "2025-07-11T15:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZeK1Y5p4xiE/hqdefault.jpg"
     },
     {
-      "title": "Why is this Seed Vault So Important?",
-      "video_id": "McE0QqyAsDo",
+      "title": "Flipping Robot Senses and Movement On Its Head",
+      "video_id": "DL50WMN-tK0",
       "channel_title": "Interesting Engineering",
-      "description": "Agriculture is the basis of human civilization. The Svalbard Seed Vault was built to preserve that foundation from wars, disaster, ...",
-      "published_at": "2025-07-02T18:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/McE0QqyAsDo/hqdefault.jpg"
+      "description": "The AgiBot X2-N draws eyes with its eyeless, or camera-less, set up. How does this perfectly balanced humanoid robot move up ...",
+      "published_at": "2025-07-10T15:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DL50WMN-tK0/hqdefault.jpg"
+    },
+    {
+      "title": "Who Invented the Drone?",
+      "video_id": "llLVhOZWaWI",
+      "channel_title": "Interesting Engineering",
+      "description": "Drones have become an irreplaceable part of our lives, whether it's in warfare or in more personal or commercial use. But how did ...",
+      "published_at": "2025-07-09T21:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/llLVhOZWaWI/hqdefault.jpg"
     }
   ]
 }

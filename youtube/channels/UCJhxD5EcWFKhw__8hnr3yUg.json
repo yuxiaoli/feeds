@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-06T00:31:24.691427",
+  "fetched_at": "2025-07-13T00:32:29.667698",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "我才不信你是从微软主动辞职的，你还能去哪儿？",
+      "video_id": "WsZn_u6aHa4",
+      "channel_title": "码农高天",
+      "description": "有的小伙伴很难相信我是主动辞职的，那我们就来更深入地聊一下我为什么选择离开微软，以及我对未来有什么计划！",
+      "published_at": "2025-07-11T10:30:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WsZn_u6aHa4/hqdefault.jpg"
+    },
     {
       "title": "35岁这年，我选择从微软辞职，去环游世界",
       "video_id": "k8YUF--Q2qQ",
@@ -75,14 +83,6 @@
       "description": "PyCon第0天，这可能是我人生中最倒霉的一天……",
       "published_at": "2025-05-14T10:30:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/itEFDnYOFwc/hqdefault.jpg"
-    },
-    {
-      "title": "每个python版本，从何而起，又因何而终？",
-      "video_id": "wgfZpqJqX9Y",
-      "channel_title": "码农高天",
-      "description": "这期视频我们来详细介绍一下python每个版本的生命周期，让大家对版本发布这个事情有一个更清晰的概念。",
-      "published_at": "2025-05-09T10:30:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wgfZpqJqX9Y/hqdefault.jpg"
     }
   ]
 }

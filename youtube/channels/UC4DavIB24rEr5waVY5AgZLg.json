@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-07-06T00:31:07.838716",
+  "fetched_at": "2025-07-13T00:32:12.837203",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "We Call It Imagineering | On With The Show | Disney Live Entertainment",
+      "video_id": "Xsrad7a9878",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Walt Disney often described Disneyland as a show with everyone being on stage. Disney Live Entertainment, the theatrical arm of ...",
+      "published_at": "2025-07-11T14:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xsrad7a9878/hqdefault.jpg"
+    },
+    {
+      "title": "New episode of We Call It Imagineering out July 11",
+      "video_id": "2c3kK1xQBEs",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "The next episode of the award-winning series, We Call It Imagineering, will be released on July 11, 2025! Tune in to find out what ...",
+      "published_at": "2025-07-11T12:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2c3kK1xQBEs/hqdefault.jpg"
+    },
     {
       "title": "What’s cooler than an original EPCOT map? Nothing. The answer is nothing.",
       "video_id": "eyMA8lUub38",
@@ -67,22 +83,6 @@
       "description": "Join Charlie from Walt Disney Imagineering on a walkthrough of Journey of Water, Inspired by Moana in EPCOT at Walt Disney ...",
       "published_at": "2025-05-30T17:00:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PjLH47DPbeI/hqdefault.jpg"
-    },
-    {
-      "title": "Science Experiment at Home with Walt Disney Imagineering Illusions &amp; Effects",
-      "video_id": "cCW9c7oiJtc",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "Daniel Joseph creates illusions and special effects with Walt Disney Imagineering for Disney Experiences around the world.",
-      "published_at": "2025-05-23T17:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cCW9c7oiJtc/hqdefault.jpg"
-    },
-    {
-      "title": "Lights, lights, and more lights! 💡✨",
-      "video_id": "Yv9SM0opCSI",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "Show lighting Imagineers used their skills to bring the ambiance of Hollywood to World Premiere at Disneyland Paris.",
-      "published_at": "2025-05-19T16:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Yv9SM0opCSI/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-06T00:31:23.915078",
+  "fetched_at": "2025-07-13T00:32:28.891732",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Why The Early Stages of Architecture Are So Frustrating",
+      "video_id": "LfCZu__5pII",
+      "channel_title": "DamiLee",
+      "description": "Check out Snaptrude here! https://buff.ly/qkGzMIP.",
+      "published_at": "2025-07-10T16:49:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LfCZu__5pII/hqdefault.jpg"
+    },
     {
       "title": "What happens when death rituals collide with modern urban living?",
       "video_id": "drepSCQrOz4",
@@ -75,14 +83,6 @@
       "description": "Construction doesn't always mean piling things on—sometimes, it's about what you remove. In Dune: Part Two, this stunning cave ...",
       "published_at": "2025-05-30T15:31:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nv8o2OckZYI/hqdefault.jpg"
-    },
-    {
-      "title": "How do the Fremen stay cool in the desert? 🤔",
-      "video_id": "t6AcmtkoQRk",
-      "channel_title": "DamiLee",
-      "description": "Ancient construction methods weren't just practical—they were pretty genius. And when it comes to the Fremen's windtraps in ...",
-      "published_at": "2025-05-26T15:31:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t6AcmtkoQRk/hqdefault.jpg"
     }
   ]
 }

@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2025-07-06T00:31:21.385502",
+  "fetched_at": "2025-07-13T00:32:26.539192",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
-    {
-      "title": "Microsoft is transforming football with AI for Premier League fans",
-      "video_id": "-P35wAhOP6c",
-      "channel_title": "Microsoft",
-      "description": "Discover how Microsoft is transforming the Premier League with AI and cloud. From real-time insights to personalized fan ...",
-      "published_at": "2025-07-01T14:59:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-P35wAhOP6c/hqdefault.jpg"
-    },
     {
       "title": "Students are learning to read with the help of AI-powered Microsoft Reading Coach",
       "video_id": "W4jOURTL7iA",
@@ -83,6 +75,14 @@
       "description": "When team driver Pierre Gasly forgets a birthday, Microsoft Copilot has his back. Learn more: ...",
       "published_at": "2024-06-03T15:30:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DA2_e-qB9dQ/hqdefault.jpg"
+    },
+    {
+      "title": "Infrastructure | Satya Nadella at Microsoft Build 2024",
+      "video_id": "2G97BW32pWg",
+      "channel_title": "Microsoft",
+      "description": "Satya Nadella at Microsoft Build 2024 - Satya Nadella talks about Microsoft's innovation in Infrastructure Subscribe to Microsoft on ...",
+      "published_at": "2024-05-22T00:05:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2G97BW32pWg/hqdefault.jpg"
     }
   ]
 }

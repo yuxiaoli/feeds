@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-06T00:31:04.021105",
+  "fetched_at": "2025-07-13T00:32:08.830962",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
+    {
+      "title": "Build your Deep Research agent in Azure AI Foundry",
+      "video_id": "ph4mPmMNDEQ",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover how to build a powerful research agent using Azure AI Foundry Agent Service, featuring the new Deep Research model ...",
+      "published_at": "2025-07-07T16:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ph4mPmMNDEQ/hqdefault.jpg"
+    },
     {
       "title": "Human agency is the force-multiplier for AI | Scott Hanselman, Microsoft",
       "video_id": "tjdQvIpOlAA",
@@ -75,14 +83,6 @@
       "description": "Carvana built an AI-powered conversation analysis engine to enhance visibility and continuously improve every customer ...",
       "published_at": "2025-05-19T16:01:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/obcYLjzSX6E/hqdefault.jpg"
-    },
-    {
-      "title": "AI templates in Azure AI Foundry",
-      "video_id": "xbRrAmy0ChA",
-      "channel_title": "Microsoft Azure",
-      "description": "Azure AI Foundry offers AI templates designed for the most common, high-value use cases and technical patterns – as designated ...",
-      "published_at": "2025-05-19T16:01:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xbRrAmy0ChA/hqdefault.jpg"
     }
   ]
 }
