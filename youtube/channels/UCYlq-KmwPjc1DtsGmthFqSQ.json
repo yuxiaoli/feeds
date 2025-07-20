@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-13T00:32:49.313235",
+  "fetched_at": "2025-07-20T00:33:18.818106",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "F.03 Battery Development",
+      "video_id": "Ts-TtxvfVq4",
+      "channel_title": "Figure",
+      "description": "We are presenting the Figure 03 (F.03) battery — a significant advancement in our core humanoid robot technology roadmap.",
+      "published_at": "2025-07-17T15:41:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ts-TtxvfVq4/hqdefault.jpg"
+    },
     {
       "title": "Scaling Helix - Logistics",
       "video_id": "lkc2y0yb89U",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2024-08-02T15:04:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FZbY9sReu1k/hqdefault.jpg"
-    },
-    {
-      "title": "Figure Status Update - BMW Full Use Case",
-      "video_id": "K1TrbI0BaaU",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2024-07-01T16:24:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K1TrbI0BaaU/hqdefault.jpg"
     }
   ]
 }

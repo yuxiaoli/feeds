@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-07-13T00:32:56.171844",
+  "fetched_at": "2025-07-20T00:33:25.968275",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Sound Travels",
+      "video_id": "Xocgtch54eA",
+      "channel_title": "Bang & Olufsen",
+      "description": "Trace your route, then let your soundtrack lead the way. Explore: ...",
+      "published_at": "2025-07-16T16:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xocgtch54eA/hqdefault.jpg"
+    },
+    {
+      "title": "Sound Travels",
+      "video_id": "WNP3H6r1pLs",
+      "channel_title": "Bang & Olufsen",
+      "description": "Trace your route, then let your soundtrack lead the way. Explore: ...",
+      "published_at": "2025-07-16T16:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WNP3H6r1pLs/hqdefault.jpg"
+    },
     {
       "title": "Beosound A1 3rd Gen",
       "video_id": "HNO_R3Z_CTQ",
@@ -67,22 +83,6 @@
       "description": "100 years of audio mastery and craftsmanship merges with Charles Leclerc's Monaco-inspired aesthetic.",
       "published_at": "2025-05-23T13:21:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xDGThTzrLP4/hqdefault.jpg"
-    },
-    {
-      "title": "B&amp;O X Charles Leclerc",
-      "video_id": "bzogaK6z6Yc",
-      "channel_title": "Bang & Olufsen",
-      "description": "This isn't just a place. It's a frequency.​​ #BangOlufsen ​",
-      "published_at": "2025-05-23T10:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bzogaK6z6Yc/hqdefault.jpg"
-    },
-    {
-      "title": "B&amp;O X Charles Leclerc",
-      "video_id": "cJoNK7H1md0",
-      "channel_title": "Bang & Olufsen",
-      "description": "This isn't just a place. It's a frequency.​ #BangOlufsen.",
-      "published_at": "2025-05-23T10:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cJoNK7H1md0/hqdefault.jpg"
     }
   ]
 }

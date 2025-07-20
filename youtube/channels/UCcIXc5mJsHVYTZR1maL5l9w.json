@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-07-13T00:32:53.917774",
+  "fetched_at": "2025-07-20T00:33:23.439248",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "A new course on Retrieval Augmented Generation (RAG) is here!",
+      "video_id": "uIPvSV6p92Y",
+      "channel_title": "DeepLearningAI",
+      "description": "We're thrilled to announce our new course: Retrieval Augmented Generation (RAG) RAG is a key part of building LLM ...",
+      "published_at": "2025-07-16T15:26:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uIPvSV6p92Y/hqdefault.jpg"
+    },
+    {
+      "title": "A new course on Retrieval Augmented Generation (RAG) is live!",
+      "video_id": "dFHEgsJTmDI",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/3GKWqrY We're thrilled to announce the launch of a new course: Retrieval Augmented Generation (RAG) ...",
+      "published_at": "2025-07-16T14:45:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dFHEgsJTmDI/hqdefault.jpg"
+    },
     {
       "title": "Learn to post-train LLMs in this free course",
       "video_id": "uOh4r1ZtrCM",
@@ -67,22 +83,6 @@
       "description": "Learn more: https://bit.ly/3EELtr7 Join Building AI Voice Agents for Production, created in collaboration with LiveKit and ...",
       "published_at": "2025-05-07T14:54:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mwL5Yzg6UJE/hqdefault.jpg"
-    },
-    {
-      "title": "New course! Enroll in Building Code Agents with Hugging Face smolagents",
-      "video_id": "OWZ13KiWP0s",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/3RrxUhi Learn how to build code agents in Building Code Agents with Hugging Face smolagents, ...",
-      "published_at": "2025-04-23T14:43:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OWZ13KiWP0s/hqdefault.jpg"
-    },
-    {
-      "title": "Enroll in DeepLearning.AI&#39;s Data Analytics Professional Certificate!",
-      "video_id": "xTQd3s2P8lo",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/3Rmge6P Data-informed decision-making is now an essential skill for everyone, from everyday consumer ...",
-      "published_at": "2025-04-18T16:36:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xTQd3s2P8lo/hqdefault.jpg"
     }
   ]
 }

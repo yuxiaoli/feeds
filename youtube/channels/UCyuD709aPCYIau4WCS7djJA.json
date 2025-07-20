@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-07-13T00:33:12.386727",
+  "fetched_at": "2025-07-20T00:33:42.550524",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Carrington Event 😱",
+      "video_id": "vEvvXKiQTOQ",
+      "channel_title": "Star Walk",
+      "description": "Back in 1859, Earth was hit by the most powerful geomagnetic storm in recorded history — the Carrington Event. The event ...",
+      "published_at": "2025-07-16T08:15:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vEvvXKiQTOQ/hqdefault.jpg"
+    },
+    {
+      "title": "🌞 Parker’s Christmas Ride 🚀",
+      "video_id": "L5dV72TlieE",
+      "channel_title": "Star Walk",
+      "description": "On Dec 25, 2024, NASA's Parker Solar Probe flew just 3.8 million miles from the Sun — the closest any spacecraft has ever gone!",
+      "published_at": "2025-07-14T08:07:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L5dV72TlieE/hqdefault.jpg"
+    },
     {
       "title": "Mars and Venus once had oceans, just like Earth! 🌊🌍",
       "video_id": "hjJVBYJF5n8",
@@ -67,22 +83,6 @@
       "description": "Conspiracy theorists, assemble!",
       "published_at": "2025-06-22T10:01:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dN0es7anhto/hqdefault.jpg"
-    },
-    {
-      "title": "Brightest stars ✨",
-      "video_id": "Hf0l8hZ5kPk",
-      "channel_title": "Star Walk",
-      "description": "Planning a stargazing night? Here's a quick guide to the brightest stars, the constellations they belong to, and when to spot them!",
-      "published_at": "2025-06-11T14:17:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hf0l8hZ5kPk/hqdefault.jpg"
-    },
-    {
-      "title": "What does Saturn’s retrograde really look like?  🪐",
-      "video_id": "gsntTVuHUBc",
-      "channel_title": "Star Walk",
-      "description": "Let's compare the view from Earth and space! When Saturn appears to move backward in the sky, it's not actually reversing — it's ...",
-      "published_at": "2025-06-09T08:47:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gsntTVuHUBc/hqdefault.jpg"
     }
   ]
 }

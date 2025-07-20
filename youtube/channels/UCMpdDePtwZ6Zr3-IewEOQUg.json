@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-13T00:32:36.456536",
+  "fetched_at": "2025-07-20T00:33:05.347353",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "比二向箔更可怕的《閃光》：當數學規則被篡改，宇宙會發生什麼？",
+      "video_id": "ernjQ7kRwXs",
+      "channel_title": "科學漫聊",
+      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
+      "published_at": "2025-07-16T12:45:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ernjQ7kRwXs/hqdefault.jpg"
+    },
     {
       "title": "科學實驗如何挑戰自我決定【23 分鐘精簡版】",
       "video_id": "lsjSVZWriwc",
@@ -75,14 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-03-18T14:29:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/E3nS1NpNkqo/hqdefault.jpg"
-    },
-    {
-      "title": "薛定谔生命观点的优缺点及影响力 #science #星光體 #universe #星光體 #smartphone #电力",
-      "video_id": "AE1sxprhuoQ",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-03-18T14:29:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AE1sxprhuoQ/hqdefault.jpg"
     }
   ]
 }

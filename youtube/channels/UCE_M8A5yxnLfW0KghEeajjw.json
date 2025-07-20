@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-13T00:32:22.052101",
+  "fetched_at": "2025-07-20T00:32:50.368006",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Apple Intelligence | Clean Up Photos: Cat | iPhone 16",
+      "video_id": "a6RX9kJ01Kw",
+      "channel_title": "Apple",
+      "description": "With Apple Intelligence, you can now remove distracting objects from your photos with the Clean Up tool. Learn more about ...",
+      "published_at": "2025-07-17T16:04:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a6RX9kJ01Kw/hqdefault.jpg"
+    },
     {
       "title": "Shot on iPhone 16 Pro | Big Man - Behind The Scenes | Apple",
       "video_id": "HVuB_LoUE7Q",
@@ -75,14 +83,6 @@
       "description": "Apple's new look is coming soon. Learn more at www.apple.com/os. Audio Descriptions: https://apple.co/45MsrtK “Only You” by ...",
       "published_at": "2025-06-09T18:46:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9A9XYerlCyQ/hqdefault.jpg"
-    },
-    {
-      "title": "WWDC 2025 — June 9 | Apple",
-      "video_id": "0_DjDdfqtUE",
-      "channel_title": "Apple",
-      "description": "Watch the WWDC25 keynote introducing our broadest design update ever and a more helpful Apple Intelligence. You'll also learn ...",
-      "published_at": "2025-06-09T18:41:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0_DjDdfqtUE/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-13T00:32:38.670071",
+  "fetched_at": "2025-07-20T00:33:07.771268",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "Hardest muscleup I&#39;ve done #shorts",
+      "video_id": "JJWJPdNLUNc",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2025-07-13T14:45:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JJWJPdNLUNc/hqdefault.jpg"
+    },
     {
       "title": "full range of motion pullups #shorts",
       "video_id": "k44rHVSV5Uc",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-03-22T14:45:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EGeHUvKLHys/hqdefault.jpg"
-    },
-    {
-      "title": "lat pushdown muscleups #shorts",
-      "video_id": "zOQ_22c0Pv0",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-03-15T16:37:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zOQ_22c0Pv0/hqdefault.jpg"
     }
   ]
 }

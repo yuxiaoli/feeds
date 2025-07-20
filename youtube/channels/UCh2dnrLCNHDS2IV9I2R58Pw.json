@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-13T00:33:00.014807",
+  "fetched_at": "2025-07-20T00:33:29.818615",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Kliper Spaceplane: ESA-Russia Collaboration #space #rocket #shorts",
+      "video_id": "PxLXfht-qyo",
+      "channel_title": "Hazegrayart",
+      "description": "The Kliper spaceplane was a proposed Russian reusable spacecraft intended for crewed missions to low Earth orbit (LEO), the ...",
+      "published_at": "2025-07-15T16:35:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PxLXfht-qyo/hqdefault.jpg"
+    },
     {
       "title": "Duel C5 Galaxy Carrier Landing",
       "video_id": "BoYNf2BKIN0",
@@ -75,14 +83,6 @@
       "description": "The Vickers Swallow was a Mach 2.5 supersonic aircraft project headed by Barnes Wallis, working at the British aircraft company ...",
       "published_at": "2025-06-13T19:15:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZJ3-N__2_1o/hqdefault.jpg"
-    },
-    {
-      "title": "SpaceX BFR Arrives at ISS animation",
-      "video_id": "dJDrtmUnK_M",
-      "channel_title": "Hazegrayart",
-      "description": "SpaceX BFS Arrives at the ISS animation.",
-      "published_at": "2025-06-06T14:43:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dJDrtmUnK_M/hqdefault.jpg"
     }
   ]
 }

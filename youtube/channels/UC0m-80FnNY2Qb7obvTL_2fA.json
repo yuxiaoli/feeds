@@ -1,16 +1,40 @@
 {
-  "fetched_at": "2025-07-13T00:32:08.830962",
+  "fetched_at": "2025-07-20T00:32:37.044979",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Build your Deep Research agent in Azure AI Foundry",
-      "video_id": "ph4mPmMNDEQ",
+      "title": "Deploy appliance for Physical AWS GCP",
+      "video_id": "7o70yH3xWPo",
       "channel_title": "Microsoft Azure",
-      "description": "Discover how to build a powerful research agent using Azure AI Foundry Agent Service, featuring the new Deep Research model ...",
-      "published_at": "2025-07-07T16:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ph4mPmMNDEQ/hqdefault.jpg"
+      "description": "Learn to install an Azure Migrate appliance to discover your bare-metal, AWS and GCP estate Learn more: ...",
+      "published_at": "2025-07-18T14:10:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7o70yH3xWPo/hqdefault.jpg"
+    },
+    {
+      "title": "Deploy appliance for Hyper-V",
+      "video_id": "Ahd8J2ZYO3I",
+      "channel_title": "Microsoft Azure",
+      "description": "Learn to install an agentless Azure Migrate appliance to discover your Hyper-V estate. Learn more: https://msft.it/6051s6p7z ...",
+      "published_at": "2025-07-17T16:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ahd8J2ZYO3I/hqdefault.jpg"
+    },
+    {
+      "title": "Deploy appliance for VMware",
+      "video_id": "rjvayJRpVKU",
+      "channel_title": "Microsoft Azure",
+      "description": "Learn to install an agentless Azure Migrate appliance to discover your VMware estate. Learn more: https://msft.it/6054s6V1A ...",
+      "published_at": "2025-07-17T15:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rjvayJRpVKU/hqdefault.jpg"
+    },
+    {
+      "title": "Azure Migrate project creation",
+      "video_id": "SAQwYb9F-_c",
+      "channel_title": "Microsoft Azure",
+      "description": "Learn how to get started with Azure Migrate for migrating to and modernizing in Azure. Learn more: https://msft.it/6058s6pfn ...",
+      "published_at": "2025-07-17T14:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SAQwYb9F-_c/hqdefault.jpg"
     },
     {
       "title": "Human agency is the force-multiplier for AI | Scott Hanselman, Microsoft",
@@ -59,30 +83,6 @@
       "description": "Catch up on the highlights from Satya Nadella's Microsoft Build keynote, tailored for software companies. Read about the latest ...",
       "published_at": "2025-05-29T14:01:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/f7POcnSsGzY/hqdefault.jpg"
-    },
-    {
-      "title": "Software development is an act of empathy | Kilimo",
-      "video_id": "c7R6auLG6fg",
-      "channel_title": "Microsoft Azure",
-      "description": "Water is fundamental to our existence, but only a tiny fraction of fresh water on Earth is available to sustain life. How can we ...",
-      "published_at": "2025-05-28T16:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c7R6auLG6fg/hqdefault.jpg"
-    },
-    {
-      "title": "Demo: Azure AI Foundry SDK",
-      "video_id": "mOs3-4S1_Ys",
-      "channel_title": "Microsoft Azure",
-      "description": "Discover the latest capabilities offered in the unified Azure AI Foundry SDK. Design, customize, and manage AI applications and ...",
-      "published_at": "2025-05-19T16:01:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mOs3-4S1_Ys/hqdefault.jpg"
-    },
-    {
-      "title": "Carvana builds efficient, seamless customer experience with agent on Azure",
-      "video_id": "obcYLjzSX6E",
-      "channel_title": "Microsoft Azure",
-      "description": "Carvana built an AI-powered conversation analysis engine to enhance visibility and continuously improve every customer ...",
-      "published_at": "2025-05-19T16:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/obcYLjzSX6E/hqdefault.jpg"
     }
   ]
 }

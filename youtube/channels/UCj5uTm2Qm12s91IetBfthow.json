@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-13T00:33:00.772218",
+  "fetched_at": "2025-07-20T00:33:30.587709",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "7月最新143个开源项目总结",
+      "video_id": "oSMzhbpL7Lk",
+      "channel_title": "Find Interesting AI",
+      "description": "相关文档： https://qadso0i11yj.feishu.cn/base/TxAqbl1t8a1EpAs2zjWcqhvKn5d?from=from_copylink.",
+      "published_at": "2025-07-16T00:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oSMzhbpL7Lk/hqdefault.jpg"
+    },
     {
       "title": "千里挑一，论文分享",
       "video_id": "IEY5Y3wdoPk",
@@ -75,14 +83,6 @@
       "description": "相关链接： https://github.com/ranaroussi/yfinance https://github.com/Micro-sheep/efinance https://github.com/vnpy/vnpy ...",
       "published_at": "2025-04-13T06:00:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fH4KbFWkTWM/hqdefault.jpg"
-    },
-    {
-      "title": "最新的AI论文研究趋势",
-      "video_id": "w9_gvTTFuh8",
-      "channel_title": "Find Interesting AI",
-      "description": "",
-      "published_at": "2025-04-05T16:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w9_gvTTFuh8/hqdefault.jpg"
     }
   ]
 }

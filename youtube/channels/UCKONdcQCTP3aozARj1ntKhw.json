@@ -1,24 +1,32 @@
 {
-  "fetched_at": "2025-07-13T00:32:31.087604",
+  "fetched_at": "2025-07-20T00:32:59.782855",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
     {
-      "title": "Warp Updates | Dirty Git Branch, UDI Styling, Terminal Mode",
-      "video_id": "F6BPFUzJFyM",
-      "channel_title": "Warp",
-      "description": "A couple of new improvements to announce in Warp: 1. Close tab button on left 2. UDI only shows styling when active 3. Press ! to ...",
-      "published_at": "2025-07-11T21:26:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F6BPFUzJFyM/hqdefault.jpg"
-    },
-    {
       "title": "Defining the future of development with OpenAI &amp; Warp",
       "video_id": "Kw6bfR5oLuQ",
       "channel_title": "Warp",
       "description": "",
-      "published_at": "2025-07-10T22:14:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Kw6bfR5oLuQ/hqdefault_live.jpg"
+      "published_at": "2025-07-18T18:06:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Kw6bfR5oLuQ/hqdefault.jpg"
+    },
+    {
+      "title": "Warp Update: Keep your secrets secure with Warp coding agents",
+      "video_id": "w8ZQ5lYXhM4",
+      "channel_title": "Warp",
+      "description": "Secret redaction is enabled by default in Warp! Perfect for: - Demoing or recording coding/terminal sessions - Sharing screenshots ...",
+      "published_at": "2025-07-15T18:03:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w8ZQ5lYXhM4/hqdefault.jpg"
+    },
+    {
+      "title": "Warp Updates | Dirty Git Branch, Universal Input Styling, Terminal Mode",
+      "video_id": "F6BPFUzJFyM",
+      "channel_title": "Warp",
+      "description": "A couple of new improvements to announce in Warp: 1. Close tab button on left 2. Universal Input only shows styling when active ...",
+      "published_at": "2025-07-11T21:26:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F6BPFUzJFyM/hqdefault.jpg"
     },
     {
       "title": "Warp x Anthropic: Supercharge your development with Warp &amp; Claude 4",
@@ -75,14 +83,6 @@
       "description": "We've launched so many new features in Warp in just the last month, including MCP support (in Preview), Kitty image support, ...",
       "published_at": "2025-05-14T14:44:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hqC8RSGhBRA/hqdefault.jpg"
-    },
-    {
-      "title": "Building a social listening Slackbot with Warp",
-      "video_id": "Nshgv9QuWq4",
-      "channel_title": "Warp",
-      "description": "Learn how to code by prompt with Warp!",
-      "published_at": "2025-05-06T17:10:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nshgv9QuWq4/hqdefault.jpg"
     }
   ]
 }

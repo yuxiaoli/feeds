@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-13T00:32:18.200716",
+  "fetched_at": "2025-07-20T00:32:46.433664",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "Dodge Made a Monster",
+      "video_id": "q4Jy_4Tdk-U",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2025-07-16T06:32:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/q4Jy_4Tdk-U/hqdefault.jpg"
+    },
     {
       "title": "She fuels up like she’s got a city to outrun. #catwoman #bmw #videography",
       "video_id": "5Mcy8qNkOUk",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-04-22T18:22:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IJ9L905ThvE/hqdefault.jpg"
-    },
-    {
-      "title": "The Joker’s Mustang is Nothing to Play With @AgentsofKhaosJoker #mustang #jokeredit #cinematic",
-      "video_id": "O4urQqFysUY",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-04-05T12:56:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O4urQqFysUY/hqdefault.jpg"
     }
   ]
 }

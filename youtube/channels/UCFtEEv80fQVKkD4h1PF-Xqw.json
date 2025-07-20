@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-07-13T00:32:26.539192",
+  "fetched_at": "2025-07-20T00:32:55.150986",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
+    {
+      "title": "Minecraft teaches kids to stay safe online",
+      "video_id": "aucW6HBfIWI",
+      "channel_title": "Microsoft",
+      "description": "Minecraft Education is giving schools around the world a creative and powerful way to engage students in critical topics like online ...",
+      "published_at": "2025-07-18T19:57:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aucW6HBfIWI/hqdefault.jpg"
+    },
+    {
+      "title": "Can AI decode the tree of life? #aiforgood #microsoft #nvidia",
+      "video_id": "XMevOcGWy04",
+      "channel_title": "Microsoft",
+      "description": "In the Catalyst series, we spotlight visionaries using AI to tackle global challenges. Episode 2 follows Basecamp Research and its ...",
+      "published_at": "2025-07-17T18:59:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XMevOcGWy04/hqdefault.jpg"
+    },
+    {
+      "title": "How AI is mapping the tree of life | Microsoft Azure and NVIDIA",
+      "video_id": "IbN3ClySZsg",
+      "channel_title": "Microsoft",
+      "description": "Microsoft Azure and NVIDIA present Catalyst: a new series that spotlights the visionaries using AI to tackle global challenges.",
+      "published_at": "2025-07-17T18:59:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IbN3ClySZsg/hqdefault.jpg"
+    },
+    {
+      "title": "Changing how doctors diagnose diseases with AI | Microsoft Azure and NVIDIA",
+      "video_id": "yKPu8n42LPs",
+      "channel_title": "Microsoft",
+      "description": "Introducing Catalyst: a new docuseries about the future of AI that follows groundbreaking global companies that are changing the ...",
+      "published_at": "2025-06-17T20:59:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yKPu8n42LPs/hqdefault.jpg"
+    },
     {
       "title": "Students are learning to read with the help of AI-powered Microsoft Reading Coach",
       "video_id": "W4jOURTL7iA",
@@ -51,38 +83,6 @@
       "description": "0:00 Intro – Michele Elam 1:00 Early life, pathway into tech and AI 11:06 The engineering mindset 17:04 Kevin & Michele get ...",
       "published_at": "2025-01-21T16:59:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wFgxS36DxJI/hqdefault.jpg"
-    },
-    {
-      "title": "Refik Anadol and Kevin Scott at the intersection of AI and Art",
-      "video_id": "R93cfvrdGFQ",
-      "channel_title": "Microsoft",
-      "description": "Refik Anadol, an internationally renowned media artist and director, joins Behind the Tech to discuss his journey from a childhood ...",
-      "published_at": "2024-11-12T17:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R93cfvrdGFQ/hqdefault.jpg"
-    },
-    {
-      "title": "Kyriakos Mitsotakis, Prime Minister of Greece: Digital transformation for the people, by the people",
-      "video_id": "HRe9YGY9TTA",
-      "channel_title": "Microsoft",
-      "description": "As Greece's Prime Minister, Kyriakos Mitsotakis has put digital technology to work to drive economic resurgence, develop a ...",
-      "published_at": "2024-10-05T16:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HRe9YGY9TTA/hqdefault.jpg"
-    },
-    {
-      "title": "BWT Alpine F1 Team&#39;s Everyday AI Companion | Microsoft Copilot",
-      "video_id": "DA2_e-qB9dQ",
-      "channel_title": "Microsoft",
-      "description": "When team driver Pierre Gasly forgets a birthday, Microsoft Copilot has his back. Learn more: ...",
-      "published_at": "2024-06-03T15:30:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DA2_e-qB9dQ/hqdefault.jpg"
-    },
-    {
-      "title": "Infrastructure | Satya Nadella at Microsoft Build 2024",
-      "video_id": "2G97BW32pWg",
-      "channel_title": "Microsoft",
-      "description": "Satya Nadella at Microsoft Build 2024 - Satya Nadella talks about Microsoft's innovation in Infrastructure Subscribe to Microsoft on ...",
-      "published_at": "2024-05-22T00:05:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2G97BW32pWg/hqdefault.jpg"
     }
   ]
 }

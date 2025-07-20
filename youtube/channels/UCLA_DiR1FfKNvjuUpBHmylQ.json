@@ -1,24 +1,16 @@
 {
-  "fetched_at": "2025-07-13T00:32:34.132765",
+  "fetched_at": "2025-07-20T00:33:03.032225",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 4,
+  "count": 3,
   "videos": [
     {
-      "title": "Axiom Mission 4 Undocking",
-      "video_id": "fmm5wq53j-g",
+      "title": "How Can I Get Involved with NASA Science? We Asked a NASA Expert",
+      "video_id": "MhARw9Z8aZI",
       "channel_title": "NASA",
-      "description": "Watch Axiom Mission 4 begin the journey home from the International Space Station. Peggy Whitson, former NASA astronaut and ...",
-      "published_at": "2025-07-11T19:35:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fmm5wq53j-g/hqdefault_live.jpg"
-    },
-    {
-      "title": "Axiom Mission 4 Hatch Close",
-      "video_id": "BkUmeVlocCU",
-      "channel_title": "NASA",
-      "description": "Watch as the Axiom Mission 4 crew – Peggy Whitson, former NASA astronaut and director of human spaceflight at Axiom Space, ...",
-      "published_at": "2025-07-11T17:42:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BkUmeVlocCU/hqdefault_live.jpg"
+      "description": "Want to do real NASA science? You can. Right now, dozens of NASA projects need your help. From spotting asteroids to ...",
+      "published_at": "2025-07-18T16:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MhARw9Z8aZI/hqdefault.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

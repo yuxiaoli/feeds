@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-07-13T00:32:15.884527",
+  "fetched_at": "2025-07-20T00:32:44.126425",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Open Source Friday with Cluecumber - Turning Cucumber Tests into Clean Reports",
-      "video_id": "ab-IHhGjOSY",
+      "title": "How to create your first GitHub Copilot Space (Step-by-step guide)",
+      "video_id": "6pbdTiT-Pcg",
       "channel_title": "GitHub",
-      "description": "Join us as we chat with the maintainer of Cluecumber, an open-source reporting plugin that turns your Cucumber test results into ...",
-      "published_at": "2025-07-12T05:48:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ab-IHhGjOSY/hqdefault.jpg"
+      "description": "Unlock the power of focused AI assistance with GitHub Copilot Spaces. This tutorial shows you how to get started by creating and ...",
+      "published_at": "2025-07-19T14:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6pbdTiT-Pcg/hqdefault.jpg"
     },
     {
-      "title": "Open Source Zone with with Mockoon",
-      "video_id": "J2FQVBmBttY",
+      "title": "Open Source Friday with Keploy - AI-Powered Testing for Developers!",
+      "video_id": "smZUgf-YMzg",
       "channel_title": "GitHub",
-      "description": "Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.",
-      "published_at": "2025-07-12T03:22:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J2FQVBmBttY/hqdefault.jpg"
+      "description": "Join us as we chat with the maintainer of Keploy, the open-source tool that auto-generates test cases and mocks from real API ...",
+      "published_at": "2025-07-19T05:46:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/smZUgf-YMzg/hqdefault.jpg"
     },
     {
-      "title": "Open Source Zone with Image Glass",
-      "video_id": "Q-j1jGL7_rw",
+      "title": "[pt-BR🇧🇷] Open Source Friday Brasil comJuliana Fajardini Reichow",
+      "video_id": "faHQgavYtyc",
       "channel_title": "GitHub",
-      "description": "ImageGlass stands as an open-source, ad-free photo viewer, yet its development and upkeep demand resources. Your financial ...",
-      "published_at": "2025-07-11T15:38:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q-j1jGL7_rw/hqdefault.jpg"
+      "description": "Open Source Friday Brasil | Suricata com Juliana Fajardini Reichow Neste episódio do Open Source Friday Brasil, ...",
+      "published_at": "2025-07-19T05:14:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/faHQgavYtyc/hqdefault.jpg"
     },
     {
-      "title": "Open Source Zone with Cilium",
-      "video_id": "rSIb4hBPOmg",
+      "title": "The Download: Cloudflare blocks AI crawlers, Perplexity launches AI-powered browser &amp; more",
+      "video_id": "QtzzbziERAU",
       "channel_title": "GitHub",
-      "description": "Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat Layer 3 ...",
-      "published_at": "2025-07-11T14:21:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rSIb4hBPOmg/hqdefault.jpg"
+      "description": "This week on The Download, we're covering major shifts in the tech landscape as Cloudflare is now blocking AI crawlers by ...",
+      "published_at": "2025-07-18T16:48:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QtzzbziERAU/hqdefault.jpg"
     },
     {
-      "title": "Open Source Zone with Ladybird Browser",
-      "video_id": "vU1tSj_uUU0",
-      "channel_title": "GitHub",
-      "description": "Ladybird is an open-source web browser developed by the Ladybird Browser Initiative, a nonprofit organization focused on ...",
-      "published_at": "2025-07-11T13:42:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vU1tSj_uUU0/hqdefault.jpg"
-    },
-    {
-      "title": "Open Source Zone live from WAD with Kestra",
-      "video_id": "aMcDcQmFz1s",
-      "channel_title": "GitHub",
-      "description": "Kestra is Open Source, unified orchestration for all engineers. Build and govern all your workflows — Everything-as-Code, and ...",
-      "published_at": "2025-07-11T13:16:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aMcDcQmFz1s/hqdefault.jpg"
-    },
-    {
-      "title": "Live from We Are Developers Congress GitHub Open Source Zone",
-      "video_id": "57f-H_DvITY",
+      "title": "Rubber Duck Thursday - hacking with agent mode",
+      "video_id": "y1qqrs7Ie24",
       "channel_title": "GitHub",
       "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2025-07-11T12:52:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/57f-H_DvITY/hqdefault.jpg"
+      "published_at": "2025-07-18T07:42:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y1qqrs7Ie24/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR🇧🇷] Quinta do Patinho: Construindo um Encurtador de Links com Dashboard ao Vivo",
-      "video_id": "228tByoyNYM",
+      "title": "Open Source Friday with Tesseral - Auth Infra for SaaS Apps",
+      "video_id": "nPnb57iXwxo",
       "channel_title": "GitHub",
-      "description": "Brazilian Stream, in portuguese     Hoje na Quinta do Patinho vamos construir (ou pelo enos tentar haha) um encurtador de ...",
-      "published_at": "2025-07-11T09:04:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/228tByoyNYM/hqdefault.jpg"
+      "description": "Join us for a chat with Tesseral - the pen source auth infrastructure for SaaS apps. Tesseral is a multi-tenant, API-first service ...",
+      "published_at": "2025-07-18T00:31:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nPnb57iXwxo/hqdefault_live.jpg"
     },
     {
-      "title": "Rubber Duck Thursday - Hack + Chill with Agent Mode",
-      "video_id": "TwVIrfhdTjU",
+      "title": "Rubber Duck Thursdays - Building a reading tracker",
+      "video_id": "frMa9rtQokA",
       "channel_title": "GitHub",
       "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We'll take a look at ...",
-      "published_at": "2025-07-11T07:20:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TwVIrfhdTjU/hqdefault.jpg"
+      "published_at": "2025-07-17T22:56:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/frMa9rtQokA/hqdefault.jpg"
     },
     {
-      "title": "Is this the end of custom ROMs? Android 16 source code released",
-      "video_id": "RJzFbEKwXGs",
+      "title": "Rubber Duck Thursday -building with agent mode for the love of code!",
+      "video_id": "W4Zik7qcnz0",
       "channel_title": "GitHub",
-      "description": "In big Android news, Google has just dropped the source code for Android 16. However, for the first time, it's missing the Pixel ...",
-      "published_at": "2025-07-10T14:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RJzFbEKwXGs/hqdefault.jpg"
+      "description": "Let's build an app with GitHub Copilot Agent Mode that we can use to enter the competition For the Love of Code:",
+      "published_at": "2025-07-17T19:58:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W4Zik7qcnz0/hqdefault_live.jpg"
+    },
+    {
+      "title": "Open Source Friday: Secure Code Game – Season 3 with Bartosz Gałek &amp; jkcso",
+      "video_id": "yctwWsjqU1M",
+      "channel_title": "GitHub",
+      "description": "Join us for a special episode of Open Source Friday featuring Bartosz Gałek and jkcso, contributors to the Secure Code Game.",
+      "published_at": "2025-07-17T19:29:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yctwWsjqU1M/hqdefault_live.jpg"
+    },
+    {
+      "title": "Event in Spanish: Jueves de Quack",
+      "video_id": "IpYbGAaiJT8",
+      "channel_title": "GitHub",
+      "description": "Con invitado especial Sergio Valverde. Únete a nuestra sesión de trabajo colaborativo donde desarrolladores de todo el mundo ...",
+      "published_at": "2025-07-17T18:06:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IpYbGAaiJT8/hqdefault.jpg"
     }
   ]
 }

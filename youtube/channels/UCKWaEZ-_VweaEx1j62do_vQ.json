@@ -1,40 +1,48 @@
 {
-  "fetched_at": "2025-07-13T00:32:32.641784",
+  "fetched_at": "2025-07-20T00:33:01.294951",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Perplexity’s Comet browser, Cloudflare blocks AI scrapers and Wimbledon Match Chat",
-      "video_id": "ieR3u8sUX-U",
+      "title": "Kimi K2, DeepSeek-R1 vibe check and Google’s data center investments",
+      "video_id": "hNvbeXus-pM",
       "channel_title": "IBM Technology",
-      "description": "Subscribe for AI updates → https://ibm.biz/Bdex8z How will AI agents change search? In episode 63 of Mixture of Experts, host ...",
-      "published_at": "2025-07-11T10:01:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ieR3u8sUX-U/hqdefault.jpg"
+      "description": "Subscribe for AI updates → https://ibm.biz/BdeEGL Is Kimi K2 actually better than Claude? In episode 64 of Mixture of Experts, ...",
+      "published_at": "2025-07-18T13:05:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hNvbeXus-pM/hqdefault.jpg"
     },
     {
-      "title": "Defeat the Quantum Menace: Protecting Data from Quantum Computers",
-      "video_id": "TU9CRyAOekQ",
+      "title": "AI Agents for Real-Time Lead Generation: Tools, Frameworks, &amp; LLMs",
+      "video_id": "T_c48yxTNuM",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Guardium Data Protection v12.x Administrator? Register now and use code IBMTechYT20 for 20% off ...",
-      "published_at": "2025-07-10T11:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TU9CRyAOekQ/hqdefault.jpg"
+      "description": "Ready to become a certified Specialist - Rhapsody for Systems? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-07-17T11:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/T_c48yxTNuM/hqdefault.jpg"
     },
     {
-      "title": "What is Content-Aware Storage? Unlocking AI&#39;s Potential with RAG",
-      "video_id": "6862BFYBe9M",
+      "title": "The Evolution of Malware: Past, Present, and the AI-Driven Future",
+      "video_id": "h85G7dBqBKU",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Analyst - Security QRadar? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-07-16T11:01:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h85G7dBqBKU/hqdefault.jpg"
+    },
+    {
+      "title": "Feature Engineering for AI: Transforming Raw Data into Predictions",
+      "video_id": "Bg3CjiJ67Cc",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-07-15T11:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Bg3CjiJ67Cc/hqdefault.jpg"
+    },
+    {
+      "title": "10 Use Cases for AI Agents: IoT, RAG, &amp; Disaster Response Explained",
+      "video_id": "Ts42JTye-AI",
       "channel_title": "IBM Technology",
       "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-07-09T11:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6862BFYBe9M/hqdefault.jpg"
-    },
-    {
-      "title": "Protecting Data in AI: Strategies for Security &amp; Governance",
-      "video_id": "LyfG7SGRiZA",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Administrator - Security QRadar SIEM? Register now and use code IBMTechYT20 for 20% off of your ...",
-      "published_at": "2025-07-08T11:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LyfG7SGRiZA/hqdefault.jpg"
+      "published_at": "2025-07-14T11:24:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ts42JTye-AI/hqdefault.jpg"
     },
     {
       "title": "Waymo&#39;s AI Learns to Drive",
@@ -75,14 +83,6 @@
       "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
       "published_at": "2025-04-28T11:01:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fXizBc03D7E/hqdefault.jpg"
-    },
-    {
-      "title": "How Infrastructure is Powering the Age of AI",
-      "video_id": "ooCwp6IGi3Q",
-      "channel_title": "IBM Technology",
-      "description": "Learn more here → https://ibm.biz/BdnHGF Discover how hardware capabilities enable the matrix math behind large language ...",
-      "published_at": "2025-04-15T20:29:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ooCwp6IGi3Q/hqdefault.jpg"
     }
   ]
 }

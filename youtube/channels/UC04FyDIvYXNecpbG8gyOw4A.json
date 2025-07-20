@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-07-13T00:32:07.056673",
+  "fetched_at": "2025-07-20T00:32:35.449631",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Behind the Tech: Live Translation",
+      "video_id": "lbWd1UQu4gY",
+      "channel_title": "Meta",
+      "description": "Hola! Bonjour! Ciao! Say hello to live translation with our AI glasses.",
+      "published_at": "2025-07-18T14:38:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lbWd1UQu4gY/hqdefault.jpg"
+    },
+    {
+      "title": "Meta AI came in clutch 🤝 who had the better shell??? 🤔 #metapartner",
+      "video_id": "e24Avo4MV44",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2025-07-16T16:38:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e24Avo4MV44/hqdefault.jpg"
+    },
+    {
+      "title": "Creating microcosmic universes, nbd, with Luke Evans #ROTW",
+      "video_id": "zXkglbusefw",
+      "channel_title": "Meta",
+      "description": "Just casually making a microcosmic universe, nbd. This dazzling Reel from @l__evans was filmed using a 120mm macro lens ...",
+      "published_at": "2025-07-15T15:15:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zXkglbusefw/hqdefault.jpg"
+    },
     {
       "title": "This is Meta AI",
       "video_id": "j5BtGIkhjtE",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2025-06-17T15:00:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7eLZJTS_LGg/hqdefault.jpg"
-    },
-    {
-      "title": "believe in yourself like our social team believes this is “just a camera test”",
-      "video_id": "xX2jz6HNKXo",
-      "channel_title": "Meta",
-      "description": "video editing is now live in the Meta AI app, making it easier than ever to transform your content. you can also add some magic to ...",
-      "published_at": "2025-06-12T14:30:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xX2jz6HNKXo/hqdefault.jpg"
-    },
-    {
-      "title": "PSA: you can also use your AI glasses to set an alarm",
-      "video_id": "YBLkGdumBgk",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-06-10T14:30:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YBLkGdumBgk/hqdefault.jpg"
-    },
-    {
-      "title": "Your personal AI. The new Meta AI app.",
-      "video_id": "2l_2k5KrXmo",
-      "channel_title": "Meta",
-      "description": "Meta AI is your personal AI for whatever life throws at you. Get the new app today.",
-      "published_at": "2025-06-06T14:16:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2l_2k5KrXmo/hqdefault.jpg"
     }
   ]
 }

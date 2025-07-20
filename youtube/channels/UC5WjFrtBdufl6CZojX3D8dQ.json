@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-13T00:32:14.393153",
+  "fetched_at": "2025-07-20T00:32:42.576371",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Super serious Cybertruck ASMR",
+      "video_id": "QrI_u-EyDvA",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-07-16T20:02:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QrI_u-EyDvA/hqdefault.jpg"
+    },
     {
       "title": "Why Drivers Love FSD",
       "video_id": "Z-wqyqgQeAI",
@@ -75,14 +83,6 @@
       "description": "Model S & X are now even better – launching this week in the US Design yours Model S – https://www.tesla.com/models ...",
       "published_at": "2025-06-13T19:41:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/k0oMa2jWXaM/hqdefault.jpg"
-    },
-    {
-      "title": "Peace of Mind at Home | Powerwall &amp; Solar",
-      "video_id": "OHsv4xmTAxQ",
-      "channel_title": "Tesla",
-      "description": "From hurricanes to winter storms, Powerwall and Solar provide our customers and their families with seamless outage protection, ...",
-      "published_at": "2025-06-11T20:54:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OHsv4xmTAxQ/hqdefault.jpg"
     }
   ]
 }

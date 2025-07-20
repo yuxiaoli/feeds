@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-13T00:32:41.725324",
+  "fetched_at": "2025-07-20T00:33:10.939075",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Can AI really help you code better?",
+      "video_id": "qWYk1RjUKc4",
+      "channel_title": "Programiz",
+      "description": "AI can help you write code fast. But making it work? That's where things get tricky. Abhishek has been experimenting with how AI ...",
+      "published_at": "2025-07-15T11:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qWYk1RjUKc4/hqdefault.jpg"
+    },
     {
       "title": "Why Your Code “Works” But You Still Don’t Get It",
       "video_id": "rxVTlNACr0c",
@@ -75,14 +83,6 @@
       "description": "This Black Friday, get 60% OFF on Programiz PRO! ✨ End the year strong with our only deal of 2024. Pay once and get lifetime ...",
       "published_at": "2024-11-14T08:00:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/TgBF5NXWuwQ/hqdefault.jpg"
-    },
-    {
-      "title": "Relationship network of Harry Potter using Python | Shorts",
-      "video_id": "TO_UqGXyNN0",
-      "channel_title": "Programiz",
-      "description": "Relationship network of Harry Potter using Python Create captivating relationship network with ease on Programiz PRO ...",
-      "published_at": "2023-06-23T15:05:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TO_UqGXyNN0/hqdefault.jpg"
     }
   ]
 }
