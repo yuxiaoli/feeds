@@ -1,16 +1,64 @@
 {
-  "fetched_at": "2025-07-20T00:32:41.774227",
+  "fetched_at": "2025-07-27T00:32:40.560666",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "did you know about this in Python?",
-      "video_id": "jxtxc1sqs3U",
+      "title": "Build ANYTHING With an Advanced MCP Server (Python, Authentication, Databases &amp; More)",
+      "video_id": "j5f2EQf5hkw",
+      "channel_title": "Tech With Tim",
+      "description": "In this video, I'll give you a full tutorial on building advanced servers in Python. That means we're going to go beyond the basics.",
+      "published_at": "2025-07-25T14:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j5f2EQf5hkw/hqdefault.jpg"
+    },
+    {
+      "title": "If you can solve THIS you can work at Nvidia",
+      "video_id": "dvJ5IRtlyec",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-19T16:01:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jxtxc1sqs3U/hqdefault.jpg"
+      "published_at": "2025-07-24T01:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dvJ5IRtlyec/hqdefault.jpg"
+    },
+    {
+      "title": "What does the filter function do in Python?",
+      "video_id": "KNtKUj0sjBE",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-07-23T21:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KNtKUj0sjBE/hqdefault.jpg"
+    },
+    {
+      "title": "If you can solve THIS you can work at Google",
+      "video_id": "ARVKxHCUQ9s",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-07-23T19:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ARVKxHCUQ9s/hqdefault.jpg"
+    },
+    {
+      "title": "What do dataclass decorators do in Python?",
+      "video_id": "LYAGDk7m5iA",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-07-23T16:39:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LYAGDk7m5iA/hqdefault.jpg"
+    },
+    {
+      "title": "How to become a Python developer FAST",
+      "video_id": "j_m0ppzM2qU",
+      "channel_title": "Tech With Tim",
+      "description": "These are two of the best beginner-friendly Python resources I recommend: Python Programming Fundamentals (Datacamp) ...",
+      "published_at": "2025-07-23T14:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j_m0ppzM2qU/hqdefault.jpg"
+    },
+    {
+      "title": "How I Mastered Data Structures and Algorithms",
+      "video_id": "ryeycH0njP8",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-07-21T13:01:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ryeycH0njP8/hqdefault.jpg"
     },
     {
       "title": "The Easiest Ways to Run LLMs Locally - Docker Model Runner Tutorial",
@@ -19,54 +67,6 @@
       "description": "Download Docker Desktop: https://docs.docker.com/desktop/ Docker Model Runner Docs: ...",
       "published_at": "2025-07-19T13:30:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GOgfQxDPaDw/hqdefault.jpg"
-    },
-    {
-      "title": "Don&#39;t make this mistake on your coding resume",
-      "video_id": "_FgM2kPJk54",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-19T12:53:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_FgM2kPJk54/hqdefault.jpg"
-    },
-    {
-      "title": "The BIGGEST mistake coders make on their resume",
-      "video_id": "qT7Wk8t_OCU",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-17T14:05:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qT7Wk8t_OCU/hqdefault.jpg"
-    },
-    {
-      "title": "How To Pass Coding Interviews Like the Top 1%",
-      "video_id": "FNL61tvwBUg",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-17T13:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FNL61tvwBUg/hqdefault.jpg"
-    },
-    {
-      "title": "If you can solve THIS you can work at Apple",
-      "video_id": "wttq5LtIrcI",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-16T12:01:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wttq5LtIrcI/hqdefault.jpg"
-    },
-    {
-      "title": "PLEASE Stop Making These Python Coding Mistakes",
-      "video_id": "iDcR71NIJ0U",
-      "channel_title": "Tech With Tim",
-      "description": "Checkout Manage Engine Site24x7 and eveluate the product for free: ...",
-      "published_at": "2025-07-15T15:01:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iDcR71NIJ0U/hqdefault.jpg"
-    },
-    {
-      "title": "Lovart Review: The AI That&#39;s About to End Design Jobs (Early Access)",
-      "video_id": "ZRl83_GtdNU",
-      "channel_title": "Tech With Tim",
-      "description": "Get yourself on the Lovart Waitlist Today by checking out Lovart.ai\" / \"explore www.lovart.ai and start vibe designing now!",
-      "published_at": "2025-07-13T15:04:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZRl83_GtdNU/hqdefault.jpg"
     },
     {
       "title": "THIS is why you keep getting ghosted by recruiters",

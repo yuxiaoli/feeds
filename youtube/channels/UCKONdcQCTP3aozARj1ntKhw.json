@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-20T00:32:59.782855",
+  "fetched_at": "2025-07-27T00:32:58.412758",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Warp Updates: Session restoration, tab tooltips &amp; keyboard configs",
+      "video_id": "qaWgxww8di4",
+      "channel_title": "Warp",
+      "description": "A couple of new improvements to announce in Warp! 00:24 MCP Session Restoration (Warp Preview, should be in next Stable ...",
+      "published_at": "2025-07-23T16:47:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qaWgxww8di4/hqdefault.jpg"
+    },
     {
       "title": "Defining the future of development with OpenAI &amp; Warp",
       "video_id": "Kw6bfR5oLuQ",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-05-29T19:14:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GwQACNz273E/hqdefault.jpg"
-    },
-    {
-      "title": "Launch Log 02 | Warp Updates",
-      "video_id": "hqC8RSGhBRA",
-      "channel_title": "Warp",
-      "description": "We've launched so many new features in Warp in just the last month, including MCP support (in Preview), Kitty image support, ...",
-      "published_at": "2025-05-14T14:44:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hqC8RSGhBRA/hqdefault.jpg"
     }
   ]
 }

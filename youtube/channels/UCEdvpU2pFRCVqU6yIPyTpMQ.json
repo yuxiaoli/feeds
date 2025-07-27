@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-20T00:32:51.178072",
+  "fetched_at": "2025-07-27T00:32:49.964213",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "Which pose is your favorite? @JonasBrothers",
+      "video_id": "ZODggwuM6A0",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-07-24T19:43:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZODggwuM6A0/hqdefault.jpg"
+    },
     {
       "title": "I can’t wait for yall to watch this @SmurfsMovie",
       "video_id": "iWraO07JAqo",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-05-09T17:53:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bbZpePQPyiE/hqdefault.jpg"
-    },
-    {
-      "title": "What a magical moment in China❤️",
-      "video_id": "9ryPinQw_a8",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-05-05T21:49:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9ryPinQw_a8/hqdefault.jpg"
     }
   ]
 }

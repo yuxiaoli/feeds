@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-20T00:33:17.271728",
+  "fetched_at": "2025-07-27T00:33:14.944062",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "5 More ChatGPT Prompts to Add to Your Collection",
+      "video_id": "iFHmvwvVCSg",
+      "channel_title": "OpenAI",
+      "description": "",
+      "published_at": "2025-07-21T18:10:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iFHmvwvVCSg/hqdefault.jpg"
+    },
     {
       "title": "ChatGPT ‘Day In My Future Life’ Trend",
       "video_id": "QVRKC8i1f1k",
@@ -21,7 +29,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AAnw4Tz9xe4/hqdefault.jpg"
     },
     {
-      "title": "ChatGPT agent Does Research &amp; Action",
+      "title": "ChatGPT agent Does Research &amp; Actions",
       "video_id": "Ht2QW5PV-eY",
       "channel_title": "OpenAI",
       "description": "",
@@ -69,20 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/1jn_RpbPbEc/hqdefault.jpg"
     },
     {
-      "title": "ChatGPT agent",
+      "title": "A Look at ChatGPT agent",
       "video_id": "2wzGS_WUZYQ",
       "channel_title": "OpenAI",
       "description": "ChatGPT can now do work for you using its own computer. Introducing ChatGPT agent—a unified agentic system combining ...",
       "published_at": "2025-07-17T17:27:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2wzGS_WUZYQ/hqdefault.jpg"
-    },
-    {
-      "title": "Here&#39;s how to make these in ChatGPT",
-      "video_id": "u9E8D0q7vYc",
-      "channel_title": "OpenAI",
-      "description": "1. Upload a picture of yourself/subject using the ✚ button in ChatGPT. 2. Ask chat for: ➡️ A black and white close-up portrait with ...",
-      "published_at": "2025-07-16T13:01:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u9E8D0q7vYc/hqdefault.jpg"
     }
   ]
 }

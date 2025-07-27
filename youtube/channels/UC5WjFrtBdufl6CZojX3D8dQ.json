@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-07-20T00:32:42.576371",
+  "fetched_at": "2025-07-27T00:32:41.318945",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Order Tesla Diner meals right from your car",
+      "video_id": "oXqhxJnyrHU",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-07-24T22:24:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oXqhxJnyrHU/hqdefault.jpg"
+    },
+    {
+      "title": "Tesla Q2 2025 Financial Results and Q&amp;A Webcast",
+      "video_id": "pLjG7a-NX7U",
+      "channel_title": "Tesla",
+      "description": "Start of call: https://youtu.be/pLjG7a-NX7U?list=PLEox0nUMFPF4TOgwz6PYqoV_lhyENbWr6&t=286.",
+      "published_at": "2025-07-23T22:33:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pLjG7a-NX7U/hqdefault.jpg"
+    },
+    {
+      "title": "Tesla Diner is here | Open 24/7",
+      "video_id": "p05TY8f65IU",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-07-22T22:45:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p05TY8f65IU/hqdefault.jpg"
+    },
+    {
+      "title": "Tesla Diner | Open 24/7",
+      "video_id": "cVNXiqpMs0c",
+      "channel_title": "Tesla",
+      "description": "Located in Hollywood, Tesla Diner is a retro-futuristic diner & drive-in charging experience all wrapped into one.",
+      "published_at": "2025-07-21T23:22:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cVNXiqpMs0c/hqdefault.jpg"
+    },
     {
       "title": "Super serious Cybertruck ASMR",
       "video_id": "QrI_u-EyDvA",
@@ -51,38 +83,6 @@
       "description": "The world's first autonomous delivery of a car! This Model Y drove itself from Gigafactory Texas to its new owner's home ~30min ...",
       "published_at": "2025-06-28T04:48:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GU16hXSSGKs/hqdefault.jpg"
-    },
-    {
-      "title": "Model 3 Performance seats",
-      "video_id": "alVeBDFo0sk",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-06-21T20:12:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/alVeBDFo0sk/hqdefault.jpg"
-    },
-    {
-      "title": "Dynamic ambient lighting on Model S &amp; X",
-      "video_id": "qteGFagMp3g",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-06-16T20:55:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qteGFagMp3g/hqdefault.jpg"
-    },
-    {
-      "title": "Meet the Updated Model S &amp; X",
-      "video_id": "47U0dBn7his",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-06-13T21:22:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/47U0dBn7his/hqdefault.jpg"
-    },
-    {
-      "title": "Meet the Updated Model S &amp; X | Tesla",
-      "video_id": "k0oMa2jWXaM",
-      "channel_title": "Tesla",
-      "description": "Model S & X are now even better – launching this week in the US Design yours Model S – https://www.tesla.com/models ...",
-      "published_at": "2025-06-13T19:41:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k0oMa2jWXaM/hqdefault.jpg"
     }
   ]
 }

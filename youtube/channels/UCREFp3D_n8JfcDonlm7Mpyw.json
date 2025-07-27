@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-20T00:33:10.939075",
+  "fetched_at": "2025-07-27T00:33:08.936840",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Wish You Had This When You First Learned to Code?",
+      "video_id": "F9WJySgwCXM",
+      "channel_title": "Programiz",
+      "description": "Sana used to map out code on her whiteboard. Now she uses the Code Visualizer from Programiz PRO. See what your code does ...",
+      "published_at": "2025-07-24T08:37:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F9WJySgwCXM/hqdefault.jpg"
+    },
     {
       "title": "Can AI really help you code better?",
       "video_id": "qWYk1RjUKc4",
@@ -75,14 +83,6 @@
       "description": "Ever wondered how websites hide your passwords and credit card numbers with asterisks (****)? In just 3 lines of Python, you'll ...",
       "published_at": "2025-02-14T10:24:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WLQVdpbVJJs/hqdefault.jpg"
-    },
-    {
-      "title": "Black Friday Exclusive: 60% off on Programiz PRO! #blackfridaydeal #coding",
-      "video_id": "TgBF5NXWuwQ",
-      "channel_title": "Programiz",
-      "description": "This Black Friday, get 60% OFF on Programiz PRO! ✨ End the year strong with our only deal of 2024. Pay once and get lifetime ...",
-      "published_at": "2024-11-14T08:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TgBF5NXWuwQ/hqdefault.jpg"
     }
   ]
 }

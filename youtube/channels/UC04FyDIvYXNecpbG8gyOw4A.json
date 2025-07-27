@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-07-20T00:32:35.449631",
+  "fetched_at": "2025-07-27T00:32:34.450657",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Unpacking with Meta AI",
+      "video_id": "vxSgD1zKpHY",
+      "channel_title": "Meta",
+      "description": "Executive dysfunction has met its match.",
+      "published_at": "2025-07-25T14:01:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vxSgD1zKpHY/hqdefault.jpg"
+    },
+    {
+      "title": "Discover Byron Bay with Meta AI",
+      "video_id": "2QNQK_JivWM",
+      "channel_title": "Meta",
+      "description": "Discovering the magic of Byron Bay! This beautiful town has so much to discover, from beautiful cafes to stunning beaches ...",
+      "published_at": "2025-07-24T22:05:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2QNQK_JivWM/hqdefault.jpg"
+    },
+    {
+      "title": "What are you listening to? Take 12",
+      "video_id": "SvBxiRZcXSc",
+      "channel_title": "Meta",
+      "description": "Meta AI: here when it counts.",
+      "published_at": "2025-07-22T14:52:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SvBxiRZcXSc/hqdefault.jpg"
+    },
+    {
+      "title": "AI&#39;m Here to Help",
+      "video_id": "s0EhywBXR9A",
+      "channel_title": "Meta",
+      "description": "Trying to get OOO fast this summer? Meta AI is here to help.",
+      "published_at": "2025-07-21T14:06:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s0EhywBXR9A/hqdefault.jpg"
+    },
     {
       "title": "Behind the Tech: Live Translation",
       "video_id": "lbWd1UQu4gY",
@@ -51,38 +83,6 @@
       "description": "It all starts with a touch. Check out the work Meta is doing to advance the perception, dexterity, and usability of robotic tools like the ...",
       "published_at": "2025-07-01T14:12:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/kvBK09W-m7A/hqdefault.jpg"
-    },
-    {
-      "title": "Your personal AI. The new Meta AI app.",
-      "video_id": "jjwt-7Iov0k",
-      "channel_title": "Meta",
-      "description": "For whatever life throws at you. Get the new app today.",
-      "published_at": "2025-06-24T13:32:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jjwt-7Iov0k/hqdefault.jpg"
-    },
-    {
-      "title": "brb we’re going to be singing this all week",
-      "video_id": "VRqkbZRD2C8",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-06-18T19:16:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VRqkbZRD2C8/hqdefault.jpg"
-    },
-    {
-      "title": "Meta passkeys | An easier way to sign in",
-      "video_id": "L32d6g5W1Ds",
-      "channel_title": "Meta",
-      "description": "Passkeys are secure digital credentials that act as alternatives for passwords. They allow you to log in to websites and apps ...",
-      "published_at": "2025-06-18T15:58:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L32d6g5W1Ds/hqdefault.jpg"
-    },
-    {
-      "title": "words can&#39;t describe how these @meta.ai crafts made us...felt",
-      "video_id": "7eLZJTS_LGg",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-06-17T15:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7eLZJTS_LGg/hqdefault.jpg"
     }
   ]
 }

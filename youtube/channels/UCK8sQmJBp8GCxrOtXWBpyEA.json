@@ -1,32 +1,40 @@
 {
-  "fetched_at": "2025-07-20T00:32:58.999988",
+  "fetched_at": "2025-07-27T00:32:57.672753",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 3,
+  "count": 4,
   "videos": [
     {
-      "title": "Ring ring. A total classic from the ‘90s is calling. Search &quot;Clueless&quot; like right now for a surprise",
-      "video_id": "lh4UBbozYm0",
+      "title": "Pick the perfect pairing. Gemini Live can look at the menu &amp; make a suggestion based on your taste.",
+      "video_id": "RGiVGwCGDa0",
       "channel_title": "Google",
-      "description": "",
-      "published_at": "2025-07-19T16:04:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lh4UBbozYm0/hqdefault.jpg"
+      "description": "Talk it out Live with Gemini. Gemini Live is a more natural way to chat with Gemini. Go Live to brainstorm and organize your ...",
+      "published_at": "2025-07-25T17:34:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RGiVGwCGDa0/hqdefault.jpg"
     },
     {
-      "title": "The sky’s the limit with Imagen 4 in the Gemini app. 🎈",
-      "video_id": "0IMUdi7ENpE",
+      "title": "Find what you love and try it on with Google. See how clothes and trends look on you before you buy.",
+      "video_id": "fBMMev7_VUM",
       "channel_title": "Google",
-      "description": "This week, we used Imagen 4 in the Gemini app to take the Super G to new heights ✨ Here's our prompt to get you started: ...",
-      "published_at": "2025-07-18T18:45:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0IMUdi7ENpE/hqdefault.jpg"
+      "description": "Whether you're still on the hunt for the perfect summer maxi skirt, dreaming about a new fall jacket or starting your back to school ...",
+      "published_at": "2025-07-24T16:35:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fBMMev7_VUM/hqdefault.jpg"
     },
     {
-      "title": "What’s New in Google Accessibility | Episode 9",
-      "video_id": "aDmSvrb09EY",
+      "title": "Turn your photos into videos using Veo 3 in Gemini",
+      "video_id": "KqaKDhwTW1Q",
       "channel_title": "Google",
-      "description": "Welcome back to another episode of What's New in Google Accessibility, a series where we share the latest product and feature ...",
-      "published_at": "2025-07-16T14:02:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aDmSvrb09EY/hqdefault.jpg"
+      "description": "You can now transform your photos into eight-second videos using Veo 3 in the Gemini app! With a new photo-to-video capability ...",
+      "published_at": "2025-07-22T22:17:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KqaKDhwTW1Q/hqdefault.jpg"
+    },
+    {
+      "title": "Looking for the perfect Superman experience? Just Ask Google",
+      "video_id": "OgG0dHHSH0k",
+      "channel_title": "Google",
+      "description": "You don't need a cape to be a hero. AI Mode can help you plan the most complex of outings. Just ask Google. www.google.com ...",
+      "published_at": "2025-07-21T22:25:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OgG0dHHSH0k/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-20T00:33:07.771268",
+  "fetched_at": "2025-07-27T00:33:05.823884",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "getting better at floating #shorts",
+      "video_id": "70Q5mgISHfE",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2025-07-20T13:50:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/70Q5mgISHfE/hqdefault.jpg"
+    },
     {
       "title": "Hardest muscleup I&#39;ve done #shorts",
       "video_id": "JJWJPdNLUNc",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-04-05T17:55:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XSyZaRIfnpk/hqdefault.jpg"
-    },
-    {
-      "title": "both of them failed physics class #shorts",
-      "video_id": "EGeHUvKLHys",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-03-22T14:45:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EGeHUvKLHys/hqdefault.jpg"
     }
   ]
 }

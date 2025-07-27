@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-07-20T00:32:58.266910",
+  "fetched_at": "2025-07-27T00:32:56.878993",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "【辞职环游世界】首尔塔日落之差点没回来",
+      "video_id": "AQclZZsQyEY",
+      "channel_title": "码农高天",
+      "description": "开始旅行以来最累的一天。明洞、国立中央博物馆加首尔塔，最后差点没走回来！",
+      "published_at": "2025-07-25T10:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AQclZZsQyEY/hqdefault.jpg"
+    },
+    {
+      "title": "【辞职环游世界】汝矣岛上有什么？核心开发者！",
+      "video_id": "1FHFAraBeOo",
+      "channel_title": "码农高天",
+      "description": "今天我们来到了汝矣岛，KBS on还蛮有趣的，逛了逛街，然后和Python Core Dev，SC成员Donghee Na吃了个饭！韩国local的咖啡 ...",
+      "published_at": "2025-07-22T10:30:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1FHFAraBeOo/hqdefault.jpg"
+    },
+    {
+      "title": "【辞职环游世界】商务舱躺飞竟然落地就能开始玩？",
+      "video_id": "nQqy8cF6X1w",
+      "channel_title": "码农高天",
+      "description": "世界之旅第一站我们来到了韩国！商务舱飞着确实舒服不少，落地了直接去弘大逛一圈！",
+      "published_at": "2025-07-21T10:30:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nQqy8cF6X1w/hqdefault.jpg"
+    },
     {
       "title": "我才不信你是从微软主动辞职的，你还能去哪儿？",
       "video_id": "WsZn_u6aHa4",
@@ -59,30 +83,6 @@
       "description": "我的PyCon之旅正式画下了句号，最后两天也非常精彩，我给了我第二个PyConUS的talk，虽然观众少了点，但是还是很开心。当然 ...",
       "published_at": "2025-05-20T10:30:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/YcRyzuvvTBA/hqdefault.jpg"
-    },
-    {
-      "title": "【PyCon】真正的PyCon开始啦！好多Talk呀！",
-      "video_id": "5RL3-BcUZks",
-      "channel_title": "码农高天",
-      "description": "两天的内容放到一期了，这两天听了好多talk，也做了好多networking，认识了不少新朋友，好起来了！",
-      "published_at": "2025-05-17T11:30:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5RL3-BcUZks/hqdefault.jpg"
-    },
-    {
-      "title": "【PyCon】Faster CPython团队，没了！",
-      "video_id": "98_nyR6uAio",
-      "channel_title": "码农高天",
-      "description": "我的PyCon正式开始，今天是language summit，主要是大家发表对Python未来发展的一些看法，我简单地介绍一下都说到了 ...",
-      "published_at": "2025-05-15T10:30:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/98_nyR6uAio/hqdefault.jpg"
-    },
-    {
-      "title": "【PyCon】人怎么可以这么倒霉啊",
-      "video_id": "itEFDnYOFwc",
-      "channel_title": "码农高天",
-      "description": "PyCon第0天，这可能是我人生中最倒霉的一天……",
-      "published_at": "2025-05-14T10:30:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/itEFDnYOFwc/hqdefault.jpg"
     }
   ]
 }

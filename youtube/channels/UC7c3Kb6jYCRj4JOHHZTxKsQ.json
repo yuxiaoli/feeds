@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-07-20T00:32:44.126425",
+  "fetched_at": "2025-07-27T00:32:42.929482",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "How to create your first GitHub Copilot Space (Step-by-step guide)",
-      "video_id": "6pbdTiT-Pcg",
+      "title": "Using GitHub Copilot for code reviews: from VS Code to github.com",
+      "video_id": "xf65vxjNWdk",
       "channel_title": "GitHub",
-      "description": "Unlock the power of focused AI assistance with GitHub Copilot Spaces. This tutorial shows you how to get started by creating and ...",
-      "published_at": "2025-07-19T14:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6pbdTiT-Pcg/hqdefault.jpg"
+      "description": "See how GitHub Copilot can improve your development workflow with AI-powered code reviews. This demo shows you how to get ...",
+      "published_at": "2025-07-26T14:01:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xf65vxjNWdk/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Keploy - AI-Powered Testing for Developers!",
-      "video_id": "smZUgf-YMzg",
+      "title": "Open Source Friday: Just a Job App",
+      "video_id": "sbzKMVaYHZw",
       "channel_title": "GitHub",
-      "description": "Join us as we chat with the maintainer of Keploy, the open-source tool that auto-generates test cases and mocks from real API ...",
-      "published_at": "2025-07-19T05:46:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/smZUgf-YMzg/hqdefault.jpg"
+      "description": "Join us for another inspiring episode of Open Source Friday, featuring Lianna Novitz, the creator of Just a Job App: ...",
+      "published_at": "2025-07-26T06:11:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sbzKMVaYHZw/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR🇧🇷] Open Source Friday Brasil comJuliana Fajardini Reichow",
-      "video_id": "faHQgavYtyc",
+      "title": "Open Source Friday Brasil com Ana Carolyne do Codaqui",
+      "video_id": "wy7khJTIv3w",
       "channel_title": "GitHub",
-      "description": "Open Source Friday Brasil | Suricata com Juliana Fajardini Reichow Neste episódio do Open Source Friday Brasil, ...",
-      "published_at": "2025-07-19T05:14:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/faHQgavYtyc/hqdefault.jpg"
+      "description": "Open Source Friday Brasil com Ana Carolyne do Codaqui.",
+      "published_at": "2025-07-26T05:06:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wy7khJTIv3w/hqdefault.jpg"
     },
     {
-      "title": "The Download: Cloudflare blocks AI crawlers, Perplexity launches AI-powered browser &amp; more",
-      "video_id": "QtzzbziERAU",
+      "title": "What&#39;s new with the GitHub Copilot coding agent: A look at the updates",
+      "video_id": "vgPl6sK6rQo",
       "channel_title": "GitHub",
-      "description": "This week on The Download, we're covering major shifts in the tech landscape as Cloudflare is now blocking AI crawlers by ...",
-      "published_at": "2025-07-18T16:48:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QtzzbziERAU/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursday - hacking with agent mode",
-      "video_id": "y1qqrs7Ie24",
-      "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2025-07-18T07:42:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y1qqrs7Ie24/hqdefault.jpg"
-    },
-    {
-      "title": "Open Source Friday with Tesseral - Auth Infra for SaaS Apps",
-      "video_id": "nPnb57iXwxo",
-      "channel_title": "GitHub",
-      "description": "Join us for a chat with Tesseral - the pen source auth infrastructure for SaaS apps. Tesseral is a multi-tenant, API-first service ...",
-      "published_at": "2025-07-18T00:31:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nPnb57iXwxo/hqdefault_live.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays - Building a reading tracker",
-      "video_id": "frMa9rtQokA",
-      "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We'll take a look at ...",
-      "published_at": "2025-07-17T22:56:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/frMa9rtQokA/hqdefault.jpg"
+      "description": "GitHub Copilot coding agent can help burn down your backlog, kickstart new projects, refactor your legacy codebases, and more.",
+      "published_at": "2025-07-25T14:01:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vgPl6sK6rQo/hqdefault.jpg"
     },
     {
       "title": "Rubber Duck Thursday -building with agent mode for the love of code!",
       "video_id": "W4Zik7qcnz0",
       "channel_title": "GitHub",
       "description": "Let's build an app with GitHub Copilot Agent Mode that we can use to enter the competition For the Love of Code:",
-      "published_at": "2025-07-17T19:58:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W4Zik7qcnz0/hqdefault_live.jpg"
+      "published_at": "2025-07-25T07:09:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W4Zik7qcnz0/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday: Secure Code Game – Season 3 with Bartosz Gałek &amp; jkcso",
-      "video_id": "yctwWsjqU1M",
+      "title": "Open Source and AI Special with @francescociulla",
+      "video_id": "I8acOcHuE_I",
       "channel_title": "GitHub",
-      "description": "Join us for a special episode of Open Source Friday featuring Bartosz Gałek and jkcso, contributors to the Secure Code Game.",
-      "published_at": "2025-07-17T19:29:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yctwWsjqU1M/hqdefault_live.jpg"
+      "description": "Join Francesco Ciulla (https://www.youtube.com/@francescociulla) for a hands-on session exploring practical AI implementation ...",
+      "published_at": "2025-07-25T04:06:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I8acOcHuE_I/hqdefault.jpg"
     },
     {
-      "title": "Event in Spanish: Jueves de Quack",
-      "video_id": "IpYbGAaiJT8",
+      "title": "Rubber Duck Thursdays - Build for the love of code",
+      "video_id": "DcIlavh44bM",
       "channel_title": "GitHub",
-      "description": "Con invitado especial Sergio Valverde. Únete a nuestra sesión de trabajo colaborativo donde desarrolladores de todo el mundo ...",
-      "published_at": "2025-07-17T18:06:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IpYbGAaiJT8/hqdefault.jpg"
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. In this stream, we'll ...",
+      "published_at": "2025-07-24T23:35:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DcIlavh44bM/hqdefault.jpg"
+    },
+    {
+      "title": "[pt-BR] Quinta do Patinho - Vamos continuar nosso projeto e links",
+      "video_id": "c45s82RmWY0",
+      "channel_title": "GitHub",
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2025-07-24T20:13:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c45s82RmWY0/hqdefault.jpg"
+    },
+    {
+      "title": "Upgrading to GitHub&#39;s remote MCP server: From Docker setup to OAuth simplicity | GitHub Checkout",
+      "video_id": "ruxjC9rDYqI",
+      "channel_title": "GitHub",
+      "description": "Remember the local Model Context Protocol (MCP) server that became the #1 repo on GitHub? It just got a major upgrade.",
+      "published_at": "2025-07-24T16:37:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ruxjC9rDYqI/hqdefault.jpg"
+    },
+    {
+      "title": "Modernizing Legacy: COBOL to Cloud with GitHub Copilot",
+      "video_id": "xWA0xYttWMo",
+      "channel_title": "GitHub",
+      "description": "Join us for a live stream with Julia Kordick, Software Global Black Belt at Microsoft, as she demonstrates how AI-assisted tools like ...",
+      "published_at": "2025-07-22T14:14:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xWA0xYttWMo/hqdefault_live.jpg"
     }
   ]
 }

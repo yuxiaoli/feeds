@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-07-20T00:33:28.282278",
+  "fetched_at": "2025-07-27T00:33:25.484589",
   "channel_id": "UCgLUl1WDoDXUtxPaZeSZHsw",
   "channel_title": "李自然说",
   "count": 10,
   "videos": [
+    {
+      "title": "一口气了解AI史上最硬核的10位天才",
+      "video_id": "6dsLA7e-PYw",
+      "channel_title": "李自然说",
+      "description": "人类群星闪耀时：10个天才，撑起了人工智能的全部骨架.",
+      "published_at": "2025-07-25T10:21:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6dsLA7e-PYw/hqdefault.jpg"
+    },
+    {
+      "title": "7年之后，我要重新做这个账号",
+      "video_id": "9fP-LQwo85g",
+      "channel_title": "李自然说",
+      "description": "",
+      "published_at": "2025-07-25T04:43:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9fP-LQwo85g/hqdefault.jpg"
+    },
     {
       "title": "现代功能医学让你年轻10岁：生物黑客的抗衰老技术栈",
       "video_id": "jTBUoreQ11M",
@@ -67,22 +83,6 @@
       "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
       "published_at": "2025-03-24T08:47:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mjmCMpexL3s/hqdefault.jpg"
-    },
-    {
-      "title": "本地DeepSeek新变革 AI私有化时代即将来临",
-      "video_id": "lgGXou9_n_I",
-      "channel_title": "李自然说",
-      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
-      "published_at": "2025-03-22T07:42:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lgGXou9_n_I/hqdefault.jpg"
-    },
-    {
-      "title": "某度副总裁的女儿 能开盒多少人的隐私？",
-      "video_id": "z4gDbFM7txg",
-      "channel_title": "李自然说",
-      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
-      "published_at": "2025-03-21T11:09:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z4gDbFM7txg/hqdefault.jpg"
     }
   ]
 }

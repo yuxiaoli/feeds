@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-20T00:32:57.498994",
+  "fetched_at": "2025-07-27T00:32:56.129800",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "We Are Hiring!",
+      "video_id": "s2YaXmyqdR0",
+      "channel_title": "DamiLee",
+      "description": "click here https://nollimedia.com/careers.",
+      "published_at": "2025-07-25T18:11:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s2YaXmyqdR0/hqdefault.jpg"
+    },
     {
       "title": "Timeless Concepts in Architecture, featuring #DreamScreen #Sponsored",
       "video_id": "y2flNLFjQ10",
@@ -75,14 +83,6 @@
       "description": "Full video here: https://youtu.be/LNO-2w_dlMk Plato believed that true wisdom could only be found when free from the body.",
       "published_at": "2025-06-16T19:03:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eYpOoe1h4Pk/hqdefault.jpg"
-    },
-    {
-      "title": "Is this Black Mirror in real life? AI bringing the dead back... sort of.",
-      "video_id": "dqXgSf4fjhw",
-      "channel_title": "DamiLee",
-      "description": "What if your memories could be 'saved' and relived through AI? The digital resurrection industry is booming—and it raises some ...",
-      "published_at": "2025-06-11T19:03:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dqXgSf4fjhw/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-07-20T00:32:55.150986",
+  "fetched_at": "2025-07-27T00:32:53.862347",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
+    {
+      "title": "The output of AI must be socially useful #satyanadella #microsoft #ycombinator",
+      "video_id": "qM60DCeep2Y",
+      "channel_title": "Microsoft",
+      "description": "responsibleai #satya #aiforgood #techforgood #sustainabletech Subscribe to Microsoft on YouTube here: ...",
+      "published_at": "2025-07-24T17:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qM60DCeep2Y/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft and Minecraft empower families through code with TechBuffalo",
+      "video_id": "JG015xP0I_U",
+      "channel_title": "Microsoft",
+      "description": "See how TechBuffalo is bringing digital skills to Western New York through L1Family Code Night, a hands-on learning event ...",
+      "published_at": "2025-07-22T16:59:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JG015xP0I_U/hqdefault.jpg"
+    },
     {
       "title": "Minecraft teaches kids to stay safe online",
       "video_id": "aucW6HBfIWI",
@@ -11,14 +27,6 @@
       "description": "Minecraft Education is giving schools around the world a creative and powerful way to engage students in critical topics like online ...",
       "published_at": "2025-07-18T19:57:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/aucW6HBfIWI/hqdefault.jpg"
-    },
-    {
-      "title": "Can AI decode the tree of life? #aiforgood #microsoft #nvidia",
-      "video_id": "XMevOcGWy04",
-      "channel_title": "Microsoft",
-      "description": "In the Catalyst series, we spotlight visionaries using AI to tackle global challenges. Episode 2 follows Basecamp Research and its ...",
-      "published_at": "2025-07-17T18:59:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XMevOcGWy04/hqdefault.jpg"
     },
     {
       "title": "How AI is mapping the tree of life | Microsoft Azure and NVIDIA",
@@ -29,12 +37,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IbN3ClySZsg/hqdefault.jpg"
     },
     {
-      "title": "Changing how doctors diagnose diseases with AI | Microsoft Azure and NVIDIA",
-      "video_id": "yKPu8n42LPs",
+      "title": "How AI agents are reshaping businesses &amp; team dynamics | Microsoft CMO of AI at Work Jared Spataro",
+      "video_id": "YjIggq7wzL8",
       "channel_title": "Microsoft",
-      "description": "Introducing Catalyst: a new docuseries about the future of AI that follows groundbreaking global companies that are changing the ...",
-      "published_at": "2025-06-17T20:59:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yKPu8n42LPs/hqdefault.jpg"
+      "description": "AI has crossed an important threshold, says Microsoft CMO of AI at Work Jared Spataro: it now has remarkable abilities to think ...",
+      "published_at": "2025-07-16T15:29:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YjIggq7wzL8/hqdefault.jpg"
     },
     {
       "title": "Students are learning to read with the help of AI-powered Microsoft Reading Coach",
@@ -75,14 +83,6 @@
       "description": "Subscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube Follow us on social: LinkedIn: ...",
       "published_at": "2025-02-07T18:00:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4CMJDiPq1f4/hqdefault.jpg"
-    },
-    {
-      "title": "Stanford Professor Michele Elam and Kevin Scott on art, AI, the engineering mindset and more",
-      "video_id": "wFgxS36DxJI",
-      "channel_title": "Microsoft",
-      "description": "0:00 Intro – Michele Elam 1:00 Early life, pathway into tech and AI 11:06 The engineering mindset 17:04 Kevin & Michele get ...",
-      "published_at": "2025-01-21T16:59:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wFgxS36DxJI/hqdefault.jpg"
     }
   ]
 }

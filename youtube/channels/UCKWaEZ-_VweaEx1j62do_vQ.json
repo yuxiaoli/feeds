@@ -1,16 +1,48 @@
 {
-  "fetched_at": "2025-07-20T00:33:01.294951",
+  "fetched_at": "2025-07-27T00:32:59.825760",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Kimi K2, DeepSeek-R1 vibe check and Google’s data center investments",
-      "video_id": "hNvbeXus-pM",
+      "title": "AI Action Plan, ChatGPT agents and DeepMind at IMO",
+      "video_id": "6RYrUyxXsYU",
       "channel_title": "IBM Technology",
-      "description": "Subscribe for AI updates → https://ibm.biz/BdeEGL Is Kimi K2 actually better than Claude? In episode 64 of Mixture of Experts, ...",
-      "published_at": "2025-07-18T13:05:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hNvbeXus-pM/hqdefault.jpg"
+      "description": "Learn more about artificial intelligence: https://ibm.biz/BdGSFC AI Action Plan question? In episode 65 of Mixture of Experts, host ...",
+      "published_at": "2025-07-25T06:41:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6RYrUyxXsYU/hqdefault.jpg"
+    },
+    {
+      "title": "Data Lake vs. Data Warehouse vs. Data Lakehouse: Which One to Choose?",
+      "video_id": "PQFWQmL3fLY",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Data Lakehouse Engineer? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-07-24T11:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PQFWQmL3fLY/hqdefault.jpg"
+    },
+    {
+      "title": "AI Agents Best Practices: Monitoring, Governance, &amp; Optimization",
+      "video_id": "446x7GqXdaA",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Governance Lifecycle Advisor? Register now and use code IBMTechYT20 for 20% off of ...",
+      "published_at": "2025-07-23T11:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/446x7GqXdaA/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT Agents",
+      "video_id": "1ax9rz3kSK8",
+      "channel_title": "IBM Technology",
+      "description": "Gabe Goodheart explains when ChatGPT Agents speed things up, and when they might hold you back. #chatgpt #aiagents ...",
+      "published_at": "2025-07-22T19:46:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1ax9rz3kSK8/hqdefault.jpg"
+    },
+    {
+      "title": "What is AI Slop? Low-Quality AI Content Causes, Signs, &amp; Fixes",
+      "video_id": "hl6mANth6oA",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-07-21T11:01:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hl6mANth6oA/hqdefault.jpg"
     },
     {
       "title": "AI Agents for Real-Time Lead Generation: Tools, Frameworks, &amp; LLMs",
@@ -19,30 +51,6 @@
       "description": "Ready to become a certified Specialist - Rhapsody for Systems? Register now and use code IBMTechYT20 for 20% off of your ...",
       "published_at": "2025-07-17T11:00:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/T_c48yxTNuM/hqdefault.jpg"
-    },
-    {
-      "title": "The Evolution of Malware: Past, Present, and the AI-Driven Future",
-      "video_id": "h85G7dBqBKU",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Analyst - Security QRadar? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-07-16T11:01:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h85G7dBqBKU/hqdefault.jpg"
-    },
-    {
-      "title": "Feature Engineering for AI: Transforming Raw Data into Predictions",
-      "video_id": "Bg3CjiJ67Cc",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-07-15T11:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Bg3CjiJ67Cc/hqdefault.jpg"
-    },
-    {
-      "title": "10 Use Cases for AI Agents: IoT, RAG, &amp; Disaster Response Explained",
-      "video_id": "Ts42JTye-AI",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-07-14T11:24:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ts42JTye-AI/hqdefault.jpg"
     },
     {
       "title": "Waymo&#39;s AI Learns to Drive",
@@ -75,14 +83,6 @@
       "description": "Want to uncover the latest insights on ransomware, dark web threats, and AI risks? Read the 2025 Threat Intelligence Index ...",
       "published_at": "2025-04-28T17:00:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/aofmtE6Rp-w/hqdefault.jpg"
-    },
-    {
-      "title": "5 Types of AI Agents: Autonomous Functions &amp; Real-World Applications",
-      "video_id": "fXizBc03D7E",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-04-28T11:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fXizBc03D7E/hqdefault.jpg"
     }
   ]
 }

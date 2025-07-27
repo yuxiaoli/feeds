@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-20T00:33:05.347353",
+  "fetched_at": "2025-07-27T00:33:03.612352",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "我們的意識是量子電腦？科學與玄學的邊界",
+      "video_id": "ZTJMDX5wsC0",
+      "channel_title": "科學漫聊",
+      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
+      "published_at": "2025-07-22T13:48:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZTJMDX5wsC0/hqdefault.jpg"
+    },
     {
       "title": "比二向箔更可怕的《閃光》：當數學規則被篡改，宇宙會發生什麼？",
       "video_id": "ernjQ7kRwXs",
@@ -75,14 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-04-12T12:47:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SPj-8DVUpDs/hqdefault.jpg"
-    },
-    {
-      "title": "薛定谔：生命以负熵为生的原理 #science #星光體 #universe #smartphone #电力",
-      "video_id": "E3nS1NpNkqo",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-03-18T14:29:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E3nS1NpNkqo/hqdefault.jpg"
     }
   ]
 }

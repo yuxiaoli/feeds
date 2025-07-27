@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-20T00:33:29.054612",
+  "fetched_at": "2025-07-27T00:33:26.185122",
   "channel_id": "UCgPb3V1U5QJhDgqDvMKd6ew",
   "channel_title": "AILOVEAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Steampunk Chronicles",
+      "video_id": "9GB8IUXAYfU",
+      "channel_title": "AILOVEAI",
+      "description": "In a world where the sky rumbles and machines breathe, timeless figures emerge. Between steam and steel, airships, warriors, ...",
+      "published_at": "2025-07-22T19:44:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9GB8IUXAYfU/hqdefault.jpg"
+    },
     {
       "title": "The signal",
       "video_id": "t1tnQ6kz7c0",
@@ -75,14 +83,6 @@
       "description": "Steampunk Bushido 武士道 https://www.facebook.com/AiloveaiOPE https://www.instagram.com/o.pe_2b/ ...",
       "published_at": "2024-12-29T15:49:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5XgoteoeH9A/hqdefault.jpg"
-    },
-    {
-      "title": "Chronicles of the Clockwork Duchess",
-      "video_id": "S3CtWZ5dgv4",
-      "channel_title": "AILOVEAI",
-      "description": "Step into the World of the Clockwork Duchess Picture a realm where gears turn the tides of time, where steam drifts through ...",
-      "published_at": "2024-12-26T21:34:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S3CtWZ5dgv4/hqdefault.jpg"
     }
   ]
 }

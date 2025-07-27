@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-20T00:32:55.958311",
+  "fetched_at": "2025-07-27T00:32:54.666922",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Full Aussie Podcast  - FAPAMANIA",
+      "video_id": "5bgTWYCOP-k",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Welcome to MrGrantGregory AI Channel Where we do AI. Copyright ...",
+      "published_at": "2025-07-26T13:57:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5bgTWYCOP-k/hqdefault.jpg"
+    },
     {
       "title": "Full Aussie Podcast Caught Cheating At Coldplay",
       "video_id": "O1EvnI9apYE",
@@ -75,14 +83,6 @@
       "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Welcome to MrGrantGregory AI Channel Where we do AI. Copyright ...",
       "published_at": "2025-02-27T13:00:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Ek-ZWhRUWF0/hqdefault.jpg"
-    },
-    {
-      "title": "Ravens New Robot Kicker",
-      "video_id": "Fx-svA_UYmQ",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Welcome to MrGrantGregory AI Channel Where we do AI. Copyright ...",
-      "published_at": "2025-02-26T13:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Fx-svA_UYmQ/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-07-20T00:33:42.550524",
+  "fetched_at": "2025-07-27T00:33:38.988350",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Moonwalk Bloopers 😅",
+      "video_id": "9HAZuotWPZQ",
+      "channel_title": "Star Walk",
+      "description": "Yes, the Apollo astronauts walked on the Moon… but they also hopped, bounded, shuffled — and, yep — fell. A lot. In low ...",
+      "published_at": "2025-07-25T09:07:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9HAZuotWPZQ/hqdefault.jpg"
+    },
+    {
+      "title": "🌎 Does time seem to move differently depending on the day of the week? 🌀",
+      "video_id": "dvF4CTTQDvs",
+      "channel_title": "Star Walk",
+      "description": "",
+      "published_at": "2025-07-22T06:48:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dvF4CTTQDvs/hqdefault.jpg"
+    },
+    {
+      "title": "🤓 What is the Oort Cloud?",
+      "video_id": "MbUa0shaCj0",
+      "channel_title": "Star Walk",
+      "description": "Imagine a giant icy bubble surrounding our Solar System — that's the Oort Cloud! This distant, spherical shell of icy objects marks ...",
+      "published_at": "2025-07-21T08:07:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MbUa0shaCj0/hqdefault.jpg"
+    },
     {
       "title": "Carrington Event 😱",
       "video_id": "vEvvXKiQTOQ",
@@ -59,30 +83,6 @@
       "description": "Voiceover: https://www.instagram.com/rayfia.official.",
       "published_at": "2025-07-01T06:00:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/buJ5FlpUiUM/hqdefault.jpg"
-    },
-    {
-      "title": "🌌 Mind-blowing space fact! 🌙",
-      "video_id": "zxxe3fXTBz0",
-      "channel_title": "Star Walk",
-      "description": "Did you know all the planets in the Solar System could fit side by side in the space between Earth and the Moon? The ...",
-      "published_at": "2025-06-24T07:32:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zxxe3fXTBz0/hqdefault.jpg"
-    },
-    {
-      "title": "How many humans made it to space? 👩‍🚀🌍 Let’s count — year by year from 1961 to 2024!",
-      "video_id": "Z3ZL5FVSaII",
-      "channel_title": "Star Walk",
-      "description": "This colorful chart shows the number of people who reached space (above 100 km altitude) each year. Note that the same person ...",
-      "published_at": "2025-06-23T07:41:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z3ZL5FVSaII/hqdefault.jpg"
-    },
-    {
-      "title": "Wait… did the flag just wave? 🇺🇸🤔",
-      "video_id": "dN0es7anhto",
-      "channel_title": "Star Walk",
-      "description": "Conspiracy theorists, assemble!",
-      "published_at": "2025-06-22T10:01:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dN0es7anhto/hqdefault.jpg"
     }
   ]
 }

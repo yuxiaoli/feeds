@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2025-07-20T00:32:52.901932",
+  "fetched_at": "2025-07-27T00:32:51.532055",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 4,
   "videos": [
     {
-      "title": "The Kitchen Appliance That Changed The World",
-      "video_id": "qBYvLjY-1NQ",
+      "title": "The Amazing Process of Making Soy Sauce",
+      "video_id": "7QTH-T98cIU",
       "channel_title": "Interesting Engineering",
-      "description": "The microwave is one of the most important kitchen inventions we have. Its capability to heat and cook food in minutes is ...",
-      "published_at": "2025-07-18T15:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qBYvLjY-1NQ/hqdefault.jpg"
+      "description": "Soy sauce is such a crucial ingredient in dishes all across Asia, especially Japan. But have you ever wondered how it's made?",
+      "published_at": "2025-07-25T18:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7QTH-T98cIU/hqdefault.jpg"
     },
     {
-      "title": "Robot Vacuums Are Getting Big!",
-      "video_id": "Is7motd4GI8",
+      "title": "Making a Computer From a Kids Toy",
+      "video_id": "JK2jnYtUPRM",
       "channel_title": "Interesting Engineering",
-      "description": "The Roomba might be getting new and powered up competition. The PUDU MT1 VAC is designed to tackle bigger and higher ...",
-      "published_at": "2025-07-17T15:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Is7motd4GI8/hqdefault.jpg"
+      "description": "This person just built an 8bit computer out of a kids toy! Shadowman39 has made a hobby out of building complex structures out ...",
+      "published_at": "2025-07-24T18:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JK2jnYtUPRM/hqdefault.jpg"
     },
     {
-      "title": "This is Zombie Fungus",
-      "video_id": "h5155Q4AgA8",
+      "title": "What is this? A Center for Ants?!",
+      "video_id": "SlrHwOejRfE",
       "channel_title": "Interesting Engineering",
-      "description": "Surely fungi can't take over a person's brain and turn them into a mindless zombie! Maybe not humans. But mind controlling fungi ...",
-      "published_at": "2025-07-16T18:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h5155Q4AgA8/hqdefault.jpg"
+      "description": "The Ecolopes project aims to find ways for humans and wildlife to coexist peacefully in urban spaces. This nesting facade is their ...",
+      "published_at": "2025-07-22T15:00:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SlrHwOejRfE/hqdefault.jpg"
     },
     {
-      "title": "Man-Piloted Drone&#39;s First Flight",
-      "video_id": "d6_wlO9n8_g",
+      "title": "How GPUs Overtook Apple: The $4 Trillion Chip Revolution",
+      "video_id": "6olBqKA8GpQ",
       "channel_title": "Interesting Engineering",
-      "description": "The Jetson One has just had its first test flight. This manned drone or eVTOL is set to aid in mountain rescue where traditional ...",
-      "published_at": "2025-07-15T15:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d6_wlO9n8_g/hqdefault.jpg"
+      "description": "How did graphics chips go from powering Pac‑Man to eclipsing Apple's market value? In this deep dive, we trace the $4 trillion ...",
+      "published_at": "2025-07-20T08:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6olBqKA8GpQ/hqdefault.jpg"
     }
   ]
 }

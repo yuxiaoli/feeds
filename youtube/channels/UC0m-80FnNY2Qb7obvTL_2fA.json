@@ -1,48 +1,56 @@
 {
-  "fetched_at": "2025-07-20T00:32:37.044979",
+  "fetched_at": "2025-07-27T00:32:35.938975",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Deploy appliance for Physical AWS GCP",
-      "video_id": "7o70yH3xWPo",
+      "title": "MySQL Migrations",
+      "video_id": "I5BEKzt8Ju4",
       "channel_title": "Microsoft Azure",
-      "description": "Learn to install an Azure Migrate appliance to discover your bare-metal, AWS and GCP estate Learn more: ...",
-      "published_at": "2025-07-18T14:10:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7o70yH3xWPo/hqdefault.jpg"
+      "description": "Learn how to migrate MySQL Servers to Azure. Learn more: https://msft.it/6059sBISF #Microsoft #MicrosoftAzure #AzureMigrate.",
+      "published_at": "2025-07-25T16:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I5BEKzt8Ju4/hqdefault.jpg"
     },
     {
-      "title": "Deploy appliance for Hyper-V",
-      "video_id": "Ahd8J2ZYO3I",
+      "title": "DMS SQL Migrations",
+      "video_id": "tzzwKQN-hE8",
       "channel_title": "Microsoft Azure",
-      "description": "Learn to install an agentless Azure Migrate appliance to discover your Hyper-V estate. Learn more: https://msft.it/6051s6p7z ...",
-      "published_at": "2025-07-17T16:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ahd8J2ZYO3I/hqdefault.jpg"
+      "description": "Learn how to migrate SQL Servers to Azure using the DMS tool. Learn more: https://msft.it/6054sBIti #Microsoft #MicrosoftAzure ...",
+      "published_at": "2025-07-25T15:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tzzwKQN-hE8/hqdefault.jpg"
     },
     {
-      "title": "Deploy appliance for VMware",
-      "video_id": "rjvayJRpVKU",
+      "title": "Azure Migrate Execute",
+      "video_id": "YAFcLWifeC0",
       "channel_title": "Microsoft Azure",
-      "description": "Learn to install an agentless Azure Migrate appliance to discover your VMware estate. Learn more: https://msft.it/6054s6V1A ...",
-      "published_at": "2025-07-17T15:01:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rjvayJRpVKU/hqdefault.jpg"
+      "description": "Learn how to migrate to a test environment in Azure and cutover to production using Azure Migrate. Learn more: ...",
+      "published_at": "2025-07-25T14:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YAFcLWifeC0/hqdefault.jpg"
     },
     {
-      "title": "Azure Migrate project creation",
-      "video_id": "SAQwYb9F-_c",
+      "title": "Application Aware Assessment",
+      "video_id": "MPhuurbbLo4",
       "channel_title": "Microsoft Azure",
-      "description": "Learn how to get started with Azure Migrate for migrating to and modernizing in Azure. Learn more: https://msft.it/6058s6pfn ...",
-      "published_at": "2025-07-17T14:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SAQwYb9F-_c/hqdefault.jpg"
+      "description": "Learn how you can use the new application awareness feature in Azure Migrate to group dependent application resources for ...",
+      "published_at": "2025-07-24T16:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MPhuurbbLo4/hqdefault.jpg"
     },
     {
-      "title": "Human agency is the force-multiplier for AI | Scott Hanselman, Microsoft",
-      "video_id": "tjdQvIpOlAA",
+      "title": "MySQL Assessment",
+      "video_id": "AxbjkR_Quzo",
       "channel_title": "Microsoft Azure",
-      "description": "Scott Hanselman, VP of Developer Community at Microsoft, joins the pod to offer his unique perspective on the evolution of ...",
-      "published_at": "2025-06-24T14:01:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tjdQvIpOlAA/hqdefault.jpg"
+      "description": "Learn how you can check your MySQL databases for readiness to migrate to Azure using Azure Migrate. Learn more: ...",
+      "published_at": "2025-07-24T15:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AxbjkR_Quzo/hqdefault.jpg"
+    },
+    {
+      "title": "WebApp Assessment",
+      "video_id": "jmTzgbQvTAo",
+      "channel_title": "Microsoft Azure",
+      "description": "Learn how you can check your web applications (.NET and Java) for readiness to migrate to Azure using Azure Migrate.",
+      "published_at": "2025-07-24T14:01:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jmTzgbQvTAo/hqdefault.jpg"
     },
     {
       "title": "Make-A-Wish brings more joy, hope, and strength to children through Microsoft technology",
@@ -75,14 +83,6 @@
       "description": "Join Chris Oo as he discusses Microsoft's development of the first industry “paravisor” that enables existing VM workloads to ...",
       "published_at": "2025-06-03T14:01:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/oJFEKuHGCzA/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Build 2025 | Software Development Company Highlights",
-      "video_id": "f7POcnSsGzY",
-      "channel_title": "Microsoft Azure",
-      "description": "Catch up on the highlights from Satya Nadella's Microsoft Build keynote, tailored for software companies. Read about the latest ...",
-      "published_at": "2025-05-29T14:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f7POcnSsGzY/hqdefault.jpg"
     }
   ]
 }

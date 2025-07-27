@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-07-20T00:33:29.818615",
+  "fetched_at": "2025-07-27T00:33:26.941334",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "MIR Space Station, VTOL MTKVA",
+      "video_id": "wUM-8aVKCb4",
+      "channel_title": "Hazegrayart",
+      "description": "A Space Shuttle Concept The experts at OKB-1, pioneers behind the Soyuz capsule, were decidedly unimpressed with the ...",
+      "published_at": "2025-07-26T13:40:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wUM-8aVKCb4/hqdefault.jpg"
+    },
+    {
+      "title": "Russia&#39;s Space Shuttle: VTOL MTKVA",
+      "video_id": "jJF4_v1_ccU",
+      "channel_title": "Hazegrayart",
+      "description": "A Space Shuttle Concept The experts at OKB-1, pioneers behind the Soyuz capsule, were decidedly unimpressed with the ...",
+      "published_at": "2025-07-25T11:01:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jJF4_v1_ccU/hqdefault.jpg"
+    },
     {
       "title": "Kliper Spaceplane: ESA-Russia Collaboration #space #rocket #shorts",
       "video_id": "PxLXfht-qyo",
@@ -67,22 +83,6 @@
       "description": "Humpback Orbiter Space Shuttle Concept An undefined need for more payload bay volume inspired the thought that the lee side ...",
       "published_at": "2025-06-20T21:25:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DX7FtbMpIvQ/hqdefault.jpg"
-    },
-    {
-      "title": "McDonnell Douglas Star Wars Rocket",
-      "video_id": "RvO31_Odpyg",
-      "channel_title": "Hazegrayart",
-      "description": "The McDonnell Douglas Barbarian was a heavy-lift launch vehicle concept proposed by McDonnell Douglas in 1987 as part of the ...",
-      "published_at": "2025-06-20T19:31:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RvO31_Odpyg/hqdefault.jpg"
-    },
-    {
-      "title": "Mach 2.5 Vickers Swallow; Britain&#39;s Supersonic Transport",
-      "video_id": "ZJ3-N__2_1o",
-      "channel_title": "Hazegrayart",
-      "description": "The Vickers Swallow was a Mach 2.5 supersonic aircraft project headed by Barnes Wallis, working at the British aircraft company ...",
-      "published_at": "2025-06-13T19:15:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZJ3-N__2_1o/hqdefault.jpg"
     }
   ]
 }
