@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-27T00:33:20.898035",
+  "fetched_at": "2025-08-03T00:34:02.438586",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "New course: Pydantic for LLM Workflows",
+      "video_id": "EXOp8WDa-Xk",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4fepmFI In Pydantic for LLM Workflows, taught by Ryan Keenan, Director of the Learning Experience Lab ...",
+      "published_at": "2025-07-30T13:40:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EXOp8WDa-Xk/hqdefault.jpg"
+    },
     {
       "title": "A new course on Retrieval Augmented Generation (RAG) is here!",
       "video_id": "uIPvSV6p92Y",
@@ -75,14 +83,6 @@
       "description": "Learn more: https://bit.ly/4jRNkYC Introducing MCP: Build Rich-Context AI Apps with Anthropic, our latest course made in ...",
       "published_at": "2025-05-14T14:44:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IkBslShH5to/hqdefault.jpg"
-    },
-    {
-      "title": "Building AI Voice Agents for Production",
-      "video_id": "mwL5Yzg6UJE",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/3EELtr7 Join Building AI Voice Agents for Production, created in collaboration with LiveKit and ...",
-      "published_at": "2025-05-07T14:54:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mwL5Yzg6UJE/hqdefault.jpg"
     }
   ]
 }

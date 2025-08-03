@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2025-07-27T00:32:34.450657",
+  "fetched_at": "2025-08-03T00:33:16.489693",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "jet anywhere, courtesy of @meta.ai",
+      "video_id": "4LllLe0OWnM",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2025-08-01T18:48:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4LllLe0OWnM/hqdefault.jpg"
+    },
+    {
+      "title": "Everyone&#39;s Favorite Coworker",
+      "video_id": "JmeGJteH0d8",
+      "channel_title": "Meta",
+      "description": "they're all just jealous.",
+      "published_at": "2025-07-31T14:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JmeGJteH0d8/hqdefault.jpg"
+    },
+    {
+      "title": "Live Translation with Meta AI",
+      "video_id": "swe1-sTRLtY",
+      "channel_title": "Meta",
+      "description": "Hey Meta what's Spanish for 'best friends?",
+      "published_at": "2025-07-30T16:01:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/swe1-sTRLtY/hqdefault.jpg"
+    },
+    {
+      "title": "Meta’s Vision for the Future of Personal Superintelligence for Everyone",
+      "video_id": "ZP-oC8Kndig",
+      "channel_title": "Meta",
+      "description": "Today Mark shared our vision for the future of personal superintelligence for everyone. Read his full letter here: ...",
+      "published_at": "2025-07-30T14:23:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZP-oC8Kndig/hqdefault.jpg"
+    },
+    {
+      "title": "POV: You&#39;re stained glass artist @glasup_",
+      "video_id": "5Detkzo3rCg",
+      "channel_title": "Meta",
+      "description": "Stained glass artist @glasup_, specializes in creating unique mirrors and has been using Meta AI glasses to capture his work ...",
+      "published_at": "2025-07-29T14:09:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5Detkzo3rCg/hqdefault.jpg"
+    },
+    {
+      "title": "Mornings with Meta AI",
+      "video_id": "bns7G5cPPUg",
+      "channel_title": "Meta",
+      "description": "Don't sweat it this summer #metapartner.",
+      "published_at": "2025-07-28T14:05:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bns7G5cPPUg/hqdefault.jpg"
+    },
     {
       "title": "Unpacking with Meta AI",
       "video_id": "vxSgD1zKpHY",
@@ -35,54 +83,6 @@
       "description": "Trying to get OOO fast this summer? Meta AI is here to help.",
       "published_at": "2025-07-21T14:06:42Z",
       "thumbnail_url": "https://i.ytimg.com/vi/s0EhywBXR9A/hqdefault.jpg"
-    },
-    {
-      "title": "Behind the Tech: Live Translation",
-      "video_id": "lbWd1UQu4gY",
-      "channel_title": "Meta",
-      "description": "Hola! Bonjour! Ciao! Say hello to live translation with our AI glasses.",
-      "published_at": "2025-07-18T14:38:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lbWd1UQu4gY/hqdefault.jpg"
-    },
-    {
-      "title": "Meta AI came in clutch 🤝 who had the better shell??? 🤔 #metapartner",
-      "video_id": "e24Avo4MV44",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-07-16T16:38:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e24Avo4MV44/hqdefault.jpg"
-    },
-    {
-      "title": "Creating microcosmic universes, nbd, with Luke Evans #ROTW",
-      "video_id": "zXkglbusefw",
-      "channel_title": "Meta",
-      "description": "Just casually making a microcosmic universe, nbd. This dazzling Reel from @l__evans was filmed using a 120mm macro lens ...",
-      "published_at": "2025-07-15T15:15:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zXkglbusefw/hqdefault.jpg"
-    },
-    {
-      "title": "This is Meta AI",
-      "video_id": "j5BtGIkhjtE",
-      "channel_title": "Meta",
-      "description": "Both roles are essential.",
-      "published_at": "2025-07-07T14:01:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j5BtGIkhjtE/hqdefault.jpg"
-    },
-    {
-      "title": "How VR sculptures become 3D printed toys with @tokyo.tommy",
-      "video_id": "bnF20Hm9OOs",
-      "channel_title": "Meta",
-      "description": "Did you know you can use Meta Quest 3 to turn wild VR sculptures into printed toys? VR creator Tommy does! Sharing his work on ...",
-      "published_at": "2025-07-02T15:08:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bnF20Hm9OOs/hqdefault.jpg"
-    },
-    {
-      "title": "Behind the Tech: Digit 360",
-      "video_id": "kvBK09W-m7A",
-      "channel_title": "Meta",
-      "description": "It all starts with a touch. Check out the work Meta is doing to advance the perception, dexterity, and usability of robotic tools like the ...",
-      "published_at": "2025-07-01T14:12:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kvBK09W-m7A/hqdefault.jpg"
     }
   ]
 }

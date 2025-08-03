@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-07-27T00:32:42.929482",
+  "fetched_at": "2025-08-03T00:33:24.696290",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Using GitHub Copilot for code reviews: from VS Code to github.com",
-      "video_id": "xf65vxjNWdk",
+      "title": "Open Source Friday with Tesseral - Auth Infra for SaaS Apps",
+      "video_id": "nPnb57iXwxo",
       "channel_title": "GitHub",
-      "description": "See how GitHub Copilot can improve your development workflow with AI-powered code reviews. This demo shows you how to get ...",
-      "published_at": "2025-07-26T14:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xf65vxjNWdk/hqdefault.jpg"
+      "description": "Join us for a chat with Tesseral - the pen source auth infrastructure for SaaS apps. Tesseral is a multi-tenant, API-first service ...",
+      "published_at": "2025-08-02T06:02:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nPnb57iXwxo/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday: Just a Job App",
-      "video_id": "sbzKMVaYHZw",
+      "title": "Open Source Friday with Suricata - Real-Time Threat Detection",
+      "video_id": "zTlJqnAns3E",
       "channel_title": "GitHub",
-      "description": "Join us for another inspiring episode of Open Source Friday, featuring Lianna Novitz, the creator of Just a Job App: ...",
-      "published_at": "2025-07-26T06:11:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sbzKMVaYHZw/hqdefault.jpg"
+      "description": "Join us live as we dive into Suricata — the powerful open-source IDS/IPS that brings multi-threaded, high-speed network traffic ...",
+      "published_at": "2025-08-01T20:29:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zTlJqnAns3E/hqdefault_live.jpg"
     },
     {
-      "title": "Open Source Friday Brasil com Ana Carolyne do Codaqui",
-      "video_id": "wy7khJTIv3w",
+      "title": "Open Source Friday with the official GitHub MCP Server!",
+      "video_id": "eBxzDenTba0",
       "channel_title": "GitHub",
-      "description": "Open Source Friday Brasil com Ana Carolyne do Codaqui.",
-      "published_at": "2025-07-26T05:06:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wy7khJTIv3w/hqdefault.jpg"
+      "description": "Join us for Open Source Friday with Toby Padilla to chat about the official GitHub MCP Server! Come learn how it works, how to ...",
+      "published_at": "2025-08-01T20:01:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eBxzDenTba0/hqdefault_live.jpg"
     },
     {
-      "title": "What&#39;s new with the GitHub Copilot coding agent: A look at the updates",
-      "video_id": "vgPl6sK6rQo",
+      "title": "Rubber Duck Thursdays - Exploring the GitHub MCP Server!",
+      "video_id": "azOp55zA4FU",
       "channel_title": "GitHub",
-      "description": "GitHub Copilot coding agent can help burn down your backlog, kickstart new projects, refactor your legacy codebases, and more.",
-      "published_at": "2025-07-25T14:01:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vgPl6sK6rQo/hqdefault.jpg"
+      "description": "Let's dig into the GitHub MCP Server together!",
+      "published_at": "2025-08-01T18:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/azOp55zA4FU/hqdefault_live.jpg"
     },
     {
-      "title": "Rubber Duck Thursday -building with agent mode for the love of code!",
-      "video_id": "W4Zik7qcnz0",
+      "title": "The Download: GitHub Copilot overtakes ChatGPT, Google AI prevents hack, Netflix uses Gen AI &amp; more",
+      "video_id": "X2QmaEkiyZA",
       "channel_title": "GitHub",
-      "description": "Let's build an app with GitHub Copilot Agent Mode that we can use to enter the competition For the Love of Code:",
-      "published_at": "2025-07-25T07:09:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W4Zik7qcnz0/hqdefault.jpg"
+      "description": "This week on The Download, we're covering major news in the developer world! A new report shows GitHub Copilot is now the ...",
+      "published_at": "2025-08-01T16:31:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X2QmaEkiyZA/hqdefault.jpg"
     },
     {
-      "title": "Open Source and AI Special with @francescociulla",
-      "video_id": "I8acOcHuE_I",
+      "title": "Our new favorite debugging trick with GitHub Copilot",
+      "video_id": "grqNb30yuHw",
       "channel_title": "GitHub",
-      "description": "Join Francesco Ciulla (https://www.youtube.com/@francescociulla) for a hands-on session exploring practical AI implementation ...",
-      "published_at": "2025-07-25T04:06:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I8acOcHuE_I/hqdefault.jpg"
+      "description": "Debug faster with GitHub Copilot chat. You can paste error messages, drag and drop screenshots of bugs, or even pull in files ...",
+      "published_at": "2025-08-01T14:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/grqNb30yuHw/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Build for the love of code",
-      "video_id": "DcIlavh44bM",
+      "title": "Rubber Duck Thursdays! Come Cowork!",
+      "video_id": "yt3NOlr1XMk",
+      "channel_title": "GitHub",
+      "description": "Come hang and cowork!",
+      "published_at": "2025-08-01T07:19:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yt3NOlr1XMk/hqdefault.jpg"
+    },
+    {
+      "title": "How to use GitHub Copilot (the complete beginner&#39;s guide)",
+      "video_id": "SJqGYwRq0uc",
+      "channel_title": "GitHub",
+      "description": "Learn everything you need to know about GitHub Copilot in a single video. This compilation of our entire beginner series on ...",
+      "published_at": "2025-07-30T17:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SJqGYwRq0uc/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays - Building an MCP server",
+      "video_id": "tcGPg8tVbu0",
       "channel_title": "GitHub",
       "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. In this stream, we'll ...",
-      "published_at": "2025-07-24T23:35:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DcIlavh44bM/hqdefault.jpg"
+      "published_at": "2025-07-29T21:29:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tcGPg8tVbu0/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] Quinta do Patinho - Vamos continuar nosso projeto e links",
-      "video_id": "c45s82RmWY0",
+      "title": "When to use GitHub Copilot coding agent versus agent mode",
+      "video_id": "a1BR6K3E4zs",
       "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2025-07-24T20:13:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c45s82RmWY0/hqdefault.jpg"
-    },
-    {
-      "title": "Upgrading to GitHub&#39;s remote MCP server: From Docker setup to OAuth simplicity | GitHub Checkout",
-      "video_id": "ruxjC9rDYqI",
-      "channel_title": "GitHub",
-      "description": "Remember the local Model Context Protocol (MCP) server that became the #1 repo on GitHub? It just got a major upgrade.",
-      "published_at": "2025-07-24T16:37:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ruxjC9rDYqI/hqdefault.jpg"
-    },
-    {
-      "title": "Modernizing Legacy: COBOL to Cloud with GitHub Copilot",
-      "video_id": "xWA0xYttWMo",
-      "channel_title": "GitHub",
-      "description": "Join us for a live stream with Julia Kordick, Software Global Black Belt at Microsoft, as she demonstrates how AI-assisted tools like ...",
-      "published_at": "2025-07-22T14:14:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xWA0xYttWMo/hqdefault_live.jpg"
+      "description": "GitHub Copilot now offers two powerful agentic capabilities, but which one should you use? This video breaks down the difference ...",
+      "published_at": "2025-07-29T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a1BR6K3E4zs/hqdefault.jpg"
     }
   ]
 }

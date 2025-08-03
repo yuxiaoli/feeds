@@ -1,64 +1,32 @@
 {
-  "fetched_at": "2025-07-27T00:32:40.560666",
+  "fetched_at": "2025-08-03T00:33:22.553115",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "Build ANYTHING With an Advanced MCP Server (Python, Authentication, Databases &amp; More)",
-      "video_id": "j5f2EQf5hkw",
-      "channel_title": "Tech With Tim",
-      "description": "In this video, I'll give you a full tutorial on building advanced servers in Python. That means we're going to go beyond the basics.",
-      "published_at": "2025-07-25T14:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j5f2EQf5hkw/hqdefault.jpg"
-    },
-    {
-      "title": "If you can solve THIS you can work at Nvidia",
-      "video_id": "dvJ5IRtlyec",
+      "title": "Every software engineer MUST master THIS!!",
+      "video_id": "uG8P7TCy-m8",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-24T01:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dvJ5IRtlyec/hqdefault.jpg"
+      "published_at": "2025-07-31T01:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uG8P7TCy-m8/hqdefault.jpg"
     },
     {
-      "title": "What does the filter function do in Python?",
-      "video_id": "KNtKUj0sjBE",
+      "title": "Did you know about THIS in Python?",
+      "video_id": "CLAwSVysy5g",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-23T21:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KNtKUj0sjBE/hqdefault.jpg"
+      "published_at": "2025-07-30T15:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CLAwSVysy5g/hqdefault.jpg"
     },
     {
-      "title": "If you can solve THIS you can work at Google",
-      "video_id": "ARVKxHCUQ9s",
+      "title": "Python AI Voice Agent Tutorial - Full Developer Guide (Deepgram, Twilio, Function Calling)",
+      "video_id": "hDKBREokidU",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-23T19:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ARVKxHCUQ9s/hqdefault.jpg"
-    },
-    {
-      "title": "What do dataclass decorators do in Python?",
-      "video_id": "LYAGDk7m5iA",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-23T16:39:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LYAGDk7m5iA/hqdefault.jpg"
-    },
-    {
-      "title": "How to become a Python developer FAST",
-      "video_id": "j_m0ppzM2qU",
-      "channel_title": "Tech With Tim",
-      "description": "These are two of the best beginner-friendly Python resources I recommend: Python Programming Fundamentals (Datacamp) ...",
-      "published_at": "2025-07-23T14:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j_m0ppzM2qU/hqdefault.jpg"
-    },
-    {
-      "title": "How I Mastered Data Structures and Algorithms",
-      "video_id": "ryeycH0njP8",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-21T13:01:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ryeycH0njP8/hqdefault.jpg"
+      "description": "I'm going to show you how to build a fast, reliable and more importantly, accurate AI voice agent using Python. Check out ...",
+      "published_at": "2025-07-30T14:10:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hDKBREokidU/hqdefault.jpg"
     },
     {
       "title": "The Easiest Ways to Run LLMs Locally - Docker Model Runner Tutorial",
@@ -83,6 +51,38 @@
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
       "published_at": "2025-06-26T05:15:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AcMqasZP1Lg/hqdefault.jpg"
+    },
+    {
+      "title": "THIS is why a CS degree won&#39;t get you a coding job",
+      "video_id": "_yNbcn-WCVo",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-06-12T04:52:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_yNbcn-WCVo/hqdefault.jpg"
+    },
+    {
+      "title": "How to get ahead of 99% of devs in 2025",
+      "video_id": "DJqGKv_q3bA",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-06-09T06:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DJqGKv_q3bA/hqdefault.jpg"
+    },
+    {
+      "title": "How to become an AI engineer in 2025",
+      "video_id": "V529teeIQ5o",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-05-22T12:40:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V529teeIQ5o/hqdefault.jpg"
+    },
+    {
+      "title": "You need to MASTER THIS if you wanna land your dream job in tech",
+      "video_id": "kdSxZCztEXA",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-04-27T20:19:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kdSxZCztEXA/hqdefault.jpg"
     }
   ]
 }

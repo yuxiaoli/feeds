@@ -1,48 +1,40 @@
 {
-  "fetched_at": "2025-07-27T00:32:47.580306",
+  "fetched_at": "2025-08-03T00:33:29.291075",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 5,
+  "count": 4,
   "videos": [
     {
-      "title": "Fab Summer Creator Mega Sale – Up to 70% Off!",
-      "video_id": "H1sGtti55MA",
+      "title": "You Don’t Need a Million Bucks to Animate in Real Time",
+      "video_id": "4GPDLYP9Iic",
       "channel_title": "Unreal Engine",
-      "description": "The Fab Spring Creator Sale is going strong! Enjoy incredible savings on thousands of products with discounts up to 70% off.",
-      "published_at": "2025-07-26T10:55:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H1sGtti55MA/hqdefault.jpg"
+      "description": "Tim Miller (Deadpool, Love Death + Robots) shares the no-excuses truth: you don't need a massive budget to start animating, just ...",
+      "published_at": "2025-07-31T18:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4GPDLYP9Iic/hqdefault.jpg"
     },
     {
-      "title": "Creating the ‘Otherworld’ of SILENT HILL 2 | Unreal Fest Orlando 2025",
-      "video_id": "x3gA5mPY-yM",
+      "title": "KAI&#39;s Next-Gen Simulation Ecosystem Powered by Unreal Engine",
+      "video_id": "urv-p4QB34g",
       "channel_title": "Unreal Engine",
-      "description": "Watch this session recorded at Unreal Fest Orlando 2025 for a deep dive into the creation of the iconic Otherworld of SILENT HILL ...",
-      "published_at": "2025-07-22T16:01:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x3gA5mPY-yM/hqdefault.jpg"
+      "description": "Watch this video and discover how Korea Aerospace Industries leverages Unreal Engine in its simulation applications.",
+      "published_at": "2025-07-31T15:40:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/urv-p4QB34g/hqdefault.jpg"
     },
     {
-      "title": "The Great Hitch Hunt: Tracking Down Every Frame Drop | Unreal Fest Orlando 2025",
-      "video_id": "HaVTYSnGvxA",
+      "title": "Fireside Chat with Tim Miller, Director of Deadpool and Creator of Love, Death + Robots",
+      "video_id": "LAEMO0VE2-o",
       "channel_title": "Unreal Engine",
-      "description": "Watch this session recorded at Unreal Fest Orlando 2025 and learn the methodology for finding and fixing performance issues, ...",
-      "published_at": "2025-07-22T14:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HaVTYSnGvxA/hqdefault.jpg"
+      "description": "Join Tim Miller, co-founder of Blur Studio and winner of multiple Emmy Awards, for a candid chat on his origins as an animator ...",
+      "published_at": "2025-07-28T15:59:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LAEMO0VE2-o/hqdefault.jpg"
     },
     {
-      "title": "Creating Shorts and Cinematics as a Solo Creator | Unreal Fest Orlando 2025",
-      "video_id": "rQj7PukzcTQ",
+      "title": "Motion Design in Unreal Engine, Episode 04: What’s New in 5.6",
+      "video_id": "EZMJT7DIkVg",
       "channel_title": "Unreal Engine",
-      "description": "Watch this session recorded at Unreal Fest Orlando 2025 to explore how a single artist can create at a professional level without ...",
-      "published_at": "2025-07-21T16:01:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rQj7PukzcTQ/hqdefault.jpg"
-    },
-    {
-      "title": "Rigging for Animators in Unreal Engine | Unreal Fest Orlando 2025",
-      "video_id": "C07u7oMpdwc",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this session recorded at Unreal Fest Orlando 2025 and explore the tools in Unreal Engine 5.6 for building real-time rigs ...",
-      "published_at": "2025-07-21T14:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/C07u7oMpdwc/hqdefault.jpg"
+      "description": "Watch this video from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) demonstrates ...",
+      "published_at": "2025-07-28T14:47:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EZMJT7DIkVg/hqdefault.jpg"
     }
   ]
 }

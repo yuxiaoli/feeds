@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-27T00:33:08.936840",
+  "fetched_at": "2025-08-03T00:33:50.387330",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Guided Projects: Learn by Building, Not Just Watching",
+      "video_id": "aASIg5KIROg",
+      "channel_title": "Programiz",
+      "description": "Most tutorials teach you what to code, but not how to think like a developer. That's where Guided Projects come in. We help you ...",
+      "published_at": "2025-07-28T03:15:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aASIg5KIROg/hqdefault.jpg"
+    },
     {
       "title": "Wish You Had This When You First Learned to Code?",
       "video_id": "F9WJySgwCXM",
@@ -75,14 +83,6 @@
       "description": "Is learning to code still worth it in 2025? Without a doubt. Learning coding is not just about programming; it's about becoming a ...",
       "published_at": "2025-04-21T12:15:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WTfn7dIddt8/hqdefault.jpg"
-    },
-    {
-      "title": "How to Hide Passwords &amp; Credit Card Numbers (with Python) #shorts",
-      "video_id": "WLQVdpbVJJs",
-      "channel_title": "Programiz",
-      "description": "Ever wondered how websites hide your passwords and credit card numbers with asterisks (****)? In just 3 lines of Python, you'll ...",
-      "published_at": "2025-02-14T10:24:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WLQVdpbVJJs/hqdefault.jpg"
     }
   ]
 }

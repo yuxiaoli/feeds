@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-27T00:32:35.198062",
+  "fetched_at": "2025-08-03T00:33:17.234828",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "The Castellows - Alabama Stone (Acoustic Live)",
+      "video_id": "tgMOyJ0JSHY",
+      "channel_title": "The Castellows",
+      "description": "The Castellows - Alabama Stone (Acoustic Live) Listen to the EP Playlist: https://TheCastellows.lnk.to/alittlegoesalongway_playlist ...",
+      "published_at": "2025-07-30T04:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tgMOyJ0JSHY/hqdefault.jpg"
+    },
     {
       "title": "The Castellows - You Don&#39;t Even Know Who I Am (Acoustic Live)",
       "video_id": "qSaC5x9eLwE",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-06-30T20:29:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Zov9EK0VDi4/hqdefault.jpg"
-    },
-    {
-      "title": "Acoustic sessions are officially out!!! Yall go listen!!  #thecastellows #homecoming",
-      "video_id": "k0M6MoIbpFI",
-      "channel_title": "The Castellows",
-      "description": "",
-      "published_at": "2025-06-16T22:51:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k0M6MoIbpFI/hqdefault.jpg"
     }
   ]
 }

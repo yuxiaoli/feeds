@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-27T00:32:39.758622",
+  "fetched_at": "2025-08-03T00:33:21.742739",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Step inside McKim’s Mile House, a Disney Vacation Club Member Lounge #waltdisneyimagineering",
+      "video_id": "SpRZIYTZNC8",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "learn more about the story and different disciplines who brought the lounge at Magic Kingdom to life! Requires additional ...",
+      "published_at": "2025-07-31T14:39:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SpRZIYTZNC8/hqdefault.jpg"
+    },
     {
       "title": "Get a FIRST LOOK at the Mapmaker’s Room and the Captains’ Booths inside The Beak and Barrel.",
       "video_id": "3K4XRwJjeBo",
@@ -75,14 +83,6 @@
       "description": "From site walks to side quests, he keeps projects on track. (See what we did there? )",
       "published_at": "2025-06-18T15:01:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3srsHwNK54M/hqdefault.jpg"
-    },
-    {
-      "title": "Ever wondered how your car sees the world? 🚗✨",
-      "video_id": "OmZATrW4Zkg",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "Find out on Test Track presented by General Motors, opening on July 22 at Walt Disney World.",
-      "published_at": "2025-06-16T16:49:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OmZATrW4Zkg/hqdefault.jpg"
     }
   ]
 }

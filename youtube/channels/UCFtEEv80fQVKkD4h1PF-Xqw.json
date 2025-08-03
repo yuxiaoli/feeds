@@ -1,25 +1,9 @@
 {
-  "fetched_at": "2025-07-27T00:32:53.862347",
+  "fetched_at": "2025-08-03T00:33:35.255602",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
-    {
-      "title": "The output of AI must be socially useful #satyanadella #microsoft #ycombinator",
-      "video_id": "qM60DCeep2Y",
-      "channel_title": "Microsoft",
-      "description": "responsibleai #satya #aiforgood #techforgood #sustainabletech Subscribe to Microsoft on YouTube here: ...",
-      "published_at": "2025-07-24T17:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qM60DCeep2Y/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft and Minecraft empower families through code with TechBuffalo",
-      "video_id": "JG015xP0I_U",
-      "channel_title": "Microsoft",
-      "description": "See how TechBuffalo is bringing digital skills to Western New York through L1Family Code Night, a hands-on learning event ...",
-      "published_at": "2025-07-22T16:59:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JG015xP0I_U/hqdefault.jpg"
-    },
     {
       "title": "Minecraft teaches kids to stay safe online",
       "video_id": "aucW6HBfIWI",
@@ -27,14 +11,6 @@
       "description": "Minecraft Education is giving schools around the world a creative and powerful way to engage students in critical topics like online ...",
       "published_at": "2025-07-18T19:57:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/aucW6HBfIWI/hqdefault.jpg"
-    },
-    {
-      "title": "How AI is mapping the tree of life | Microsoft Azure and NVIDIA",
-      "video_id": "IbN3ClySZsg",
-      "channel_title": "Microsoft",
-      "description": "Microsoft Azure and NVIDIA present Catalyst: a new series that spotlights the visionaries using AI to tackle global challenges.",
-      "published_at": "2025-07-17T18:59:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IbN3ClySZsg/hqdefault.jpg"
     },
     {
       "title": "How AI agents are reshaping businesses &amp; team dynamics | Microsoft CMO of AI at Work Jared Spataro",
@@ -83,6 +59,30 @@
       "description": "Subscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube Follow us on social: LinkedIn: ...",
       "published_at": "2025-02-07T18:00:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4CMJDiPq1f4/hqdefault.jpg"
+    },
+    {
+      "title": "Stanford Professor Michele Elam and Kevin Scott on art, AI, the engineering mindset and more",
+      "video_id": "wFgxS36DxJI",
+      "channel_title": "Microsoft",
+      "description": "0:00 Intro – Michele Elam 1:00 Early life, pathway into tech and AI 11:06 The engineering mindset 17:04 Kevin & Michele get ...",
+      "published_at": "2025-01-21T16:59:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wFgxS36DxJI/hqdefault.jpg"
+    },
+    {
+      "title": "Refik Anadol and Kevin Scott at the intersection of AI and Art",
+      "video_id": "R93cfvrdGFQ",
+      "channel_title": "Microsoft",
+      "description": "Refik Anadol, an internationally renowned media artist and director, joins Behind the Tech to discuss his journey from a childhood ...",
+      "published_at": "2024-11-12T17:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R93cfvrdGFQ/hqdefault.jpg"
+    },
+    {
+      "title": "BWT Alpine F1 Team&#39;s Everyday AI Companion | Microsoft Copilot",
+      "video_id": "DA2_e-qB9dQ",
+      "channel_title": "Microsoft",
+      "description": "When team driver Pierre Gasly forgets a birthday, Microsoft Copilot has his back. Learn more: ...",
+      "published_at": "2024-06-03T15:30:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DA2_e-qB9dQ/hqdefault.jpg"
     }
   ]
 }

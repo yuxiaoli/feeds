@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2025-07-27T00:32:58.412758",
+  "fetched_at": "2025-08-03T00:33:39.813940",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Creating rules for Agents with Warp",
+      "video_id": "OyrpkeL6WNY",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-07-31T18:52:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OyrpkeL6WNY/hqdefault.jpg"
+    },
+    {
+      "title": "Explaining My Codebase With Warp",
+      "video_id": "11rz9OYQ8Hg",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-07-29T21:48:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/11rz9OYQ8Hg/hqdefault.jpg"
+    },
+    {
+      "title": "Editing Agent Code In Warp",
+      "video_id": "dm-P63USsVg",
+      "channel_title": "Warp",
+      "description": "See our official changelog https://docs.warp.dev/getting-started/changelog Check out Warp https://warp.dev.",
+      "published_at": "2025-07-29T18:24:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dm-P63USsVg/hqdefault.jpg"
+    },
+    {
+      "title": "Warp Overview (Basic UI Walkthrough)",
+      "video_id": "O5E6ze3vqeo",
+      "channel_title": "Warp",
+      "description": "See our official changelog https://docs.warp.dev/getting-started/changelog Check out Warp https://warp.dev.",
+      "published_at": "2025-07-29T18:24:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O5E6ze3vqeo/hqdefault.jpg"
+    },
+    {
+      "title": "Starting a Coding Task with Warp",
+      "video_id": "IuFSuOYstfg",
+      "channel_title": "Warp",
+      "description": "See our official changelog https://docs.warp.dev/getting-started/changelog Check out Warp https://warp.dev.",
+      "published_at": "2025-07-29T18:24:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IuFSuOYstfg/hqdefault.jpg"
+    },
+    {
+      "title": "Warp Updates: Coding just got a lot better",
+      "video_id": "h_iFv16lhGs",
+      "channel_title": "Warp",
+      "description": "Coding just got a lot better in Warp. Here's what we've got release/coming: 00:28 Searching files support 00:48 Tabbed file viewer ...",
+      "published_at": "2025-07-29T18:02:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h_iFv16lhGs/hqdefault.jpg"
+    },
     {
       "title": "Warp Updates: Session restoration, tab tooltips &amp; keyboard configs",
       "video_id": "qaWgxww8di4",
@@ -21,7 +69,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Kw6bfR5oLuQ/hqdefault.jpg"
     },
     {
-      "title": "Warp Update: Keep your secrets secure with Warp coding agents",
+      "title": "Warp Updates: Keep your secrets secure with Warp coding agents",
       "video_id": "w8ZQ5lYXhM4",
       "channel_title": "Warp",
       "description": "Secret redaction is enabled by default in Warp! Perfect for: - Demoing or recording coding/terminal sessions - Sharing screenshots ...",
@@ -35,54 +83,6 @@
       "description": "A couple of new improvements to announce in Warp: 1. Close tab button on left 2. Universal Input only shows styling when active ...",
       "published_at": "2025-07-11T21:26:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/F6BPFUzJFyM/hqdefault.jpg"
-    },
-    {
-      "title": "Warp x Anthropic: Supercharge your development with Warp &amp; Claude 4",
-      "video_id": "GBe0X14E0GM",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-07-01T17:06:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GBe0X14E0GM/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Warp 2.0: The Agentic Development Environment",
-      "video_id": "k9BRhSbVSpI",
-      "channel_title": "Warp",
-      "description": "Try Warp now for FREE https://www.warp.dev AI is completely transforming how developers write code. The tool that they need ...",
-      "published_at": "2025-06-24T14:58:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k9BRhSbVSpI/hqdefault.jpg"
-    },
-    {
-      "title": "The Future of Development: Introducing Warp 2.0",
-      "video_id": "CDXqMd3klvo",
-      "channel_title": "Warp",
-      "description": "AI is fundamentally changing how developers write code and ship software. This shift calls for a new interface — one built for ...",
-      "published_at": "2025-06-24T14:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CDXqMd3klvo/hqdefault.jpg"
-    },
-    {
-      "title": "Coding by Prompt: Father&#39;s day edition",
-      "video_id": "3rf4ipZzRFg",
-      "channel_title": "Warp",
-      "description": "Learn how to code by prompt with Warp!",
-      "published_at": "2025-06-17T17:01:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3rf4ipZzRFg/hqdefault.jpg"
-    },
-    {
-      "title": "Warp&#39;s Launch Log 03 | MCP Support",
-      "video_id": "ja6dZwWgtd8",
-      "channel_title": "Warp",
-      "description": "We've launched so many new features in Warp in just the last month, including MCP support, image as context, and more.",
-      "published_at": "2025-06-04T14:38:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ja6dZwWgtd8/hqdefault.jpg"
-    },
-    {
-      "title": "We GAVE AWAY a $10K FALCON PC!!",
-      "video_id": "GwQACNz273E",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-05-29T19:14:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GwQACNz273E/hqdefault.jpg"
     }
   ]
 }

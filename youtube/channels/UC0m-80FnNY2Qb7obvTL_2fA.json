@@ -1,24 +1,16 @@
 {
-  "fetched_at": "2025-07-27T00:32:35.938975",
+  "fetched_at": "2025-08-03T00:33:17.996648",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "MySQL Migrations",
-      "video_id": "I5BEKzt8Ju4",
+      "title": "o4-mini in Action: Deep Reasoning Over Text and Images",
+      "video_id": "kNXddiUD5R8",
       "channel_title": "Microsoft Azure",
-      "description": "Learn how to migrate MySQL Servers to Azure. Learn more: https://msft.it/6059sBISF #Microsoft #MicrosoftAzure #AzureMigrate.",
-      "published_at": "2025-07-25T16:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I5BEKzt8Ju4/hqdefault.jpg"
-    },
-    {
-      "title": "DMS SQL Migrations",
-      "video_id": "tzzwKQN-hE8",
-      "channel_title": "Microsoft Azure",
-      "description": "Learn how to migrate SQL Servers to Azure using the DMS tool. Learn more: https://msft.it/6054sBIti #Microsoft #MicrosoftAzure ...",
-      "published_at": "2025-07-25T15:01:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tzzwKQN-hE8/hqdefault.jpg"
+      "description": "Discover the power of o4-mini, the latest multimodal reasoning model available in Azure OpenAI. In this demo, Chris Hoder from ...",
+      "published_at": "2025-08-01T17:45:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kNXddiUD5R8/hqdefault.jpg"
     },
     {
       "title": "Azure Migrate Execute",
@@ -27,30 +19,6 @@
       "description": "Learn how to migrate to a test environment in Azure and cutover to production using Azure Migrate. Learn more: ...",
       "published_at": "2025-07-25T14:00:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/YAFcLWifeC0/hqdefault.jpg"
-    },
-    {
-      "title": "Application Aware Assessment",
-      "video_id": "MPhuurbbLo4",
-      "channel_title": "Microsoft Azure",
-      "description": "Learn how you can use the new application awareness feature in Azure Migrate to group dependent application resources for ...",
-      "published_at": "2025-07-24T16:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MPhuurbbLo4/hqdefault.jpg"
-    },
-    {
-      "title": "MySQL Assessment",
-      "video_id": "AxbjkR_Quzo",
-      "channel_title": "Microsoft Azure",
-      "description": "Learn how you can check your MySQL databases for readiness to migrate to Azure using Azure Migrate. Learn more: ...",
-      "published_at": "2025-07-24T15:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AxbjkR_Quzo/hqdefault.jpg"
-    },
-    {
-      "title": "WebApp Assessment",
-      "video_id": "jmTzgbQvTAo",
-      "channel_title": "Microsoft Azure",
-      "description": "Learn how you can check your web applications (.NET and Java) for readiness to migrate to Azure using Azure Migrate.",
-      "published_at": "2025-07-24T14:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jmTzgbQvTAo/hqdefault.jpg"
     },
     {
       "title": "Make-A-Wish brings more joy, hope, and strength to children through Microsoft technology",
@@ -83,6 +51,38 @@
       "description": "Join Chris Oo as he discusses Microsoft's development of the first industry “paravisor” that enables existing VM workloads to ...",
       "published_at": "2025-06-03T14:01:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/oJFEKuHGCzA/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft Build 2025 | Software Development Company Highlights",
+      "video_id": "f7POcnSsGzY",
+      "channel_title": "Microsoft Azure",
+      "description": "Catch up on the highlights from Satya Nadella's Microsoft Build keynote, tailored for software companies. Read about the latest ...",
+      "published_at": "2025-05-29T14:01:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f7POcnSsGzY/hqdefault.jpg"
+    },
+    {
+      "title": "Software development is an act of empathy | Kilimo",
+      "video_id": "c7R6auLG6fg",
+      "channel_title": "Microsoft Azure",
+      "description": "Water is fundamental to our existence, but only a tiny fraction of fresh water on Earth is available to sustain life. How can we ...",
+      "published_at": "2025-05-28T16:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c7R6auLG6fg/hqdefault.jpg"
+    },
+    {
+      "title": "Demo: Azure AI Foundry SDK",
+      "video_id": "mOs3-4S1_Ys",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover the latest capabilities offered in the unified Azure AI Foundry SDK. Design, customize, and manage AI applications and ...",
+      "published_at": "2025-05-19T16:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mOs3-4S1_Ys/hqdefault.jpg"
+    },
+    {
+      "title": "Carvana builds efficient, seamless customer experience with agent on Azure",
+      "video_id": "obcYLjzSX6E",
+      "channel_title": "Microsoft Azure",
+      "description": "Carvana built an AI-powered conversation analysis engine to enhance visibility and continuously improve every customer ...",
+      "published_at": "2025-05-19T16:01:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/obcYLjzSX6E/hqdefault.jpg"
     }
   ]
 }

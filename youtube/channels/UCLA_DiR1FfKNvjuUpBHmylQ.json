@@ -1,16 +1,64 @@
 {
-  "fetched_at": "2025-07-27T00:33:01.320237",
+  "fetched_at": "2025-08-03T00:33:42.838336",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 3,
+  "count": 9,
   "videos": [
     {
-      "title": "NISAR: Tracking Earth’s Changing Surface (Official NASA Trailer)",
-      "video_id": "zM_0aXxGN6g",
+      "title": "NASA’s SpaceX Crew-11 Arrival &amp; Welcome Remarks",
+      "video_id": "206O9S9GLbg",
       "channel_title": "NASA",
-      "description": "A powerful new satellite will soon provide insights into natural hazards, ecosystems, agriculture, and other fields of study that ...",
-      "published_at": "2025-07-21T16:01:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zM_0aXxGN6g/hqdefault.jpg"
+      "description": "After lifting off from NASA's Kennedy Space Center on Thursday, July 31, the crew members of NASA's SpaceX Crew-11 mission ...",
+      "published_at": "2025-08-02T09:39:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/206O9S9GLbg/hqdefault.jpg"
+    },
+    {
+      "title": "NASA’s SpaceX Crew-11 Postlaunch News Conference",
+      "video_id": "O5KhZbe_mS0",
+      "channel_title": "NASA",
+      "description": "Following the successful launch of NASA's SpaceX Crew-11 mission on Thursday, July 31, experts from NASA and our mission ...",
+      "published_at": "2025-08-01T17:51:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O5KhZbe_mS0/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-11 Launch",
+      "video_id": "k0ILMhbWHNQ",
+      "channel_title": "NASA",
+      "description": "We're sending a new crew to the International Space Station! Watch with us as the four members of NASA's SpaceX Crew-11 ...",
+      "published_at": "2025-08-01T16:39:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k0ILMhbWHNQ/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-11 Launch (July 31, 2025 Attempt)",
+      "video_id": "U-k_LyA1DQQ",
+      "channel_title": "NASA",
+      "description": "UPDATE: The July 31 launch attempt for Crew-11 was scrubbed due to weather: ...",
+      "published_at": "2025-07-31T18:34:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U-k_LyA1DQQ/hqdefault.jpg"
+    },
+    {
+      "title": "NASA’s SpaceX Crew-11 Prelaunch News Conference",
+      "video_id": "fZXBSV6B37I",
+      "channel_title": "NASA",
+      "description": "NASA and the agency's partners preview the launch of NASA's SpaceX Crew-11 mission. Participants include: Ken Bowersox, ...",
+      "published_at": "2025-07-30T22:30:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fZXBSV6B37I/hqdefault.jpg"
+    },
+    {
+      "title": "NISAR Launch",
+      "video_id": "waTmU9hyOqo",
+      "channel_title": "NASA",
+      "description": "Join NASA and ISRO (the Indian Space Research Organisation) for the launch of our most advanced Earth-observing radar ...",
+      "published_at": "2025-07-30T13:12:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/waTmU9hyOqo/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-11 Mission to the International Space Station (Official NASA Trailer)",
+      "video_id": "rsczqMDrBfc",
+      "channel_title": "NASA",
+      "description": "Four crew members are preparing to launch to the International Space Station as part of NASA's SpaceX Crew-11 mission to ...",
+      "published_at": "2025-07-28T16:59:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rsczqMDrBfc/hqdefault.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

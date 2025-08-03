@@ -1,40 +1,72 @@
 {
-  "fetched_at": "2025-07-27T00:32:51.532055",
+  "fetched_at": "2025-08-03T00:33:33.134896",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
-  "count": 4,
+  "count": 8,
   "videos": [
     {
-      "title": "The Amazing Process of Making Soy Sauce",
-      "video_id": "7QTH-T98cIU",
+      "title": "World&#39;s Longest Lightning Strike Discovered",
+      "video_id": "xbzObStRbn0",
       "channel_title": "Interesting Engineering",
-      "description": "Soy sauce is such a crucial ingredient in dishes all across Asia, especially Japan. But have you ever wondered how it's made?",
-      "published_at": "2025-07-25T18:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7QTH-T98cIU/hqdefault.jpg"
+      "description": "The record for the world's longest lightning flash has just been broken. Thanks to the Georgia Tech Research Institute, data from ...",
+      "published_at": "2025-08-02T03:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xbzObStRbn0/hqdefault.jpg"
     },
     {
-      "title": "Making a Computer From a Kids Toy",
-      "video_id": "JK2jnYtUPRM",
+      "title": "Would You Trust a Driverless Truck at Night?",
+      "video_id": "Dfu8kote-7U",
       "channel_title": "Interesting Engineering",
-      "description": "This person just built an 8bit computer out of a kids toy! Shadowman39 has made a hobby out of building complex structures out ...",
-      "published_at": "2025-07-24T18:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JK2jnYtUPRM/hqdefault.jpg"
+      "description": "Aurora's commercial self-driving trucks have now been validated for night driving. With further improvements and expansions ...",
+      "published_at": "2025-08-01T17:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Dfu8kote-7U/hqdefault.jpg"
     },
     {
-      "title": "What is this? A Center for Ants?!",
-      "video_id": "SlrHwOejRfE",
+      "title": "Spotify Now Scans Faces For Age Verification",
+      "video_id": "wyCj7xVH-lc",
       "channel_title": "Interesting Engineering",
-      "description": "The Ecolopes project aims to find ways for humans and wildlife to coexist peacefully in urban spaces. This nesting facade is their ...",
-      "published_at": "2025-07-22T15:00:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SlrHwOejRfE/hqdefault.jpg"
+      "description": "In compliance with the UK Online Safety Act, Spotify—along with other online platforms—are now requiring facial verification ...",
+      "published_at": "2025-08-01T08:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wyCj7xVH-lc/hqdefault.jpg"
     },
     {
-      "title": "How GPUs Overtook Apple: The $4 Trillion Chip Revolution",
-      "video_id": "6olBqKA8GpQ",
+      "title": "You Can Now Feel Touch In VR",
+      "video_id": "cHuCOq3CfeI",
       "channel_title": "Interesting Engineering",
-      "description": "How did graphics chips go from powering Pac‑Man to eclipsing Apple's market value? In this deep dive, we trace the $4 trillion ...",
-      "published_at": "2025-07-20T08:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6olBqKA8GpQ/hqdefault.jpg"
+      "description": "A new sensation has entered the VR world: the sense of touch. The USC Viterbi School of Engineering have invented a haptic ...",
+      "published_at": "2025-07-31T15:01:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cHuCOq3CfeI/hqdefault.jpg"
+    },
+    {
+      "title": "ARMstrong Dex Shows Off Its Throwing Arm",
+      "video_id": "SVSOLEMAAJU",
+      "channel_title": "Interesting Engineering",
+      "description": "Throwing something accurately is more complicated than we ever stopped to think. The ARMstrong Dex shows off its ...",
+      "published_at": "2025-07-31T03:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SVSOLEMAAJU/hqdefault.jpg"
+    },
+    {
+      "title": "First Australian Rocket Drops After 14 Seconds",
+      "video_id": "_n2MvZffEKM",
+      "channel_title": "Interesting Engineering",
+      "description": "Gilmour Space Technologies just launched the first Australian-designed and Australian-made space rocket, named Eris. How well ...",
+      "published_at": "2025-07-31T00:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_n2MvZffEKM/hqdefault.jpg"
+    },
+    {
+      "title": "Massive Earthquake Triggers Pacific-Wide Tsunami Warnings",
+      "video_id": "OhRQeNLEWJI",
+      "channel_title": "Interesting Engineering",
+      "description": "An 8.8-magnitude quake near Russia triggered Pacific-wide tsunami warnings, with waves up to 4 meters threatening coasts in ...",
+      "published_at": "2025-07-30T11:49:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OhRQeNLEWJI/hqdefault.jpg"
+    },
+    {
+      "title": "Massive 8.8 Quake Hits Off Russia’s Kamchatka Coast",
+      "video_id": "vtX8LL27q8Y",
+      "channel_title": "Interesting Engineering",
+      "description": "A magnitude 8.8 earthquake struck off Russia's Kamchatka Peninsula, causing tsunami fears. The shallow quake's epicenter was ...",
+      "published_at": "2025-07-30T10:47:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vtX8LL27q8Y/hqdefault.jpg"
     }
   ]
 }

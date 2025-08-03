@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-27T00:33:26.941334",
+  "fetched_at": "2025-08-03T00:34:08.647272",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Apollo Winged Command and Service Module #apollo #nasa",
+      "video_id": "eKeRuzA1p04",
+      "channel_title": "Hazegrayart",
+      "description": "United States Patent 3576298 applied for in 1967 and issued to the North American Rockwell Corp in 1971. ABSTRACT: An ...",
+      "published_at": "2025-07-30T02:56:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eKeRuzA1p04/hqdefault.jpg"
+    },
     {
       "title": "MIR Space Station, VTOL MTKVA",
       "video_id": "wUM-8aVKCb4",
@@ -75,14 +83,6 @@
       "description": "Humpback Orbiter Space Shuttle Concept An undefined need for more payload bay volume inspired the thought that the lee side ...",
       "published_at": "2025-06-28T02:04:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZCuUs_B6y2I/hqdefault.jpg"
-    },
-    {
-      "title": "Humpback Orbiter Space Shuttle Concept",
-      "video_id": "DX7FtbMpIvQ",
-      "channel_title": "Hazegrayart",
-      "description": "Humpback Orbiter Space Shuttle Concept An undefined need for more payload bay volume inspired the thought that the lee side ...",
-      "published_at": "2025-06-20T21:25:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DX7FtbMpIvQ/hqdefault.jpg"
     }
   ]
 }

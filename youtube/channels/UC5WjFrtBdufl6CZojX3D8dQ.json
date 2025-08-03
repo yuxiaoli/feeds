@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-07-27T00:32:41.318945",
+  "fetched_at": "2025-08-03T00:33:23.298222",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "The snappiest vehicle UI in the game",
+      "video_id": "RFEinYP7EKI",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-08-01T18:30:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RFEinYP7EKI/hqdefault.jpg"
+    },
+    {
+      "title": "“A hands-free experience” @86hands",
+      "video_id": "xO5Ew228Q74",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-07-31T18:54:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xO5Ew228Q74/hqdefault.jpg"
+    },
+    {
+      "title": "New Feature | Light Sync",
+      "video_id": "PFtkLts3G3g",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-07-30T17:54:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PFtkLts3G3g/hqdefault.jpg"
+    },
+    {
+      "title": "Rave Cave In Your Car | Tesla Light Sync",
+      "video_id": "Pt5iBqEnl8s",
+      "channel_title": "Tesla",
+      "description": "Turn your Tesla into a Rave Cave with the new Light Sync feature. When enabled, your accent lighting will pulse along with your ...",
+      "published_at": "2025-07-29T21:43:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pt5iBqEnl8s/hqdefault.jpg"
+    },
     {
       "title": "Order Tesla Diner meals right from your car",
       "video_id": "oXqhxJnyrHU",
@@ -51,38 +83,6 @@
       "description": "",
       "published_at": "2025-07-03T20:47:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Z-wqyqgQeAI/hqdefault.jpg"
-    },
-    {
-      "title": "Why Drivers Love FSD | Tesla",
-      "video_id": "eCrU0EdIiO4",
-      "channel_title": "Tesla",
-      "description": "FSD Supervised gives you back time & energy, all while making the roads safer for you & others. We asked Tesla owners to share ...",
-      "published_at": "2025-07-03T17:07:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eCrU0EdIiO4/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Delivers Itself to New Owner",
-      "video_id": "ZvBJ-MF0iX0",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-06-30T17:32:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZvBJ-MF0iX0/hqdefault.jpg"
-    },
-    {
-      "title": "Autonomous Tesla Delivery | Full Drive",
-      "video_id": "lRRtW16GalE",
-      "channel_title": "Tesla",
-      "description": "Full drive in 1x speed This Tesla drove itself from Gigafactory Texas to its new owner's home ~30min away — crossing parking ...",
-      "published_at": "2025-06-28T14:16:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lRRtW16GalE/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Delivers Itself to New Owner",
-      "video_id": "GU16hXSSGKs",
-      "channel_title": "Tesla",
-      "description": "The world's first autonomous delivery of a car! This Model Y drove itself from Gigafactory Texas to its new owner's home ~30min ...",
-      "published_at": "2025-06-28T04:48:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GU16hXSSGKs/hqdefault.jpg"
     }
   ]
 }

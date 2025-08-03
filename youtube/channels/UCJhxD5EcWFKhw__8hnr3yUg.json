@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-07-27T00:32:56.878993",
+  "fetched_at": "2025-08-03T00:33:38.336180",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "【辞职环游世界】这景福宫怎么有点像横店啊",
+      "video_id": "GvgQa_NjjBM",
+      "channel_title": "码农高天",
+      "description": "首尔的最后一天，我们来到了景福宫，稍微有点失望。但是更失望的是韩国的美食！",
+      "published_at": "2025-07-31T10:30:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GvgQa_NjjBM/hqdefault.jpg"
+    },
     {
       "title": "【辞职环游世界】首尔塔日落之差点没回来",
       "video_id": "AQclZZsQyEY",
@@ -75,14 +83,6 @@
       "description": "AI下围棋已经不新鲜了，现在出来了一个会解释自己下的棋的AI？它到底有多厉害，多实用？我们来分析一下！顺便聊聊它背后的 ...",
       "published_at": "2025-06-07T06:30:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3etKEFxUrZc/hqdefault.jpg"
-    },
-    {
-      "title": "【PyCon】用和龟叔的绝版合影结束PyCon吧！",
-      "video_id": "YcRyzuvvTBA",
-      "channel_title": "码农高天",
-      "description": "我的PyCon之旅正式画下了句号，最后两天也非常精彩，我给了我第二个PyConUS的talk，虽然观众少了点，但是还是很开心。当然 ...",
-      "published_at": "2025-05-20T10:30:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YcRyzuvvTBA/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-07-27T00:33:14.944062",
+  "fetched_at": "2025-08-03T00:33:56.384933",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Real Talk: ChatGPT Study Mode",
+      "video_id": "KABlU2cRzTM",
+      "channel_title": "OpenAI",
+      "description": "",
+      "published_at": "2025-07-30T17:00:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KABlU2cRzTM/hqdefault.jpg"
+    },
+    {
+      "title": "Leah Belsky on how AI is transforming education — the OpenAI Podcast Ep. 4",
+      "video_id": "QCLkJra0PjY",
+      "channel_title": "OpenAI",
+      "description": "AI is redefining how we learn — from personalized tutoring to entirely new teaching models. OpenAI's Head of Education, Leah ...",
+      "published_at": "2025-07-30T15:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QCLkJra0PjY/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing ChatGPT Study Mode",
+      "video_id": "XDYilxy1dn8",
+      "channel_title": "OpenAI",
+      "description": "Introducing study mode in ChatGPT — a learning experience that helps you work through problems step-by-step instead of just ...",
+      "published_at": "2025-07-29T18:27:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XDYilxy1dn8/hqdefault.jpg"
+    },
     {
       "title": "5 More ChatGPT Prompts to Add to Your Collection",
       "video_id": "iFHmvwvVCSg",
@@ -59,30 +83,6 @@
       "description": "ChatGPT agent can browse the web, book appointments, and make purchases like you would—searching, scrolling, and clicking.",
       "published_at": "2025-07-17T19:04:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Wgn4JeYI9lY/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT agent Makes Slideshows",
-      "video_id": "szJI9YJNEZk",
-      "channel_title": "OpenAI",
-      "description": "ChatGPT agent is your one-stop shop for fully editable presentations.",
-      "published_at": "2025-07-17T18:59:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/szJI9YJNEZk/hqdefault.jpg"
-    },
-    {
-      "title": "Introduction to ChatGPT agent",
-      "video_id": "1jn_RpbPbEc",
-      "channel_title": "OpenAI",
-      "description": "Sam Altman, Casey Chu, Isa Fulford, Yash Kumar, and Zhiqing Sun introduce and demo our unified agentic model in ChatGPT.",
-      "published_at": "2025-07-17T17:34:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1jn_RpbPbEc/hqdefault.jpg"
-    },
-    {
-      "title": "A Look at ChatGPT agent",
-      "video_id": "2wzGS_WUZYQ",
-      "channel_title": "OpenAI",
-      "description": "ChatGPT can now do work for you using its own computer. Introducing ChatGPT agent—a unified agentic system combining ...",
-      "published_at": "2025-07-17T17:27:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2wzGS_WUZYQ/hqdefault.jpg"
     }
   ]
 }

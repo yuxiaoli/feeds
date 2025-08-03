@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-07-27T00:33:11.895373",
+  "fetched_at": "2025-08-03T00:33:53.421899",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "Payoff Engineering - Using options &amp; stock to customize your strategy - Stock Options Strategies",
+      "video_id": "jssGJnENU1I",
+      "channel_title": "Socratica",
+      "description": "There are 4 key stock option positions: the long call, long put, short call, and short put. And for stock directly, you can either be ...",
+      "published_at": "2025-08-01T10:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jssGJnENU1I/hqdefault.jpg"
+    },
+    {
+      "title": "Protective Put - Protecting yourself from downside risk - Stock Option Trading Tips",
+      "video_id": "baf9moVb-i0",
+      "channel_title": "Socratica",
+      "description": "A common options strategy is the Protective Put. This is when you buy a put option to \"protect\" your stock investment from ...",
+      "published_at": "2025-07-30T10:01:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/baf9moVb-i0/hqdefault.jpg"
+    },
     {
       "title": "Straddle - Stock Options Trading - Betting on Volatility",
       "video_id": "l9tUHwBl14k",
@@ -37,28 +53,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ATfDsdlze3E/hqdefault.jpg"
     },
     {
-      "title": "Asset Classes Explained - 📈 Intro for Aspiring Quants",
-      "video_id": "ZwnzE3uH6R4",
-      "channel_title": "Socratica",
-      "description": "NOTIFY ME when the course launches: https://snu.socratica.com/quantitative-finance What exactly ...",
-      "published_at": "2025-06-18T10:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZwnzE3uH6R4/hqdefault.jpg"
-    },
-    {
       "title": "What are Hedge Funds? 📈 Intro for Aspiring Quants",
       "video_id": "eLU77gPIK4E",
       "channel_title": "Socratica",
       "description": "NOTIFY ME when the course launches: https://snu.socratica.com/quantitative-finance What do ...",
       "published_at": "2025-04-21T10:00:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eLU77gPIK4E/hqdefault.jpg"
-    },
-    {
-      "title": "Options, Futures, Forwards, Swaps - What are Derivatives? 📈 Intro for Aspiring Quants",
-      "video_id": "GmHNYPrtwD4",
-      "channel_title": "Socratica",
-      "description": "NOTIFY ME when the course launches: https://snu.socratica.com/quantitative-finance ...",
-      "published_at": "2025-04-07T10:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GmHNYPrtwD4/hqdefault.jpg"
     },
     {
       "title": "What is Quantitative Finance? 📈 Intro for Aspiring Quants",

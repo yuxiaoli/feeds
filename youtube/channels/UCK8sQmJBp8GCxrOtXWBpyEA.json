@@ -1,40 +1,32 @@
 {
-  "fetched_at": "2025-07-27T00:32:57.672753",
+  "fetched_at": "2025-08-03T00:33:39.030041",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 4,
+  "count": 3,
   "videos": [
     {
-      "title": "Pick the perfect pairing. Gemini Live can look at the menu &amp; make a suggestion based on your taste.",
-      "video_id": "RGiVGwCGDa0",
+      "title": "Note-worthy AI: Unpacking NotebookLM | Made by Google Podcast S7E6",
+      "video_id": "_isRJlUZU3g",
       "channel_title": "Google",
-      "description": "Talk it out Live with Gemini. Gemini Live is a more natural way to chat with Gemini. Go Live to brainstorm and organize your ...",
-      "published_at": "2025-07-25T17:34:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RGiVGwCGDa0/hqdefault.jpg"
+      "description": "Ever wish your notes could talk? On this episode of the Made by Google podcast, host Rachid Finge deep dives into NotebookLM ...",
+      "published_at": "2025-07-31T19:38:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_isRJlUZU3g/hqdefault.jpg"
     },
     {
-      "title": "Find what you love and try it on with Google. See how clothes and trends look on you before you buy.",
-      "video_id": "fBMMev7_VUM",
+      "title": "Teach your old pics new tricks ✨With #Veo3 in Gemini, we turned a photo of this good boy into videos",
+      "video_id": "-zaSyo7ZYFc",
       "channel_title": "Google",
-      "description": "Whether you're still on the hunt for the perfect summer maxi skirt, dreaming about a new fall jacket or starting your back to school ...",
-      "published_at": "2025-07-24T16:35:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fBMMev7_VUM/hqdefault.jpg"
+      "description": "Here's how to turn your photos into videos: 1. Open the Gemini app or gemini.google 2. Select Video in the prompt bar (Pro or ...",
+      "published_at": "2025-07-30T18:03:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-zaSyo7ZYFc/hqdefault.jpg"
     },
     {
-      "title": "Turn your photos into videos using Veo 3 in Gemini",
-      "video_id": "KqaKDhwTW1Q",
+      "title": "Introducing NotebookLM Video Overviews",
+      "video_id": "KA_pExdDSUo",
       "channel_title": "Google",
-      "description": "You can now transform your photos into eight-second videos using Veo 3 in the Gemini app! With a new photo-to-video capability ...",
-      "published_at": "2025-07-22T22:17:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KqaKDhwTW1Q/hqdefault.jpg"
-    },
-    {
-      "title": "Looking for the perfect Superman experience? Just Ask Google",
-      "video_id": "OgG0dHHSH0k",
-      "channel_title": "Google",
-      "description": "You don't need a cape to be a hero. AI Mode can help you plan the most complex of outings. Just ask Google. www.google.com ...",
-      "published_at": "2025-07-21T22:25:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OgG0dHHSH0k/hqdefault.jpg"
+      "description": "Understand Anything NotebookLM is your research and thinking partner, grounded in the information you trust, built with the latest ...",
+      "published_at": "2025-07-29T16:29:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KA_pExdDSUo/hqdefault.jpg"
     }
   ]
 }
