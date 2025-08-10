@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-03T00:34:00.063206",
+  "fetched_at": "2025-08-10T00:33:09.268260",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "طريقة استخدام حبل المقاومة في البلانش",
+      "video_id": "auNUC2pWPkA",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2025-08-03T11:45:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/auNUC2pWPkA/hqdefault.jpg"
+    },
     {
       "title": "Assisted hip lift شرح التمرين",
       "video_id": "sweV5BTpY2E",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-07-13T13:29:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jWzwfBrZqPE/hqdefault.jpg"
-    },
-    {
-      "title": "هل لاعب رياضة الكالسثنكس يقدر يشيل اوزان ؟ تجربة تمارين الحديد",
-      "video_id": "DNRvCGQiyNA",
-      "channel_title": "Hemo Calisthenics",
-      "description": "حاب تبدأ رياضة الكاليسثينكس ؟ ‏أول شي تشوف هذا الفيديو عشان تتعرف على رياضة الكاليسثينكس https://youtu.be/iNIFmVe9mkk ...",
-      "published_at": "2025-07-11T11:33:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DNRvCGQiyNA/hqdefault.jpg"
     }
   ]
 }

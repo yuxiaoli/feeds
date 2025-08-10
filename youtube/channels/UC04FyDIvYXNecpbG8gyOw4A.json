@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-03T00:33:16.489693",
+  "fetched_at": "2025-08-10T00:32:22.200189",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "A Different Perspective",
+      "video_id": "uh2I4JPo6Vw",
+      "channel_title": "Meta",
+      "description": "we like to think big.",
+      "published_at": "2025-08-08T14:47:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uh2I4JPo6Vw/hqdefault.jpg"
+    },
     {
       "title": "jet anywhere, courtesy of @meta.ai",
       "video_id": "4LllLe0OWnM",
@@ -75,14 +83,6 @@
       "description": "Meta AI: here when it counts.",
       "published_at": "2025-07-22T14:52:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SvBxiRZcXSc/hqdefault.jpg"
-    },
-    {
-      "title": "AI&#39;m Here to Help",
-      "video_id": "s0EhywBXR9A",
-      "channel_title": "Meta",
-      "description": "Trying to get OOO fast this summer? Meta AI is here to help.",
-      "published_at": "2025-07-21T14:06:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s0EhywBXR9A/hqdefault.jpg"
     }
   ]
 }

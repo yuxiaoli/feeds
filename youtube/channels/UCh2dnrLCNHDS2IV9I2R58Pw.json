@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-08-03T00:34:08.647272",
+  "fetched_at": "2025-08-10T00:33:17.640867",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Vertical Landing Space Shuttle VTOL",
+      "video_id": "Z0Xr0do7hHA",
+      "channel_title": "Hazegrayart",
+      "description": "A Space Shuttle Concept The experts at OKB-1, pioneers behind the Soyuz capsule, were decidedly unimpressed with the ...",
+      "published_at": "2025-08-08T16:34:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z0Xr0do7hHA/hqdefault.jpg"
+    },
+    {
+      "title": "Space Shuttle Reentry: VTOL MTKVA",
+      "video_id": "1DkZrlT3d7M",
+      "channel_title": "Hazegrayart",
+      "description": "A Space Shuttle Concept The experts at OKB-1, pioneers behind the Soyuz capsule, were decidedly unimpressed with the ...",
+      "published_at": "2025-08-06T13:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1DkZrlT3d7M/hqdefault.jpg"
+    },
     {
       "title": "Apollo Winged Command and Service Module #apollo #nasa",
       "video_id": "eKeRuzA1p04",
@@ -67,22 +83,6 @@
       "description": "The Conroy Virtus Designed by John M. Conroy of the Turbo-Three Corporation incorporate a pair of Boeing B-52 Stratofortress ...",
       "published_at": "2025-07-04T04:57:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hdiwig5ynfA/hqdefault.jpg"
-    },
-    {
-      "title": "Comet Rocket Heavy Lift Vehicle",
-      "video_id": "aHtC1uqpt98",
-      "channel_title": "Hazegrayart",
-      "description": "The Comet Rocket was a proposed super heavy lift launch vehicle (HLLV) designed for NASA's First Lunar Outpost Program ...",
-      "published_at": "2025-07-03T23:25:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aHtC1uqpt98/hqdefault.jpg"
-    },
-    {
-      "title": "Humpback Shuttle,  2001 Space Odyssey",
-      "video_id": "ZCuUs_B6y2I",
-      "channel_title": "Hazegrayart",
-      "description": "Humpback Orbiter Space Shuttle Concept An undefined need for more payload bay volume inspired the thought that the lee side ...",
-      "published_at": "2025-06-28T02:04:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZCuUs_B6y2I/hqdefault.jpg"
     }
   ]
 }

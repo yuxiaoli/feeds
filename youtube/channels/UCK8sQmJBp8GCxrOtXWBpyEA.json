@@ -1,32 +1,40 @@
 {
-  "fetched_at": "2025-08-03T00:33:39.030041",
+  "fetched_at": "2025-08-10T00:32:47.490647",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 3,
+  "count": 4,
   "videos": [
     {
-      "title": "Note-worthy AI: Unpacking NotebookLM | Made by Google Podcast S7E6",
-      "video_id": "_isRJlUZU3g",
+      "title": "Get a bird’s eye view of how scientists use Google’s Perch model to help save endangered birds.",
+      "video_id": "zIm_8jzJzmw",
       "channel_title": "Google",
-      "description": "Ever wish your notes could talk? On this episode of the Made by Google podcast, host Rachid Finge deep dives into NotebookLM ...",
-      "published_at": "2025-07-31T19:38:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_isRJlUZU3g/hqdefault.jpg"
+      "description": "Sifting through millions of hours of audio is for the birds. Google's Perch model helps scientists leverage AI to identify sounds in ...",
+      "published_at": "2025-08-07T15:01:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zIm_8jzJzmw/hqdefault.jpg"
     },
     {
-      "title": "Teach your old pics new tricks ✨With #Veo3 in Gemini, we turned a photo of this good boy into videos",
-      "video_id": "-zaSyo7ZYFc",
+      "title": "Off To College? Just Ask Google",
+      "video_id": "V4XSmrpW8f4",
       "channel_title": "Google",
-      "description": "Here's how to turn your photos into videos: 1. Open the Gemini app or gemini.google 2. Select Video in the prompt bar (Pro or ...",
-      "published_at": "2025-07-30T18:03:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-zaSyo7ZYFc/hqdefault.jpg"
+      "description": "From gathering inspiration, to buying at the right moment, Search is built to help you find exactly what you're looking for. With AI ...",
+      "published_at": "2025-08-06T22:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V4XSmrpW8f4/hqdefault.jpg"
     },
     {
-      "title": "Introducing NotebookLM Video Overviews",
-      "video_id": "KA_pExdDSUo",
+      "title": "Surprise! ✨ Students get the Gemini FREE Pro Plan for 1 yr. Learn more: goo.gle/freepro. Terms apply",
+      "video_id": "SWjltLnChZw",
       "channel_title": "Google",
-      "description": "Understand Anything NotebookLM is your research and thinking partner, grounded in the information you trust, built with the latest ...",
-      "published_at": "2025-07-29T16:29:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KA_pExdDSUo/hqdefault.jpg"
+      "description": "Get unlimited chats, image uploads, and quiz generations with more access to our 2.5 Pro model, Deep Research, and Audio ...",
+      "published_at": "2025-08-06T20:58:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SWjltLnChZw/hqdefault.jpg"
+    },
+    {
+      "title": "Students get a FREE 1-year Pro plan: Gemini 2.5 Pro, 2TB storage &amp; more. Terms apply.",
+      "video_id": "wIdPsYVGjfE",
+      "channel_title": "Google",
+      "description": "Get unlimited chats, image uploads, and quiz generations with more access to our 2.5 Pro model, Deep Research, and Audio ...",
+      "published_at": "2025-08-06T17:46:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wIdPsYVGjfE/hqdefault.jpg"
     }
   ]
 }

@@ -1,48 +1,64 @@
 {
-  "fetched_at": "2025-08-03T00:33:41.341092",
+  "fetched_at": "2025-08-10T00:32:49.815326",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "AI Breach Stats You Can&#39;t Ignore | CODB 2025",
-      "video_id": "Tzb_a4n-UK4",
+      "title": "Mastering AI Risk: NIST’s Risk Management Framework Explained",
+      "video_id": "0oeD2Wf25wY",
       "channel_title": "IBM Technology",
-      "description": "IBM's 2025 Cost of a Data Breach Report reveals 97% pf orgs face AI-related risks. Weak governance, big consequences.",
-      "published_at": "2025-08-01T18:27:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Tzb_a4n-UK4/hqdefault.jpg"
+      "description": "Ready to become a certified SOC Analyst - QRadar SIEM? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-08-09T11:50:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0oeD2Wf25wY/hqdefault.jpg"
     },
     {
-      "title": "ChatGPT study mode, shift from UX to AX and Cost of a Data Breach Report 2025",
-      "video_id": "EB3rWZPz0gk",
+      "title": "Why GPT-5 is a game-changer",
+      "video_id": "Je8sPef_5mg",
       "channel_title": "IBM Technology",
-      "description": "Read the 2025 Cost of a Data Breach Report → https://ibm.biz/BdejWf Is ChatGPT making you dumb? In episode 66 of Mixture of ...",
-      "published_at": "2025-08-01T10:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EB3rWZPz0gk/hqdefault.jpg"
+      "description": "GPT-5 transforms coding with instant app generation, multimodal AI, and sleek UI design. #gpt #gpt5 #openai #ai.",
+      "published_at": "2025-08-08T20:52:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Je8sPef_5mg/hqdefault.jpg"
     },
     {
-      "title": "The Value of Technical Communities: Learn, Share, &amp; Grow Together",
-      "video_id": "h6psyZidv-A",
+      "title": "OpenAI dropped GPT-5, is AGI here?",
+      "video_id": "A30mVgbG-OQ",
       "channel_title": "IBM Technology",
-      "description": "Sign up to attend IBM TechXchange 2025 in Orlando → https://ibm.biz/Bdej4m Explore our Technical Communities ...",
-      "published_at": "2025-07-31T11:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h6psyZidv-A/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/BdezK6 Is GPT-5 better at code than Claude Opus ...",
+      "published_at": "2025-08-08T18:03:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/A30mVgbG-OQ/hqdefault.jpg"
     },
     {
-      "title": "2025 Cost of a Data Breach: AI Risks, Shadow AI, &amp; Solutions",
-      "video_id": "7ypI1oojoII",
+      "title": "AI Agents: Shaping the Future of Storytelling &amp; AI Narrative Design",
+      "video_id": "NhMTWDjsLVI",
       "channel_title": "IBM Technology",
-      "description": "Read the 2025 Cost of a Data Breach report → https://ibm.biz/Bde4vg Learn more about AI Security here → https://ibm.biz/BdeH9y ...",
-      "published_at": "2025-07-30T11:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7ypI1oojoII/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-08-07T11:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NhMTWDjsLVI/hqdefault.jpg"
     },
     {
-      "title": "MCP in Action: Revolutionizing AI Agent Integration",
-      "video_id": "l93LrDpIJGY",
+      "title": "Gpt-oss, Genie 3, Personal Superintelligence and Claude pricing",
+      "video_id": "Dtr0scHQVXc",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Solution Implementer - DataPower Gateway? Register now and use code IBMTechYT20 for 20% off ...",
-      "published_at": "2025-07-29T11:01:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l93LrDpIJGY/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/Bde2M3 OpenAI goes open-weight? In episode 67 ...",
+      "published_at": "2025-08-06T22:42:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Dtr0scHQVXc/hqdefault.jpg"
+    },
+    {
+      "title": "The Smart House: Hybrid Cloud &amp; XaaS Transform IT Infrastructure",
+      "video_id": "ctUIpkE9EKA",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Professional Architect ? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-08-05T11:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ctUIpkE9EKA/hqdefault.jpg"
+    },
+    {
+      "title": "What Is Docling? Transforming Unstructured Data for RAG and AI",
+      "video_id": "zSA7ylHP6AY",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-08-04T11:01:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zSA7ylHP6AY/hqdefault.jpg"
     },
     {
       "title": "AI Agents Best Practices: Monitoring, Governance, &amp; Optimization",
@@ -67,22 +83,6 @@
       "description": "Ready to become a certified Specialist - Rhapsody for Systems? Register now and use code IBMTechYT20 for 20% off of your ...",
       "published_at": "2025-07-17T11:00:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/T_c48yxTNuM/hqdefault.jpg"
-    },
-    {
-      "title": "Waymo&#39;s AI Learns to Drive",
-      "video_id": "wd2FAz4v8iw",
-      "channel_title": "IBM Technology",
-      "description": "Listen how Waymo might be using reinforcement learning and generative AI to adapt self-driving cars to local environments, like ...",
-      "published_at": "2025-07-03T17:41:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wd2FAz4v8iw/hqdefault.jpg"
-    },
-    {
-      "title": "AI Research Agents in Action",
-      "video_id": "PZ5Q-OKOMX4",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI Agents here → https://ibm.biz/Bdnp9C Ever wondered how AI agents automate complex research?",
-      "published_at": "2025-05-27T11:00:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PZ5Q-OKOMX4/hqdefault.jpg"
     }
   ]
 }

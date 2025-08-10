@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-03T00:34:09.401402",
+  "fetched_at": "2025-08-10T00:33:18.397603",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "最新7月AI论文总结",
+      "video_id": "QWji_biIaDc",
+      "channel_title": "Find Interesting AI",
+      "description": "7月论文总结文档： https://qadso0i11yj.feishu.cn/base/YuW7bfwgJaGUIpszeXQcHzrAnFb?from=from_copylink.",
+      "published_at": "2025-08-03T12:37:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QWji_biIaDc/hqdefault.jpg"
+    },
     {
       "title": "7月最新143个开源项目总结",
       "video_id": "oSMzhbpL7Lk",
@@ -75,14 +83,6 @@
       "description": "每周最火的huggingface项目，需科学上网https://huggingface.co/spaces/",
       "published_at": "2025-04-20T04:00:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0W_2Qd-e5ag/hqdefault.jpg"
-    },
-    {
-      "title": "量化交易基础、工具选择、学习建议",
-      "video_id": "fH4KbFWkTWM",
-      "channel_title": "Find Interesting AI",
-      "description": "相关链接： https://github.com/ranaroussi/yfinance https://github.com/Micro-sheep/efinance https://github.com/vnpy/vnpy ...",
-      "published_at": "2025-04-13T06:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fH4KbFWkTWM/hqdefault.jpg"
     }
   ]
 }

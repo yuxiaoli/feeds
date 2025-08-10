@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-08-03T00:33:39.813940",
+  "fetched_at": "2025-08-10T00:32:48.270378",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Setting up 5 MCP Servers in Warp (FULL Tutorial)",
+      "video_id": "rrxfS9u1XRA",
+      "channel_title": "Warp",
+      "description": "Timestamps: 00:00 Intro 00:30 Github MCP 02:14 Puppeteer MCP 03:35 Figma MCP 04:49 Sentry MCP 06:09 Context7 MCP ...",
+      "published_at": "2025-08-08T19:34:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rrxfS9u1XRA/hqdefault.jpg"
+    },
+    {
+      "title": "Using Rules in Warp (Web Dev Version)",
+      "video_id": "MU_xZ5sAU9w",
+      "channel_title": "Warp",
+      "description": "In this video, Warp's engineer Ben Holmes talks you through different rules he uses in Warp to improve his developer workflow!",
+      "published_at": "2025-08-07T19:48:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MU_xZ5sAU9w/hqdefault.jpg"
+    },
     {
       "title": "Creating rules for Agents with Warp",
       "video_id": "OyrpkeL6WNY",
@@ -48,7 +64,7 @@
       "title": "Warp Updates: Coding just got a lot better",
       "video_id": "h_iFv16lhGs",
       "channel_title": "Warp",
-      "description": "Coding just got a lot better in Warp. Here's what we've got release/coming: 00:28 Searching files support 00:48 Tabbed file viewer ...",
+      "description": "Coding just got a lot better in Warp. Here's what we've got release/coming: 00:28 Searching files support (On Stable) 00:48 ...",
       "published_at": "2025-07-29T18:02:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/h_iFv16lhGs/hqdefault.jpg"
     },
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-07-18T18:06:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Kw6bfR5oLuQ/hqdefault.jpg"
-    },
-    {
-      "title": "Warp Updates: Keep your secrets secure with Warp coding agents",
-      "video_id": "w8ZQ5lYXhM4",
-      "channel_title": "Warp",
-      "description": "Secret redaction is enabled by default in Warp! Perfect for: - Demoing or recording coding/terminal sessions - Sharing screenshots ...",
-      "published_at": "2025-07-15T18:03:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w8ZQ5lYXhM4/hqdefault.jpg"
-    },
-    {
-      "title": "Warp Updates | Dirty Git Branch, Universal Input Styling, Terminal Mode",
-      "video_id": "F6BPFUzJFyM",
-      "channel_title": "Warp",
-      "description": "A couple of new improvements to announce in Warp: 1. Close tab button on left 2. Universal Input only shows styling when active ...",
-      "published_at": "2025-07-11T21:26:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F6BPFUzJFyM/hqdefault.jpg"
     }
   ]
 }

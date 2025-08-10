@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-03T00:33:38.336180",
+  "fetched_at": "2025-08-10T00:32:46.751410",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "【辞职环游世界】釜山行！大海，龙宫寺，小火车，好起来了！",
+      "video_id": "0YxzwrhNt8o",
+      "channel_title": "码农高天",
+      "description": "我们从首尔来到了釜山，釜山比首尔好玩多了呢！从海东龙宫寺到海边的小火车，是开心的一天了。",
+      "published_at": "2025-08-03T13:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0YxzwrhNt8o/hqdefault.jpg"
+    },
     {
       "title": "【辞职环游世界】这景福宫怎么有点像横店啊",
       "video_id": "GvgQa_NjjBM",
@@ -75,14 +83,6 @@
       "description": "今年PyCon我的talk，聊一下我完成的第一个PEP.",
       "published_at": "2025-06-15T04:53:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XU5ZEUtIZAU/hqdefault.jpg"
-    },
-    {
-      "title": "不光会下还会讲？揭秘这个围棋AI背后的机制！",
-      "video_id": "3etKEFxUrZc",
-      "channel_title": "码农高天",
-      "description": "AI下围棋已经不新鲜了，现在出来了一个会解释自己下的棋的AI？它到底有多厉害，多实用？我们来分析一下！顺便聊聊它背后的 ...",
-      "published_at": "2025-06-07T06:30:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3etKEFxUrZc/hqdefault.jpg"
     }
   ]
 }

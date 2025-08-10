@@ -1,24 +1,32 @@
 {
-  "fetched_at": "2025-08-03T00:33:17.996648",
+  "fetched_at": "2025-08-10T00:32:23.784123",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "o4-mini in Action: Deep Reasoning Over Text and Images",
-      "video_id": "kNXddiUD5R8",
+      "title": "GPT-5 in Azure AI Foundry featuring model router",
+      "video_id": "xgdz-KCFpFI",
       "channel_title": "Microsoft Azure",
-      "description": "Discover the power of o4-mini, the latest multimodal reasoning model available in Azure OpenAI. In this demo, Chris Hoder from ...",
-      "published_at": "2025-08-01T17:45:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kNXddiUD5R8/hqdefault.jpg"
+      "description": "Welcome to the Model Router in Azure AI Foundry. In this video, we introduce you to the Model Router that doesn't just switch ...",
+      "published_at": "2025-08-07T17:05:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xgdz-KCFpFI/hqdefault.jpg"
     },
     {
-      "title": "Azure Migrate Execute",
+      "title": "Lift and shift (migrate) your Windows and Linux servers to Azure VM with Azure Migrate",
       "video_id": "YAFcLWifeC0",
       "channel_title": "Microsoft Azure",
-      "description": "Learn how to migrate to a test environment in Azure and cutover to production using Azure Migrate. Learn more: ...",
+      "description": "This video talks about the process of rehosting you're on-prem servers to Azure using Azure Migrates server migration capability.",
       "published_at": "2025-07-25T14:00:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/YAFcLWifeC0/hqdefault.jpg"
+    },
+    {
+      "title": "Identify the ROI of migration or modernization to Azure using Azure Migrate",
+      "video_id": "WG13ODrjgxo",
+      "channel_title": "Microsoft Azure",
+      "description": "In this video, we explore how Azure Migrate helps customers in the Decide phase of their migration journey by building a ...",
+      "published_at": "2025-07-21T15:01:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WG13ODrjgxo/hqdefault.jpg"
     },
     {
       "title": "Make-A-Wish brings more joy, hope, and strength to children through Microsoft technology",
@@ -75,14 +83,6 @@
       "description": "Discover the latest capabilities offered in the unified Azure AI Foundry SDK. Design, customize, and manage AI applications and ...",
       "published_at": "2025-05-19T16:01:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mOs3-4S1_Ys/hqdefault.jpg"
-    },
-    {
-      "title": "Carvana builds efficient, seamless customer experience with agent on Azure",
-      "video_id": "obcYLjzSX6E",
-      "channel_title": "Microsoft Azure",
-      "description": "Carvana built an AI-powered conversation analysis engine to enhance visibility and continuously improve every customer ...",
-      "published_at": "2025-05-19T16:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/obcYLjzSX6E/hqdefault.jpg"
     }
   ]
 }

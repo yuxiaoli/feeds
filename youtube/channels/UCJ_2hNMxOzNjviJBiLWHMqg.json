@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-03T00:33:37.593184",
+  "fetched_at": "2025-08-10T00:32:45.923527",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Human vs. Architecture",
+      "video_id": "NhtWbgXEifQ",
+      "channel_title": "DamiLee",
+      "description": "I will post some snippets on the talk on my IG this week! @damileearch.",
+      "published_at": "2025-08-06T14:28:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NhtWbgXEifQ/hqdefault.jpg"
+    },
     {
       "title": "We Are Hiring!",
       "video_id": "s2YaXmyqdR0",
@@ -75,14 +83,6 @@
       "description": "At this Tokyo Buddhist temple, they offer Sunday services and concerts to make remembering the dead a part of everyday life.",
       "published_at": "2025-06-18T19:04:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/v0E1UAMsM7A/hqdefault.jpg"
-    },
-    {
-      "title": "Could caves help us reach enlightenment?",
-      "video_id": "eYpOoe1h4Pk",
-      "channel_title": "DamiLee",
-      "description": "Full video here: https://youtu.be/LNO-2w_dlMk Plato believed that true wisdom could only be found when free from the body.",
-      "published_at": "2025-06-16T19:03:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eYpOoe1h4Pk/hqdefault.jpg"
     }
   ]
 }

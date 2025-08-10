@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-03T00:34:02.438586",
+  "fetched_at": "2025-08-10T00:33:11.593384",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Build faster with Claude Code! New short course now live",
+      "video_id": "GqjvaBUk3Tc",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4fjWxaI Claude Code is one of the most capable AI coding assistants today, able to autonomously ...",
+      "published_at": "2025-08-06T13:45:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GqjvaBUk3Tc/hqdefault.jpg"
+    },
     {
       "title": "New course: Pydantic for LLM Workflows",
       "video_id": "EXOp8WDa-Xk",
@@ -75,14 +83,6 @@
       "description": "Learn more: https://bit.ly/43p1WIa DeepSeek has put reinforcement learning at the top of the minds of developers, machine ...",
       "published_at": "2025-05-21T14:02:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/sgy7jSbPUWY/hqdefault.jpg"
-    },
-    {
-      "title": "New course on MCP (Model Context Protocol) with Anthropic!",
-      "video_id": "IkBslShH5to",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4jRNkYC Introducing MCP: Build Rich-Context AI Apps with Anthropic, our latest course made in ...",
-      "published_at": "2025-05-14T14:44:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IkBslShH5to/hqdefault.jpg"
     }
   ]
 }

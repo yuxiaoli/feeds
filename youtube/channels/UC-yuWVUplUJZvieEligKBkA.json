@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-03T00:33:15.776284",
+  "fetched_at": "2025-08-10T00:32:21.447528",
   "channel_id": "UC-yuWVUplUJZvieEligKBkA",
   "channel_title": "javidx9",
   "count": 10,
   "videos": [
+    {
+      "title": "Huge 2^64 Conway&#39;s Game Of Life Sim, using Sparse Encoding",
+      "video_id": "OqfHIujOvnE",
+      "channel_title": "javidx9",
+      "description": "In this video I revisit Conway's Game Of Life, a cellular automata simulation with many interesting properties. I've covered this ...",
+      "published_at": "2025-08-03T21:37:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OqfHIujOvnE/hqdefault.jpg"
+    },
     {
       "title": "Code-It-Yourself! Remote Home Energy Monitor with ESP32, Websockets &amp; C++",
       "video_id": "NJXEzL3peIA",
@@ -75,14 +83,6 @@
       "description": "In this video I demonstrate how the Shunting Yard Algorithm works, and produce a simple implementatin to solve basic ...",
       "published_at": "2024-05-03T20:26:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/unh6aK8WMwM/hqdefault.jpg"
-    },
-    {
-      "title": "Embedding Lua in C++ Part 3: Meh... Just use Sol...",
-      "video_id": "ONywOoJC4TQ",
-      "channel_title": "javidx9",
-      "description": "In this video, I show how to use the excelent Sol library/wrapper to integrate Lua in your C++ program. This is shown in direct ...",
-      "published_at": "2024-03-29T22:26:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ONywOoJC4TQ/hqdefault.jpg"
     }
   ]
 }

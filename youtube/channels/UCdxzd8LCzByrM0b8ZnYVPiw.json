@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-08-03T00:34:04.586510",
+  "fetched_at": "2025-08-10T00:33:13.851266",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Sound Travels",
+      "video_id": "PexwryD0qp8",
+      "channel_title": "Bang & Olufsen",
+      "description": "See the sights. Hear the difference. #BangOlufsen #Soundtravels.",
+      "published_at": "2025-08-08T10:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PexwryD0qp8/hqdefault.jpg"
+    },
+    {
+      "title": "Sound Travels",
+      "video_id": "gc4nj60RBy8",
+      "channel_title": "Bang & Olufsen",
+      "description": "See the sights. Hear the difference. #BangOlufsen #Soundtravels.",
+      "published_at": "2025-08-08T10:01:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gc4nj60RBy8/hqdefault.jpg"
+    },
+    {
+      "title": "Iconic audio at the forefront of fashion.",
+      "video_id": "wZNFhangXTE",
+      "channel_title": "Bang & Olufsen",
+      "description": "Looking back at a sensorial dinner, with Copenhagen Fashion Week. #BangOlufsen.",
+      "published_at": "2025-08-04T13:01:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wZNFhangXTE/hqdefault.jpg"
+    },
     {
       "title": "Sound Travels",
       "video_id": "Xocgtch54eA",
@@ -59,30 +83,6 @@
       "description": "Even when there's nothing playing, it speaks volumes. Hear every detail with Beosystem 3000c. Explore: ...",
       "published_at": "2025-06-05T10:01:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_XlfnUt0Qg4/hqdefault.jpg"
-    },
-    {
-      "title": "It&#39;s about time | Beogram 3000c",
-      "video_id": "jzYrDJHWkpQ",
-      "channel_title": "Bang & Olufsen",
-      "description": "Stay a while. Immerse in the moment. Let Beogram 3000c play every note with precision and poetry. Explore: ...",
-      "published_at": "2025-06-02T16:01:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jzYrDJHWkpQ/hqdefault.jpg"
-    },
-    {
-      "title": "It&#39;s about time | Beosystem 3000c",
-      "video_id": "Ezkt0xQpANQ",
-      "channel_title": "Bang & Olufsen",
-      "description": "Beosystem 3000c is more than a setup. It's an invitation - open the case, cue the record, slip away into circles of sound. Explore: ...",
-      "published_at": "2025-05-27T12:30:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ezkt0xQpANQ/hqdefault.jpg"
-    },
-    {
-      "title": "Beoplay H100 Charles Leclerc Limited Edition",
-      "video_id": "xDGThTzrLP4",
-      "channel_title": "Bang & Olufsen",
-      "description": "100 years of audio mastery and craftsmanship merges with Charles Leclerc's Monaco-inspired aesthetic.",
-      "published_at": "2025-05-23T13:21:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xDGThTzrLP4/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-03T00:33:36.011036",
+  "fetched_at": "2025-08-10T00:32:44.357999",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Full Aussie Podcast  Beats Gina",
+      "video_id": "K3mQRstAxQU",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Welcome to MrGrantGregory AI Channel Where we do AI. Copyright ...",
+      "published_at": "2025-08-09T14:20:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K3mQRstAxQU/hqdefault.jpg"
+    },
     {
       "title": "Full Aussie Podcast  - FAPAMANIA",
       "video_id": "5bgTWYCOP-k",
@@ -75,14 +83,6 @@
       "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Welcome to MrGrantGregory AI Channel Where we do AI. Copyright ...",
       "published_at": "2025-02-28T13:00:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/12nyuPaHtcQ/hqdefault.jpg"
-    },
-    {
-      "title": "ROBOT JESUS",
-      "video_id": "Ek-ZWhRUWF0",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Welcome to MrGrantGregory AI Channel Where we do AI. Copyright ...",
-      "published_at": "2025-02-27T13:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ek-ZWhRUWF0/hqdefault.jpg"
     }
   ]
 }

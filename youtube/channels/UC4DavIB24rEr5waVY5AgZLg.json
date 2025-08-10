@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-03T00:33:21.742739",
+  "fetched_at": "2025-08-10T00:32:28.650542",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Test Track WED Rides with Disney Imagineers",
+      "video_id": "D4O6q-i1zmE",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Have you ever wanted to ride an attraction with an Imagineer? Now you can! Join some of the team who helped bring the ...",
+      "published_at": "2025-08-05T00:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D4O6q-i1zmE/hqdefault.jpg"
+    },
     {
       "title": "Step inside McKim’s Mile House, a Disney Vacation Club Member Lounge #waltdisneyimagineering",
       "video_id": "SpRZIYTZNC8",
@@ -75,14 +83,6 @@
       "description": "When Frozen Ever After opens at Disneyland Paris in 2026, it'll include a splash of extra magic — treated water from Disney ...",
       "published_at": "2025-06-19T13:00:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PhlweLW8SWw/hqdefault.jpg"
-    },
-    {
-      "title": "Can you keep up with Nathaniel?👷‍♂️✨",
-      "video_id": "3srsHwNK54M",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "From site walks to side quests, he keeps projects on track. (See what we did there? )",
-      "published_at": "2025-06-18T15:01:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3srsHwNK54M/hqdefault.jpg"
     }
   ]
 }
