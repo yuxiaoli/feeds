@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-10T00:33:18.397603",
+  "fetched_at": "2025-08-17T00:31:34.225998",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "一口气看完8月最新10个开源项目",
+      "video_id": "UAdV8n6Jm-Q",
+      "channel_title": "Find Interesting AI",
+      "description": "文档及资料： https://qadso0i11yj.feishu.cn/base/RhjWbJeaaaciwHsXvdRcJoEVnPg?from=from_copylink.",
+      "published_at": "2025-08-12T23:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UAdV8n6Jm-Q/hqdefault.jpg"
+    },
     {
       "title": "最新7月AI论文总结",
       "video_id": "QWji_biIaDc",
@@ -75,14 +83,6 @@
       "description": "推荐的论文： 2503.23190 使用大型语言模型进行短期和少样本预测的以太坊价格预测2503.23350 面向Web自动化的大模型下 ...",
       "published_at": "2025-04-30T00:01:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/t2m7yV1TXkY/hqdefault.jpg"
-    },
-    {
-      "title": "本周HuggingFace最火的8个项目",
-      "video_id": "0W_2Qd-e5ag",
-      "channel_title": "Find Interesting AI",
-      "description": "每周最火的huggingface项目，需科学上网https://huggingface.co/spaces/",
-      "published_at": "2025-04-20T04:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0W_2Qd-e5ag/hqdefault.jpg"
     }
   ]
 }

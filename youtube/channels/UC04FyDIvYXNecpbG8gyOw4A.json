@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-08-10T00:32:22.200189",
+  "fetched_at": "2025-08-17T00:30:38.459724",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Meta&#39;s Privacy Conversations: Risk Management and AI With Susan Cooper and Bojana Belamy",
+      "video_id": "8FBYm3rcwVI",
+      "channel_title": "Meta",
+      "description": "In the seventh episode of our Privacy Conversations series, Meta's Vice President and Chief Privacy Officer for Public Policy Erin ...",
+      "published_at": "2025-08-14T14:59:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8FBYm3rcwVI/hqdefault.jpg"
+    },
+    {
+      "title": "Food for Thought",
+      "video_id": "yfGKnlRmv04",
+      "channel_title": "Meta",
+      "description": "Neha of @iavocraving found a community through her food fusions after sharing them across @facebook and @instagram.",
+      "published_at": "2025-08-12T15:02:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yfGKnlRmv04/hqdefault.jpg"
+    },
+    {
+      "title": "AI&#39;m Here to Help - EP 2",
+      "video_id": "5Uvs_x7Lnu4",
+      "channel_title": "Meta",
+      "description": "bon appetite from your matre'd (or Meta-d)",
+      "published_at": "2025-08-11T14:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5Uvs_x7Lnu4/hqdefault.jpg"
+    },
     {
       "title": "A Different Perspective",
       "video_id": "uh2I4JPo6Vw",
@@ -59,30 +83,6 @@
       "description": "Don't sweat it this summer #metapartner.",
       "published_at": "2025-07-28T14:05:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bns7G5cPPUg/hqdefault.jpg"
-    },
-    {
-      "title": "Unpacking with Meta AI",
-      "video_id": "vxSgD1zKpHY",
-      "channel_title": "Meta",
-      "description": "Executive dysfunction has met its match.",
-      "published_at": "2025-07-25T14:01:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vxSgD1zKpHY/hqdefault.jpg"
-    },
-    {
-      "title": "Discover Byron Bay with Meta AI",
-      "video_id": "2QNQK_JivWM",
-      "channel_title": "Meta",
-      "description": "Discovering the magic of Byron Bay! This beautiful town has so much to discover, from beautiful cafes to stunning beaches ...",
-      "published_at": "2025-07-24T22:05:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2QNQK_JivWM/hqdefault.jpg"
-    },
-    {
-      "title": "What are you listening to? Take 12",
-      "video_id": "SvBxiRZcXSc",
-      "channel_title": "Meta",
-      "description": "Meta AI: here when it counts.",
-      "published_at": "2025-07-22T14:52:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SvBxiRZcXSc/hqdefault.jpg"
     }
   ]
 }

@@ -1,32 +1,64 @@
 {
-  "fetched_at": "2025-08-10T00:32:29.471194",
+  "fetched_at": "2025-08-17T00:30:45.457916",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "Watch THIS if you wanna start coding",
-      "video_id": "3i_z59mgVyU",
+      "title": "Did you know about THIS in Python?",
+      "video_id": "NyPu39BLD_4",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-08-09T16:30:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3i_z59mgVyU/hqdefault.jpg"
+      "published_at": "2025-08-15T17:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NyPu39BLD_4/hqdefault.jpg"
     },
     {
-      "title": "The Next Step After Learning Python Basics",
-      "video_id": "LcXDhUn9nkg",
+      "title": "Python programming roadmap - what skills should you learn first",
+      "video_id": "JjpfJNC8XiA",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-08-09T15:57:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LcXDhUn9nkg/hqdefault.jpg"
+      "description": "These are two of the best beginner-friendly Python resources I recommend: Python Programming Fundamentals (Datacamp) ...",
+      "published_at": "2025-08-15T14:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JjpfJNC8XiA/hqdefault.jpg"
     },
     {
-      "title": "How to get started with MCP in Python",
-      "video_id": "8L5TWHmvjY0",
+      "title": "How to use context managers in Python PART 2",
+      "video_id": "YScxO9CkOMM",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-08-09T09:45:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8L5TWHmvjY0/hqdefault.jpg"
+      "published_at": "2025-08-15T09:10:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YScxO9CkOMM/hqdefault.jpg"
+    },
+    {
+      "title": "How to create a custom context manager in Python",
+      "video_id": "gqMvuPqlyDM",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-08-14T17:00:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gqMvuPqlyDM/hqdefault.jpg"
+    },
+    {
+      "title": "What is a Meta Class In Python?",
+      "video_id": "uE7SpbheSs8",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-08-13T17:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uE7SpbheSs8/hqdefault.jpg"
+    },
+    {
+      "title": "Advanced Vibe Coding Tutorial w/ Warp (Build &amp; Deploy Apps)",
+      "video_id": "Pxp9mB51U-A",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with Warp: https://go.warp.dev/tim In this video, I'm going to show you how to do some advanced vibe coding that ...",
+      "published_at": "2025-08-13T14:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pxp9mB51U-A/hqdefault.jpg"
+    },
+    {
+      "title": "I Helped 4 Developers Get Jobs in 60 Days, Here&#39;s What We Did",
+      "video_id": "UpeMdJYyOHg",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-08-11T15:35:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UpeMdJYyOHg/hqdefault.jpg"
     },
     {
       "title": "How to build an AI server:client in Python PART 2",
@@ -37,14 +69,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lrRlUDsaHug/hqdefault.jpg"
     },
     {
-      "title": "How to build an AI server:client in Python PART 1",
-      "video_id": "YUiKB3tUEI4",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-08-08T17:18:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YUiKB3tUEI4/hqdefault.jpg"
-    },
-    {
       "title": "How I Vibe Coded 3 Apps in 20 Minutes - DeepAgent Demo",
       "video_id": "0Vx1MWojNaU",
       "channel_title": "Tech With Tim",
@@ -53,36 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0Vx1MWojNaU/hqdefault.jpg"
     },
     {
-      "title": "Learn Pandas in 30 Minutes - Python Pandas Tutorial",
-      "video_id": "EXIgjIBu4EU",
-      "channel_title": "Tech With Tim",
-      "description": "Visit https://postmarkapp.com/lp/tech-with-tim and use coupon code TECHWITHTIM to get 20% off any plan for three months.",
-      "published_at": "2025-08-06T14:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EXIgjIBu4EU/hqdefault.jpg"
-    },
-    {
       "title": "The Easiest Ways to Run LLMs Locally - Docker Model Runner Tutorial",
       "video_id": "GOgfQxDPaDw",
       "channel_title": "Tech With Tim",
       "description": "Download Docker Desktop: https://docs.docker.com/desktop/ Docker Model Runner Docs: ...",
       "published_at": "2025-07-19T13:30:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GOgfQxDPaDw/hqdefault.jpg"
-    },
-    {
-      "title": "THIS is why you keep getting ghosted by recruiters",
-      "video_id": "fRkxtW12oBI",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-04T02:52:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
-    },
-    {
-      "title": "If you&#39;re serious about learning programming you need to be doing THIS",
-      "video_id": "AcMqasZP1Lg",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-06-26T05:15:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AcMqasZP1Lg/hqdefault.jpg"
     }
   ]
 }

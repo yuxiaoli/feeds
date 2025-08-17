@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-10T00:33:05.373897",
+  "fetched_at": "2025-08-17T00:31:20.543831",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "AGI progress, surprising breakthroughs, and the road ahead — the OpenAI Podcast Ep. 5",
+      "video_id": "yBzStBK6Z8c",
+      "channel_title": "OpenAI",
+      "description": "How close are we to automating scientific discovery? What do AI competition wins really tell us about progress toward AGI?",
+      "published_at": "2025-08-15T16:01:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yBzStBK6Z8c/hqdefault.jpg"
+    },
     {
       "title": "Introducing GPT-5",
       "video_id": "boJG84Jcf-4",
@@ -75,14 +83,6 @@
       "description": "Meet GPT-5 — our most capable model yet. It figures out how hard to think, which tools to use, and suggests next steps so you can ...",
       "published_at": "2025-08-07T18:01:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2jqS7JD0hrY/hqdefault.jpg"
-    },
-    {
-      "title": "Delegate work to ChatGPT agent",
-      "video_id": "AGr_Xolg0Ps",
-      "channel_title": "OpenAI",
-      "description": "See ChatGPT agent in action — researching, coding, and taking action online to complete an ecommerce business plan in ...",
-      "published_at": "2025-08-06T23:10:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AGr_Xolg0Ps/hqdefault.jpg"
     }
   ]
 }

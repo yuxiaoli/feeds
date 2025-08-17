@@ -1,88 +1,80 @@
 {
-  "fetched_at": "2025-08-10T00:32:36.502293",
+  "fetched_at": "2025-08-17T00:30:52.365624",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 10,
+  "count": 9,
   "videos": [
     {
-      "title": "Create Once, Use Many: How Tapestry Levels up Their 3D Workflow with UE | Unreal Fest Orlando 2025",
-      "video_id": "9AJLzDG5tI4",
+      "title": "News and Community Spotlights | August 15th, 2025",
+      "video_id": "PVF2ud-Q7Xg",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Orlando 2025, Brandon Keeney of Tapestry highlights how 3D digital product creation (3D ...",
-      "published_at": "2025-08-09T16:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9AJLzDG5tI4/hqdefault.jpg"
+      "description": "News Indies choosing UE5 ...",
+      "published_at": "2025-08-15T19:50:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PVF2ud-Q7Xg/hqdefault.jpg"
     },
     {
-      "title": "Real-Time Music: Creating Procedural Music From Scratch | Unreal Fest Orlando 2025",
-      "video_id": "QjcxmyOlnc4",
+      "title": "Mega Stack &#39;O&#39; Jam, Game Jam Kickoff | Inside Unreal",
+      "video_id": "cQGmpCP07sY",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Orlando 2025, Patrick Hart of Aria Labs creates an interactive procedural music score from ...",
-      "published_at": "2025-08-09T14:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QjcxmyOlnc4/hqdefault.jpg"
+      "description": "Read the rules & register here: https://itch.io/jam/mega-stack-o-jam We're excited to announce that registration is now open for the ...",
+      "published_at": "2025-08-14T20:07:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cQGmpCP07sY/hqdefault.jpg"
     },
     {
-      "title": "What really matters to Tim Miller",
-      "video_id": "rTYCKW6Y-fs",
+      "title": "MetaHuman: Facial Expression Editing | Unreal Fest Orlando 2025",
+      "video_id": "WxQEtO3ndoY",
       "channel_title": "Unreal Engine",
-      "description": "Tim Miller has directed blockbuster hits, but nothing means more to him than this. Full talk: https://youtu.be/LAEMO0VE2-o #UE ...",
-      "published_at": "2025-08-08T18:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rTYCKW6Y-fs/hqdefault.jpg"
+      "description": "Join this session to find out about MetaHuman for Maya, the brand new Autodesk Maya plugin developed by Epic Games.",
+      "published_at": "2025-08-14T16:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WxQEtO3ndoY/hqdefault.jpg"
     },
     {
-      "title": "News and Community Spotlight | August 8th, 2025",
-      "video_id": "EiO9JtW8zsA",
+      "title": "Dynamic Destruction in UE5 with the Chaos Destruction System | GDC 2025",
+      "video_id": "wPgd1J1Tf70",
       "channel_title": "Unreal Engine",
-      "description": "News https://www.unrealengine.com/en-US/megagrants | Megagrants cycle 2 opens ...",
-      "published_at": "2025-08-08T14:39:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EiO9JtW8zsA/hqdefault.jpg"
+      "description": "Watch this video recorded at GDC 2025 to explore the evolving Chaos Destruction system in Unreal Engine. The Chaos ...",
+      "published_at": "2025-08-12T11:28:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wPgd1J1Tf70/hqdefault.jpg"
     },
     {
-      "title": "Cory Williams’ Silly Crocodile | Spotlight | Unreal Engine",
-      "video_id": "uuVmxZ6HsbY",
+      "title": "Crash Course for New Unreal Engine Developers | GDC 2025",
+      "video_id": "EPkAJjyu0_M",
       "channel_title": "Unreal Engine",
-      "description": "Find out how Cory Williams produces videos starring the Silly Crocodile character for his wildly popular Just For Kids YouTube ...",
-      "published_at": "2025-08-08T14:03:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uuVmxZ6HsbY/hqdefault.jpg"
+      "description": "Watch this video recorded at GDC 2025 for a beginner's guide to development in Unreal Engine. There are a lot of guides to ...",
+      "published_at": "2025-08-12T11:28:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EPkAJjyu0_M/hqdefault.jpg"
     },
     {
-      "title": "Streaming Improvements for Dense Worlds in The Witcher 4 UE 5 Tech Demo | Unreal Fest Orlando 2025",
-      "video_id": "BdopUm1_1_E",
+      "title": "Building AAA Content with Unreal Editor for Fortnite (UEFN) | GDC 2025",
+      "video_id": "G4-hUO6Es0s",
       "channel_title": "Unreal Engine",
-      "description": "Watch this session recorded at Unreal Fest Orlando 2025 and find out about the UE5 streaming improvements for dense worlds ...",
-      "published_at": "2025-08-08T14:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BdopUm1_1_E/hqdefault.jpg"
+      "description": "Watch this video recorded at GDC 2025 and learn how to create AAA-quality content with Unreal Editor for Fortnite (UEFN).",
+      "published_at": "2025-08-12T11:27:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G4-hUO6Es0s/hqdefault.jpg"
     },
     {
-      "title": "Motion Design in Unreal Engine, Episode 05: Shapes",
-      "video_id": "SSr4IqwHFK4",
+      "title": "Why Build with Unreal Editor for Fortnite (UEFN) | GDC 2025",
+      "video_id": "dF1Q7FDBfGw",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) explores the ...",
-      "published_at": "2025-08-08T12:01:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SSr4IqwHFK4/hqdefault.jpg"
+      "description": "Watch this video recorded at GDC 2025 and discover the advantages of using Unreal Editor for Fortnite (UEFN) to build a game.",
+      "published_at": "2025-08-12T11:27:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dF1Q7FDBfGw/hqdefault.jpg"
     },
     {
-      "title": "Fortnite Meets Arm ASR: Unlocking Mobile Graphics with Temporal Upscaling | Unreal Fest Orlando 2025",
-      "video_id": "0wnJTGfzOVs",
+      "title": "Developer Efficiency in Unreal Engine 5.6 | Unreal Fest Orlando 2025",
+      "video_id": "VsrTsvglnkE",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Orlando 2025, you'll discover how Arm and Epic Games are empowering developers to ...",
-      "published_at": "2025-08-07T16:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0wnJTGfzOVs/hqdefault.jpg"
+      "description": "Watch this session recorded at Unreal Fest Orlando 2025 for a high-level, end-to-end overview of the systems and improvements ...",
+      "published_at": "2025-08-11T14:00:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VsrTsvglnkE/hqdefault.jpg"
     },
     {
-      "title": "Turbocharge Your UE Game Development with JetBrains Rider and TeamCity | Unreal Fest Orlando 2025",
-      "video_id": "PGiab-Ctp38",
+      "title": "Odyssey 2D Toolset: Enhancing Storytelling in Unreal Engine | Unreal Fest Orlando 2025",
+      "video_id": "IY3dPU21ErI",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Orlando 2025, we explore how JetBrains Rider and TeamCity enhance Unreal Engine ...",
-      "published_at": "2025-08-07T14:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PGiab-Ctp38/hqdefault.jpg"
-    },
-    {
-      "title": "Unlocking Creative Storytelling Through Cutting-Edge Technology | Unreal Fest Orlando 2025",
-      "video_id": "11vwbl50FLM",
-      "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Orlando 2025, Immersive Enterprise Laboratories (IEL) give a behind-the-scenes look at ...",
-      "published_at": "2025-08-06T16:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/11vwbl50FLM/hqdefault.jpg"
+      "description": "Join us for an insightful session exploring how the Odyssey 2D toolset can revolutionize your creative process in Unreal Engine.",
+      "published_at": "2025-08-10T14:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IY3dPU21ErI/hqdefault.jpg"
     }
   ]
 }

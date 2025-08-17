@@ -1,25 +1,9 @@
 {
-  "fetched_at": "2025-08-10T00:33:02.313459",
+  "fetched_at": "2025-08-17T00:31:17.477114",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
-    {
-      "title": "Stock Options Explained? Financial Instruments Used to Increase AND Decrease Risk",
-      "video_id": "fdnf0XyzwPo",
-      "channel_title": "Socratica",
-      "description": "Learn about Call Options and Put Options. Two types of financial instruments known as Derivatives. These are used heavily by ...",
-      "published_at": "2025-08-08T10:01:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fdnf0XyzwPo/hqdefault.jpg"
-    },
-    {
-      "title": "Covered Calls - Option Strategy for Earning Income",
-      "video_id": "ZYC-MSLEK_o",
-      "channel_title": "Socratica",
-      "description": "The covered call is a strategy to earn some income on stock you already own. It's done by selling call options. If the person who ...",
-      "published_at": "2025-08-06T10:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZYC-MSLEK_o/hqdefault.jpg"
-    },
     {
       "title": "Payoff Engineering - Using options &amp; stock to customize your strategy - Stock Options Strategies",
       "video_id": "jssGJnENU1I",
@@ -80,9 +64,25 @@
       "title": "What is Quantitative Finance? 📈 Intro for Aspiring Quants",
       "video_id": "JVtUcM1sWQw",
       "channel_title": "Socratica",
-      "description": "NOTIFY ME when the course launches: https://snu.socratica.com/quantitative-finance What ...",
+      "description": "Connect with us on PATREON https://www.patreon.com/socratica NOTIFY ME when the ...",
       "published_at": "2025-03-31T10:00:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JVtUcM1sWQw/hqdefault.jpg"
+    },
+    {
+      "title": "Quantitative Finance Course - EARLY SIGN UPS",
+      "video_id": "Fddv4RRWAvo",
+      "channel_title": "Socratica",
+      "description": "NEW COURSE COMING SOON - Quantitative Finance https://snu.socratica.com/quantitative-finance ...",
+      "published_at": "2025-02-11T01:41:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fddv4RRWAvo/hqdefault.jpg"
+    },
+    {
+      "title": "Frugal Gifting 🎁 Personal Finance",
+      "video_id": "TBySK4mMrYc",
+      "channel_title": "Socratica",
+      "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
+      "published_at": "2024-11-25T11:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TBySK4mMrYc/hqdefault.jpg"
     }
   ]
 }

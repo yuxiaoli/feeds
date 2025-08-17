@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-08-10T00:32:46.751410",
+  "fetched_at": "2025-08-17T00:31:02.178670",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "浅草寺，上野，和你们最爱的秋叶原！",
+      "video_id": "-jmVang4TAU",
+      "channel_title": "码农高天",
+      "description": "日本的前两个晚上都和粉丝吃的饭，导致每天的素材都少了一些，那就合到一起放出来吧！新宿御苑、浅草寺、上野公园、东京国立 ...",
+      "published_at": "2025-08-16T04:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-jmVang4TAU/hqdefault.jpg"
+    },
+    {
+      "title": "【辞职环游世界】韩国最好看的一天，可惜是最后一天",
+      "video_id": "i-CLlcaf1Q0",
+      "channel_title": "码农高天",
+      "description": "对釜山的印象真的很不错，甘州文化村和白浅滩文化村都很美，哪怕这么晒还是很值得。最后的缆车是韩国一个非常好的句号！",
+      "published_at": "2025-08-13T10:30:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i-CLlcaf1Q0/hqdefault.jpg"
+    },
     {
       "title": "【辞职环游世界】釜山行！大海，龙宫寺，小火车，好起来了！",
       "video_id": "0YxzwrhNt8o",
@@ -67,22 +83,6 @@
       "description": "这期视频我来介绍一下我这几周一直在做的一个库，叫做dowhen。这个库可以让你非常方便地在某一行代码运行之前去插入 ...",
       "published_at": "2025-06-27T10:30:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/yoRgehrLrmc/hqdefault.jpg"
-    },
-    {
-      "title": "Python3.14正式支持Free Threaded版本！",
-      "video_id": "G5lpLInBCmk",
-      "channel_title": "码农高天",
-      "description": "没有GIL的Python真的离我们越来越近了呀。",
-      "published_at": "2025-06-21T04:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G5lpLInBCmk/hqdefault.jpg"
-    },
-    {
-      "title": "今年PyCon我的talk，聊一下我完成的第一个PEP",
-      "video_id": "XU5ZEUtIZAU",
-      "channel_title": "码农高天",
-      "description": "今年PyCon我的talk，聊一下我完成的第一个PEP.",
-      "published_at": "2025-06-15T04:53:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XU5ZEUtIZAU/hqdefault.jpg"
     }
   ]
 }

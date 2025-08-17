@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-10T00:32:21.447528",
+  "fetched_at": "2025-08-17T00:30:37.665681",
   "channel_id": "UC-yuWVUplUJZvieEligKBkA",
   "channel_title": "javidx9",
   "count": 10,
   "videos": [
+    {
+      "title": "olc::CodeJam 2025",
+      "video_id": "306UkgBzJys",
+      "channel_title": "javidx9",
+      "description": "JAM: https://itch.io/jam/olc-codejam-2025 Patreon: https://www.patreon.com/javidx9 YouTube: https://www.youtube.com/javidx9 ...",
+      "published_at": "2025-08-15T20:24:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/306UkgBzJys/hqdefault.jpg"
+    },
     {
       "title": "Huge 2^64 Conway&#39;s Game Of Life Sim, using Sparse Encoding",
       "video_id": "OqfHIujOvnE",
@@ -75,14 +83,6 @@
       "description": "In this video I use a Finite State Machine to parse complicated input into manageable tokens before feeding them to the Shunting ...",
       "published_at": "2024-06-09T13:15:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wrj3iuRdA-M/hqdefault.jpg"
-    },
-    {
-      "title": "DIY Programming Language #1: The Shunting Yard Algorithm",
-      "video_id": "unh6aK8WMwM",
-      "channel_title": "javidx9",
-      "description": "In this video I demonstrate how the Shunting Yard Algorithm works, and produce a simple implementatin to solve basic ...",
-      "published_at": "2024-05-03T20:26:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/unh6aK8WMwM/hqdefault.jpg"
     }
   ]
 }

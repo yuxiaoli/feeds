@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-10T00:32:53.737137",
+  "fetched_at": "2025-08-17T00:31:09.111135",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "電，到底是什麼？",
+      "video_id": "Lxv-ejQif50",
+      "channel_title": "科學漫聊",
+      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
+      "published_at": "2025-08-11T12:45:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lxv-ejQif50/hqdefault.jpg"
+    },
     {
       "title": "我們的意識是量子電腦？科學與玄學的邊界",
       "video_id": "ZTJMDX5wsC0",
@@ -75,14 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-04-27T13:30:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dKmwerL186M/hqdefault.jpg"
-    },
-    {
-      "title": "穿越平行宇宙1",
-      "video_id": "SPj-8DVUpDs",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-04-12T12:47:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SPj-8DVUpDs/hqdefault.jpg"
     }
   ]
 }

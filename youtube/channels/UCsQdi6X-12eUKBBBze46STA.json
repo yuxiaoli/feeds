@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-08-10T00:33:26.059886",
+  "fetched_at": "2025-08-17T00:31:41.964273",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "The Blender Problem Nobody Tells You",
+      "video_id": "-GPb2cHm49Q",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2025-08-14T10:48:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-GPb2cHm49Q/hqdefault.jpg"
+    },
+    {
+      "title": "Even 1 Cherry Tomato Helps 🍅",
+      "video_id": "PbiuISAKOIM",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2025-08-13T16:53:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PbiuISAKOIM/hqdefault.jpg"
+    },
+    {
+      "title": "Eat This First, Age Slower 🔬",
+      "video_id": "uprtaimxMqs",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2025-08-11T14:51:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uprtaimxMqs/hqdefault.jpg"
+    },
     {
       "title": "Fiber First. Science-Approved.",
       "video_id": "xd46sZKsaXY",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2025-07-30T15:44:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8ak-isGZTYM/hqdefault.jpg"
-    },
-    {
-      "title": "Same Carbs. Different Fiber. Big Difference.",
-      "video_id": "JHFJFcZ4ctc",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-07-29T17:13:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JHFJFcZ4ctc/hqdefault.jpg"
-    },
-    {
-      "title": "5 Carbs, 1 Fiber: Your New Food Rule 🍓",
-      "video_id": "8OiBhWEby8U",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-07-28T17:54:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8OiBhWEby8U/hqdefault.jpg"
-    },
-    {
-      "title": "Don’t Be Fooled by Fruit Purée 😮",
-      "video_id": "HLNxZnCd97w",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-07-26T06:54:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HLNxZnCd97w/hqdefault.jpg"
     }
   ]
 }

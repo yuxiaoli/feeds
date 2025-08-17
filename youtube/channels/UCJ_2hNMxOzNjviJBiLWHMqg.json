@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-10T00:32:45.923527",
+  "fetched_at": "2025-08-17T00:31:01.405493",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "&quot;Hi Toilet&quot;",
+      "video_id": "m05M2wQWakQ",
+      "channel_title": "DamiLee",
+      "description": "This bathroom listens to you. Literally The Hi Toilet in Nanago Dori Park is the world's most hygienic public restroom—completely ...",
+      "published_at": "2025-08-13T14:31:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m05M2wQWakQ/hqdefault.jpg"
+    },
     {
       "title": "Human vs. Architecture",
       "video_id": "NhtWbgXEifQ",
@@ -75,14 +83,6 @@
       "description": "Imagine visiting a cemetery with a café and a toucan-breeding program. This 14-story Brazilian tower is changing the way we ...",
       "published_at": "2025-06-19T19:03:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vqfxjEtiZLU/hqdefault.jpg"
-    },
-    {
-      "title": "This Buddhist Temple shows us the mourning doesn&#39;t have to be a special event.",
-      "video_id": "v0E1UAMsM7A",
-      "channel_title": "DamiLee",
-      "description": "At this Tokyo Buddhist temple, they offer Sunday services and concerts to make remembering the dead a part of everyday life.",
-      "published_at": "2025-06-18T19:04:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v0E1UAMsM7A/hqdefault.jpg"
     }
   ]
 }

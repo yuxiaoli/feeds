@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-08-10T00:33:29.962186",
+  "fetched_at": "2025-08-17T00:31:45.777102",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Snowy peak in space?",
+      "video_id": "VBirfJCOUzk",
+      "channel_title": "Star Walk",
+      "description": "These breathtaking images of Comet 67P Churyumov-Gerasimenko, captured by the ESA's Rosetta spacecraft in 2016, show ...",
+      "published_at": "2025-08-16T22:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VBirfJCOUzk/hqdefault.jpg"
+    },
+    {
+      "title": "🏆 Planetary Record Breakers 🪐",
+      "video_id": "HVZpX7KWoTQ",
+      "channel_title": "Star Walk",
+      "description": "Hottest: Venus (+470 °C) – thanks to a runaway greenhouse effect ⚡ Fastest orbit: Mercury (47 km/s) – cosmic speedster around ...",
+      "published_at": "2025-08-15T07:36:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HVZpX7KWoTQ/hqdefault.jpg"
+    },
+    {
+      "title": "🌠 Did you see the Perseids last night?",
+      "video_id": "EX3B7CWLRhs",
+      "channel_title": "Star Walk",
+      "description": "We hope you didn't mistake burning space junk for Perseids Not every flash in the sky is a meteor! Tell us how many real ...",
+      "published_at": "2025-08-13T13:21:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EX3B7CWLRhs/hqdefault.jpg"
+    },
     {
       "title": "August 12, 2025 – Don’t Miss This Sky Show! 🌟",
       "video_id": "93-bNVuxIgI",
@@ -59,30 +83,6 @@
       "description": "God gives his toughest battles to his strongest soldiers So, pick your fighter… or follow this reel as a step-by-step survival ...",
       "published_at": "2025-07-29T07:46:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/BJfdcRAD2Yo/hqdefault.jpg"
-    },
-    {
-      "title": "🌠 Double the meteors, double the magic!",
-      "video_id": "EUKdXmO4v3c",
-      "channel_title": "Star Walk",
-      "description": "Don't miss the Southern Delta Aquariids and Alpha Capricornids lighting up the sky on July 30–31 ✨ Get away from city lights, ...",
-      "published_at": "2025-07-28T09:29:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EUKdXmO4v3c/hqdefault.jpg"
-    },
-    {
-      "title": "Moonwalk Bloopers 😅",
-      "video_id": "9HAZuotWPZQ",
-      "channel_title": "Star Walk",
-      "description": "Yes, the Apollo astronauts walked on the Moon… but they also hopped, bounded, shuffled — and, yep — fell. A lot. In low ...",
-      "published_at": "2025-07-25T09:07:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9HAZuotWPZQ/hqdefault.jpg"
-    },
-    {
-      "title": "🌎 Does time seem to move differently depending on the day of the week? 🌀",
-      "video_id": "dvF4CTTQDvs",
-      "channel_title": "Star Walk",
-      "description": "",
-      "published_at": "2025-07-22T06:48:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dvF4CTTQDvs/hqdefault.jpg"
     }
   ]
 }

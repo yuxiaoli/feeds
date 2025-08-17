@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-10T00:33:06.979766",
+  "fetched_at": "2025-08-17T00:31:22.061568",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "Scaling Helix - Laundry",
+      "video_id": "HOoRnv3lA0k",
+      "channel_title": "Figure",
+      "description": "",
+      "published_at": "2025-08-12T15:30:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HOoRnv3lA0k/hqdefault.jpg"
+    },
     {
       "title": "F.03 Battery Development",
       "video_id": "Ts-TtxvfVq4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2024-08-06T11:55:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0SRVJaOg9Co/hqdefault.jpg"
-    },
-    {
-      "title": "Figure 02 Trailer",
-      "video_id": "FZbY9sReu1k",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2024-08-02T15:04:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FZbY9sReu1k/hqdefault.jpg"
     }
   ]
 }

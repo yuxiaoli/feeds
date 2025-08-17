@@ -1,80 +1,56 @@
 {
-  "fetched_at": "2025-08-10T00:32:40.458107",
+  "fetched_at": "2025-08-17T00:30:56.184586",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
-  "count": 9,
+  "count": 6,
   "videos": [
     {
-      "title": "Robots Will Soon Become Part of Our Construction Force",
-      "video_id": "9adWAmDidXQ",
+      "title": "The Surprisingly Scientific Way Paint Is Made",
+      "video_id": "meZEejIAuqQ",
       "channel_title": "Interesting Engineering",
-      "description": "When it comes to optimizing according to data, nothing can beat the power of computers and a robot. This particular one is ...",
-      "published_at": "2025-08-08T20:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9adWAmDidXQ/hqdefault.jpg"
+      "description": "Ever wondered how paint is made? It's not just color in a tube — it's chemistry, precision, and a little bit of magic. From pure ...",
+      "published_at": "2025-08-15T17:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/meZEejIAuqQ/hqdefault.jpg"
     },
     {
-      "title": "Why Has No One Roasted Coffee Like This Before?",
-      "video_id": "FQZoGyjixF8",
+      "title": "Inside the World’s First Robot Olympics",
+      "video_id": "nU7JyRh67YI",
       "channel_title": "Interesting Engineering",
-      "description": "CEE specializes in environmentally friendly engineering. However their coffee roaster concept was so left-field that they had to ...",
-      "published_at": "2025-08-08T14:42:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FQZoGyjixF8/hqdefault.jpg"
+      "description": "The future of sports just got an upgrade — meet the 500+ humanoid robots competing in China's first-ever Robot Olympics!",
+      "published_at": "2025-08-15T15:01:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nU7JyRh67YI/hqdefault.jpg"
     },
     {
-      "title": "ChatGPT 5.0 Is Out, Bringing More User-Friendly Features",
-      "video_id": "VjtIjhH34yM",
+      "title": "Robot Team To Tunnel Deep Into Mars",
+      "video_id": "4nhqq3Di6UE",
       "channel_title": "Interesting Engineering",
-      "description": "Once again, OpenAI is breaking headlines with their release of Chat GPT-5. The latest upgrade since 4.0, it brings more business ...",
-      "published_at": "2025-08-08T11:05:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VjtIjhH34yM/hqdefault.jpg"
+      "description": "This team of three robots are designed to survey and enter lava tubes, not just on Earth but on Mars and other planets as well.",
+      "published_at": "2025-08-14T17:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4nhqq3Di6UE/hqdefault.jpg"
     },
     {
-      "title": "Chevrolet Smashes EV Distance Record",
-      "video_id": "EFTwzfAYVfg",
+      "title": "Starlink Rival Promises 60 Satellites By 2026",
+      "video_id": "PQ3z-iwB1PE",
       "channel_title": "Interesting Engineering",
-      "description": "EVs are going longer and longer on a single charge. Chevrolet has just smashed that record by over 300 miles with its 2026 ...",
-      "published_at": "2025-08-07T17:30:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EFTwzfAYVfg/hqdefault.jpg"
+      "description": "AST SpaceMobile has promised to invest 1.5 billion dollars into its low orbit satellite program, with the aim of competing with ...",
+      "published_at": "2025-08-14T15:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PQ3z-iwB1PE/hqdefault.jpg"
     },
     {
-      "title": "Unitree Releases World&#39;s Fastest Quadruped Robot",
-      "video_id": "SZulUCPqP-A",
+      "title": "The Secret of Expensive China",
+      "video_id": "e7Xu5pwmsSA",
       "channel_title": "Interesting Engineering",
-      "description": "Unitree just can't stop making headlines. First it launched the Unitree R1. Now it's showing off the Unitree A2 Stellar Explorer.",
-      "published_at": "2025-08-07T15:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SZulUCPqP-A/hqdefault.jpg"
+      "description": "Porcelain is an ancient recipe that was kept a secret for centuries. But now it's everywhere. How is this precious pottery made, and ...",
+      "published_at": "2025-08-14T08:05:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e7Xu5pwmsSA/hqdefault.jpg"
     },
     {
-      "title": "New Lamborghini Temerario Supercar",
-      "video_id": "SCQocUYzHAM",
+      "title": "Your Robot Housemaid is One Step Closer",
+      "video_id": "Nog3sixe4kw",
       "channel_title": "Interesting Engineering",
-      "description": "Under its Ad Personam ultra customization program, Lamborghini has released its brand new and exclusive Temerario Porto ...",
-      "published_at": "2025-08-07T09:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SCQocUYzHAM/hqdefault.jpg"
-    },
-    {
-      "title": "ROV SuBastian Livestreams Deep Sea Marine Life",
-      "video_id": "3sGV_KgLvEM",
-      "channel_title": "Interesting Engineering",
-      "description": "One of the biggest underexplored frontiers of the Earth is the bottom of the ocean. But now everyone can take a peek and enjoy as ...",
-      "published_at": "2025-08-07T08:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3sGV_KgLvEM/hqdefault.jpg"
-    },
-    {
-      "title": "28 More Starlink Satellites Join Megaconstellation",
-      "video_id": "F8gbZXi3QYM",
-      "channel_title": "Interesting Engineering",
-      "description": "SpaceX just sent its 96th Falcon 9 rocket of the year into space. Its payload? 28 more Starlink satellites to join their 8000 body ...",
-      "published_at": "2025-08-05T15:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F8gbZXi3QYM/hqdefault.jpg"
-    },
-    {
-      "title": "The Crashes That Made Flying Safer",
-      "video_id": "1iF0vHUxL3s",
-      "channel_title": "Interesting Engineering",
-      "description": "With all the recent air disasters, especially in the US, we speak to YouTuber and Pilot, Captain Steeeve and industry expert, ...",
-      "published_at": "2025-08-03T08:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1iF0vHUxL3s/hqdefault.jpg"
+      "description": "Robots are now capable of folding laundry. Thanks to Figure's Scaling Helix model, we now get some insight on what a world with ...",
+      "published_at": "2025-08-13T15:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nog3sixe4kw/hqdefault.jpg"
     }
   ]
 }

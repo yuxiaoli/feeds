@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-10T00:33:17.640867",
+  "fetched_at": "2025-08-17T00:31:33.493227",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Titan IIIL Heavy Lift",
+      "video_id": "tJM8XZJ07oY",
+      "channel_title": "Hazegrayart",
+      "description": "The selected Titan IIIL booster is designated as the 1207-4 spread configuration. The booster stage consIsts of a sixteen foot ...",
+      "published_at": "2025-08-13T13:07:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tJM8XZJ07oY/hqdefault.jpg"
+    },
     {
       "title": "Vertical Landing Space Shuttle VTOL",
       "video_id": "Z0Xr0do7hHA",
@@ -75,14 +83,6 @@
       "description": "The Conroy Virtus Designed by John M. Conroy of the Turbo-Three Corporation incorporate a pair of Boeing B-52 Stratofortress ...",
       "published_at": "2025-07-07T13:35:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WMd5kku6qB0/hqdefault.jpg"
-    },
-    {
-      "title": "Space Shuttle Carrier Proposals",
-      "video_id": "hdiwig5ynfA",
-      "channel_title": "Hazegrayart",
-      "description": "The Conroy Virtus Designed by John M. Conroy of the Turbo-Three Corporation incorporate a pair of Boeing B-52 Stratofortress ...",
-      "published_at": "2025-07-04T04:57:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hdiwig5ynfA/hqdefault.jpg"
     }
   ]
 }

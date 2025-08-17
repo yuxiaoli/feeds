@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-08-10T00:32:30.276976",
+  "fetched_at": "2025-08-17T00:30:46.278351",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "How Giga Berlin got its graffiti | Tesla",
+      "video_id": "vw4o1a1_pj4",
+      "channel_title": "Tesla",
+      "description": "Behind the scenes look at how Gigafactory Berlin transformed its towering concrete walls into art. Learn more ...",
+      "published_at": "2025-08-15T17:26:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vw4o1a1_pj4/hqdefault.jpg"
+    },
+    {
+      "title": "Giga Berlin Graffiti",
+      "video_id": "W3l7aMrrIJA",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-08-14T23:16:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W3l7aMrrIJA/hqdefault.jpg"
+    },
+    {
+      "title": "Roadtrippin’ with FSD Supervised | Bay Area → LA",
+      "video_id": "hUcTPt8Mpzk",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-08-13T16:24:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hUcTPt8Mpzk/hqdefault.jpg"
+    },
+    {
+      "title": "Road Trippin’ with FSD Supervised | Bay Area → LA",
+      "video_id": "bQnY_0_ZD60",
+      "channel_title": "Tesla",
+      "description": "7 hour road trips aren't so bad when your Tesla does all the driving. FSD Supervised takes the mental strain out of driving ...",
+      "published_at": "2025-08-12T20:10:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bQnY_0_ZD60/hqdefault.jpg"
+    },
     {
       "title": "Guy converts ‘66 Mustang into a Tesla",
       "video_id": "HrTcH_07kHg",
@@ -51,38 +83,6 @@
       "description": "Turn your Tesla into a Rave Cave with the new Light Sync feature. When enabled, your accent lighting will pulse along with your ...",
       "published_at": "2025-07-29T21:43:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Pt5iBqEnl8s/hqdefault.jpg"
-    },
-    {
-      "title": "Order Tesla Diner meals right from your car",
-      "video_id": "oXqhxJnyrHU",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-07-24T22:24:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oXqhxJnyrHU/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Q2 2025 Financial Results and Q&amp;A Webcast",
-      "video_id": "pLjG7a-NX7U",
-      "channel_title": "Tesla",
-      "description": "Start of call: https://youtu.be/pLjG7a-NX7U?list=PLEox0nUMFPF4TOgwz6PYqoV_lhyENbWr6&t=286.",
-      "published_at": "2025-07-23T22:33:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pLjG7a-NX7U/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Diner is here | Open 24/7",
-      "video_id": "p05TY8f65IU",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-07-22T22:45:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p05TY8f65IU/hqdefault.jpg"
-    },
-    {
-      "title": "Super serious Cybertruck ASMR",
-      "video_id": "QrI_u-EyDvA",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-07-16T20:02:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QrI_u-EyDvA/hqdefault.jpg"
     }
   ]
 }

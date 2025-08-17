@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-08-10T00:32:23.784123",
+  "fetched_at": "2025-08-17T00:30:40.021314",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
@@ -19,14 +19,6 @@
       "description": "This video talks about the process of rehosting you're on-prem servers to Azure using Azure Migrates server migration capability.",
       "published_at": "2025-07-25T14:00:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/YAFcLWifeC0/hqdefault.jpg"
-    },
-    {
-      "title": "Identify the ROI of migration or modernization to Azure using Azure Migrate",
-      "video_id": "WG13ODrjgxo",
-      "channel_title": "Microsoft Azure",
-      "description": "In this video, we explore how Azure Migrate helps customers in the Decide phase of their migration journey by building a ...",
-      "published_at": "2025-07-21T15:01:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WG13ODrjgxo/hqdefault.jpg"
     },
     {
       "title": "Make-A-Wish brings more joy, hope, and strength to children through Microsoft technology",
@@ -83,6 +75,14 @@
       "description": "Discover the latest capabilities offered in the unified Azure AI Foundry SDK. Design, customize, and manage AI applications and ...",
       "published_at": "2025-05-19T16:01:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mOs3-4S1_Ys/hqdefault.jpg"
+    },
+    {
+      "title": "Carvana builds efficient, seamless customer experience with agent on Azure",
+      "video_id": "obcYLjzSX6E",
+      "channel_title": "Microsoft Azure",
+      "description": "Carvana built an AI-powered conversation analysis engine to enhance visibility and continuously improve every customer ...",
+      "published_at": "2025-05-19T16:01:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/obcYLjzSX6E/hqdefault.jpg"
     }
   ]
 }

@@ -1,64 +1,64 @@
 {
-  "fetched_at": "2025-08-10T00:32:31.739372",
+  "fetched_at": "2025-08-17T00:30:47.764148",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 9,
+  "count": 8,
   "videos": [
     {
-      "title": "Open Source Friday with the official GitHub MCP Server!",
-      "video_id": "eBxzDenTba0",
+      "title": "GPT-5 is here, and it&#39;s now available in GitHub Copilot",
+      "video_id": "5nffupc2peM",
       "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday with Toby Padilla to chat about the official GitHub MCP Server! Come learn how it works, how to ...",
-      "published_at": "2025-08-09T06:10:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eBxzDenTba0/hqdefault.jpg"
+      "description": "OpenAI's most advanced model, GPT-5, is here. In this video, we cover its new capabilities, from advanced coding and visual ...",
+      "published_at": "2025-08-16T14:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5nffupc2peM/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR]🇧🇷 Open Source Friday Brasil com Daniela Petruzalek, mantenedora PacGo",
-      "video_id": "3a7d1Q01Dq8",
+      "title": "Open Source Friday with OpenSSF - Global Cyber Policy Working Group",
+      "video_id": "lBcpH47zDuo",
       "channel_title": "GitHub",
-      "description": "Open Source Friday Brasil | Pac Go com Daniela Petruzalek No episódio de hoje do Open Source Friday Brasil, recebemos ...",
-      "published_at": "2025-08-09T05:11:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3a7d1Q01Dq8/hqdefault.jpg"
+      "description": "Join us live as we learn more about OpenSSF's Global Cyber Policy Working Group with Madalin Neag OpenSSF EU Policy ...",
+      "published_at": "2025-08-16T06:39:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lBcpH47zDuo/hqdefault.jpg"
     },
     {
-      "title": "GitHub Copilot just overtook ChatGPT for developers",
-      "video_id": "uOx286VTAwM",
+      "title": "The Download: GPT-5 &amp; Claude 4.1 in Copilot, Typescript 5.9 &amp; more",
+      "video_id": "lhpQBp9I80w",
       "channel_title": "GitHub",
-      "description": "According to a recent survey from The Pragmatic Engineer, GitHub Copilot is now the most used AI tool among developers. We've ...",
-      "published_at": "2025-08-08T18:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uOx286VTAwM/hqdefault.jpg"
+      "description": "This week marks a moment of significant change for GitHub and the entire developer community. We announce that our CEO, ...",
+      "published_at": "2025-08-15T16:12:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lhpQBp9I80w/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Exploring the GitHub MCP Server!",
-      "video_id": "azOp55zA4FU",
+      "title": "Rubber Duck Thursday!",
+      "video_id": "PDHqsJAyN0M",
       "channel_title": "GitHub",
-      "description": "Let's dig into the GitHub MCP Server together!",
-      "published_at": "2025-08-08T07:04:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/azOp55zA4FU/hqdefault.jpg"
+      "description": "Come co-work with me!",
+      "published_at": "2025-08-15T07:10:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PDHqsJAyN0M/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Building a turn-based-game MCP server",
-      "video_id": "T8D1hDaCrKc",
+      "title": "How to chat with your repo &amp; create PRs with Copilot | GitHub Checkout",
+      "video_id": "HUZqoVeJ0uA",
       "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. In this stream, we'll ...",
-      "published_at": "2025-08-07T23:55:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T8D1hDaCrKc/hqdefault.jpg"
+      "description": "Join Andrea Griffiths and Daniel Adams on GitHub Checkout for a deep dive into GitHub Copilot on GitHub . Many users use ...",
+      "published_at": "2025-08-13T14:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HUZqoVeJ0uA/hqdefault.jpg"
     },
     {
-      "title": "Can you hack this large language model? | Season 3 - Secure Code Game",
-      "video_id": "MNrqRV3N2bY",
+      "title": "Open Source Friday with OpenSSF - Global Cyber Policy Working Group",
+      "video_id": "XWWGS9deysc",
       "channel_title": "GitHub",
-      "description": "Think you can outsmart a large language model? In Season 3 of the Secure Code Game, you'll dive into the latest AI security ...",
-      "published_at": "2025-08-07T16:24:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MNrqRV3N2bY/hqdefault.jpg"
+      "description": "Join us live as we learn more about OpenSSF's Global Cyber Policy Working Group with Christopher Robinson (SecurityCRob) ...",
+      "published_at": "2025-08-11T19:02:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XWWGS9deysc/hqdefault_live.jpg"
     },
     {
-      "title": "Did an AI just stop the next major cyber attack?",
-      "video_id": "nBZkBneI5Vk",
+      "title": "Open Source Friday with Suricata - Real-Time Threat Detection",
+      "video_id": "zTlJqnAns3E",
       "channel_title": "GitHub",
-      "description": "Welcome to a new era of proactive cybersecurity. We look at how Google's \"Big Sleep\" AI made history by discovering a critical ...",
-      "published_at": "2025-08-07T14:01:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nBZkBneI5Vk/hqdefault.jpg"
+      "description": "Join us live as we dive into Suricata — the powerful open-source IDS/IPS that brings multi-threaded, high-speed network traffic ...",
+      "published_at": "2025-08-01T20:29:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zTlJqnAns3E/hqdefault_live.jpg"
     },
     {
       "title": "Modernizing Legacy: COBOL to Cloud with GitHub Copilot",
@@ -67,14 +67,6 @@
       "description": "Join us for a live stream with Julia Kordick, Software Global Black Belt at Microsoft, as she demonstrates how AI-assisted tools like ...",
       "published_at": "2025-07-22T14:14:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xWA0xYttWMo/hqdefault_live.jpg"
-    },
-    {
-      "title": "Open Source Friday: Secure Code Game – Season 3 with Bartosz Gałek &amp; jkcso",
-      "video_id": "yctwWsjqU1M",
-      "channel_title": "GitHub",
-      "description": "Join us for a special episode of Open Source Friday featuring Bartosz Gałek and jkcso, contributors to the Secure Code Game.",
-      "published_at": "2025-07-17T19:29:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yctwWsjqU1M/hqdefault_live.jpg"
     }
   ]
 }
