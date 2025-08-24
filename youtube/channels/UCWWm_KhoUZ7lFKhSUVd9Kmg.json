@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-17T00:31:18.248394",
+  "fetched_at": "2025-08-24T00:30:25.480881",
   "channel_id": "UCWWm_KhoUZ7lFKhSUVd9Kmg",
   "channel_title": "Redline Underground Cars",
   "count": 10,
   "videos": [
+    {
+      "title": "They try to bring me down ￼",
+      "video_id": "Vmc9bd6hbOU",
+      "channel_title": "Redline Underground Cars",
+      "description": "",
+      "published_at": "2025-08-19T23:30:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vmc9bd6hbOU/hqdefault.jpg"
+    },
     {
       "title": "She’s gonna feel what we FEEL 😡",
       "video_id": "fSzGzqJnpAg",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-10T04:17:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0LSSS9ozt-k/hqdefault.jpg"
-    },
-    {
-      "title": "I guess I got fired because I was not drifting a Ford ￼😨🤯",
-      "video_id": "Yh9VrKwzj8Q",
-      "channel_title": "Redline Underground Cars",
-      "description": "",
-      "published_at": "2025-08-10T03:27:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Yh9VrKwzj8Q/hqdefault.jpg"
     }
   ]
 }

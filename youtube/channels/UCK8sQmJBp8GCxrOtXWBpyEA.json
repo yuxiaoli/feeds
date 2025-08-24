@@ -1,16 +1,40 @@
 {
-  "fetched_at": "2025-08-17T00:31:02.893427",
+  "fetched_at": "2025-08-24T00:30:09.642218",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 1,
+  "count": 4,
   "videos": [
     {
-      "title": "Made by Google is Coming August 20",
-      "video_id": "06b4UeDcQbE",
+      "title": "Unpacking a Decade of Pixel: The OG Story | Made by Google Podcast S8E1",
+      "video_id": "ddKaRQRVer4",
       "channel_title": "Google",
-      "description": "Join us live for #MadeByGoogle on August 20 at 1pm ET to see something special. Available in: American Sign Language ...",
-      "published_at": "2025-07-24T00:33:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/06b4UeDcQbE/hqdefault_live.jpg"
+      "description": "Ever wonder what it takes to build a phone a decade in the making? On this episode of the Made by Google podcast, host Rachid ...",
+      "published_at": "2025-08-20T22:01:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ddKaRQRVer4/hqdefault.jpg"
+    },
+    {
+      "title": "It&#39;s here! ✨ Meet the new Google Pixel Watch 4",
+      "video_id": "_5lxm9DUGTg",
+      "channel_title": "Google",
+      "description": "Meet the #PixelWatch 4 ⌚ ✨ Design & Display - All-new hardware in two sizes - A bigger, brighter domed Actua 360 display with ...",
+      "published_at": "2025-08-20T18:33:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_5lxm9DUGTg/hqdefault.jpg"
+    },
+    {
+      "title": "Big news! 📣 Get a first look at the Google Pixel 10 Pro Fold",
+      "video_id": "DVzY3f0NLUY",
+      "channel_title": "Google",
+      "description": "Meet the Google #Pixel10 Pro Fold 🛡️ Design & Durability - Two new colors - A more durable design with a new gearless hinge ...",
+      "published_at": "2025-08-20T17:53:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DVzY3f0NLUY/hqdefault.jpg"
+    },
+    {
+      "title": "The wait is over!  🎉  Meet the brand new Google Pixel 10, Pixel 10 Pro and Pixel 10 Pro XL",
+      "video_id": "1DElztxF3VA",
+      "channel_title": "Google",
+      "description": "Meet the brand new Google #Pixel10, #Pixel10Pro, and #Pixel10ProXL UI & Design - Latest Android UI: Material 3 Expressive ...",
+      "published_at": "2025-08-20T17:24:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1DElztxF3VA/hqdefault.jpg"
     }
   ]
 }

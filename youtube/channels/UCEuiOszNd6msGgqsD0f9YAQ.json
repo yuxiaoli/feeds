@@ -1,56 +1,80 @@
 {
-  "fetched_at": "2025-08-17T00:30:56.184586",
+  "fetched_at": "2025-08-24T00:30:02.391367",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
-  "count": 6,
+  "count": 9,
   "videos": [
     {
-      "title": "The Surprisingly Scientific Way Paint Is Made",
-      "video_id": "meZEejIAuqQ",
+      "title": "Can You Crack the Missing Number? 🤔🔢",
+      "video_id": "wI2OGQXwj48",
       "channel_title": "Interesting Engineering",
-      "description": "Ever wondered how paint is made? It's not just color in a tube — it's chemistry, precision, and a little bit of magic. From pure ...",
-      "published_at": "2025-08-15T17:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/meZEejIAuqQ/hqdefault.jpg"
+      "description": "Quick brain teaser for you! Each cross follows a pattern, but one number is missing in the orange box. Take a close look – can ...",
+      "published_at": "2025-08-23T01:30:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wI2OGQXwj48/hqdefault.jpg"
     },
     {
-      "title": "Inside the World’s First Robot Olympics",
-      "video_id": "nU7JyRh67YI",
+      "title": "The Secret Behind Every Device",
+      "video_id": "wi-gX5AXAGY",
       "channel_title": "Interesting Engineering",
-      "description": "The future of sports just got an upgrade — meet the 500+ humanoid robots competing in China's first-ever Robot Olympics!",
-      "published_at": "2025-08-15T15:01:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nU7JyRh67YI/hqdefault.jpg"
+      "description": "Not a single piece of modern tech would work without silicon. ✨ From construction and medicine to the microchips that power ...",
+      "published_at": "2025-08-22T21:46:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wi-gX5AXAGY/hqdefault.jpg"
     },
     {
-      "title": "Robot Team To Tunnel Deep Into Mars",
-      "video_id": "4nhqq3Di6UE",
+      "title": "Boston Dynamics’ Atlas Gets a Brain Upgrade",
+      "video_id": "QLg8uUsnFUM",
       "channel_title": "Interesting Engineering",
-      "description": "This team of three robots are designed to survey and enter lava tubes, not just on Earth but on Mars and other planets as well.",
-      "published_at": "2025-08-14T17:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4nhqq3Di6UE/hqdefault.jpg"
+      "description": "Boston Dynamics skipped sending Atlas to the inaugural Robot Olympics in China—and for good reason. Engineers have been ...",
+      "published_at": "2025-08-22T18:30:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QLg8uUsnFUM/hqdefault.jpg"
     },
     {
-      "title": "Starlink Rival Promises 60 Satellites By 2026",
-      "video_id": "PQ3z-iwB1PE",
+      "title": "The World’s Smallest Cat Video",
+      "video_id": "rNIQ-dVD7io",
       "channel_title": "Interesting Engineering",
-      "description": "AST SpaceMobile has promised to invest 1.5 billion dollars into its low orbit satellite program, with the aim of competing with ...",
-      "published_at": "2025-08-14T15:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PQ3z-iwB1PE/hqdefault.jpg"
+      "description": "A single rubidium atom arranged with lasers and AI — a tiny step toward the future of quantum computers.",
+      "published_at": "2025-08-22T08:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rNIQ-dVD7io/hqdefault.jpg"
     },
     {
-      "title": "The Secret of Expensive China",
-      "video_id": "e7Xu5pwmsSA",
+      "title": "2026 Nissan LEAF",
+      "video_id": "lQyBMdhJWcg",
       "channel_title": "Interesting Engineering",
-      "description": "Porcelain is an ancient recipe that was kept a secret for centuries. But now it's everywhere. How is this precious pottery made, and ...",
-      "published_at": "2025-08-14T08:05:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e7Xu5pwmsSA/hqdefault.jpg"
+      "description": "The 2026 Nissan LEAF launches this fall under $30K, offering a 75 kWh battery, up to 303 miles of range, and 10–80% charge in ...",
+      "published_at": "2025-08-22T00:30:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lQyBMdhJWcg/hqdefault.jpg"
     },
     {
-      "title": "Your Robot Housemaid is One Step Closer",
-      "video_id": "Nog3sixe4kw",
+      "title": "The Most Hygenic Chemical Reaction",
+      "video_id": "yjrvIITHtgo",
       "channel_title": "Interesting Engineering",
-      "description": "Robots are now capable of folding laundry. Thanks to Figure's Scaling Helix model, we now get some insight on what a world with ...",
-      "published_at": "2025-08-13T15:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nog3sixe4kw/hqdefault.jpg"
+      "description": "Soap just might be the number one disease prevention method. Its invention changed history. But have you ever wondered how ...",
+      "published_at": "2025-08-21T11:30:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yjrvIITHtgo/hqdefault.jpg"
+    },
+    {
+      "title": "Olympic Air Taxi Sets Record Flight",
+      "video_id": "9sMu9wYaia8",
+      "channel_title": "Interesting Engineering",
+      "description": "Archer Aviation's Midnight just set a record flight during testing in the skies over California. This excellent performance is just one ...",
+      "published_at": "2025-08-21T00:30:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9sMu9wYaia8/hqdefault.jpg"
+    },
+    {
+      "title": "Science Brain Teaser",
+      "video_id": "BSaWa4tFUGI",
+      "channel_title": "Interesting Engineering",
+      "description": "You've got 4 soda bottles. If they're all shaken, which one would be the hardest to dent? Drop your guess in the comments ...",
+      "published_at": "2025-08-20T23:30:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BSaWa4tFUGI/hqdefault.jpg"
+    },
+    {
+      "title": "The Deep Sea Mining Dilemma",
+      "video_id": "ojAw9-TGhQg",
+      "channel_title": "Interesting Engineering",
+      "description": "With a recent executive order from President Trump's, the race to the bottom of the ocean has begun. Mining companies are ...",
+      "published_at": "2025-08-17T08:00:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ojAw9-TGhQg/hqdefault.jpg"
     }
   ]
 }

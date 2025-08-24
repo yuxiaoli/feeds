@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-08-17T00:31:33.493227",
+  "fetched_at": "2025-08-24T00:30:41.152679",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "1960&quot;s Nova Post-Saturn  Rocket Launch",
+      "video_id": "TBMJDslNXgo",
+      "channel_title": "Hazegrayart",
+      "description": "Nova was a series of NASA's rocket designs that were proposed both before and after the Saturn V rocket used in the Apollo ...",
+      "published_at": "2025-08-21T01:42:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TBMJDslNXgo/hqdefault.jpg"
+    },
+    {
+      "title": "Titan IIIL Heavy Lift Concept Staging",
+      "video_id": "ASDgq0w_d_E",
+      "channel_title": "Hazegrayart",
+      "description": "The selected Titan IIIL booster is designated as the 1207-4 spread configuration. The booster stage consIsts of a sixteen foot ...",
+      "published_at": "2025-08-19T02:35:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ASDgq0w_d_E/hqdefault.jpg"
+    },
     {
       "title": "Titan IIIL Heavy Lift",
       "video_id": "tJM8XZJ07oY",
@@ -67,22 +83,6 @@
       "description": "The Conroy Virtus Designed by John M. Conroy of the Turbo-Three Corporation incorporate a pair of Boeing B-52 Stratofortress ...",
       "published_at": "2025-07-12T03:57:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/BoYNf2BKIN0/hqdefault.jpg"
-    },
-    {
-      "title": "C5 Gallaxy Shuttle Carrier",
-      "video_id": "6-JstUroqos",
-      "channel_title": "Hazegrayart",
-      "description": "The Conroy Virtus Designed by John M. Conroy of the Turbo-Three Corporation incorporate a pair of Boeing B-52 Stratofortress ...",
-      "published_at": "2025-07-12T01:27:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6-JstUroqos/hqdefault.jpg"
-    },
-    {
-      "title": "C5 Gallaxy Shuttle Carrier Takeoff",
-      "video_id": "WMd5kku6qB0",
-      "channel_title": "Hazegrayart",
-      "description": "The Conroy Virtus Designed by John M. Conroy of the Turbo-Three Corporation incorporate a pair of Boeing B-52 Stratofortress ...",
-      "published_at": "2025-07-07T13:35:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WMd5kku6qB0/hqdefault.jpg"
     }
   ]
 }

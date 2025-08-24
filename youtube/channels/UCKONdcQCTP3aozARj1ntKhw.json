@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-08-17T00:31:03.682532",
+  "fetched_at": "2025-08-24T00:30:10.407173",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
     {
-      "title": "Setting up 5 MCP Servers in Warp (FULL Tutorial)",
-      "video_id": "rrxfS9u1XRA",
-      "channel_title": "Warp",
-      "description": "Timestamps: 00:00 Intro 00:30 Github MCP 02:14 Puppeteer MCP 03:35 Figma MCP 04:49 Sentry MCP 06:09 Context7 MCP ...",
-      "published_at": "2025-08-08T19:34:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rrxfS9u1XRA/hqdefault.jpg"
-    },
-    {
-      "title": "Using Rules in Warp (Web Dev Version)",
-      "video_id": "MU_xZ5sAU9w",
-      "channel_title": "Warp",
-      "description": "In this video, Warp's engineer Ben Holmes talks you through different rules he uses in Warp to improve his developer workflow!",
-      "published_at": "2025-08-07T19:48:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MU_xZ5sAU9w/hqdefault.jpg"
-    },
-    {
-      "title": "Creating rules for Agents with Warp",
-      "video_id": "OyrpkeL6WNY",
+      "title": "GPT-5 x Warp: Building the agentic future",
+      "video_id": "pRIj3x7AkM0",
       "channel_title": "Warp",
       "description": "",
-      "published_at": "2025-07-31T18:52:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OyrpkeL6WNY/hqdefault.jpg"
+      "published_at": "2025-08-20T19:07:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pRIj3x7AkM0/hqdefault.jpg"
     },
     {
-      "title": "Explaining My Codebase With Warp",
-      "video_id": "11rz9OYQ8Hg",
+      "title": "Building Warp&#39;s input with Warp",
+      "video_id": "ySzUj7kMZ64",
+      "channel_title": "Warp",
+      "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
+      "published_at": "2025-08-20T18:14:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ySzUj7kMZ64/hqdefault.jpg"
+    },
+    {
+      "title": "Using MCP servers with Warp",
+      "video_id": "8vn2brhJrF8",
+      "channel_title": "Warp",
+      "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
+      "published_at": "2025-08-20T18:14:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8vn2brhJrF8/hqdefault.jpg"
+    },
+    {
+      "title": "Understanding your codebase with Warp",
+      "video_id": "pohnoRZas-E",
+      "channel_title": "Warp",
+      "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
+      "published_at": "2025-08-20T18:14:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pohnoRZas-E/hqdefault.jpg"
+    },
+    {
+      "title": "Using multiple agents at once with Warp",
+      "video_id": "w0bJFC0u0pE",
+      "channel_title": "Warp",
+      "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
+      "published_at": "2025-08-20T18:14:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w0bJFC0u0pE/hqdefault.jpg"
+    },
+    {
+      "title": "Using images as context with Warp",
+      "video_id": "_Pc7bL0zAoM",
+      "channel_title": "Warp",
+      "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
+      "published_at": "2025-08-20T18:14:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_Pc7bL0zAoM/hqdefault.jpg"
+    },
+    {
+      "title": "Master Warp&#39;s Input",
+      "video_id": "4c05OEqzQIA",
       "channel_title": "Warp",
       "description": "",
-      "published_at": "2025-07-29T21:48:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/11rz9OYQ8Hg/hqdefault.jpg"
+      "published_at": "2025-08-19T18:56:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4c05OEqzQIA/hqdefault.jpg"
     },
     {
-      "title": "Editing Agent Code In Warp",
-      "video_id": "dm-P63USsVg",
-      "channel_title": "Warp",
-      "description": "See our official changelog https://docs.warp.dev/getting-started/changelog Check out Warp https://warp.dev.",
-      "published_at": "2025-07-29T18:24:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dm-P63USsVg/hqdefault.jpg"
-    },
-    {
-      "title": "Warp Overview (Basic UI Walkthrough)",
-      "video_id": "O5E6ze3vqeo",
-      "channel_title": "Warp",
-      "description": "See our official changelog https://docs.warp.dev/getting-started/changelog Check out Warp https://warp.dev.",
-      "published_at": "2025-07-29T18:24:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O5E6ze3vqeo/hqdefault.jpg"
-    },
-    {
-      "title": "Starting a Coding Task with Warp",
-      "video_id": "IuFSuOYstfg",
-      "channel_title": "Warp",
-      "description": "See our official changelog https://docs.warp.dev/getting-started/changelog Check out Warp https://warp.dev.",
-      "published_at": "2025-07-29T18:24:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IuFSuOYstfg/hqdefault.jpg"
-    },
-    {
-      "title": "Warp Updates: Coding just got a lot better",
-      "video_id": "h_iFv16lhGs",
-      "channel_title": "Warp",
-      "description": "Coding just got a lot better in Warp. Here's what we've got release/coming: 00:28 Searching files support (On Stable) 00:48 ...",
-      "published_at": "2025-07-29T18:02:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h_iFv16lhGs/hqdefault.jpg"
-    },
-    {
-      "title": "Warp Updates: Session restoration, tab tooltips &amp; keyboard configs",
-      "video_id": "qaWgxww8di4",
-      "channel_title": "Warp",
-      "description": "A couple of new improvements to announce in Warp! 00:24 MCP Session Restoration (Warp Preview, should be in next Stable ...",
-      "published_at": "2025-07-23T16:47:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qaWgxww8di4/hqdefault.jpg"
-    },
-    {
-      "title": "Defining the future of development with OpenAI &amp; Warp",
-      "video_id": "Kw6bfR5oLuQ",
+      "title": "Trigger Reusable Actions with Saved Prompts",
+      "video_id": "pE15zjJmB4E",
       "channel_title": "Warp",
       "description": "",
-      "published_at": "2025-07-18T18:06:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Kw6bfR5oLuQ/hqdefault.jpg"
+      "published_at": "2025-08-19T18:56:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pE15zjJmB4E/hqdefault.jpg"
+    },
+    {
+      "title": "Customize Warp",
+      "video_id": "fzb1JcZ0fFA",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-08-19T18:55:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fzb1JcZ0fFA/hqdefault.jpg"
+    },
+    {
+      "title": "Write Postgres Command with AI Prompts",
+      "video_id": "guXQSMq_Yss",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-08-19T18:54:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/guXQSMq_Yss/hqdefault.jpg"
     }
   ]
 }

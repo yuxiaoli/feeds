@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-08-17T00:31:20.543831",
+  "fetched_at": "2025-08-24T00:30:27.807992",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Canva prototypes faster with GPT-5",
+      "video_id": "Dz34AXx2qfc",
+      "channel_title": "OpenAI",
+      "description": "Canva has always used AI to make design more accessible. CJ Jones, Canva's Global Head of Design, GenAI, is using GPT-5 to ...",
+      "published_at": "2025-08-20T21:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Dz34AXx2qfc/hqdefault.jpg"
+    },
+    {
+      "title": "Uber uses GPT-5 to balance speed and quality",
+      "video_id": "L--pCNSt3F4",
+      "channel_title": "OpenAI",
+      "description": "Uber's early explorations with GPT-5 have shown the potential to deliver richer responses that feel more natural and helpful.",
+      "published_at": "2025-08-19T17:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L--pCNSt3F4/hqdefault.jpg"
+    },
     {
       "title": "AGI progress, surprising breakthroughs, and the road ahead — the OpenAI Podcast Ep. 5",
       "video_id": "yBzStBK6Z8c",
@@ -67,22 +83,6 @@
       "description": "Greg Brockman sits down with Michael Truell, Cursor Co-Founder and CEO, to chat about GPT-5's coding capabilities.",
       "published_at": "2025-08-07T18:34:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PQUcIbSEBCM/hqdefault.jpg"
-    },
-    {
-      "title": "Powering Creativity with GPT-5",
-      "video_id": "kjKMZZiO-lM",
-      "channel_title": "OpenAI",
-      "description": "GPT-5 is our most creative and best writing model to date. It's capable of helping you write with literary depth and nuance, and is ...",
-      "published_at": "2025-08-07T18:34:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kjKMZZiO-lM/hqdefault.jpg"
-    },
-    {
-      "title": "GPT-5: Our best model for work",
-      "video_id": "2jqS7JD0hrY",
-      "channel_title": "OpenAI",
-      "description": "Meet GPT-5 — our most capable model yet. It figures out how hard to think, which tools to use, and suggests next steps so you can ...",
-      "published_at": "2025-08-07T18:01:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2jqS7JD0hrY/hqdefault.jpg"
     }
   ]
 }

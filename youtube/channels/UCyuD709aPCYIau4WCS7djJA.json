@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-08-17T00:31:45.777102",
+  "fetched_at": "2025-08-24T00:30:54.024051",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Constellation Gemini: The REAL shape",
+      "video_id": "hNgVAV80tXM",
+      "channel_title": "Star Walk",
+      "description": "",
+      "published_at": "2025-08-21T13:17:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hNgVAV80tXM/hqdefault.jpg"
+    },
+    {
+      "title": "Same Earth, different sky 🌌",
+      "video_id": "rDWufChRbIs",
+      "channel_title": "Star Walk",
+      "description": "See how constellations shift depending on your location: In the Northern Hemisphere, classics like the Big Dipper, Cassiopeia, ...",
+      "published_at": "2025-08-20T08:55:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rDWufChRbIs/hqdefault.jpg"
+    },
     {
       "title": "Snowy peak in space?",
       "video_id": "VBirfJCOUzk",
@@ -67,22 +83,6 @@
       "description": "The Sturgeon Moon gets its name from the Native American tribes that fished for lake sturgeon around this time of year — but ...",
       "published_at": "2025-08-06T06:48:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tDFVup-g3Hw/hqdefault.jpg"
-    },
-    {
-      "title": "Astronomy Highlights of August 2025 ✨",
-      "video_id": "VlvDZppHv0Y",
-      "channel_title": "Star Walk",
-      "description": "nightsky #augustsky #astronomy #astronomy2025 #starwalk.",
-      "published_at": "2025-08-01T05:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VlvDZppHv0Y/hqdefault.jpg"
-    },
-    {
-      "title": "Flat-Earther Encounter: Choose Your Path 🔥",
-      "video_id": "BJfdcRAD2Yo",
-      "channel_title": "Star Walk",
-      "description": "God gives his toughest battles to his strongest soldiers So, pick your fighter… or follow this reel as a step-by-step survival ...",
-      "published_at": "2025-07-29T07:46:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BJfdcRAD2Yo/hqdefault.jpg"
     }
   ]
 }

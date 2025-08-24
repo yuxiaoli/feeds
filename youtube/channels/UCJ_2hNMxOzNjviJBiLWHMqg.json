@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-17T00:31:01.405493",
+  "fetched_at": "2025-08-24T00:30:07.977520",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "A Transparent Toilet You Can See Through",
+      "video_id": "9KS8S1Wcf2Y",
+      "channel_title": "DamiLee",
+      "description": "A toilet you can see right through, until you step inside. In Tokyo's Yoyogi Fukamachi Mini Park, Shigeru Ban turns public hygiene ...",
+      "published_at": "2025-08-20T14:31:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9KS8S1Wcf2Y/hqdefault.jpg"
+    },
     {
       "title": "&quot;Hi Toilet&quot;",
       "video_id": "m05M2wQWakQ",
@@ -75,14 +83,6 @@
       "description": "In 1963, a farmer accidentally stumbled upon the largest underground city in the world. Derinkuyu was a marvel of ancient ...",
       "published_at": "2025-06-24T19:03:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vgXh__KjHCU/hqdefault.jpg"
-    },
-    {
-      "title": "The Tallest Cemetery in the World",
-      "video_id": "vqfxjEtiZLU",
-      "channel_title": "DamiLee",
-      "description": "Imagine visiting a cemetery with a café and a toucan-breeding program. This 14-story Brazilian tower is changing the way we ...",
-      "published_at": "2025-06-19T19:03:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vqfxjEtiZLU/hqdefault.jpg"
     }
   ]
 }

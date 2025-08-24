@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-17T00:30:43.149341",
+  "fetched_at": "2025-08-24T00:29:48.673142",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "TRAE meetup 第一期",
+      "video_id": "vR6Kamwmoyk",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家分享周六的TRAE meetup 的我的演讲视频~ 主要讲了下Vibe Coding 中怎样避免屎山哈哈哈哈另外PPT我也扔到了github, 大家 ...",
+      "published_at": "2025-08-19T06:44:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vR6Kamwmoyk/hqdefault.jpg"
+    },
     {
       "title": "使用 WAN2.2 做了个以《三体》中叶文洁为视角的小短片——三体·独白",
       "video_id": "Nz9WalCZscg",
@@ -75,14 +83,6 @@
       "description": "腾讯的AI 知识库IMA 刚刚接入了DeepSeek-R1! 是不是又有个新地方免费用DeepSeek 了哈哈哈本期大模型竞技场为大家带来腾讯AI ...",
       "published_at": "2025-02-18T06:18:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/sfHJOgWeY2U/hqdefault.jpg"
-    },
-    {
-      "title": "大模型竞技场 - Gemini-2.0-Flash 评测!",
-      "video_id": "cZZYUvzxb6I",
-      "channel_title": "Karminski-牙医",
-      "description": "来了！大模型竞技场为大家带来Gemini 新模型全家桶评测！ 包括： Gemini-2.0-Flash Gemini-2.0-Flash-Lite-Preview-02-05 ...",
-      "published_at": "2025-02-14T20:07:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cZZYUvzxb6I/hqdefault.jpg"
     }
   ]
 }

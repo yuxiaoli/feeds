@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2025-08-17T00:31:27.406806",
+  "fetched_at": "2025-08-24T00:30:34.821038",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
-    {
-      "title": "Buildathon - From Zero to Product in a Day",
-      "video_id": "Brz7GaUPEDw",
-      "channel_title": "DeepLearningAI",
-      "description": "Hosted by AI Fund and DeepLearning.AI, the Buildathon is a multi-stage competition that challenges participants to rapidly ...",
-      "published_at": "2025-08-14T00:39:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Brz7GaUPEDw/hqdefault_live.jpg"
-    },
     {
       "title": "Build GenAI app prototypes in days instead of months! Join our new course",
       "video_id": "1km00uTv1aA",
@@ -83,6 +75,14 @@
       "description": "Learn more: https://bit.ly/45BbJ0D When building generative AI applications, it's common to start in a Jupyter Notebook or script, ...",
       "published_at": "2025-06-11T14:22:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WvQTkMiOrxo/hqdefault.jpg"
+    },
+    {
+      "title": "New course with Databricks! DSPy: Build and Optimize Agentic Apps",
+      "video_id": "f5ym8e1pwHA",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4mIpgcJ As generative AI applications grow more complex, spanning reasoning, retrieval, and tool use, ...",
+      "published_at": "2025-06-04T14:09:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f5ym8e1pwHA/hqdefault.jpg"
     }
   ]
 }

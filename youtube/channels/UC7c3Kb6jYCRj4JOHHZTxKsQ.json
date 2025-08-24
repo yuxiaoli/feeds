@@ -1,56 +1,56 @@
 {
-  "fetched_at": "2025-08-17T00:30:47.764148",
+  "fetched_at": "2025-08-24T00:29:53.401014",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 8,
+  "count": 7,
   "videos": [
     {
-      "title": "GPT-5 is here, and it&#39;s now available in GitHub Copilot",
-      "video_id": "5nffupc2peM",
+      "title": "Open Source Friday: Secure Code Game – Season 3 with Bartosz Gałek &amp; jkcso",
+      "video_id": "yctwWsjqU1M",
       "channel_title": "GitHub",
-      "description": "OpenAI's most advanced model, GPT-5, is here. In this video, we cover its new capabilities, from advanced coding and visual ...",
-      "published_at": "2025-08-16T14:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5nffupc2peM/hqdefault.jpg"
+      "description": "Open Source Friday: Secure Code Game Season 3 - Building Safer LLM Applications Join ⁨@alacolombiadev for a deep dive ...",
+      "published_at": "2025-08-23T06:19:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yctwWsjqU1M/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with OpenSSF - Global Cyber Policy Working Group",
-      "video_id": "lBcpH47zDuo",
+      "title": "[pt-BR🇧🇷] Open Source Friday Brasil com Jefferson Rodrigues, mantenedor do Midaz",
+      "video_id": "Dl3KidBv390",
       "channel_title": "GitHub",
-      "description": "Join us live as we learn more about OpenSSF's Global Cyber Policy Working Group with Madalin Neag OpenSSF EU Policy ...",
-      "published_at": "2025-08-16T06:39:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lBcpH47zDuo/hqdefault.jpg"
+      "description": "Brazilian Stream     No episódio desta semana do Open Source Friday Brasil, recebemos Jefferson Rodrigues, mantenedor do ...",
+      "published_at": "2025-08-23T05:03:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Dl3KidBv390/hqdefault.jpg"
     },
     {
-      "title": "The Download: GPT-5 &amp; Claude 4.1 in Copilot, Typescript 5.9 &amp; more",
-      "video_id": "lhpQBp9I80w",
+      "title": "Rubber Duck Thursday - let&#39;s hack",
+      "video_id": "0kiYEKqV9DY",
       "channel_title": "GitHub",
-      "description": "This week marks a moment of significant change for GitHub and the entire developer community. We announce that our CEO, ...",
-      "published_at": "2025-08-15T16:12:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lhpQBp9I80w/hqdefault.jpg"
+      "description": "Let's keep building on the project from last week with Copilot Agent Mode and use the playwright MCP server for visual testing.",
+      "published_at": "2025-08-22T07:16:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0kiYEKqV9DY/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursday!",
-      "video_id": "PDHqsJAyN0M",
+      "title": "How to test nonexistent code with Copilot",
+      "video_id": "MPA-dZBUTUQ",
       "channel_title": "GitHub",
-      "description": "Come co-work with me!",
-      "published_at": "2025-08-15T07:10:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PDHqsJAyN0M/hqdefault.jpg"
+      "description": "This demonstration shows how Copilot can generate code based on specific criteria, making it easier to implement features.",
+      "published_at": "2025-08-21T17:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MPA-dZBUTUQ/hqdefault.jpg"
     },
     {
-      "title": "How to chat with your repo &amp; create PRs with Copilot | GitHub Checkout",
-      "video_id": "HUZqoVeJ0uA",
+      "title": "Modernizing Legacy: COBOL to Cloud with GitHub Copilot",
+      "video_id": "xWA0xYttWMo",
       "channel_title": "GitHub",
-      "description": "Join Andrea Griffiths and Daniel Adams on GitHub Checkout for a deep dive into GitHub Copilot on GitHub . Many users use ...",
-      "published_at": "2025-08-13T14:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HUZqoVeJ0uA/hqdefault.jpg"
+      "description": "Join us for a live stream with Julia Kordick, Software Global Black Belt at Microsoft, as she demonstrates how AI-assisted tools like ...",
+      "published_at": "2025-08-21T03:15:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xWA0xYttWMo/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with OpenSSF - Global Cyber Policy Working Group",
-      "video_id": "XWWGS9deysc",
+      "title": "[pt-BR 🇧🇷] Quinta do Patinho - Vamos vibecodar um tema pro VScode com o Copilot?",
+      "video_id": "oWoAP5UUGNw",
       "channel_title": "GitHub",
-      "description": "Join us live as we learn more about OpenSSF's Global Cyber Policy Working Group with Christopher Robinson (SecurityCRob) ...",
-      "published_at": "2025-08-11T19:02:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XWWGS9deysc/hqdefault_live.jpg"
+      "description": "[Live stream in portuguese-BRASIL ] Nesta semana vamos soltar a criatividade e construir um tema personalizado para o VS ...",
+      "published_at": "2025-08-18T14:42:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oWoAP5UUGNw/hqdefault_live.jpg"
     },
     {
       "title": "Open Source Friday with Suricata - Real-Time Threat Detection",
@@ -59,14 +59,6 @@
       "description": "Join us live as we dive into Suricata — the powerful open-source IDS/IPS that brings multi-threaded, high-speed network traffic ...",
       "published_at": "2025-08-01T20:29:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zTlJqnAns3E/hqdefault_live.jpg"
-    },
-    {
-      "title": "Modernizing Legacy: COBOL to Cloud with GitHub Copilot",
-      "video_id": "xWA0xYttWMo",
-      "channel_title": "GitHub",
-      "description": "Join us for a live stream with Julia Kordick, Software Global Black Belt at Microsoft, as she demonstrates how AI-assisted tools like ...",
-      "published_at": "2025-07-22T14:14:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xWA0xYttWMo/hqdefault_live.jpg"
     }
   ]
 }

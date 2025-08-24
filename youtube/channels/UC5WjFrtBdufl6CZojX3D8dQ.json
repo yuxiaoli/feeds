@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-17T00:30:46.278351",
+  "fetched_at": "2025-08-24T00:29:51.862217",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Leave your pet in the car with Dog Mode",
+      "video_id": "ehGuGQZYX-U",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-08-23T20:35:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ehGuGQZYX-U/hqdefault.jpg"
+    },
     {
       "title": "How Giga Berlin got its graffiti | Tesla",
       "video_id": "vw4o1a1_pj4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-07-30T17:54:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PFtkLts3G3g/hqdefault.jpg"
-    },
-    {
-      "title": "Rave Cave In Your Car | Tesla Light Sync",
-      "video_id": "Pt5iBqEnl8s",
-      "channel_title": "Tesla",
-      "description": "Turn your Tesla into a Rave Cave with the new Light Sync feature. When enabled, your accent lighting will pulse along with your ...",
-      "published_at": "2025-07-29T21:43:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Pt5iBqEnl8s/hqdefault.jpg"
     }
   ]
 }

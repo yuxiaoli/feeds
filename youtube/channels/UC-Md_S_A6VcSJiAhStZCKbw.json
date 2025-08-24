@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-17T00:30:36.878747",
+  "fetched_at": "2025-08-24T00:29:42.296635",
   "channel_id": "UC-Md_S_A6VcSJiAhStZCKbw",
   "channel_title": "Jordi Koalitic",
   "count": 10,
   "videos": [
+    {
+      "title": "Magic door ✨  shot w @xiaomi #xiaomi15ultra",
+      "video_id": "oTXVl-YtWK4",
+      "channel_title": "Jordi Koalitic",
+      "description": "",
+      "published_at": "2025-08-19T12:52:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oTXVl-YtWK4/hqdefault.jpg"
+    },
     {
       "title": "Spiritual State 🌀 shot w @NikonEurope #nikonZ5ii",
       "video_id": "2jGJoV0ciEQ",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-06-17T12:49:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/M5E4V7zmXXY/hqdefault.jpg"
-    },
-    {
-      "title": "Mystery Shots 👀 choose your favourite!",
-      "video_id": "DJvZ8hz3XK4",
-      "channel_title": "Jordi Koalitic",
-      "description": "",
-      "published_at": "2025-06-12T12:29:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DJvZ8hz3XK4/hqdefault.jpg"
     }
   ]
 }

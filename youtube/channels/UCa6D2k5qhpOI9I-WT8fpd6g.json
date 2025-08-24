@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-17T00:31:24.279753",
+  "fetched_at": "2025-08-24T00:30:31.588921",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "PostgreSQL能存万物！这还是你认识的数据库吗？  #数据库 #编程 #科技 #人工智能",
+      "video_id": "1UPoCK0v22w",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 这是世界上最先进的开源关系型数据库PostGreSQL，能装下世间万物， ...",
+      "published_at": "2025-08-21T11:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1UPoCK0v22w/hqdefault.jpg"
+    },
     {
       "title": "AI编程工具Claude Code详细攻略，一期视频精通",
       "video_id": "e5O8A5pcVgg",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 免费服务器+免费大模型部署开源免费AI工作流n8n.",
       "published_at": "2025-06-07T11:05:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mzjhST0Od5Q/hqdefault.jpg"
-    },
-    {
-      "title": "从零编写MCP并发布上线，超简单！手把手教程",
-      "video_id": "a3U-JrFkA9s",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 MCP简单来说就是AI大模型的标准化工具箱， 在我们之前的很多期视频里 ...",
-      "published_at": "2025-06-05T13:51:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a3U-JrFkA9s/hqdefault.jpg"
     }
   ]
 }

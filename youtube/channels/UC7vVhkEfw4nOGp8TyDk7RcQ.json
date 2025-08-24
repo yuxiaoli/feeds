@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-17T00:30:48.510981",
+  "fetched_at": "2025-08-24T00:29:54.206390",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Getting a Leg up with End-to-end Neural Networks | Boston Dynamics",
+      "video_id": "HYwekersccY",
+      "channel_title": "Boston Dynamics",
+      "description": "We are excited to share some of our progress on developing Large Behavior Models (LBMs) for Atlas. This work is part of a ...",
+      "published_at": "2025-08-20T16:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HYwekersccY/hqdefault.jpg"
+    },
     {
       "title": "Spot at POSCO | Boston Dynamics",
       "video_id": "V7D7jXF2pj8",
@@ -37,22 +45,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/xWmWmhRt-fs/hqdefault.jpg"
     },
     {
-      "title": "Perception and Adaptability | Inside the Lab with Atlas",
-      "video_id": "oe1dke3Cf7I",
-      "channel_title": "Boston Dynamics",
-      "description": "For a humanoid robot to be successful and generalizable in a factory, warehouse, or even at home requires a comprehensive ...",
-      "published_at": "2025-05-28T13:01:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oe1dke3Cf7I/hqdefault.jpg"
-    },
-    {
-      "title": "New in Spot &amp; Orbit 5.0 | Boston Dynamics",
-      "video_id": "vTgTAe53YdM",
-      "channel_title": "Boston Dynamics",
-      "description": "The latest release of Spot & Orbit allows users to unlocks insights from maintenance and beyond, helping you understand the full ...",
-      "published_at": "2025-05-20T13:54:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vTgTAe53YdM/hqdefault.jpg"
-    },
-    {
       "title": "Arm you glad to see me, Atlas? | Boston Dynamics",
       "video_id": "dFObux6mfTc",
       "channel_title": "Boston Dynamics",
@@ -83,6 +75,14 @@
       "description": "In this video, Atlas is demonstrating policies developed using reinforcement learning with references from human motion capture ...",
       "published_at": "2025-03-19T13:59:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/I44_zbEwz_w/hqdefault.jpg"
+    },
+    {
+      "title": "Pick, Carry, Place, Repeat | Inside the Lab with Atlas",
+      "video_id": "v8UaiRgqvlc",
+      "channel_title": "Boston Dynamics",
+      "description": "Last year, we unveiled the new Atlas—faster, stronger, more compact, and less messy. We're designing the world's most dynamic ...",
+      "published_at": "2025-03-05T14:07:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v8UaiRgqvlc/hqdefault.jpg"
     }
   ]
 }

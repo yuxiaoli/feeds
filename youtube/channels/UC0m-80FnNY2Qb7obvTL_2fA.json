@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-17T00:30:40.021314",
+  "fetched_at": "2025-08-24T00:29:45.439794",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
+    {
+      "title": "Introducing Microsoft Azure Face Liveness",
+      "video_id": "3ysxiX49oxw",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover how Azure Face Liveness brings enterprise-grade security and effortless user experiences together. - Instant proof of ...",
+      "published_at": "2025-08-20T17:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3ysxiX49oxw/hqdefault.jpg"
+    },
     {
       "title": "GPT-5 in Azure AI Foundry featuring model router",
       "video_id": "xgdz-KCFpFI",
@@ -75,14 +83,6 @@
       "description": "Discover the latest capabilities offered in the unified Azure AI Foundry SDK. Design, customize, and manage AI applications and ...",
       "published_at": "2025-05-19T16:01:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mOs3-4S1_Ys/hqdefault.jpg"
-    },
-    {
-      "title": "Carvana builds efficient, seamless customer experience with agent on Azure",
-      "video_id": "obcYLjzSX6E",
-      "channel_title": "Microsoft Azure",
-      "description": "Carvana built an AI-powered conversation analysis engine to enhance visibility and continuously improve every customer ...",
-      "published_at": "2025-05-19T16:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/obcYLjzSX6E/hqdefault.jpg"
     }
   ]
 }

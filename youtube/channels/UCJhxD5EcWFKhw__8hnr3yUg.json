@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-08-17T00:31:02.178670",
+  "fetched_at": "2025-08-24T00:30:08.805247",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "连着吃了两天Omakase！顺便和粉丝看了个富士山",
+      "video_id": "XCKHc0r-DQQ",
+      "channel_title": "码农高天",
+      "description": "东京的后两天有点疲惫，拍的素材少一点，但是两个Omakase认认真真地拍了！富士山也还不错，远远地观察了它一下。",
+      "published_at": "2025-08-23T10:30:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XCKHc0r-DQQ/hqdefault.jpg"
+    },
+    {
+      "title": "我要去PyCon TW啦，不如你也来一起呀？",
+      "video_id": "o8_L1DWbrdw",
+      "channel_title": "码农高天",
+      "description": "PyCon TW主页：https://tw.pycon.org/2025/zh-hant 购票链接（个人）：https://pycontw.kktix.cc/events/2025-individual 源来适你 ...",
+      "published_at": "2025-08-19T10:01:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o8_L1DWbrdw/hqdefault.jpg"
+    },
     {
       "title": "浅草寺，上野，和你们最爱的秋叶原！",
       "video_id": "-jmVang4TAU",
@@ -67,22 +83,6 @@
       "description": "有的小伙伴很难相信我是主动辞职的，那我们就来更深入地聊一下我为什么选择离开微软，以及我对未来有什么计划！",
       "published_at": "2025-07-11T10:30:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WsZn_u6aHa4/hqdefault.jpg"
-    },
-    {
-      "title": "35岁这年，我选择从微软辞职，去环游世界",
-      "video_id": "k8YUF--Q2qQ",
-      "channel_title": "码农高天",
-      "description": "我要辞职去环游世界啦，虽然只有三个月，但还是很期待呢！",
-      "published_at": "2025-07-04T10:30:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k8YUF--Q2qQ/hqdefault.jpg"
-    },
-    {
-      "title": "不改源代码，我也能给你加点功能！",
-      "video_id": "yoRgehrLrmc",
-      "channel_title": "码农高天",
-      "description": "这期视频我来介绍一下我这几周一直在做的一个库，叫做dowhen。这个库可以让你非常方便地在某一行代码运行之前去插入 ...",
-      "published_at": "2025-06-27T10:30:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yoRgehrLrmc/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-17T00:31:17.477114",
+  "fetched_at": "2025-08-24T00:30:24.658872",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "Linear Regression - Key Tool in Data Analysis",
+      "video_id": "t_hVVl5SJyQ",
+      "channel_title": "Socratica",
+      "description": "Connect with us on PATREON https://www.patreon.com/socratica Linear Regression is one of the most ...",
+      "published_at": "2025-08-19T10:01:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t_hVVl5SJyQ/hqdefault.jpg"
+    },
     {
       "title": "Payoff Engineering - Using options &amp; stock to customize your strategy - Stock Options Strategies",
       "video_id": "jssGJnENU1I",
@@ -75,14 +83,6 @@
       "description": "NEW COURSE COMING SOON - Quantitative Finance https://snu.socratica.com/quantitative-finance ...",
       "published_at": "2025-02-11T01:41:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Fddv4RRWAvo/hqdefault.jpg"
-    },
-    {
-      "title": "Frugal Gifting 🎁 Personal Finance",
-      "video_id": "TBySK4mMrYc",
-      "channel_title": "Socratica",
-      "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
-      "published_at": "2024-11-25T11:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TBySK4mMrYc/hqdefault.jpg"
     }
   ]
 }

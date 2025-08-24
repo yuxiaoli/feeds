@@ -1,80 +1,72 @@
 {
-  "fetched_at": "2025-08-17T00:30:52.365624",
+  "fetched_at": "2025-08-24T00:29:58.219687",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 9,
+  "count": 8,
   "videos": [
     {
-      "title": "News and Community Spotlights | August 15th, 2025",
-      "video_id": "PVF2ud-Q7Xg",
+      "title": "Twinmotion and the Life Cycle of AECO Projects | Unreal Fest Orlando 2025",
+      "video_id": "bWAZly-yTr0",
       "channel_title": "Unreal Engine",
-      "description": "News Indies choosing UE5 ...",
-      "published_at": "2025-08-15T19:50:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PVF2ud-Q7Xg/hqdefault.jpg"
+      "description": "Twinmotion is rapidly becoming a go-to tool for easy 3D visualization in nearly every industry. This talk pays homage to ...",
+      "published_at": "2025-08-23T16:01:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bWAZly-yTr0/hqdefault.jpg"
     },
     {
-      "title": "Mega Stack &#39;O&#39; Jam, Game Jam Kickoff | Inside Unreal",
-      "video_id": "cQGmpCP07sY",
+      "title": "UEFN for Storytellers: Mastering the Conversation Device and NPC Spawner | Unreal Fest Orlando 2025",
+      "video_id": "lgN8TS78IBc",
       "channel_title": "Unreal Engine",
-      "description": "Read the rules & register here: https://itch.io/jam/mega-stack-o-jam We're excited to announce that registration is now open for the ...",
-      "published_at": "2025-08-14T20:07:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cQGmpCP07sY/hqdefault.jpg"
+      "description": "Have a story you're burning to tell but not sure where to start? Do you have the technical mastery, but are looking for the creative ...",
+      "published_at": "2025-08-23T14:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lgN8TS78IBc/hqdefault.jpg"
     },
     {
-      "title": "MetaHuman: Facial Expression Editing | Unreal Fest Orlando 2025",
-      "video_id": "WxQEtO3ndoY",
+      "title": "News and Community Spotlight | August 22nd, 2025",
+      "video_id": "d7kSLq9o7fo",
       "channel_title": "Unreal Engine",
-      "description": "Join this session to find out about MetaHuman for Maya, the brand new Autodesk Maya plugin developed by Epic Games.",
-      "published_at": "2025-08-14T16:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WxQEtO3ndoY/hqdefault.jpg"
+      "description": "News Stack O Bot 2.0: https://www.unrealengine.com/en-US/news/updated-stack-o-bot-for-unreal-engine-5-6-available-now Silly ...",
+      "published_at": "2025-08-22T17:19:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d7kSLq9o7fo/hqdefault.jpg"
     },
     {
-      "title": "Dynamic Destruction in UE5 with the Chaos Destruction System | GDC 2025",
-      "video_id": "wPgd1J1Tf70",
+      "title": "AI in Action: Transforming UE Workflows with AI Tools | Unreal Fest Orlando 2025",
+      "video_id": "BrCipmXR4Ag",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video recorded at GDC 2025 to explore the evolving Chaos Destruction system in Unreal Engine. The Chaos ...",
-      "published_at": "2025-08-12T11:28:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wPgd1J1Tf70/hqdefault.jpg"
+      "description": "Join Luis Placid and Shazzy Gustafson of ICVR for an in-depth look at how publicly available AI tools can drastically accelerate ...",
+      "published_at": "2025-08-22T16:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BrCipmXR4Ag/hqdefault.jpg"
     },
     {
-      "title": "Crash Course for New Unreal Engine Developers | GDC 2025",
-      "video_id": "EPkAJjyu0_M",
+      "title": "TeraCreators: How UEFN Saved Our GameDev Studio | Unreal Fest Orlando 2025",
+      "video_id": "QxCLLNGx-Ug",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video recorded at GDC 2025 for a beginner's guide to development in Unreal Engine. There are a lot of guides to ...",
-      "published_at": "2025-08-12T11:28:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EPkAJjyu0_M/hqdefault.jpg"
+      "description": "Teravision Games has a story to tell—with their game studio on the verge of closing, they immersed themselves in UEFN ...",
+      "published_at": "2025-08-22T14:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QxCLLNGx-Ug/hqdefault.jpg"
     },
     {
-      "title": "Building AAA Content with Unreal Editor for Fortnite (UEFN) | GDC 2025",
-      "video_id": "G4-hUO6Es0s",
+      "title": "Unreal Fest Stockholm Meet the Presenter: Tomislav",
+      "video_id": "GVEm778VEcQ",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video recorded at GDC 2025 and learn how to create AAA-quality content with Unreal Editor for Fortnite (UEFN).",
-      "published_at": "2025-08-12T11:27:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G4-hUO6Es0s/hqdefault.jpg"
+      "description": "Volume 2 of the Technical Content Grimoire is coming to Unreal Fest Stockholm, presented by Tomislav Božić As both a ...",
+      "published_at": "2025-08-21T16:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GVEm778VEcQ/hqdefault.jpg"
     },
     {
-      "title": "Why Build with Unreal Editor for Fortnite (UEFN) | GDC 2025",
-      "video_id": "dF1Q7FDBfGw",
+      "title": "Migrating Unreal Engine Infrastructure and Workflows to Azure | Unreal Fest Orlando 2025",
+      "video_id": "BYAiKIgVNHM",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video recorded at GDC 2025 and discover the advantages of using Unreal Editor for Fortnite (UEFN) to build a game.",
-      "published_at": "2025-08-12T11:27:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dF1Q7FDBfGw/hqdefault.jpg"
+      "description": "This session delves into how The Coalition, the home of the Gears of War franchise, migrated key infrastructure and workflows to ...",
+      "published_at": "2025-08-20T16:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BYAiKIgVNHM/hqdefault.jpg"
     },
     {
-      "title": "Developer Efficiency in Unreal Engine 5.6 | Unreal Fest Orlando 2025",
-      "video_id": "VsrTsvglnkE",
+      "title": "MONGIL: STAR DIVE | Developer Interview | Unreal Engine",
+      "video_id": "bZpJAoibfd0",
       "channel_title": "Unreal Engine",
-      "description": "Watch this session recorded at Unreal Fest Orlando 2025 for a high-level, end-to-end overview of the systems and improvements ...",
-      "published_at": "2025-08-11T14:00:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VsrTsvglnkE/hqdefault.jpg"
-    },
-    {
-      "title": "Odyssey 2D Toolset: Enhancing Storytelling in Unreal Engine | Unreal Fest Orlando 2025",
-      "video_id": "IY3dPU21ErI",
-      "channel_title": "Unreal Engine",
-      "description": "Join us for an insightful session exploring how the Odyssey 2D toolset can revolutionize your creative process in Unreal Engine.",
-      "published_at": "2025-08-10T14:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IY3dPU21ErI/hqdefault.jpg"
+      "description": "Watch this video to hear Netmarble Monster Founder and CEO Ken Kim discuss how his team built upcoming cross-platform ...",
+      "published_at": "2025-08-19T15:29:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bZpJAoibfd0/hqdefault.jpg"
     }
   ]
 }

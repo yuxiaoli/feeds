@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-08-17T00:30:38.459724",
+  "fetched_at": "2025-08-24T00:29:43.851570",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Office Warm-up",
+      "video_id": "_UvAMril2ZY",
+      "channel_title": "Meta",
+      "description": "oakleymeta is ready for action when you are.",
+      "published_at": "2025-08-21T15:26:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_UvAMril2ZY/hqdefault.jpg"
+    },
+    {
+      "title": "Dinner by dad",
+      "video_id": "230tc7-DcqM",
+      "channel_title": "Meta",
+      "description": "POV: When you ask your dad to cook for girls' night but he needs to consult Meta AI first. #Metapartner.",
+      "published_at": "2025-08-20T15:03:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/230tc7-DcqM/hqdefault.jpg"
+    },
     {
       "title": "Meta&#39;s Privacy Conversations: Risk Management and AI With Susan Cooper and Bojana Belamy",
       "video_id": "8FBYm3rcwVI",
@@ -67,22 +83,6 @@
       "description": "Today Mark shared our vision for the future of personal superintelligence for everyone. Read his full letter here: ...",
       "published_at": "2025-07-30T14:23:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZP-oC8Kndig/hqdefault.jpg"
-    },
-    {
-      "title": "POV: You&#39;re stained glass artist @glasup_",
-      "video_id": "5Detkzo3rCg",
-      "channel_title": "Meta",
-      "description": "Stained glass artist @glasup_, specializes in creating unique mirrors and has been using Meta AI glasses to capture his work ...",
-      "published_at": "2025-07-29T14:09:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5Detkzo3rCg/hqdefault.jpg"
-    },
-    {
-      "title": "Mornings with Meta AI",
-      "video_id": "bns7G5cPPUg",
-      "channel_title": "Meta",
-      "description": "Don't sweat it this summer #metapartner.",
-      "published_at": "2025-07-28T14:05:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bns7G5cPPUg/hqdefault.jpg"
     }
   ]
 }
