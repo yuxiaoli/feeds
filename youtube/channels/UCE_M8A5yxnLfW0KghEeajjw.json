@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-24T00:29:59.832151",
+  "fetched_at": "2025-08-31T00:29:05.464483",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Apple Event — September 9",
+      "video_id": "H3KnMyojEQU",
+      "channel_title": "Apple",
+      "description": "Get ready. Awe dropping September 9 at 10 a.m. PT. Click \"Notify Me\" and we'll send you a reminder before showtime.",
+      "published_at": "2025-08-25T17:58:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H3KnMyojEQU/hqdefault_live.jpg"
+    },
     {
       "title": "No Frame Missed | Apple",
       "video_id": "hEalzEnT70k",
@@ -75,14 +83,6 @@
       "description": "See you never. This fall, iOS26 will automatically throw those sketchy unwanted messages into a junk drawer for you. Learn more ...",
       "published_at": "2025-06-10T15:59:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SZJQMYUkRFs/hqdefault.jpg"
-    },
-    {
-      "title": "Take a poll, split the bill in Messages. #Shorts",
-      "video_id": "XdQClBgXjmk",
-      "channel_title": "Apple",
-      "description": "No friendship breakups over here. This fall, you'll be able to take polls in your group chats in Messages and split bills with your ...",
-      "published_at": "2025-06-10T15:51:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XdQClBgXjmk/hqdefault.jpg"
     }
   ]
 }

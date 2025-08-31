@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-08-24T00:29:51.862217",
+  "fetched_at": "2025-08-31T00:28:57.479712",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "The New Model Y Performance | Now in Europe",
+      "video_id": "IiYSO1Xxzl4",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-08-29T17:02:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IiYSO1Xxzl4/hqdefault.jpg"
+    },
+    {
+      "title": "The New Model Y Performance | Now in Europe",
+      "video_id": "_XvHhFjrbn0",
+      "channel_title": "Tesla",
+      "description": "Now available in Europe — Designed to deliver performance that's just as good on your daily drive as it is on the open road ...",
+      "published_at": "2025-08-29T05:49:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_XvHhFjrbn0/hqdefault.jpg"
+    },
+    {
+      "title": "Load it, lock it",
+      "video_id": "gJOsyRSeFlY",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-08-26T20:21:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gJOsyRSeFlY/hqdefault.jpg"
+    },
     {
       "title": "Leave your pet in the car with Dog Mode",
       "video_id": "ehGuGQZYX-U",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2025-08-05T19:28:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-pmtvozO92k/hqdefault.jpg"
-    },
-    {
-      "title": "The snappiest vehicle UI in the game",
-      "video_id": "RFEinYP7EKI",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-08-01T18:30:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RFEinYP7EKI/hqdefault.jpg"
-    },
-    {
-      "title": "“A hands-free experience” @86hands",
-      "video_id": "xO5Ew228Q74",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-07-31T18:54:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xO5Ew228Q74/hqdefault.jpg"
-    },
-    {
-      "title": "New Feature | Light Sync",
-      "video_id": "PFtkLts3G3g",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-07-30T17:54:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PFtkLts3G3g/hqdefault.jpg"
     }
   ]
 }

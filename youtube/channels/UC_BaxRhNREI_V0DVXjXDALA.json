@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2025-08-24T00:30:30.814124",
+  "fetched_at": "2025-08-31T00:29:36.090139",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 1,
+  "count": 2,
   "videos": [
     {
-      "title": "What empty roads were made for #shorts",
-      "video_id": "T31bExZARNI",
+      "title": "The world is our playground #shorts",
+      "video_id": "i1OXI4i-WOs",
       "channel_title": "Porsche",
-      "description": "An empty road = an invitation. @limediany_.",
-      "published_at": "2025-08-21T18:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T31bExZARNI/hqdefault.jpg"
+      "description": "Few things beat a countryside drive.    @autogenics_.",
+      "published_at": "2025-08-28T18:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i1OXI4i-WOs/hqdefault.jpg"
+    },
+    {
+      "title": "Cayenne base camp | Discover the stories off the beaten path​​",
+      "video_id": "va8zpBfGWU0",
+      "channel_title": "Porsche",
+      "description": "The Cayenne is at home where you decide home is. Roads are a suggestion, but getting off the beaten path is encouraged.",
+      "published_at": "2025-08-28T09:03:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/va8zpBfGWU0/hqdefault.jpg"
     }
   ]
 }

@@ -1,48 +1,40 @@
 {
-  "fetched_at": "2025-08-24T00:29:51.041328",
+  "fetched_at": "2025-08-31T00:28:56.649916",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "4 Crucial MISTAKES that are destroying your portfolio PART 4",
-      "video_id": "kd5jREI-rGs",
+      "title": "Learning Python won&#39;t make you a software engineer!! THIS WILL",
+      "video_id": "i3fDNWGHoG0",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-08-22T16:01:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kd5jREI-rGs/hqdefault.jpg"
+      "published_at": "2025-08-29T04:04:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i3fDNWGHoG0/hqdefault.jpg"
     },
     {
-      "title": "4 Crucial MISTAKES that are destroying your portfolio PART 3",
-      "video_id": "4jMkU2PymqY",
+      "title": "Python is Changing – Here’s What’s Coming",
+      "video_id": "jv8IbOnaUPM",
+      "channel_title": "Tech With Tim",
+      "description": "Just like programing - it is evolving, so is Python. The way that we use Python today is drastically different than 5 or 10 years ago.",
+      "published_at": "2025-08-28T12:53:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jv8IbOnaUPM/hqdefault.jpg"
+    },
+    {
+      "title": "THIS Docker Update will change AI forever",
+      "video_id": "ZFFWhwe_pq8",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-08-22T03:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4jMkU2PymqY/hqdefault.jpg"
+      "published_at": "2025-08-27T11:44:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZFFWhwe_pq8/hqdefault.jpg"
     },
     {
-      "title": "4 Crucial MISTAKES that are destroying your portfolio PART 2",
-      "video_id": "6tO9G9NXsnM",
+      "title": "How to MASTER Data Structures and Algorithms PART 3",
+      "video_id": "zhJCbvyGlp4",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-08-21T23:27:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6tO9G9NXsnM/hqdefault.jpg"
-    },
-    {
-      "title": "6 Hours of JavaScript Projects - From Beginner to Advanced",
-      "video_id": "WoNmm4YS8e4",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with Sevalla today - https://sevalla.com/?utm_source=techwithtim&utm_medium=Referral&utm_campaign=youtube ...",
-      "published_at": "2025-08-21T14:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WoNmm4YS8e4/hqdefault.jpg"
-    },
-    {
-      "title": "Lovable FULL Tutorial - For COMPLETE Beginners (No Experience Needed)",
-      "video_id": "YLjopoEnPi8",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with Lovable today: http://lovable.dev/ and use the promo code: TECHTIM20YT (active until September 19, 2025) In ...",
-      "published_at": "2025-08-19T13:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YLjopoEnPi8/hqdefault.jpg"
+      "published_at": "2025-08-27T03:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zhJCbvyGlp4/hqdefault.jpg"
     },
     {
       "title": "How to build an AI server:client in Python PART 2",
@@ -77,12 +69,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
     },
     {
-      "title": "If you&#39;re serious about learning programming you need to be doing THIS",
-      "video_id": "AcMqasZP1Lg",
+      "title": "THIS is why a CS degree won&#39;t get you a coding job",
+      "video_id": "_yNbcn-WCVo",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-06-26T05:15:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AcMqasZP1Lg/hqdefault.jpg"
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-06-12T04:52:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_yNbcn-WCVo/hqdefault.jpg"
+    },
+    {
+      "title": "How to get ahead of 99% of devs in 2025",
+      "video_id": "DJqGKv_q3bA",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-06-09T06:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DJqGKv_q3bA/hqdefault.jpg"
     }
   ]
 }

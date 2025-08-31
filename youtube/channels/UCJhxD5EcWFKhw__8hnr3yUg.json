@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-24T00:30:08.805247",
+  "fetched_at": "2025-08-31T00:29:14.016545",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "京都可是太好逛了，日本最好看的一天！",
+      "video_id": "pz5Ugg7sbFk",
+      "channel_title": "码农高天",
+      "description": "目前为止景色最令人满意的一天，京都是真的很好逛，每个点都很漂亮！清水寺、八坂神社、伏见稻田大社，连马路边上都很好看。",
+      "published_at": "2025-08-24T10:30:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pz5Ugg7sbFk/hqdefault.jpg"
+    },
     {
       "title": "连着吃了两天Omakase！顺便和粉丝看了个富士山",
       "video_id": "XCKHc0r-DQQ",
@@ -75,14 +83,6 @@
       "description": "世界之旅第一站我们来到了韩国！商务舱飞着确实舒服不少，落地了直接去弘大逛一圈！",
       "published_at": "2025-07-21T10:30:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nQqy8cF6X1w/hqdefault.jpg"
-    },
-    {
-      "title": "我才不信你是从微软主动辞职的，你还能去哪儿？",
-      "video_id": "WsZn_u6aHa4",
-      "channel_title": "码农高天",
-      "description": "有的小伙伴很难相信我是主动辞职的，那我们就来更深入地聊一下我为什么选择离开微软，以及我对未来有什么计划！",
-      "published_at": "2025-07-11T10:30:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WsZn_u6aHa4/hqdefault.jpg"
     }
   ]
 }

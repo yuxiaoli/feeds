@@ -1,64 +1,88 @@
 {
-  "fetched_at": "2025-08-24T00:29:53.401014",
+  "fetched_at": "2025-08-31T00:28:59.180518",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 7,
+  "count": 10,
   "videos": [
     {
-      "title": "Open Source Friday: Secure Code Game – Season 3 with Bartosz Gałek &amp; jkcso",
-      "video_id": "yctwWsjqU1M",
+      "title": "Happy 34th birthday to the Linux kernel",
+      "video_id": "e8tN4Li2eNo",
       "channel_title": "GitHub",
-      "description": "Open Source Friday: Secure Code Game Season 3 - Building Safer LLM Applications Join ⁨@alacolombiadev for a deep dive ...",
-      "published_at": "2025-08-23T06:19:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yctwWsjqU1M/hqdefault.jpg"
-    },
-    {
-      "title": "[pt-BR🇧🇷] Open Source Friday Brasil com Jefferson Rodrigues, mantenedor do Midaz",
-      "video_id": "Dl3KidBv390",
-      "channel_title": "GitHub",
-      "description": "Brazilian Stream     No episódio desta semana do Open Source Friday Brasil, recebemos Jefferson Rodrigues, mantenedor do ...",
-      "published_at": "2025-08-23T05:03:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Dl3KidBv390/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursday - let&#39;s hack",
-      "video_id": "0kiYEKqV9DY",
-      "channel_title": "GitHub",
-      "description": "Let's keep building on the project from last week with Copilot Agent Mode and use the playwright MCP server for visual testing.",
-      "published_at": "2025-08-22T07:16:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0kiYEKqV9DY/hqdefault.jpg"
-    },
-    {
-      "title": "How to test nonexistent code with Copilot",
-      "video_id": "MPA-dZBUTUQ",
-      "channel_title": "GitHub",
-      "description": "This demonstration shows how Copilot can generate code based on specific criteria, making it easier to implement features.",
-      "published_at": "2025-08-21T17:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MPA-dZBUTUQ/hqdefault.jpg"
-    },
-    {
-      "title": "Modernizing Legacy: COBOL to Cloud with GitHub Copilot",
-      "video_id": "xWA0xYttWMo",
-      "channel_title": "GitHub",
-      "description": "Join us for a live stream with Julia Kordick, Software Global Black Belt at Microsoft, as she demonstrates how AI-assisted tools like ...",
-      "published_at": "2025-08-21T03:15:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xWA0xYttWMo/hqdefault.jpg"
-    },
-    {
-      "title": "[pt-BR 🇧🇷] Quinta do Patinho - Vamos vibecodar um tema pro VScode com o Copilot?",
-      "video_id": "oWoAP5UUGNw",
-      "channel_title": "GitHub",
-      "description": "[Live stream in portuguese-BRASIL ] Nesta semana vamos soltar a criatividade e construir um tema personalizado para o VS ...",
-      "published_at": "2025-08-18T14:42:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oWoAP5UUGNw/hqdefault_live.jpg"
+      "description": "Happy 34th birthday to the Linux kernel! From a single release by Linus Torvalds to powering our entire cloud infrastructure and ...",
+      "published_at": "2025-08-30T14:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e8tN4Li2eNo/hqdefault.jpg"
     },
     {
       "title": "Open Source Friday with Suricata - Real-Time Threat Detection",
       "video_id": "zTlJqnAns3E",
       "channel_title": "GitHub",
       "description": "Join us live as we dive into Suricata — the powerful open-source IDS/IPS that brings multi-threaded, high-speed network traffic ...",
-      "published_at": "2025-08-01T20:29:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zTlJqnAns3E/hqdefault_live.jpg"
+      "published_at": "2025-08-30T06:08:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zTlJqnAns3E/hqdefault.jpg"
+    },
+    {
+      "title": "[pt-BR] Open Source Friday Brasil com Marcio Junior, mantenedor Tahopen",
+      "video_id": "1QDygIRl3kE",
+      "channel_title": "GitHub",
+      "description": "Brazilian Stream     Hoje no Open Source Friday Brasil, vamos receber Marcio Junior Vieira, com mais de 25 anos de ...",
+      "published_at": "2025-08-30T05:10:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1QDygIRl3kE/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday with Demo Time - A VS Code extension",
+      "video_id": "u0pHfrKdWHA",
+      "channel_title": "GitHub",
+      "description": "Join us for a special edition of Open Source Friday with Elio Struyf! We'll be showcasing VS Code Demo Time—a Visual Studio ...",
+      "published_at": "2025-08-29T16:12:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u0pHfrKdWHA/hqdefault_live.jpg"
+    },
+    {
+      "title": "The Download: Next.js 15.5, new GitHub Actions security, Vite&#39;s big milestone &amp; more",
+      "video_id": "HqqzOZA8Hs0",
+      "channel_title": "GitHub",
+      "description": "This week on The Download, we're covering a huge milestone in the web development world as Vite officially surpasses ...",
+      "published_at": "2025-08-29T14:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HqqzOZA8Hs0/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursday - let&#39;s hack!",
+      "video_id": "sWTXM-DlSI0",
+      "channel_title": "GitHub",
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. Come along ...",
+      "published_at": "2025-08-29T07:23:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sWTXM-DlSI0/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays - Let&#39;s keep building!",
+      "video_id": "OxMAutnbaY0",
+      "channel_title": "GitHub",
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. Come along ...",
+      "published_at": "2025-08-28T23:08:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OxMAutnbaY0/hqdefault.jpg"
+    },
+    {
+      "title": "Managing your enterprise, organization and repos on GitHub",
+      "video_id": "ArHfPM4lnPA",
+      "channel_title": "GitHub",
+      "description": "Learn how to manage your GitHub enterprise with a top-down governance approach. In this video, we explore the powerful ...",
+      "published_at": "2025-08-28T14:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ArHfPM4lnPA/hqdefault.jpg"
+    },
+    {
+      "title": "How to automate code reviews and testing with GitHub Copilot",
+      "video_id": "HDEGFNAUkX8",
+      "channel_title": "GitHub",
+      "description": "The introduction of AI doesn't change the fundamentals of DevOps. Code review and verification are just as important today as ...",
+      "published_at": "2025-08-27T14:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HDEGFNAUkX8/hqdefault.jpg"
+    },
+    {
+      "title": "AI won&#39;t take your job, but THIS might | @SajjaadKhader",
+      "video_id": "7_MaC7CabkM",
+      "channel_title": "GitHub",
+      "description": "The fear isn't that AI will take your job, but that you'll be replaced by someone who has mastered it. In this clip, we discuss why ...",
+      "published_at": "2025-08-27T14:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7_MaC7CabkM/hqdefault.jpg"
     }
   ]
 }

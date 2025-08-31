@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-08-24T00:30:27.807992",
+  "fetched_at": "2025-08-31T00:29:32.880444",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "OpenAI to Z Challenge",
+      "video_id": "0Ka-Je6mIs8",
+      "channel_title": "OpenAI",
+      "description": "10000+ people joined the OpenAI to Z Challenge to explore how AI can push the archaeological frontier in the Amazon.",
+      "published_at": "2025-08-28T19:20:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0Ka-Je6mIs8/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing gpt-realtime in the API",
+      "video_id": "nfBbmtMJhX0",
+      "channel_title": "OpenAI",
+      "description": "Join Brad Lightcap, Peter Bakkum, Beichen Li, Liyu Chen, Julianne Roberson, and Srini Gopalan as they introduce and demo our ...",
+      "published_at": "2025-08-28T17:29:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nfBbmtMJhX0/hqdefault.jpg"
+    },
     {
       "title": "Canva prototypes faster with GPT-5",
       "video_id": "Dz34AXx2qfc",
@@ -67,22 +83,6 @@
       "description": "Five developers—Simon Willison, Claire Vo, Theo Browne, Shawn Wang, and Ben Hylak—are invited to OpenAI, not knowing ...",
       "published_at": "2025-08-07T18:34:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-gXmWYQtv5o/hqdefault.jpg"
-    },
-    {
-      "title": "Coding and Design with GPT-5",
-      "video_id": "tqPQB5sleHY",
-      "channel_title": "OpenAI",
-      "description": "ChatGPT has transformed the way people code, and GPT-5 is our best and most aesthetically intuitive coding model to date.",
-      "published_at": "2025-08-07T18:34:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tqPQB5sleHY/hqdefault.jpg"
-    },
-    {
-      "title": "Coding with GPT-5",
-      "video_id": "PQUcIbSEBCM",
-      "channel_title": "OpenAI",
-      "description": "Greg Brockman sits down with Michael Truell, Cursor Co-Founder and CEO, to chat about GPT-5's coding capabilities.",
-      "published_at": "2025-08-07T18:34:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PQUcIbSEBCM/hqdefault.jpg"
     }
   ]
 }

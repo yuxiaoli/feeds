@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-24T00:30:21.465445",
+  "fetched_at": "2025-08-31T00:29:26.436527",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Episode 1: Coding in a post-genAI world | Programiz After Hours",
+      "video_id": "foiV6ttYTLo",
+      "channel_title": "Programiz",
+      "description": "Will AI replace coding? At Programiz, we believe the answer isn't that simple. That's why we built Code Visualizer — a visual-first ...",
+      "published_at": "2025-08-28T10:15:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/foiV6ttYTLo/hqdefault.jpg"
+    },
     {
       "title": "Learn to think like a Developer | Programiz Projects",
       "video_id": "9PXg2xNrmMg",
@@ -75,14 +83,6 @@
       "description": "\"I watched hours of coding tutorials and still felt lost.\" If that sounds familiar, you're not alone. Most courses teach you to watch, not ...",
       "published_at": "2025-05-07T12:15:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/rczNFVfIcbs/hqdefault.jpg"
-    },
-    {
-      "title": "&quot;I passed my C++ exam with Programiz PRO.” -  Landon | Learner story",
-      "video_id": "cwp0JmX8HoA",
-      "channel_title": "Programiz",
-      "description": "I was lucky to come across Programiz PRO because it instantly changed my experience of learning to code. Programiz PRO has ...",
-      "published_at": "2025-04-30T11:15:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cwp0JmX8HoA/hqdefault.jpg"
     }
   ]
 }

@@ -1,16 +1,56 @@
 {
-  "fetched_at": "2025-08-24T00:30:05.548898",
+  "fetched_at": "2025-08-31T00:29:10.905742",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "【人工智能】AI是如何思考的 | Anthropic可解释性团队最新访谈 | 生物进化 | 概念抽象 | 回路汇聚 | 概念共享 | 幻觉 | 神经科学 | 与人类的思考方式不同 | 20%",
-      "video_id": "9DDWtaEvKy4",
+      "title": "【人工智能】10万亿美元的AI革命 | 红杉资本美国 | 速度将远超以往工业革命 | 专业化将成为核心逻辑 | AI创业公司 | 做大蛋糕 | 巨头吞噬权重 | 五个趋势 | 五个投资方向",
+      "video_id": "Cv4JewJH5uM",
       "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 8月16日，Anthropic发布了最新一期官方油管视频，三位来自可解释性团队的 ...",
-      "published_at": "2025-08-23T09:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9DDWtaEvKy4/hqdefault.jpg"
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 8月28日，红杉美国合伙人康斯坦丁·布勒Konstantine Buhler ，发表了一场题 ...",
+      "published_at": "2025-08-30T09:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cv4JewJH5uM/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】Meta遭遇AI人才大流失 | 天价挖人失效 | MSI | AI团队重组 | 新员工重回OpenAI | 老员工不满 | 为竞争对手培养人才 | 内部组织架构和文化问题",
+      "video_id": "5UWCU9_ojFw",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts Meta在AI团队最近的磨合重组的过程中，至少有8名骨干员工，包括研究 ...",
+      "published_at": "2025-08-29T10:45:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5UWCU9_ojFw/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】如何手搓TPU | 三个月零基础挑战AI推训一体芯片设计 | MLP | 矩阵乘法 | 脉动阵列 | 偏差 | Leaky ReLU | 流水线 | 前向反向传播 | 计算激活梯度",
+      "video_id": "hYrtS0cFaZA",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 今天要给大家讲一个听起来几乎不可能完成的项目，三个月的时间，从零开始 ...",
+      "published_at": "2025-08-28T09:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hYrtS0cFaZA/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】RAG已死，上下文工程永存 | Chroma CEO Jeff Huber | 从炼金术到工程学 | 上下文腐烂 | 开发者体验 | 独特产品哲学 | 上下文质量更重要 | 两阶段检索",
+      "video_id": "L-9_A84twpw",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 上下文内容是越多越好么？AI产品从演示DEMO到生产环境之间，又有着怎样 ...",
+      "published_at": "2025-08-27T09:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L-9_A84twpw/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】详解UE8M0 FP8 | DeepSeek为何一句话让寒武纪暴涨千亿市值 | 浮点数 | 量化 | MX | 缩放因子 | Blackwell | 狂欢后的冷静 | 渐进式演进",
+      "video_id": "zTdUzh-KVbE",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 最近，国产算力芯片领域有个词火了，那就是UE8M0 FP8。火爆的原因， ...",
+      "published_at": "2025-08-26T09:01:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zTdUzh-KVbE/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】从不被认可走向行业突破 | 吴恩达回忆谷歌经历 | X实验室 | 规模决定性能 | 单一学习算法 | Larry Page | Jeff Dean | Coursera | AI Fund",
+      "video_id": "ql7qed1r7nU",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 8月8日，吴恩达接受了The Moonshot播客的专访，围绕吴恩达的学术生涯 ...",
+      "published_at": "2025-08-24T09:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ql7qed1r7nU/hqdefault.jpg"
     },
     {
       "title": "【人工智能】开发者的奥德赛时代 | Github CEO Thomas Dohmke | 年底离职 | Github并入微软 | 新阶层分化 | AI完成90%代码 | Agent | ASI",
@@ -19,22 +59,6 @@
       "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 在最新一期的Decoder节目中，托马斯·多姆克与主持人亚历克斯·希思（Alex ...",
       "published_at": "2025-08-22T09:00:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Qn5eCavq68I/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】AI会让大脑退化么？ | MIT研究报告 | 平均下降47% | Terry Sejnowski &amp; Daniel Amen | 认知的假动作 | 什么人容易受影响 | 如何锻炼大脑",
-      "video_id": "vDFZjEuKDfY",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts MIT最近的一项研究得出了一个令人震惊的结果，那就是使用ChatGPT进行 ...",
-      "published_at": "2025-08-21T09:01:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vDFZjEuKDfY/hqdefault.jpg"
-    },
-    {
-      "title": "【Tesla】马斯克解散Dojo超算团队 | 与AI5/AI6功能重叠 | 老将Peter Bannon离职 | 长期技术瓶颈 | HW系列芯片 | 财务压力 | Cortex集群 | 权力重组",
-      "video_id": "yAZg4TdIq14",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 就在几天前，伊隆·马斯克（Elon Musk）亲自在社交媒体上证实了一个传闻， ...",
-      "published_at": "2025-08-20T09:01:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yAZg4TdIq14/hqdefault.jpg"
     },
     {
       "title": "【人工智能】推理的本质 | Denny Zhou斯坦福讲座 | 什么是推理 | 思考的必要性 | 思维链提示 | 贪婪解码 | 置信度 | step-by-step | SFT | 验证器",
@@ -59,30 +83,6 @@
       "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 今天我们要深入探讨一个足以改写现代生物学发展轨迹的故事，这个故事的 ...",
       "published_at": "2025-07-21T09:01:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/odRUO7a87-U/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】AI帝国的背后真相 | Karen Hao |《华尔街日报》记者 | 人工智能概念被滥用 | 电力与环境 | AGI的集体狂欢 | OpenAI的转向 | AI底层劳工 | 技术神话反思",
-      "video_id": "yzVmTauyj_o",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 今天，我们将回顾《华尔街日报》科技记者郝珂灵（Karen Hao）在Novara ...",
-      "published_at": "2025-07-14T23:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yzVmTauyj_o/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】Meta的ASI战略能否如愿 | 渐进主义 | 技术落后 | 人才争夺 | 算力建设 | Hyperion | Llama4技术路线错误 | 大漂亮法案 | 内部隐忧浮现 | 恐惧文化",
-      "video_id": "VsASGK7lu7Q",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 在科技产业的版图上，从来不乏巨头之间的博弈与转型，但像Meta这样 ...",
-      "published_at": "2025-07-13T09:00:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VsASGK7lu7Q/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】Grok 4发布 | xAI发布会回顾 | 号称世界上最聪明的AI | 全领域博士水平 | 多个基准霸榜 | 智能爆炸时代 | 多Agent版本Grok Heavy | 代码和多模态短板",
-      "video_id": "PPbvLGgkn44",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 7月10日，埃隆·马斯克旗下的xAI公司举办了Grok 4发布会，正式推出新一代 ...",
-      "published_at": "2025-07-12T09:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PPbvLGgkn44/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-24T00:29:42.296635",
+  "fetched_at": "2025-08-31T00:28:47.864496",
   "channel_id": "UC-Md_S_A6VcSJiAhStZCKbw",
   "channel_title": "Jordi Koalitic",
   "count": 10,
   "videos": [
+    {
+      "title": "Problems 0",
+      "video_id": "AgrxtLWwmz4",
+      "channel_title": "Jordi Koalitic",
+      "description": "",
+      "published_at": "2025-08-28T12:16:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AgrxtLWwmz4/hqdefault.jpg"
+    },
     {
       "title": "Magic door ✨  shot w @xiaomi #xiaomi15ultra",
       "video_id": "oTXVl-YtWK4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-06-24T12:49:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/a7eCD07Vyk0/hqdefault.jpg"
-    },
-    {
-      "title": "Light Impulse ✨ 📸 1, 2, 3 or 4 —which one? 👇#CUPRApulse #JordiKoalitic #Photography #Creativity",
-      "video_id": "M5E4V7zmXXY",
-      "channel_title": "Jordi Koalitic",
-      "description": "",
-      "published_at": "2025-06-17T12:49:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M5E4V7zmXXY/hqdefault.jpg"
     }
   ]
 }

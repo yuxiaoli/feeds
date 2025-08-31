@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-24T00:30:41.152679",
+  "fetched_at": "2025-08-31T00:29:46.461889",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Nova Reusable Rocket Recovery",
+      "video_id": "CbJMqD_6DHU",
+      "channel_title": "Hazegrayart",
+      "description": "Nova was a series of NASA's rocket designs that were proposed both before and after the Saturn V rocket used in the Apollo ...",
+      "published_at": "2025-08-24T01:25:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CbJMqD_6DHU/hqdefault.jpg"
+    },
     {
       "title": "1960&quot;s Nova Post-Saturn  Rocket Launch",
       "video_id": "TBMJDslNXgo",
@@ -75,14 +83,6 @@
       "description": "The Kliper spaceplane was a proposed Russian reusable spacecraft intended for crewed missions to low Earth orbit (LEO), the ...",
       "published_at": "2025-07-15T16:35:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PxLXfht-qyo/hqdefault.jpg"
-    },
-    {
-      "title": "Duel C5 Galaxy Carrier Landing",
-      "video_id": "BoYNf2BKIN0",
-      "channel_title": "Hazegrayart",
-      "description": "The Conroy Virtus Designed by John M. Conroy of the Turbo-Three Corporation incorporate a pair of Boeing B-52 Stratofortress ...",
-      "published_at": "2025-07-12T03:57:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BoYNf2BKIN0/hqdefault.jpg"
     }
   ]
 }

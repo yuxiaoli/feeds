@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-08-24T00:30:34.821038",
+  "fetched_at": "2025-08-31T00:29:40.162749",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "New course with Neo4j! Enroll in Agentic Knowledge Graph Construction",
+      "video_id": "pG5xMfkeMtg",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4lKS3M2 Learn to automate the construction of knowledge graphs using agents in Agentic Knowledge ...",
+      "published_at": "2025-08-27T13:48:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pG5xMfkeMtg/hqdefault.jpg"
+    },
+    {
+      "title": "Buildathon - From Zero to Product in a Day",
+      "video_id": "Brz7GaUPEDw",
+      "channel_title": "DeepLearningAI",
+      "description": "Hosted by @AIFundVentureStudio and DeepLearning.AI, the Buildathon is a multi-stage competition that challenges participants ...",
+      "published_at": "2025-08-17T03:39:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Brz7GaUPEDw/hqdefault.jpg"
+    },
     {
       "title": "Build GenAI app prototypes in days instead of months! Join our new course",
       "video_id": "1km00uTv1aA",
@@ -67,22 +83,6 @@
       "description": "Learn more: https://bit.ly/43PCo8s Introducing Building with Llama 4, a short course, created in collaboration with Meta and taught ...",
       "published_at": "2025-06-18T14:03:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/86OuivQ-q58/hqdefault.jpg"
-    },
-    {
-      "title": "New course! Orchestrating Workflows for GenAI Applications",
-      "video_id": "WvQTkMiOrxo",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/45BbJ0D When building generative AI applications, it's common to start in a Jupyter Notebook or script, ...",
-      "published_at": "2025-06-11T14:22:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WvQTkMiOrxo/hqdefault.jpg"
-    },
-    {
-      "title": "New course with Databricks! DSPy: Build and Optimize Agentic Apps",
-      "video_id": "f5ym8e1pwHA",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4mIpgcJ As generative AI applications grow more complex, spanning reasoning, retrieval, and tool use, ...",
-      "published_at": "2025-06-04T14:09:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f5ym8e1pwHA/hqdefault.jpg"
     }
   ]
 }
