@@ -1,25 +1,9 @@
 {
-  "fetched_at": "2025-08-31T00:28:51.094358",
+  "fetched_at": "2025-09-07T00:28:08.099168",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
-    {
-      "title": "Microsoft Circular Centers: The Path to Zero Waste at Scale",
-      "video_id": "JOVZsuSlxq0",
-      "channel_title": "Microsoft Azure",
-      "description": "Microsoft is transforming its cloud supply chain through Circular Centers—innovative hubs designed to reuse and recycle data ...",
-      "published_at": "2025-08-28T12:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JOVZsuSlxq0/hqdefault.jpg"
-    },
-    {
-      "title": "Azure AI Foundry Models | Powering the Future of AI",
-      "video_id": "GsnBm9nK66w",
-      "channel_title": "Microsoft Azure",
-      "description": "Experience the momentum behind Azure AI Foundry Models—a unified catalog of cutting-edge AI models built for enterprise scale ...",
-      "published_at": "2025-08-25T17:54:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GsnBm9nK66w/hqdefault.jpg"
-    },
     {
       "title": "Introducing Microsoft Azure Face Liveness",
       "video_id": "3ysxiX49oxw",
@@ -83,6 +67,22 @@
       "description": "Catch up on the highlights from Satya Nadella's Microsoft Build keynote, tailored for software companies. Read about the latest ...",
       "published_at": "2025-05-29T14:01:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/f7POcnSsGzY/hqdefault.jpg"
+    },
+    {
+      "title": "Software development is an act of empathy | Kilimo",
+      "video_id": "c7R6auLG6fg",
+      "channel_title": "Microsoft Azure",
+      "description": "Water is fundamental to our existence, but only a tiny fraction of fresh water on Earth is available to sustain life. How can we ...",
+      "published_at": "2025-05-28T16:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c7R6auLG6fg/hqdefault.jpg"
+    },
+    {
+      "title": "Demo: Azure AI Foundry SDK",
+      "video_id": "mOs3-4S1_Ys",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover the latest capabilities offered in the unified Azure AI Foundry SDK. Design, customize, and manage AI applications and ...",
+      "published_at": "2025-05-19T16:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mOs3-4S1_Ys/hqdefault.jpg"
     }
   ]
 }

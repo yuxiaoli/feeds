@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2025-08-31T00:29:17.110282",
+  "fetched_at": "2025-09-07T00:28:34.745339",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Llama Stack: Kubernetes for RAG &amp; AI Agents in Generative AI",
-      "video_id": "egJAqyS9CB8",
+      "title": "Google Antitrust, Anthropic&#39;s $183B leap and are we in the AI winter?",
+      "video_id": "Qw8GOzs3Z0g",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-08-30T11:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/egJAqyS9CB8/hqdefault.jpg"
+      "description": "Subscribe for AI updates → https://ibm.biz/BdeerG Are browsers the right entry point for AI tools? In episode 71 of Mixture of ...",
+      "published_at": "2025-09-05T10:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qw8GOzs3Z0g/hqdefault.jpg"
     },
     {
-      "title": "Monster prompt, OpenAI’s business play, nano-banana and US Open experimentations",
-      "video_id": "zw0Ymg_DoEs",
+      "title": "Are AI Agent Identities Really Unique? AI&#39;s Role in Digital Workflows",
+      "video_id": "D9fp2OVeAIo",
       "channel_title": "IBM Technology",
-      "description": "Subscribe for AI updates → https://ibm.biz/BdeKV4 Would you trust a 100-page prompt to do your taxes? In episode 70 of Mixture ...",
-      "published_at": "2025-08-29T10:01:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zw0Ymg_DoEs/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-09-04T11:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D9fp2OVeAIo/hqdefault.jpg"
     },
     {
-      "title": "What is Data Integration? Unlocking AI with ETL, Streaming &amp; Observability",
-      "video_id": "hPJXcu5ggMI",
+      "title": "Security &amp; AI Governance: Reducing Risks in AI Systems",
+      "video_id": "4QXtObc61Lw",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Data Management Professional? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-08-28T11:01:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hPJXcu5ggMI/hqdefault.jpg"
+      "description": "Ready to become a certified Guardium Data Protection v12.x Administrator - Professional? Register now and use code ...",
+      "published_at": "2025-09-03T11:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4QXtObc61Lw/hqdefault.jpg"
     },
     {
-      "title": "AI Agents &amp; LLMs: Real-Time IT Issue Prediction &amp; Prevention",
-      "video_id": "eQN0mNC37UU",
+      "title": "7 AI Terms You Need to Know: Agents, RAG, ASI &amp; More",
+      "video_id": "VSFuqMh4hus",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Proactively Solving IT Issues here → https://ibm.biz/BdeSeF Learn how AI agents can improve DevOps ...",
-      "published_at": "2025-08-26T11:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eQN0mNC37UU/hqdefault.jpg"
+      "description": "Sign up to attend IBM TechXchange 2025 in Orlando → https://ibm.biz/BdeYDe Learn more about Artificial Intelligence (AI) here ...",
+      "published_at": "2025-09-01T11:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VSFuqMh4hus/hqdefault.jpg"
     },
     {
       "title": "Anthropic&#39;s AI Welfare Dilemma",
@@ -43,22 +43,6 @@
       "description": "Is the term 'welfare' misleading? Dive into Anthropic's AI welfare concept, and analyze experts' concerns over the term 'welfare' ...",
       "published_at": "2025-08-25T16:00:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WFJi_hs7AQI/hqdefault.jpg"
-    },
-    {
-      "title": "AI Agents: Transforming Anomaly Detection &amp; Resolution",
-      "video_id": "5Igexz7kzMo",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Anomaly Resolution here → https://ibm.biz/BdeSeB Learn how AI agents can improve DevOps processes ...",
-      "published_at": "2025-08-25T11:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5Igexz7kzMo/hqdefault.jpg"
-    },
-    {
-      "title": "Your Mission Is GO / IBM TechXchange 2025",
-      "video_id": "KEqd1TEH0oQ",
-      "channel_title": "IBM Technology",
-      "description": "Sign up to attend IBM TechXchange 2025 in Orlando → https://ibm.biz/Bdej4m It all starts with a single word: GO.",
-      "published_at": "2025-08-22T18:10:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KEqd1TEH0oQ/hqdefault.jpg"
     },
     {
       "title": "Explainable AI: Demystifying AI Agents Decision-Making",
@@ -83,6 +67,22 @@
       "description": "Ready to become a certified watsonx Governance Lifecycle Advisor? Register now and use code IBMTechYT20 for 20% off of ...",
       "published_at": "2025-07-23T11:00:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/446x7GqXdaA/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT Agents",
+      "video_id": "1ax9rz3kSK8",
+      "channel_title": "IBM Technology",
+      "description": "Gabe Goodheart explains when ChatGPT Agents speed things up, and when they might hold you back. #chatgpt #aiagents ...",
+      "published_at": "2025-07-22T19:46:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1ax9rz3kSK8/hqdefault.jpg"
+    },
+    {
+      "title": "AI Agents for Real-Time Lead Generation: Tools, Frameworks, &amp; LLMs",
+      "video_id": "T_c48yxTNuM",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Specialist - Rhapsody for Systems? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-07-17T11:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/T_c48yxTNuM/hqdefault.jpg"
     }
   ]
 }

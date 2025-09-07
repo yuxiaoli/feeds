@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-31T00:28:57.479712",
+  "fetched_at": "2025-09-07T00:28:14.605672",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Sustainable Abundance | Master Plan Part IV",
+      "video_id": "AnunTXBwOlk",
+      "channel_title": "Tesla",
+      "description": "Master Plan Part IV – https://x.com/Tesla/status/1962591324022153607 Since Tesla's founding, each iteration of our master plan ...",
+      "published_at": "2025-09-02T19:29:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AnunTXBwOlk/hqdefault.jpg"
+    },
     {
       "title": "The New Model Y Performance | Now in Europe",
       "video_id": "IiYSO1Xxzl4",
@@ -75,14 +83,6 @@
       "description": "IG @calmotivee.",
       "published_at": "2025-08-08T20:41:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HrTcH_07kHg/hqdefault.jpg"
-    },
-    {
-      "title": "Dog Mode is for Cats too",
-      "video_id": "-pmtvozO92k",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-08-05T19:28:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-pmtvozO92k/hqdefault.jpg"
     }
   ]
 }

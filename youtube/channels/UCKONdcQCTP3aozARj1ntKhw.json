@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-08-31T00:29:15.566430",
+  "fetched_at": "2025-09-07T00:28:33.166379",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "10 Coding Features (you should know) in Warp",
+      "video_id": "oeonZ-jtzhA",
+      "channel_title": "Warp",
+      "description": "Try Warp now for FREE https://www.warp.dev Warp Code is the best way to quickly iterate with agents: prompt, review, edit, and ...",
+      "published_at": "2025-09-05T22:40:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oeonZ-jtzhA/hqdefault.jpg"
+    },
+    {
+      "title": "Master Warp&#39;s Code Review Panel",
+      "video_id": "4JlN0rvoZA8",
+      "channel_title": "Warp",
+      "description": "Try Warp now for FREE https://www.warp.dev Warp Code is the best way to quickly iterate with agents: prompt, review, edit, and ...",
+      "published_at": "2025-09-05T22:39:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4JlN0rvoZA8/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing Warp Code | The fastest way from prompt to production",
+      "video_id": "n3jFHfIvyf8",
+      "channel_title": "Warp",
+      "description": "Try Warp now for FREE https://www.warp.dev Warp Code is the best way to quickly iterate with agents: prompt, review, edit, and ...",
+      "published_at": "2025-09-03T15:16:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/n3jFHfIvyf8/hqdefault.jpg"
+    },
+    {
+      "title": "Welcome to Code Country | Introducing Warp Code",
+      "video_id": "9jKOVAa1KAo",
+      "channel_title": "Warp",
+      "description": "A partner you can trust, from prompt to production.",
+      "published_at": "2025-09-03T15:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9jKOVAa1KAo/hqdefault.jpg"
+    },
     {
       "title": "GPT-5 x Warp: Building the agentic future",
       "video_id": "pRIj3x7AkM0",
@@ -51,38 +83,6 @@
       "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
       "published_at": "2025-08-20T18:14:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_Pc7bL0zAoM/hqdefault.jpg"
-    },
-    {
-      "title": "Master Warp&#39;s Input",
-      "video_id": "4c05OEqzQIA",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-08-19T18:56:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4c05OEqzQIA/hqdefault.jpg"
-    },
-    {
-      "title": "Trigger Reusable Actions with Saved Prompts",
-      "video_id": "pE15zjJmB4E",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-08-19T18:56:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pE15zjJmB4E/hqdefault.jpg"
-    },
-    {
-      "title": "Customize Warp",
-      "video_id": "fzb1JcZ0fFA",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-08-19T18:55:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fzb1JcZ0fFA/hqdefault.jpg"
-    },
-    {
-      "title": "Write Postgres Command with AI Prompts",
-      "video_id": "guXQSMq_Yss",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-08-19T18:54:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/guXQSMq_Yss/hqdefault.jpg"
     }
   ]
 }

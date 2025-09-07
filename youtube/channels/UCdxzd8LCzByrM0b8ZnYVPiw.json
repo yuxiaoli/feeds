@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-08-31T00:29:42.547499",
+  "fetched_at": "2025-09-07T00:29:00.138405",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Bang &amp; Olufsen | Charles Leclerc",
+      "video_id": "OZdTBH_IRkY",
+      "channel_title": "Bang & Olufsen",
+      "description": "Where speed rests and sound takes over. #BangOlufsen.",
+      "published_at": "2025-09-02T13:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OZdTBH_IRkY/hqdefault.jpg"
+    },
+    {
+      "title": "Bang &amp; Olufsen | Charles Leclerc",
+      "video_id": "q9xq3Xyr540",
+      "channel_title": "Bang & Olufsen",
+      "description": "Where speed rests and sound takes over. #BangOlufsen.",
+      "published_at": "2025-09-02T13:01:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/q9xq3Xyr540/hqdefault.jpg"
+    },
     {
       "title": "Sound Travels",
       "video_id": "PexwryD0qp8",
@@ -67,22 +83,6 @@
       "description": "Your morning routine never sounded this clean. Wake up to Beosound A1 3rd Gen. Explore: ...",
       "published_at": "2025-06-24T05:00:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Q3A-9Rbe7sA/hqdefault.jpg"
-    },
-    {
-      "title": "A shade for every dad  Happy Fathers Day  #BangOlufsenAtelier #BangOlufsen",
-      "video_id": "cYKpEeU_0Ug",
-      "channel_title": "Bang & Olufsen",
-      "description": "",
-      "published_at": "2025-06-15T08:11:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cYKpEeU_0Ug/hqdefault.jpg"
-    },
-    {
-      "title": "It&#39;s about time | Beosystem 3000c",
-      "video_id": "_XlfnUt0Qg4",
-      "channel_title": "Bang & Olufsen",
-      "description": "Even when there's nothing playing, it speaks volumes. Hear every detail with Beosystem 3000c. Explore: ...",
-      "published_at": "2025-06-05T10:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_XlfnUt0Qg4/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,81 @@
 {
-  "fetched_at": "2025-08-31T00:29:32.880444",
+  "fetched_at": "2025-09-07T00:28:50.515232",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Lowe’s gets answers faster with GPT-5",
+      "video_id": "2TK9tFZoBRg",
+      "channel_title": "OpenAI",
+      "description": "Lowe's has built their AI strategy around three pillars: \"how we shop\", \"how we sell\", and \"how we work\". GPT-5 can help all three ...",
+      "published_at": "2025-09-04T15:47:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2TK9tFZoBRg/hqdefault.jpg"
+    },
+    {
+      "title": "GPT-5 reshapes how teams work at Moderna",
+      "video_id": "r84e46MDMdc",
+      "channel_title": "OpenAI",
+      "description": "At Moderna, scientists who have never written code are generating algorithms in minutes in plain English using GPT-5. In this ...",
+      "published_at": "2025-09-03T15:01:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r84e46MDMdc/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: GPT-5",
+      "video_id": "ITMouQ_EuXI",
+      "channel_title": "OpenAI",
+      "description": "GPT-5 is OpenAI's most steerable reasoning model yet. This Build Hour walks through its new capabilities, how to use it in the ...",
+      "published_at": "2025-09-03T00:22:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ITMouQ_EuXI/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: Built-In Tools",
+      "video_id": "8St8elOrRPY",
+      "channel_title": "OpenAI",
+      "description": "Built-in tools let you extend models out of the box without writing custom functions. This Build Hour shows you how to use web ...",
+      "published_at": "2025-09-03T00:22:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8St8elOrRPY/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: Agentic Tool Calling",
+      "video_id": "7E-qdsVEoB8",
+      "channel_title": "OpenAI",
+      "description": "In 2025, agents don't just think — they run code, call tools, and complete tasks. This Build Hour is a hands-on walkthrough of how ...",
+      "published_at": "2025-09-03T00:22:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7E-qdsVEoB8/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: Reinforcement Fine-Tuning",
+      "video_id": "YWLOo_fc5oA",
+      "channel_title": "OpenAI",
+      "description": "Reinforcement fine-tuning (RFT) lets you improve how models reason by training with graders instead of large labeled datasets.",
+      "published_at": "2025-09-03T00:22:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YWLOo_fc5oA/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: Voice Agents",
+      "video_id": "rpj1m0wYs8M",
+      "channel_title": "OpenAI",
+      "description": "Voice agents don't just transcribe anymore — they think, talk, and call tools in real time. This Build Hour demos speech-to-speech ...",
+      "published_at": "2025-09-03T00:22:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rpj1m0wYs8M/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: Image Gen",
+      "video_id": "8kM5aDD5gLI",
+      "channel_title": "OpenAI",
+      "description": "Over 130M people created images with Image Gen in its first week inside ChatGPT. Now, with Image Gen in the API, developers ...",
+      "published_at": "2025-09-03T00:22:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8kM5aDD5gLI/hqdefault.jpg"
+    },
+    {
+      "title": "Bain accelerates client value with GPT-5",
+      "video_id": "Iet5eRirzlY",
+      "channel_title": "OpenAI",
+      "description": "Bain & Company has embedded GPTs across its business, with dozens of proprietary applications and nearly 25000 custom ...",
+      "published_at": "2025-09-02T16:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Iet5eRirzlY/hqdefault.jpg"
+    },
     {
       "title": "OpenAI to Z Challenge",
       "video_id": "0Ka-Je6mIs8",
@@ -11,78 +83,6 @@
       "description": "10000+ people joined the OpenAI to Z Challenge to explore how AI can push the archaeological frontier in the Amazon.",
       "published_at": "2025-08-28T19:20:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0Ka-Je6mIs8/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing gpt-realtime in the API",
-      "video_id": "nfBbmtMJhX0",
-      "channel_title": "OpenAI",
-      "description": "Join Brad Lightcap, Peter Bakkum, Beichen Li, Liyu Chen, Julianne Roberson, and Srini Gopalan as they introduce and demo our ...",
-      "published_at": "2025-08-28T17:29:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nfBbmtMJhX0/hqdefault.jpg"
-    },
-    {
-      "title": "Canva prototypes faster with GPT-5",
-      "video_id": "Dz34AXx2qfc",
-      "channel_title": "OpenAI",
-      "description": "Canva has always used AI to make design more accessible. CJ Jones, Canva's Global Head of Design, GenAI, is using GPT-5 to ...",
-      "published_at": "2025-08-20T21:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Dz34AXx2qfc/hqdefault.jpg"
-    },
-    {
-      "title": "Uber uses GPT-5 to balance speed and quality",
-      "video_id": "L--pCNSt3F4",
-      "channel_title": "OpenAI",
-      "description": "Uber's early explorations with GPT-5 have shown the potential to deliver richer responses that feel more natural and helpful.",
-      "published_at": "2025-08-19T17:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L--pCNSt3F4/hqdefault.jpg"
-    },
-    {
-      "title": "AGI progress, surprising breakthroughs, and the road ahead — the OpenAI Podcast Ep. 5",
-      "video_id": "yBzStBK6Z8c",
-      "channel_title": "OpenAI",
-      "description": "How close are we to automating scientific discovery? What do AI competition wins really tell us about progress toward AGI?",
-      "published_at": "2025-08-15T16:01:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yBzStBK6Z8c/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing GPT-5",
-      "video_id": "boJG84Jcf-4",
-      "channel_title": "OpenAI",
-      "description": "Introducing GPT-5, our best AI system yet! GPT-5 features state-of-the-art performance across coding, math, writing assistance, ...",
-      "published_at": "2025-08-08T05:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/boJG84Jcf-4/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing GPT-5",
-      "video_id": "0Uu_VJeVVfo",
-      "channel_title": "OpenAI",
-      "description": "Sam Altman, Greg Brockman, Sebastien Bubeck, Mark Chen, Yann Dubois, Brian Fioca, Adi Ganesh, Oliver Godement, Saachi ...",
-      "published_at": "2025-08-07T18:36:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0Uu_VJeVVfo/hqdefault.jpg"
-    },
-    {
-      "title": "GPT-5 for Scientific Discovery",
-      "video_id": "mr-Z2nPLPAU",
-      "channel_title": "OpenAI",
-      "description": "Olivier Godement Head of Platform Product, and Amgen's SVP of AI & Data Sean Bruich sit down to discuss how GPT-5 helps ...",
-      "published_at": "2025-08-07T18:34:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mr-Z2nPLPAU/hqdefault.jpg"
-    },
-    {
-      "title": "Empowering a Medical Researcher with GPT-5",
-      "video_id": "J_IvPcrTtdo",
-      "channel_title": "OpenAI",
-      "description": "GPT-5 is our most intelligent model to date, capable of generating novel hypotheses, saving medical researchers time and ...",
-      "published_at": "2025-08-07T18:34:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J_IvPcrTtdo/hqdefault.jpg"
-    },
-    {
-      "title": "Surprising developers with GPT-5",
-      "video_id": "-gXmWYQtv5o",
-      "channel_title": "OpenAI",
-      "description": "Five developers—Simon Willison, Claire Vo, Theo Browne, Shawn Wang, and Ben Hylak—are invited to OpenAI, not knowing ...",
-      "published_at": "2025-08-07T18:34:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-gXmWYQtv5o/hqdefault.jpg"
     }
   ]
 }

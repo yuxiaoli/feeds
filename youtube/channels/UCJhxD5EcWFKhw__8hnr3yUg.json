@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-31T00:29:14.016545",
+  "fetched_at": "2025-09-07T00:28:31.549581",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "京都第二天，金阁寺加岚山，吃的也不错哈！",
+      "video_id": "ppQ4u-bPbRI",
+      "channel_title": "码农高天",
+      "description": "京都又玩了一天，去了金阁寺和岚山。今天吃的这两顿饭都很不错！",
+      "published_at": "2025-09-06T03:30:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ppQ4u-bPbRI/hqdefault.jpg"
+    },
     {
       "title": "京都可是太好逛了，日本最好看的一天！",
       "video_id": "pz5Ugg7sbFk",
@@ -75,14 +83,6 @@
       "description": "今天我们来到了汝矣岛，KBS on还蛮有趣的，逛了逛街，然后和Python Core Dev，SC成员Donghee Na吃了个饭！韩国local的咖啡 ...",
       "published_at": "2025-07-22T10:30:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1FHFAraBeOo/hqdefault.jpg"
-    },
-    {
-      "title": "【辞职环游世界】商务舱躺飞竟然落地就能开始玩？",
-      "video_id": "nQqy8cF6X1w",
-      "channel_title": "码农高天",
-      "description": "世界之旅第一站我们来到了韩国！商务舱飞着确实舒服不少，落地了直接去弘大逛一圈！",
-      "published_at": "2025-07-21T10:30:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nQqy8cF6X1w/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-08-31T00:28:49.476748",
+  "fetched_at": "2025-09-07T00:28:06.532900",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Keeping it Professional",
+      "video_id": "XdbNF08Ogjc",
+      "channel_title": "Meta",
+      "description": "we're fancy, deal with it.",
+      "published_at": "2025-09-05T14:30:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XdbNF08Ogjc/hqdefault.jpg"
+    },
+    {
+      "title": "Manners Maketh Meta",
+      "video_id": "tX6IEXuYQ6k",
+      "channel_title": "Meta",
+      "description": "In case you were confused.",
+      "published_at": "2025-09-03T14:01:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tX6IEXuYQ6k/hqdefault.jpg"
+    },
+    {
+      "title": "Restyle&#39;s a Snap",
+      "video_id": "vhp0o6-ZmDY",
+      "channel_title": "Meta",
+      "description": "Dan can't stop throwing fits with @meta.ai video edits.",
+      "published_at": "2025-09-01T14:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vhp0o6-ZmDY/hqdefault.jpg"
+    },
     {
       "title": "He &quot;fixed&quot; Ray-Ban Metas 👀 via @VelvetAlfredo",
       "video_id": "6S9BokHGFFs",
@@ -59,30 +83,6 @@
       "description": "bon appetite from your matre'd (or Meta-d)",
       "published_at": "2025-08-11T14:00:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5Uvs_x7Lnu4/hqdefault.jpg"
-    },
-    {
-      "title": "A Different Perspective",
-      "video_id": "uh2I4JPo6Vw",
-      "channel_title": "Meta",
-      "description": "we like to think big.",
-      "published_at": "2025-08-08T14:47:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uh2I4JPo6Vw/hqdefault.jpg"
-    },
-    {
-      "title": "jet anywhere, courtesy of @meta.ai",
-      "video_id": "4LllLe0OWnM",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-08-01T18:48:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4LllLe0OWnM/hqdefault.jpg"
-    },
-    {
-      "title": "Everyone&#39;s Favorite Coworker",
-      "video_id": "JmeGJteH0d8",
-      "channel_title": "Meta",
-      "description": "they're all just jealous.",
-      "published_at": "2025-07-31T14:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JmeGJteH0d8/hqdefault.jpg"
     }
   ]
 }

@@ -1,27 +1,19 @@
 {
-  "fetched_at": "2025-08-31T00:29:10.149565",
+  "fetched_at": "2025-09-07T00:28:27.492220",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "Inside the world&#39;s largest private hackathon: Microsoft Global Hackathon",
-      "video_id": "3dJ0lRRHF10",
+      "title": "Microsoft commitments empower teachers, students, and job seekers through AI skilling and learning",
+      "video_id": "EdFVPRBTzH4",
       "channel_title": "Microsoft",
-      "description": "The Microsoft Global Hackathon is a company-wide, multi-day, global event produced by The Microsoft Garage that brings ...",
-      "published_at": "2025-08-29T21:58:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3dJ0lRRHF10/hqdefault.jpg"
+      "description": "At the White House's AI Education Task Force meeting, Microsoft Chairman and CEO Satya Nadella announced a sweeping set of ...",
+      "published_at": "2025-09-04T17:59:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EdFVPRBTzH4/hqdefault.jpg"
     },
     {
-      "title": "Media Briefing August 26th",
-      "video_id": "T6tl7KoIVgA",
-      "channel_title": "Microsoft",
-      "description": "Brad Smith briefs media on the recent demonstrations on Microsoft's Redmond campus. Subscribe to Microsoft on YouTube here: ...",
-      "published_at": "2025-08-26T23:34:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T6tl7KoIVgA/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft and Atom Computing&#39;s quantum breakthrough",
+      "title": "How Microsoft and Atom Computing are co-designing the future of quantum computing",
       "video_id": "hl0HWJ77otE",
       "channel_title": "Microsoft",
       "description": "Microsoft and Atom Computing are teaming up to make quantum computing more powerful and practical. Together, they have ...",
@@ -83,6 +75,14 @@
       "description": "0:00 Intro – Michele Elam 1:00 Early life, pathway into tech and AI 11:06 The engineering mindset 17:04 Kevin & Michele get ...",
       "published_at": "2025-01-21T16:59:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wFgxS36DxJI/hqdefault.jpg"
+    },
+    {
+      "title": "Refik Anadol and Kevin Scott at the intersection of AI and Art",
+      "video_id": "R93cfvrdGFQ",
+      "channel_title": "Microsoft",
+      "description": "Refik Anadol, an internationally renowned media artist and director, joins Behind the Tech to discuss his journey from a childhood ...",
+      "published_at": "2024-11-12T17:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R93cfvrdGFQ/hqdefault.jpg"
     }
   ]
 }

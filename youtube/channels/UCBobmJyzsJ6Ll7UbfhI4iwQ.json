@@ -1,72 +1,80 @@
 {
-  "fetched_at": "2025-08-31T00:29:03.895362",
+  "fetched_at": "2025-09-07T00:28:21.114990",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 8,
+  "count": 9,
   "videos": [
     {
-      "title": "New Techniques for Building UI in UEFN | Unreal Fest Orlando 2025",
-      "video_id": "ExoXYZzFZvg",
+      "title": "How Epic Games Uses Horde to Make Builds Better | Unreal Fest Orlando 2025",
+      "video_id": "eHWPZ5K4ESI",
       "channel_title": "Unreal Engine",
-      "description": "In 2025, Unreal Editor for Fortnite (UEFN) is bringing a host of new capabilities to empower Fortnite creators to make higher ...",
-      "published_at": "2025-08-29T14:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ExoXYZzFZvg/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Orlando 2025, we explore the best practices for using Horde: a set of services from Epic ...",
+      "published_at": "2025-09-06T16:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eHWPZ5K4ESI/hqdefault.jpg"
     },
     {
-      "title": "Let&#39;s Chat UEFN Development w/ Rubique",
-      "video_id": "3QXg-wPjbmk",
+      "title": "Self-Publishing to the Epic Games Store | Unreal Fest Orlando 2025",
+      "video_id": "vPGzK6dzK5A",
       "channel_title": "Unreal Engine",
-      "description": "Get ready to gather all your Q's about how we develop UEFN at Epic Games! (Think anything from how tools are made to how ...",
-      "published_at": "2025-08-28T18:37:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3QXg-wPjbmk/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Orlando 2025, we walk you through the entire workflow for self-publishing your game on ...",
+      "published_at": "2025-09-06T14:01:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vPGzK6dzK5A/hqdefault.jpg"
     },
     {
-      "title": "Motion Design in Unreal Engine, Episode 06: Materials",
-      "video_id": "k7ePjxNnsDQ",
+      "title": "Unreal Fest Stockholm Meet the Presenter: Helge",
+      "video_id": "K2jdrFXRpAY",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) explores the ...",
-      "published_at": "2025-08-28T18:00:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k7ePjxNnsDQ/hqdefault.jpg"
+      "description": "Principle Animation Engineer Helge Mathee is coming to Unreal Fest Stockholm to help you better control your projects ...",
+      "published_at": "2025-09-05T15:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K2jdrFXRpAY/hqdefault.jpg"
     },
     {
-      "title": "Unlocking the Value of Fortnite Audiences With Sponsors | Unreal Fest Orlando 2025",
-      "video_id": "UxAeXJE2wWM",
+      "title": "Siili Auto | Spotlight | Unreal Engine",
+      "video_id": "tFuoAIh2lo8",
       "channel_title": "Unreal Engine",
-      "description": "Crocs, Versace, and WWE have already integrated their brands into popular Fortnite islands and experiences. In this session ...",
-      "published_at": "2025-08-28T16:00:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UxAeXJE2wWM/hqdefault.jpg"
+      "description": "Find out how leading HMI developer Siili Auto chose Unreal Engine for design, development, and testing not only for its superior ...",
+      "published_at": "2025-09-05T13:59:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tFuoAIh2lo8/hqdefault.jpg"
     },
     {
-      "title": "We had a blast at SIGGRAPH celebrating creators and empowering them to innovate 🎞️",
-      "video_id": "Bd_teF2sQlo",
+      "title": "Shifting Gears: The Power of Twinmotion for Automotive Design | Unreal Fest Orlando 2025",
+      "video_id": "C5rJi2CuWO0",
       "channel_title": "Unreal Engine",
-      "description": "A big thank you to those who joined our talk on Rigging and we're proud to have sponsored the Society for Game Cinematics!",
-      "published_at": "2025-08-28T15:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Bd_teF2sQlo/hqdefault.jpg"
+      "description": "Twinmotion is being leveraged in the automotive industry more and more to explore early concepts in design reviews, market ...",
+      "published_at": "2025-09-05T13:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C5rJi2CuWO0/hqdefault.jpg"
     },
     {
-      "title": "Procedural Worlds by McLaren: Automotive Visualization with PCG Content | Unreal Fest Orlando 2025",
-      "video_id": "ZqMBA1IVrVs",
-      "channel_title": "Unreal Engine",
-      "description": "One of the main challenges of automotive design is visualizing cars quickly in different markets and environments. With the use of ...",
-      "published_at": "2025-08-28T14:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZqMBA1IVrVs/hqdefault.jpg"
-    },
-    {
-      "title": "Creating In Fortnite I Squid Game Tools",
-      "video_id": "VWhH5t2oJng",
+      "title": "Creating in Fortnite | Scene Graph",
+      "video_id": "Fu1U_hh5FS0",
       "channel_title": "Unreal Engine",
       "description": "Event Info: Join us for an exciting session where we'll dive deep into the latest Fortnite Creative and Unreal Editor for Fortnite ...",
-      "published_at": "2025-08-26T17:42:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VWhH5t2oJng/hqdefault.jpg"
+      "published_at": "2025-09-04T17:46:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fu1U_hh5FS0/hqdefault.jpg"
     },
     {
-      "title": "VALORANT | Developer Interview | Unreal Engine",
-      "video_id": "dwlovVZnpAA",
+      "title": "The Power of AxF Measured Materials for Product Development in UE | Unreal Fest Orlando 2025",
+      "video_id": "w8LdWK5tkVQ",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to see Riot Games' Marcus Reid discuss the development team's reasoning and process for upgrading from UE4 ...",
-      "published_at": "2025-08-26T13:59:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dwlovVZnpAA/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Orlando 2025, Thomas Meeker of X-Rite | Pantone explores how UE and AxF can ...",
+      "published_at": "2025-09-04T16:01:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w8LdWK5tkVQ/hqdefault.jpg"
+    },
+    {
+      "title": "How Fortnite and 2K Games Address Cheating with Epic Online Services | Unreal Fest Orlando 2025",
+      "video_id": "efeCYvkW5N4",
+      "channel_title": "Unreal Engine",
+      "description": "In this session recorded at Unreal Fest Orlando 2025, we give an overview of Epic Online Services player moderation tools like ...",
+      "published_at": "2025-09-04T14:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/efeCYvkW5N4/hqdefault.jpg"
+    },
+    {
+      "title": "Cronos: The New Dawn | Game Profile | Unreal Engine",
+      "video_id": "BsLbJnrGMhM",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video for an insight into how Bloober Team used Unreal Engine 5 features to craft the intense combat, survival horror ...",
+      "published_at": "2025-09-02T14:29:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BsLbJnrGMhM/hqdefault.jpg"
     }
   ]
 }

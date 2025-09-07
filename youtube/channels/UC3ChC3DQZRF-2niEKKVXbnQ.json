@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2025-08-31T00:28:54.288122",
+  "fetched_at": "2025-09-07T00:28:11.299832",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "Qwen3-Max-Preview 实测! 给大家放个鞭炮",
+      "video_id": "G3z86lpJFFc",
+      "channel_title": "Karminski-牙医",
+      "description": "直接说结论, 没想到距离7月份仅仅过去2个月, 国产大模型又来了一波更新这次Qwen3-Max-Preview 的前端能力也是肉眼可见的提升, ...",
+      "published_at": "2025-09-05T22:45:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G3z86lpJFFc/hqdefault.jpg"
+    },
+    {
+      "title": "Kimi-K2-0905 实测! 一口气输出1100行代码",
+      "video_id": "E1ucr11QR2M",
+      "channel_title": "Karminski-牙医",
+      "description": "直接说结论, 前端水平提升明显! 而且感觉召回变好了! 直接一次完成了1100 行的测试! (输出长代码的意义是: 在1K行的代码任务规模 ...",
+      "published_at": "2025-09-05T22:39:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E1ucr11QR2M/hqdefault.jpg"
+    },
+    {
+      "title": "nano-banana 教程⑥! 生成 8K 分辨率图片!",
+      "video_id": "cmn1UoClUvo",
+      "channel_title": "Karminski-牙医",
+      "description": "好多朋友评论区问我nano-banana 生成的图片分辨率实在是太低了, 连1080P 都不到! 本期给大家带来直接将nano-banana 生成的 ...",
+      "published_at": "2025-09-02T21:01:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cmn1UoClUvo/hqdefault.jpg"
+    },
+    {
+      "title": "nano-banana 教程⑤! 如何万物像素化!",
+      "video_id": "L5LsEsqmTTo",
+      "channel_title": "Karminski-牙医",
+      "description": "你有你的AE86, 我有我的剁椒鱼头~ 喜欢的照片想要变成像素风格? 来看这个prompt! 注意使用我的prompt 一定要先上传的第一个是 ...",
+      "published_at": "2025-09-02T17:51:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L5LsEsqmTTo/hqdefault.jpg"
+    },
+    {
+      "title": "nano-banana 教程④! 教你如何克隆喜欢的图标!",
+      "video_id": "G9Wq78htwI4",
+      "channel_title": "Karminski-牙医",
+      "description": "教程第四弹来啦! 有喜欢的图标? 直接克隆! 注意使用我的prompt 一定要先上传的第一个是参考图标，第二个是线稿，一张图的情况 ...",
+      "published_at": "2025-09-02T17:48:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G9Wq78htwI4/hqdefault.jpg"
+    },
+    {
+      "title": "nano-banana 教程③! 如何实现贴纸自由!",
+      "video_id": "OkZ8iWGH-tc",
+      "channel_title": "Karminski-牙医",
+      "description": "教程第三弹来啦! 复杂背景如何抠图? 直接用我这个prompt! 这个prompt 还为大家预留了两个可微调点: 1. {green}, 这个可以修改为你 ...",
+      "published_at": "2025-09-02T17:43:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OkZ8iWGH-tc/hqdefault.jpg"
+    },
+    {
+      "title": "nano-banana 教程②! 给新海诚老师做个模特图!",
+      "video_id": "ZqAU7RMEVfA",
+      "channel_title": "Karminski-牙医",
+      "description": "教程第二弹来啦! 这次选取了新海诚老师过去的作品里面的13个元素(有一些是随便找的哈哈哈), 然后使用nano-banana 将这些元素 ...",
+      "published_at": "2025-09-02T17:39:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZqAU7RMEVfA/hqdefault.jpg"
+    },
+    {
+      "title": "nano-banana 教程①! 如何将照片转换为城市天际线风格的建筑!",
+      "video_id": "safGRaEOFYw",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家来个短小精悍的nano-banana 教程系列, 日更哈！ 今天是第一弹! 如何将你看到的建筑转换为城市天际线风格的3D建筑模型！",
+      "published_at": "2025-09-02T17:34:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/safGRaEOFYw/hqdefault.jpg"
+    },
     {
       "title": "TRAE meetup 第一期",
       "video_id": "vR6Kamwmoyk",
@@ -19,70 +83,6 @@
       "description": "使用WAN2.2 做了个以《三体》中叶文洁为视角的小短片——三体·独白视频中用WAN 2.2 复刻了红岸基地发射, 三体太阳, 人列计算机 ...",
       "published_at": "2025-08-05T10:58:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Nz9WalCZscg/hqdefault.jpg"
-    },
-    {
-      "title": "我发现了AI最有用的用途——整理桌面！来看 Kimi-K2 Agent 能力实测!",
-      "video_id": "roB45a9A8og",
-      "channel_title": "Karminski-牙医",
-      "description": "通宵肝了4天, 厚脸皮请大家多转发, 谢谢各位老铁! AI竟然能帮我整理300多个桌面图标，还能开发MacOS监控工具和制作魔塔游戏？",
-      "published_at": "2025-07-15T06:10:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/roB45a9A8og/hqdefault.jpg"
-    },
-    {
-      "title": "极限测试！Qwen3 写代码+画画！究竟是不是开源最强模型？",
-      "video_id": "kph_c6LovQA",
-      "channel_title": "Karminski-牙医",
-      "description": "本次不但有大家喜闻乐见的KCORES-LLM-Arena 测试，而且还增加了新测试集morden-art 供大家预览！另外本次还包括了Qwen3 ...",
-      "published_at": "2025-05-01T03:32:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kph_c6LovQA/hqdefault.jpg"
-    },
-    {
-      "title": "全站最速！GPT-4.1 写代码能力评测！啊？又拉了？",
-      "video_id": "UqYmeUCMiMk",
-      "channel_title": "Karminski-牙医",
-      "description": "全站最速！GPT-4.1 视频评测！ 那么到底是GPT-4.1 大呢? 还是GPT-4.5 大呢? (另外评测榜单较两周前还增加了Gemini-2.5-Pro, ...",
-      "published_at": "2025-04-15T02:36:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UqYmeUCMiMk/hqdefault.jpg"
-    },
-    {
-      "title": "我用AI做了个网页版我的世界，还能用砸瓦鲁多",
-      "video_id": "079lHw8zdJk",
-      "channel_title": "Karminski-牙医",
-      "description": "来啦！牙医教你用AI写一个Minecraft 游戏！顺便还能带4个技能！ 砸瓦鲁多: 当前所有动物和时间停止10秒, 出现概率1% 磁力: 会用 ...",
-      "published_at": "2025-03-27T11:50:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/079lHw8zdJk/hqdefault.jpg"
-    },
-    {
-      "title": "全站最速！DeepSeek-V3-0324 视频评测！不仅 OpenAI, Claude 也要颤抖了",
-      "video_id": "hUQhJO2Mh_Q",
-      "channel_title": "Karminski-牙医",
-      "description": "全站最速！DeepSeek-V3-0324 视频评测！ 我感觉等到R2 出了是不是就是ClosedAI 拔电源那天了？ （另外评测较两周前还增加 ...",
-      "published_at": "2025-03-24T21:47:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hUQhJO2Mh_Q/hqdefault.jpg"
-    },
-    {
-      "title": "谁是最强写代码模型? 我使用了最好的21个模型, 花了50刀, 总计测试252次",
-      "video_id": "dnIumrYq91E",
-      "channel_title": "Karminski-牙医",
-      "description": "LMArena榜单现在如同红点设计奖, 只要新模型发布就能霸榜. 甚至GPT-4.5没有可圈可点的地方最后在大模型EQ(你没看错就是情商 ...",
-      "published_at": "2025-03-10T04:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dnIumrYq91E/hqdefault.jpg"
-    },
-    {
-      "title": "Grok-3 登陆火星 demo测评！这次总计15个模型横评！看看哪个模型最强？",
-      "video_id": "VCtVQ2UBq4E",
-      "channel_title": "Karminski-牙医",
-      "description": "来啦！Grok-3 登陆火星demo测评！使用官方的登陆火星demo！这次总计15个模型横评！ 不得不说发布会上给马斯克演示这个demo ...",
-      "published_at": "2025-02-19T07:17:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VCtVQ2UBq4E/hqdefault.jpg"
-    },
-    {
-      "title": "微信刚上线 DeepSeek, 腾讯又把 AI 知识库也接入 DeepSeek 了？",
-      "video_id": "sfHJOgWeY2U",
-      "channel_title": "Karminski-牙医",
-      "description": "腾讯的AI 知识库IMA 刚刚接入了DeepSeek-R1! 是不是又有个新地方免费用DeepSeek 了哈哈哈本期大模型竞技场为大家带来腾讯AI ...",
-      "published_at": "2025-02-18T06:18:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sfHJOgWeY2U/hqdefault.jpg"
     }
   ]
 }

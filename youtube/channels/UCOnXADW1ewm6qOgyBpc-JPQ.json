@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-31T00:29:23.255083",
+  "fetched_at": "2025-09-07T00:28:41.002621",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "weightless with calisthenics #shorts #calisthenics #motivation",
+      "video_id": "5bTltHR2Li8",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2025-08-31T15:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5bTltHR2Li8/hqdefault.jpg"
+    },
     {
       "title": "vertically speedrunning pullups #calisthenics",
       "video_id": "_scSHgzsvC4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-05-25T14:30:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HMrfJEQQaOU/hqdefault.jpg"
-    },
-    {
-      "title": "calisthenics lets you do this #shorts",
-      "video_id": "l7cmbzBDSQc",
-      "channel_title": "Leo Wang",
-      "description": "Do you guys find more advanced skills motivating or demotivating? The two sides I often hear is: A: the individual feels ...",
-      "published_at": "2025-05-11T14:01:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l7cmbzBDSQc/hqdefault.jpg"
     }
   ]
 }

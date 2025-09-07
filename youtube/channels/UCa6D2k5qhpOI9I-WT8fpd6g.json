@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-31T00:29:36.905364",
+  "fetched_at": "2025-09-07T00:28:54.454120",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "开学必备！五款开源免费AI知识类工具，高效提取知识，重塑学习流程",
+      "video_id": "cxc36t7oklI",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 MinerU在线使用：https://mineru.net/ NoteGen ...",
+      "published_at": "2025-09-01T02:13:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cxc36t7oklI/hqdefault.jpg"
+    },
     {
       "title": "PostgreSQL能存万物！这还是你认识的数据库吗？  #数据库 #编程 #科技 #人工智能",
       "video_id": "1UPoCK0v22w",
@@ -75,14 +83,6 @@
       "description": "大家搭建网站的时候，一定遇到过图片/视频加载慢、浏览器显示不安全、还有担心被黑客攻击等等的问题。以往大家都会 ...",
       "published_at": "2025-06-20T12:19:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LCMPC_GDBeo/hqdefault.jpg"
-    },
-    {
-      "title": "免费服务器+免费大模型部署n8n（免费AI工作流）",
-      "video_id": "mzjhST0Od5Q",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 免费服务器+免费大模型部署开源免费AI工作流n8n.",
-      "published_at": "2025-06-07T11:05:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mzjhST0Od5Q/hqdefault.jpg"
     }
   ]
 }

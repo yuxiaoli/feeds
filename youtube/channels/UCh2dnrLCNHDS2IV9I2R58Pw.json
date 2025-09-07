@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-31T00:29:46.461889",
+  "fetched_at": "2025-09-07T00:29:04.117885",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Dream Chaser Visits the ISS animation",
+      "video_id": "uhIWOnnpfOU",
+      "channel_title": "Hazegrayart",
+      "description": "Dream Chaser Visits the ISS animation.",
+      "published_at": "2025-09-05T02:06:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uhIWOnnpfOU/hqdefault.jpg"
+    },
     {
       "title": "Nova Reusable Rocket Recovery",
       "video_id": "CbJMqD_6DHU",
@@ -75,14 +83,6 @@
       "description": "A Space Shuttle Concept The experts at OKB-1, pioneers behind the Soyuz capsule, were decidedly unimpressed with the ...",
       "published_at": "2025-07-25T11:01:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jJF4_v1_ccU/hqdefault.jpg"
-    },
-    {
-      "title": "Kliper Spaceplane: ESA-Russia Collaboration #space #rocket #shorts",
-      "video_id": "PxLXfht-qyo",
-      "channel_title": "Hazegrayart",
-      "description": "The Kliper spaceplane was a proposed Russian reusable spacecraft intended for crewed missions to low Earth orbit (LEO), the ...",
-      "published_at": "2025-07-15T16:35:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PxLXfht-qyo/hqdefault.jpg"
     }
   ]
 }

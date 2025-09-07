@@ -1,16 +1,72 @@
 {
-  "fetched_at": "2025-08-31T00:28:56.649916",
+  "fetched_at": "2025-09-07T00:28:13.789781",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "Learning Python won&#39;t make you a software engineer!! THIS WILL",
-      "video_id": "i3fDNWGHoG0",
+      "title": "Easily render charts using this python trick!",
+      "video_id": "C-0PuF06_jk",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-08-29T04:04:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i3fDNWGHoG0/hqdefault.jpg"
+      "published_at": "2025-09-06T14:19:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C-0PuF06_jk/hqdefault.jpg"
+    },
+    {
+      "title": "MCP Protocol Tutorial: Build an MCP Server for Your App (Clerk, Next.js, Prisma)",
+      "video_id": "wI6ufTULIj0",
+      "channel_title": "Tech With Tim",
+      "description": "Get started building MCP servers with Clerk: https://go.clerk.com/Fj1ahwc In this video, I'll show you how to build a full stack ...",
+      "published_at": "2025-09-06T13:01:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wI6ufTULIj0/hqdefault.jpg"
+    },
+    {
+      "title": "99% of Devs do not know about this!",
+      "video_id": "1nfRxFJZ7c0",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-09-05T19:49:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1nfRxFJZ7c0/hqdefault.jpg"
+    },
+    {
+      "title": "Most Python devs get stuck here — fix this and you’ll instantly level up.",
+      "video_id": "bWE0OZuZA2A",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-09-04T17:20:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bWE0OZuZA2A/hqdefault.jpg"
+    },
+    {
+      "title": "99% of devs don&#39;t know what THIS means in Python",
+      "video_id": "JXUcWMFS6Ow",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-09-03T18:30:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JXUcWMFS6Ow/hqdefault.jpg"
+    },
+    {
+      "title": "How to go from 0 to 100 in Python PART 2",
+      "video_id": "kAUBB12-OoY",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-09-03T16:30:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kAUBB12-OoY/hqdefault.jpg"
+    },
+    {
+      "title": "How to go from 0 to 100 in Python",
+      "video_id": "_y3LNjg0o_8",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-09-03T14:30:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_y3LNjg0o_8/hqdefault.jpg"
+    },
+    {
+      "title": "Done Learning Python? Do THIS NOW",
+      "video_id": "FTe2_rrXDMM",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-09-03T12:15:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FTe2_rrXDMM/hqdefault.jpg"
     },
     {
       "title": "Python is Changing – Here’s What’s Coming",
@@ -21,68 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jv8IbOnaUPM/hqdefault.jpg"
     },
     {
-      "title": "THIS Docker Update will change AI forever",
-      "video_id": "ZFFWhwe_pq8",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-08-27T11:44:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZFFWhwe_pq8/hqdefault.jpg"
-    },
-    {
-      "title": "How to MASTER Data Structures and Algorithms PART 3",
-      "video_id": "zhJCbvyGlp4",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-08-27T03:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zhJCbvyGlp4/hqdefault.jpg"
-    },
-    {
       "title": "How to build an AI server:client in Python PART 2",
       "video_id": "lrRlUDsaHug",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
       "published_at": "2025-08-08T19:30:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lrRlUDsaHug/hqdefault.jpg"
-    },
-    {
-      "title": "How I Vibe Coded 3 Apps in 20 Minutes - DeepAgent Demo",
-      "video_id": "0Vx1MWojNaU",
-      "channel_title": "Tech With Tim",
-      "description": "I just spent the last hour vibe coding up three apps that are almost ready to go into production. In this video, I'm going to show you ...",
-      "published_at": "2025-08-08T12:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0Vx1MWojNaU/hqdefault.jpg"
-    },
-    {
-      "title": "The Easiest Ways to Run LLMs Locally - Docker Model Runner Tutorial",
-      "video_id": "GOgfQxDPaDw",
-      "channel_title": "Tech With Tim",
-      "description": "Download Docker Desktop: https://docs.docker.com/desktop/ Docker Model Runner Docs: ...",
-      "published_at": "2025-07-19T13:30:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GOgfQxDPaDw/hqdefault.jpg"
-    },
-    {
-      "title": "THIS is why you keep getting ghosted by recruiters",
-      "video_id": "fRkxtW12oBI",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-04T02:52:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
-    },
-    {
-      "title": "THIS is why a CS degree won&#39;t get you a coding job",
-      "video_id": "_yNbcn-WCVo",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-06-12T04:52:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_yNbcn-WCVo/hqdefault.jpg"
-    },
-    {
-      "title": "How to get ahead of 99% of devs in 2025",
-      "video_id": "DJqGKv_q3bA",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-06-09T06:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DJqGKv_q3bA/hqdefault.jpg"
     }
   ]
 }

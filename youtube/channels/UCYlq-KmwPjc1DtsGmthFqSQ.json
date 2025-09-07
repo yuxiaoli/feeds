@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-31T00:29:34.448802",
+  "fetched_at": "2025-09-07T00:28:52.082528",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "Scaling Helix - Dishes",
+      "video_id": "8gfuUzDn4Q8",
+      "channel_title": "Figure",
+      "description": "",
+      "published_at": "2025-09-03T15:40:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8gfuUzDn4Q8/hqdefault.jpg"
+    },
     {
       "title": "Scaling Helix - Laundry",
       "video_id": "HOoRnv3lA0k",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2024-11-19T14:12:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WlUFoZstcWg/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Figure 02",
-      "video_id": "0SRVJaOg9Co",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2024-08-06T11:55:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0SRVJaOg9Co/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-08-31T00:29:47.213325",
+  "fetched_at": "2025-09-07T00:29:04.835002",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "8月AI论文精选分享",
+      "video_id": "pNSVAkkHReM",
+      "channel_title": "Find Interesting AI",
+      "description": "8月全部AI论文： https://qadso0i11yj.feishu.cn/base/LplpbJRmQanORbst9CUcqYQDnRc?from=from_copylink.",
+      "published_at": "2025-09-07T00:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pNSVAkkHReM/hqdefault.jpg"
+    },
     {
       "title": "8个宝藏项目一口气玩个遍",
       "video_id": "664CRgyF5SY",
@@ -75,14 +83,6 @@
       "description": "从双缝干涉到量子纠缠、薛猫再到量子计算机、量子算法最后聊聊量子计算与AI 相关资料： https://github.com/Qiskit/qiskit ...",
       "published_at": "2025-05-25T03:50:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IfVkUokH4gM/hqdefault.jpg"
-    },
-    {
-      "title": "Github趋势榜5月总结",
-      "video_id": "TGEe1VLNHXU",
-      "channel_title": "Find Interesting AI",
-      "description": "93个项目总结文档https://qadso0i11yj.feishu.cn/base/GF7mbmMM7aww1gs8kHVc2pGonLh?from=from_copylink.",
-      "published_at": "2025-05-10T12:58:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TGEe1VLNHXU/hqdefault.jpg"
     }
   ]
 }
