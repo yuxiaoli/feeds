@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2025-09-07T00:28:56.096715",
+  "fetched_at": "2025-09-14T00:28:21.641834",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
-    {
-      "title": "People’s reaction at the restaurant to a Calisthenics",
-      "video_id": "F7mEacbGsik",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-09-03T15:07:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F7mEacbGsik/hqdefault.jpg"
-    },
     {
       "title": "Dumbbells Tower Challenge | Cab you do it?",
       "video_id": "6sEUD1Z3yqA",
@@ -83,6 +75,14 @@
       "description": "I travelled to Bulgaria to face Nedko - one of the world's strongest front lever athletes - in a insane 100‑rep battle. I'll attempt 100 ...",
       "published_at": "2025-08-11T11:52:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZFL3ASzve7E/hqdefault.jpg"
+    },
+    {
+      "title": "New Generation",
+      "video_id": "IlM9DD4OcTY",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2025-07-30T14:09:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IlM9DD4OcTY/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-07T00:29:04.117885",
+  "fetched_at": "2025-09-14T00:28:29.085434",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "SLS Block 2 Crew",
+      "video_id": "8MRIa0664K4",
+      "channel_title": "Hazegrayart",
+      "description": "Block 2, will provide 9.5 million lbs. of thrust and will be the workhorse vehicle for sending cargo to the Moon, Mars, and other ...",
+      "published_at": "2025-09-07T01:07:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8MRIa0664K4/hqdefault.jpg"
+    },
     {
       "title": "Dream Chaser Visits the ISS animation",
       "video_id": "uhIWOnnpfOU",
@@ -75,14 +83,6 @@
       "description": "A Space Shuttle Concept The experts at OKB-1, pioneers behind the Soyuz capsule, were decidedly unimpressed with the ...",
       "published_at": "2025-07-26T13:40:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wUM-8aVKCb4/hqdefault.jpg"
-    },
-    {
-      "title": "Russia&#39;s Space Shuttle: VTOL MTKVA",
-      "video_id": "jJF4_v1_ccU",
-      "channel_title": "Hazegrayart",
-      "description": "A Space Shuttle Concept The experts at OKB-1, pioneers behind the Soyuz capsule, were decidedly unimpressed with the ...",
-      "published_at": "2025-07-25T11:01:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jJF4_v1_ccU/hqdefault.jpg"
     }
   ]
 }

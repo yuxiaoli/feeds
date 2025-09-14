@@ -1,56 +1,72 @@
 {
-  "fetched_at": "2025-09-07T00:28:25.179805",
+  "fetched_at": "2025-09-14T00:27:53.649199",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
-  "count": 7,
+  "count": 9,
   "videos": [
     {
-      "title": "America&#39;s Fastest Train Ready To Ride",
-      "video_id": "_hnzmKnUCs0",
+      "title": "School Project Revolutionizes Military Robotics",
+      "video_id": "ppfB-NLYCuA",
       "channel_title": "Interesting Engineering",
-      "description": "Amtrak's all new NextGen Acela trains are now accepting passengers! Capable of reaching speeds up to 160 miles per hour, ...",
-      "published_at": "2025-09-06T01:31:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_hnzmKnUCs0/hqdefault.jpg"
+      "description": "Explosive Ordnance Robot operators used to struggle with gauging depth through the robots' cameras. Not anymore. Thanks to a ...",
+      "published_at": "2025-09-13T01:30:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ppfB-NLYCuA/hqdefault.jpg"
     },
     {
-      "title": "Tesla Optimus Disappoints Internet",
-      "video_id": "Uzz2qPH8dwg",
+      "title": "The Floating Solar Islands of the Maldives",
+      "video_id": "pOZ_tCcqbB8",
       "channel_title": "Interesting Engineering",
-      "description": "More footage of Tesla's Optimus has just been released on X or Twitter. But the reception wasn't great. With all of Tesla leaning on ...",
-      "published_at": "2025-09-06T00:30:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Uzz2qPH8dwg/hqdefault.jpg"
+      "description": "The Maldives have always consumed an enormous amount of energy to supplement their luxury hotels. But now Swimsol brings ...",
+      "published_at": "2025-09-13T00:30:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pOZ_tCcqbB8/hqdefault.jpg"
     },
     {
-      "title": "How 3D Printing Works",
-      "video_id": "RSwLbs_nkC0",
+      "title": "How Does Your Phone Take Selfies?",
+      "video_id": "NSAeozka_o4",
       "channel_title": "Interesting Engineering",
-      "description": "Have you ever seen a 3D printer? It looks like magic, creating something out of seemingly nothing. But how does it work?",
-      "published_at": "2025-09-05T21:31:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RSwLbs_nkC0/hqdefault.jpg"
+      "description": "Phone cameras have become irreplaceable in our lives today. But have you ever wondered how it works? How does a small ...",
+      "published_at": "2025-09-12T18:31:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NSAeozka_o4/hqdefault.jpg"
     },
     {
-      "title": "Giving Robots A Sense of Touch",
-      "video_id": "DbkvoW7z4hk",
+      "title": "The World&#39;s ONLY Natural Nuclear Reactor",
+      "video_id": "aU7LmsFkRjs",
       "channel_title": "Interesting Engineering",
-      "description": "The newly developed TactileAloha System gives robots a sense of touch. Now they can interact with objects not just via visual ...",
-      "published_at": "2025-09-04T21:30:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DbkvoW7z4hk/hqdefault.jpg"
+      "description": "Would you believe that a natural nuclear reactor exists? Scientists thought it was impossible! But it's real. The Oklo nuclear reactor ...",
+      "published_at": "2025-09-12T01:30:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aU7LmsFkRjs/hqdefault.jpg"
     },
     {
-      "title": "Jaguar Land Rover Hacked",
-      "video_id": "-vog8MEmX18",
+      "title": "Uber Ready To Offer Air Taxis",
+      "video_id": "UPnIhBDZbYc",
       "channel_title": "Interesting Engineering",
-      "description": "Jaguar Land Rover just got hacked, freezing both its plants in the UK and affecting global operations. What does it mean for the ...",
-      "published_at": "2025-09-04T01:30:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-vog8MEmX18/hqdefault.jpg"
+      "description": "Are you ready to book an air uber? Joby Aviation has partnered with Uber to start offering air taxis through the uber app.",
+      "published_at": "2025-09-12T00:30:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UPnIhBDZbYc/hqdefault.jpg"
     },
     {
-      "title": "The Science of Dried Food",
-      "video_id": "bUWJuePdNBU",
+      "title": "NASA Reports Life On Mars",
+      "video_id": "3v5IL3-CEG0",
       "channel_title": "Interesting Engineering",
-      "description": "Why does drying food make it last longer? Food spoils thanks to microorganisms breaking it down. Drying the food counteracts ...",
-      "published_at": "2025-09-04T00:30:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bUWJuePdNBU/hqdefault.jpg"
+      "description": "Has NASA really found life on Mars? Perseverance just sent back images containing traces of minerals that could've only been ...",
+      "published_at": "2025-09-11T11:18:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3v5IL3-CEG0/hqdefault.jpg"
+    },
+    {
+      "title": "New iPhone Camera Dock Lets You Film Like A Pro",
+      "video_id": "r-EAPOKdLFQ",
+      "channel_title": "Interesting Engineering",
+      "description": "Features like GENLOCK and Timecode in, previously restricted to professional camera equipment, are now at your fingertips, ...",
+      "published_at": "2025-09-10T13:03:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r-EAPOKdLFQ/hqdefault.jpg"
+    },
+    {
+      "title": "Rumors of iPhone 17 Air Releasing Today",
+      "video_id": "YhTdeHz3ey4",
+      "channel_title": "Interesting Engineering",
+      "description": "With Apple's 'awe dropping' event coming up, everyone is eager to guess what announcements they might have for the iPhone 17 ...",
+      "published_at": "2025-09-09T15:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YhTdeHz3ey4/hqdefault.jpg"
     },
     {
       "title": "Will Humanoid Robots Take Our Jobs?",

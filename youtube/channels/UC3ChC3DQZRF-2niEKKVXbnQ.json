@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-09-07T00:28:11.299832",
+  "fetched_at": "2025-09-14T00:27:40.997123",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "Qwen3-Next-80B-A3B 实测! 能跟头部模型对打吗?",
+      "video_id": "I69r_fEKabw",
+      "channel_title": "Karminski-牙医",
+      "description": "直接说结论, 能完成我这个大象牙膏测试的一部分, 已经很厉害了, Python 杯子倒水那个测试表现也可圈可点. 来看测试中暴露出来的 ...",
+      "published_at": "2025-09-12T02:59:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I69r_fEKabw/hqdefault.jpg"
+    },
+    {
+      "title": "用 Qwen3-Coder 做一个 NanoBanana 封面生成器",
+      "video_id": "zKEbsh8icnA",
+      "channel_title": "Karminski-牙医",
+      "description": "来教大家使用 Qwen3-Coder 制作这个 nano banana 杂志封面生成器. 只需要 3 个 prompt 哦~ 这个封面生成器只需要选择喜欢的杂志 ...",
+      "published_at": "2025-09-12T02:55:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zKEbsh8icnA/hqdefault.jpg"
+    },
     {
       "title": "Qwen3-Max-Preview 实测! 给大家放个鞭炮",
       "video_id": "G3z86lpJFFc",
@@ -67,22 +83,6 @@
       "description": "给大家来个短小精悍的nano-banana 教程系列, 日更哈！ 今天是第一弹! 如何将你看到的建筑转换为城市天际线风格的3D建筑模型！",
       "published_at": "2025-09-02T17:34:42Z",
       "thumbnail_url": "https://i.ytimg.com/vi/safGRaEOFYw/hqdefault.jpg"
-    },
-    {
-      "title": "TRAE meetup 第一期",
-      "video_id": "vR6Kamwmoyk",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家分享周六的TRAE meetup 的我的演讲视频~ 主要讲了下Vibe Coding 中怎样避免屎山哈哈哈哈另外PPT我也扔到了github, 大家 ...",
-      "published_at": "2025-08-19T06:44:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vR6Kamwmoyk/hqdefault.jpg"
-    },
-    {
-      "title": "使用 WAN2.2 做了个以《三体》中叶文洁为视角的小短片——三体·独白",
-      "video_id": "Nz9WalCZscg",
-      "channel_title": "Karminski-牙医",
-      "description": "使用WAN2.2 做了个以《三体》中叶文洁为视角的小短片——三体·独白视频中用WAN 2.2 复刻了红岸基地发射, 三体太阳, 人列计算机 ...",
-      "published_at": "2025-08-05T10:58:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nz9WalCZscg/hqdefault.jpg"
     }
   ]
 }

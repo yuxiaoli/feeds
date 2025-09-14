@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-09-07T00:28:06.532900",
+  "fetched_at": "2025-09-14T00:27:36.515454",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Silent Disco",
+      "video_id": "O8sTs7Yjc0w",
+      "channel_title": "Meta",
+      "description": "dance like nobody's watching (or listening) with @raybanmetaofficial.",
+      "published_at": "2025-09-10T14:30:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O8sTs7Yjc0w/hqdefault.jpg"
+    },
+    {
+      "title": "Happy Meta-versary",
+      "video_id": "lXqMXguHbfs",
+      "channel_title": "Meta",
+      "description": "Plan the perfect anniversary with Meta AI (cheesecake not included)",
+      "published_at": "2025-09-09T14:30:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lXqMXguHbfs/hqdefault.jpg"
+    },
     {
       "title": "Keeping it Professional",
       "video_id": "XdbNF08Ogjc",
@@ -67,22 +83,6 @@
       "description": "In the seventh episode of our Privacy Conversations series, Meta's Vice President and Chief Privacy Officer for Public Policy Erin ...",
       "published_at": "2025-08-14T14:59:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8FBYm3rcwVI/hqdefault.jpg"
-    },
-    {
-      "title": "Food for Thought",
-      "video_id": "yfGKnlRmv04",
-      "channel_title": "Meta",
-      "description": "Neha of @iavocraving found a community through her food fusions after sharing them across @facebook and @instagram.",
-      "published_at": "2025-08-12T15:02:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yfGKnlRmv04/hqdefault.jpg"
-    },
-    {
-      "title": "AI&#39;m Here to Help - EP 2",
-      "video_id": "5Uvs_x7Lnu4",
-      "channel_title": "Meta",
-      "description": "bon appetite from your matre'd (or Meta-d)",
-      "published_at": "2025-08-11T14:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5Uvs_x7Lnu4/hqdefault.jpg"
     }
   ]
 }

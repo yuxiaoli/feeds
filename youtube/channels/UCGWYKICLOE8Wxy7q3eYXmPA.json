@@ -1,24 +1,56 @@
 {
-  "fetched_at": "2025-09-07T00:28:28.325297",
+  "fetched_at": "2025-09-14T00:27:56.624930",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "【人工智能】HotChips 2025七大领域全盘点 | AI计算 | 网络 | 光IO | CPU | 图形 | 安全 | 散热 | AMD | Intel | Nvidia | Google",
-      "video_id": "fgoQYlLT_IY",
+      "title": "【人工智能】计算机视觉概述 | 斯坦福大学2025年CS231N第一课 | 李飞飞 | 计算机视觉 | 深度学习 | 寒武纪大爆发 | 神经科学 | ImageNet | AlexNet | 课程结构",
+      "video_id": "A8pyWJuO9xw",
       "channel_title": "最佳拍档",
-      "description": "上周，国际顶级芯片会议Hot Chips正式落下帷幕，作为芯片及系统设计领域的“年度风向标”，今年的大会没有让人失望，从能把AI超 ...",
-      "published_at": "2025-09-05T11:01:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fgoQYlLT_IY/hqdefault.jpg"
+      "description": "最近，斯坦福大学2025年春季的CS231N课程，开始了首次授课，主讲人是全球AI领域的顶尖学者、计算机视觉的奠基人之一， ...",
+      "published_at": "2025-09-13T09:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/A8pyWJuO9xw/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】从分布式到神经网络 | Jeff Dean回忆谷歌大脑早期时光 | 构建的乐趣 | 吴恩达 | Google Brain | 猫的发现 | TPU | 注意力机制 | AI的未来",
-      "video_id": "wuE-rrSlcJk",
+      "title": "【人工智能】击败大模型推理的非确定性 | Thinking Machines | 批次不变性缺失 | 浮点数非结合性 | 归约化顺序 | 批次不变内核 | RMSNorm | 矩阵乘法 | 注意力机制",
+      "video_id": "eYq6Zc1M6pU",
       "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 如果你关注人工智能和计算机科学，那么对杰夫·迪恩(Jeff Dean)这个名字一定 ...",
-      "published_at": "2025-09-02T09:01:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wuE-rrSlcJk/hqdefault.jpg"
+      "description": "9月11日当天，Thinking Machines Lab正式推出了他们的研究博客，名字叫Connectionism，翻译过来就是联结主义。而博客的第一 ...",
+      "published_at": "2025-09-12T09:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eYq6Zc1M6pU/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】Codex的前世今生和未来 | 软件吞噬世界而AI正在吞噬软件工程 | Alexander Embiricos | 云端Agent | 反直觉设计 | 封闭还是开放 | 就业建议",
+      "video_id": "XI58sdqHvfw",
+      "channel_title": "最佳拍档",
+      "description": "Claude Code是最好的AI编程工具么？可能有人并不同意。最近，Codex负责人亚历山大·恩比里科斯（Alexander Embiricos）在 ...",
+      "published_at": "2025-09-11T09:00:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XI58sdqHvfw/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】为什么大语言模型会幻觉 | OpenAI最新论文 | 预训练 | 统计误差传导 | 后训练 | 评估机制激励错位 | IIV有效性判断 | 任意事实 | 二元评分 | 解决办法和不足",
+      "video_id": "R3BvSiPuk08",
+      "channel_title": "最佳拍档",
+      "description": "来自OpenAI和佐治亚理工联合发表的论文《为什么语言模型会有幻觉（Why Language Models Hallucinate）》。这篇论文的价值 ...",
+      "published_at": "2025-09-10T09:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R3BvSiPuk08/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】Ilya忠实信徒凭借AI预言撬动15亿美元 | 23岁天才 | 被OpenAI开除 | 态势感知 | 47%收益 | 2027AGI | 模型进化速度 | 算力增长 | 解开效应",
+      "video_id": "mehWYKHNsy0",
+      "channel_title": "最佳拍档",
+      "description": "今天要和大家聊的，堪称AI行业与投资圈的“双重反转剧”，一个23岁的德国年轻人，曾经是OpenAI核心人物伊利亚·苏茨克维尔（Ilya ...",
+      "published_at": "2025-09-09T09:01:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mehWYKHNsy0/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】12 Factor Agents | 构建生产环境Agent的十二个原则 | HumanLayer | Dexter Horthy | 反框架理念 | 控制核心组件",
+      "video_id": "D8_HxaHGLGs",
+      "channel_title": "最佳拍档",
+      "description": "今天我想和大家聊的“12-Factor Agents”，翻译过来就是Agent的十二个设计原则，正好前几天也有观众在评论区提到了它。需要说明 ...",
+      "published_at": "2025-09-08T09:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D8_HxaHGLGs/hqdefault.jpg"
     },
     {
       "title": "【人工智能】Meta遭遇AI人才大流失 | 天价挖人失效 | MSI | AI团队重组 | 新员工重回OpenAI | 老员工不满 | 为竞争对手培养人才 | 内部组织架构和文化问题",
@@ -51,38 +83,6 @@
       "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 在最新一期的Decoder节目中，托马斯·多姆克与主持人亚历克斯·希思（Alex ...",
       "published_at": "2025-08-22T09:00:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Qn5eCavq68I/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】推理的本质 | Denny Zhou斯坦福讲座 | 什么是推理 | 思考的必要性 | 思维链提示 | 贪婪解码 | 置信度 | step-by-step | SFT | 验证器",
-      "video_id": "s00fy5RkCHc",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 最近，DeepMind首席科学家兼研究总监丹尼·周，在斯坦福大学做了一场讲座 ...",
-      "published_at": "2025-08-19T09:01:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s00fy5RkCHc/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】AI革命被严重低估了 | 谷歌前CEO Eric Schmidt | 电力 | 数据中心 | 旧金山共识 | 数字超智能 | AI会缓慢侵蚀人类 | 对就业的影响 | 学习循环",
-      "video_id": "wYz0Sw6101Y",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 谷歌的前CEO埃里克·施密特（Eric Schmidt）最近做客了Moonshots播客， ...",
-      "published_at": "2025-07-25T09:01:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wYz0Sw6101Y/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】AlphaFold诞生记 | 诺奖得主John Jumper YC演讲 | 职业经历 | 机器学习 | DeepMind | 蛋白质折叠 | PDB | 算法研究的重要性 | CASP",
-      "video_id": "odRUO7a87-U",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 今天我们要深入探讨一个足以改写现代生物学发展轨迹的故事，这个故事的 ...",
-      "published_at": "2025-07-21T09:01:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/odRUO7a87-U/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】AI帝国的背后真相 | Karen Hao |《华尔街日报》记者 | 人工智能概念被滥用 | 电力与环境 | AGI的集体狂欢 | OpenAI的转向 | AI底层劳工 | 技术神话反思",
-      "video_id": "yzVmTauyj_o",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 今天，我们将回顾《华尔街日报》科技记者郝珂灵（Karen Hao）在Novara ...",
-      "published_at": "2025-07-14T23:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yzVmTauyj_o/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-09-07T00:29:16.751621",
+  "fetched_at": "2025-09-14T00:28:41.232037",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Imagine flying through the Universe… 🌌",
+      "video_id": "s7QmZutZkTc",
+      "channel_title": "Star Walk",
+      "description": "This dream was made a reality in this video, utilizing data from the Dark Energy Spectroscopic Instrument (DESI). This journey lets ...",
+      "published_at": "2025-09-12T11:07:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s7QmZutZkTc/hqdefault.jpg"
+    },
+    {
+      "title": "This is what protects us from the Sun 💪",
+      "video_id": "d-zMEGR9xRs",
+      "channel_title": "Star Walk",
+      "description": "Did you know the Sun is constantly “breathing” into space? That stream of particles is called the solar wind — and Earth's ...",
+      "published_at": "2025-09-10T22:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d-zMEGR9xRs/hqdefault.jpg"
+    },
+    {
+      "title": "At least, astronomy makes sense (most of the time) 🔭",
+      "video_id": "olj20MrvLyk",
+      "channel_title": "Star Walk",
+      "description": "",
+      "published_at": "2025-09-09T06:22:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/olj20MrvLyk/hqdefault.jpg"
+    },
     {
       "title": "🌕 Don’t miss the Blood Moon on the night of September 7–8, 2025!",
       "video_id": "OFQJnXdp8AM",
@@ -59,30 +83,6 @@
       "description": "Hottest: Venus (+470 °C) – thanks to a runaway greenhouse effect ⚡ Fastest orbit: Mercury (47 km/s) – cosmic speedster around ...",
       "published_at": "2025-08-15T07:36:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HVZpX7KWoTQ/hqdefault.jpg"
-    },
-    {
-      "title": "🌠 Did you see the Perseids last night?",
-      "video_id": "EX3B7CWLRhs",
-      "channel_title": "Star Walk",
-      "description": "We hope you didn't mistake burning space junk for Perseids Not every flash in the sky is a meteor! Tell us how many real ...",
-      "published_at": "2025-08-13T13:21:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EX3B7CWLRhs/hqdefault.jpg"
-    },
-    {
-      "title": "August 12, 2025 – Don’t Miss This Sky Show! 🌟",
-      "video_id": "93-bNVuxIgI",
-      "channel_title": "Star Walk",
-      "description": "Before sunrise, Venus and Jupiter will shine side by side in Gemini, just 0.8° apart — close enough to cover with your little finger ...",
-      "published_at": "2025-08-09T22:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/93-bNVuxIgI/hqdefault.jpg"
-    },
-    {
-      "title": "🧐 Think you know what a planetary alignment really looks like?",
-      "video_id": "59fDpFMvwbM",
-      "channel_title": "Star Walk",
-      "description": "",
-      "published_at": "2025-08-07T11:03:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/59fDpFMvwbM/hqdefault.jpg"
     }
   ]
 }

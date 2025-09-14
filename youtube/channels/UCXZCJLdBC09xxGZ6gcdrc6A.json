@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-07T00:28:50.515232",
+  "fetched_at": "2025-09-14T00:28:16.501805",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Build Hour: Codex",
+      "video_id": "WvMqA4Xwx_k",
+      "channel_title": "OpenAI",
+      "description": "Codex is now one agent for everywhere you code — connected by your ChatGPT account. This Build Hour is a hands-on ...",
+      "published_at": "2025-09-08T17:38:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WvMqA4Xwx_k/hqdefault.jpg"
+    },
     {
       "title": "Lowe’s gets answers faster with GPT-5",
       "video_id": "2TK9tFZoBRg",
@@ -75,14 +83,6 @@
       "description": "Bain & Company has embedded GPTs across its business, with dozens of proprietary applications and nearly 25000 custom ...",
       "published_at": "2025-09-02T16:00:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Iet5eRirzlY/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI to Z Challenge",
-      "video_id": "0Ka-Je6mIs8",
-      "channel_title": "OpenAI",
-      "description": "10000+ people joined the OpenAI to Z Challenge to explore how AI can push the archaeological frontier in the Amazon.",
-      "published_at": "2025-08-28T19:20:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0Ka-Je6mIs8/hqdefault.jpg"
     }
   ]
 }

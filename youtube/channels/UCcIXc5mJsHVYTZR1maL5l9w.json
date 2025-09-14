@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-07T00:28:57.774905",
+  "fetched_at": "2025-09-14T00:28:23.198316",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "New Course: Knowledge Graphs for AI Agent API Discovery",
+      "video_id": "funhZgM8uIk",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/3IfEp5R Learn how to help AI agents find and execute the right APIs in the right order using a knowledge ...",
+      "published_at": "2025-09-10T14:12:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/funhZgM8uIk/hqdefault.jpg"
+    },
     {
       "title": "New course with Neo4j! Enroll in Agentic Knowledge Graph Construction",
       "video_id": "pG5xMfkeMtg",
@@ -75,14 +83,6 @@
       "description": "Learn more: https://bit.ly/43PCo8s Introducing Building with Llama 4, a short course, created in collaboration with Meta and taught ...",
       "published_at": "2025-06-18T14:03:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/86OuivQ-q58/hqdefault.jpg"
-    },
-    {
-      "title": "New course! Orchestrating Workflows for GenAI Applications",
-      "video_id": "WvQTkMiOrxo",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/45BbJ0D When building generative AI applications, it's common to start in a Jupyter Notebook or script, ...",
-      "published_at": "2025-06-11T14:22:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WvQTkMiOrxo/hqdefault.jpg"
     }
   ]
 }

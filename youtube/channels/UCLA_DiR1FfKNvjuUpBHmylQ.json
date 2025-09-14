@@ -1,16 +1,48 @@
 {
-  "fetched_at": "2025-09-07T00:28:36.314907",
+  "fetched_at": "2025-09-14T00:28:03.849149",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 3,
+  "count": 6,
   "videos": [
     {
-      "title": "Science Launching on Northrop Grumman&#39;s 23rd Cargo Resupply Mission to the Space Station",
-      "video_id": "I6kcpC5USL8",
+      "title": "Progress 93 Cargo Ship Docking",
+      "video_id": "0XZGhnTCl88",
       "channel_title": "NASA",
-      "description": "NASA and Northrop Grumman are preparing to launch the company's next cargo mission to the International Space Station in mid ...",
-      "published_at": "2025-09-04T15:14:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I6kcpC5USL8/hqdefault.jpg"
+      "description": "After lifting off from Baikonur Cosmodrome in Kazakhstan on Thursday, Sept. 11, a Roscosmos cargo spacecraft, delivering ...",
+      "published_at": "2025-09-13T17:38:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0XZGhnTCl88/hqdefault.jpg"
+    },
+    {
+      "title": "Progress 93 Cargo Ship Launch",
+      "video_id": "cf5HfytY71w",
+      "channel_title": "NASA",
+      "description": "A Roscosmos cargo spacecraft, delivering approximately three tons of food, fuel, and supplies to the International Space Station, ...",
+      "published_at": "2025-09-11T16:10:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cf5HfytY71w/hqdefault.jpg"
+    },
+    {
+      "title": "NASA’s Northrop Grumman Commercial Resupply Services 23 Launch",
+      "video_id": "AtuFHjmwIsA",
+      "channel_title": "NASA",
+      "description": "Watch a delivery of cargo, science, and supplies launch to the International Space Station! NASA, Northrop Grumman, and ...",
+      "published_at": "2025-09-09T21:46:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AtuFHjmwIsA/hqdefault_live.jpg"
+    },
+    {
+      "title": "NASA Acting Administrator Sean Duffy: We’re Going Back to the Moon – and Staying",
+      "video_id": "Fyso-geJT6o",
+      "channel_title": "NASA",
+      "description": "NASA Acting Administrator Sean Duffy speaks on America's mission to lead in space travel: “We're going back to the Moon.",
+      "published_at": "2025-09-09T16:58:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fyso-geJT6o/hqdefault.jpg"
+    },
+    {
+      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
+      "video_id": "yf5cEJULZXk",
+      "channel_title": "NASA",
+      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
+      "published_at": "2025-09-09T13:19:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yf5cEJULZXk/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
@@ -19,14 +51,6 @@
       "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
       "published_at": "2025-09-04T13:14:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iYmvCUonukw/hqdefault_live.jpg"
-    },
-    {
-      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
-      "video_id": "sSabxiFMjKc",
-      "channel_title": "NASA",
-      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
-      "published_at": "2025-09-04T13:13:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sSabxiFMjKc/hqdefault_live.jpg"
     }
   ]
 }

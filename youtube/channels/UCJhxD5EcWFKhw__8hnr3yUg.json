@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-07T00:28:31.549581",
+  "fetched_at": "2025-09-14T00:27:59.575538",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "大阪来啦！通天阁，水族馆，一兰拉面大阪烧！",
+      "video_id": "E9zVPAt1dtA",
+      "channel_title": "码农高天",
+      "description": "大阪虽然是个相对无聊的城市，但是我们还是玩了一些地方的。一兰拉面挺好吃，但是这个炸串是有点一言难尽的。",
+      "published_at": "2025-09-12T10:30:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E9zVPAt1dtA/hqdefault.jpg"
+    },
     {
       "title": "京都第二天，金阁寺加岚山，吃的也不错哈！",
       "video_id": "ppQ4u-bPbRI",
@@ -75,14 +83,6 @@
       "description": "开始旅行以来最累的一天。明洞、国立中央博物馆加首尔塔，最后差点没走回来！",
       "published_at": "2025-07-25T10:30:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AQclZZsQyEY/hqdefault.jpg"
-    },
-    {
-      "title": "【辞职环游世界】汝矣岛上有什么？核心开发者！",
-      "video_id": "1FHFAraBeOo",
-      "channel_title": "码农高天",
-      "description": "今天我们来到了汝矣岛，KBS on还蛮有趣的，逛了逛街，然后和Python Core Dev，SC成员Donghee Na吃了个饭！韩国local的咖啡 ...",
-      "published_at": "2025-07-22T10:30:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1FHFAraBeOo/hqdefault.jpg"
     }
   ]
 }

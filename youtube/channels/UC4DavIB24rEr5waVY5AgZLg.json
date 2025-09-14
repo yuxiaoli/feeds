@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-07T00:28:12.973695",
+  "fetched_at": "2025-09-14T00:27:42.505946",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "We Call It Imagineering | Building Castles",
+      "video_id": "dQ_xNj7gkM8",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Nothing says Disney Parks like castles. Disney Castles are beloved icons, synonymous with magic, and a symbol of Disney ...",
+      "published_at": "2025-09-08T16:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dQ_xNj7gkM8/hqdefault.jpg"
+    },
     {
       "title": "New Episode of “We Call It Imagineering” Coming September 8th ✨",
       "video_id": "9h8AWP44S8A",
@@ -75,14 +83,6 @@
       "description": "learn more about the story and different disciplines who brought the lounge at Magic Kingdom to life! Requires additional ...",
       "published_at": "2025-07-31T14:39:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SpRZIYTZNC8/hqdefault.jpg"
-    },
-    {
-      "title": "Get a FIRST LOOK at the Mapmaker’s Room and the Captains’ Booths inside The Beak and Barrel.",
-      "video_id": "3K4XRwJjeBo",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "Ahoy mateys ‍☠️ There's still a lot of work to do inside the lounge before opening this year but the details are starting to make ...",
-      "published_at": "2025-07-25T19:21:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3K4XRwJjeBo/hqdefault.jpg"
     }
   ]
 }

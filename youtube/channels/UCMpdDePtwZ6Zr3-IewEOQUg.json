@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-07T00:28:38.651426",
+  "fetched_at": "2025-09-14T00:28:06.055518",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "3IATLAS：第三顆星際彗星全解析｜闢謠「外星飛船」",
+      "video_id": "JsLLmemTKjo",
+      "channel_title": "科學漫聊",
+      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
+      "published_at": "2025-09-13T12:16:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JsLLmemTKjo/hqdefault.jpg"
+    },
     {
       "title": "在冰冷殘酷的宇宙裡，意識有什麼用？三萬字深度解《盲視》",
       "video_id": "N_zZu51-lzA",
@@ -75,14 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-05-18T12:45:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/75nxlwmG9RY/hqdefault.jpg"
-    },
-    {
-      "title": "从三体到N体",
-      "video_id": "ncZoECBlM4U",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-04-30T15:17:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ncZoECBlM4U/hqdefault.jpg"
     }
   ]
 }

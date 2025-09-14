@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2025-09-07T00:28:34.745339",
+  "fetched_at": "2025-09-14T00:28:02.457082",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
+    {
+      "title": "Human Hacker vs AI Agent",
+      "video_id": "AkcibRYZxNk",
+      "channel_title": "IBM Technology",
+      "description": "Would you rather go one-on-one against a human hacker or an unstoppable AI agent? Watch the full episode of the Security ...",
+      "published_at": "2025-09-12T16:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AkcibRYZxNk/hqdefault.jpg"
+    },
+    {
+      "title": "Why language models hallucinate, revisiting Amodei’s code prediction and AI in the job market",
+      "video_id": "SjoxdH9qOTE",
+      "channel_title": "IBM Technology",
+      "description": "Subscribe for AI updates → https://ibm.biz/Bde85P Do we need more AI hallucinations? In episode 72 of Mixture of Experts, host ...",
+      "published_at": "2025-09-12T10:00:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SjoxdH9qOTE/hqdefault.jpg"
+    },
+    {
+      "title": "What Is Ethical Hacking? Roles, Skills, and Cybersecurity",
+      "video_id": "WYkbKzDfgqo",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-09-11T11:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WYkbKzDfgqo/hqdefault.jpg"
+    },
+    {
+      "title": "Vibe hacking, HexStrike AI and the latest scheme from Scattered Lapsus$ Hunters",
+      "video_id": "u-ZRZX2VZh4",
+      "channel_title": "IBM Technology",
+      "description": "Explore the Podcast → https://ibm.biz/BdepWR Learn more about cybersecurity → https://ibm.biz/BdepSw Have we made ...",
+      "published_at": "2025-09-10T10:01:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u-ZRZX2VZh4/hqdefault.jpg"
+    },
+    {
+      "title": "Optimizing Data Centers: Energy Efficiency &amp; Cloud Repatriation Strategies",
+      "video_id": "slEPd5qb98U",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified z/OS System Operator? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-09-09T11:01:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/slEPd5qb98U/hqdefault.jpg"
+    },
+    {
+      "title": "What Is Linux? From Kernel to IoT, DevOps, &amp; Supercomputers",
+      "video_id": "H8Q64gHNp6Y",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Administrator - Netezza Performance Server V11? Register now and use code IBMTechYT20 for 20% ...",
+      "published_at": "2025-09-08T11:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H8Q64gHNp6Y/hqdefault.jpg"
+    },
     {
       "title": "Google Antitrust, Anthropic&#39;s $183B leap and are we in the AI winter?",
       "video_id": "Qw8GOzs3Z0g",
@@ -11,30 +59,6 @@
       "description": "Subscribe for AI updates → https://ibm.biz/BdeerG Are browsers the right entry point for AI tools? In episode 71 of Mixture of ...",
       "published_at": "2025-09-05T10:00:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Qw8GOzs3Z0g/hqdefault.jpg"
-    },
-    {
-      "title": "Are AI Agent Identities Really Unique? AI&#39;s Role in Digital Workflows",
-      "video_id": "D9fp2OVeAIo",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-04T11:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D9fp2OVeAIo/hqdefault.jpg"
-    },
-    {
-      "title": "Security &amp; AI Governance: Reducing Risks in AI Systems",
-      "video_id": "4QXtObc61Lw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Guardium Data Protection v12.x Administrator - Professional? Register now and use code ...",
-      "published_at": "2025-09-03T11:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4QXtObc61Lw/hqdefault.jpg"
-    },
-    {
-      "title": "7 AI Terms You Need to Know: Agents, RAG, ASI &amp; More",
-      "video_id": "VSFuqMh4hus",
-      "channel_title": "IBM Technology",
-      "description": "Sign up to attend IBM TechXchange 2025 in Orlando → https://ibm.biz/BdeYDe Learn more about Artificial Intelligence (AI) here ...",
-      "published_at": "2025-09-01T11:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VSFuqMh4hus/hqdefault.jpg"
     },
     {
       "title": "Anthropic&#39;s AI Welfare Dilemma",
@@ -59,30 +83,6 @@
       "description": "Ready to become a certified Professional Architect ? Register now and use code IBMTechYT20 for 20% off of your exam ...",
       "published_at": "2025-08-05T11:01:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ctUIpkE9EKA/hqdefault.jpg"
-    },
-    {
-      "title": "AI Agents Best Practices: Monitoring, Governance, &amp; Optimization",
-      "video_id": "446x7GqXdaA",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Governance Lifecycle Advisor? Register now and use code IBMTechYT20 for 20% off of ...",
-      "published_at": "2025-07-23T11:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/446x7GqXdaA/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT Agents",
-      "video_id": "1ax9rz3kSK8",
-      "channel_title": "IBM Technology",
-      "description": "Gabe Goodheart explains when ChatGPT Agents speed things up, and when they might hold you back. #chatgpt #aiagents ...",
-      "published_at": "2025-07-22T19:46:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1ax9rz3kSK8/hqdefault.jpg"
-    },
-    {
-      "title": "AI Agents for Real-Time Lead Generation: Tools, Frameworks, &amp; LLMs",
-      "video_id": "T_c48yxTNuM",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Specialist - Rhapsody for Systems? Register now and use code IBMTechYT20 for 20% off of your ...",
-      "published_at": "2025-07-17T11:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T_c48yxTNuM/hqdefault.jpg"
     }
   ]
 }

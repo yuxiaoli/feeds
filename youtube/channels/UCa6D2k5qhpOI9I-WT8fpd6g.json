@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-07T00:28:54.454120",
+  "fetched_at": "2025-09-14T00:28:20.123116",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "为什么PostgreSQL能超越MySQL，有哪些优势？PostgreSQL登顶最受欢迎的数据库",
+      "video_id": "vuAPhx0P3ms",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 为什么Postgres能超越Mysql登顶最受欢迎的数据库，Postgres比起Mysql ...",
+      "published_at": "2025-09-09T11:46:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vuAPhx0P3ms/hqdefault.jpg"
+    },
     {
       "title": "开学必备！五款开源免费AI知识类工具，高效提取知识，重塑学习流程",
       "video_id": "cxc36t7oklI",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 本视频是一个40分钟的Docker的实战教程。涵盖了Docker的所有常用功能 ...",
       "published_at": "2025-06-28T09:24:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_-IPi1a774E/hqdefault.jpg"
-    },
-    {
-      "title": "新赛博大善人诞生了!  中国区友好的免费CDN，无限流量，DDoS防护。比cloudflare更好用？",
-      "video_id": "LCMPC_GDBeo",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "大家搭建网站的时候，一定遇到过图片/视频加载慢、浏览器显示不安全、还有担心被黑客攻击等等的问题。以往大家都会 ...",
-      "published_at": "2025-06-20T12:19:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LCMPC_GDBeo/hqdefault.jpg"
     }
   ]
 }

@@ -1,14 +1,38 @@
 {
-  "fetched_at": "2025-09-07T00:28:33.166379",
+  "fetched_at": "2025-09-14T00:28:01.017990",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
     {
+      "title": "Coding with Zach: Warp x Andrew Zigler",
+      "video_id": "LOo9F09DJCI",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-09-12T17:12:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LOo9F09DJCI/hqdefault_live.jpg"
+    },
+    {
+      "title": "How to Make Warp&#39;s UI More Minimal",
+      "video_id": "1GKsIT8FSsE",
+      "channel_title": "Warp",
+      "description": "We've gotten user feedback that Warp's UI can feel overwhelming at times. There's a lot of customization you can do in Warp to ...",
+      "published_at": "2025-09-11T19:19:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1GKsIT8FSsE/hqdefault.jpg"
+    },
+    {
+      "title": "How to setup Ollama using Warp",
+      "video_id": "Aq8vDxUg4VE",
+      "channel_title": "Warp",
+      "description": "We'll walk you through how to set up and use Ollama in Warp, step-by-step. Try Warp now for FREE https://www.warp.dev See ...",
+      "published_at": "2025-09-11T19:18:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Aq8vDxUg4VE/hqdefault.jpg"
+    },
+    {
       "title": "10 Coding Features (you should know) in Warp",
       "video_id": "oeonZ-jtzhA",
       "channel_title": "Warp",
-      "description": "Try Warp now for FREE https://www.warp.dev Warp Code is the best way to quickly iterate with agents: prompt, review, edit, and ...",
+      "description": "Try Warp now for FREE https://www.warp.dev See our official changelog https://docs.warp.dev/getting-started/changelog ...",
       "published_at": "2025-09-05T22:40:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/oeonZ-jtzhA/hqdefault.jpg"
     },
@@ -16,7 +40,7 @@
       "title": "Master Warp&#39;s Code Review Panel",
       "video_id": "4JlN0rvoZA8",
       "channel_title": "Warp",
-      "description": "Try Warp now for FREE https://www.warp.dev Warp Code is the best way to quickly iterate with agents: prompt, review, edit, and ...",
+      "description": "Try Warp now for FREE https://www.warp.dev See our official changelog https://docs.warp.dev/getting-started/changelog ...",
       "published_at": "2025-09-05T22:39:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4JlN0rvoZA8/hqdefault.jpg"
     },
@@ -40,7 +64,7 @@
       "title": "GPT-5 x Warp: Building the agentic future",
       "video_id": "pRIj3x7AkM0",
       "channel_title": "Warp",
-      "description": "",
+      "description": "Join Warp CEO Zach and OpenAI Solutions Architect Brian for an exciting live demonstration of GPT-5 integrated into Warp's ...",
       "published_at": "2025-08-20T19:07:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/pRIj3x7AkM0/hqdefault.jpg"
     },
@@ -59,30 +83,6 @@
       "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
       "published_at": "2025-08-20T18:14:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8vn2brhJrF8/hqdefault.jpg"
-    },
-    {
-      "title": "Understanding your codebase with Warp",
-      "video_id": "pohnoRZas-E",
-      "channel_title": "Warp",
-      "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
-      "published_at": "2025-08-20T18:14:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pohnoRZas-E/hqdefault.jpg"
-    },
-    {
-      "title": "Using multiple agents at once with Warp",
-      "video_id": "w0bJFC0u0pE",
-      "channel_title": "Warp",
-      "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
-      "published_at": "2025-08-20T18:14:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w0bJFC0u0pE/hqdefault.jpg"
-    },
-    {
-      "title": "Using images as context with Warp",
-      "video_id": "_Pc7bL0zAoM",
-      "channel_title": "Warp",
-      "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
-      "published_at": "2025-08-20T18:14:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_Pc7bL0zAoM/hqdefault.jpg"
     }
   ]
 }
