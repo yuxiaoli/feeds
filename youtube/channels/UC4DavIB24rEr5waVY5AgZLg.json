@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-14T00:27:42.505946",
+  "fetched_at": "2025-09-21T00:28:25.222278",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "How do Disney Imagineers make mountains? | Imagineer That!",
+      "video_id": "YLZlSxFU1rE",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "How do Imagineers make mountains? Tom Morrow 2.0 answers Michelle Khare's question from 25 years ago and finds out ...",
+      "published_at": "2025-09-15T16:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YLZlSxFU1rE/hqdefault.jpg"
+    },
     {
       "title": "We Call It Imagineering | Building Castles",
       "video_id": "dQ_xNj7gkM8",
@@ -37,7 +45,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/JiapV0WIzRw/hqdefault.jpg"
     },
     {
-      "title": "Imagineer That! | How do Imagineers think up the new rides?",
+      "title": "How do Disney Imagineers think up the new rides? | Imagineer That!",
       "video_id": "0gal-ucgFKU",
       "channel_title": "Walt Disney Imagineering",
       "description": "How do Imagineers think up the new rides? Tom Morrow 2.0 finds out all about Blue Sky and Walt Disney Imagineering's creative ...",
@@ -75,14 +83,6 @@
       "description": "Have you ever wanted to ride an attraction with an Imagineer? Now you can! Join some of the team who helped bring the ...",
       "published_at": "2025-08-05T00:00:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/D4O6q-i1zmE/hqdefault.jpg"
-    },
-    {
-      "title": "Step inside McKim’s Mile House, a Disney Vacation Club Member Lounge #waltdisneyimagineering",
-      "video_id": "SpRZIYTZNC8",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "learn more about the story and different disciplines who brought the lounge at Magic Kingdom to life! Requires additional ...",
-      "published_at": "2025-07-31T14:39:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SpRZIYTZNC8/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-14T00:27:46.250305",
+  "fetched_at": "2025-09-21T00:28:29.019103",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Atlas Getting a Leg up with End-to-end Neural Networks",
+      "video_id": "PKKI5O1vfj4",
+      "channel_title": "Boston Dynamics",
+      "description": "We are excited to share some of our progress on developing Large Behavior Models (LBMs) for Atlas. This work is part of a ...",
+      "published_at": "2025-09-15T15:43:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PKKI5O1vfj4/hqdefault.jpg"
+    },
     {
       "title": "Air Spot | RL Behavior Research | Boston Dynamics",
       "video_id": "LMPxtcEgtds",
@@ -75,14 +83,6 @@
       "description": "The latest release of Spot & Orbit allows users to unlocks insights from maintenance and beyond, helping you understand the full ...",
       "published_at": "2025-05-20T13:54:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vTgTAe53YdM/hqdefault.jpg"
-    },
-    {
-      "title": "Arm you glad to see me, Atlas? | Boston Dynamics",
-      "video_id": "dFObux6mfTc",
-      "channel_title": "Boston Dynamics",
-      "description": "In robotics, dexterity and perception go hand-in-hand, literally! Our Atlas manipulation test stand practices a range of grasps, using ...",
-      "published_at": "2025-04-28T14:04:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dFObux6mfTc/hqdefault.jpg"
     }
   ]
 }

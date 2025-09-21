@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-14T00:28:13.479835",
+  "fetched_at": "2025-09-21T00:28:57.640799",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "Financial Volatility 🔥 Asset Risk for Quants",
+      "video_id": "xZ0knkuxxMI",
+      "channel_title": "Socratica",
+      "description": "Volatility is one of the core ideas in finance. It's how we measure uncertainty and risk. Here we move from noisy price charts to ...",
+      "published_at": "2025-09-16T10:01:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xZ0knkuxxMI/hqdefault.jpg"
+    },
     {
       "title": "2D Normal Distributions",
       "video_id": "JOhoWfGWIk8",
@@ -75,14 +83,6 @@
       "description": "NOTIFY ME when the course launches: https://snu.socratica.com/quantitative-finance What do ...",
       "published_at": "2025-04-21T10:00:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eLU77gPIK4E/hqdefault.jpg"
-    },
-    {
-      "title": "What is Quantitative Finance? 📈 Intro for Aspiring Quants",
-      "video_id": "JVtUcM1sWQw",
-      "channel_title": "Socratica",
-      "description": "Connect with us on PATREON https://www.patreon.com/socratica NOTIFY ME when the ...",
-      "published_at": "2025-03-31T10:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JVtUcM1sWQw/hqdefault.jpg"
     }
   ]
 }

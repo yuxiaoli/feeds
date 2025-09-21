@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-14T00:27:44.066199",
+  "fetched_at": "2025-09-21T00:28:26.744765",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Las Megas | Tesla Megablock Event",
+      "video_id": "wNSS19XKXRE",
+      "channel_title": "Tesla",
+      "description": "Mike Snyder, VP of Tesla Energy, walks us through the next chapter of utility-scale energy storage. Megapack is our utility-scale ...",
+      "published_at": "2025-09-17T22:54:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wNSS19XKXRE/hqdefault.jpg"
+    },
     {
       "title": "Poptimus at Tesla Diner",
       "video_id": "7RxAS8Fujeo",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-13T16:24:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hUcTPt8Mpzk/hqdefault.jpg"
-    },
-    {
-      "title": "Road Trippin’ with FSD Supervised | Bay Area → LA",
-      "video_id": "bQnY_0_ZD60",
-      "channel_title": "Tesla",
-      "description": "7 hour road trips aren't so bad when your Tesla does all the driving. FSD Supervised takes the mental strain out of driving ...",
-      "published_at": "2025-08-12T20:10:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bQnY_0_ZD60/hqdefault.jpg"
     }
   ]
 }

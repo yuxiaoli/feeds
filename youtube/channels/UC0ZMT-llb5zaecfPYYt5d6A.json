@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-14T00:27:37.281645",
+  "fetched_at": "2025-09-21T00:28:19.769308",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "‘Heartland’ is coming to you Sept 26th!!! #thecastellows",
+      "video_id": "vOZdJWEbqKY",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2025-09-16T21:20:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vOZdJWEbqKY/hqdefault.jpg"
+    },
     {
       "title": "Red dirt girl is on alllll streaming platforms #thecastellows",
       "video_id": "M2VrrR_YCTU",
@@ -75,14 +83,6 @@
       "description": "The Castellows - Old Way (Acoustic Live) Listen to the EP Playlist: https://TheCastellows.lnk.to/alittlegoesalongway_playlist Follow ...",
       "published_at": "2025-07-16T04:00:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8zo0bSoVF1Y/hqdefault.jpg"
-    },
-    {
-      "title": "Sheltered acoustic version LIVE is out now🤎 #thecastellows",
-      "video_id": "jAls_DQv4g4",
-      "channel_title": "The Castellows",
-      "description": "",
-      "published_at": "2025-07-10T14:22:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jAls_DQv4g4/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-14T00:28:16.501805",
+  "fetched_at": "2025-09-21T00:29:00.937931",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Codex and the future of coding with AI — the OpenAI Podcast Ep. 6",
+      "video_id": "OXOypK7_90c",
+      "channel_title": "OpenAI",
+      "description": "What happens when AI becomes a true coding collaborator? OpenAI co-founder Greg Brockman and Codex engineering lead ...",
+      "published_at": "2025-09-15T18:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OXOypK7_90c/hqdefault.jpg"
+    },
     {
       "title": "Build Hour: Codex",
       "video_id": "WvMqA4Xwx_k",
@@ -35,14 +43,6 @@
       "description": "GPT-5 is OpenAI's most steerable reasoning model yet. This Build Hour walks through its new capabilities, how to use it in the ...",
       "published_at": "2025-09-03T00:22:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ITMouQ_EuXI/hqdefault.jpg"
-    },
-    {
-      "title": "Build Hour: Built-In Tools",
-      "video_id": "8St8elOrRPY",
-      "channel_title": "OpenAI",
-      "description": "Built-in tools let you extend models out of the box without writing custom functions. This Build Hour shows you how to use web ...",
-      "published_at": "2025-09-03T00:22:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8St8elOrRPY/hqdefault.jpg"
     },
     {
       "title": "Build Hour: Agentic Tool Calling",

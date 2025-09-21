@@ -1,7 +1,48 @@
 {
-  "fetched_at": "2025-09-14T00:28:00.242451",
+  "fetched_at": "2025-09-21T00:28:43.728579",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 0,
-  "videos": []
+  "count": 5,
+  "videos": [
+    {
+      "title": "Dreaming of career in film? Here’s how you can use Gemini to hone your craft. 🎥",
+      "video_id": "ku372-7YtS4",
+      "channel_title": "Google",
+      "description": "Veo3 #GoogleGemini.",
+      "published_at": "2025-09-18T21:37:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ku372-7YtS4/hqdefault.jpg"
+    },
+    {
+      "title": "Upgrade your profile pic with Google Gemini",
+      "video_id": "_rf7Mc2r0M0",
+      "channel_title": "Google",
+      "description": "Looking to Nano Banana your profile pic? Here are 4 prompts to try now: Graffiti Mural →Turn me into a huge, graffiti mural on the ...",
+      "published_at": "2025-09-18T18:40:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_rf7Mc2r0M0/hqdefault.jpg"
+    },
+    {
+      "title": "Using AI Mode in Google Search to do the research for you feels like ☝️",
+      "video_id": "6eQ7lU6zRfA",
+      "channel_title": "Google",
+      "description": "Ask whatever's on your mind to get an AI powered response, and keep exploring with follow-up questions and helpful web links.",
+      "published_at": "2025-09-18T18:40:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6eQ7lU6zRfA/hqdefault.jpg"
+    },
+    {
+      "title": "Team Gemini needs YOU! 📣🏀 Create your own custom figurine with Google Gemini’s  #NanoBanana.",
+      "video_id": "dmoqC0qny5I",
+      "channel_title": "Google",
+      "description": "Image editing in Gemini just got a major upgrade. Take your photos even further. Imagine yourself in different scenes, combine ...",
+      "published_at": "2025-09-17T21:44:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dmoqC0qny5I/hqdefault.jpg"
+    },
+    {
+      "title": "POV: You’re using Pro Res Zoom on the new Pixel 10 Pro XL  📸",
+      "video_id": "lb1yZ4ifS3I",
+      "channel_title": "Google",
+      "description": "Meet the brand new Google #Pixel10 Pro XL UI & Design - Latest Android UI: Material 3 Expressive - New colors for the Pixel ...",
+      "published_at": "2025-09-17T17:43:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lb1yZ4ifS3I/hqdefault.jpg"
+    }
+  ]
 }

@@ -1,80 +1,48 @@
 {
-  "fetched_at": "2025-09-14T00:27:53.649199",
+  "fetched_at": "2025-09-21T00:28:36.902590",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
-  "count": 9,
+  "count": 5,
   "videos": [
     {
-      "title": "School Project Revolutionizes Military Robotics",
-      "video_id": "ppfB-NLYCuA",
+      "title": "The Art of Cooking Sugar",
+      "video_id": "VVgepdkuQhk",
       "channel_title": "Interesting Engineering",
-      "description": "Explosive Ordnance Robot operators used to struggle with gauging depth through the robots' cameras. Not anymore. Thanks to a ...",
-      "published_at": "2025-09-13T01:30:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ppfB-NLYCuA/hqdefault.jpg"
+      "description": "Do you know how your favorite candy is made? All it takes is one very important ingredient, and very specific conditions.",
+      "published_at": "2025-09-19T23:30:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VVgepdkuQhk/hqdefault.jpg"
     },
     {
-      "title": "The Floating Solar Islands of the Maldives",
-      "video_id": "pOZ_tCcqbB8",
+      "title": "How Did The TV Come To Be?",
+      "video_id": "Q221hPSIiwY",
       "channel_title": "Interesting Engineering",
-      "description": "The Maldives have always consumed an enormous amount of energy to supplement their luxury hotels. But now Swimsol brings ...",
-      "published_at": "2025-09-13T00:30:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pOZ_tCcqbB8/hqdefault.jpg"
+      "description": "TV screens are an everyday sight in the daily modern life. But did you know that the TV is actually a century old? How did the TV ...",
+      "published_at": "2025-09-18T01:31:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q221hPSIiwY/hqdefault.jpg"
     },
     {
-      "title": "How Does Your Phone Take Selfies?",
-      "video_id": "NSAeozka_o4",
+      "title": "Lamborghini Pregunta On Auction",
+      "video_id": "LScrxE3XaG0",
       "channel_title": "Interesting Engineering",
-      "description": "Phone cameras have become irreplaceable in our lives today. But have you ever wondered how it works? How does a small ...",
-      "published_at": "2025-09-12T18:31:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NSAeozka_o4/hqdefault.jpg"
+      "description": "The world's only Lamborghini Pregunta is back on the market. Inspired by a fighter jet, it was made in 1998 as a creative project, ...",
+      "published_at": "2025-09-18T00:30:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LScrxE3XaG0/hqdefault.jpg"
     },
     {
-      "title": "The World&#39;s ONLY Natural Nuclear Reactor",
-      "video_id": "aU7LmsFkRjs",
+      "title": "Las Vegas&#39; New Robot Host",
+      "video_id": "H40ev1OZMqc",
       "channel_title": "Interesting Engineering",
-      "description": "Would you believe that a natural nuclear reactor exists? Scientists thought it was impossible! But it's real. The Oklo nuclear reactor ...",
-      "published_at": "2025-09-12T01:30:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aU7LmsFkRjs/hqdefault.jpg"
+      "description": "Oto the robot is wowing tourists with its friendly conversational skills and Vegas touring tips. Found in the Otonomus Hotel, it's part ...",
+      "published_at": "2025-09-17T23:31:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H40ev1OZMqc/hqdefault.jpg"
     },
     {
-      "title": "Uber Ready To Offer Air Taxis",
-      "video_id": "UPnIhBDZbYc",
+      "title": "We Need These Trains",
+      "video_id": "2K1npWgtbWo",
       "channel_title": "Interesting Engineering",
-      "description": "Are you ready to book an air uber? Joby Aviation has partnered with Uber to start offering air taxis through the uber app.",
-      "published_at": "2025-09-12T00:30:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UPnIhBDZbYc/hqdefault.jpg"
-    },
-    {
-      "title": "NASA Reports Life On Mars",
-      "video_id": "3v5IL3-CEG0",
-      "channel_title": "Interesting Engineering",
-      "description": "Has NASA really found life on Mars? Perseverance just sent back images containing traces of minerals that could've only been ...",
-      "published_at": "2025-09-11T11:18:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3v5IL3-CEG0/hqdefault.jpg"
-    },
-    {
-      "title": "New iPhone Camera Dock Lets You Film Like A Pro",
-      "video_id": "r-EAPOKdLFQ",
-      "channel_title": "Interesting Engineering",
-      "description": "Features like GENLOCK and Timecode in, previously restricted to professional camera equipment, are now at your fingertips, ...",
-      "published_at": "2025-09-10T13:03:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r-EAPOKdLFQ/hqdefault.jpg"
-    },
-    {
-      "title": "Rumors of iPhone 17 Air Releasing Today",
-      "video_id": "YhTdeHz3ey4",
-      "channel_title": "Interesting Engineering",
-      "description": "With Apple's 'awe dropping' event coming up, everyone is eager to guess what announcements they might have for the iPhone 17 ...",
-      "published_at": "2025-09-09T15:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YhTdeHz3ey4/hqdefault.jpg"
-    },
-    {
-      "title": "Will Humanoid Robots Take Our Jobs?",
-      "video_id": "D9Br0hD6jUw",
-      "channel_title": "Interesting Engineering",
-      "description": "Humanoid Robotics is coming along in leaps and bounds. In just a few years they have gone from barely walking to actually being ...",
-      "published_at": "2025-09-02T06:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D9Br0hD6jUw/hqdefault.jpg"
+      "description": "Countries like Japan and China are introducing ultra futuristic floating Maglev trains on top of their already superior high speed ...",
+      "published_at": "2025-09-14T08:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2K1npWgtbWo/hqdefault.jpg"
     }
   ]
 }

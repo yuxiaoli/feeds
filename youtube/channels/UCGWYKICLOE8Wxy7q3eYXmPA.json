@@ -1,16 +1,40 @@
 {
-  "fetched_at": "2025-09-14T00:27:56.624930",
+  "fetched_at": "2025-09-21T00:28:39.893044",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "【人工智能】计算机视觉概述 | 斯坦福大学2025年CS231N第一课 | 李飞飞 | 计算机视觉 | 深度学习 | 寒武纪大爆发 | 神经科学 | ImageNet | AlexNet | 课程结构",
-      "video_id": "A8pyWJuO9xw",
+      "title": "【人工智能】AI需要真正的创造力 | Demis Hassabis最新专访 | 诺奖感受 | DeepMind | Genie世界模型 | 机器人Android | 加速科学发现 | 创造力的民主化",
+      "video_id": "Q0vP9S-VAPg",
       "channel_title": "最佳拍档",
-      "description": "最近，斯坦福大学2025年春季的CS231N课程，开始了首次授课，主讲人是全球AI领域的顶尖学者、计算机视觉的奠基人之一， ...",
-      "published_at": "2025-09-13T09:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/A8pyWJuO9xw/hqdefault.jpg"
+      "description": "前几天，Google DeepMind的CEO德米斯·哈萨比斯（Demis Hassabis），参加了All-In Podcast的播客专访，在这期节目中，他不仅 ...",
+      "published_at": "2025-09-18T09:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q0vP9S-VAPg/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】Optimus、Tesla、Starlink、Starship最新进展 | Elon Musk All In Summit专访 | 机器人v3 | FSD | 星链手机 | 星舰v3",
+      "video_id": "VOs9lfsTaFs",
+      "channel_title": "最佳拍档",
+      "description": "9月10日，埃隆・马斯克（Elon Musk）在All-in-Summit 峰会上进行了一场四十分钟的访谈，期间他不仅甩出了Optimus 人形 ...",
+      "published_at": "2025-09-17T09:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VOs9lfsTaFs/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】英伟达发布最新Robin CPX GPU | 预填充专用芯片 | GDDR7内存 | 无Nvlink | 三种机架方案 | 分布式服务 | 竞争对手面临压力 | 内存市场影响 | 巨大飞跃",
+      "video_id": "_sKSQNdlmiU",
+      "channel_title": "最佳拍档",
+      "description": "9月9日的AI 基础设施峰会上，英伟达宣布推出一款名为Rubin CPX的新GPU，号称专门为超过100 万token 的长上下文推理而设计。",
+      "published_at": "2025-09-16T09:01:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_sKSQNdlmiU/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】更好的数据才是一切 | Datology创始人Ari Morcos | 数据对AI的重要性 | 归纳偏置 | 长期投入不足 | 冗余和自动化 | 合成数据 | 知识蒸馏",
+      "video_id": "N9T93sQsIHc",
+      "channel_title": "最佳拍档",
+      "description": "在Latent Space的播客节目中，DatologyAI 的创始人阿里·莫科斯Ari Morcos 反复强调的一个核心观点是，模型吃进去什么，就会成为 ...",
+      "published_at": "2025-09-15T09:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N9T93sQsIHc/hqdefault.jpg"
     },
     {
       "title": "【人工智能】击败大模型推理的非确定性 | Thinking Machines | 批次不变性缺失 | 浮点数非结合性 | 归约化顺序 | 批次不变内核 | RMSNorm | 矩阵乘法 | 注意力机制",
@@ -19,38 +43,6 @@
       "description": "9月11日当天，Thinking Machines Lab正式推出了他们的研究博客，名字叫Connectionism，翻译过来就是联结主义。而博客的第一 ...",
       "published_at": "2025-09-12T09:01:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eYq6Zc1M6pU/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】Codex的前世今生和未来 | 软件吞噬世界而AI正在吞噬软件工程 | Alexander Embiricos | 云端Agent | 反直觉设计 | 封闭还是开放 | 就业建议",
-      "video_id": "XI58sdqHvfw",
-      "channel_title": "最佳拍档",
-      "description": "Claude Code是最好的AI编程工具么？可能有人并不同意。最近，Codex负责人亚历山大·恩比里科斯（Alexander Embiricos）在 ...",
-      "published_at": "2025-09-11T09:00:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XI58sdqHvfw/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】为什么大语言模型会幻觉 | OpenAI最新论文 | 预训练 | 统计误差传导 | 后训练 | 评估机制激励错位 | IIV有效性判断 | 任意事实 | 二元评分 | 解决办法和不足",
-      "video_id": "R3BvSiPuk08",
-      "channel_title": "最佳拍档",
-      "description": "来自OpenAI和佐治亚理工联合发表的论文《为什么语言模型会有幻觉（Why Language Models Hallucinate）》。这篇论文的价值 ...",
-      "published_at": "2025-09-10T09:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R3BvSiPuk08/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】Ilya忠实信徒凭借AI预言撬动15亿美元 | 23岁天才 | 被OpenAI开除 | 态势感知 | 47%收益 | 2027AGI | 模型进化速度 | 算力增长 | 解开效应",
-      "video_id": "mehWYKHNsy0",
-      "channel_title": "最佳拍档",
-      "description": "今天要和大家聊的，堪称AI行业与投资圈的“双重反转剧”，一个23岁的德国年轻人，曾经是OpenAI核心人物伊利亚·苏茨克维尔（Ilya ...",
-      "published_at": "2025-09-09T09:01:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mehWYKHNsy0/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】12 Factor Agents | 构建生产环境Agent的十二个原则 | HumanLayer | Dexter Horthy | 反框架理念 | 控制核心组件",
-      "video_id": "D8_HxaHGLGs",
-      "channel_title": "最佳拍档",
-      "description": "今天我想和大家聊的“12-Factor Agents”，翻译过来就是Agent的十二个设计原则，正好前几天也有观众在评论区提到了它。需要说明 ...",
-      "published_at": "2025-09-08T09:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D8_HxaHGLGs/hqdefault.jpg"
     },
     {
       "title": "【人工智能】Meta遭遇AI人才大流失 | 天价挖人失效 | MSI | AI团队重组 | 新员工重回OpenAI | 老员工不满 | 为竞争对手培养人才 | 内部组织架构和文化问题",
@@ -83,6 +75,14 @@
       "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 在最新一期的Decoder节目中，托马斯·多姆克与主持人亚历克斯·希思（Alex ...",
       "published_at": "2025-08-22T09:00:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Qn5eCavq68I/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】推理的本质 | Denny Zhou斯坦福讲座 | 什么是推理 | 思考的必要性 | 思维链提示 | 贪婪解码 | 置信度 | step-by-step | SFT | 验证器",
+      "video_id": "s00fy5RkCHc",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 最近，DeepMind首席科学家兼研究总监丹尼·周，在斯坦福大学做了一场讲座 ...",
+      "published_at": "2025-08-19T09:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s00fy5RkCHc/hqdefault.jpg"
     }
   ]
 }

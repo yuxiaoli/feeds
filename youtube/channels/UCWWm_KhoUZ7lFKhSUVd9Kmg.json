@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-14T00:28:14.231646",
+  "fetched_at": "2025-09-21T00:28:58.397405",
   "channel_id": "UCWWm_KhoUZ7lFKhSUVd9Kmg",
   "channel_title": "Redline Underground Cars",
   "count": 10,
   "videos": [
+    {
+      "title": "We brought the world famous Diamond Wrap to Las Vegas",
+      "video_id": "hFMzzp2FLL8",
+      "channel_title": "Redline Underground Cars",
+      "description": "",
+      "published_at": "2025-09-17T23:05:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hFMzzp2FLL8/hqdefault.jpg"
+    },
     {
       "title": "The road to success does not have spin limits☠️",
       "video_id": "FfmbbnkgH-Y",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-11T01:41:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/rsWkI3hAuCY/hqdefault.jpg"
-    },
-    {
-      "title": "This looks like it came out of a movie 😨🤯",
-      "video_id": "_KiQAAZcz2o",
-      "channel_title": "Redline Underground Cars",
-      "description": "",
-      "published_at": "2025-08-10T21:08:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_KiQAAZcz2o/hqdefault.jpg"
     }
   ]
 }

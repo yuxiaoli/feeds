@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-14T00:28:12.709976",
+  "fetched_at": "2025-09-21T00:28:56.815028",
   "channel_id": "UCV0qA-eDDICsRR9rPcnG7tw",
   "channel_title": "Joma Tech",
   "count": 10,
   "videos": [
+    {
+      "title": "what I&#39;ve been working on...",
+      "video_id": "nbBP7FurTcI",
+      "channel_title": "Joma Tech",
+      "description": "",
+      "published_at": "2025-09-19T12:15:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nbBP7FurTcI/hqdefault.jpg"
+    },
     {
       "title": "how the FTX collapse ACTUALLY happened...",
       "video_id": "hl-6GpwoTfA",
@@ -75,14 +83,6 @@
       "description": "Looking for a Software Engineering job? Current is hiring! A lot: https://current.com/jomatech Huuuge thanks to @StevenHe for ...",
       "published_at": "2022-03-10T16:11:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/314OLE6mKOo/hqdefault.jpg"
-    },
-    {
-      "title": "NFT projects in a nutshell",
-      "video_id": "JgdP7oWP0_0",
-      "channel_title": "Joma Tech",
-      "description": "i like the rock Follow me on Twitter: https://twitter.com/jomakaze **Pre Production** Special thanks to Jacob for helping me write ...",
-      "published_at": "2022-02-19T14:54:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JgdP7oWP0_0/hqdefault.jpg"
     }
   ]
 }

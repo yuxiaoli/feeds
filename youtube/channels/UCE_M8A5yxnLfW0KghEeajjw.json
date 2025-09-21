@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-14T00:27:51.401207",
+  "fetched_at": "2025-09-21T00:28:34.611419",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "iPhone 17 Pro | The Ultimate Pro | Apple",
+      "video_id": "h6CwwHyQxKI",
+      "channel_title": "Apple",
+      "description": "This is iPhone 17 Pro. With a durable design and 48MP Pro Fusion camera system, it's the ultimate Pro. It has a heat-forged ...",
+      "published_at": "2025-09-19T00:00:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h6CwwHyQxKI/hqdefault.jpg"
+    },
     {
       "title": "iPhone 17 Pro or iPhone Air? #Shorts",
       "video_id": "OeGEtgG1aMg",
@@ -75,14 +83,6 @@
       "description": "Here's major news from our latest event. Featuring iPhone 17 Pro, iPhone Air, iPhone 17, AirPods Pro 3, and Apple Watch Series ...",
       "published_at": "2025-09-09T18:28:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SjiSncG09Pk/hqdefault.jpg"
-    },
-    {
-      "title": "Apple Event — September 9",
-      "video_id": "H3KnMyojEQU",
-      "channel_title": "Apple",
-      "description": "Watch the special Apple Event to learn about iPhone 17, iPhone Air, and iPhone 17 Pro. Plus Apple Watch Series 11, Apple ...",
-      "published_at": "2025-09-09T18:19:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H3KnMyojEQU/hqdefault.jpg"
     }
   ]
 }

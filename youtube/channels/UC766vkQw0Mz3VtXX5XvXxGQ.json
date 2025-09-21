@@ -1,7 +1,24 @@
 {
-  "fetched_at": "2025-09-14T00:27:44.759012",
+  "fetched_at": "2025-09-21T00:28:27.500114",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 0,
-  "videos": []
+  "count": 2,
+  "videos": [
+    {
+      "title": "Anything for chimichangas 🫡 🌯 #MarvelsDeadpoolVR launches Nov 18, only on Meta Quest #MetaConnect",
+      "video_id": "rEywruM2t2s",
+      "channel_title": "Meta Quest ",
+      "description": "Featuring: @Caboose.",
+      "published_at": "2025-09-20T03:43:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rEywruM2t2s/hqdefault.jpg"
+    },
+    {
+      "title": "This is what peak performance looks like. #MarvelsDeadpoolVR #MetaQuest",
+      "video_id": "aNYH4ncV2AU",
+      "channel_title": "Meta Quest ",
+      "description": "",
+      "published_at": "2025-09-20T01:32:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aNYH4ncV2AU/hqdefault.jpg"
+    }
+  ]
 }

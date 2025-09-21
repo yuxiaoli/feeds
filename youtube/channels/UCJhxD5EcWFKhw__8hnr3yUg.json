@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-09-14T00:27:59.575538",
+  "fetched_at": "2025-09-21T00:28:42.968586",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "吉隆坡还挺繁华，见了一下PyCon MY的小伙伴！",
+      "video_id": "q1XUq0DyhEE",
+      "channel_title": "码农高天",
+      "description": "我们的旅程又开始了！这次是吉隆坡两日行，去了最重要的一些景点，还打卡了马来西亚当地美食。最重要的见了一下PyCon MY的 ...",
+      "published_at": "2025-09-20T10:30:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/q1XUq0DyhEE/hqdefault.jpg"
+    },
+    {
+      "title": "救命！我被奈良的鹿袭击了！",
+      "video_id": "G3XUgbJ3qUw",
+      "channel_title": "码农高天",
+      "description": "奈良是在日本玩的最有趣的一天，也是最狼狈的一天。奈良的小鹿有的很有礼貌，有的很讨厌啊！！！",
+      "published_at": "2025-09-16T10:30:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G3XUgbJ3qUw/hqdefault.jpg"
+    },
     {
       "title": "大阪来啦！通天阁，水族馆，一兰拉面大阪烧！",
       "video_id": "E9zVPAt1dtA",
@@ -67,22 +83,6 @@
       "description": "我们从首尔来到了釜山，釜山比首尔好玩多了呢！从海东龙宫寺到海边的小火车，是开心的一天了。",
       "published_at": "2025-08-03T13:00:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0YxzwrhNt8o/hqdefault.jpg"
-    },
-    {
-      "title": "【辞职环游世界】这景福宫怎么有点像横店啊",
-      "video_id": "GvgQa_NjjBM",
-      "channel_title": "码农高天",
-      "description": "首尔的最后一天，我们来到了景福宫，稍微有点失望。但是更失望的是韩国的美食！",
-      "published_at": "2025-07-31T10:30:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GvgQa_NjjBM/hqdefault.jpg"
-    },
-    {
-      "title": "【辞职环游世界】首尔塔日落之差点没回来",
-      "video_id": "AQclZZsQyEY",
-      "channel_title": "码农高天",
-      "description": "开始旅行以来最累的一天。明洞、国立中央博物馆加首尔塔，最后差点没走回来！",
-      "published_at": "2025-07-25T10:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AQclZZsQyEY/hqdefault.jpg"
     }
   ]
 }

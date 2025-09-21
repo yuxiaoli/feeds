@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2025-09-14T00:27:37.998442",
+  "fetched_at": "2025-09-21T00:28:20.558448",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
-    {
-      "title": "Building with GPT-5 in Azure AI Foundry: Apps, Code and Insight",
-      "video_id": "Hl6Rf1f-vpU",
-      "channel_title": "Microsoft Azure",
-      "description": "Discover how GPT-5 in Azure AI Foundry, is transforming the way developers, researchers, and enterprises build intelligent ...",
-      "published_at": "2025-09-08T18:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hl6Rf1f-vpU/hqdefault.jpg"
-    },
     {
       "title": "Introducing Microsoft Azure Face Liveness",
       "video_id": "3ysxiX49oxw",
@@ -83,6 +75,14 @@
       "description": "Water is fundamental to our existence, but only a tiny fraction of fresh water on Earth is available to sustain life. How can we ...",
       "published_at": "2025-05-28T16:01:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/c7R6auLG6fg/hqdefault.jpg"
+    },
+    {
+      "title": "Demo: Azure AI Foundry SDK",
+      "video_id": "mOs3-4S1_Ys",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover the latest capabilities offered in the unified Azure AI Foundry SDK. Design, customize, and manage AI applications and ...",
+      "published_at": "2025-05-19T16:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mOs3-4S1_Ys/hqdefault.jpg"
     }
   ]
 }

@@ -1,24 +1,48 @@
 {
-  "fetched_at": "2025-09-14T00:27:45.462583",
+  "fetched_at": "2025-09-21T00:28:28.226817",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 10,
+  "count": 6,
   "videos": [
     {
-      "title": "Open Source Friday with Guardrails AI",
-      "video_id": "ireCH411CPY",
+      "title": "Open Source Friday with varlock: The Future of Configuration Management",
+      "video_id": "5ShnL40r-ko",
       "channel_title": "GitHub",
-      "description": "This #OpenSourceFriday, we're spotlighting Guardrails AI—an open source framework for adding safety, reliability, and ...",
-      "published_at": "2025-09-13T06:05:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ireCH411CPY/hqdefault.jpg"
+      "description": "Join us this week for Open Source Friday as we welcome Phil Miller and Theo Ephraim, the creators of varlock! varlock is an open ...",
+      "published_at": "2025-09-20T06:03:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5ShnL40r-ko/hqdefault.jpg"
     },
     {
-      "title": "Are you part of an open source project that built FAST using GitHub tools?",
-      "video_id": "bna0GAkzXdA",
+      "title": "Jueves de Quack con Gisela Torres",
+      "video_id": "LLih8bO_bCA",
       "channel_title": "GitHub",
-      "description": "Post a 2min video sharing your development story by September 19 and submit it here: gh.io/zerotomerged You might just be ...",
-      "published_at": "2025-09-12T18:15:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bna0GAkzXdA/hqdefault.jpg"
+      "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde Gisela Torres nos enseñará cómo aprovechar la nueva ...",
+      "published_at": "2025-09-19T15:26:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LLih8bO_bCA/hqdefault_live.jpg"
+    },
+    {
+      "title": "Jueves de Quack",
+      "video_id": "6bD7H1gXyVM",
+      "channel_title": "GitHub",
+      "description": "Únete a nosotros para un stream informal en español! En esta sesión, veremos cómo funciona MCP, y además discutiremos ...",
+      "published_at": "2025-09-19T15:16:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6bD7H1gXyVM/hqdefault_live.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursday - Hacking with MCP Servers + a surprise! 👀",
+      "video_id": "SfVwyKnfWKk",
+      "channel_title": "GitHub",
+      "description": "Let's keep building out our project and use some MCP servers! Plus, we have a special surprise for ya Come vibe + build with ...",
+      "published_at": "2025-09-19T07:22:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SfVwyKnfWKk/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursday - Let&#39;s Hack!",
+      "video_id": "bZq_SaVyt0I",
+      "channel_title": "GitHub",
+      "description": "Let's keeping hacking on our project and using mcp server. The repo to the project is here: https://gh.io/advocatehub.",
+      "published_at": "2025-09-18T21:31:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bZq_SaVyt0I/hqdefault_live.jpg"
     },
     {
       "title": "Open Source Friday: Julia – High-Performance Open Source Language",
@@ -27,62 +51,6 @@
       "description": "Join us for Open Source Friday as we welcome Viral B. Shah, co-creator of the Julia Programming Language and CEO of ...",
       "published_at": "2025-09-12T17:43:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7_t7M6jPgko/hqdefault_live.jpg"
-    },
-    {
-      "title": "Open Source Friday: Joplin – Open Source Note-taking &amp; Privacy",
-      "video_id": "Gz1b_ujD6X4",
-      "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday as we chat with Laurent Cozic, creator of Joplin, the open source note-taking app focused on ...",
-      "published_at": "2025-09-12T17:18:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gz1b_ujD6X4/hqdefault_live.jpg"
-    },
-    {
-      "title": "Open Source Friday: Mautic – Marketing Automation for Everyone",
-      "video_id": "ZmNwaa0q5dI",
-      "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday as we welcome Ruth Cheesley of Mautic, the world's largest open source marketing automation ...",
-      "published_at": "2025-09-12T16:57:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZmNwaa0q5dI/hqdefault_live.jpg"
-    },
-    {
-      "title": "The Download: A major npm supply chain attack, NVIDIA&#39;s new chip &amp; more",
-      "video_id": "GQ0tqZXxaIk",
-      "channel_title": "GitHub",
-      "description": "This week on The Download, we're leading with a critical security story: a supply chain attack that targeted numerous npm ...",
-      "published_at": "2025-09-12T14:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GQ0tqZXxaIk/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursday - Hacking with MCP Servers!",
-      "video_id": "kd3ftKBzGv8",
-      "channel_title": "GitHub",
-      "description": "Let's keep building out our project and use the PlayWright MCP Server for visual testing! This is gonna be awesome! Come build ...",
-      "published_at": "2025-09-12T07:13:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kd3ftKBzGv8/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursday - Hacking with MCP Servers + a surprise! 👀",
-      "video_id": "SfVwyKnfWKk",
-      "channel_title": "GitHub",
-      "description": "Let's keep building out our project and use some MCP servers! Plus, we have a special surprise for ya Come vibe + build with ...",
-      "published_at": "2025-09-11T19:20:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SfVwyKnfWKk/hqdefault_live.jpg"
-    },
-    {
-      "title": "7 essential Git concepts every beginner needs to know",
-      "video_id": "0F8tFJncsxQ",
-      "channel_title": "GitHub",
-      "description": "New to Git and GitHub? This video is the perfect place to start. We break down the 7 fundamental concepts that form the ...",
-      "published_at": "2025-09-11T14:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0F8tFJncsxQ/hqdefault.jpg"
-    },
-    {
-      "title": "Inside GitHub Universe: Hosted by Andrea Griffiths &amp; Kedasha Kerr",
-      "video_id": "cFb3zGrNJ_U",
-      "channel_title": "GitHub",
-      "description": "Get ready for GitHub Universe 2025! In this special live stream on September 15, Andrea Griffiths and Kedasha Kerr take you ...",
-      "published_at": "2025-09-04T16:24:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cFb3zGrNJ_U/hqdefault_live.jpg"
     }
   ]
 }

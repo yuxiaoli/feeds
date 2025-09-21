@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-14T00:27:40.997123",
+  "fetched_at": "2025-09-21T00:28:23.665315",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "库克, 我们需要这个",
+      "video_id": "wkDPaUnhEmE",
+      "channel_title": "Karminski-牙医",
+      "description": "iphone 17 已经发布一周了，我个人觉得今年这个星宇橙色真的一言难尽，那如果是其他颜色，比如粉色，会好看吗？ 于是我分析了 ...",
+      "published_at": "2025-09-18T23:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wkDPaUnhEmE/hqdefault.jpg"
+    },
     {
       "title": "Qwen3-Next-80B-A3B 实测! 能跟头部模型对打吗?",
       "video_id": "I69r_fEKabw",
@@ -16,7 +24,7 @@
       "title": "用 Qwen3-Coder 做一个 NanoBanana 封面生成器",
       "video_id": "zKEbsh8icnA",
       "channel_title": "Karminski-牙医",
-      "description": "来教大家使用 Qwen3-Coder 制作这个 nano banana 杂志封面生成器. 只需要 3 个 prompt 哦~ 这个封面生成器只需要选择喜欢的杂志 ...",
+      "description": "来教大家使用Qwen3-Coder 制作这个nano banana 杂志封面生成器. 只需要3 个prompt 哦~ 这个封面生成器只需要选择喜欢的杂志 ...",
       "published_at": "2025-09-12T02:55:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zKEbsh8icnA/hqdefault.jpg"
     },
@@ -75,14 +83,6 @@
       "description": "教程第二弹来啦! 这次选取了新海诚老师过去的作品里面的13个元素(有一些是随便找的哈哈哈), 然后使用nano-banana 将这些元素 ...",
       "published_at": "2025-09-02T17:39:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZqAU7RMEVfA/hqdefault.jpg"
-    },
-    {
-      "title": "nano-banana 教程①! 如何将照片转换为城市天际线风格的建筑!",
-      "video_id": "safGRaEOFYw",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家来个短小精悍的nano-banana 教程系列, 日更哈！ 今天是第一弹! 如何将你看到的建筑转换为城市天际线风格的3D建筑模型！",
-      "published_at": "2025-09-02T17:34:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/safGRaEOFYw/hqdefault.jpg"
     }
   ]
 }

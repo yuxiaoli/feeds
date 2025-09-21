@@ -1,40 +1,80 @@
 {
-  "fetched_at": "2025-09-14T00:28:03.849149",
+  "fetched_at": "2025-09-21T00:28:47.641594",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 6,
+  "count": 10,
   "videos": [
     {
-      "title": "Progress 93 Cargo Ship Docking",
-      "video_id": "0XZGhnTCl88",
+      "title": "Artemis II Crew News Conference (Sept. 24, 2025)",
+      "video_id": "9mq_lb_SmKE",
       "channel_title": "NASA",
-      "description": "After lifting off from Baikonur Cosmodrome in Kazakhstan on Thursday, Sept. 11, a Roscosmos cargo spacecraft, delivering ...",
-      "published_at": "2025-09-13T17:38:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0XZGhnTCl88/hqdefault.jpg"
+      "description": "The four astronauts of Artemis II, which will lift off to fly around the Moon in early 2026, are sharing updates on the mission and ...",
+      "published_at": "2025-09-18T21:48:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9mq_lb_SmKE/hqdefault_live.jpg"
     },
     {
-      "title": "Progress 93 Cargo Ship Launch",
-      "video_id": "cf5HfytY71w",
+      "title": "NASA’s Northrop Grumman Commercial Resupply Services 23 Installation",
+      "video_id": "zhNX543aYQA",
       "channel_title": "NASA",
-      "description": "A Roscosmos cargo spacecraft, delivering approximately three tons of food, fuel, and supplies to the International Space Station, ...",
-      "published_at": "2025-09-11T16:10:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cf5HfytY71w/hqdefault.jpg"
+      "description": "Northrop Grumman's CRS-23 mission to the International Space Station has arrived at the International Space Station. Now, the ...",
+      "published_at": "2025-09-18T14:20:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zhNX543aYQA/hqdefault.jpg"
     },
     {
-      "title": "NASA’s Northrop Grumman Commercial Resupply Services 23 Launch",
-      "video_id": "AtuFHjmwIsA",
+      "title": "NASA’s Northrop Grumman Commercial Resupply Services 23 Rendezvous and Capture",
+      "video_id": "xNbNen3p0Qs",
       "channel_title": "NASA",
-      "description": "Watch a delivery of cargo, science, and supplies launch to the International Space Station! NASA, Northrop Grumman, and ...",
-      "published_at": "2025-09-09T21:46:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AtuFHjmwIsA/hqdefault_live.jpg"
+      "description": "Northrop Grumman's CRS-23 mission to the International Space Station is arriving filled with cargo, science, and supplies.",
+      "published_at": "2025-09-18T11:49:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xNbNen3p0Qs/hqdefault.jpg"
     },
     {
-      "title": "NASA Acting Administrator Sean Duffy: We’re Going Back to the Moon – and Staying",
-      "video_id": "Fyso-geJT6o",
+      "title": "NASA Prelaunch News Conference on Three New Space Weather Missions (Sept. 21, 2025)",
+      "video_id": "E-gzwILmPig",
       "channel_title": "NASA",
-      "description": "NASA Acting Administrator Sean Duffy speaks on America's mission to lead in space travel: “We're going back to the Moon.",
-      "published_at": "2025-09-09T16:58:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Fyso-geJT6o/hqdefault.jpg"
+      "description": "Experts from NASA, NOAA, and the Space Force will discuss three new missions to study space weather and its impacts on the ...",
+      "published_at": "2025-09-16T21:19:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E-gzwILmPig/hqdefault_live.jpg"
+    },
+    {
+      "title": "Artemis II Mission Overview News Conference (Sept. 23, 2025)",
+      "video_id": "SFvHUa4_VOU",
+      "channel_title": "NASA",
+      "description": "After the successful Artemis I uncrewed flight around the Moon in 2022, Artemis II is the next step in our journey from the Moon to ...",
+      "published_at": "2025-09-16T16:30:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SFvHUa4_VOU/hqdefault_live.jpg"
+    },
+    {
+      "title": "Artemis II Science News Conference (Sept. 23, 2025)",
+      "video_id": "lH9BiTu4bAY",
+      "channel_title": "NASA",
+      "description": "After the successful Artemis I uncrewed flight around the Moon in 2022, Artemis II is the next step in our journey from the Moon to ...",
+      "published_at": "2025-09-16T16:27:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lH9BiTu4bAY/hqdefault_live.jpg"
+    },
+    {
+      "title": "NASA Science News Conference on Three New Space Weather Missions (Sept. 21, 2025)",
+      "video_id": "L4xu4OZ_KHI",
+      "channel_title": "NASA",
+      "description": "Three new missions to track space weather are launching on a Falcon 9 rocket no earlier than Sept. 23: NASA's Interstellar ...",
+      "published_at": "2025-09-15T19:05:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L4xu4OZ_KHI/hqdefault_live.jpg"
+    },
+    {
+      "title": "Three New Missions Launch to Track Space Weather",
+      "video_id": "vNRrfamTT4k",
+      "channel_title": "NASA",
+      "description": "We're about to launch three new observatories that will study the Sun—and help us protect Earth. Come watch with us! NASA's ...",
+      "published_at": "2025-09-12T17:48:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vNRrfamTT4k/hqdefault_live.jpg"
+    },
+    {
+      "title": "NASA Selects 2025 Astronaut Candidates",
+      "video_id": "frX3-5xuGQs",
+      "channel_title": "NASA",
+      "description": "Meet our newest astronaut candidates! Live from NASA's Johnson Space Center, we're introducing our 2025 class of astronaut ...",
+      "published_at": "2025-09-11T16:32:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/frX3-5xuGQs/hqdefault_live.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
@@ -43,14 +83,6 @@
       "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
       "published_at": "2025-09-09T13:19:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/yf5cEJULZXk/hqdefault_live.jpg"
-    },
-    {
-      "title": "Live Video from the International Space Station (Official NASA Stream)",
-      "video_id": "iYmvCUonukw",
-      "channel_title": "NASA",
-      "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
-      "published_at": "2025-09-04T13:14:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iYmvCUonukw/hqdefault_live.jpg"
     }
   ]
 }

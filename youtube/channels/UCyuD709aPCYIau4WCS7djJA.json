@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-09-14T00:28:41.232037",
+  "fetched_at": "2025-09-21T00:29:26.645302",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Are you ready for the equinox? 🍂🌸",
+      "video_id": "NX2vrf5-SAs",
+      "channel_title": "Star Walk",
+      "description": "",
+      "published_at": "2025-09-20T22:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NX2vrf5-SAs/hqdefault.jpg"
+    },
+    {
+      "title": "Venus vanishes behind the Moon! 🌘🌟",
+      "video_id": "tiyH4VEubps",
+      "channel_title": "Star Walk",
+      "description": "On September 19, from 10:34 to 14:26 GMT, enjoy the lunar occultation of Venus. Visible to the naked eye, though binoculars ...",
+      "published_at": "2025-09-18T15:24:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tiyH4VEubps/hqdefault.jpg"
+    },
+    {
+      "title": "Best time to see Saturn in 2025! 🪐✨",
+      "video_id": "k4aqMnfHrsg",
+      "channel_title": "Star Walk",
+      "description": "To easily find the planet in your sky, use the Sky Tonight or Star Walk 2 app.",
+      "published_at": "2025-09-17T05:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k4aqMnfHrsg/hqdefault.jpg"
+    },
     {
       "title": "Imagine flying through the Universe… 🌌",
       "video_id": "s7QmZutZkTc",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2025-08-21T13:17:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hNgVAV80tXM/hqdefault.jpg"
-    },
-    {
-      "title": "Same Earth, different sky 🌌",
-      "video_id": "rDWufChRbIs",
-      "channel_title": "Star Walk",
-      "description": "See how constellations shift depending on your location: In the Northern Hemisphere, classics like the Big Dipper, Cassiopeia, ...",
-      "published_at": "2025-08-20T08:55:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rDWufChRbIs/hqdefault.jpg"
-    },
-    {
-      "title": "Snowy peak in space?",
-      "video_id": "VBirfJCOUzk",
-      "channel_title": "Star Walk",
-      "description": "These breathtaking images of Comet 67P Churyumov-Gerasimenko, captured by the ESA's Rosetta spacecraft in 2016, show ...",
-      "published_at": "2025-08-16T22:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VBirfJCOUzk/hqdefault.jpg"
-    },
-    {
-      "title": "🏆 Planetary Record Breakers 🪐",
-      "video_id": "HVZpX7KWoTQ",
-      "channel_title": "Star Walk",
-      "description": "Hottest: Venus (+470 °C) – thanks to a runaway greenhouse effect ⚡ Fastest orbit: Mercury (47 km/s) – cosmic speedster around ...",
-      "published_at": "2025-08-15T07:36:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HVZpX7KWoTQ/hqdefault.jpg"
     }
   ]
 }

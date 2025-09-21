@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-09-14T00:28:29.085434",
+  "fetched_at": "2025-09-21T00:29:14.564071",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Space Shuttle  Crew Compartment Landing",
+      "video_id": "z0yLHvn2RC0",
+      "channel_title": "Hazegrayart",
+      "description": "Engineers in Houston envisioned the Shuttle II as an evolution of the Space Shuttle, with the Evolved Shuttle at its core.",
+      "published_at": "2025-09-19T12:02:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z0yLHvn2RC0/hqdefault.jpg"
+    },
+    {
+      "title": "Space Shuttle Emergency Escape System",
+      "video_id": "x8sTh9vUdLs",
+      "channel_title": "Hazegrayart",
+      "description": "Engineers in Houston envisioned the Shuttle II as an evolution of the Space Shuttle, with the Evolved Shuttle at its core.",
+      "published_at": "2025-09-17T13:11:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x8sTh9vUdLs/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s Survivable Crew Compartment Space Shuttle",
+      "video_id": "PMqWtYN-fjc",
+      "channel_title": "Hazegrayart",
+      "description": "Engineers in Houston envisioned the Shuttle II as an evolution of the Space Shuttle, with the Evolved Shuttle at its core.",
+      "published_at": "2025-09-14T11:54:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PMqWtYN-fjc/hqdefault.jpg"
+    },
     {
       "title": "SLS Block 2 Crew",
       "video_id": "8MRIa0664K4",
@@ -59,30 +83,6 @@
       "description": "A Space Shuttle Concept The experts at OKB-1, pioneers behind the Soyuz capsule, were decidedly unimpressed with the ...",
       "published_at": "2025-08-08T16:34:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Z0Xr0do7hHA/hqdefault.jpg"
-    },
-    {
-      "title": "Space Shuttle Reentry: VTOL MTKVA",
-      "video_id": "1DkZrlT3d7M",
-      "channel_title": "Hazegrayart",
-      "description": "A Space Shuttle Concept The experts at OKB-1, pioneers behind the Soyuz capsule, were decidedly unimpressed with the ...",
-      "published_at": "2025-08-06T13:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1DkZrlT3d7M/hqdefault.jpg"
-    },
-    {
-      "title": "Apollo Winged Command and Service Module #apollo #nasa",
-      "video_id": "eKeRuzA1p04",
-      "channel_title": "Hazegrayart",
-      "description": "United States Patent 3576298 applied for in 1967 and issued to the North American Rockwell Corp in 1971. ABSTRACT: An ...",
-      "published_at": "2025-07-30T02:56:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eKeRuzA1p04/hqdefault.jpg"
-    },
-    {
-      "title": "MIR Space Station, VTOL MTKVA",
-      "video_id": "wUM-8aVKCb4",
-      "channel_title": "Hazegrayart",
-      "description": "A Space Shuttle Concept The experts at OKB-1, pioneers behind the Soyuz capsule, were decidedly unimpressed with the ...",
-      "published_at": "2025-07-26T13:40:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wUM-8aVKCb4/hqdefault.jpg"
     }
   ]
 }

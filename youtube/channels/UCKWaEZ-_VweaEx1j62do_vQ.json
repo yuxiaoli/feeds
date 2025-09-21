@@ -1,64 +1,64 @@
 {
-  "fetched_at": "2025-09-14T00:28:02.457082",
+  "fetched_at": "2025-09-21T00:28:46.085579",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Human Hacker vs AI Agent",
-      "video_id": "AkcibRYZxNk",
+      "title": "Anthropic Economic Index, Virtual Agent Economies, AlterEgo and How People Use ChatGPT",
+      "video_id": "1PlyV-pf9_M",
       "channel_title": "IBM Technology",
-      "description": "Would you rather go one-on-one against a human hacker or an unstoppable AI agent? Watch the full episode of the Security ...",
-      "published_at": "2025-09-12T16:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AkcibRYZxNk/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/BdewcQ What are the most common uses of ...",
+      "published_at": "2025-09-19T10:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1PlyV-pf9_M/hqdefault.jpg"
     },
     {
-      "title": "Why language models hallucinate, revisiting Amodei’s code prediction and AI in the job market",
-      "video_id": "SjoxdH9qOTE",
+      "title": "AI-Powered Ransomware 3.0 Explained​",
+      "video_id": "wLRzsSChugI",
       "channel_title": "IBM Technology",
-      "description": "Subscribe for AI updates → https://ibm.biz/Bde85P Do we need more AI hallucinations? In episode 72 of Mixture of Experts, host ...",
-      "published_at": "2025-09-12T10:00:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SjoxdH9qOTE/hqdefault.jpg"
+      "description": "Researchers at NYU unveiled a proof-of-concept \"Ransomware 3.0,\" powered by AI to automate cyberattacks. What does this ...",
+      "published_at": "2025-09-18T16:01:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wLRzsSChugI/hqdefault.jpg"
     },
     {
-      "title": "What Is Ethical Hacking? Roles, Skills, and Cybersecurity",
-      "video_id": "WYkbKzDfgqo",
+      "title": "Building an AI Agent Governance Framework: 5 Essential Pillars",
+      "video_id": "5hK7pQsvpy0",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5? Register now and use code IBMTechYT20 for 20% off of your ...",
-      "published_at": "2025-09-11T11:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WYkbKzDfgqo/hqdefault.jpg"
+      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-09-18T11:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5hK7pQsvpy0/hqdefault.jpg"
     },
     {
-      "title": "Vibe hacking, HexStrike AI and the latest scheme from Scattered Lapsus$ Hunters",
-      "video_id": "u-ZRZX2VZh4",
+      "title": "AI ransomware, hiring fraud and the end of Scattered Lapsus$ Hunters",
+      "video_id": "dAS4zgMiSuQ",
       "channel_title": "IBM Technology",
-      "description": "Explore the Podcast → https://ibm.biz/BdepWR Learn more about cybersecurity → https://ibm.biz/BdepSw Have we made ...",
-      "published_at": "2025-09-10T10:01:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u-ZRZX2VZh4/hqdefault.jpg"
+      "description": "Explore the podcast → https://ibm.biz/BdeAgH Learn more about cybersecurity → https://ibm.biz/BdeAhx Has the most notorious ...",
+      "published_at": "2025-09-17T10:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dAS4zgMiSuQ/hqdefault.jpg"
     },
     {
-      "title": "Optimizing Data Centers: Energy Efficiency &amp; Cloud Repatriation Strategies",
-      "video_id": "slEPd5qb98U",
+      "title": "Building Trustworthy AI Agents with Hybrid RAG",
+      "video_id": "l9LfC98tE_4",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified z/OS System Operator? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-09T11:01:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/slEPd5qb98U/hqdefault.jpg"
+      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-09-16T11:01:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l9LfC98tE_4/hqdefault.jpg"
     },
     {
-      "title": "What Is Linux? From Kernel to IoT, DevOps, &amp; Supercomputers",
-      "video_id": "H8Q64gHNp6Y",
+      "title": "LLM as a Judge: Scaling AI Evaluation Strategies",
+      "video_id": "trfUBIDeI1Y",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Administrator - Netezza Performance Server V11? Register now and use code IBMTechYT20 for 20% ...",
-      "published_at": "2025-09-08T11:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H8Q64gHNp6Y/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-09-15T11:01:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/trfUBIDeI1Y/hqdefault.jpg"
     },
     {
-      "title": "Google Antitrust, Anthropic&#39;s $183B leap and are we in the AI winter?",
-      "video_id": "Qw8GOzs3Z0g",
+      "title": "How AI Cards, Agents, &amp; Accelerators Simplify Complex AI Workflows",
+      "video_id": "3q9Xn4mpW_s",
       "channel_title": "IBM Technology",
-      "description": "Subscribe for AI updates → https://ibm.biz/BdeerG Are browsers the right entry point for AI tools? In episode 71 of Mixture of ...",
-      "published_at": "2025-09-05T10:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Qw8GOzs3Z0g/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx Mainframe Modernization Architect v1? Register now and use code IBMTechYT20 for 20% ...",
+      "published_at": "2025-09-14T11:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3q9Xn4mpW_s/hqdefault.jpg"
     },
     {
       "title": "Anthropic&#39;s AI Welfare Dilemma",

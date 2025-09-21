@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-14T00:28:17.984979",
+  "fetched_at": "2025-09-21T00:29:02.698529",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "Series C",
+      "video_id": "c-NmheM7iyA",
+      "channel_title": "Figure",
+      "description": "Today we're announcing that we have exceeded more than $1 billion in committed capital through our Series C financing round, ...",
+      "published_at": "2025-09-16T13:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c-NmheM7iyA/hqdefault.jpg"
+    },
     {
       "title": "Scaling Helix - Dishes",
       "video_id": "8gfuUzDn4Q8",
@@ -75,14 +83,6 @@
       "description": "We're introducing Helix, a generalist Vision-Language-Action (VLA) model that unifies perception, language understanding, and ...",
       "published_at": "2025-02-20T14:10:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Z3yQHYNXPws/hqdefault.jpg"
-    },
-    {
-      "title": "Figure Status Update - BMW Use Case",
-      "video_id": "WlUFoZstcWg",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2024-11-19T14:12:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WlUFoZstcWg/hqdefault.jpg"
     }
   ]
 }
