@@ -1,40 +1,48 @@
 {
-  "fetched_at": "2025-09-21T00:28:46.085579",
+  "fetched_at": "2025-09-28T00:29:33.307323",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Anthropic Economic Index, Virtual Agent Economies, AlterEgo and How People Use ChatGPT",
-      "video_id": "1PlyV-pf9_M",
+      "title": "NVIDIA’s USD 100bn investment and Google&#39;s AP2",
+      "video_id": "h1YqbXQN5N8",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/BdewcQ What are the most common uses of ...",
-      "published_at": "2025-09-19T10:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1PlyV-pf9_M/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/BdeNK5 Why did NVIDIA invest USD 100bn into ...",
+      "published_at": "2025-09-26T10:01:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h1YqbXQN5N8/hqdefault.jpg"
     },
     {
-      "title": "AI-Powered Ransomware 3.0 Explained​",
-      "video_id": "wLRzsSChugI",
+      "title": "Vibe Security: A Developer&#39;s Guide",
+      "video_id": "Iu2JgiOg9qU",
       "channel_title": "IBM Technology",
-      "description": "Researchers at NYU unveiled a proof-of-concept \"Ransomware 3.0,\" powered by AI to automate cyberattacks. What does this ...",
-      "published_at": "2025-09-18T16:01:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wLRzsSChugI/hqdefault.jpg"
+      "description": "Discover the risks associated with vibe coding and why integrating security features directly into development tools is crucial for ...",
+      "published_at": "2025-09-25T16:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Iu2JgiOg9qU/hqdefault.jpg"
     },
     {
-      "title": "Building an AI Agent Governance Framework: 5 Essential Pillars",
-      "video_id": "5hK7pQsvpy0",
+      "title": "Building Decision Agents with LLMs &amp; Machine Learning Models",
+      "video_id": "mRkJTXDromw",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-18T11:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5hK7pQsvpy0/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-09-25T11:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mRkJTXDromw/hqdefault.jpg"
     },
     {
-      "title": "AI ransomware, hiring fraud and the end of Scattered Lapsus$ Hunters",
-      "video_id": "dAS4zgMiSuQ",
+      "title": "Ethical Hacking in Action: Red Teaming, Pen Testing, &amp; Cybersecurity",
+      "video_id": "bSVGrA1_gYw",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/BdeAgH Learn more about cybersecurity → https://ibm.biz/BdeAhx Has the most notorious ...",
-      "published_at": "2025-09-17T10:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dAS4zgMiSuQ/hqdefault.jpg"
+      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
+      "published_at": "2025-09-22T11:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bSVGrA1_gYw/hqdefault.jpg"
+    },
+    {
+      "title": "AI Agents &amp; Mainframe: Optimized Systems Powered by LLMs",
+      "video_id": "IRa6XmG8QCQ",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Mainframe Modernization Architect? Register now and use code IBMTechYT20 for 20% off ...",
+      "published_at": "2025-09-21T11:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IRa6XmG8QCQ/hqdefault.jpg"
     },
     {
       "title": "Building Trustworthy AI Agents with Hybrid RAG",
@@ -43,22 +51,6 @@
       "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
       "published_at": "2025-09-16T11:01:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/l9LfC98tE_4/hqdefault.jpg"
-    },
-    {
-      "title": "LLM as a Judge: Scaling AI Evaluation Strategies",
-      "video_id": "trfUBIDeI1Y",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-15T11:01:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/trfUBIDeI1Y/hqdefault.jpg"
-    },
-    {
-      "title": "How AI Cards, Agents, &amp; Accelerators Simplify Complex AI Workflows",
-      "video_id": "3q9Xn4mpW_s",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Mainframe Modernization Architect v1? Register now and use code IBMTechYT20 for 20% ...",
-      "published_at": "2025-09-14T11:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3q9Xn4mpW_s/hqdefault.jpg"
     },
     {
       "title": "Anthropic&#39;s AI Welfare Dilemma",
@@ -83,6 +75,14 @@
       "description": "Ready to become a certified Professional Architect ? Register now and use code IBMTechYT20 for 20% off of your exam ...",
       "published_at": "2025-08-05T11:01:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ctUIpkE9EKA/hqdefault.jpg"
+    },
+    {
+      "title": "AI Agents Best Practices: Monitoring, Governance, &amp; Optimization",
+      "video_id": "446x7GqXdaA",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Governance Lifecycle Advisor? Register now and use code IBMTechYT20 for 20% off of ...",
+      "published_at": "2025-07-23T11:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/446x7GqXdaA/hqdefault.jpg"
     }
   ]
 }

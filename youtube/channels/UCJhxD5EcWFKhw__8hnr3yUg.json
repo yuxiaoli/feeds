@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-21T00:28:42.968586",
+  "fetched_at": "2025-09-28T00:29:30.347776",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "在多文化交融的马六甲金句频出！这太适合一日游了！",
+      "video_id": "E3T_D1l96E4",
+      "channel_title": "码农高天",
+      "description": "在马六甲做了一个一日游，不得不说这个城市太适合一日游了！在步行范围内你可以感受到好多种不同的文化对一个城市的影响， ...",
+      "published_at": "2025-09-21T03:30:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E3T_D1l96E4/hqdefault.jpg"
+    },
     {
       "title": "吉隆坡还挺繁华，见了一下PyCon MY的小伙伴！",
       "video_id": "q1XUq0DyhEE",
@@ -75,14 +83,6 @@
       "description": "对釜山的印象真的很不错，甘州文化村和白浅滩文化村都很美，哪怕这么晒还是很值得。最后的缆车是韩国一个非常好的句号！",
       "published_at": "2025-08-13T10:30:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/i-CLlcaf1Q0/hqdefault.jpg"
-    },
-    {
-      "title": "【辞职环游世界】釜山行！大海，龙宫寺，小火车，好起来了！",
-      "video_id": "0YxzwrhNt8o",
-      "channel_title": "码农高天",
-      "description": "我们从首尔来到了釜山，釜山比首尔好玩多了呢！从海东龙宫寺到海边的小火车，是开心的一天了。",
-      "published_at": "2025-08-03T13:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0YxzwrhNt8o/hqdefault.jpg"
     }
   ]
 }

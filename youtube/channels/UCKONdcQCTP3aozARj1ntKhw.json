@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-21T00:28:44.511762",
+  "fetched_at": "2025-09-28T00:29:31.771807",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Introducing Warp CLI (Beta)",
+      "video_id": "hV6UdEf3C1I",
+      "channel_title": "Warp",
+      "description": "Introducing the Warp CLI — a new way to use Warp's agents. Use the CLI to build custom integrations, use Warp on remote ...",
+      "published_at": "2025-09-26T17:16:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hV6UdEf3C1I/hqdefault.jpg"
+    },
     {
       "title": "Coding with Zach: Warp x Andrew Zigler",
       "video_id": "LOo9F09DJCI",
@@ -75,14 +83,6 @@
       "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
       "published_at": "2025-08-20T18:14:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ySzUj7kMZ64/hqdefault.jpg"
-    },
-    {
-      "title": "Using MCP servers with Warp",
-      "video_id": "8vn2brhJrF8",
-      "channel_title": "Warp",
-      "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
-      "published_at": "2025-08-20T18:14:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8vn2brhJrF8/hqdefault.jpg"
     }
   ]
 }

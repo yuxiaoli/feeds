@@ -1,72 +1,16 @@
 {
-  "fetched_at": "2025-09-21T00:28:32.958320",
+  "fetched_at": "2025-09-28T00:29:20.514883",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 8,
+  "count": 1,
   "videos": [
     {
-      "title": "Unreal Fest Stockholm Meet the Presenter: Elodie",
-      "video_id": "-qKTX014p4o",
+      "title": "Mafia: The Old Country | Spotlight | Unreal Engine",
+      "video_id": "sFZNq6woCbQ",
       "channel_title": "Unreal Engine",
-      "description": "Elodie Moog's going to be joining us at Unreal Fest Stockholm to talk about Odyssey, the versatile 2D toolset for Unreal Engine ...",
-      "published_at": "2025-09-20T17:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-qKTX014p4o/hqdefault.jpg"
-    },
-    {
-      "title": "News and Community Spotlight | September 19th, 2025",
-      "video_id": "dabu7wGNCNM",
-      "channel_title": "Unreal Engine",
-      "description": "News Unreal Fellowship ...",
-      "published_at": "2025-09-19T22:27:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dabu7wGNCNM/hqdefault.jpg"
-    },
-    {
-      "title": "Fab in Launcher Overview | Inside Unreal",
-      "video_id": "n0cSBMZc8qk",
-      "channel_title": "Unreal Engine",
-      "description": "Fab is now available in the Epic Games Launcher, making it faster and more convenient to grab Fab marketplace content for your ...",
-      "published_at": "2025-09-18T18:50:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n0cSBMZc8qk/hqdefault.jpg"
-    },
-    {
-      "title": "Fireside Chat with Kasper Weber, CEO &amp; Co-Founder of Beyond Creative",
-      "video_id": "q3L2ftdZIpw",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this fireside chat with Kasper Weber, CEO & Co-Founder of Beyond Creative. Beyond Creative is one of the most featured ...",
-      "published_at": "2025-09-18T16:01:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q3L2ftdZIpw/hqdefault.jpg"
-    },
-    {
-      "title": "Motion Design in Unreal Engine, Episode 07: Full Screen Graphics",
-      "video_id": "MQRQ_9N_nak",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) explores the ...",
-      "published_at": "2025-09-18T13:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MQRQ_9N_nak/hqdefault.jpg"
-    },
-    {
-      "title": "Unreal Fellowship: Product Storytelling I Sizzle Reel - May, 2025",
-      "video_id": "OIl4aW_nYKM",
-      "channel_title": "Unreal Engine",
-      "description": "From dancers to dancing robots, from food & beverage to humanitarian organizations, from explainers to narrative-driven ...",
-      "published_at": "2025-09-18T11:30:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OIl4aW_nYKM/hqdefault.jpg"
-    },
-    {
-      "title": "Mobile Game Development with Unreal Engine | Unreal Fest Orlando 2025",
-      "video_id": "tN8wgJXF_kc",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this session recorded at Unreal Fest Orlando 2025 and explore the new features and improvements in Unreal Engine 5.6 ...",
-      "published_at": "2025-09-15T16:01:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tN8wgJXF_kc/hqdefault.jpg"
-    },
-    {
-      "title": "A Peek at Some Future Features Coming to Unreal Engine | Unreal Fest Orlando 2025",
-      "video_id": "mQKH2sHBO2A",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this session recorded at Unreal Fest Orlando 2025 to see what's coming down the pipe for Unreal Engine. In this video, we ...",
-      "published_at": "2025-09-15T14:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mQKH2sHBO2A/hqdefault.jpg"
+      "description": "Watch this video to find out how the team at Hangar 13 used UE5 to deliver an authentic world and characters in the latest ...",
+      "published_at": "2025-09-25T16:38:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sFZNq6woCbQ/hqdefault.jpg"
     }
   ]
 }

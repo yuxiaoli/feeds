@@ -1,16 +1,56 @@
 {
-  "fetched_at": "2025-09-21T00:28:43.728579",
+  "fetched_at": "2025-09-28T00:29:31.034361",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 5,
+  "count": 7,
   "videos": [
     {
-      "title": "Dreaming of career in film? Here’s how you can use Gemini to hone your craft. 🎥",
-      "video_id": "ku372-7YtS4",
+      "title": "Join @OscarPiastri in designing his dream track! He’s looking for your most creative ideas 👀",
+      "video_id": "KL_yUVKmjgY",
       "channel_title": "Google",
-      "description": "Veo3 #GoogleGemini.",
-      "published_at": "2025-09-18T21:37:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ku372-7YtS4/hqdefault.jpg"
+      "description": "Time to go bananas! #GoogleGemini #GeminiDreamTrack.",
+      "published_at": "2025-09-26T21:26:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KL_yUVKmjgY/hqdefault.jpg"
+    },
+    {
+      "title": "Make the pet of your dreams a reality with Nano Banana",
+      "video_id": "IcICF_YF_tI",
+      "channel_title": "Google",
+      "description": "Gemini's state-of-the-art image generation and editing lets you create almost anything. Imagine yourself with a pet dinosaur. Try a ...",
+      "published_at": "2025-09-26T19:46:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IcICF_YF_tI/hqdefault.jpg"
+    },
+    {
+      "title": "Want your dream big hair? Get it with #NanoBanana and #Veo3 in #GoogleGemini.",
+      "video_id": "4EXuwZFLvjo",
+      "channel_title": "Google",
+      "description": "The '80s had big hair, but our imaginations are even bigger. Design your voluminous look with #NanoBanana, then make it sway ...",
+      "published_at": "2025-09-26T16:12:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4EXuwZFLvjo/hqdefault.jpg"
+    },
+    {
+      "title": "We’re gonna need a bigger belt. Get help decoding sushi dishes with Gemini 🍣✨",
+      "video_id": "3ZEPzxqH_M8",
+      "channel_title": "Google",
+      "description": "Gemini's ready to roll, helping demystify the menu, one dish at a time. #GoogleGemini #Hacks.",
+      "published_at": "2025-09-25T19:48:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3ZEPzxqH_M8/hqdefault.jpg"
+    },
+    {
+      "title": "Smart Silicon: Tensor G5 and the Next Era of the AI Phone | Made by Google Podcast S8E4",
+      "video_id": "d89VluY2AMA",
+      "channel_title": "Google",
+      "description": "In this episode of the Made by Google Podcast, we take a deep dive into the Tensor G5 chip, the brains behind the new Pixel 10 ...",
+      "published_at": "2025-09-24T19:08:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d89VluY2AMA/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing Gemini for Google TV",
+      "video_id": "rFH3CJgkEAw",
+      "channel_title": "Google",
+      "description": "Go from just watching TV to exploring it with Gemini on #GoogleTV. Chat naturally with Gemini to easily find what to watch, get ...",
+      "published_at": "2025-09-22T18:16:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rFH3CJgkEAw/hqdefault.jpg"
     },
     {
       "title": "Upgrade your profile pic with Google Gemini",
@@ -19,30 +59,6 @@
       "description": "Looking to Nano Banana your profile pic? Here are 4 prompts to try now: Graffiti Mural →Turn me into a huge, graffiti mural on the ...",
       "published_at": "2025-09-18T18:40:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_rf7Mc2r0M0/hqdefault.jpg"
-    },
-    {
-      "title": "Using AI Mode in Google Search to do the research for you feels like ☝️",
-      "video_id": "6eQ7lU6zRfA",
-      "channel_title": "Google",
-      "description": "Ask whatever's on your mind to get an AI powered response, and keep exploring with follow-up questions and helpful web links.",
-      "published_at": "2025-09-18T18:40:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6eQ7lU6zRfA/hqdefault.jpg"
-    },
-    {
-      "title": "Team Gemini needs YOU! 📣🏀 Create your own custom figurine with Google Gemini’s  #NanoBanana.",
-      "video_id": "dmoqC0qny5I",
-      "channel_title": "Google",
-      "description": "Image editing in Gemini just got a major upgrade. Take your photos even further. Imagine yourself in different scenes, combine ...",
-      "published_at": "2025-09-17T21:44:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dmoqC0qny5I/hqdefault.jpg"
-    },
-    {
-      "title": "POV: You’re using Pro Res Zoom on the new Pixel 10 Pro XL  📸",
-      "video_id": "lb1yZ4ifS3I",
-      "channel_title": "Google",
-      "description": "Meet the brand new Google #Pixel10 Pro XL UI & Design - Latest Android UI: Material 3 Expressive - New colors for the Pixel ...",
-      "published_at": "2025-09-17T17:43:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lb1yZ4ifS3I/hqdefault.jpg"
     }
   ]
 }

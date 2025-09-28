@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2025-09-21T00:28:39.893044",
+  "fetched_at": "2025-09-28T00:29:27.434890",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "【人工智能】AI需要真正的创造力 | Demis Hassabis最新专访 | 诺奖感受 | DeepMind | Genie世界模型 | 机器人Android | 加速科学发现 | 创造力的民主化",
-      "video_id": "Q0vP9S-VAPg",
+      "title": "【人工智能】xAI的Colossus 2 | 全球首个千兆瓦数据中心 | 独特的RL方法论 | 融资 | Solaris Energy | 中东 | 特斯拉 | 人才流失 | API收入",
+      "video_id": "s9h-KL_QBCU",
       "channel_title": "最佳拍档",
-      "description": "前几天，Google DeepMind的CEO德米斯·哈萨比斯（Demis Hassabis），参加了All-In Podcast的播客专访，在这期节目中，他不仅 ...",
-      "published_at": "2025-09-18T09:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q0vP9S-VAPg/hqdefault.jpg"
+      "description": "在一年多后的今天，xAI又抛出了一个更为震撼的计划，Colossus 2，目标是打造全球第一个千兆瓦级的AI数据中心。这并不只是一次 ...",
+      "published_at": "2025-09-27T09:01:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s9h-KL_QBCU/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】Optimus、Tesla、Starlink、Starship最新进展 | Elon Musk All In Summit专访 | 机器人v3 | FSD | 星链手机 | 星舰v3",
-      "video_id": "VOs9lfsTaFs",
+      "title": "【人工智能】人们是怎么用ChatGPT的 | OpenAI内部报告 | 7亿周活跃用户 | 每日25亿消息 | 非工作消息占比上升 | 用户意图分析 | 性别差异 | 年龄分布 | 教育背景和职业差异",
+      "video_id": "dxVItEMFKqk",
       "channel_title": "最佳拍档",
-      "description": "9月10日，埃隆・马斯克（Elon Musk）在All-in-Summit 峰会上进行了一场四十分钟的访谈，期间他不仅甩出了Optimus 人形 ...",
-      "published_at": "2025-09-17T09:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VOs9lfsTaFs/hqdefault.jpg"
+      "description": "在OpenAI最新公布的内部报告里，覆盖7亿用户、每天25亿条消息的统计显示，ChatGPT的核心使用场景，竟然不在工作，而在生活 ...",
+      "published_at": "2025-09-26T09:01:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dxVItEMFKqk/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】英伟达发布最新Robin CPX GPU | 预填充专用芯片 | GDDR7内存 | 无Nvlink | 三种机架方案 | 分布式服务 | 竞争对手面临压力 | 内存市场影响 | 巨大飞跃",
-      "video_id": "_sKSQNdlmiU",
+      "title": "【人工智能】通用验证器Universal Verifier | GPT-5背后的秘密武器 | RLVR | RaR | Rubicon | Writing-Zero | INTUITOR | OaK",
+      "video_id": "X3iRGwrkuc4",
       "channel_title": "最佳拍档",
-      "description": "9月9日的AI 基础设施峰会上，英伟达宣布推出一款名为Rubin CPX的新GPU，号称专门为超过100 万token 的长上下文推理而设计。",
-      "published_at": "2025-09-16T09:01:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_sKSQNdlmiU/hqdefault.jpg"
+      "description": "今天我们来聊一个听起来有点冷门的技术，但是实际上却是GPT-5背后的隐藏武器，它就是通用验证器（Universal Verifier）。",
+      "published_at": "2025-09-25T09:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X3iRGwrkuc4/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】更好的数据才是一切 | Datology创始人Ari Morcos | 数据对AI的重要性 | 归纳偏置 | 长期投入不足 | 冗余和自动化 | 合成数据 | 知识蒸馏",
-      "video_id": "N9T93sQsIHc",
+      "title": "【人工智能】Anthropic发布经济指数报告 | 基于Claude和API数据 | AI采用速度历史罕见 | 知识密集型任务增加 | 用户AI协作 | 地区差异巨大 | 美国任务结构 | 上下文",
+      "video_id": "paPeISXpU4U",
       "channel_title": "最佳拍档",
-      "description": "在Latent Space的播客节目中，DatologyAI 的创始人阿里·莫科斯Ari Morcos 反复强调的一个核心观点是，模型吃进去什么，就会成为 ...",
-      "published_at": "2025-09-15T09:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N9T93sQsIHc/hqdefault.jpg"
+      "description": "最近，Anthropic发布了一份名为经济指数《Economic Index》的报告，基于全球150多个国家的Claude使用数据，还有企业API部署 ...",
+      "published_at": "2025-09-24T09:01:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/paPeISXpU4U/hqdefault.jpg"
     },
     {
       "title": "【人工智能】击败大模型推理的非确定性 | Thinking Machines | 批次不变性缺失 | 浮点数非结合性 | 归约化顺序 | 批次不变内核 | RMSNorm | 矩阵乘法 | 注意力机制",

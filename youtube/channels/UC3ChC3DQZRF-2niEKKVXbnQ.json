@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-21T00:28:23.665315",
+  "fetched_at": "2025-09-28T00:29:11.432260",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "刚发布的 Qwen3-TTS-Flash 实测!",
+      "video_id": "cEygpB2PPqc",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来刚发布的Qwen3-TTS-Flash 实测，直接说结论。 试了8个中文模型均表现良好，很稳定，没有遇到偶尔中文吐字不清的 ...",
+      "published_at": "2025-09-22T20:32:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cEygpB2PPqc/hqdefault.jpg"
+    },
     {
       "title": "库克, 我们需要这个",
       "video_id": "wkDPaUnhEmE",
@@ -75,14 +83,6 @@
       "description": "教程第三弹来啦! 复杂背景如何抠图? 直接用我这个prompt! 这个prompt 还为大家预留了两个可微调点: 1. {green}, 这个可以修改为你 ...",
       "published_at": "2025-09-02T17:43:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/OkZ8iWGH-tc/hqdefault.jpg"
-    },
-    {
-      "title": "nano-banana 教程②! 给新海诚老师做个模特图!",
-      "video_id": "ZqAU7RMEVfA",
-      "channel_title": "Karminski-牙医",
-      "description": "教程第二弹来啦! 这次选取了新海诚老师过去的作品里面的13个元素(有一些是随便找的哈哈哈), 然后使用nano-banana 将这些元素 ...",
-      "published_at": "2025-09-02T17:39:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZqAU7RMEVfA/hqdefault.jpg"
     }
   ]
 }

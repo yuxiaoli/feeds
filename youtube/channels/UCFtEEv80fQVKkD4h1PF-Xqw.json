@@ -1,32 +1,16 @@
 {
-  "fetched_at": "2025-09-21T00:28:39.128060",
+  "fetched_at": "2025-09-28T00:29:26.703369",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "Celebrating the diverse voices of Hispanic and Latinx cultures at Microsoft",
-      "video_id": "77RfuX7MVjA",
+      "title": "Introducing microfluidic cooling: a breakthrough in chip cooling technology",
+      "video_id": "MZBwLi3ajYE",
       "channel_title": "Microsoft",
-      "description": "We're celebrating Hispanic and Latinx culture, traditions, and contributions at Microsoft—and the people who bring them to life ...",
-      "published_at": "2025-09-19T16:02:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/77RfuX7MVjA/hqdefault.jpg"
-    },
-    {
-      "title": "Uncovering the hidden dangers in our oceans",
-      "video_id": "EUils7R2EPE",
-      "channel_title": "Microsoft",
-      "description": "Microsoft's innovative use of AI and advanced sonar technology is revolutionizing how divers locate and remove ghost ...",
-      "published_at": "2025-09-18T18:13:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EUils7R2EPE/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft invests $30 billion in UK to power AI future",
-      "video_id": "7LuhWC-AJiM",
-      "channel_title": "Microsoft",
-      "description": "Microsoft Chairman and CEO Satya Nadella announced a $30 billion investment we will make in AI infrastructure and ongoing ...",
-      "published_at": "2025-09-16T19:31:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7LuhWC-AJiM/hqdefault.jpg"
+      "description": "Microfluidic cooling is part of Microsoft's systems approach to advancing AI infrastructure - from chips to servers to datacenters, ...",
+      "published_at": "2025-09-23T14:59:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MZBwLi3ajYE/hqdefault.jpg"
     },
     {
       "title": "Minecraft teaches kids to stay safe online",
@@ -83,6 +67,22 @@
       "description": "0:00 Intro – Michele Elam 1:00 Early life, pathway into tech and AI 11:06 The engineering mindset 17:04 Kevin & Michele get ...",
       "published_at": "2025-01-21T16:59:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wFgxS36DxJI/hqdefault.jpg"
+    },
+    {
+      "title": "Refik Anadol and Kevin Scott at the intersection of AI and Art",
+      "video_id": "R93cfvrdGFQ",
+      "channel_title": "Microsoft",
+      "description": "Refik Anadol, an internationally renowned media artist and director, joins Behind the Tech to discuss his journey from a childhood ...",
+      "published_at": "2024-11-12T17:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R93cfvrdGFQ/hqdefault.jpg"
+    },
+    {
+      "title": "BWT Alpine F1 Team&#39;s Everyday AI Companion | Microsoft Copilot",
+      "video_id": "DA2_e-qB9dQ",
+      "channel_title": "Microsoft",
+      "description": "When team driver Pierre Gasly forgets a birthday, Microsoft Copilot has his back. Learn more: ...",
+      "published_at": "2024-06-03T15:30:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DA2_e-qB9dQ/hqdefault.jpg"
     }
   ]
 }

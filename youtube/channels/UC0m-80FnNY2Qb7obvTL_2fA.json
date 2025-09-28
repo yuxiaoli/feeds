@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-21T00:28:20.558448",
+  "fetched_at": "2025-09-28T00:29:08.323359",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
+    {
+      "title": "GPT-5-Codex arrives in Azure AI Foundry and GitHub Copilot in Visual Studio Code",
+      "video_id": "TEw4zDrqWfA",
+      "channel_title": "Microsoft Azure",
+      "description": "This short sizzle provides a sneak peek into how the latest OpenAI Codex model, available in Azure via API, unlocks multimodal ...",
+      "published_at": "2025-09-23T17:08:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TEw4zDrqWfA/hqdefault.jpg"
+    },
     {
       "title": "Introducing Microsoft Azure Face Liveness",
       "video_id": "3ysxiX49oxw",
@@ -75,14 +83,6 @@
       "description": "Water is fundamental to our existence, but only a tiny fraction of fresh water on Earth is available to sustain life. How can we ...",
       "published_at": "2025-05-28T16:01:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/c7R6auLG6fg/hqdefault.jpg"
-    },
-    {
-      "title": "Demo: Azure AI Foundry SDK",
-      "video_id": "mOs3-4S1_Ys",
-      "channel_title": "Microsoft Azure",
-      "description": "Discover the latest capabilities offered in the unified Azure AI Foundry SDK. Design, customize, and manage AI applications and ...",
-      "published_at": "2025-05-19T16:01:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mOs3-4S1_Ys/hqdefault.jpg"
     }
   ]
 }

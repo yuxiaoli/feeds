@@ -1,64 +1,40 @@
 {
-  "fetched_at": "2025-09-21T00:28:25.960266",
+  "fetched_at": "2025-09-28T00:29:13.707363",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "I Tried Hiring Software Engineers - Oh Boy...",
-      "video_id": "UJqW3BcfEd8",
+      "title": "What the $100k H1B Visa Means for Software Engineers",
+      "video_id": "zt_R6zIbz2s",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-09-20T14:53:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UJqW3BcfEd8/hqdefault.jpg"
+      "published_at": "2025-09-26T15:54:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zt_R6zIbz2s/hqdefault.jpg"
     },
     {
-      "title": "The BEST ways to make money from coding.",
-      "video_id": "uu1UY9oRAKk",
+      "title": "Check my bio for my full blueprint on how to land a high paying developer job.",
+      "video_id": "Tsp-Wv_Js9U",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-09-20T13:18:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uu1UY9oRAKk/hqdefault.jpg"
+      "published_at": "2025-09-25T15:38:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Tsp-Wv_Js9U/hqdefault.jpg"
     },
     {
-      "title": "Did you know about this Python function?",
-      "video_id": "APLbIeLU9QY",
+      "title": "Did you know about this function in python?",
+      "video_id": "dG1gV9Aymu4",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-09-19T19:40:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/APLbIeLU9QY/hqdefault.jpg"
+      "published_at": "2025-09-24T22:18:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dG1gV9Aymu4/hqdefault.jpg"
     },
     {
-      "title": "Check the description for my full blueprint on how to land a high paying developer job.",
-      "video_id": "S6OZ3r5LqJc",
+      "title": "How to Build a Production-Ready RAG AI Agent in Python (Step-by-Step)",
+      "video_id": "AUQJ9eeP-Ls",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-09-18T17:55:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S6OZ3r5LqJc/hqdefault.jpg"
-    },
-    {
-      "title": "The Best AI Coding Tools for Developers in 2025 (That I Actually Use)",
-      "video_id": "YESrXVkcCHY",
-      "channel_title": "Tech With Tim",
-      "description": "Try Flow Pro free for 14 days + get an extra month free with my code TECHWITHTIM! Start here: ...",
-      "published_at": "2025-09-18T13:30:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YESrXVkcCHY/hqdefault.jpg"
-    },
-    {
-      "title": "Is this the wildest way to make money as a dev?😳",
-      "video_id": "7V7cf24aNTM",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-09-17T19:34:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7V7cf24aNTM/hqdefault.jpg"
-    },
-    {
-      "title": "AI Engineering: A Realistic Roadmap for Beginners",
-      "video_id": "d_LbQwoWI7I",
-      "channel_title": "Tech With Tim",
-      "description": "Learn all the skills you need to succeed as an AI engineer in one place: DataCamp's AI engineer for developers track ...",
-      "published_at": "2025-09-16T13:01:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d_LbQwoWI7I/hqdefault.jpg"
+      "description": "Get started with Inngest: https://innge.st/yt-twt-1 I'll show you how to build an AI RAG application in Python and how to get it ready ...",
+      "published_at": "2025-09-24T13:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AUQJ9eeP-Ls/hqdefault.jpg"
     },
     {
       "title": "The only video you need to watch if you want to become a software engineer!",
@@ -83,6 +59,30 @@
       "description": "I just spent the last hour vibe coding up three apps that are almost ready to go into production. In this video, I'm going to show you ...",
       "published_at": "2025-08-08T12:00:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0Vx1MWojNaU/hqdefault.jpg"
+    },
+    {
+      "title": "The Easiest Ways to Run LLMs Locally - Docker Model Runner Tutorial",
+      "video_id": "GOgfQxDPaDw",
+      "channel_title": "Tech With Tim",
+      "description": "Download Docker Desktop: https://docs.docker.com/desktop/ Docker Model Runner Docs: ...",
+      "published_at": "2025-07-19T13:30:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GOgfQxDPaDw/hqdefault.jpg"
+    },
+    {
+      "title": "THIS is why you keep getting ghosted by recruiters",
+      "video_id": "fRkxtW12oBI",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-07-04T02:52:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
+    },
+    {
+      "title": "THIS is why a CS degree won&#39;t get you a coding job",
+      "video_id": "_yNbcn-WCVo",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-06-12T04:52:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_yNbcn-WCVo/hqdefault.jpg"
     }
   ]
 }

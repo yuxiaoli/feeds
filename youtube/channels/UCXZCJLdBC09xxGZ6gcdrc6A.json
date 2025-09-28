@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-21T00:29:00.937931",
+  "fetched_at": "2025-09-28T00:29:47.738812",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Introducing ChatGPT Pulse",
+      "video_id": "nk6IjAnCCqw",
+      "channel_title": "OpenAI",
+      "description": "Today we're releasing a preview of ChatGPT Pulse to Pro users—a new experience where ChatGPT proactively does research to ...",
+      "published_at": "2025-09-25T17:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nk6IjAnCCqw/hqdefault.jpg"
+    },
     {
       "title": "Codex and the future of coding with AI — the OpenAI Podcast Ep. 6",
       "video_id": "OXOypK7_90c",
@@ -45,6 +53,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ITMouQ_EuXI/hqdefault.jpg"
     },
     {
+      "title": "Build Hour: Built-In Tools",
+      "video_id": "8St8elOrRPY",
+      "channel_title": "OpenAI",
+      "description": "Built-in tools let you extend models out of the box without writing custom functions. This Build Hour shows you how to use web ...",
+      "published_at": "2025-09-03T00:22:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8St8elOrRPY/hqdefault.jpg"
+    },
+    {
       "title": "Build Hour: Agentic Tool Calling",
       "video_id": "7E-qdsVEoB8",
       "channel_title": "OpenAI",
@@ -67,22 +83,6 @@
       "description": "Voice agents don't just transcribe anymore — they think, talk, and call tools in real time. This Build Hour demos speech-to-speech ...",
       "published_at": "2025-09-03T00:22:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/rpj1m0wYs8M/hqdefault.jpg"
-    },
-    {
-      "title": "Build Hour: Image Gen",
-      "video_id": "8kM5aDD5gLI",
-      "channel_title": "OpenAI",
-      "description": "Over 130M people created images with Image Gen in its first week inside ChatGPT. Now, with Image Gen in the API, developers ...",
-      "published_at": "2025-09-03T00:22:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8kM5aDD5gLI/hqdefault.jpg"
-    },
-    {
-      "title": "Bain accelerates client value with GPT-5",
-      "video_id": "Iet5eRirzlY",
-      "channel_title": "OpenAI",
-      "description": "Bain & Company has embedded GPTs across its business, with dozens of proprietary applications and nearly 25000 custom ...",
-      "published_at": "2025-09-02T16:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Iet5eRirzlY/hqdefault.jpg"
     }
   ]
 }

@@ -1,14 +1,46 @@
 {
-  "fetched_at": "2025-09-21T00:28:59.190329",
+  "fetched_at": "2025-09-28T00:29:46.213202",
   "channel_id": "UCWhwybsQg-EeBJpsqtmbscw",
   "channel_title": "JomaClass",
   "count": 10,
   "videos": [
     {
+      "title": "Functions | Programming Fundamentals with Python",
+      "video_id": "4AQoVr8T3yI",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-09-27T16:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4AQoVr8T3yI/hqdefault.jpg"
+    },
+    {
+      "title": "Datatypes &amp; Operators | Programming Fundamentals with Python",
+      "video_id": "Cysmb5AWOcI",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-09-26T16:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cysmb5AWOcI/hqdefault.jpg"
+    },
+    {
+      "title": "Variables | Programming Fundamentals with Python",
+      "video_id": "ikWOFqhM3-w",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-09-25T16:01:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ikWOFqhM3-w/hqdefault.jpg"
+    },
+    {
+      "title": "What is Programming? | Programming Fundamentals with  Python",
+      "video_id": "8IzNJsWjjbs",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2024-12-10T05:27:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8IzNJsWjjbs/hqdefault.jpg"
+    },
+    {
       "title": "Bytes, Arrays, and Pointers | Understanding Memory | Data Structures &amp; Algorithms | JomaClass",
       "video_id": "fVVrfJM4JeY",
       "channel_title": "JomaClass",
-      "description": "Join Jomaclass for full-length videos like this: https://joma.tech/dsa.",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ Join ...",
       "published_at": "2020-12-06T06:48:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fVVrfJM4JeY/hqdefault.jpg"
     },
@@ -16,7 +48,7 @@
       "title": "Time Complexity | Big O Notation | Data Structures &amp; Algorithms | JomaClass",
       "video_id": "v1SYihb4rcw",
       "channel_title": "JomaClass",
-      "description": "Join Jomaclass for full-length videos like this: https://joma.tech/dsa.",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ Join ...",
       "published_at": "2020-11-28T19:42:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/v1SYihb4rcw/hqdefault.jpg"
     },
@@ -24,7 +56,7 @@
       "title": "Longest Increasing Subsequence | Data Structures &amp; Algorithms",
       "video_id": "azRresjjG1Q",
       "channel_title": "JomaClass",
-      "description": "Join Jomaclass for full-length videos like this: https://joma.tech/dsa.",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ Join ...",
       "published_at": "2020-11-11T15:00:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/azRresjjG1Q/hqdefault.jpg"
     },
@@ -32,7 +64,7 @@
       "title": "Swap Every Two Nodes in a Linked List | Data Structures &amp; Algorithms",
       "video_id": "eqD3yv_OOAY",
       "channel_title": "JomaClass",
-      "description": "Join Jomaclass for full-length videos like this: https://joma.tech/dsa.",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ Join ...",
       "published_at": "2020-11-04T15:00:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eqD3yv_OOAY/hqdefault.jpg"
     },
@@ -40,7 +72,7 @@
       "title": "Distribute Bonuses | Data Structures &amp; Algorithms",
       "video_id": "SSluFzDVDmc",
       "channel_title": "JomaClass",
-      "description": "Join Jomaclass for full-length videos like this: https://joma.tech/dsa.",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ Join ...",
       "published_at": "2020-10-28T14:00:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SSluFzDVDmc/hqdefault.jpg"
     },
@@ -48,41 +80,9 @@
       "title": "Arithmetic Binary Tree | Data Structures &amp; Algorithms",
       "video_id": "7dRmVk5j4mk",
       "channel_title": "JomaClass",
-      "description": "Join Jomaclass for full-length videos like this: https://joma.tech/dsa.",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ Join ...",
       "published_at": "2020-10-21T14:00:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7dRmVk5j4mk/hqdefault.jpg"
-    },
-    {
-      "title": "Functions in Python",
-      "video_id": "Pro5zRn6lF8",
-      "channel_title": "JomaClass",
-      "description": "Join Jomaclass for full-length videos like this: https://joma.tech/dsa.",
-      "published_at": "2020-10-14T14:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Pro5zRn6lF8/hqdefault.jpg"
-    },
-    {
-      "title": "Data Types and Operators in Python",
-      "video_id": "ihEA9WEGSl0",
-      "channel_title": "JomaClass",
-      "description": "Join Jomaclass for full-length videos like this: https://joma.tech/dsa.",
-      "published_at": "2020-10-07T14:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ihEA9WEGSl0/hqdefault.jpg"
-    },
-    {
-      "title": "What are Variables? A Python Example",
-      "video_id": "iV4-JPiMA2A",
-      "channel_title": "JomaClass",
-      "description": "Join Jomaclass for full-length videos like this: https://joma.tech/dsa.",
-      "published_at": "2020-09-30T14:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iV4-JPiMA2A/hqdefault.jpg"
-    },
-    {
-      "title": "Introduction to Programming",
-      "video_id": "WGHG2wCq-6E",
-      "channel_title": "JomaClass",
-      "description": "Join Jomaclass for full-length videos like this: https://joma.tech/dsa.",
-      "published_at": "2020-09-23T14:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WGHG2wCq-6E/hqdefault.jpg"
     }
   ]
 }

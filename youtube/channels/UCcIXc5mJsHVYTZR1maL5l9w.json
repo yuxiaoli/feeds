@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-21T00:29:08.252822",
+  "fetched_at": "2025-09-28T00:29:54.568053",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Enroll in our new course: Building and Evaluating Data Agents",
+      "video_id": "2UMBWyOk75M",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4my1oaz Learn how to build and evaluate a data agent in “Building and Evaluating Data Agents,” a ...",
+      "published_at": "2025-09-24T14:40:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2UMBWyOk75M/hqdefault.jpg"
+    },
     {
       "title": "New Course: Knowledge Graphs for AI Agent API Discovery",
       "video_id": "funhZgM8uIk",
@@ -75,14 +83,6 @@
       "description": "Learn more: https://bit.ly/4kRqOj7 Introducing ACP: Agent Communication Protocol, a short course built in partnership with IBM ...",
       "published_at": "2025-06-25T14:17:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/B1ORNlS76lE/hqdefault.jpg"
-    },
-    {
-      "title": "New course with Meta! Enroll in &quot;Building with Llama 4&quot; 🦙",
-      "video_id": "86OuivQ-q58",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/43PCo8s Introducing Building with Llama 4, a short course, created in collaboration with Meta and taught ...",
-      "published_at": "2025-06-18T14:03:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/86OuivQ-q58/hqdefault.jpg"
     }
   ]
 }

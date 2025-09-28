@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-21T00:29:26.645302",
+  "fetched_at": "2025-09-28T00:30:12.530939",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "✨🌈 Stellar Rainbow: How Temperature Paints the Stars",
+      "video_id": "8MBfJsF6jZ4",
+      "channel_title": "Star Walk",
+      "description": "Have you ever noticed that stars have different colors? This isn't just an illusion — it's a direct result of their surface temperature.",
+      "published_at": "2025-09-24T14:50:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8MBfJsF6jZ4/hqdefault.jpg"
+    },
     {
       "title": "Are you ready for the equinox? 🍂🌸",
       "video_id": "NX2vrf5-SAs",
@@ -75,14 +83,6 @@
       "description": "Don't miss the best sky shows of the season! Which one are you most excited to see? #Astronomy #Eclipse #Saturn ...",
       "published_at": "2025-09-02T11:50:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/a7vPKPqFUOY/hqdefault.jpg"
-    },
-    {
-      "title": "Constellation Gemini: The REAL shape",
-      "video_id": "hNgVAV80tXM",
-      "channel_title": "Star Walk",
-      "description": "",
-      "published_at": "2025-08-21T13:17:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hNgVAV80tXM/hqdefault.jpg"
     }
   ]
 }

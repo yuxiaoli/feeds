@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-21T00:28:42.218642",
+  "fetched_at": "2025-09-28T00:29:29.613330",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Your Phone Camera’s Secret Space Origin",
+      "video_id": "sPaXdHHb228",
+      "channel_title": "DamiLee",
+      "description": "That tiny camera in your pocket? It was first built for space missions—long before selfies and Instagram ...",
+      "published_at": "2025-09-25T16:11:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sPaXdHHb228/hqdefault.jpg"
+    },
     {
       "title": "Why Lord of the Rings Architecture Isn’t Just Fantasy.. It’s a Warning",
       "video_id": "8GbHWY0roOY",
@@ -75,14 +83,6 @@
       "description": "What happens when death rituals collide with modern urban living? Check out the full video!",
       "published_at": "2025-07-02T19:03:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/drepSCQrOz4/hqdefault.jpg"
-    },
-    {
-      "title": "Why The Most Valuable Time is The Least Profitable (in Architecture)",
-      "video_id": "iME_95LcBBM",
-      "channel_title": "DamiLee",
-      "description": "Check out Snaptrude here!",
-      "published_at": "2025-06-25T19:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iME_95LcBBM/hqdefault.jpg"
     }
   ]
 }

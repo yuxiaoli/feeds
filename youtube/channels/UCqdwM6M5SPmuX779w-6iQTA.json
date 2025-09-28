@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-21T00:29:22.122492",
+  "fetched_at": "2025-09-28T00:30:07.894299",
   "channel_id": "UCqdwM6M5SPmuX779w-6iQTA",
   "channel_title": "Joma Clips",
   "count": 10,
   "videos": [
+    {
+      "title": "Joma Tech - Founder Mode [Official Music Video]",
+      "video_id": "T1A4CpaoeSA",
+      "channel_title": "Joma Clips",
+      "description": "Full video on @Joma Tech https://www.youtube.com/watch?v=YRddOEtlnEk.",
+      "published_at": "2025-09-25T07:35:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/T1A4CpaoeSA/hqdefault.jpg"
+    },
     {
       "title": "when you&#39;re afraid of AI #ad Mailchimp",
       "video_id": "LKe__lyU95k",
@@ -75,14 +83,6 @@
       "description": "Full video on @jomakaze ​ #coding #tech #anime #programming #computerscience.",
       "published_at": "2022-07-13T15:59:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/trJGeGAN1M0/hqdefault.jpg"
-    },
-    {
-      "title": "If Programming Was An Anime pt.2",
-      "video_id": "8QuqToDWsw8",
-      "channel_title": "Joma Clips",
-      "description": "Full video on @jomakaze #coding #tech #anime #programming #computerscience.",
-      "published_at": "2022-07-12T15:39:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8QuqToDWsw8/hqdefault.jpg"
     }
   ]
 }

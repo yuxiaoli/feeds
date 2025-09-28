@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-21T00:28:35.385580",
+  "fetched_at": "2025-09-28T00:29:22.896299",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "This song came to me at the right time. “Better Man Than me” out on 9/26",
+      "video_id": "aqy8E3AUszc",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-09-23T20:34:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aqy8E3AUszc/hqdefault.jpg"
+    },
     {
       "title": "Putting some miles on this one@KaneBrown",
       "video_id": "DoW2l6JamXg",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-06-04T20:20:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xd_A8bcOHMY/hqdefault.jpg"
-    },
-    {
-      "title": "aint no way😩",
-      "video_id": "NxGDm3nEucc",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-05-20T18:57:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NxGDm3nEucc/hqdefault.jpg"
     }
   ]
 }

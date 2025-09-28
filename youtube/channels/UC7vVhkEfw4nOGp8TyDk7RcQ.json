@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-21T00:28:29.019103",
+  "fetched_at": "2025-09-28T00:29:16.576196",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Spot at Michelin Excerpt | Boston Dynamics",
+      "video_id": "gafzTfN42jI",
+      "channel_title": "Boston Dynamics",
+      "description": "With Spot on the job, Michelin has generated more than 72 work orders. By delegating the mundane task of inspection, the ...",
+      "published_at": "2025-09-24T13:57:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gafzTfN42jI/hqdefault.jpg"
+    },
     {
       "title": "Atlas Getting a Leg up with End-to-end Neural Networks",
       "video_id": "PKKI5O1vfj4",
@@ -75,14 +83,6 @@
       "description": "For a humanoid robot to be successful and generalizable in a factory, warehouse, or even at home requires a comprehensive ...",
       "published_at": "2025-05-28T13:01:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/oe1dke3Cf7I/hqdefault.jpg"
-    },
-    {
-      "title": "New in Spot &amp; Orbit 5.0 | Boston Dynamics",
-      "video_id": "vTgTAe53YdM",
-      "channel_title": "Boston Dynamics",
-      "description": "The latest release of Spot & Orbit allows users to unlocks insights from maintenance and beyond, helping you understand the full ...",
-      "published_at": "2025-05-20T13:54:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vTgTAe53YdM/hqdefault.jpg"
     }
   ]
 }

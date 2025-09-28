@@ -1,40 +1,16 @@
 {
-  "fetched_at": "2025-09-21T00:28:36.902590",
+  "fetched_at": "2025-09-28T00:29:24.442150",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
-  "count": 5,
+  "count": 2,
   "videos": [
     {
-      "title": "The Art of Cooking Sugar",
-      "video_id": "VVgepdkuQhk",
+      "title": "How Does Milk Turn Into Cheese?",
+      "video_id": "wswAlEtWhmc",
       "channel_title": "Interesting Engineering",
-      "description": "Do you know how your favorite candy is made? All it takes is one very important ingredient, and very specific conditions.",
-      "published_at": "2025-09-19T23:30:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VVgepdkuQhk/hqdefault.jpg"
-    },
-    {
-      "title": "How Did The TV Come To Be?",
-      "video_id": "Q221hPSIiwY",
-      "channel_title": "Interesting Engineering",
-      "description": "TV screens are an everyday sight in the daily modern life. But did you know that the TV is actually a century old? How did the TV ...",
-      "published_at": "2025-09-18T01:31:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q221hPSIiwY/hqdefault.jpg"
-    },
-    {
-      "title": "Lamborghini Pregunta On Auction",
-      "video_id": "LScrxE3XaG0",
-      "channel_title": "Interesting Engineering",
-      "description": "The world's only Lamborghini Pregunta is back on the market. Inspired by a fighter jet, it was made in 1998 as a creative project, ...",
-      "published_at": "2025-09-18T00:30:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LScrxE3XaG0/hqdefault.jpg"
-    },
-    {
-      "title": "Las Vegas&#39; New Robot Host",
-      "video_id": "H40ev1OZMqc",
-      "channel_title": "Interesting Engineering",
-      "description": "Oto the robot is wowing tourists with its friendly conversational skills and Vegas touring tips. Found in the Otonomus Hotel, it's part ...",
-      "published_at": "2025-09-17T23:31:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H40ev1OZMqc/hqdefault.jpg"
+      "description": "Have you ever wondered how all the different kinds of cheeses come just from one thing: milk? It takes three and a half chemical ...",
+      "published_at": "2025-09-27T00:31:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wswAlEtWhmc/hqdefault.jpg"
     },
     {
       "title": "We Need These Trains",
