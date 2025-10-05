@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-09-28T00:29:14.465447",
+  "fetched_at": "2025-10-05T00:28:43.325669",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Load it, Lock it",
+      "video_id": "slVrLndXnr8",
+      "channel_title": "Tesla",
+      "description": "Massive storage brought to you by: – Lockable 6ft truck bed – Powered-frunk – Fold-up rear seats Add Cybertruck Crossbars for ...",
+      "published_at": "2025-10-03T21:19:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/slVrLndXnr8/hqdefault.jpg"
+    },
+    {
+      "title": "New Teslas Drive Themselves Off The Line",
+      "video_id": "UKpagx0yLc8",
+      "channel_title": "Tesla",
+      "description": "New Teslas drive themselves off the line at Giga Berlin Autonomously navigating the factory premises, they stop by the on-site ...",
+      "published_at": "2025-10-02T21:37:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UKpagx0yLc8/hqdefault.jpg"
+    },
     {
       "title": "Las Megas | Tesla Megablock Event",
       "video_id": "wNSS19XKXRE",
@@ -37,10 +53,10 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IiYSO1Xxzl4/hqdefault.jpg"
     },
     {
-      "title": "The New Model Y Performance | Now in Europe",
+      "title": "The New Model Y Performance | Tesla",
       "video_id": "_XvHhFjrbn0",
       "channel_title": "Tesla",
-      "description": "Now available in Europe — Designed to deliver performance that's just as good on your daily drive as it is on the open road ...",
+      "description": "Now available in the US & Europe — Designed to deliver performance that's just as good on your daily drive as it is on the open ...",
       "published_at": "2025-08-29T05:49:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_XvHhFjrbn0/hqdefault.jpg"
     },
@@ -67,22 +83,6 @@
       "description": "Behind the scenes look at how Gigafactory Berlin transformed its towering concrete walls into art. Learn more ...",
       "published_at": "2025-08-15T17:26:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vw4o1a1_pj4/hqdefault.jpg"
-    },
-    {
-      "title": "Giga Berlin Graffiti",
-      "video_id": "W3l7aMrrIJA",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-08-14T23:16:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W3l7aMrrIJA/hqdefault.jpg"
-    },
-    {
-      "title": "Roadtrippin’ with FSD Supervised | Bay Area → LA",
-      "video_id": "hUcTPt8Mpzk",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-08-13T16:24:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hUcTPt8Mpzk/hqdefault.jpg"
     }
   ]
 }

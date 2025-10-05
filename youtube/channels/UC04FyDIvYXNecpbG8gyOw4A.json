@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-09-28T00:29:06.849838",
+  "fetched_at": "2025-10-05T00:28:35.279649",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Day in the Life",
+      "video_id": "k-QLy8Yb3xw",
+      "channel_title": "Meta",
+      "description": "the life of a meta social girl.",
+      "published_at": "2025-10-03T16:19:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k-QLy8Yb3xw/hqdefault.jpg"
+    },
+    {
+      "title": "10 Years in the Making",
+      "video_id": "LIvpjFZwx4Q",
+      "channel_title": "Meta",
+      "description": "We just unveiled Meta Ray-Ban Display glasses, our most advanced pair of AI glasses yet. It's taken ten years of innovation, ...",
+      "published_at": "2025-10-02T16:49:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LIvpjFZwx4Q/hqdefault.jpg"
+    },
     {
       "title": "We&#39;ll Take Two",
       "video_id": "OtM0bXfLv14",
@@ -67,22 +83,6 @@
       "description": "Getting up close and personal at Connect.",
       "published_at": "2025-09-20T22:57:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ell15cxloYQ/hqdefault.jpg"
-    },
-    {
-      "title": "Anna x Joins the Social Team at Meta Connect",
-      "video_id": "qj3Q4to-QyU",
-      "channel_title": "Meta",
-      "description": "newest social \"teammate\" reporting for duty.",
-      "published_at": "2025-09-20T20:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qj3Q4to-QyU/hqdefault.jpg"
-    },
-    {
-      "title": "The Official Unauthorized Meta Connect Recap",
-      "video_id": "SUpfGxQ3HP0",
-      "channel_title": "Meta",
-      "description": "the official unauthorized (but approved) recap.",
-      "published_at": "2025-09-20T18:03:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SUpfGxQ3HP0/hqdefault.jpg"
     }
   ]
 }

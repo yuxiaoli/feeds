@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2025-09-28T00:29:31.771807",
+  "fetched_at": "2025-10-05T00:29:01.057557",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Summarize Open Changes Using Warp #prompt #vibecoding #ai #coding #warp #tech #softwareengineering",
+      "video_id": "JulGJZ7QniU",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-10-04T17:44:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JulGJZ7QniU/hqdefault.jpg"
+    },
+    {
+      "title": "Vibe Coding MCP Server #mcp #vibecoding #ai #tech #recruiter #mcpserver #warp #startup",
+      "video_id": "ww9PcZRHKBQ",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-10-03T20:23:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ww9PcZRHKBQ/hqdefault.jpg"
+    },
+    {
+      "title": "CEO does Product Demo ON A HORSE 🐴 #Tech #ProductDemo #Startup #Cowboy #warp #horse #marketing",
+      "video_id": "Temz96q1n84",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-10-02T15:55:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Temz96q1n84/hqdefault.jpg"
+    },
+    {
+      "title": "Vibe Coding Bongo Cat #vibecoding #bongocat #ai #coding #tech #warp",
+      "video_id": "0P6PSULQxdE",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-10-01T23:10:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0P6PSULQxdE/hqdefault.jpg"
+    },
+    {
+      "title": "Using Agent Profiles",
+      "video_id": "iD0R-8fY-tY",
+      "channel_title": "Warp",
+      "description": "Learn how Warp's agent profiles let you customize AI coding behavior for different scenarios. See a side-by-side comparison ...",
+      "published_at": "2025-09-30T01:44:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iD0R-8fY-tY/hqdefault.jpg"
+    },
+    {
+      "title": "Using Project Rules",
+      "video_id": "SCYovBn4TnM",
+      "channel_title": "Warp",
+      "description": "Master Warp's project rule files to eliminate AI hallucinations. Learn how Warp.MD files provide consistent context and keep your ...",
+      "published_at": "2025-09-30T01:44:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SCYovBn4TnM/hqdefault.jpg"
+    },
+    {
+      "title": "Setting up Figma Remote MCP in Warp",
+      "video_id": "PsM_Y8Pt-1Q",
+      "channel_title": "Warp",
+      "description": "Discover Warp's new remote Figma MCP server with OAuth support. Build websites directly from Figma designs with AI agents ...",
+      "published_at": "2025-09-30T01:44:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PsM_Y8Pt-1Q/hqdefault.jpg"
+    },
     {
       "title": "Introducing Warp CLI (Beta)",
       "video_id": "hV6UdEf3C1I",
@@ -27,62 +83,6 @@
       "description": "We've gotten user feedback that Warp's UI can feel overwhelming at times. There's a lot of customization you can do in Warp to ...",
       "published_at": "2025-09-11T19:19:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1GKsIT8FSsE/hqdefault.jpg"
-    },
-    {
-      "title": "How to setup Ollama using Warp",
-      "video_id": "Aq8vDxUg4VE",
-      "channel_title": "Warp",
-      "description": "We'll walk you through how to set up and use Ollama in Warp, step-by-step. Try Warp now for FREE https://www.warp.dev See ...",
-      "published_at": "2025-09-11T19:18:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Aq8vDxUg4VE/hqdefault.jpg"
-    },
-    {
-      "title": "10 Coding Features (you should know) in Warp",
-      "video_id": "oeonZ-jtzhA",
-      "channel_title": "Warp",
-      "description": "Try Warp now for FREE https://www.warp.dev See our official changelog https://docs.warp.dev/getting-started/changelog ...",
-      "published_at": "2025-09-05T22:40:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oeonZ-jtzhA/hqdefault.jpg"
-    },
-    {
-      "title": "Master Warp&#39;s Code Review Panel",
-      "video_id": "4JlN0rvoZA8",
-      "channel_title": "Warp",
-      "description": "Try Warp now for FREE https://www.warp.dev See our official changelog https://docs.warp.dev/getting-started/changelog ...",
-      "published_at": "2025-09-05T22:39:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4JlN0rvoZA8/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Warp Code | The fastest way from prompt to production",
-      "video_id": "n3jFHfIvyf8",
-      "channel_title": "Warp",
-      "description": "Try Warp now for FREE https://www.warp.dev Warp Code is the best way to quickly iterate with agents: prompt, review, edit, and ...",
-      "published_at": "2025-09-03T15:16:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n3jFHfIvyf8/hqdefault.jpg"
-    },
-    {
-      "title": "Welcome to Code Country | Introducing Warp Code",
-      "video_id": "9jKOVAa1KAo",
-      "channel_title": "Warp",
-      "description": "A partner you can trust, from prompt to production.",
-      "published_at": "2025-09-03T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9jKOVAa1KAo/hqdefault.jpg"
-    },
-    {
-      "title": "GPT-5 x Warp: Building the agentic future",
-      "video_id": "pRIj3x7AkM0",
-      "channel_title": "Warp",
-      "description": "Join Warp CEO Zach and OpenAI Solutions Architect Brian for an exciting live demonstration of GPT-5 integrated into Warp's ...",
-      "published_at": "2025-08-20T19:07:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pRIj3x7AkM0/hqdefault.jpg"
-    },
-    {
-      "title": "Building Warp&#39;s input with Warp",
-      "video_id": "ySzUj7kMZ64",
-      "channel_title": "Warp",
-      "description": "Warp x Warp takes you through features and use cases for Warp, told by the people who built them.",
-      "published_at": "2025-08-20T18:14:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ySzUj7kMZ64/hqdefault.jpg"
     }
   ]
 }

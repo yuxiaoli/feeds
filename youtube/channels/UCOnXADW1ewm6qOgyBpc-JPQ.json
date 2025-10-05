@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-28T00:29:39.432223",
+  "fetched_at": "2025-10-05T00:29:08.812374",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "Pulling up faster than I can fall #calisthenics",
+      "video_id": "6MEkghFpWJM",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2025-09-28T15:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6MEkghFpWJM/hqdefault.jpg"
+    },
     {
       "title": "fighting the grasp of gravity #calisthenics",
       "video_id": "qvf4cBUh40g",
@@ -75,14 +83,6 @@
       "description": "new perfect muscleup program is out now. link in bio.",
       "published_at": "2025-06-15T15:45:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4Zz-8fR-3OA/hqdefault.jpg"
-    },
-    {
-      "title": "Maxing out vertical acceleration #shorts #calisthenics",
-      "video_id": "9Hq1VeUP6Ws",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-06-08T14:30:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9Hq1VeUP6Ws/hqdefault.jpg"
     }
   ]
 }

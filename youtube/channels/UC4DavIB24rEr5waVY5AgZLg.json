@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-28T00:29:12.939643",
+  "fetched_at": "2025-10-05T00:28:41.677265",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Drawing &amp; Watercolor Painting with a Disney Imagineer",
+      "video_id": "qtQIUvTH738",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Todd is one of our Concept Design artists at Walt Disney Imagineering and he's showing off how to sketch, ink, and watercolor ...",
+      "published_at": "2025-09-29T19:06:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qtQIUvTH738/hqdefault.jpg"
+    },
     {
       "title": "Hong Kong Disneyland 20th Anniversary New Projections | Great Moments in Imagineering",
       "video_id": "2h_2wZM2YeA",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-20T19:00:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2QC3LhirR1s/hqdefault.jpg"
-    },
-    {
-      "title": "Meet The Titans from the Disney Destiny Hercules Show | Great Moments in Imagineering",
-      "video_id": "YEOyMN0RSpc",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "Meet the Rock Titan and Ice Titan – two puppets brought to life by Disney Live Entertainment for the new Disney Hercules show ...",
-      "published_at": "2025-08-18T16:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YEOyMN0RSpc/hqdefault.jpg"
     }
   ]
 }

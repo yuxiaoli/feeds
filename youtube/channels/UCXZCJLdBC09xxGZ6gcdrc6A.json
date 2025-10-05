@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-09-28T00:29:47.738812",
+  "fetched_at": "2025-10-05T00:29:17.404533",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "Introducing ChatGPT Pulse",
-      "video_id": "nk6IjAnCCqw",
+      "title": "The Quack: Part 1 by Sora 2",
+      "video_id": "Gdzm0-8_61c",
       "channel_title": "OpenAI",
-      "description": "Today we're releasing a preview of ChatGPT Pulse to Pro users—a new experience where ChatGPT proactively does research to ...",
-      "published_at": "2025-09-25T17:00:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nk6IjAnCCqw/hqdefault.jpg"
+      "description": "",
+      "published_at": "2025-10-03T17:03:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gdzm0-8_61c/hqdefault.jpg"
     },
     {
-      "title": "Codex and the future of coding with AI — the OpenAI Podcast Ep. 6",
-      "video_id": "OXOypK7_90c",
+      "title": "Bloopers by Sora 2",
+      "video_id": "MkONqpRVFDo",
       "channel_title": "OpenAI",
-      "description": "What happens when AI becomes a true coding collaborator? OpenAI co-founder Greg Brockman and Codex engineering lead ...",
-      "published_at": "2025-09-15T18:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OXOypK7_90c/hqdefault.jpg"
+      "description": "",
+      "published_at": "2025-10-02T00:44:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MkONqpRVFDo/hqdefault.jpg"
     },
     {
-      "title": "Build Hour: Codex",
-      "video_id": "WvMqA4Xwx_k",
+      "title": "GPT-5 unites intent and reasoning for Mercado Libre",
+      "video_id": "RkXopzfW6Vg",
       "channel_title": "OpenAI",
-      "description": "Codex is now one agent for everywhere you code — connected by your ChatGPT account. This Build Hour is a hands-on ...",
-      "published_at": "2025-09-08T17:38:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WvMqA4Xwx_k/hqdefault.jpg"
+      "description": "For a company that operates at Mercado Libre's scale - thousands of internal tools, millions of customers - managing AI agents ...",
+      "published_at": "2025-10-01T21:04:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RkXopzfW6Vg/hqdefault.jpg"
     },
     {
-      "title": "Lowe’s gets answers faster with GPT-5",
-      "video_id": "2TK9tFZoBRg",
+      "title": "Introducing Sora 2",
+      "video_id": "gzneGhpXwjU",
       "channel_title": "OpenAI",
-      "description": "Lowe's has built their AI strategy around three pillars: \"how we shop\", \"how we sell\", and \"how we work\". GPT-5 can help all three ...",
-      "published_at": "2025-09-04T15:47:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2TK9tFZoBRg/hqdefault.jpg"
+      "description": "Bill Peebles, Rohan Sahai, and Thomas Dimson introduce and demo Sora 2 and the new Sora app.",
+      "published_at": "2025-09-30T17:38:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gzneGhpXwjU/hqdefault.jpg"
     },
     {
-      "title": "GPT-5 reshapes how teams work at Moderna",
-      "video_id": "r84e46MDMdc",
+      "title": "This is Sora 2",
+      "video_id": "lEcg6AJ6DVY",
       "channel_title": "OpenAI",
-      "description": "At Moderna, scientists who have never written code are generating algorithms in minutes in plain English using GPT-5. In this ...",
-      "published_at": "2025-09-03T15:01:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r84e46MDMdc/hqdefault.jpg"
+      "description": "This is Sora 2, our most advanced video generation model yet that puts vivid, expressive creation into everyone's hands. Sora 2 ...",
+      "published_at": "2025-09-30T17:20:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lEcg6AJ6DVY/hqdefault.jpg"
     },
     {
-      "title": "Build Hour: GPT-5",
-      "video_id": "ITMouQ_EuXI",
+      "title": "Sound on for Sora 2",
+      "video_id": "1PaoWKvcJP0",
       "channel_title": "OpenAI",
-      "description": "GPT-5 is OpenAI's most steerable reasoning model yet. This Build Hour walks through its new capabilities, how to use it in the ...",
-      "published_at": "2025-09-03T00:22:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ITMouQ_EuXI/hqdefault.jpg"
+      "description": "Introducing the Sora app, powered by Sora 2. Inside the app, you can create, remix, and bring yourself or your friends into the ...",
+      "published_at": "2025-09-30T17:20:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1PaoWKvcJP0/hqdefault.jpg"
     },
     {
-      "title": "Build Hour: Built-In Tools",
-      "video_id": "8St8elOrRPY",
+      "title": "Driving sales productivity and customer success at OpenAI",
+      "video_id": "JLsZoR_3-J8",
       "channel_title": "OpenAI",
-      "description": "Built-in tools let you extend models out of the box without writing custom functions. This Build Hour shows you how to use web ...",
-      "published_at": "2025-09-03T00:22:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8St8elOrRPY/hqdefault.jpg"
+      "description": "Sales teams at OpenAI use GTM Assistant to work smarter every day. Learn how this internal tool automates meeting prep, ...",
+      "published_at": "2025-09-29T20:59:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JLsZoR_3-J8/hqdefault.jpg"
     },
     {
-      "title": "Build Hour: Agentic Tool Calling",
-      "video_id": "7E-qdsVEoB8",
+      "title": "Empowering teams to unlock insights faster at OpenAI",
+      "video_id": "hzpPKuaJISk",
       "channel_title": "OpenAI",
-      "description": "In 2025, agents don't just think — they run code, call tools, and complete tasks. This Build Hour is a hands-on walkthrough of how ...",
-      "published_at": "2025-09-03T00:22:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7E-qdsVEoB8/hqdefault.jpg"
+      "description": "Millions of support tickets, research notes, and product questions flow through OpenAI every year. Research Assistant helps ...",
+      "published_at": "2025-09-29T21:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hzpPKuaJISk/hqdefault.jpg"
     },
     {
-      "title": "Build Hour: Reinforcement Fine-Tuning",
-      "video_id": "YWLOo_fc5oA",
+      "title": "Converting inbound leads into customers at OpenAI",
+      "video_id": "mWeVr6f50V0",
       "channel_title": "OpenAI",
-      "description": "Reinforcement fine-tuning (RFT) lets you improve how models reason by training with graders instead of large labeled datasets.",
-      "published_at": "2025-09-03T00:22:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YWLOo_fc5oA/hqdefault.jpg"
+      "description": "Turning inbound leads into customers takes quick, personal follow-up. Tailor Assist gives every prospect a thoughtful response at ...",
+      "published_at": "2025-09-29T21:00:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mWeVr6f50V0/hqdefault.jpg"
     },
     {
-      "title": "Build Hour: Voice Agents",
-      "video_id": "rpj1m0wYs8M",
+      "title": "Improving support with every interaction at OpenAI",
+      "video_id": "Up7LFjsH6aU",
       "channel_title": "OpenAI",
-      "description": "Voice agents don't just transcribe anymore — they think, talk, and call tools in real time. This Build Hour demos speech-to-speech ...",
-      "published_at": "2025-09-03T00:22:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rpj1m0wYs8M/hqdefault.jpg"
+      "description": "Great support is about speed and quality. See how OpenAI's support agent uses AI to triage requests, recommend next steps, and ...",
+      "published_at": "2025-09-29T21:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Up7LFjsH6aU/hqdefault.jpg"
     }
   ]
 }

@@ -1,24 +1,40 @@
 {
-  "fetched_at": "2025-09-28T00:29:15.145867",
+  "fetched_at": "2025-10-05T00:28:44.098298",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 2,
+  "count": 4,
   "videos": [
     {
-      "title": "The Ryder Cup Comes to Virtual Reality | GOLF+ | Meta Quest + Rift Platforms",
-      "video_id": "uv6LKDWx1t4",
+      "title": "Reach | VR Innovation Story Trailer | Meta Quest 3 + 3S",
+      "video_id": "V_BVooWIelQ",
       "channel_title": "Meta Quest ",
-      "description": "Experience golf's biggest event like never before with the electric atmosphere of the Ryder Cup. Towering grandstands, roaring ...",
-      "published_at": "2025-09-26T15:35:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uv6LKDWx1t4/hqdefault.jpg"
+      "description": "Reach is available now for pre-ordering on Meta Quest! Order here: https://bit.ly/43Z4b5o Players who pre-order the base game ...",
+      "published_at": "2025-10-03T19:30:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V_BVooWIelQ/hqdefault.jpg"
     },
     {
-      "title": "Green Hell VR | Animal Husbandry &amp; New Maps Update | Meta Quest Platform",
-      "video_id": "LY0TOuvO7TE",
+      "title": "My Monsters | Launch Trailer | Meta Quest Platform",
+      "video_id": "l3bHTQfkLQ0",
       "channel_title": "Meta Quest ",
-      "description": "People say survival is brutal. We say… not when you can pet a capybara! The Animal Husbandry Update is OUT NOW in ...",
-      "published_at": "2025-09-23T22:02:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LY0TOuvO7TE/hqdefault.jpg"
+      "description": "Team up with your inner-monster! Face enemies, solve puzzles, and overcome challenges side by side, uncovering fragments of ...",
+      "published_at": "2025-10-03T17:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l3bHTQfkLQ0/hqdefault.jpg"
+    },
+    {
+      "title": "Demeo x Dungeons &amp; Dragons: Battlemarked | Gameplay Trailer | Meta Quest Platform",
+      "video_id": "rb1hB7eKotw",
+      "channel_title": "Meta Quest ",
+      "description": "Critical hit incoming! Demeo x Dungeons & Dragons: Battlemarked is launching on November 20! Wishlist today!",
+      "published_at": "2025-10-02T14:03:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rb1hB7eKotw/hqdefault.jpg"
+    },
+    {
+      "title": "Titan Isles | Launch Trailer | Meta Quest Platform",
+      "video_id": "B4KfvnqxN7I",
+      "channel_title": "Meta Quest ",
+      "description": "OUT NOW! Strap into your exo-suit and explore a breathtaking world of floating isles where danger lurks at every edge. In Titan ...",
+      "published_at": "2025-09-30T22:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B4KfvnqxN7I/hqdefault.jpg"
     }
   ]
 }

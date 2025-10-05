@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-09-28T00:30:00.276436",
+  "fetched_at": "2025-10-05T00:29:30.965069",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Aircraft Carrier Launch Pad",
+      "video_id": "uoDshnc32ic",
+      "channel_title": "Hazegrayart",
+      "description": "Operation Sandy was the codename for the post-World War II launch of a captured V-2 rocket from the deck of the United States ...",
+      "published_at": "2025-10-03T12:07:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uoDshnc32ic/hqdefault.jpg"
+    },
+    {
+      "title": "The Large Space Shuttle",
+      "video_id": "l8aj3PK4q44",
+      "channel_title": "Hazegrayart",
+      "description": "DARPA studied modifying the current external tank design to be able to carry low-density payloads in a 25 or 35 ft (7.6 or 10.6 m) ...",
+      "published_at": "2025-09-30T12:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l8aj3PK4q44/hqdefault.jpg"
+    },
     {
       "title": "Largest Solid Rocket Motor Ever Tested",
       "video_id": "fUEEq_CKDOA",
@@ -67,22 +83,6 @@
       "description": "Nova was a series of NASA's rocket designs that were proposed both before and after the Saturn V rocket used in the Apollo ...",
       "published_at": "2025-08-24T01:25:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CbJMqD_6DHU/hqdefault.jpg"
-    },
-    {
-      "title": "1960&quot;s Nova Post-Saturn  Rocket Launch",
-      "video_id": "TBMJDslNXgo",
-      "channel_title": "Hazegrayart",
-      "description": "Nova was a series of NASA's rocket designs that were proposed both before and after the Saturn V rocket used in the Apollo ...",
-      "published_at": "2025-08-21T01:42:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TBMJDslNXgo/hqdefault.jpg"
-    },
-    {
-      "title": "Titan IIIL Heavy Lift Concept Staging",
-      "video_id": "ASDgq0w_d_E",
-      "channel_title": "Hazegrayart",
-      "description": "The selected Titan IIIL booster is designated as the 1207-4 spread configuration. The booster stage consIsts of a sixteen foot ...",
-      "published_at": "2025-08-19T02:35:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ASDgq0w_d_E/hqdefault.jpg"
     }
   ]
 }

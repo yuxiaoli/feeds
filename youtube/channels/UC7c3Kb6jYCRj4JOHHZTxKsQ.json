@@ -1,64 +1,88 @@
 {
-  "fetched_at": "2025-09-28T00:29:15.851415",
+  "fetched_at": "2025-10-05T00:28:44.867848",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 7,
+  "count": 10,
   "videos": [
     {
-      "title": "Open Source Friday: Mockoon – Run mock APIs locally",
-      "video_id": "H_bFMzndqZA",
+      "title": "Open Source Friday: Mautic – Marketing Automation for Everyone",
+      "video_id": "ZmNwaa0q5dI",
       "channel_title": "GitHub",
-      "description": "On this stream of Open Source Friday, we're excited to shine a spotlight on Mockoon - the open source tool that makes API ...",
-      "published_at": "2025-09-27T06:08:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H_bFMzndqZA/hqdefault.jpg"
+      "description": "Join us for Open Source Friday as we welcome Ruth Cheesley of Mautic, the world's largest open source marketing automation ...",
+      "published_at": "2025-10-04T05:53:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZmNwaa0q5dI/hqdefault.jpg"
     },
     {
-      "title": "The Download: GitHub MCP Registry, GitHub Copilot CLI, Beast mode for GitHub Copilot &amp; more",
-      "video_id": "MB5uMCCGpMY",
+      "title": "Teaching Millions to Code: Quincy Larson on 10 Years of freeCodeCamp",
+      "video_id": "m36P_8s1624",
       "channel_title": "GitHub",
-      "description": "On this episode of The Download, we reveal that OpenAI's GPT-5 Codex and Anthropic's Claude Opus 4.1 are now available in ...",
-      "published_at": "2025-09-26T23:13:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MB5uMCCGpMY/hqdefault.jpg"
+      "description": "Join us for an inspiring conversation with Quincy Larson, the founder of freeCodeCamp—the world's largest free coding education ...",
+      "published_at": "2025-10-03T15:22:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m36P_8s1624/hqdefault_live.jpg"
     },
     {
-      "title": "Rubber Duck Thursday - Let&#39;s Hack!",
-      "video_id": "bZq_SaVyt0I",
+      "title": "Meet Ducky, your new open source coding buddy",
+      "video_id": "tZQzYlDQnr8",
       "channel_title": "GitHub",
-      "description": "Let's keeping hacking on our project and using mcp server. The repo to the project is here: https://gh.io/advocatehub.",
-      "published_at": "2025-09-26T08:31:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bZq_SaVyt0I/hqdefault.jpg"
+      "description": "Meet Ducky, your new open source coding buddy! We've put the 3D print files for our fan-favorite mascot on GitHub so you can ...",
+      "published_at": "2025-10-03T14:01:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tZQzYlDQnr8/hqdefault.jpg"
     },
     {
-      "title": "A deep dive into the GitHub MCP registry | GitHub Checkout",
-      "video_id": "wm1yjcTk50w",
+      "title": "Rubber Duck Thursday!",
+      "video_id": "PYRGQpjj7Gc",
       "channel_title": "GitHub",
-      "description": "In this episode of GitHub Checkout, we take a deep dive into the newly launched GitHub MCP Registry. Join us for a practical ...",
-      "published_at": "2025-09-24T20:33:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wm1yjcTk50w/hqdefault.jpg"
+      "description": "Come hang and code with me!",
+      "published_at": "2025-10-03T08:20:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PYRGQpjj7Gc/hqdefault.jpg"
     },
     {
       "title": "Jueves de Quack",
       "video_id": "6bD7H1gXyVM",
       "channel_title": "GitHub",
       "description": "Únete a nosotros para un stream informal en español! En esta sesión, veremos cómo funciona MCP, y además discutiremos ...",
-      "published_at": "2025-09-19T15:16:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6bD7H1gXyVM/hqdefault_live.jpg"
+      "published_at": "2025-10-03T03:06:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6bD7H1gXyVM/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday: Julia – High-Performance Open Source Language",
-      "video_id": "7_t7M6jPgko",
+      "title": "The ultimate guide to the GitHub Copilot CLI | Full demo | GitHub Checkout",
+      "video_id": "VkOibxsQ1oU",
       "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday as we welcome Viral B. Shah, co-creator of the Julia Programming Language and CEO of ...",
-      "published_at": "2025-09-12T17:43:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7_t7M6jPgko/hqdefault_live.jpg"
+      "description": "In this episode of GitHub Checkout, we take a deep dive into the GitHub Copilot CLI with Product Manager, Ryan Hecht. See how ...",
+      "published_at": "2025-10-02T14:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VkOibxsQ1oU/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday: Mautic – Marketing Automation for Everyone",
-      "video_id": "ZmNwaa0q5dI",
+      "title": "The coding buddy that lives in your command line | GitHub Copilot CLI",
+      "video_id": "ZnZBxZC8WSA",
       "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday as we welcome Ruth Cheesley of Mautic, the world's largest open source marketing automation ...",
-      "published_at": "2025-09-12T16:57:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZmNwaa0q5dI/hqdefault_live.jpg"
+      "description": "Your AI pair programmer is now available wherever you are, including your beloved terminal. This video is a quick catch-up on the ...",
+      "published_at": "2025-10-01T14:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZnZBxZC8WSA/hqdefault.jpg"
+    },
+    {
+      "title": "Code &amp; Community Live Stream",
+      "video_id": "fjeow5yRvuk",
+      "channel_title": "GitHub",
+      "description": "Join us for a special edition of Code & Community, where developers, creators, and open source advocates come together to ...",
+      "published_at": "2025-09-30T15:19:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fjeow5yRvuk/hqdefault_live.jpg"
+    },
+    {
+      "title": "Make your GitHub profile stand out with this one trick",
+      "video_id": "7YGrL-C3lNU",
+      "channel_title": "GitHub",
+      "description": "Ready to give your GitHub profile some personality? This quick tutorial shows you how to create a \"special repository\" that ...",
+      "published_at": "2025-09-30T14:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7YGrL-C3lNU/hqdefault.jpg"
+    },
+    {
+      "title": "Jueves de Quack con Gisela Torres",
+      "video_id": "LLih8bO_bCA",
+      "channel_title": "GitHub",
+      "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde Gisela Torres nos enseñará cómo aprovechar la nueva ...",
+      "published_at": "2025-09-19T15:26:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LLih8bO_bCA/hqdefault_live.jpg"
     }
   ]
 }

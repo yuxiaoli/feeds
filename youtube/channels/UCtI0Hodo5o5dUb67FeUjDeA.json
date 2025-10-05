@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-09-28T00:30:09.457806",
+  "fetched_at": "2025-10-05T00:29:40.422376",
   "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
   "channel_title": "SpaceX",
   "count": 10,
   "videos": [
+    {
+      "title": "Starship | Tenth Flight Test",
+      "video_id": "rcd_SQZDlnk",
+      "channel_title": "SpaceX",
+      "description": "Starship's tenth flight test lifted off on August 26, 2025, at 6:30 p.m. CT from Starbase, Texas, taking a significant step forward in ...",
+      "published_at": "2025-09-29T22:53:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rcd_SQZDlnk/hqdefault.jpg"
+    },
     {
       "title": "Fram2 Polar Orbit Views",
       "video_id": "BYTE4MtR0do",
@@ -75,14 +83,6 @@
       "description": "At ~700 km above Earth, the EVA suit will support the Polaris Dawn crew in the vacuum of space during the first-ever commercial ...",
       "published_at": "2024-05-05T04:16:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fdELVCg2Ank/hqdefault.jpg"
-    },
-    {
-      "title": "To Make Life Multiplanetary",
-      "video_id": "v9lAGmWhcZM",
-      "channel_title": "SpaceX",
-      "description": "The goal of SpaceX is to build the technologies necessary to make life multiplanetary. This is the first time in the 4-billion-year ...",
-      "published_at": "2024-04-06T17:58:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v9lAGmWhcZM/hqdefault.jpg"
     }
   ]
 }

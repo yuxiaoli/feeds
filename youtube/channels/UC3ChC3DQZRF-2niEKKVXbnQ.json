@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-09-28T00:29:11.432260",
+  "fetched_at": "2025-10-05T00:28:40.073778",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "GLM-4.6 实测! 最近都很流行更新一大截然后版本就增加0.1嘛?",
+      "video_id": "9khjfrLfp-Q",
+      "channel_title": "Karminski-牙医",
+      "description": "直接说结论, 前端能力非常好, 效果甚至达到了炫技的程度, 不过随之而来的是复杂场景可能面临性能问题, 所以需要注意防止模型过度 ...",
+      "published_at": "2025-10-01T11:46:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9khjfrLfp-Q/hqdefault.jpg"
+    },
+    {
+      "title": "Claude-Sonnet-4.5 实测! 口嫌体正直国庆献礼?",
+      "video_id": "DxN4_i27EdY",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Claude-Sonnet-4.5 的测试结果, 直接说结论: 写代码模型SOTA 宝座依然稳坐! 三个测试完成度都非常高, 其中鞭炮连锁 ...",
+      "published_at": "2025-09-30T03:31:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DxN4_i27EdY/hqdefault.jpg"
+    },
+    {
+      "title": "DeepSeek-V3.2 实测! 真就只提升了0.1?",
+      "video_id": "xYjVAB4cUXY",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来DeepSeek V3.2 的测试结果, 直接说结论: 写代码方面没质的变化, 但是由于使用了DSA 新技术, 这次召回带来了摧枯拉朽 ...",
+      "published_at": "2025-09-30T00:37:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xYjVAB4cUXY/hqdefault.jpg"
+    },
     {
       "title": "刚发布的 Qwen3-TTS-Flash 实测!",
       "video_id": "cEygpB2PPqc",
@@ -59,30 +83,6 @@
       "description": "好多朋友评论区问我nano-banana 生成的图片分辨率实在是太低了, 连1080P 都不到! 本期给大家带来直接将nano-banana 生成的 ...",
       "published_at": "2025-09-02T21:01:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cmn1UoClUvo/hqdefault.jpg"
-    },
-    {
-      "title": "nano-banana 教程⑤! 如何万物像素化!",
-      "video_id": "L5LsEsqmTTo",
-      "channel_title": "Karminski-牙医",
-      "description": "你有你的AE86, 我有我的剁椒鱼头~ 喜欢的照片想要变成像素风格? 来看这个prompt! 注意使用我的prompt 一定要先上传的第一个是 ...",
-      "published_at": "2025-09-02T17:51:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L5LsEsqmTTo/hqdefault.jpg"
-    },
-    {
-      "title": "nano-banana 教程④! 教你如何克隆喜欢的图标!",
-      "video_id": "G9Wq78htwI4",
-      "channel_title": "Karminski-牙医",
-      "description": "教程第四弹来啦! 有喜欢的图标? 直接克隆! 注意使用我的prompt 一定要先上传的第一个是参考图标，第二个是线稿，一张图的情况 ...",
-      "published_at": "2025-09-02T17:48:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G9Wq78htwI4/hqdefault.jpg"
-    },
-    {
-      "title": "nano-banana 教程③! 如何实现贴纸自由!",
-      "video_id": "OkZ8iWGH-tc",
-      "channel_title": "Karminski-牙医",
-      "description": "教程第三弹来啦! 复杂背景如何抠图? 直接用我这个prompt! 这个prompt 还为大家预留了两个可微调点: 1. {green}, 这个可以修改为你 ...",
-      "published_at": "2025-09-02T17:43:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OkZ8iWGH-tc/hqdefault.jpg"
     }
   ]
 }

@@ -1,14 +1,22 @@
 {
-  "fetched_at": "2025-09-28T00:29:44.765580",
+  "fetched_at": "2025-10-05T00:29:14.344539",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
     {
+      "title": "Implied Volatility &amp; Volatility Surfaces 📉 Quantitative Finance",
+      "video_id": "F_qh827iXFQ",
+      "channel_title": "Socratica",
+      "description": "NOTIFY ME when the course launches: https://snu.socratica.com/quantitative-finance ...",
+      "published_at": "2025-09-30T10:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F_qh827iXFQ/hqdefault.jpg"
+    },
+    {
       "title": "Financial Volatility 🔥 Asset Risk for Quants",
       "video_id": "xZ0knkuxxMI",
       "channel_title": "Socratica",
-      "description": "Volatility is one of the core ideas in finance. It's how we measure uncertainty and risk. Here we move from noisy price charts to ...",
+      "description": "NOTIFY ME when the course launches: https://snu.socratica.com/quantitative-finance ...",
       "published_at": "2025-09-16T10:01:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xZ0knkuxxMI/hqdefault.jpg"
     },
@@ -75,14 +83,6 @@
       "description": "Connect with us on PATREON https://www.patreon.com/socratica Covariance measures how two variables ...",
       "published_at": "2025-06-23T10:00:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ATfDsdlze3E/hqdefault.jpg"
-    },
-    {
-      "title": "What are Hedge Funds? 📈 Intro for Aspiring Quants",
-      "video_id": "eLU77gPIK4E",
-      "channel_title": "Socratica",
-      "description": "NOTIFY ME when the course launches: https://snu.socratica.com/quantitative-finance What do ...",
-      "published_at": "2025-04-21T10:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eLU77gPIK4E/hqdefault.jpg"
     }
   ]
 }

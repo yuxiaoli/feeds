@@ -1,24 +1,24 @@
 {
-  "fetched_at": "2025-09-28T00:29:24.442150",
+  "fetched_at": "2025-10-05T00:28:53.344915",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 2,
   "videos": [
     {
-      "title": "How Does Milk Turn Into Cheese?",
-      "video_id": "wswAlEtWhmc",
+      "title": "What Sends Metal Machines Into The Air",
+      "video_id": "H4Alipi-rpM",
       "channel_title": "Interesting Engineering",
-      "description": "Have you ever wondered how all the different kinds of cheeses come just from one thing: milk? It takes three and a half chemical ...",
-      "published_at": "2025-09-27T00:31:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wswAlEtWhmc/hqdefault.jpg"
+      "description": "Have you ever wondered how planes fly? It feels like it should be impossible to send heavy metal machines into the air and fly ...",
+      "published_at": "2025-10-02T00:31:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H4Alipi-rpM/hqdefault.jpg"
     },
     {
-      "title": "We Need These Trains",
-      "video_id": "2K1npWgtbWo",
+      "title": "These Robots Are Taking Jobs",
+      "video_id": "D9Br0hD6jUw",
       "channel_title": "Interesting Engineering",
-      "description": "Countries like Japan and China are introducing ultra futuristic floating Maglev trains on top of their already superior high speed ...",
-      "published_at": "2025-09-14T08:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2K1npWgtbWo/hqdefault.jpg"
+      "description": "Humanoid Robotics is coming along in leaps and bounds. In just a few years they have gone from barely walking to actually being ...",
+      "published_at": "2025-09-02T06:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D9Br0hD6jUw/hqdefault.jpg"
     }
   ]
 }
