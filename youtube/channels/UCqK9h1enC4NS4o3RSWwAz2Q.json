@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-05T00:29:37.340148",
+  "fetched_at": "2025-10-12T00:28:31.046623",
   "channel_id": "UCqK9h1enC4NS4o3RSWwAz2Q",
   "channel_title": "SVF TV “Stock Video Footage TV”",
   "count": 10,
   "videos": [
+    {
+      "title": "Beautiful Autumn River Flowing Through Forest | 4K Nature Footage | Free Stock Video",
+      "video_id": "lxvZOHYHo8M",
+      "channel_title": "SVF TV “Stock Video Footage TV”",
+      "description": "Free 4K UHD footage of a peaceful river flowing through an autumn forest. Perfect for meditation, relaxation, travel content, ...",
+      "published_at": "2025-10-11T07:04:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lxvZOHYHo8M/hqdefault.jpg"
+    },
     {
       "title": "Beautiful Trees in Forest | Relaxing Nature 4K UHD | Free Stock Video",
       "video_id": "2kq9C03R7vU",
@@ -75,14 +83,6 @@
       "description": "Take a full minute to slow down. This peaceful 4K river scene is perfect for relaxation, focus, or just a breath of calm. No music.",
       "published_at": "2025-08-03T12:00:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/OJGIqLemwwg/hqdefault.jpg"
-    },
-    {
-      "title": "Abstract Sunlit Ocean Waves | Free HD Nature Footage | No Copyright",
-      "video_id": "x8ByXTkSHiA",
-      "channel_title": "SVF TV “Stock Video Footage TV”",
-      "description": "Free HD abstract footage of ocean waves shimmering under sunlight. The water reflects golden and silver sparkles, creating a ...",
-      "published_at": "2025-07-31T11:45:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x8ByXTkSHiA/hqdefault.jpg"
     }
   ]
 }

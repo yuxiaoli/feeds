@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2025-10-05T00:29:15.859455",
+  "fetched_at": "2025-10-12T00:28:11.292799",
   "channel_id": "UCWhwybsQg-EeBJpsqtmbscw",
   "channel_title": "JomaClass",
   "count": 10,
   "videos": [
+    {
+      "title": "Backtracking | Programming Fundamentals with Python",
+      "video_id": "fmBecqWrB-k",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-11T16:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fmBecqWrB-k/hqdefault.jpg"
+    },
+    {
+      "title": "Recursion: How To Write Recursive Functions | Programming Fundamentals with Python",
+      "video_id": "KRGhgv51T6c",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-10T16:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KRGhgv51T6c/hqdefault.jpg"
+    },
+    {
+      "title": "Recursion: Fibonacci Sequence | Programming Fundamentals with Python",
+      "video_id": "0GcYSamWH8M",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-09T16:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0GcYSamWH8M/hqdefault.jpg"
+    },
+    {
+      "title": "Recursion | Programming Fundamentals with Python",
+      "video_id": "HuPo6k0THMY",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-08T16:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HuPo6k0THMY/hqdefault.jpg"
+    },
+    {
+      "title": "Matrices: Adding 2 Matrices | Programming Fundamentals with Python",
+      "video_id": "kacv18vZ8r4",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-07T16:01:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kacv18vZ8r4/hqdefault.jpg"
+    },
+    {
+      "title": "Matrices | Programming Fundamentals with Python",
+      "video_id": "9NgSeXlHwk0",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-06T16:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9NgSeXlHwk0/hqdefault.jpg"
+    },
+    {
+      "title": "Nested Loops | Programming Fundamentals with Python",
+      "video_id": "TjlN_T9TX5g",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-05T16:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TjlN_T9TX5g/hqdefault.jpg"
+    },
     {
       "title": "Loops: Break &amp; Continue | Programming Fundamentals with Python",
       "video_id": "IQdpzhlUg1c",
@@ -27,62 +83,6 @@
       "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
       "published_at": "2025-10-02T16:00:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6JsKMYxORxo/hqdefault.jpg"
-    },
-    {
-      "title": "Lists: How To Use Lists | Programming Fundamentals with Python",
-      "video_id": "axqUMZJL0AE",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-01T16:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/axqUMZJL0AE/hqdefault.jpg"
-    },
-    {
-      "title": "Lists: What are they? | Programming Fundamentals with Python",
-      "video_id": "lfgCXhbRBzE",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-09-30T16:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lfgCXhbRBzE/hqdefault.jpg"
-    },
-    {
-      "title": "Control Flow: While Loops | Programming Fundamentals with Python",
-      "video_id": "wQjaL6OjHsE",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-09-29T16:01:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wQjaL6OjHsE/hqdefault.jpg"
-    },
-    {
-      "title": "Control Flow : If Else Statements | Programming Fundamentals with Python",
-      "video_id": "Ku6NcmHi3CE",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-09-28T16:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ku6NcmHi3CE/hqdefault.jpg"
-    },
-    {
-      "title": "Functions | Programming Fundamentals with Python",
-      "video_id": "4AQoVr8T3yI",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-09-27T16:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4AQoVr8T3yI/hqdefault.jpg"
-    },
-    {
-      "title": "Datatypes &amp; Operators | Programming Fundamentals with Python",
-      "video_id": "Cysmb5AWOcI",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-09-26T16:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Cysmb5AWOcI/hqdefault.jpg"
-    },
-    {
-      "title": "Variables | Programming Fundamentals with Python",
-      "video_id": "ikWOFqhM3-w",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-09-25T16:01:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ikWOFqhM3-w/hqdefault.jpg"
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-10-05T00:29:17.404533",
+  "fetched_at": "2025-10-12T00:28:12.865675",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "The Quack: Part 1 by Sora 2",
-      "video_id": "Gdzm0-8_61c",
+      "title": "What Work Looks Like with ChatGPT | Write, Research, Code, Create",
+      "video_id": "0SccjZ6Yfi8",
       "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2025-10-03T17:03:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gdzm0-8_61c/hqdefault.jpg"
+      "description": "ChatGPT is becoming a bigger part of everyday work. It helps teams move from idea to execution faster, analyzing data, writing ...",
+      "published_at": "2025-10-09T15:32:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0SccjZ6Yfi8/hqdefault.jpg"
     },
     {
-      "title": "Bloopers by Sora 2",
-      "video_id": "MkONqpRVFDo",
+      "title": "Evals in Action: From Frontier Research to Production Applications",
+      "video_id": "YEaKXjHENyQ",
       "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2025-10-02T00:44:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MkONqpRVFDo/hqdefault.jpg"
+      "description": "How do you measure progress when you're operating at the frontier? Step inside the evolving world of AI evaluation, where ...",
+      "published_at": "2025-10-08T17:01:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YEaKXjHENyQ/hqdefault.jpg"
     },
     {
-      "title": "GPT-5 unites intent and reasoning for Mercado Libre",
-      "video_id": "RkXopzfW6Vg",
+      "title": "Built for SF by SF: AI Solutions Helping Our City Thrive",
+      "video_id": "EDqQtysycT4",
       "channel_title": "OpenAI",
-      "description": "For a company that operates at Mercado Libre's scale - thousands of internal tools, millions of customers - managing AI agents ...",
-      "published_at": "2025-10-01T21:04:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RkXopzfW6Vg/hqdefault.jpg"
+      "description": "No city embraces the future like San Francisco. Get inspired by local developers using AI to tackle real challenges: making SF ...",
+      "published_at": "2025-10-08T17:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EDqQtysycT4/hqdefault.jpg"
     },
     {
-      "title": "Introducing Sora 2",
-      "video_id": "gzneGhpXwjU",
+      "title": "AMA: Scaling AI Applications into the Enterprise",
+      "video_id": "WrANK9oFfHw",
       "channel_title": "OpenAI",
-      "description": "Bill Peebles, Rohan Sahai, and Thomas Dimson introduce and demo Sora 2 and the new Sora app.",
-      "published_at": "2025-09-30T17:38:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gzneGhpXwjU/hqdefault.jpg"
+      "description": "Join a live AMA with Decagon & Clay founders and an Andreessen Horowitz investor on cracking enterprise AI adoption—why ...",
+      "published_at": "2025-10-08T17:01:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WrANK9oFfHw/hqdefault.jpg"
     },
     {
-      "title": "This is Sora 2",
-      "video_id": "lEcg6AJ6DVY",
+      "title": "Building with Open Models",
+      "video_id": "1HL2YHRj270",
       "channel_title": "OpenAI",
-      "description": "This is Sora 2, our most advanced video generation model yet that puts vivid, expressive creation into everyone's hands. Sora 2 ...",
-      "published_at": "2025-09-30T17:20:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lEcg6AJ6DVY/hqdefault.jpg"
+      "description": "Go beyond out-of-the-box models with gpt-oss, OpenAI's newest open model series. Discover how gpt-oss lets you adapt, extend, ...",
+      "published_at": "2025-10-08T17:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1HL2YHRj270/hqdefault.jpg"
     },
     {
-      "title": "Sound on for Sora 2",
-      "video_id": "1PaoWKvcJP0",
+      "title": "Developer State Of The Union",
+      "video_id": "r1R3RDPvPeg",
       "channel_title": "OpenAI",
-      "description": "Introducing the Sora app, powered by Sora 2. Inside the app, you can create, remix, and bring yourself or your friends into the ...",
-      "published_at": "2025-09-30T17:20:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1PaoWKvcJP0/hqdefault.jpg"
+      "description": "The developer experience is being rewritten with AI. The Developer State of the Union will explore how Codex, gpt-oss, and our ...",
+      "published_at": "2025-10-08T17:01:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r1R3RDPvPeg/hqdefault.jpg"
     },
     {
-      "title": "Driving sales productivity and customer success at OpenAI",
-      "video_id": "JLsZoR_3-J8",
+      "title": "Measuring Agents With Interactive Evaluations",
+      "video_id": "TK9MN22q6E0",
       "channel_title": "OpenAI",
-      "description": "Sales teams at OpenAI use GTM Assistant to work smarter every day. Learn how this internal tool automates meeting prep, ...",
-      "published_at": "2025-09-29T20:59:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JLsZoR_3-J8/hqdefault.jpg"
+      "description": "Agents explore, plan, and reliably execute across diverse, long-horizon tasks—challenges that static benchmarks can't measure.",
+      "published_at": "2025-10-08T17:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TK9MN22q6E0/hqdefault.jpg"
     },
     {
-      "title": "Empowering teams to unlock insights faster at OpenAI",
-      "video_id": "hzpPKuaJISk",
+      "title": "Shipping with Codex",
+      "video_id": "Gr41tYOzE20",
       "channel_title": "OpenAI",
-      "description": "Millions of support tickets, research notes, and product questions flow through OpenAI every year. Research Assistant helps ...",
-      "published_at": "2025-09-29T21:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hzpPKuaJISk/hqdefault.jpg"
+      "description": "\"Hear how OpenAI engineers use Codex to rethink how code gets written, refactored, and merged. From pair programming in your ...",
+      "published_at": "2025-10-08T17:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gr41tYOzE20/hqdefault.jpg"
     },
     {
-      "title": "Converting inbound leads into customers at OpenAI",
-      "video_id": "mWeVr6f50V0",
+      "title": "A Conversation with Sam and Jony",
+      "video_id": "7cKbPLzNYws",
       "channel_title": "OpenAI",
-      "description": "Turning inbound leads into customers takes quick, personal follow-up. Tailor Assist gives every prospect a thoughtful response at ...",
-      "published_at": "2025-09-29T21:00:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mWeVr6f50V0/hqdefault.jpg"
+      "description": "Join Sam Altman and Jony Ive for a wide-ranging conversation about the craft of building in the age of AI. Together, they will ...",
+      "published_at": "2025-10-08T17:01:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7cKbPLzNYws/hqdefault.jpg"
     },
     {
-      "title": "Improving support with every interaction at OpenAI",
-      "video_id": "Up7LFjsH6aU",
+      "title": "Sora, ImageGen, and Codex: The Next Wave of Creative Production",
+      "video_id": "70ush8Vknx8",
       "channel_title": "OpenAI",
-      "description": "Great support is about speed and quality. See how OpenAI's support agent uses AI to triage requests, recommend next steps, and ...",
-      "published_at": "2025-09-29T21:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Up7LFjsH6aU/hqdefault.jpg"
+      "description": "AI is changing how quickly creative ideas can become reality. In this session, we'll walk through how we built a custom creative ...",
+      "published_at": "2025-10-08T17:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/70ush8Vknx8/hqdefault.jpg"
     }
   ]
 }

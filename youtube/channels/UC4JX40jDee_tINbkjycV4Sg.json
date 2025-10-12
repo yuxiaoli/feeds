@@ -1,72 +1,48 @@
 {
-  "fetched_at": "2025-10-05T00:28:42.518562",
+  "fetched_at": "2025-10-12T00:27:38.682069",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "Stop scrolling, listen to this...",
-      "video_id": "c1QraIceB58",
+      "title": "Have you used GO yet?",
+      "video_id": "g3gqpNZJeZE",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-10-04T16:06:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c1QraIceB58/hqdefault.jpg"
+      "published_at": "2025-10-11T15:45:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g3gqpNZJeZE/hqdefault.jpg"
     },
     {
-      "title": "Cancel Your AI subscriptions | This All-in-one AI is All You Need (ChatLLM Review)",
-      "video_id": "6dz3MD3ZXXk",
-      "channel_title": "Tech With Tim",
-      "description": "Get started wirh ChatLLM here: https://chatllm.abacus.ai If you're like me, then chances are you use a lot of AI tools. I have all ...",
-      "published_at": "2025-10-03T13:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6dz3MD3ZXXk/hqdefault.jpg"
-    },
-    {
-      "title": "Listen to this devlaunch student success story!",
-      "video_id": "3oTnXJu5TMk",
+      "title": "Check the description to find a high paying job as a developer.",
+      "video_id": "hUvmFtS3F7I",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-10-03T12:02:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3oTnXJu5TMk/hqdefault.jpg"
+      "published_at": "2025-10-10T18:08:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hUvmFtS3F7I/hqdefault.jpg"
     },
     {
-      "title": "Thinking about learning Javascript? Watch this video!",
-      "video_id": "_CvcMtPzE4s",
+      "title": "How I Would Learn Python Web Development If I Started Over",
+      "video_id": "eOuCaQtlql8",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-10-02T13:15:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_CvcMtPzE4s/hqdefault.jpg"
+      "description": "Deploy your applications and services today using Railway and get $20 in free credits! https://railway.com?referralCode=30tGFE If ...",
+      "published_at": "2025-10-10T17:52:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eOuCaQtlql8/hqdefault.jpg"
     },
     {
-      "title": "Do you know about this python feature?",
-      "video_id": "Nv_C8HhZrdk",
+      "title": "How to Build AI Agents in Python",
+      "video_id": "OKwDzKY_WN8",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-10-01T16:54:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nv_C8HhZrdk/hqdefault.jpg"
+      "description": "Get 20% off NVIDIA certification exams using the code \"TechWithTim20\" from here: https://nvda.ws/46Sehq8 Today we're diving ...",
+      "published_at": "2025-10-08T14:49:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OKwDzKY_WN8/hqdefault.jpg"
     },
     {
-      "title": "Python Web Scraping: A Million Dollar Project Idea - FULL Build/Tutorial",
-      "video_id": "Wif4zLlruqo",
+      "title": "Why 1M People Tried This AI Coding Tool (Full Vibe Coding Tutorial)",
+      "video_id": "richIuZJ3WY",
       "channel_title": "Tech With Tim",
-      "description": "Use code TECHWITHTIM to get a 20% discount on Web Scraper API from Oxylabs: ...",
-      "published_at": "2025-10-01T13:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wif4zLlruqo/hqdefault.jpg"
-    },
-    {
-      "title": "The Truth About the Software Engineering Job Market in 2025",
-      "video_id": "nokdEcqKWtA",
-      "channel_title": "Tech With Tim",
-      "description": "To learn for free on Brilliant, go to https://brilliant.org/techwithtim . Brilliant's also given our viewers 20% off an annual Premium ...",
-      "published_at": "2025-09-29T15:45:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nokdEcqKWtA/hqdefault.jpg"
-    },
-    {
-      "title": "How to Build a Production-Ready RAG AI Agent in Python (Step-by-Step)",
-      "video_id": "AUQJ9eeP-Ls",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with Inngest: https://innge.st/yt-twt-1 Check out PyCharm, the only Python IDE you need to build data models and AI ...",
-      "published_at": "2025-09-24T13:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AUQJ9eeP-Ls/hqdefault.jpg"
+      "description": "Check out Emergent: https://app.emergent.sh/?via=1666c8 In this video, I'll be giving you an in-depth vibe coding tutorial where ...",
+      "published_at": "2025-10-06T13:07:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/richIuZJ3WY/hqdefault.jpg"
     },
     {
       "title": "The only video you need to watch if you want to become a software engineer!",
@@ -83,6 +59,30 @@
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
       "published_at": "2025-08-08T19:30:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lrRlUDsaHug/hqdefault.jpg"
+    },
+    {
+      "title": "How I Vibe Coded 3 Apps in 20 Minutes - DeepAgent Demo",
+      "video_id": "0Vx1MWojNaU",
+      "channel_title": "Tech With Tim",
+      "description": "I just spent the last hour vibe coding up three apps that are almost ready to go into production. In this video, I'm going to show you ...",
+      "published_at": "2025-08-08T12:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0Vx1MWojNaU/hqdefault.jpg"
+    },
+    {
+      "title": "The Easiest Ways to Run LLMs Locally - Docker Model Runner Tutorial",
+      "video_id": "GOgfQxDPaDw",
+      "channel_title": "Tech With Tim",
+      "description": "Download Docker Desktop: https://docs.docker.com/desktop/ Docker Model Runner Docs: ...",
+      "published_at": "2025-07-19T13:30:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GOgfQxDPaDw/hqdefault.jpg"
+    },
+    {
+      "title": "THIS is why you keep getting ghosted by recruiters",
+      "video_id": "fRkxtW12oBI",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-07-04T02:52:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
     }
   ]
 }

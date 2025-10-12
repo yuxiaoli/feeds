@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-10-05T00:29:27.043737",
+  "fetched_at": "2025-10-12T00:28:21.206174",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Worth the Wait | Bang &amp; Olufsen",
+      "video_id": "nItPDluQ4T8",
+      "channel_title": "Bang & Olufsen",
+      "description": "No peeking… Good sound comes to those who wait. It's not just a gift. It's a Bang & Olufsen: ...",
+      "published_at": "2025-10-09T10:01:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nItPDluQ4T8/hqdefault.jpg"
+    },
+    {
+      "title": "Worth the Wait | Bang &amp; Olufsen",
+      "video_id": "ATQJKjYVXl0",
+      "channel_title": "Bang & Olufsen",
+      "description": "No peeking… Good sound comes to those who wait. #BangOlufsen.",
+      "published_at": "2025-10-09T10:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ATQJKjYVXl0/hqdefault.jpg"
+    },
     {
       "title": "Bang &amp; Olufsen | Beo Grace",
       "video_id": "WE346j5BO3M",
@@ -67,22 +83,6 @@
       "description": "Trace your route, then let your soundtrack lead the way. Explore: ...",
       "published_at": "2025-07-16T16:00:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Xocgtch54eA/hqdefault.jpg"
-    },
-    {
-      "title": "Sound Travels",
-      "video_id": "WNP3H6r1pLs",
-      "channel_title": "Bang & Olufsen",
-      "description": "Trace your route, then let your soundtrack lead the way. Explore: ...",
-      "published_at": "2025-07-16T16:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WNP3H6r1pLs/hqdefault.jpg"
-    },
-    {
-      "title": "Beosound A1 3rd Gen",
-      "video_id": "HNO_R3Z_CTQ",
-      "channel_title": "Bang & Olufsen",
-      "description": "Small size. Serious sound. Toshiki Studio Explore: https://www.bang-olufsen.com/en/speakers/beosound-a1 #BangOlufsen ...",
-      "published_at": "2025-07-03T15:04:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HNO_R3Z_CTQ/hqdefault.jpg"
     }
   ]
 }

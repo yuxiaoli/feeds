@@ -1,80 +1,88 @@
 {
-  "fetched_at": "2025-10-05T00:28:49.481108",
+  "fetched_at": "2025-10-12T00:27:45.555555",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 9,
+  "count": 10,
   "videos": [
     {
-      "title": "Making the AFEELA 1 Cockpit Unreal | Unreal Fest Orlando 2025",
-      "video_id": "LEoNwFs9tyo",
+      "title": "Digital Twins Made Real: From Simulation to Execution with Unreal Engine | Unreal Fest Orlando 2025",
+      "video_id": "Ra5VdD_DiAg",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Orlando 2025, the Sony Honda Mobility development team, in collaboration with Epic ...",
-      "published_at": "2025-10-04T18:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LEoNwFs9tyo/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Orlando 2025, WWT dives into how Unreal Engine is powering the next generation of ...",
+      "published_at": "2025-10-11T18:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ra5VdD_DiAg/hqdefault.jpg"
     },
     {
-      "title": "Is AI-FREE the new premium? | Unreal Fest Orlando 2025",
-      "video_id": "058uuVZ54_s",
+      "title": "State of Virtual Production | Unreal Fest Orlando 2025",
+      "video_id": "Y7bG9jL2Qz8",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Orlando 2025, MHP—Porsche's immersive consultancy—demonstrates how their Elastic ...",
-      "published_at": "2025-10-04T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/058uuVZ54_s/hqdefault.jpg"
+      "description": "Watch this session recorded at Unreal Fest Orlando 2025 to discover the latest and greatest when it comes to virtual production ...",
+      "published_at": "2025-10-11T16:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y7bG9jL2Qz8/hqdefault.jpg"
     },
     {
-      "title": "Unreal Animation Framework in The Witcher 4 Unreal Engine 5 Tech Demo | Unreal Fest Orlando 2025",
-      "video_id": "v4slYkeuJmg",
+      "title": "Deep Dive into Customizations With Mutable | Unreal Fest Orlando 2025",
+      "video_id": "OMgjYC-lggI",
       "channel_title": "Unreal Engine",
-      "description": "Watch this session recorded at Unreal Fest Orlando 2025 and find out how the Unreal Animation Framework was used in the ...",
-      "published_at": "2025-10-04T14:01:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v4slYkeuJmg/hqdefault.jpg"
+      "description": "Mutable is an Unreal Engine plugin for creating character customization systems, enabling dynamic changes to characters and ...",
+      "published_at": "2025-10-11T14:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OMgjYC-lggI/hqdefault.jpg"
     },
     {
-      "title": "Avowed: A GPU Technical Retrospective | Unreal Fest Orlando 2025",
-      "video_id": "BKaAzhMHJZ0",
+      "title": "Supervised Settings Downloading: Under the Hood with KWS | Unreal Fest Orlando 2025",
+      "video_id": "J4aLv8Qs69A",
       "channel_title": "Unreal Engine",
-      "description": "Watch this session recorded at Unreal Fest Orlando 2025 in which Matthew Campbell of Obsidian gives a tour of Unreal Engine 5 ...",
-      "published_at": "2025-10-03T18:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BKaAzhMHJZ0/hqdefault.jpg"
+      "description": "Supervised Settings are critical to the user experience at Epic Games, ensuring that user and parental preferences for crucial ...",
+      "published_at": "2025-10-10T18:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J4aLv8Qs69A/hqdefault.jpg"
     },
     {
-      "title": "Integrate Art, Sound, and Code into Unreal Engine with Perforce P4 | Unreal Fest Orlando 2025",
-      "video_id": "_pkJFG85FhM",
+      "title": "TerraCrowds in Action: High-Performance Crowd Simulations with UE | Unreal Fest Orlando 2025",
+      "video_id": "AI17tIMczyo",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Orlando 2025, Jase Lindgren, Sr. Solutions Engineer and P4 Evangelist at Perforce, ...",
-      "published_at": "2025-10-03T16:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_pkJFG85FhM/hqdefault.jpg"
+      "description": "In this session, Roland Geraerts of uCrowds explores the core design ideas of the TerraCrowds engine, including its integration ...",
+      "published_at": "2025-10-10T16:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AI17tIMczyo/hqdefault.jpg"
     },
     {
-      "title": "Building a Next-Gen Simulator Production Pipeline with Unreal Engine 5 | Unreal Fest Orlando 2025",
-      "video_id": "8d7HjwKkivo",
+      "title": "The Best Template You&#39;re Not Using: Maximizing the Collab Viewer | Unreal Fest Orlando 2025",
+      "video_id": "Gy6_v9jr-5w",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Orlando 2025, CORYS gives an overview of their project to completely redevelop their ...",
-      "published_at": "2025-10-03T14:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8d7HjwKkivo/hqdefault.jpg"
-    },
-    {
-      "title": "From Clay to Code: Exploring the Midnight Walk | Inside Unreal",
-      "video_id": "BFoPdQlTYaY",
-      "channel_title": "Unreal Engine",
-      "description": "Come join us as we talk with some of the team MoonHood, who created the incredible game The Midnight Walk. Become The ...",
-      "published_at": "2025-10-02T20:15:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BFoPdQlTYaY/hqdefault.jpg"
+      "description": "Want the fastest way to build a multiplayer experience that works across desktop and VR platforms? Look no further than the ...",
+      "published_at": "2025-10-10T14:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gy6_v9jr-5w/hqdefault.jpg"
     },
     {
       "title": "Unreal Fest Stockholm 2025 | Opening Session",
-      "video_id": "8OcDEaPZCTg",
+      "video_id": "VF-NBjFURnA",
       "channel_title": "Unreal Engine",
       "description": "The Unreal Fest Stockholm opening session gave a peek at UE 5.7, new features for Fortnite developers, and an expansion of the ...",
-      "published_at": "2025-10-02T14:59:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8OcDEaPZCTg/hqdefault.jpg"
+      "published_at": "2025-10-10T13:50:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VF-NBjFURnA/hqdefault.jpg"
     },
     {
-      "title": "Rematch | Game Profile | Unreal Engine",
-      "video_id": "oC9LJC_zacQ",
+      "title": "The New Frontiers of Asset Creation | Unreal Fest Orlando 2025",
+      "video_id": "-GXlwkqkPm0",
       "channel_title": "Unreal Engine",
-      "description": "'Rematch' is a football game that lets you control one player at a time as you compete alongside your teammates in fast-paced ...",
-      "published_at": "2025-09-29T15:59:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oC9LJC_zacQ/hqdefault.jpg"
+      "description": "New AI tools come out every day promising to instantly generate 2D and 3D assets. At a glance, they're incredibly ...",
+      "published_at": "2025-10-09T20:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-GXlwkqkPm0/hqdefault.jpg"
+    },
+    {
+      "title": "Mega Stack &#39;O&#39; Jam Winners Announcement | Inside Unreal",
+      "video_id": "F-ZD5E_jM_0",
+      "channel_title": "Unreal Engine",
+      "description": "Come join us as we announce the winners of the Mega Stack 'O' Jam & celebrate some of the amazing entries submitted!",
+      "published_at": "2025-10-09T19:32:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F-ZD5E_jM_0/hqdefault.jpg"
+    },
+    {
+      "title": "How to Build UI at Scale: Lessons from Marvel’s &#39;Midnight Suns&#39; | Unreal Fest Orlando 2025",
+      "video_id": "Pm2jswrHSck",
+      "channel_title": "Unreal Engine",
+      "description": "In this session recorded at Unreal Fest Orlando 2025, Joel Gonzales explains the approach Turtle Rock Studios used to rapidly ...",
+      "published_at": "2025-10-09T16:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pm2jswrHSck/hqdefault.jpg"
     }
   ]
 }

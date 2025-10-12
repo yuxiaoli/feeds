@@ -1,40 +1,56 @@
 {
-  "fetched_at": "2025-10-05T00:29:02.625535",
+  "fetched_at": "2025-10-12T00:27:58.347742",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "This week in AI models: Granite 4.0, Claude 4.5, Sora 2",
-      "video_id": "LAXAmXHNGeM",
+      "title": "4 Tips to Learn New Technologies Faster &amp; Smarter",
+      "video_id": "IMWG7yx4UDk",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/Bdbxtb What's new in AI models? In episode 75 of Mixture of Experts, host Tim Hwang is ...",
-      "published_at": "2025-10-03T10:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LAXAmXHNGeM/hqdefault.jpg"
+      "description": "Ready to become a certified Developer - IBM i 7.x? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-10-11T11:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IMWG7yx4UDk/hqdefault.jpg"
     },
     {
-      "title": "Today&#39;s State of Zero Trust Security",
-      "video_id": "g2C6vEekr2s",
+      "title": "IBM partners with Anthropic, plus OpenAI drops AgentKit",
+      "video_id": "lMrOvPloJ0o",
       "channel_title": "IBM Technology",
-      "description": "Understand why we should assume systems are already breached and learn strategies to redefine security boundaries, and how ...",
-      "published_at": "2025-10-02T18:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g2C6vEekr2s/hqdefault.jpg"
+      "description": "Explore the podcast → https://ibm.biz/Bdb4Xy The major AI players are not slowing down. In episode 76 of Mixture of Experts, host ...",
+      "published_at": "2025-10-10T10:01:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lMrOvPloJ0o/hqdefault.jpg"
     },
     {
-      "title": "How to Become an Ethical Hacker: Skills, Certifications, &amp; Advice",
-      "video_id": "wLgdhrZMGKE",
+      "title": "Designing AI Decision Agents with DMN, Machine Learning &amp; Analytics",
+      "video_id": "Wtpwva8t1vs",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified SOC Analyst - QRadar SIEM? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-10-02T13:11:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wLgdhrZMGKE/hqdefault.jpg"
+      "description": "Ready to become a certified Application Developer - Operational Decision Manager Standard? Register now and use code ...",
+      "published_at": "2025-10-09T11:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wtpwva8t1vs/hqdefault.jpg"
     },
     {
-      "title": "How to scam an AI agent, DDoS attack trends and busting cybersecurity myths",
-      "video_id": "mDpUZD1ogEE",
+      "title": "Build a Local LLM App in Python with Just 2 Lines of Code",
+      "video_id": "_1uFtDfqapo",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/BdbBv6 What does it take to trick an AI agent? Not a whole lot, it turns out. This week ...",
-      "published_at": "2025-10-01T11:01:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mDpUZD1ogEE/hqdefault.jpg"
+      "description": "Ready to become a certified Certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of ...",
+      "published_at": "2025-10-08T14:45:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_1uFtDfqapo/hqdefault.jpg"
+    },
+    {
+      "title": "The Limits of AI: Generative AI, NLP, AGI, &amp; What’s Next?",
+      "video_id": "rBlCOLfMYfw",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer v1? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-10-07T11:01:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rBlCOLfMYfw/hqdefault.jpg"
+    },
+    {
+      "title": "A2A Protocol (Agent2Agent) Explained: How AI Agents Collaborate",
+      "video_id": "Tud9HLTk8hg",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Generative AI Engineer - Associate? Register now and use code IBMTechYT20 for 20% off ...",
+      "published_at": "2025-10-06T11:01:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Tud9HLTk8hg/hqdefault.jpg"
     },
     {
       "title": "Zero-Click Attacks: AI Agents and the Next Cybersecurity Challenge",
@@ -43,14 +59,6 @@
       "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
       "published_at": "2025-09-30T11:00:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CMHL1bPtQdI/hqdefault.jpg"
-    },
-    {
-      "title": "AI for Networking: Agentic AI Powering Intelligent Automation",
-      "video_id": "RKBi_ouZPP8",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Developer - Robotic Process Automation? Register now and use code IBMTechYT20 for 20% off of ...",
-      "published_at": "2025-09-29T11:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RKBi_ouZPP8/hqdefault.jpg"
     },
     {
       "title": "Vibe Security: A Developer&#39;s Guide",
@@ -75,14 +83,6 @@
       "description": "Ready to become a certified watsonx Mainframe Modernization Architect? Register now and use code IBMTechYT20 for 20% off ...",
       "published_at": "2025-09-21T11:00:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IRa6XmG8QCQ/hqdefault.jpg"
-    },
-    {
-      "title": "Building Trustworthy AI Agents with Hybrid RAG",
-      "video_id": "l9LfC98tE_4",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-16T11:01:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l9LfC98tE_4/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-05T00:28:59.558598",
+  "fetched_at": "2025-10-12T00:27:55.397207",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "Python3.14发布了！来聊聊重要的新特性吧",
+      "video_id": "aHGZghUGWyQ",
+      "channel_title": "码农高天",
+      "description": "Python3.14发布啦，我们这期视频聊一下3.14里我觉得最重要的一些特性。不管是free threaded，JIT还是multi interpreter，我们都 ...",
+      "published_at": "2025-10-08T11:06:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aHGZghUGWyQ/hqdefault.jpg"
+    },
     {
       "title": "在多文化交融的马六甲金句频出！这太适合一日游了！",
       "video_id": "E3T_D1l96E4",
@@ -75,14 +83,6 @@
       "description": "日本的前两个晚上都和粉丝吃的饭，导致每天的素材都少了一些，那就合到一起放出来吧！新宿御苑、浅草寺、上野公园、东京国立 ...",
       "published_at": "2025-08-16T04:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-jmVang4TAU/hqdefault.jpg"
-    },
-    {
-      "title": "【辞职环游世界】韩国最好看的一天，可惜是最后一天",
-      "video_id": "i-CLlcaf1Q0",
-      "channel_title": "码农高天",
-      "description": "对釜山的印象真的很不错，甘州文化村和白浅滩文化村都很美，哪怕这么晒还是很值得。最后的缆车是韩国一个非常好的句号！",
-      "published_at": "2025-08-13T10:30:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i-CLlcaf1Q0/hqdefault.jpg"
     }
   ]
 }

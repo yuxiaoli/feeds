@@ -1,24 +1,88 @@
 {
-  "fetched_at": "2025-10-05T00:28:53.344915",
+  "fetched_at": "2025-10-12T00:27:49.381344",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
-  "count": 2,
+  "count": 10,
   "videos": [
     {
-      "title": "What Sends Metal Machines Into The Air",
-      "video_id": "H4Alipi-rpM",
+      "title": "Why Pluto Isn’t a Planet",
+      "video_id": "SxROGnWbkuU",
       "channel_title": "Interesting Engineering",
-      "description": "Have you ever wondered how planes fly? It feels like it should be impossible to send heavy metal machines into the air and fly ...",
-      "published_at": "2025-10-02T00:31:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H4Alipi-rpM/hqdefault.jpg"
+      "description": "Discovered in 1930 and once our ninth planet, Pluto was reclassified as a dwarf planet after astronomers found many similar icy ...",
+      "published_at": "2025-10-10T20:31:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SxROGnWbkuU/hqdefault.jpg"
     },
     {
-      "title": "These Robots Are Taking Jobs",
-      "video_id": "D9Br0hD6jUw",
+      "title": "Figure 03: A New Era of Intelligent Machines",
+      "video_id": "pF5qe4c5wjQ",
       "channel_title": "Interesting Engineering",
-      "description": "Humanoid Robotics is coming along in leaps and bounds. In just a few years they have gone from barely walking to actually being ...",
-      "published_at": "2025-09-02T06:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D9Br0hD6jUw/hqdefault.jpg"
+      "description": "Figure 03 is an advanced humanoid robot featuring intelligent vision, tactile sensors, and safe, human-like movement.",
+      "published_at": "2025-10-09T16:16:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pF5qe4c5wjQ/hqdefault.jpg"
+    },
+    {
+      "title": "Finding The World&#39;s Black Gold",
+      "video_id": "iQyRbeynOBQ",
+      "channel_title": "Interesting Engineering",
+      "description": "Oil has to be one of the most precious resources in the world—and one quickly running out. But where does it even come from?",
+      "published_at": "2025-10-09T02:31:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iQyRbeynOBQ/hqdefault.jpg"
+    },
+    {
+      "title": "New iPhone Camera Dock Lets You Film Like A Pro",
+      "video_id": "r-EAPOKdLFQ",
+      "channel_title": "Interesting Engineering",
+      "description": "Features like GENLOCK and Timecode in, previously restricted to professional camera equipment, are now at your fingertips, ...",
+      "published_at": "2025-09-10T13:03:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r-EAPOKdLFQ/hqdefault.jpg"
+    },
+    {
+      "title": "Has Tech Made Flying Safer?",
+      "video_id": "1iF0vHUxL3s",
+      "channel_title": "Interesting Engineering",
+      "description": "With all the recent air disasters, especially in the US, we speak to YouTuber and Pilot, Captain Steeeve and industry expert, ...",
+      "published_at": "2025-08-03T08:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1iF0vHUxL3s/hqdefault.jpg"
+    },
+    {
+      "title": "The Colossal $400m Egyptian Temple Relocation",
+      "video_id": "TmputNPJ05U",
+      "channel_title": "Interesting Engineering",
+      "description": "Around 1960, The Egyptian monument, Abu Simbel, was at risk of being lost forever. Construction of the Aswan High Dam was ...",
+      "published_at": "2025-07-06T07:10:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TmputNPJ05U/hqdefault.jpg"
+    },
+    {
+      "title": "The End of Car Design As We Know It",
+      "video_id": "B334W8psku0",
+      "channel_title": "Interesting Engineering",
+      "description": "Innovations like 3rd party chassis' from battery makers, CATL, threaten to disrupt how car manufacturing and design operate.",
+      "published_at": "2025-06-22T08:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B334W8psku0/hqdefault.jpg"
+    },
+    {
+      "title": "The Man Who Invented The Concept of Computers",
+      "video_id": "YlGPfO3dVZg",
+      "channel_title": "Interesting Engineering",
+      "description": "Computers have become so integral to human life in such a short amount of time. Who even made up the idea of a machine that ...",
+      "published_at": "2025-05-23T15:07:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YlGPfO3dVZg/hqdefault.jpg"
+    },
+    {
+      "title": "Commute to the 2028 Olympics - By Air!",
+      "video_id": "xIVAnFFBDzY",
+      "channel_title": "Interesting Engineering",
+      "description": "The LA2028 Olympic committee have announced a partnership with Archer Aviation to bring air taxis to the next Olympic Games.",
+      "published_at": "2025-05-20T15:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xIVAnFFBDzY/hqdefault.jpg"
+    },
+    {
+      "title": "The Temple Built In Reverse",
+      "video_id": "8Yf_4t6sqTg",
+      "channel_title": "Interesting Engineering",
+      "description": "Have you ever heard of a building being constructed in reverse? That's not the only thing special about this temple. Watch to find ...",
+      "published_at": "2025-04-25T21:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8Yf_4t6sqTg/hqdefault.jpg"
     }
   ]
 }

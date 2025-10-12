@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-05T00:28:40.073778",
+  "fetched_at": "2025-10-12T00:27:36.414947",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "DeepSeek 竟然是 INTJ, 如果改成 INFP 会怎样?",
+      "video_id": "h5hB8dubc9M",
+      "channel_title": "Karminski-牙医",
+      "description": "猜猜大模型的 MBTI 人格类型都是什么? 答案是, 61个头部大模型中, 76% 的模型都是 *NTJ 性格, 其中 43% 是 INTJ, 33% 是ENTJ, ...",
+      "published_at": "2025-10-09T23:25:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h5hB8dubc9M/hqdefault.jpg"
+    },
     {
       "title": "GLM-4.6 实测! 最近都很流行更新一大截然后版本就增加0.1嘛?",
       "video_id": "9khjfrLfp-Q",
@@ -75,14 +83,6 @@
       "description": "直接说结论, 前端水平提升明显! 而且感觉召回变好了! 直接一次完成了1100 行的测试! (输出长代码的意义是: 在1K行的代码任务规模 ...",
       "published_at": "2025-09-05T22:39:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/E1ucr11QR2M/hqdefault.jpg"
-    },
-    {
-      "title": "nano-banana 教程⑥! 生成 8K 分辨率图片!",
-      "video_id": "cmn1UoClUvo",
-      "channel_title": "Karminski-牙医",
-      "description": "好多朋友评论区问我nano-banana 生成的图片分辨率实在是太低了, 连1080P 都不到! 本期给大家带来直接将nano-banana 生成的 ...",
-      "published_at": "2025-09-02T21:01:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cmn1UoClUvo/hqdefault.jpg"
     }
   ]
 }

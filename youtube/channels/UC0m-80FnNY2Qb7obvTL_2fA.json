@@ -1,32 +1,16 @@
 {
-  "fetched_at": "2025-10-05T00:28:36.924458",
+  "fetched_at": "2025-10-12T00:27:33.331289",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Microsoft Agent Framework: The Open-Source Engine for Intelligent AI Agents",
-      "video_id": "yOBcPuLLmuY",
+      "title": "Azure Container Storage for AKS | Free, Fast, Open‑Source Storage for Kubernetes on Azure",
+      "video_id": "BZsQ5_odYfU",
       "channel_title": "Microsoft Azure",
-      "description": "Microsoft Agent Framework is an open-source SDK and runtime designed to let developers build, deploy, and manage ...",
-      "published_at": "2025-10-02T00:16:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yOBcPuLLmuY/hqdefault.jpg"
-    },
-    {
-      "title": "Grok 4 First Principles thinking",
-      "video_id": "OaG_wZRDr24",
-      "channel_title": "Microsoft Azure",
-      "description": "One of Grok 4's headline features is its first-principles reasoning ability – essentially, the model tries to “think” like a scientist or ...",
-      "published_at": "2025-09-29T16:42:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OaG_wZRDr24/hqdefault.jpg"
-    },
-    {
-      "title": "Grok 4 Long Context",
-      "video_id": "p0HnIHAlhNM",
-      "channel_title": "Microsoft Azure",
-      "description": "Grok 4's most impressive technical feats is its handling of extremely large contexts. The model is built to process and remember ...",
-      "published_at": "2025-09-29T16:43:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p0HnIHAlhNM/hqdefault.jpg"
+      "description": "Announcing Azure Container Storage v2.0.0: Supercharge Kubernetes workloads with the fastest storage for AKS. Azure ...",
+      "published_at": "2025-10-06T17:25:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BZsQ5_odYfU/hqdefault.jpg"
     },
     {
       "title": "Introducing Microsoft Azure Face Liveness",
@@ -83,6 +67,22 @@
       "description": "Join Chris Oo as he discusses Microsoft's development of the first industry “paravisor” that enables existing VM workloads to ...",
       "published_at": "2025-06-03T14:01:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/oJFEKuHGCzA/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft Build 2025 | Software Development Company Highlights",
+      "video_id": "f7POcnSsGzY",
+      "channel_title": "Microsoft Azure",
+      "description": "Catch up on the highlights from Satya Nadella's Microsoft Build keynote, tailored for software companies. Read about the latest ...",
+      "published_at": "2025-05-29T14:01:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f7POcnSsGzY/hqdefault.jpg"
+    },
+    {
+      "title": "Software development is an act of empathy | Kilimo",
+      "video_id": "c7R6auLG6fg",
+      "channel_title": "Microsoft Azure",
+      "description": "Water is fundamental to our existence, but only a tiny fraction of fresh water on Earth is available to sustain life. How can we ...",
+      "published_at": "2025-05-28T16:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c7R6auLG6fg/hqdefault.jpg"
     }
   ]
 }

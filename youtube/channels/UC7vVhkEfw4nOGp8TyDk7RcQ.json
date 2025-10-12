@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-10-05T00:28:45.633006",
+  "fetched_at": "2025-10-12T00:27:41.738180",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "What&#39;s in a humanoid hand? | Boston Dynamics",
+      "video_id": "gS4rOqNDTBk",
+      "channel_title": "Boston Dynamics",
+      "description": "Grippers are one of the most intricate parts of a humanoid robot, packed with actuation and sensing; they need to be durable ...",
+      "published_at": "2025-10-08T14:02:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gS4rOqNDTBk/hqdefault.jpg"
+    },
+    {
+      "title": "Boston Dynamics University | Customer Learning &amp; Development",
+      "video_id": "E5gZgaqXILY",
+      "channel_title": "Boston Dynamics",
+      "description": "Boston Dynamics University is part of our commitment to helping our customers maximize the value of their investment in robotics ...",
+      "published_at": "2025-10-07T14:50:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E5gZgaqXILY/hqdefault.jpg"
+    },
     {
       "title": "Spot at Michelin Excerpt | Boston Dynamics",
       "video_id": "gafzTfN42jI",
@@ -67,22 +83,6 @@
       "description": "Behind the scenes on the road to our America's Got Talent audition. Check out the full performance: ...",
       "published_at": "2025-06-11T15:40:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2-eBap2ECJA/hqdefault.jpg"
-    },
-    {
-      "title": "Check it off the list, with Spot &amp; Orbit | Boston Dynamics",
-      "video_id": "xWmWmhRt-fs",
-      "channel_title": "Boston Dynamics",
-      "description": "What if you could detect, diagnose, and act—before issues even arise? With Spot and Orbit, you can. Orbit provides a real-time ...",
-      "published_at": "2025-06-04T13:20:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xWmWmhRt-fs/hqdefault.jpg"
-    },
-    {
-      "title": "Perception and Adaptability | Inside the Lab with Atlas",
-      "video_id": "oe1dke3Cf7I",
-      "channel_title": "Boston Dynamics",
-      "description": "For a humanoid robot to be successful and generalizable in a factory, warehouse, or even at home requires a comprehensive ...",
-      "published_at": "2025-05-28T13:01:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oe1dke3Cf7I/hqdefault.jpg"
     }
   ]
 }

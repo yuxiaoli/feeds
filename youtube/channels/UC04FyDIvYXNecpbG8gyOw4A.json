@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-10-05T00:28:35.279649",
+  "fetched_at": "2025-10-12T00:27:31.716351",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "kicking off fall with a fresh loaf and Meta AI🍂",
+      "video_id": "MRBfG4rK9Do",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2025-10-10T17:34:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MRBfG4rK9Do/hqdefault.jpg"
+    },
+    {
+      "title": "Hang ten with Meta AI and @kozmcraesurfingboards2106  🤙",
+      "video_id": "bL40E7IgxFo",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2025-10-07T14:32:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bL40E7IgxFo/hqdefault.jpg"
+    },
     {
       "title": "Day in the Life",
       "video_id": "k-QLy8Yb3xw",
@@ -67,22 +83,6 @@
       "description": "The Meta Neural Band picks up tiny movements in your wrist so you can control your Meta Ray-Ban Display glasses using only ...",
       "published_at": "2025-09-21T02:00:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/16m7tPPKumY/hqdefault.jpg"
-    },
-    {
-      "title": "Oakley Meta Vanguard POV",
-      "video_id": "fgqkI5sbFF8",
-      "channel_title": "Meta",
-      "description": "send it 🕶️: captured with @oakleymeta Vanguard.",
-      "published_at": "2025-09-21T00:00:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fgqkI5sbFF8/hqdefault.jpg"
-    },
-    {
-      "title": "Look Closer",
-      "video_id": "ell15cxloYQ",
-      "channel_title": "Meta",
-      "description": "Getting up close and personal at Connect.",
-      "published_at": "2025-09-20T22:57:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ell15cxloYQ/hqdefault.jpg"
     }
   ]
 }

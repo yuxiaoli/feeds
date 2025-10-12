@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-10-05T00:28:51.034673",
+  "fetched_at": "2025-10-12T00:27:47.057899",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Design is how it works | Apple",
+      "video_id": "-ueUb6PNwbs",
+      "channel_title": "Apple",
+      "description": "Most people make the mistake of thinking design is what it looks like… Design is not just what it looks like and feels like. Design is ...",
+      "published_at": "2025-10-09T16:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-ueUb6PNwbs/hqdefault.jpg"
+    },
+    {
+      "title": "The Underdogs: BSOD (Blue Screen of Death) | Apple at Work",
+      "video_id": "6K4eUO53-UE",
+      "channel_title": "Apple",
+      "description": "The Underdogs are ready for their first-ever trade show until a PC outage strikes and the Blue Screen of Death threatens their ...",
+      "published_at": "2025-10-07T12:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6K4eUO53-UE/hqdefault.jpg"
+    },
     {
       "title": "Zoom in 8x | iPhone 17 Pro #Shorts",
       "video_id": "e7uq_8Eo_Oo",
@@ -67,22 +83,6 @@
       "description": "Introducing iPhone 17 Pro. Built from solid aluminum, a unique unibody encases our biggest battery with our longest battery life.",
       "published_at": "2025-09-09T18:42:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_-AS5DtDeqs/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing AirPods Pro 3 | Apple",
-      "video_id": "EMmKs8vMKhU",
-      "channel_title": "Apple",
-      "description": "The world's best in-ear Active Noise Cancellation, with up to 2x more noise cancelled than AirPods Pro 2. Exceptional sound ...",
-      "published_at": "2025-09-09T18:40:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EMmKs8vMKhU/hqdefault.jpg"
-    },
-    {
-      "title": "Catch up quick | Apple September event highlights",
-      "video_id": "31MbUHX7W8k",
-      "channel_title": "Apple",
-      "description": "Here's a quick recap of the good things coming your way: iPhone 17 Pro, iPhone Air — the thinnest iPhone ever, iPhone 17, ...",
-      "published_at": "2025-09-09T18:34:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/31MbUHX7W8k/hqdefault.jpg"
     }
   ]
 }

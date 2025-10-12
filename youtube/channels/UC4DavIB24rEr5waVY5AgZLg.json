@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-05T00:28:41.677265",
+  "fetched_at": "2025-10-12T00:27:37.956762",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Behind-the-Scenes Tour of the Disney Cruise Line Entertainment Rehearsal Facility",
+      "video_id": "bFK8MrHLe1Y",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "The Broadway-style stage shows on Disney Cruise Line are a highlight for many, but they just don't happen overnight. Like any ...",
+      "published_at": "2025-10-06T20:08:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bFK8MrHLe1Y/hqdefault.jpg"
+    },
     {
       "title": "Drawing &amp; Watercolor Painting with a Disney Imagineer",
       "video_id": "qtQIUvTH738",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-22T16:45:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/64ieXO0d_u0/hqdefault.jpg"
-    },
-    {
-      "title": "Guess who&#39;s back...",
-      "video_id": "2QC3LhirR1s",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "",
-      "published_at": "2025-08-20T19:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2QC3LhirR1s/hqdefault.jpg"
     }
   ]
 }

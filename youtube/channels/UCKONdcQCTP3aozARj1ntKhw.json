@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2025-10-05T00:29:01.057557",
+  "fetched_at": "2025-10-12T00:27:56.884860",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "The Big Shift In Coding #ai #coding #softwaredevelopment #change #tech #prompt",
+      "video_id": "peqDkmFPFtQ",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-10-11T20:54:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/peqDkmFPFtQ/hqdefault.jpg"
+    },
+    {
+      "title": "Making AI Usage More Transparent",
+      "video_id": "tK1rGt_tQG0",
+      "channel_title": "Warp",
+      "description": "We want every Warp user to get the most out of our agents. As part of that, we are always trying to make our agents more efficient, ...",
+      "published_at": "2025-10-10T18:56:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tK1rGt_tQG0/hqdefault.jpg"
+    },
+    {
+      "title": "Why Are We Cowboy Themed? #cowboy #warp #marketing #interview #podcast",
+      "video_id": "ge98j5knn5c",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-10-10T03:21:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ge98j5knn5c/hqdefault.jpg"
+    },
+    {
+      "title": "How We Design Smart Agents #warp #ai #aiagents #coding #software engineering #programming",
+      "video_id": "gwXK2v4rp44",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-10-08T14:45:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gwXK2v4rp44/hqdefault.jpg"
+    },
+    {
+      "title": "Spicy Take on Vibe Coding #vibecoding #ai #interview #spicy #coding #softwaredevelopment #cs",
+      "video_id": "NSWgJHjdaEU",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-10-06T13:53:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NSWgJHjdaEU/hqdefault.jpg"
+    },
     {
       "title": "Summarize Open Changes Using Warp #prompt #vibecoding #ai #coding #warp #tech #softwareengineering",
       "video_id": "JulGJZ7QniU",
@@ -43,46 +83,6 @@
       "description": "Learn how Warp's agent profiles let you customize AI coding behavior for different scenarios. See a side-by-side comparison ...",
       "published_at": "2025-09-30T01:44:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iD0R-8fY-tY/hqdefault.jpg"
-    },
-    {
-      "title": "Using Project Rules",
-      "video_id": "SCYovBn4TnM",
-      "channel_title": "Warp",
-      "description": "Master Warp's project rule files to eliminate AI hallucinations. Learn how Warp.MD files provide consistent context and keep your ...",
-      "published_at": "2025-09-30T01:44:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SCYovBn4TnM/hqdefault.jpg"
-    },
-    {
-      "title": "Setting up Figma Remote MCP in Warp",
-      "video_id": "PsM_Y8Pt-1Q",
-      "channel_title": "Warp",
-      "description": "Discover Warp's new remote Figma MCP server with OAuth support. Build websites directly from Figma designs with AI agents ...",
-      "published_at": "2025-09-30T01:44:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PsM_Y8Pt-1Q/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Warp CLI (Beta)",
-      "video_id": "hV6UdEf3C1I",
-      "channel_title": "Warp",
-      "description": "Introducing the Warp CLI — a new way to use Warp's agents. Use the CLI to build custom integrations, use Warp on remote ...",
-      "published_at": "2025-09-26T17:16:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hV6UdEf3C1I/hqdefault.jpg"
-    },
-    {
-      "title": "Coding with Zach: Warp x Andrew Zigler",
-      "video_id": "LOo9F09DJCI",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-09-18T17:41:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LOo9F09DJCI/hqdefault.jpg"
-    },
-    {
-      "title": "How to Make Warp&#39;s UI More Minimal",
-      "video_id": "1GKsIT8FSsE",
-      "channel_title": "Warp",
-      "description": "We've gotten user feedback that Warp's UI can feel overwhelming at times. There's a lot of customization you can do in Warp to ...",
-      "published_at": "2025-09-11T19:19:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1GKsIT8FSsE/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-05T00:29:43.476522",
+  "fetched_at": "2025-10-12T00:28:37.186058",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "2025’s First Supermoon! 🌕",
+      "video_id": "0ODgVo6k9W4",
+      "channel_title": "Star Walk",
+      "description": "On October 7, look up to see the year's first Supermoon, glowing in the constellation Pisces. It will appear about 13% brighter and ...",
+      "published_at": "2025-10-06T05:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0ODgVo6k9W4/hqdefault.jpg"
+    },
     {
       "title": "🚨 New Cosmic Visitor Alert! 🚨",
       "video_id": "BQrhQiJd9VU",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-09-09T06:22:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/olj20MrvLyk/hqdefault.jpg"
-    },
-    {
-      "title": "🌕 Don’t miss the Blood Moon on the night of September 7–8, 2025!",
-      "video_id": "OFQJnXdp8AM",
-      "channel_title": "Star Walk",
-      "description": "A total lunar eclipse will turn the Moon a dramatic red as Earth's shadow passes across it. For the exact timing in your location, ...",
-      "published_at": "2025-09-05T09:22:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OFQJnXdp8AM/hqdefault.jpg"
     }
   ]
 }

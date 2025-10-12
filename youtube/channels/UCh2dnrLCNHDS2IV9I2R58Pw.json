@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-10-05T00:29:30.965069",
+  "fetched_at": "2025-10-12T00:28:24.957157",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Hammerhead Space Shuttle",
+      "video_id": "ELmiJ1rYcJk",
+      "channel_title": "Hazegrayart",
+      "description": "The Shuttle on average would only fly 66% of its payload capability but at nearly 100% of its payload volume. The external tank ...",
+      "published_at": "2025-10-09T12:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ELmiJ1rYcJk/hqdefault.jpg"
+    },
+    {
+      "title": "We choose to go to the Moon",
+      "video_id": "rDreQuqV7sw",
+      "channel_title": "Hazegrayart",
+      "description": "Gateway is a critical part of NASA's deep space exploration plans, along with the Space Launch System (SLS) rocket, Orion ...",
+      "published_at": "2025-10-05T02:41:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rDreQuqV7sw/hqdefault.jpg"
+    },
     {
       "title": "Aircraft Carrier Launch Pad",
       "video_id": "uoDshnc32ic",
@@ -67,22 +83,6 @@
       "description": "Block 2, will provide 9.5 million lbs. of thrust and will be the workhorse vehicle for sending cargo to the Moon, Mars, and other ...",
       "published_at": "2025-09-07T01:07:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8MRIa0664K4/hqdefault.jpg"
-    },
-    {
-      "title": "Dream Chaser Visits the ISS animation",
-      "video_id": "uhIWOnnpfOU",
-      "channel_title": "Hazegrayart",
-      "description": "Dream Chaser Visits the ISS animation.",
-      "published_at": "2025-09-05T02:06:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uhIWOnnpfOU/hqdefault.jpg"
-    },
-    {
-      "title": "Nova Reusable Rocket Recovery",
-      "video_id": "CbJMqD_6DHU",
-      "channel_title": "Hazegrayart",
-      "description": "Nova was a series of NASA's rocket designs that were proposed both before and after the Saturn V rocket used in the Apollo ...",
-      "published_at": "2025-08-24T01:25:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CbJMqD_6DHU/hqdefault.jpg"
     }
   ]
 }

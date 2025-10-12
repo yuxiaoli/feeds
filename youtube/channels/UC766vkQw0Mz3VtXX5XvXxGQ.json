@@ -1,40 +1,80 @@
 {
-  "fetched_at": "2025-10-05T00:28:44.098298",
+  "fetched_at": "2025-10-12T00:27:40.156909",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 4,
+  "count": 9,
   "videos": [
     {
-      "title": "Reach | VR Innovation Story Trailer | Meta Quest 3 + 3S",
-      "video_id": "V_BVooWIelQ",
+      "title": "RAGER | Early Access Trailer | Meta Quest 3 + 3S",
+      "video_id": "3mdT4A-d8aM",
       "channel_title": "Meta Quest ",
-      "description": "Reach is available now for pre-ordering on Meta Quest! Order here: https://bit.ly/43Z4b5o Players who pre-order the base game ...",
-      "published_at": "2025-10-03T19:30:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V_BVooWIelQ/hqdefault.jpg"
+      "description": "The beat hits hard. RAGER is OUT NOW in Early Access on Meta Quest for $14.99. https://metaque.st/3VXARZg Step into a ...",
+      "published_at": "2025-10-11T22:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3mdT4A-d8aM/hqdefault.jpg"
     },
     {
-      "title": "My Monsters | Launch Trailer | Meta Quest Platform",
-      "video_id": "l3bHTQfkLQ0",
+      "title": "STARVAULT | Early Access Launch Trailer | Meta Quest Platform",
+      "video_id": "S7RK8XyAudI",
       "channel_title": "Meta Quest ",
-      "description": "Team up with your inner-monster! Face enemies, solve puzzles, and overcome challenges side by side, uncovering fragments of ...",
-      "published_at": "2025-10-03T17:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l3bHTQfkLQ0/hqdefault.jpg"
+      "description": "STARVAULT is out of Open Beta! STARVAULT is the first full-scale VR MOBA SHOOTER on Meta Quest. Jump into epic 5v5 ...",
+      "published_at": "2025-10-11T00:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S7RK8XyAudI/hqdefault.jpg"
     },
     {
-      "title": "Demeo x Dungeons &amp; Dragons: Battlemarked | Gameplay Trailer | Meta Quest Platform",
-      "video_id": "rb1hB7eKotw",
+      "title": "Reach | World Trailer | Meta Quest 3 + 3S",
+      "video_id": "Bw67QKlEop4",
       "channel_title": "Meta Quest ",
-      "description": "Critical hit incoming! Demeo x Dungeons & Dragons: Battlemarked is launching on November 20! Wishlist today!",
-      "published_at": "2025-10-02T14:03:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rb1hB7eKotw/hqdefault.jpg"
+      "description": "Reach is coming to Meta Quest on October 16 2025. Pre-order or wishlist today: https://metaque.st/46ER7Vc Delve into the ...",
+      "published_at": "2025-10-10T20:10:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Bw67QKlEop4/hqdefault.jpg"
     },
     {
-      "title": "Titan Isles | Launch Trailer | Meta Quest Platform",
-      "video_id": "B4KfvnqxN7I",
+      "title": "VR Giants | Announcement Trailer | Meta Quest Platform",
+      "video_id": "A7Cdt0AImSw",
       "channel_title": "Meta Quest ",
-      "description": "OUT NOW! Strap into your exo-suit and explore a breathtaking world of floating isles where danger lurks at every edge. In Titan ...",
-      "published_at": "2025-09-30T22:00:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B4KfvnqxN7I/hqdefault.jpg"
+      "description": "Take on the role of a tiny David and the towering Goliath in VR Giants – a unique asymmetric co-op adventure soon arriving on ...",
+      "published_at": "2025-10-10T17:51:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/A7Cdt0AImSw/hqdefault.jpg"
+    },
+    {
+      "title": "Are you brave enough to try @Blumhouse Enhanced Cinema? Available now.",
+      "video_id": "NFcXV89ahFc",
+      "channel_title": "Meta Quest ",
+      "description": "Available now: https://metaque.st/3VVY8e4.",
+      "published_at": "2025-10-10T16:27:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NFcXV89ahFc/hqdefault.jpg"
+    },
+    {
+      "title": "MEMOREUM | Launch Trailer | Meta Quest Platform",
+      "video_id": "ByynDdzDbPQ",
+      "channel_title": "Meta Quest ",
+      "description": "MEMOREUM is a VR sci-fi action horror campaign. The Ichor Infection has taken over the last ship of humanity. You are Dr. Otto ...",
+      "published_at": "2025-10-09T23:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ByynDdzDbPQ/hqdefault.jpg"
+    },
+    {
+      "title": "Blumhouse Enhanced Cinema | Launch Trailer | Meta Quest 3 + 3S",
+      "video_id": "ixxwWmkQOF0",
+      "channel_title": "Meta Quest ",
+      "description": "Experience a New Dimension of Horror With Blumhouse on Meta Quest. Blumhouse Enhanced Cinema gives horror fans a new ...",
+      "published_at": "2025-10-09T14:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ixxwWmkQOF0/hqdefault.jpg"
+    },
+    {
+      "title": "Arken Age | Pre-Order Trailer | Meta Quest 3 + 3S",
+      "video_id": "8uarkgZD6qc",
+      "channel_title": "Meta Quest ",
+      "description": "Pre-Order Arken Age today! https://metaque.st/4ml5YJ0 Coming to Meta Quest 3 & 3S on October 30th Arken Age is a ...",
+      "published_at": "2025-10-08T20:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8uarkgZD6qc/hqdefault.jpg"
+    },
+    {
+      "title": "House of Golf VR | Announce Trailer | Meta Quest Platform",
+      "video_id": "iTKVbEPXHI8",
+      "channel_title": "Meta Quest ",
+      "description": "Welcome to the World's First Mixed Reality Mini Golf Game where you can build anywhere! A groundbreaking new game with ...",
+      "published_at": "2025-10-06T23:30:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iTKVbEPXHI8/hqdefault.jpg"
     }
   ]
 }

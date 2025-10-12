@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-05T00:28:36.118003",
+  "fetched_at": "2025-10-12T00:27:32.498612",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "10.09.25 | @lukecombs - Where the Wild Things Are🌏 #thecastellows #lukecombs",
+      "video_id": "jBJU_Havt3Y",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2025-10-08T15:04:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jBJU_Havt3Y/hqdefault.jpg"
+    },
     {
       "title": "Heartland is out now!! #thecastellows #newmusic",
       "video_id": "YhPi5C-Mkgk",
@@ -75,14 +83,6 @@
       "description": "The Castellows - Alabama Stone (Acoustic Live) Listen to the EP Playlist: https://TheCastellows.lnk.to/alittlegoesalongway_playlist ...",
       "published_at": "2025-07-30T04:01:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tgMOyJ0JSHY/hqdefault.jpg"
-    },
-    {
-      "title": "The Castellows - You Don&#39;t Even Know Who I Am (Acoustic Live)",
-      "video_id": "qSaC5x9eLwE",
-      "channel_title": "The Castellows",
-      "description": "The Castellows - You Don't Even Know Who I Am (Acoustic Live) Listen to the EP Playlist: ...",
-      "published_at": "2025-07-23T04:01:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qSaC5x9eLwE/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-10-05T00:29:24.770501",
+  "fetched_at": "2025-10-12T00:28:18.957806",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Learn to build effective Agentic AI systems",
+      "video_id": "NS47q32aWZw",
+      "channel_title": "DeepLearningAI",
+      "description": "Agentic AI, taught by Andrew Ng, is now available worldwide. Learn to design and evaluate AI systems that plan, reflect, and ...",
+      "published_at": "2025-10-07T16:09:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NS47q32aWZw/hqdefault.jpg"
+    },
+    {
+      "title": "Learn to build effective Agentic AI systems with Andrew Ng",
+      "video_id": "w7vqXL4PWEE",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4mVUPyF Building effective Agentic AI systems is one of the most valuable skills in AI today. Introducing ...",
+      "published_at": "2025-10-07T15:26:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w7vqXL4PWEE/hqdefault.jpg"
+    },
     {
       "title": "Enroll in our new course: Building and Evaluating Data Agents",
       "video_id": "2UMBWyOk75M",
@@ -67,22 +83,6 @@
       "description": "Learn more: https://bit.ly/3GKWqrY We're thrilled to announce the launch of a new course: Retrieval Augmented Generation (RAG) ...",
       "published_at": "2025-07-16T14:45:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dFHEgsJTmDI/hqdefault.jpg"
-    },
-    {
-      "title": "Learn to post-train LLMs in this free course",
-      "video_id": "uOh4r1ZtrCM",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4lqtWmr Before a large language model can follow instructions, it undergoes two key stages: pre-training ...",
-      "published_at": "2025-07-09T14:28:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uOh4r1ZtrCM/hqdefault.jpg"
-    },
-    {
-      "title": "New course! Enroll in &quot;ACP: Agent Communication Protocol&quot;",
-      "video_id": "B1ORNlS76lE",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4kRqOj7 Introducing ACP: Agent Communication Protocol, a short course built in partnership with IBM ...",
-      "published_at": "2025-06-25T14:17:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B1ORNlS76lE/hqdefault.jpg"
     }
   ]
 }
