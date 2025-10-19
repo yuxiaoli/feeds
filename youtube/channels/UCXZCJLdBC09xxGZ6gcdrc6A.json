@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-10-12T00:28:12.865675",
+  "fetched_at": "2025-10-19T00:30:04.077461",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Space with ChatGPT",
+      "video_id": "9wxmlwRaZHc",
+      "channel_title": "OpenAI",
+      "description": "Find the perfect place and set up your study routine with ChatGPT. Music: Following the Feeling by Tommy Newport.",
+      "published_at": "2025-10-17T17:35:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9wxmlwRaZHc/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI Codex in your code editor",
+      "video_id": "sd21Igx4HtA",
+      "channel_title": "OpenAI",
+      "description": "Use Codex right in your code editor with the new IDE extension for VS Code, Cursor and other forks. In this video, Gabriel Peal ...",
+      "published_at": "2025-10-17T14:01:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sd21Igx4HtA/hqdefault.jpg"
+    },
+    {
+      "title": "Using OpenAI Codex CLI with GPT-5-Codex",
+      "video_id": "iqNzfK4_meQ",
+      "channel_title": "OpenAI",
+      "description": "Learn how to use the Codex CLI + GPT-5-Codex in just 5 minutes. In this tutorial, Eason Goodale and Romain Huet show you how ...",
+      "published_at": "2025-10-14T18:19:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iqNzfK4_meQ/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI x Broadcom — The OpenAI Podcast Ep. 8",
+      "video_id": "qqAbVTFnfk8",
+      "channel_title": "OpenAI",
+      "description": "OpenAI and Broadcom are teaming up to design our own chips—bringing lessons from building frontier models straight into the ...",
+      "published_at": "2025-10-13T13:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qqAbVTFnfk8/hqdefault.jpg"
+    },
     {
       "title": "What Work Looks Like with ChatGPT | Write, Research, Code, Create",
       "video_id": "0SccjZ6Yfi8",
@@ -11,14 +43,6 @@
       "description": "ChatGPT is becoming a bigger part of everyday work. It helps teams move from idea to execution faster, analyzing data, writing ...",
       "published_at": "2025-10-09T15:32:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0SccjZ6Yfi8/hqdefault.jpg"
-    },
-    {
-      "title": "Evals in Action: From Frontier Research to Production Applications",
-      "video_id": "YEaKXjHENyQ",
-      "channel_title": "OpenAI",
-      "description": "How do you measure progress when you're operating at the frontier? Step inside the evolving world of AI evaluation, where ...",
-      "published_at": "2025-10-08T17:01:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YEaKXjHENyQ/hqdefault.jpg"
     },
     {
       "title": "Built for SF by SF: AI Solutions Helping Our City Thrive",
@@ -59,30 +83,6 @@
       "description": "Agents explore, plan, and reliably execute across diverse, long-horizon tasks—challenges that static benchmarks can't measure.",
       "published_at": "2025-10-08T17:01:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/TK9MN22q6E0/hqdefault.jpg"
-    },
-    {
-      "title": "Shipping with Codex",
-      "video_id": "Gr41tYOzE20",
-      "channel_title": "OpenAI",
-      "description": "\"Hear how OpenAI engineers use Codex to rethink how code gets written, refactored, and merged. From pair programming in your ...",
-      "published_at": "2025-10-08T17:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gr41tYOzE20/hqdefault.jpg"
-    },
-    {
-      "title": "A Conversation with Sam and Jony",
-      "video_id": "7cKbPLzNYws",
-      "channel_title": "OpenAI",
-      "description": "Join Sam Altman and Jony Ive for a wide-ranging conversation about the craft of building in the age of AI. Together, they will ...",
-      "published_at": "2025-10-08T17:01:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7cKbPLzNYws/hqdefault.jpg"
-    },
-    {
-      "title": "Sora, ImageGen, and Codex: The Next Wave of Creative Production",
-      "video_id": "70ush8Vknx8",
-      "channel_title": "OpenAI",
-      "description": "AI is changing how quickly creative ideas can become reality. In this session, we'll walk through how we built a custom creative ...",
-      "published_at": "2025-10-08T17:01:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/70ush8Vknx8/hqdefault.jpg"
     }
   ]
 }

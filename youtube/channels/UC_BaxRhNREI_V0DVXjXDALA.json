@@ -1,7 +1,32 @@
 {
-  "fetched_at": "2025-10-12T00:28:15.110129",
+  "fetched_at": "2025-10-19T00:30:06.062917",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 0,
-  "videos": []
+  "count": 3,
+  "videos": [
+    {
+      "title": "Porsche Penske Motorsport – IMSA Champions 2025",
+      "video_id": "9VQsvFtNu48",
+      "channel_title": "Porsche",
+      "description": "The 2025 IMSA WeatherTech Sportscar Championship comes to a close – and with it, a title sweep for Porsche Penske ...",
+      "published_at": "2025-10-17T15:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9VQsvFtNu48/hqdefault.jpg"
+    },
+    {
+      "title": "Mixed metals #shorts",
+      "video_id": "ITYNow6W5Mc",
+      "channel_title": "Porsche",
+      "description": "Gold person? Silver person? How about both? ✨ @giannijanzik.",
+      "published_at": "2025-10-16T18:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ITYNow6W5Mc/hqdefault.jpg"
+    },
+    {
+      "title": "Aimé Leon Dore / Porsche 2025 Capsule Collection",
+      "video_id": "_404tngOkbI",
+      "channel_title": "Porsche",
+      "description": "Available from October 16, 11:00 EST in-store and online at aimeleondore.com, Porsche Design Beverly Hills and porsche.com ...",
+      "published_at": "2025-10-16T07:49:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_404tngOkbI/hqdefault.jpg"
+    }
+  ]
 }

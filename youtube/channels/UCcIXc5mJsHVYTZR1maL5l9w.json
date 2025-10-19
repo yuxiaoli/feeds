@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-12T00:28:18.957806",
+  "fetched_at": "2025-10-19T00:30:09.569498",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Build live voice agents that listen, reason, and respond, using Google’s ADK",
+      "video_id": "yxu2RQy2i-c",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/43jxboy In \"Building Live Voice Agents with Google's ADK\" you'll learn from Lavi Nigam and Sita Lakshmi ...",
+      "published_at": "2025-10-15T14:26:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yxu2RQy2i-c/hqdefault.jpg"
+    },
     {
       "title": "Learn to build effective Agentic AI systems",
       "video_id": "NS47q32aWZw",
@@ -75,14 +83,6 @@
       "description": "We're thrilled to announce our new course: Retrieval Augmented Generation (RAG) RAG is a key part of building LLM ...",
       "published_at": "2025-07-16T15:26:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/uIPvSV6p92Y/hqdefault.jpg"
-    },
-    {
-      "title": "A new course on Retrieval Augmented Generation (RAG) is live!",
-      "video_id": "dFHEgsJTmDI",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/3GKWqrY We're thrilled to announce the launch of a new course: Retrieval Augmented Generation (RAG) ...",
-      "published_at": "2025-07-16T14:45:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dFHEgsJTmDI/hqdefault.jpg"
     }
   ]
 }

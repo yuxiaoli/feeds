@@ -1,72 +1,72 @@
 {
-  "fetched_at": "2025-10-12T00:27:40.949903",
+  "fetched_at": "2025-10-19T00:29:34.216130",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "We 3D printed GitHub Copilot (and you can too)",
-      "video_id": "48vSTBqhggo",
+      "title": "Why open standards are a huge win for AI transparency",
+      "video_id": "YFz5Xcbfleo",
       "channel_title": "GitHub",
-      "description": "Your AI pair programmer is stepping out of the editor and onto your desk! We've made the 3D model for the GitHub Copilot logo ...",
-      "published_at": "2025-10-11T14:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/48vSTBqhggo/hqdefault.jpg"
+      "description": "\"Everything is way more plug and play.\" In this clip from The GitHub Podcast, our hosts discuss why open standards like the Model ...",
+      "published_at": "2025-10-18T16:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YFz5Xcbfleo/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Simulacrum - Simulate the GitHub API Like a Pro",
-      "video_id": "Uw8kjouXiU0",
+      "title": "Unlocking the Power of MCP | Episode 1 | The GitHub Podcast",
+      "video_id": "TjnFXtUDKNg",
       "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday as we explore Simulacrum! The powerful toolkit that allows you to simulate the GitHub API so you ...",
-      "published_at": "2025-10-11T06:08:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Uw8kjouXiU0/hqdefault.jpg"
+      "description": "In this episode of the GitHub Podcast, Cassidy, Abby and Kedasha discuss the Model Context Protocol (MCP), its significance in ...",
+      "published_at": "2025-10-18T14:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TjnFXtUDKNg/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] Open Source Friday Brasil🇧🇷 com Jess Temporal, mantenedora do GitFichas",
-      "video_id": "GnFsorph358",
+      "title": "Open Source Friday: Archestra – Secure platform for enterprise agents with MCP",
+      "video_id": "SkmluS-xzmM",
       "channel_title": "GitHub",
-      "description": "Open Source Friday Brasil com Jess Temporal — GitFichas Nesta edição do Open Source Friday Brasil, Pachi Parra recebe Jess ...",
-      "published_at": "2025-10-11T05:12:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GnFsorph358/hqdefault.jpg"
+      "description": "Join us this Open Source Friday to explore Archestra, an innovative open-source platform designed for secure, scalable ...",
+      "published_at": "2025-10-18T06:05:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SkmluS-xzmM/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday: Julia – High-Performance Open Source Language",
-      "video_id": "7_t7M6jPgko",
+      "title": "[pt-BR] Open Source Friday Brasil 🇧🇷 com Leonel Sanches da Silva,  Design Liquido",
+      "video_id": "4dhkm6PSb1c",
       "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday as we welcome Viral B. Shah, co-creator of the Julia Programming Language and CEO of ...",
-      "published_at": "2025-10-11T04:25:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7_t7M6jPgko/hqdefault.jpg"
+      "description": "Open Source Friday Brasil Toda sexta-feira, ao vivo no canal GitHub Brasil, exploramos projetos Open Source brasileiros e ...",
+      "published_at": "2025-10-18T05:02:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4dhkm6PSb1c/hqdefault.jpg"
     },
     {
-      "title": "The Download: OpenAI&#39;s AgentKit, Project Newton, the open source projects coming to Universe &amp; more",
-      "video_id": "a3cwp7xGjbY",
+      "title": "A look at the open source zone at GitHub Universe",
+      "video_id": "Y_3UBot8M5A",
       "channel_title": "GitHub",
-      "description": "This week on The Download, we are diving into a huge announcement from OpenAI: the introduction of AgentKit, a new toolkit for ...",
-      "published_at": "2025-10-10T14:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a3cwp7xGjbY/hqdefault.jpg"
+      "description": "GitHub Universe is back, and the Open Source Zone is where the real magic happens. Get a sneak peek at the coolest hacker fair ...",
+      "published_at": "2025-10-16T14:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y_3UBot8M5A/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursday!",
-      "video_id": "0Zv-VCR-jp4",
+      "title": "GitHub Universe Day 2 Keynote",
+      "video_id": "_KqdBb-iOAQ",
       "channel_title": "GitHub",
-      "description": "Let's build together - with a special guest!",
-      "published_at": "2025-10-10T07:25:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0Zv-VCR-jp4/hqdefault.jpg"
+      "description": "Save the date! Join us as we kick off day 2 of #GitHubUniverse with GitHub's VP of Developer Relations Martin Woodward as he ...",
+      "published_at": "2025-10-15T03:15:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_KqdBb-iOAQ/hqdefault_live.jpg"
     },
     {
-      "title": "Jueves de Quack con Gisela Torres",
-      "video_id": "LLih8bO_bCA",
+      "title": "GitHub Universe Day 1 Keynote",
+      "video_id": "LJHUtTghQfY",
       "channel_title": "GitHub",
-      "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde Gisela Torres @returngis enseñará cómo aprovechar la nueva ...",
-      "published_at": "2025-10-10T03:13:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LLih8bO_bCA/hqdefault.jpg"
+      "description": "Can't make it to #GitHubUniverse in-person this year? We'll be streaming the opening keynote right here! ▭▭▭▭▭▭ WANT TO ...",
+      "published_at": "2025-10-15T02:27:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LJHUtTghQfY/hqdefault_live.jpg"
     },
     {
-      "title": "An introduction to the new GitHub Copilot CLI",
-      "video_id": "rx_e9RDL1c8",
+      "title": "Meet the GitHub Podcast hosts | Episode 0 | The GitHub Podcast",
+      "video_id": "PeOcZB1_vM0",
       "channel_title": "GitHub",
-      "description": "Meet the GitHub Copilot CLI, your new coding partner for the command line. We built it to meet you where you work best—the ...",
-      "published_at": "2025-10-09T14:01:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rx_e9RDL1c8/hqdefault.jpg"
+      "description": "In this premiere episode of the GitHub podcast, hosts Cassidy, Abby and Kedasha introduce themselves and share their personal ...",
+      "published_at": "2025-10-14T14:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PeOcZB1_vM0/hqdefault.jpg"
     },
     {
       "title": "[pt-BR] Quinta do Patinho - Especial HackertoberFest",

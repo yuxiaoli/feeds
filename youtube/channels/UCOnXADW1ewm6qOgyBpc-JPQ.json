@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-12T00:28:04.275545",
+  "fetched_at": "2025-10-19T00:29:56.340379",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "Why you should train calisthenics #shorts #calisthenics",
+      "video_id": "SM-JZZQBY60",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2025-10-12T15:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SM-JZZQBY60/hqdefault.jpg"
+    },
     {
       "title": "cleanest no false grip muscleups #calisthenics #shorts",
       "video_id": "fmxR1UhXAQ8",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-07-13T14:45:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JJWJPdNLUNc/hqdefault.jpg"
-    },
-    {
-      "title": "full range of motion pullups #shorts",
-      "video_id": "k44rHVSV5Uc",
-      "channel_title": "Leo Wang",
-      "description": "Lat pushdowns   If you want to learn perfect muscleups with in depth breakdowns of every aspect of the skill check out my site.",
-      "published_at": "2025-07-06T14:45:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k44rHVSV5Uc/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-12T00:27:55.397207",
+  "fetched_at": "2025-10-19T00:29:47.892046",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "三天速通新加坡，全在这一个视频里了！",
+      "video_id": "Cyfyx6-WcG0",
+      "channel_title": "码农高天",
+      "description": "这个视频把新加坡三天合到一起放出来（当然不是因为新加坡其实没啥意思了）。我们去了大部分游客该去的点，还见了一些朋友 ...",
+      "published_at": "2025-10-13T10:30:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cyfyx6-WcG0/hqdefault.jpg"
+    },
     {
       "title": "Python3.14发布了！来聊聊重要的新特性吧",
       "video_id": "aHGZghUGWyQ",
@@ -75,14 +83,6 @@
       "description": "PyCon TW主页：https://tw.pycon.org/2025/zh-hant 购票链接（个人）：https://pycontw.kktix.cc/events/2025-individual 源来适你 ...",
       "published_at": "2025-08-19T10:01:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/o8_L1DWbrdw/hqdefault.jpg"
-    },
-    {
-      "title": "浅草寺，上野，和你们最爱的秋叶原！",
-      "video_id": "-jmVang4TAU",
-      "channel_title": "码农高天",
-      "description": "日本的前两个晚上都和粉丝吃的饭，导致每天的素材都少了一些，那就合到一起放出来吧！新宿御苑、浅草寺、上野公园、东京国立 ...",
-      "published_at": "2025-08-16T04:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-jmVang4TAU/hqdefault.jpg"
     }
   ]
 }

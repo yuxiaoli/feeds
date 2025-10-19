@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2025-10-12T00:27:56.884860",
+  "fetched_at": "2025-10-19T00:29:49.227604",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Bug Fixed #warp #code #tech #ai #devtools #softwaredevelopment",
+      "video_id": "kT3dj6p4LHs",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-10-16T16:25:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kT3dj6p4LHs/hqdefault.jpg"
+    },
+    {
+      "title": "What is an Agentic Development Environment? #ai #code #prompt #openai #development #warp #coding",
+      "video_id": "_NP6fT5LinE",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-10-15T18:13:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_NP6fT5LinE/hqdefault.jpg"
+    },
+    {
+      "title": "8 Warp Updates: Improved Voice Recording &amp; AI Copy Functionality",
+      "video_id": "8jLe9NX3W1A",
+      "channel_title": "Warp",
+      "description": "Welcome back to another Fix-it Friday video, where we have 8 new updates that are shipped (or soon to be shipped).",
+      "published_at": "2025-10-14T17:47:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8jLe9NX3W1A/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI Dev Day Demo #openai #warp #prompt #coding #tech #softwaredevelopment #ai",
+      "video_id": "4ntohUxYsh8",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-10-14T16:58:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4ntohUxYsh8/hqdefault.jpg"
+    },
+    {
+      "title": "I asked Warp to make my website cowboy themed #warp #ai #coding #prompt #softwaredevelopment",
+      "video_id": "LXPbO_h_zo8",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-10-13T17:29:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LXPbO_h_zo8/hqdefault.jpg"
+    },
     {
       "title": "The Big Shift In Coding #ai #coding #softwaredevelopment #change #tech #prompt",
       "video_id": "peqDkmFPFtQ",
@@ -43,46 +83,6 @@
       "description": "",
       "published_at": "2025-10-06T13:53:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NSWgJHjdaEU/hqdefault.jpg"
-    },
-    {
-      "title": "Summarize Open Changes Using Warp #prompt #vibecoding #ai #coding #warp #tech #softwareengineering",
-      "video_id": "JulGJZ7QniU",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-04T17:44:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JulGJZ7QniU/hqdefault.jpg"
-    },
-    {
-      "title": "Vibe Coding MCP Server #mcp #vibecoding #ai #tech #recruiter #mcpserver #warp #startup",
-      "video_id": "ww9PcZRHKBQ",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-03T20:23:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ww9PcZRHKBQ/hqdefault.jpg"
-    },
-    {
-      "title": "CEO does Product Demo ON A HORSE 🐴 #Tech #ProductDemo #Startup #Cowboy #warp #horse #marketing",
-      "video_id": "Temz96q1n84",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-02T15:55:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Temz96q1n84/hqdefault.jpg"
-    },
-    {
-      "title": "Vibe Coding Bongo Cat #vibecoding #bongocat #ai #coding #tech #warp",
-      "video_id": "0P6PSULQxdE",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-01T23:10:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0P6PSULQxdE/hqdefault.jpg"
-    },
-    {
-      "title": "Using Agent Profiles",
-      "video_id": "iD0R-8fY-tY",
-      "channel_title": "Warp",
-      "description": "Learn how Warp's agent profiles let you customize AI coding behavior for different scenarios. See a side-by-side comparison ...",
-      "published_at": "2025-09-30T01:44:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iD0R-8fY-tY/hqdefault.jpg"
     }
   ]
 }

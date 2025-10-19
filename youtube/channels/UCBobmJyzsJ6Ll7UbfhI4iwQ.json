@@ -1,88 +1,72 @@
 {
-  "fetched_at": "2025-10-12T00:27:45.555555",
+  "fetched_at": "2025-10-19T00:29:38.650675",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 10,
+  "count": 8,
   "videos": [
     {
-      "title": "Digital Twins Made Real: From Simulation to Execution with Unreal Engine | Unreal Fest Orlando 2025",
-      "video_id": "Ra5VdD_DiAg",
+      "title": "Shop the Fab October Flash Sale 👉 Fab.com",
+      "video_id": "MyaWQ3zSIlk",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Orlando 2025, WWT dives into how Unreal Engine is powering the next generation of ...",
-      "published_at": "2025-10-11T18:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ra5VdD_DiAg/hqdefault.jpg"
+      "description": "Find thousands of high-quality 3D models, VFX, environments, and audio at up to 70% OFF. Shop your faves until Oct 19, 5PM ET.",
+      "published_at": "2025-10-18T08:46:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MyaWQ3zSIlk/hqdefault.jpg"
     },
     {
-      "title": "State of Virtual Production | Unreal Fest Orlando 2025",
-      "video_id": "Y7bG9jL2Qz8",
+      "title": "2025 Epic MegaJam Theme Reveal &amp; Kickoff | Inside Unreal",
+      "video_id": "D3LIUUUJZHo",
       "channel_title": "Unreal Engine",
-      "description": "Watch this session recorded at Unreal Fest Orlando 2025 to discover the latest and greatest when it comes to virtual production ...",
-      "published_at": "2025-10-11T16:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y7bG9jL2Qz8/hqdefault.jpg"
+      "description": "Good news, everyone—the 2025 Epic MegaJam is here! Not only are we gearing up for another exciting competition, we're also ...",
+      "published_at": "2025-10-16T20:38:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D3LIUUUJZHo/hqdefault.jpg"
     },
     {
-      "title": "Deep Dive into Customizations With Mutable | Unreal Fest Orlando 2025",
-      "video_id": "OMgjYC-lggI",
+      "title": "Optimizing Unreal Engine’s OpenUSD Workflow with Python | Unreal Fest Orlando 2025",
+      "video_id": "PMLnvgvjpOQ",
       "channel_title": "Unreal Engine",
-      "description": "Mutable is an Unreal Engine plugin for creating character customization systems, enabling dynamic changes to characters and ...",
-      "published_at": "2025-10-11T14:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OMgjYC-lggI/hqdefault.jpg"
+      "description": "OpenUSD is rapidly becoming one of the most efficient solutions for building and managing data within studio pipelines.",
+      "published_at": "2025-10-16T18:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PMLnvgvjpOQ/hqdefault.jpg"
     },
     {
-      "title": "Supervised Settings Downloading: Under the Hood with KWS | Unreal Fest Orlando 2025",
-      "video_id": "J4aLv8Qs69A",
+      "title": "Chaos Cloth for AAA Games | Unreal Fest Orlando 2025",
+      "video_id": "1ty5-RlBlVQ",
       "channel_title": "Unreal Engine",
-      "description": "Supervised Settings are critical to the user experience at Epic Games, ensuring that user and parental preferences for crucial ...",
-      "published_at": "2025-10-10T18:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J4aLv8Qs69A/hqdefault.jpg"
+      "description": "Join us for this thought-provoking tech talk, which will come hot on the heels of the State of Unreal keynote. Stay tuned for more ...",
+      "published_at": "2025-10-16T16:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1ty5-RlBlVQ/hqdefault.jpg"
     },
     {
-      "title": "TerraCrowds in Action: High-Performance Crowd Simulations with UE | Unreal Fest Orlando 2025",
-      "video_id": "AI17tIMczyo",
+      "title": "News and Community Spotlight | October 16th, 2025",
+      "video_id": "TSZXAoHx2YM",
       "channel_title": "Unreal Engine",
-      "description": "In this session, Roland Geraerts of uCrowds explores the core design ideas of the TerraCrowds engine, including its integration ...",
-      "published_at": "2025-10-10T16:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AI17tIMczyo/hqdefault.jpg"
+      "description": "News 5.7 Preview Released - https://forums.unrealengine.com/t/unreal-engine-5-7-preview/2658958 Design Track Beginner ...",
+      "published_at": "2025-10-16T14:01:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TSZXAoHx2YM/hqdefault.jpg"
     },
     {
-      "title": "The Best Template You&#39;re Not Using: Maximizing the Collab Viewer | Unreal Fest Orlando 2025",
-      "video_id": "Gy6_v9jr-5w",
+      "title": "Augmenting the Most-Watched Live Events with Unreal Engine | Unreal Fest Orlando 2025",
+      "video_id": "2DoF-oYNQgU",
       "channel_title": "Unreal Engine",
-      "description": "Want the fastest way to build a multiplayer experience that works across desktop and VR platforms? Look no further than the ...",
-      "published_at": "2025-10-10T14:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gy6_v9jr-5w/hqdefault.jpg"
+      "description": "Girraphic, an international broadcast and advertising agency, has been fortunate enough to be a part of some of the most-watched ...",
+      "published_at": "2025-10-16T14:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2DoF-oYNQgU/hqdefault.jpg"
     },
     {
-      "title": "Unreal Fest Stockholm 2025 | Opening Session",
-      "video_id": "VF-NBjFURnA",
+      "title": "Building Extensible RPG Systems With the Gameplay Ability System | Unreal Fest Orlando 2025",
+      "video_id": "VhCIpV5hD38",
       "channel_title": "Unreal Engine",
-      "description": "The Unreal Fest Stockholm opening session gave a peek at UE 5.7, new features for Fortnite developers, and an expansion of the ...",
-      "published_at": "2025-10-10T13:50:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VF-NBjFURnA/hqdefault.jpg"
+      "description": "How do you design an RPG system where items, skills, and abilities can change anything? In this talk, Ian Cox of Stoic Studio ...",
+      "published_at": "2025-10-14T18:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VhCIpV5hD38/hqdefault.jpg"
     },
     {
-      "title": "The New Frontiers of Asset Creation | Unreal Fest Orlando 2025",
-      "video_id": "-GXlwkqkPm0",
+      "title": "Animation Authoring in Unreal Engine | Unreal Fest Bali 2025",
+      "video_id": "al_GzNazXMg",
       "channel_title": "Unreal Engine",
-      "description": "New AI tools come out every day promising to instantly generate 2D and 3D assets. At a glance, they're incredibly ...",
-      "published_at": "2025-10-09T20:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-GXlwkqkPm0/hqdefault.jpg"
-    },
-    {
-      "title": "Mega Stack &#39;O&#39; Jam Winners Announcement | Inside Unreal",
-      "video_id": "F-ZD5E_jM_0",
-      "channel_title": "Unreal Engine",
-      "description": "Come join us as we announce the winners of the Mega Stack 'O' Jam & celebrate some of the amazing entries submitted!",
-      "published_at": "2025-10-09T19:32:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F-ZD5E_jM_0/hqdefault.jpg"
-    },
-    {
-      "title": "How to Build UI at Scale: Lessons from Marvel’s &#39;Midnight Suns&#39; | Unreal Fest Orlando 2025",
-      "video_id": "Pm2jswrHSck",
-      "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Orlando 2025, Joel Gonzales explains the approach Turtle Rock Studios used to rapidly ...",
-      "published_at": "2025-10-09T16:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Pm2jswrHSck/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Bali 2025, we get animators up to speed on the slate of animation tools available in Unreal ...",
+      "published_at": "2025-10-13T09:02:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/al_GzNazXMg/hqdefault.jpg"
     }
   ]
 }

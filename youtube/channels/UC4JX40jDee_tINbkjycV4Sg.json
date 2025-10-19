@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-10-12T00:27:38.682069",
+  "fetched_at": "2025-10-19T00:29:32.229424",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "Have you used GO yet?",
-      "video_id": "g3gqpNZJeZE",
+      "title": "The Ultimate Database Roadmap (SQL to NoSQL and Beyond)",
+      "video_id": "-9lgUiD2J-Y",
+      "channel_title": "Tech With Tim",
+      "description": "Checkout DataGrip from JetBrains: https://jb.gg/orug5h Learn more about DataGrip free access: https://jb.gg/1v1iea This video will ...",
+      "published_at": "2025-10-18T20:06:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-9lgUiD2J-Y/hqdefault.jpg"
+    },
+    {
+      "title": "You need to know about this in python!",
+      "video_id": "CRkrjS1gQM8",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-10-11T15:45:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g3gqpNZJeZE/hqdefault.jpg"
+      "published_at": "2025-10-18T17:02:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CRkrjS1gQM8/hqdefault.jpg"
     },
     {
-      "title": "Check the description to find a high paying job as a developer.",
-      "video_id": "hUvmFtS3F7I",
+      "title": "Can you solve this?👀",
+      "video_id": "xxi5G5t9dfQ",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-10-10T18:08:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hUvmFtS3F7I/hqdefault.jpg"
+      "published_at": "2025-10-16T18:12:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xxi5G5t9dfQ/hqdefault.jpg"
     },
     {
-      "title": "How I Would Learn Python Web Development If I Started Over",
-      "video_id": "eOuCaQtlql8",
+      "title": "How to Write Production Python Code",
+      "video_id": "qU3Rc6_B9es",
       "channel_title": "Tech With Tim",
-      "description": "Deploy your applications and services today using Railway and get $20 in free credits! https://railway.com?referralCode=30tGFE If ...",
-      "published_at": "2025-10-10T17:52:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eOuCaQtlql8/hqdefault.jpg"
+      "description": "Click this link https://www.boot.dev?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
+      "published_at": "2025-10-16T13:18:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qU3Rc6_B9es/hqdefault.jpg"
     },
     {
-      "title": "How to Build AI Agents in Python",
-      "video_id": "OKwDzKY_WN8",
-      "channel_title": "Tech With Tim",
-      "description": "Get 20% off NVIDIA certification exams using the code \"TechWithTim20\" from here: https://nvda.ws/46Sehq8 Today we're diving ...",
-      "published_at": "2025-10-08T14:49:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OKwDzKY_WN8/hqdefault.jpg"
-    },
-    {
-      "title": "Why 1M People Tried This AI Coding Tool (Full Vibe Coding Tutorial)",
-      "video_id": "richIuZJ3WY",
-      "channel_title": "Tech With Tim",
-      "description": "Check out Emergent: https://app.emergent.sh/?via=1666c8 In this video, I'll be giving you an in-depth vibe coding tutorial where ...",
-      "published_at": "2025-10-06T13:07:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/richIuZJ3WY/hqdefault.jpg"
-    },
-    {
-      "title": "The only video you need to watch if you want to become a software engineer!",
-      "video_id": "Haa4Tw6MWUk",
+      "title": "The truth about programmers.",
+      "video_id": "t04P6dyy_BI",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-09-12T16:04:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Haa4Tw6MWUk/hqdefault.jpg"
+      "published_at": "2025-10-15T19:09:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t04P6dyy_BI/hqdefault.jpg"
     },
     {
-      "title": "How to build an AI server:client in Python PART 2",
-      "video_id": "lrRlUDsaHug",
+      "title": "ULTIMATE AI Coding Tutorial with Warp Code",
+      "video_id": "VLx9x_qOcGs",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-08-08T19:30:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lrRlUDsaHug/hqdefault.jpg"
+      "description": "Warp is free to try but for a limited, my friends at Warp are offering their Warp Pro plan with a discount. Use code TIM to redeem ...",
+      "published_at": "2025-10-14T13:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VLx9x_qOcGs/hqdefault.jpg"
     },
     {
-      "title": "How I Vibe Coded 3 Apps in 20 Minutes - DeepAgent Demo",
-      "video_id": "0Vx1MWojNaU",
+      "title": "Why I’m Ditching ChatGPT… ChatLLM Tutorial",
+      "video_id": "EYcDauqeJjI",
       "channel_title": "Tech With Tim",
-      "description": "I just spent the last hour vibe coding up three apps that are almost ready to go into production. In this video, I'm going to show you ...",
-      "published_at": "2025-08-08T12:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0Vx1MWojNaU/hqdefault.jpg"
+      "description": "Get started wirh ChatLLM here: https://chatllm.abacus.ai I want you to ask yourself how many I subscriptions are you currently ...",
+      "published_at": "2025-04-25T13:48:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EYcDauqeJjI/hqdefault.jpg"
     },
     {
-      "title": "The Easiest Ways to Run LLMs Locally - Docker Model Runner Tutorial",
-      "video_id": "GOgfQxDPaDw",
+      "title": "Please Master This MAGIC Python Feature... 🪄",
+      "video_id": "qqp6QN20CpE",
       "channel_title": "Tech With Tim",
-      "description": "Download Docker Desktop: https://docs.docker.com/desktop/ Docker Model Runner Docs: ...",
-      "published_at": "2025-07-19T13:30:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GOgfQxDPaDw/hqdefault.jpg"
+      "description": "Click this link https://sponsr.is/bootdev_TechWithTim and use my code TECHWITHTIM to get 25% off your first payment for ...",
+      "published_at": "2024-12-28T14:50:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qqp6QN20CpE/hqdefault.jpg"
     },
     {
-      "title": "THIS is why you keep getting ghosted by recruiters",
-      "video_id": "fRkxtW12oBI",
+      "title": "ADVANCED Python AI Agent Tutorial - Using RAG, Langflow &amp; Multi-Agents",
+      "video_id": "QmUsG_3wHPg",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-04T02:52:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
+      "description": "If you're interested in building AI Applications then stick around, because I've got a great tutorial for you. In this video, I'm going to ...",
+      "published_at": "2024-12-16T17:39:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QmUsG_3wHPg/hqdefault.jpg"
+    },
+    {
+      "title": "Unbelievable AI Tool Converts Figma to Code🔥",
+      "video_id": "ZymXD46f7R4",
+      "channel_title": "Tech With Tim",
+      "description": "Locofy.ai is a low-code developer tool that lets you turn your Figma or Adobe XD designs into frontend code for web & mobile.",
+      "published_at": "2023-06-20T14:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZymXD46f7R4/hqdefault.jpg"
     }
   ]
 }

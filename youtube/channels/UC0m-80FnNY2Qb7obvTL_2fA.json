@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-10-12T00:27:33.331289",
+  "fetched_at": "2025-10-19T00:29:27.173061",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Azure Container Storage for AKS | Free, Fast, Open‑Source Storage for Kubernetes on Azure",
-      "video_id": "BZsQ5_odYfU",
+      "title": "Azure built-in compliance tools help you meet industry standards",
+      "video_id": "Ttm5fbjYxMI",
       "channel_title": "Microsoft Azure",
-      "description": "Announcing Azure Container Storage v2.0.0: Supercharge Kubernetes workloads with the fastest storage for AKS. Azure ...",
-      "published_at": "2025-10-06T17:25:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BZsQ5_odYfU/hqdefault.jpg"
+      "description": "Try Microsoft Azure for free and kickstart development with 65+ always-free services. Meet industry standards with built-in Azure ...",
+      "published_at": "2025-02-24T16:57:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ttm5fbjYxMI/hqdefault.jpg"
     },
     {
-      "title": "Introducing Microsoft Azure Face Liveness",
-      "video_id": "3ysxiX49oxw",
+      "title": "Automate dev maintenance with Azure",
+      "video_id": "ya7tJFVytd0",
       "channel_title": "Microsoft Azure",
-      "description": "Discover how Azure Face Liveness brings enterprise-grade security and effortless user experiences together. - Instant proof of ...",
-      "published_at": "2025-08-20T17:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3ysxiX49oxw/hqdefault.jpg"
+      "description": "Automate dev maintenance with Azure and free yourself to focus on innovative new projects and spend less time on routine tasks.",
+      "published_at": "2025-02-24T16:47:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ya7tJFVytd0/hqdefault.jpg"
     },
     {
-      "title": "GPT-5 in Azure AI Foundry featuring model router",
-      "video_id": "xgdz-KCFpFI",
+      "title": "Learn about Auxiliary Logs",
+      "video_id": "GbD2Q3K_6Vo",
       "channel_title": "Microsoft Azure",
-      "description": "Welcome to the Model Router in Azure AI Foundry. In this video, we introduce you to the Model Router that doesn't just switch ...",
-      "published_at": "2025-08-07T17:05:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xgdz-KCFpFI/hqdefault.jpg"
+      "description": "Learn what Auxiliary Logs are and how to use them. For more information: https://aka.ms/auxiliaryLogs #microsoft ...",
+      "published_at": "2024-07-25T14:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GbD2Q3K_6Vo/hqdefault.jpg"
     },
     {
-      "title": "Lift and shift (migrate) your Windows and Linux servers to Azure VM with Azure Migrate",
-      "video_id": "YAFcLWifeC0",
+      "title": "New and easy way to build custom AI assistants with Azure OpenAI Service",
+      "video_id": "CMXtAe5DhXc",
       "channel_title": "Microsoft Azure",
-      "description": "This video talks about the process of rehosting you're on-prem servers to Azure using Azure Migrates server migration capability.",
-      "published_at": "2025-07-25T14:00:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YAFcLWifeC0/hqdefault.jpg"
+      "description": "Introducing Assistants API on Azure OpenAI Service enabling developers to easily build stateful AI-powered assistants in a secure ...",
+      "published_at": "2024-02-06T16:24:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CMXtAe5DhXc/hqdefault.jpg"
     },
     {
-      "title": "Make-A-Wish brings more joy, hope, and strength to children through Microsoft technology",
-      "video_id": "cH1Y0xTomwM",
+      "title": "Topological Superconductivity in Superconductor- Semiconductor Hybrids",
+      "video_id": "PTWppMH3zMQ",
       "channel_title": "Microsoft Azure",
-      "description": "Make-A-Wish works to provide a life-changing experience of their dreams to every eligible child with a critical illness.",
-      "published_at": "2025-06-17T14:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cH1Y0xTomwM/hqdefault.jpg"
+      "description": "This month Microsoft achieved the first milestone towards a quantum supercomputer – the peer reviewed research from our recent ...",
+      "published_at": "2023-06-21T15:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PTWppMH3zMQ/hqdefault.jpg"
     },
     {
-      "title": "Granular RBAC in Azure Monitor Log Analytics",
-      "video_id": "8WhOA0LCgU0",
+      "title": "Introducing Azure Quantum Elements",
+      "video_id": "JkQGM5ZuXO4",
       "channel_title": "Microsoft Azure",
-      "description": "Granular role-based access control (RBAC) in Azure Monitor Log Analytics allows you to filter workspace data that each user can ...",
-      "published_at": "2025-06-16T15:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8WhOA0LCgU0/hqdefault.jpg"
+      "description": "Video on Azure Quantum Elements. Learn more: https://aka.ms/AAks6iy #Microsoft #MicrosoftAzure.",
+      "published_at": "2023-06-21T15:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JkQGM5ZuXO4/hqdefault.jpg"
     },
     {
-      "title": "Secure and Scale for GenAI apps with Cloud Migration and Modernization",
-      "video_id": "1rdfQcdTqyc",
+      "title": "New easy way to add your data to Azure OpenAI Service",
+      "video_id": "6SNfeVop4zM",
       "channel_title": "Microsoft Azure",
-      "description": "Learn about the challenges of building GenAI apps on-premises and how Azure is optimized to help you migrate and modernize ...",
-      "published_at": "2025-06-13T20:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1rdfQcdTqyc/hqdefault.jpg"
+      "description": "A new capability in Azure OpenAI service, which allows organizations to use Azure Open AI models on their own data.",
+      "published_at": "2023-05-23T17:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6SNfeVop4zM/hqdefault.jpg"
     },
     {
-      "title": "OC3 2025 | OpenHCL: the new open source paravisor by Chris Oo",
-      "video_id": "oJFEKuHGCzA",
+      "title": "Azure AI Content Safety: A new Azure AI service to monitor user and AI-generated content",
+      "video_id": "zmvkFbjsTrc",
       "channel_title": "Microsoft Azure",
-      "description": "Join Chris Oo as he discusses Microsoft's development of the first industry “paravisor” that enables existing VM workloads to ...",
-      "published_at": "2025-06-03T14:01:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oJFEKuHGCzA/hqdefault.jpg"
+      "description": "Introducing Azure AI Content Safety, the content moderation platform that uses AI to identify inappropriate content to create better ...",
+      "published_at": "2023-05-23T15:00:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zmvkFbjsTrc/hqdefault.jpg"
     },
     {
-      "title": "Microsoft Build 2025 | Software Development Company Highlights",
-      "video_id": "f7POcnSsGzY",
+      "title": "Azure OpenAI Service: Pre-built AI models and APIs for language processing tasks",
+      "video_id": "yRkgubFOqJM",
       "channel_title": "Microsoft Azure",
-      "description": "Catch up on the highlights from Satya Nadella's Microsoft Build keynote, tailored for software companies. Read about the latest ...",
-      "published_at": "2025-05-29T14:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f7POcnSsGzY/hqdefault.jpg"
+      "description": "Automate tasks, analyze large data sets, and generate new insights using large-scale, generative AI models designed for natural ...",
+      "published_at": "2023-05-23T15:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yRkgubFOqJM/hqdefault.jpg"
     },
     {
-      "title": "Software development is an act of empathy | Kilimo",
-      "video_id": "c7R6auLG6fg",
+      "title": "Introducing Microsoft Azure Arm-based VMs",
+      "video_id": "16EXFPqWFsQ",
       "channel_title": "Microsoft Azure",
-      "description": "Water is fundamental to our existence, but only a tiny fraction of fresh water on Earth is available to sustain life. How can we ...",
-      "published_at": "2025-05-28T16:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c7R6auLG6fg/hqdefault.jpg"
+      "description": "Microsoft Azure is proud to introduce Arm-based VMs built on the Ampere® Altra® processor. These VMs provide excellent price ...",
+      "published_at": "2023-05-11T14:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/16EXFPqWFsQ/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-12T00:27:47.895102",
+  "fetched_at": "2025-10-19T00:29:40.761751",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "Loss teaches what presence could never say. Holy Water music video out now.",
+      "video_id": "87QMqHNhBr4",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-10-17T14:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/87QMqHNhBr4/hqdefault.jpg"
+    },
     {
       "title": "This song came to me at the right time. “Better Man Than me” out on 9/26",
       "video_id": "aqy8E3AUszc",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-06-09T19:06:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/YaD-o7N3HGE/hqdefault.jpg"
-    },
-    {
-      "title": "‘Save My Love’ with @elliegouldingofficial + @avaion  out June 6th",
-      "video_id": "xd_A8bcOHMY",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-06-04T20:20:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xd_A8bcOHMY/hqdefault.jpg"
     }
   ]
 }

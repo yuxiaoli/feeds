@@ -1,16 +1,48 @@
 {
-  "fetched_at": "2025-10-12T00:27:52.471105",
+  "fetched_at": "2025-10-19T00:29:45.053145",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "【人工智能】Figure 03 | FigureAI第三代人形机器人 | 专为家庭和全球量产设计 | Helix | 新视觉系统 | 手掌摄像头 | 自研手指传感器 | 10Gb数据传输 | 商业场景",
-      "video_id": "FzbJXCI-qHo",
+      "title": "【人工智能】人形机器人会是幻想么？| 机器人专家Rodney Brooks长文 | 机器人的发展历史 | 端到端学习 | 关键的预处理 | 灵活性 | 触觉反馈 | 人类的手 | 行走安全性",
+      "video_id": "1YOo-LbXvW8",
       "channel_title": "最佳拍档",
-      "description": "10月9日，Figure AI正式推出了他们的第三代人形机器人Figure 03。这次的Figure 03，从设计之初就瞄准了“真正的通用型机器人” ...",
-      "published_at": "2025-10-11T10:45:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FzbJXCI-qHo/hqdefault.jpg"
+      "description": "机器人领域的活化石，罗德尼·布鲁克斯（Rodney Brooks），他在最新的博客里直言，当前的类人机器人，就算砸再多的钱，也学不 ...",
+      "published_at": "2025-10-18T13:13:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1YOo-LbXvW8/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】AI的商业鸿沟 | MIT NANDA报告 | 95%的企业AI投资没有回报 | 为何高采用低转型 | 颠覆指数 | 死亡谷 | 影子AI经济 | AI无法持续学习 | 智能体网络",
+      "video_id": "v19z3lKz418",
+      "channel_title": "最佳拍档",
+      "description": "麻省理工学院NANDA项目，发布了一份《2025年商业AI现状报告》。报告给出了一个足够震撼的结论，那就是尽管企业在生成式AI ...",
+      "published_at": "2025-10-17T09:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v19z3lKz418/hqdefault.jpg"
+    },
+    {
+      "title": "【AI动态】每日科技新闻 | 20251016 | 谷歌正式推出Veo 3.1 | 基于Gemma的单细胞分析模型 | Coral NPU | AI音乐疗法 | Claude Haiku 4.5",
+      "video_id": "rADZ8xw3SA0",
+      "channel_title": "最佳拍档",
+      "description": "",
+      "published_at": "2025-10-16T14:01:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rADZ8xw3SA0/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】早期经验范式 | AI Agent正在迈向经验时代 | 让AI从自身试错中学习 | Rich Sutton | 隐式世界建模 | 自我反思 | 有效性 | 泛化性 | RL兼容性",
+      "video_id": "roAgE4glhqM",
+      "channel_title": "最佳拍档",
+      "description": "上周末，一篇来自META 超级智能实验室MSL、FAIR、俄亥俄州立大学的研究，提出了一个名为早期经验的中间路线。它的核心想法 ...",
+      "published_at": "2025-10-15T09:01:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/roAgE4glhqM/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】OpenAI的算力神话 | 万亿帝国还是巨大泡沫 | 20GW算力 | 英伟达 | AMD认股权证 | Oracle | CoreWeave | 融资压力巨大 | 星际之门 | 债务融资",
+      "video_id": "X2OXhK3IE4c",
+      "channel_title": "最佳拍档",
+      "description": "虽然OpenAI还没上市，却把马斯克的SpaceX甩在身后，成了全球估值最高的未上市初创企业；它一边烧钱百亿美元，一边却能撬动 ...",
+      "published_at": "2025-10-13T09:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X2OXhK3IE4c/hqdefault.jpg"
     },
     {
       "title": "【分享】投资的本质是回归常识 | 彼得·林奇Peter Lynch最新访谈 | 46岁隐退的背后原因 | 从高尔夫球童到投资传奇 | 投资箴言 | AI热潮 | meme股",
@@ -19,30 +51,6 @@
       "description": "最近富达投资（Fidelity Investments）专门为Peter Lynch做了一场深度访谈，内容涵盖了他当年隐退的真实原因、从高尔夫球童到 ...",
       "published_at": "2025-10-10T09:01:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fpMLFmbdxR4/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】OpenAI激进押注基础设施 | Sam Altman A16Z访谈 | 三个战略 | 错误反对垂直整合 | Sora的爆火 | AI科学家 | 规模扩展上限 | 能源和开源",
-      "video_id": "SGYt9Ny2jxw",
-      "channel_title": "最佳拍档",
-      "description": "最近OpenAI的热度不小，一边是火爆出圈的Sora 2，另一边是各种引人注目的投资合作，而且还在几天前的开发者日上发布了一大堆 ...",
-      "published_at": "2025-10-09T23:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SGYt9Ny2jxw/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】OpenAI DevDay 2025 | Apps SDK | AgentKit | Codex | GPT-5 Pro API | Real-time mini | Sora 2 API",
-      "video_id": "N0X8-fsQuNY",
-      "channel_title": "最佳拍档",
-      "description": "美国时间10月6日举办的OpenAI DevDay，就是它真正亮出“战略蓝图”的时刻。这场发布会没有太多颠覆性的“黑科技”，却把过去两 ...",
-      "published_at": "2025-10-09T09:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N0X8-fsQuNY/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】软件正在吞噬生产力市场 | A16Z合伙人Alex Rampell | 软件的70年变革 | SaaS定价的“星巴克”模式 | 催生市场扩张 | 新的业务可能性 | 全球性机会",
-      "video_id": "uiZEWwN5EKU",
-      "channel_title": "最佳拍档",
-      "description": "最近，我看了a16z 合伙人亚历克斯·兰佩尔Alex Rampell 在2025 年LP 峰会上的演讲，他用自己独特的视角，解释了软件领域正在 ...",
-      "published_at": "2025-10-08T09:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uiZEWwN5EKU/hqdefault.jpg"
     },
     {
       "title": "【人工智能】大语言模型是死路一条 | 强化学习之父Rich Sutton | 理解松鼠才能理解AGI | LLM的致命缺陷 | 经验学习范式 | 苦涩的教训 | 真正的泛化 | 持续学习 | 宇宙演化",
@@ -75,14 +83,6 @@
       "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 最近，国产算力芯片领域有个词火了，那就是UE8M0 FP8。火爆的原因， ...",
       "published_at": "2025-08-26T09:01:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zTdUzh-KVbE/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】从不被认可走向行业突破 | 吴恩达回忆谷歌经历 | X实验室 | 规模决定性能 | 单一学习算法 | Larry Page | Jeff Dean | Coursera | AI Fund",
-      "video_id": "ql7qed1r7nU",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 8月8日，吴恩达接受了The Moonshot播客的专访，围绕吴恩达的学术生涯 ...",
-      "published_at": "2025-08-24T09:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ql7qed1r7nU/hqdefault.jpg"
     }
   ]
 }

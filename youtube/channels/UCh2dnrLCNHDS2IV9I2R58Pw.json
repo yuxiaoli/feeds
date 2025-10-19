@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-10-12T00:28:24.957157",
+  "fetched_at": "2025-10-19T00:30:15.287249",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Luna 9 First Moon Landing",
+      "video_id": "LxjYvnZ1Z0s",
+      "channel_title": "Hazegrayart",
+      "description": "Luna 9 was an uncrewed space mission of the Soviet Union's Luna program. On 3 February 1966, the Luna 9 spacecraft became ...",
+      "published_at": "2025-10-17T19:11:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LxjYvnZ1Z0s/hqdefault.jpg"
+    },
+    {
+      "title": "DARPA Hammerhead  Shuttle Concept",
+      "video_id": "IPzzg2Kyjfc",
+      "channel_title": "Hazegrayart",
+      "description": "DARPA studied modifying the current external tank design to be able to carry low-density payloads in a 25 or 35 ft (7.6 or 10.6 m) ...",
+      "published_at": "2025-10-16T12:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IPzzg2Kyjfc/hqdefault.jpg"
+    },
     {
       "title": "Hammerhead Space Shuttle",
       "video_id": "ELmiJ1rYcJk",
@@ -67,22 +83,6 @@
       "description": "Engineers in Houston envisioned the Shuttle II as an evolution of the Space Shuttle, with the Evolved Shuttle at its core.",
       "published_at": "2025-09-17T13:11:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/x8sTh9vUdLs/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s Survivable Crew Compartment Space Shuttle",
-      "video_id": "PMqWtYN-fjc",
-      "channel_title": "Hazegrayart",
-      "description": "Engineers in Houston envisioned the Shuttle II as an evolution of the Space Shuttle, with the Evolved Shuttle at its core.",
-      "published_at": "2025-09-14T11:54:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PMqWtYN-fjc/hqdefault.jpg"
-    },
-    {
-      "title": "SLS Block 2 Crew",
-      "video_id": "8MRIa0664K4",
-      "channel_title": "Hazegrayart",
-      "description": "Block 2, will provide 9.5 million lbs. of thrust and will be the workhorse vehicle for sending cargo to the Moon, Mars, and other ...",
-      "published_at": "2025-09-07T01:07:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8MRIa0664K4/hqdefault.jpg"
     }
   ]
 }

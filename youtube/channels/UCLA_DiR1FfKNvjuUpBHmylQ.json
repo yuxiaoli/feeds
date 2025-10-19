@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-12T00:27:59.820561",
+  "fetched_at": "2025-10-19T00:29:52.048431",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 2,
+  "count": 3,
   "videos": [
+    {
+      "title": "Roscosmos Spacewalk 64",
+      "video_id": "NWzZ-8z8fME",
+      "channel_title": "NASA",
+      "description": "Watch as Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritskiy conduct a spacewalk in support of the International ...",
+      "published_at": "2025-10-16T23:51:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NWzZ-8z8fME/hqdefault.jpg"
+    },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
       "video_id": "yf5cEJULZXk",

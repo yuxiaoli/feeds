@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-12T00:27:37.956762",
+  "fetched_at": "2025-10-19T00:29:31.521076",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "A brand new We Call It Imagineering welcomes you to the Haunted Mansion this Sunday 👻🎃",
+      "video_id": "Cu5aZC7hcB4",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "",
+      "published_at": "2025-10-18T18:42:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cu5aZC7hcB4/hqdefault.jpg"
+    },
     {
       "title": "Behind-the-Scenes Tour of the Disney Cruise Line Entertainment Rehearsal Facility",
       "video_id": "bFK8MrHLe1Y",
@@ -75,14 +83,6 @@
       "description": "How do Imagineers think up the new rides? Tom Morrow 2.0 finds out all about Blue Sky and Walt Disney Imagineering's creative ...",
       "published_at": "2025-08-25T16:00:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0gal-ucgFKU/hqdefault.jpg"
-    },
-    {
-      "title": "Imagineer That! is back - tune in on Monday!",
-      "video_id": "64ieXO0d_u0",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "",
-      "published_at": "2025-08-22T16:45:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/64ieXO0d_u0/hqdefault.jpg"
     }
   ]
 }

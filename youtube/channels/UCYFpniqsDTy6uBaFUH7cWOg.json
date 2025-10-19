@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2025-10-12T00:28:13.596470",
+  "fetched_at": "2025-10-19T00:30:04.741357",
   "channel_id": "UCYFpniqsDTy6uBaFUH7cWOg",
   "channel_title": "NS Production",
   "count": 10,
   "videos": [
-    {
-      "title": "#shortvideo",
-      "video_id": "cL9Z3ttdMxc",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2025-09-29T18:25:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cL9Z3ttdMxc/hqdefault.jpg"
-    },
     {
       "title": "Khachatryans Move",
       "video_id": "Gt2zr2-lWpw",
@@ -19,22 +11,6 @@
       "description": "",
       "published_at": "2025-09-29T08:59:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Gt2zr2-lWpw/hqdefault.jpg"
-    },
-    {
-      "title": "Khachatryans You Broke My Heart",
-      "video_id": "A7khoaGpBVY",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2025-09-29T08:56:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/A7khoaGpBVY/hqdefault.jpg"
-    },
-    {
-      "title": "#shortvideo",
-      "video_id": "rNTe-V_U2L8",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2025-09-28T23:44:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rNTe-V_U2L8/hqdefault.jpg"
     },
     {
       "title": "#armenia",
@@ -83,6 +59,30 @@
       "description": "",
       "published_at": "2025-09-25T20:54:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PTsLsfa_rzQ/hqdefault.jpg"
+    },
+    {
+      "title": "#shortvideo",
+      "video_id": "5C3nv1jtSJA",
+      "channel_title": "NS Production",
+      "description": "",
+      "published_at": "2025-09-25T20:04:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5C3nv1jtSJA/hqdefault.jpg"
+    },
+    {
+      "title": "#shortvideo",
+      "video_id": "Su3Q7RliorA",
+      "channel_title": "NS Production",
+      "description": "",
+      "published_at": "2025-09-11T12:47:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Su3Q7RliorA/hqdefault.jpg"
+    },
+    {
+      "title": "#shortvideo",
+      "video_id": "y5mMX2SaRbk",
+      "channel_title": "NS Production",
+      "description": "",
+      "published_at": "2025-09-07T22:26:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y5mMX2SaRbk/hqdefault.jpg"
     }
   ]
 }

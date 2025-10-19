@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-12T00:28:25.763296",
+  "fetched_at": "2025-10-19T00:30:16.041180",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "9月最新AI论文分享",
+      "video_id": "ZiRXF3dQtow",
+      "channel_title": "Find Interesting AI",
+      "description": "相关文档： https://qadso0i11yj.feishu.cn/base/LheAbY77yaYjE6sDCsGcM7gBnlZ?from=from_copylink.",
+      "published_at": "2025-10-12T23:30:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZiRXF3dQtow/hqdefault.jpg"
+    },
     {
       "title": "2025-10最新开源9个项目分享",
       "video_id": "dbEpyspZLHE",
@@ -75,14 +83,6 @@
       "description": "HuggingFace 6月最火的8个AI项目.",
       "published_at": "2025-06-22T04:00:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/UmHl6qJEQcs/hqdefault.jpg"
-    },
-    {
-      "title": "最新105个项目总结 有趣项目分享",
-      "video_id": "wZELolxolhQ",
-      "channel_title": "Find Interesting AI",
-      "description": "视频文档： https://qadso0i11yj.feishu.cn/base/C9PAbl4JGaciCxsjxtac9RAVn3e?from=from_copylink.",
-      "published_at": "2025-06-15T09:01:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wZELolxolhQ/hqdefault.jpg"
     }
   ]
 }

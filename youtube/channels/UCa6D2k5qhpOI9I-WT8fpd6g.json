@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-12T00:28:15.846984",
+  "fetched_at": "2025-10-19T00:30:06.752373",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "AI编程新王Codex详细攻略，一期视频精通，附免费使用方法",
+      "video_id": "BhOF-7--bhA",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 最近Codex 已经超越了Claude Code，成为当前热度最高的AI 编程工具。",
+      "published_at": "2025-10-13T14:23:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BhOF-7--bhA/hqdefault.jpg"
+    },
     {
       "title": "赛博善人出新品！中国区友好的免费全栈部署平台，AI编程绝配",
       "video_id": "h3RWKZO_sRw",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 就在前天，字节跳动旗下AI编程工具TRAE迎来了重磅的2.0版本升级。",
       "published_at": "2025-07-23T12:00:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1oWsN4qQhQ8/hqdefault.jpg"
-    },
-    {
-      "title": "下一代容器管理工具Podman，对比Docker有哪些优势，架构是什么样的？#科技 #教程  #计算机  #操作系统",
-      "video_id": "P68C6CQB0F4",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Docker过时了吗？下一代容器管理工具Podman是什么，比起Docker有 ...",
-      "published_at": "2025-07-14T13:53:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/P68C6CQB0F4/hqdefault.jpg"
     }
   ]
 }
