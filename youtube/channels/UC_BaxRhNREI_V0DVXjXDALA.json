@@ -1,32 +1,48 @@
 {
-  "fetched_at": "2025-10-19T00:30:06.062917",
+  "fetched_at": "2025-10-26T00:29:26.297654",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 3,
+  "count": 5,
   "videos": [
     {
-      "title": "Porsche Penske Motorsport – IMSA Champions 2025",
+      "title": "Pascal Wehrlein on the new Porsche Macan GTS | Quickfire questions",
+      "video_id": "eydqssLBjKk",
+      "channel_title": "Porsche",
+      "description": "Join Pascal Wehrlein, Formula E Drivers' World Champion 2024, as he shares his take on the new Macan GTS – from design ...",
+      "published_at": "2025-10-25T15:01:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eydqssLBjKk/hqdefault.jpg"
+    },
+    {
+      "title": "Surf’s up. Top’s down. #shorts",
+      "video_id": "GoGy9asgznM",
+      "channel_title": "Porsche",
+      "description": "Some drives end at the shore. Others begin there. @socalm2cs.",
+      "published_at": "2025-10-24T18:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GoGy9asgznM/hqdefault.jpg"
+    },
+    {
+      "title": "Pascal Wehrlein Drives the New Porsche Macan GTS",
+      "video_id": "BLakXD3wIGU",
+      "channel_title": "Porsche",
+      "description": "On the mountain roads of Serra da Estrela, Pascal Wehrlein demonstrates the purest side of the new Macan GTS. Dynamic ...",
+      "published_at": "2025-10-21T12:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BLakXD3wIGU/hqdefault.jpg"
+    },
+    {
+      "title": "Porsche wins Formula E Teams’ and Manufacturers’ World Championships",
+      "video_id": "FUpA_qSfelk",
+      "channel_title": "Porsche",
+      "description": "When the lights go out and the race begins, it's not just speed that counts. It's heart, teamwork, and the will to win. We faced highs ...",
+      "published_at": "2025-10-20T15:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FUpA_qSfelk/hqdefault.jpg"
+    },
+    {
+      "title": "Porsche wins back-to-back IMSA Championships",
       "video_id": "9VQsvFtNu48",
       "channel_title": "Porsche",
       "description": "The 2025 IMSA WeatherTech Sportscar Championship comes to a close – and with it, a title sweep for Porsche Penske ...",
       "published_at": "2025-10-17T15:00:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9VQsvFtNu48/hqdefault.jpg"
-    },
-    {
-      "title": "Mixed metals #shorts",
-      "video_id": "ITYNow6W5Mc",
-      "channel_title": "Porsche",
-      "description": "Gold person? Silver person? How about both? ✨ @giannijanzik.",
-      "published_at": "2025-10-16T18:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ITYNow6W5Mc/hqdefault.jpg"
-    },
-    {
-      "title": "Aimé Leon Dore / Porsche 2025 Capsule Collection",
-      "video_id": "_404tngOkbI",
-      "channel_title": "Porsche",
-      "description": "Available from October 16, 11:00 EST in-store and online at aimeleondore.com, Porsche Design Beverly Hills and porsche.com ...",
-      "published_at": "2025-10-16T07:49:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_404tngOkbI/hqdefault.jpg"
     }
   ]
 }

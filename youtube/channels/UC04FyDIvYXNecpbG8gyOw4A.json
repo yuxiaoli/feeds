@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-19T00:29:25.759389",
+  "fetched_at": "2025-10-26T00:28:46.607784",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "You Got This",
+      "video_id": "DdIDMbz_mCU",
+      "channel_title": "Meta",
+      "description": "Meta AI is always here to give you your flowers.",
+      "published_at": "2025-10-22T14:30:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DdIDMbz_mCU/hqdefault.jpg"
+    },
     {
       "title": "Meta AI is an Official Partner of the Mercedes-AMG PETRONAS F1 Team",
       "video_id": "Bx7N5fGn50w",
@@ -75,14 +83,6 @@
       "description": "Meta Ray-Ban Display + Meta Neural Band = this fall's iconic duo.",
       "published_at": "2025-09-21T19:00:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nBlhb5Zb9Ys/hqdefault.jpg"
-    },
-    {
-      "title": "Display Life",
-      "video_id": "rNzGwzXmKv8",
-      "channel_title": "Meta",
-      "description": "we're all about that display life.",
-      "published_at": "2025-09-21T17:28:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rNzGwzXmKv8/hqdefault.jpg"
     }
   ]
 }

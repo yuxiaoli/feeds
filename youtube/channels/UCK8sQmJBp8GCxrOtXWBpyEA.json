@@ -1,32 +1,40 @@
 {
-  "fetched_at": "2025-10-19T00:29:48.548533",
+  "fetched_at": "2025-10-26T00:29:08.963431",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 3,
+  "count": 4,
   "videos": [
     {
-      "title": "Turn any Search into a picture ✨ The #NanoBanana button is live in AI Mode. Tap to start creating!",
-      "video_id": "T0CRrJnI7F0",
+      "title": "Quiz your way to a masterpiece with Gemini",
+      "video_id": "NEAfg7p_VTA",
       "channel_title": "Google",
-      "description": "Instantly turn your ideas into images, directly from AI Mode in Search. Tap the #NanoBanana button and go bananas! #AIMode ...",
-      "published_at": "2025-10-17T19:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T0CRrJnI7F0/hqdefault.jpg"
+      "description": "Custom quizzes in Gemini help you master any art movement, from Constructivism to Neo-Expressionism. Here's your 2-step plan: ...",
+      "published_at": "2025-10-24T22:18:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NEAfg7p_VTA/hqdefault.jpg"
     },
     {
-      "title": "Want to make a museum-worthy selfie? Just open Lens in the Google app and tap the 🍌",
-      "video_id": "ku_WtS3c0JY",
+      "title": "Follow all the MLB Fall Classic action on Google ⚾",
+      "video_id": "ZPgHglBunro",
       "channel_title": "Google",
-      "description": "NanoBanana #GoogleGemini #GoogleSearch.",
-      "published_at": "2025-10-17T16:51:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ku_WtS3c0JY/hqdefault.jpg"
+      "description": "This #GoogleDoodle celebrates the start of the 2025 MLB Fall Classic! After a long season of high heat, big flies, and 7th-inning ...",
+      "published_at": "2025-10-24T20:19:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZPgHglBunro/hqdefault.jpg"
     },
     {
-      "title": "Get access to Nano Banana right inside Google Search. Just open Lens in the Google app &amp; tap the 🍌",
-      "video_id": "71aGser4iZ8",
+      "title": "Stuck on a Halloween costume? 👻 #NanoBanana in Search can help! Just describe your idea to see it.",
+      "video_id": "XVDVeI8j5dI",
       "channel_title": "Google",
-      "description": "Ready, set, go bananas! Get access to Nano Banana right inside Google Search. Just open Lens in the Google app and tap the ...",
-      "published_at": "2025-10-16T20:01:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/71aGser4iZ8/hqdefault.jpg"
+      "description": "On Search, snap a photo with Lens (or select one from your gallery) and instantly transform your image with help from AI.",
+      "published_at": "2025-10-24T18:50:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XVDVeI8j5dI/hqdefault.jpg"
+    },
+    {
+      "title": "Confidence in a Fold | Made by Google Podcast S8E7",
+      "video_id": "aZ5L9mDeMaw",
+      "channel_title": "Google",
+      "description": "In this episode of the Made by Google Podcast, we unfold the magic and the monumental engineering behind the brand-new ...",
+      "published_at": "2025-10-23T17:23:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aZ5L9mDeMaw/hqdefault.jpg"
     }
   ]
 }

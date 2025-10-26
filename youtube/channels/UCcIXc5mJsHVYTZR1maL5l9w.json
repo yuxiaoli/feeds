@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-19T00:30:09.569498",
+  "fetched_at": "2025-10-26T00:29:29.847107",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Integrate data governance into your agent&#39;s workflow in this new course!",
+      "video_id": "Mv27yTV7CFI",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4nh0gZ5 Introducing Governing AI Agents, a short course built in collaboration with Databricks and taught ...",
+      "published_at": "2025-10-22T15:40:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Mv27yTV7CFI/hqdefault.jpg"
+    },
     {
       "title": "Build live voice agents that listen, reason, and respond, using Google’s ADK",
       "video_id": "yxu2RQy2i-c",
@@ -75,14 +83,6 @@
       "description": "Learn more: https://bit.ly/4fepmFI In Pydantic for LLM Workflows, taught by Ryan Keenan, Director of the Learning Experience Lab ...",
       "published_at": "2025-07-30T13:40:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EXOp8WDa-Xk/hqdefault.jpg"
-    },
-    {
-      "title": "A new course on Retrieval Augmented Generation (RAG) is here!",
-      "video_id": "uIPvSV6p92Y",
-      "channel_title": "DeepLearningAI",
-      "description": "We're thrilled to announce our new course: Retrieval Augmented Generation (RAG) RAG is a key part of building LLM ...",
-      "published_at": "2025-07-16T15:26:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uIPvSV6p92Y/hqdefault.jpg"
     }
   ]
 }

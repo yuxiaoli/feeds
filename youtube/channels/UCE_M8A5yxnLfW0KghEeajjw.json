@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-19T00:29:40.066939",
+  "fetched_at": "2025-10-26T00:29:00.621085",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Great ideas start on Mac | Apple",
+      "video_id": "XOBE3FCyaqU",
+      "channel_title": "Apple",
+      "description": "Voiced by the late Dr. Jane Goodall, DBE. From groundbreaking discoveries to award-winning films — all of it starts from nothing.",
+      "published_at": "2025-10-20T13:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XOBE3FCyaqU/hqdefault.jpg"
+    },
     {
       "title": "Design is how it works | Apple",
       "video_id": "-ueUb6PNwbs",
@@ -75,14 +83,6 @@
       "description": "This is iPhone Air. Super thin. Strikingly light. Shockingly strong. Powered by the new A19 Pro chip, which is built for Apple ...",
       "published_at": "2025-09-09T18:50:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/M0au92yebLQ/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing iPhone 17 Pro | Apple",
-      "video_id": "_-AS5DtDeqs",
-      "channel_title": "Apple",
-      "description": "Introducing iPhone 17 Pro. Built from solid aluminum, a unique unibody encases our biggest battery with our longest battery life.",
-      "published_at": "2025-09-09T18:42:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_-AS5DtDeqs/hqdefault.jpg"
     }
   ]
 }

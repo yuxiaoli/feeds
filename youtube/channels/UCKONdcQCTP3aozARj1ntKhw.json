@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-10-19T00:29:49.227604",
+  "fetched_at": "2025-10-26T00:29:09.632259",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Growth inflection point",
+      "video_id": "4BzWg9tpJj4",
+      "channel_title": "Warp",
+      "description": "Zach's founder take on hypergrowth for startups on The Room Podcast.",
+      "published_at": "2025-10-24T17:26:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4BzWg9tpJj4/hqdefault.jpg"
+    },
+    {
+      "title": "Vlad Kachur - Non technical founders",
+      "video_id": "5ZIBnrMaf2s",
+      "channel_title": "Warp",
+      "description": "Can you really vibe-code complex apps like Figma, Notion, or Slack? Zach says stay tuned. #vibecoding #zerotohero.",
+      "published_at": "2025-10-24T17:17:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5ZIBnrMaf2s/hqdefault.jpg"
+    },
+    {
+      "title": "Warp Sharpshooter",
+      "video_id": "o3rW4iwCKU0",
+      "channel_title": "Warp",
+      "description": "Warp's agents solve your problems with sharpshooter precision #agents #debugging.",
+      "published_at": "2025-10-20T20:59:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o3rW4iwCKU0/hqdefault.jpg"
+    },
+    {
+      "title": "Warp Vlad Kachur",
+      "video_id": "M0PP61NxUMc",
+      "channel_title": "Warp",
+      "description": "Warp Terminal? Warp ADE! Zach sits down with @VladKachur to discuss Warp's positioning! #coding.",
+      "published_at": "2025-10-20T20:55:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M0PP61NxUMc/hqdefault.jpg"
+    },
     {
       "title": "Bug Fixed #warp #code #tech #ai #devtools #softwaredevelopment",
       "video_id": "kT3dj6p4LHs",
@@ -51,38 +83,6 @@
       "description": "",
       "published_at": "2025-10-11T20:54:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/peqDkmFPFtQ/hqdefault.jpg"
-    },
-    {
-      "title": "Making AI Usage More Transparent",
-      "video_id": "tK1rGt_tQG0",
-      "channel_title": "Warp",
-      "description": "We want every Warp user to get the most out of our agents. As part of that, we are always trying to make our agents more efficient, ...",
-      "published_at": "2025-10-10T18:56:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tK1rGt_tQG0/hqdefault.jpg"
-    },
-    {
-      "title": "Why Are We Cowboy Themed? #cowboy #warp #marketing #interview #podcast",
-      "video_id": "ge98j5knn5c",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-10T03:21:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ge98j5knn5c/hqdefault.jpg"
-    },
-    {
-      "title": "How We Design Smart Agents #warp #ai #aiagents #coding #software engineering #programming",
-      "video_id": "gwXK2v4rp44",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-08T14:45:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gwXK2v4rp44/hqdefault.jpg"
-    },
-    {
-      "title": "Spicy Take on Vibe Coding #vibecoding #ai #interview #spicy #coding #softwaredevelopment #cs",
-      "video_id": "NSWgJHjdaEU",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-06T13:53:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NSWgJHjdaEU/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-19T00:30:01.206422",
+  "fetched_at": "2025-10-26T00:29:21.494524",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "Intro to Spreads with Stock Options — Finance Lessons for Quants",
+      "video_id": "veS8qhTDBxA",
+      "channel_title": "Socratica",
+      "description": "FINANCE COURSES from Socratica https://www.socratica.com/pages/finance-courses SUPPORT Socratica on ...",
+      "published_at": "2025-10-23T11:01:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/veS8qhTDBxA/hqdefault.jpg"
+    },
     {
       "title": "Implied Volatility &amp; Volatility Surfaces 📉 Quantitative Finance",
       "video_id": "F_qh827iXFQ",
@@ -75,14 +83,6 @@
       "description": "NOTIFY ME when the course launches: https://snu.socratica.com/quantitative-finance What is a ...",
       "published_at": "2025-06-30T10:01:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/z5UBasCOs94/hqdefault.jpg"
-    },
-    {
-      "title": "Covariance Explained ← Probability &amp; Statistics",
-      "video_id": "ATfDsdlze3E",
-      "channel_title": "Socratica",
-      "description": "Connect with us on PATREON https://www.patreon.com/socratica Covariance measures how two variables ...",
-      "published_at": "2025-06-23T10:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ATfDsdlze3E/hqdefault.jpg"
     }
   ]
 }

@@ -1,24 +1,16 @@
 {
-  "fetched_at": "2025-10-19T00:29:42.151681",
+  "fetched_at": "2025-10-26T00:29:02.757104",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
     {
-      "title": "Google AI Milestone Cancer Discovery",
-      "video_id": "mW8lW8byzhM",
+      "title": "How Do Tattoos Stay Permanent?",
+      "video_id": "JHFmGWKEsX0",
       "channel_title": "Interesting Engineering",
-      "description": "Google CEO Sundar Pichai has just announced one of their AI models, has generated a validated hypothesis about cancer ...",
-      "published_at": "2025-10-16T11:00:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mW8lW8byzhM/hqdefault.jpg"
-    },
-    {
-      "title": "How Chocolate is Made",
-      "video_id": "vNSI53KuL10",
-      "channel_title": "Interesting Engineering",
-      "description": "Chocolate has been beloved by humans for so long, it even earned the name food of the gods! But how does it go from the seeds ...",
-      "published_at": "2025-10-16T01:31:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vNSI53KuL10/hqdefault.jpg"
+      "description": "Tattoos are an ancient art that humans have practiced for centuries. But how do they work? And how do they stay for years on ...",
+      "published_at": "2025-10-24T20:46:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JHFmGWKEsX0/hqdefault.jpg"
     },
     {
       "title": "NASA Reports Life On Mars",
@@ -83,6 +75,14 @@
       "description": "The world's largest battery has just made its debut. Capable of powering 1 million homes for one hour all at once, the Waratah ...",
       "published_at": "2025-08-05T18:00:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/pY4-lln4au0/hqdefault.jpg"
+    },
+    {
+      "title": "Spotify Now Scans Faces For Age Verification",
+      "video_id": "wyCj7xVH-lc",
+      "channel_title": "Interesting Engineering",
+      "description": "In compliance with the UK Online Safety Act, Spotify—along with other online platforms—are now requiring facial verification ...",
+      "published_at": "2025-08-01T08:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wyCj7xVH-lc/hqdefault.jpg"
     }
   ]
 }

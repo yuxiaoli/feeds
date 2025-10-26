@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-10-19T00:29:34.216130",
+  "fetched_at": "2025-10-26T00:28:55.105119",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Why open standards are a huge win for AI transparency",
-      "video_id": "YFz5Xcbfleo",
+      "title": "Is the future of software &#39;one size fits me&#39;?",
+      "video_id": "cgahDaKcwxM",
       "channel_title": "GitHub",
-      "description": "\"Everything is way more plug and play.\" In this clip from The GitHub Podcast, our hosts discuss why open standards like the Model ...",
-      "published_at": "2025-10-18T16:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YFz5Xcbfleo/hqdefault.jpg"
+      "description": "Tired of software that doesn't quite fit your workflow? In this clip from The GitHub Podcast, host Cassidy Williams argues that the ...",
+      "published_at": "2025-10-25T16:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cgahDaKcwxM/hqdefault.jpg"
     },
     {
-      "title": "Unlocking the Power of MCP | Episode 1 | The GitHub Podcast",
-      "video_id": "TjnFXtUDKNg",
+      "title": "Building Tools and the Future of DIY Development | Episode 3 | The GitHub Podcast",
+      "video_id": "08Guz739IZI",
       "channel_title": "GitHub",
-      "description": "In this episode of the GitHub Podcast, Cassidy, Abby and Kedasha discuss the Model Context Protocol (MCP), its significance in ...",
-      "published_at": "2025-10-18T14:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TjnFXtUDKNg/hqdefault.jpg"
+      "description": "In this episode of the GitHub Podcast, Cassidy and Kedasha explore the rise of personal software tools built by developers for ...",
+      "published_at": "2025-10-25T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/08Guz739IZI/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday: Archestra – Secure platform for enterprise agents with MCP",
-      "video_id": "SkmluS-xzmM",
+      "title": "Jueves de Quack",
+      "video_id": "hATdZTq2pqk",
       "channel_title": "GitHub",
-      "description": "Join us this Open Source Friday to explore Archestra, an innovative open-source platform designed for secure, scalable ...",
-      "published_at": "2025-10-18T06:05:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SkmluS-xzmM/hqdefault.jpg"
+      "description": "Únete ‪@alacolombiadev‬ y Marian Villa (DevRel en Interledger) para una conversación en vivo sobre innovación, comunidad y ...",
+      "published_at": "2025-10-25T12:58:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hATdZTq2pqk/hqdefault_live.jpg"
     },
     {
-      "title": "[pt-BR] Open Source Friday Brasil 🇧🇷 com Leonel Sanches da Silva,  Design Liquido",
-      "video_id": "4dhkm6PSb1c",
+      "title": "Open Source Friday: Dagger - Components for modern software and workflows",
+      "video_id": "FVhmY-OmDbs",
       "channel_title": "GitHub",
-      "description": "Open Source Friday Brasil Toda sexta-feira, ao vivo no canal GitHub Brasil, exploramos projetos Open Source brasileiros e ...",
-      "published_at": "2025-10-18T05:02:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4dhkm6PSb1c/hqdefault.jpg"
+      "description": "Join us on Open Source Friday this week with Solomon Hykes, author and maintainer of Dagger — a programmable CI/CD ...",
+      "published_at": "2025-10-25T06:27:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FVhmY-OmDbs/hqdefault.jpg"
     },
     {
-      "title": "A look at the open source zone at GitHub Universe",
-      "video_id": "Y_3UBot8M5A",
+      "title": "AI &amp; Copilot: Modernizing Applications for the Cloud",
+      "video_id": "a9glyQs6cbE",
       "channel_title": "GitHub",
-      "description": "GitHub Universe is back, and the Open Source Zone is where the real magic happens. Get a sneak peek at the coolest hacker fair ...",
-      "published_at": "2025-10-16T14:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y_3UBot8M5A/hqdefault.jpg"
+      "description": "Join Ayan Gupta live as we explore how GitHub Copilot App Modernization helps teams upgrade, migrate, and deploy ...",
+      "published_at": "2025-10-24T23:58:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a9glyQs6cbE/hqdefault_live.jpg"
     },
     {
-      "title": "GitHub Universe Day 2 Keynote",
-      "video_id": "_KqdBb-iOAQ",
+      "title": "How to attend GitHub Universe from home",
+      "video_id": "luDhaKuzv-M",
       "channel_title": "GitHub",
-      "description": "Save the date! Join us as we kick off day 2 of #GitHubUniverse with GitHub's VP of Developer Relations Martin Woodward as he ...",
-      "published_at": "2025-10-15T03:15:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_KqdBb-iOAQ/hqdefault_live.jpg"
+      "description": "GitHub Universe is just 4 days away! Can't be there in person? No problem. Grab your free virtual pass for access to keynotes, ...",
+      "published_at": "2025-10-24T20:30:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/luDhaKuzv-M/hqdefault.jpg"
     },
     {
-      "title": "GitHub Universe Day 1 Keynote",
-      "video_id": "LJHUtTghQfY",
+      "title": "The Download: GitHub Universe, New Merch Drops &amp; The story of Log4Shell",
+      "video_id": "s2ct4wW6Kbw",
       "channel_title": "GitHub",
-      "description": "Can't make it to #GitHubUniverse in-person this year? We'll be streaming the opening keynote right here! ▭▭▭▭▭▭ WANT TO ...",
-      "published_at": "2025-10-15T02:27:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LJHUtTghQfY/hqdefault_live.jpg"
+      "description": "This week on The Download, we look back at one of the internet's biggest crises with Christian, a Log4j maintainer who shares his ...",
+      "published_at": "2025-10-24T17:58:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s2ct4wW6Kbw/hqdefault.jpg"
     },
     {
-      "title": "Meet the GitHub Podcast hosts | Episode 0 | The GitHub Podcast",
-      "video_id": "PeOcZB1_vM0",
+      "title": "Rubber Duck Thursday!",
+      "video_id": "O54iBAKoGJA",
       "channel_title": "GitHub",
-      "description": "In this premiere episode of the GitHub podcast, hosts Cassidy, Abby and Kedasha introduce themselves and share their personal ...",
-      "published_at": "2025-10-14T14:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PeOcZB1_vM0/hqdefault.jpg"
+      "description": "Let's chat about all things GitHub Universe and hang.",
+      "published_at": "2025-10-24T06:55:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O54iBAKoGJA/hqdefault.jpg"
     },
     {
       "title": "[pt-BR] Quinta do Patinho - Especial HackertoberFest",
       "video_id": "uatYL2S0F5I",
       "channel_title": "GitHub",
       "description": "A Quinta do Patinho chega em clima de Hacktoberfest! Neste episódio especial, vamos mergulhar no universo das ...",
-      "published_at": "2025-10-06T13:06:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uatYL2S0F5I/hqdefault_live.jpg"
+      "published_at": "2025-10-24T04:41:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uatYL2S0F5I/hqdefault.jpg"
     },
     {
-      "title": "Teaching Millions to Code: Quincy Larson on 10 Years of freeCodeCamp",
-      "video_id": "m36P_8s1624",
+      "title": "Why AI ignorance is the biggest threat to your software",
+      "video_id": "jFKgZGAP5-4",
       "channel_title": "GitHub",
-      "description": "Join us for an inspiring conversation with Quincy Larson, the founder of freeCodeCamp—the world's largest free coding education ...",
-      "published_at": "2025-10-03T15:22:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m36P_8s1624/hqdefault_live.jpg"
+      "description": "\"AI became a weapon, and I wasn't even aware.\" In this powerful clip, Log4j maintainer Christian Grobmeier explains why ...",
+      "published_at": "2025-10-23T17:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jFKgZGAP5-4/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-19T00:30:26.790822",
+  "fetched_at": "2025-10-26T00:29:46.398257",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Two Sunrises, One Planet. Welcome to Mercury! 🌅",
+      "video_id": "7MPCPX47V2Y",
+      "channel_title": "Star Walk",
+      "description": "Picture this: you're standing on the scorched surface of Mercury, the closest planet to the Sun. The horizon begins to glow — the ...",
+      "published_at": "2025-10-23T11:36:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7MPCPX47V2Y/hqdefault.jpg"
+    },
     {
       "title": "Don&#39;t miss the Orionids (+ 2 comets) on October 21! 💫☄️",
       "video_id": "E4nXTv08jfI",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-09-20T22:00:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NX2vrf5-SAs/hqdefault.jpg"
-    },
-    {
-      "title": "Venus vanishes behind the Moon! 🌘🌟",
-      "video_id": "tiyH4VEubps",
-      "channel_title": "Star Walk",
-      "description": "On September 19, from 10:34 to 14:26 GMT, enjoy the lunar occultation of Venus. Visible to the naked eye, though binoculars ...",
-      "published_at": "2025-09-18T15:24:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tiyH4VEubps/hqdefault.jpg"
     }
   ]
 }

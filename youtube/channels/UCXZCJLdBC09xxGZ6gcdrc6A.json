@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2025-10-19T00:30:04.077461",
+  "fetched_at": "2025-10-26T00:29:24.254738",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Intro to scrolling tabs in ChatGPT Atlas",
+      "video_id": "nEwLBO8e0Dw",
+      "channel_title": "OpenAI",
+      "description": "Learn about scrolling tabs in ChatGPT Atlas with Darin Fisher from OpenAI — search across tabs with Cmd+Shift+A, ...",
+      "published_at": "2025-10-24T00:25:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nEwLBO8e0Dw/hqdefault.jpg"
+    },
+    {
+      "title": "Work smarter with your company knowledge in ChatGPT",
+      "video_id": "DupfnOCH-JI",
+      "channel_title": "OpenAI",
+      "description": "Get answers specific to your business in ChatGPT. Introducing company knowledge — a new way to work with all the context from ...",
+      "published_at": "2025-10-23T20:15:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DupfnOCH-JI/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT Atlas",
+      "video_id": "qqd4Sb-PKG4",
+      "channel_title": "OpenAI",
+      "description": "AppleDsign.",
+      "published_at": "2025-10-23T18:57:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qqd4Sb-PKG4/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing ChatGPT Atlas",
+      "video_id": "8UWKxJbjriY",
+      "channel_title": "OpenAI",
+      "description": "Introducing our new browser, ChatGPT Atlas. Sam Altman, Will Ellsworth, Adam Fry, Ben Goodger, Ryan O'Rouke, Justin Rushing ...",
+      "published_at": "2025-10-21T17:52:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8UWKxJbjriY/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing ChatGPT Atlas",
+      "video_id": "Ej6hnsQgV_c",
+      "channel_title": "OpenAI",
+      "description": "Meet our new browser—ChatGPT Atlas. With Atlas, ChatGPT can come with you anywhere across the web—helping you in the ...",
+      "published_at": "2025-10-21T17:22:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ej6hnsQgV_c/hqdefault.jpg"
+    },
     {
       "title": "Space with ChatGPT",
       "video_id": "9wxmlwRaZHc",
@@ -43,46 +83,6 @@
       "description": "ChatGPT is becoming a bigger part of everyday work. It helps teams move from idea to execution faster, analyzing data, writing ...",
       "published_at": "2025-10-09T15:32:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0SccjZ6Yfi8/hqdefault.jpg"
-    },
-    {
-      "title": "Built for SF by SF: AI Solutions Helping Our City Thrive",
-      "video_id": "EDqQtysycT4",
-      "channel_title": "OpenAI",
-      "description": "No city embraces the future like San Francisco. Get inspired by local developers using AI to tackle real challenges: making SF ...",
-      "published_at": "2025-10-08T17:01:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EDqQtysycT4/hqdefault.jpg"
-    },
-    {
-      "title": "AMA: Scaling AI Applications into the Enterprise",
-      "video_id": "WrANK9oFfHw",
-      "channel_title": "OpenAI",
-      "description": "Join a live AMA with Decagon & Clay founders and an Andreessen Horowitz investor on cracking enterprise AI adoption—why ...",
-      "published_at": "2025-10-08T17:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WrANK9oFfHw/hqdefault.jpg"
-    },
-    {
-      "title": "Building with Open Models",
-      "video_id": "1HL2YHRj270",
-      "channel_title": "OpenAI",
-      "description": "Go beyond out-of-the-box models with gpt-oss, OpenAI's newest open model series. Discover how gpt-oss lets you adapt, extend, ...",
-      "published_at": "2025-10-08T17:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1HL2YHRj270/hqdefault.jpg"
-    },
-    {
-      "title": "Developer State Of The Union",
-      "video_id": "r1R3RDPvPeg",
-      "channel_title": "OpenAI",
-      "description": "The developer experience is being rewritten with AI. The Developer State of the Union will explore how Codex, gpt-oss, and our ...",
-      "published_at": "2025-10-08T17:01:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r1R3RDPvPeg/hqdefault.jpg"
-    },
-    {
-      "title": "Measuring Agents With Interactive Evaluations",
-      "video_id": "TK9MN22q6E0",
-      "channel_title": "OpenAI",
-      "description": "Agents explore, plan, and reliably execute across diverse, long-horizon tasks—challenges that static benchmarks can't measure.",
-      "published_at": "2025-10-08T17:01:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TK9MN22q6E0/hqdefault.jpg"
     }
   ]
 }

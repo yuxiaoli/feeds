@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-19T00:29:35.001901",
+  "fetched_at": "2025-10-26T00:28:55.775890",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "How AI Is Changing Whole Body Manipulation | Atlas | Boston Dynamics",
+      "video_id": "AdGFmYQx0lg",
+      "channel_title": "Boston Dynamics",
+      "description": "We're designing the world's most dynamic humanoid robot to do anything and everything, but we get there one step at a time.",
+      "published_at": "2025-10-20T14:53:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AdGFmYQx0lg/hqdefault.jpg"
+    },
     {
       "title": "What&#39;s in a humanoid hand? | Boston Dynamics",
       "video_id": "gS4rOqNDTBk",
@@ -75,14 +83,6 @@
       "description": "Cargill's Amsterdam Multiseed facility enlists Spot and Orbit to inspect machinery and perform visual checks, enhanced by all-new ...",
       "published_at": "2025-06-17T13:44:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AqRquSReZHY/hqdefault.jpg"
-    },
-    {
-      "title": "Having Such a Good Time #AGTAuditions",
-      "video_id": "2-eBap2ECJA",
-      "channel_title": "Boston Dynamics",
-      "description": "Behind the scenes on the road to our America's Got Talent audition. Check out the full performance: ...",
-      "published_at": "2025-06-11T15:40:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2-eBap2ECJA/hqdefault.jpg"
     }
   ]
 }

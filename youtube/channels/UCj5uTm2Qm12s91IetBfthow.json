@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-19T00:30:16.041180",
+  "fetched_at": "2025-10-26T00:29:35.981826",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "HuggingFace最新8个项目玩个遍",
+      "video_id": "UC7STcfo28k",
+      "channel_title": "Find Interesting AI",
+      "description": "huggingface本月最火8个项目 一口气玩个遍.",
+      "published_at": "2025-10-26T00:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UC7STcfo28k/hqdefault.jpg"
+    },
     {
       "title": "9月最新AI论文分享",
       "video_id": "ZiRXF3dQtow",
@@ -75,14 +83,6 @@
       "description": "6月论文汇总： https://qadso0i11yj.feishu.cn/base/LLumbYdgJaziD2sihWYcyGQQnQe?from=from_copylink.",
       "published_at": "2025-07-03T23:30:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IEY5Y3wdoPk/hqdefault.jpg"
-    },
-    {
-      "title": "HuggingFace 6月最火AI一次性总结清楚",
-      "video_id": "UmHl6qJEQcs",
-      "channel_title": "Find Interesting AI",
-      "description": "HuggingFace 6月最火的8个AI项目.",
-      "published_at": "2025-06-22T04:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UmHl6qJEQcs/hqdefault.jpg"
     }
   ]
 }

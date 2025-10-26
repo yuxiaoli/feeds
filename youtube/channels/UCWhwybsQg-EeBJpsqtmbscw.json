@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2025-10-19T00:30:02.616099",
+  "fetched_at": "2025-10-26T00:29:22.903439",
   "channel_id": "UCWhwybsQg-EeBJpsqtmbscw",
   "channel_title": "JomaClass",
   "count": 10,
   "videos": [
+    {
+      "title": "Binary Search Tree (BST) | Data Structures &amp; Algorithms",
+      "video_id": "2nH7WIsRzyI",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-25T16:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2nH7WIsRzyI/hqdefault.jpg"
+    },
+    {
+      "title": "Trees | Data Structures &amp; Algorithms",
+      "video_id": "3VJ6WS-EX1g",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-24T16:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3VJ6WS-EX1g/hqdefault.jpg"
+    },
+    {
+      "title": "Deque (Double-Ended Queue) | Data Structures &amp; Algorithms",
+      "video_id": "mADBD0-QC-E",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-23T16:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mADBD0-QC-E/hqdefault.jpg"
+    },
+    {
+      "title": "Queue | Data Structures &amp; Algorithms",
+      "video_id": "azhu0K1QG7M",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-22T16:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/azhu0K1QG7M/hqdefault.jpg"
+    },
+    {
+      "title": "Stack | Data Structures &amp; Algorithms",
+      "video_id": "I__TYJlagvs",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-21T16:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I__TYJlagvs/hqdefault.jpg"
+    },
+    {
+      "title": "Optimizing Linked List | Data Structures &amp; Algorithms",
+      "video_id": "ToCLkmYi4GY",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-20T16:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ToCLkmYi4GY/hqdefault.jpg"
+    },
+    {
+      "title": "Linked List | Data Structures &amp; Algorithms",
+      "video_id": "NWjZq-V2x0k",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-19T16:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NWjZq-V2x0k/hqdefault.jpg"
+    },
     {
       "title": "Dynamic Arrays | Data Structures &amp; Algorithms",
       "video_id": "8G90FxAphkM",
@@ -27,62 +83,6 @@
       "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
       "published_at": "2025-10-16T16:00:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IAMhw5i0XTU/hqdefault.jpg"
-    },
-    {
-      "title": "Time Complexity | Data Structures &amp; Algorithms",
-      "video_id": "F26zraKvcwg",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-15T16:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F26zraKvcwg/hqdefault.jpg"
-    },
-    {
-      "title": "Introduction to Data Structures &amp; Algorithms",
-      "video_id": "eQCvT-fGE8M",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-14T16:01:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eQCvT-fGE8M/hqdefault.jpg"
-    },
-    {
-      "title": "Backtracking: Coding The Robot Maze Problem | Programming Fundamentals with Python",
-      "video_id": "UJjoMujGA5Y",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-13T16:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UJjoMujGA5Y/hqdefault.jpg"
-    },
-    {
-      "title": "Backtracking: Robot Maze Problem | Programming Fundamentals with Python",
-      "video_id": "XroHV3lESlY",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-12T16:00:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XroHV3lESlY/hqdefault.jpg"
-    },
-    {
-      "title": "Backtracking | Programming Fundamentals with Python",
-      "video_id": "fmBecqWrB-k",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-11T16:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fmBecqWrB-k/hqdefault.jpg"
-    },
-    {
-      "title": "Recursion: How To Write Recursive Functions | Programming Fundamentals with Python",
-      "video_id": "KRGhgv51T6c",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-10T16:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KRGhgv51T6c/hqdefault.jpg"
-    },
-    {
-      "title": "Recursion: Fibonacci Sequence | Programming Fundamentals with Python",
-      "video_id": "0GcYSamWH8M",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-09T16:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0GcYSamWH8M/hqdefault.jpg"
     }
   ]
 }

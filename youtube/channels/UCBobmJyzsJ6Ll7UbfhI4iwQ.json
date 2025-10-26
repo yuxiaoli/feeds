@@ -1,72 +1,72 @@
 {
-  "fetched_at": "2025-10-19T00:29:38.650675",
+  "fetched_at": "2025-10-26T00:28:59.205822",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 8,
   "videos": [
     {
-      "title": "Shop the Fab October Flash Sale 👉 Fab.com",
-      "video_id": "MyaWQ3zSIlk",
+      "title": "LEGO® Prototyping | UEFN Build Along",
+      "video_id": "44Fp_mpHSb0",
       "channel_title": "Unreal Engine",
-      "description": "Find thousands of high-quality 3D models, VFX, environments, and audio at up to 70% OFF. Shop your faves until Oct 19, 5PM ET.",
-      "published_at": "2025-10-18T08:46:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MyaWQ3zSIlk/hqdefault.jpg"
+      "description": "Come build a LEGO® experience with us from the ground up - and answer your questions live! October 28th @ 2 PM ET ...",
+      "published_at": "2025-10-24T22:42:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/44Fp_mpHSb0/hqdefault_live.jpg"
     },
     {
-      "title": "2025 Epic MegaJam Theme Reveal &amp; Kickoff | Inside Unreal",
-      "video_id": "D3LIUUUJZHo",
+      "title": "10 Years of MegaJam Sizzle Reel",
+      "video_id": "OkECEJi9qRY",
       "channel_title": "Unreal Engine",
-      "description": "Good news, everyone—the 2025 Epic MegaJam is here! Not only are we gearing up for another exciting competition, we're also ...",
-      "published_at": "2025-10-16T20:38:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D3LIUUUJZHo/hqdefault.jpg"
+      "description": "As we celebrate the 2025 Epic MegaJam, we also mark a significant milestone-10 years of MegaJams. It's a time to look back with ...",
+      "published_at": "2025-10-24T11:48:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OkECEJi9qRY/hqdefault.jpg"
     },
     {
-      "title": "Optimizing Unreal Engine’s OpenUSD Workflow with Python | Unreal Fest Orlando 2025",
-      "video_id": "PMLnvgvjpOQ",
+      "title": "Exploring the Sports Broadcast: Motion Design Sample | Inside Unreal",
+      "video_id": "YiMh6bEebIs",
       "channel_title": "Unreal Engine",
-      "description": "OpenUSD is rapidly becoming one of the most efficient solutions for building and managing data within studio pipelines.",
-      "published_at": "2025-10-16T18:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PMLnvgvjpOQ/hqdefault.jpg"
+      "description": "This week we'll be discussing the Unreal Motion Design toolset with this feature-packed sample project created in collaboration ...",
+      "published_at": "2025-10-23T20:07:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YiMh6bEebIs/hqdefault.jpg"
     },
     {
-      "title": "Chaos Cloth for AAA Games | Unreal Fest Orlando 2025",
-      "video_id": "1ty5-RlBlVQ",
+      "title": "Debugging Unreal Engine Projects: Lightning Round | Unreal Fest Bali 2025",
+      "video_id": "B5LwNjjU1o4",
       "channel_title": "Unreal Engine",
-      "description": "Join us for this thought-provoking tech talk, which will come hot on the heels of the State of Unreal keynote. Stay tuned for more ...",
-      "published_at": "2025-10-16T16:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1ty5-RlBlVQ/hqdefault.jpg"
+      "description": "Every successful Unreal Engine developer is a sum of all the tips and tricks they've picked up along the way to debug their ...",
+      "published_at": "2025-10-23T08:16:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B5LwNjjU1o4/hqdefault.jpg"
     },
     {
-      "title": "News and Community Spotlight | October 16th, 2025",
-      "video_id": "TSZXAoHx2YM",
+      "title": "Navigating the Job Market as an Emerging Creator | Career Connections",
+      "video_id": "99AqgMigt1s",
       "channel_title": "Unreal Engine",
-      "description": "News 5.7 Preview Released - https://forums.unrealengine.com/t/unreal-engine-5-7-preview/2658958 Design Track Beginner ...",
-      "published_at": "2025-10-16T14:01:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TSZXAoHx2YM/hqdefault.jpg"
+      "description": "In this video from the Epic Games Career Connections series, Amir Satvat of Tencent Games discusses the current state of the ...",
+      "published_at": "2025-10-22T12:18:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/99AqgMigt1s/hqdefault.jpg"
     },
     {
-      "title": "Augmenting the Most-Watched Live Events with Unreal Engine | Unreal Fest Orlando 2025",
-      "video_id": "2DoF-oYNQgU",
+      "title": "Leveraging PCG for Building and City Creation | Unreal Fest Bali 2025",
+      "video_id": "Bh8QJqhJU94",
       "channel_title": "Unreal Engine",
-      "description": "Girraphic, an international broadcast and advertising agency, has been fortunate enough to be a part of some of the most-watched ...",
-      "published_at": "2025-10-16T14:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2DoF-oYNQgU/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Bali 2025, Daniel Mor of Virtuos provides an in-depth look at the power of procedural ...",
+      "published_at": "2025-10-21T11:40:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Bh8QJqhJU94/hqdefault.jpg"
     },
     {
-      "title": "Building Extensible RPG Systems With the Gameplay Ability System | Unreal Fest Orlando 2025",
-      "video_id": "VhCIpV5hD38",
+      "title": "Creating Performant MetaHuman Characters in Unreal Engine | Unreal Fest Bali 2025",
+      "video_id": "tTgMafRAM7A",
       "channel_title": "Unreal Engine",
-      "description": "How do you design an RPG system where items, skills, and abilities can change anything? In this talk, Ian Cox of Stoic Studio ...",
-      "published_at": "2025-10-14T18:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VhCIpV5hD38/hqdefault.jpg"
+      "description": "The MetaHuman plugin for Unreal Engine empowers users to craft highly realistic characters, pose them, and animate them ...",
+      "published_at": "2025-10-21T11:25:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tTgMafRAM7A/hqdefault.jpg"
     },
     {
-      "title": "Animation Authoring in Unreal Engine | Unreal Fest Bali 2025",
-      "video_id": "al_GzNazXMg",
+      "title": "How an Indie Animation Team of Four Uses UE5 to Produce BellyFant",
+      "video_id": "LX_XC_MuGc4",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Bali 2025, we get animators up to speed on the slate of animation tools available in Unreal ...",
-      "published_at": "2025-10-13T09:02:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/al_GzNazXMg/hqdefault.jpg"
+      "description": "Watch this video to discover how a small indie team of just four uses Unreal Engine to produce BellyFant—and how they've ...",
+      "published_at": "2025-10-20T13:59:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LX_XC_MuGc4/hqdefault.jpg"
     }
   ]
 }

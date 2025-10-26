@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-10-19T00:29:50.699334",
+  "fetched_at": "2025-10-26T00:29:11.018798",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
+    {
+      "title": "Don’t Say No, Say How: Shadow AI, BYOD, &amp; Cybersecurity Risks",
+      "video_id": "U9Ckc3MecvA",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and ...",
+      "published_at": "2025-10-25T11:00:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U9Ckc3MecvA/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT Atlas, OpenAI’s new web browser",
+      "video_id": "xawn4C43TWo",
+      "channel_title": "IBM Technology",
+      "description": "Explore the podcast → https://ibm.biz/BdbfcG OpenAI is back and coming for search. This week on Mixture of Experts, we debrief ...",
+      "published_at": "2025-10-24T10:01:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xawn4C43TWo/hqdefault.jpg"
+    },
+    {
+      "title": "AI Agents + LLM Reasoning: Transforming Autonomous Workflows",
+      "video_id": "2ihEirLXeas",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-10-23T11:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2ihEirLXeas/hqdefault.jpg"
+    },
+    {
+      "title": "RIP Windows 10, automated code repair and battling the payroll pirates",
+      "video_id": "sVxSCcwlxus",
+      "channel_title": "IBM Technology",
+      "description": "Explore the podcast → https://ibm.biz/Bdb2LY Is Windows 10 dead? This week, panelists Michelle Alvarez, Sridhar Muppidi and ...",
+      "published_at": "2025-10-22T10:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sVxSCcwlxus/hqdefault.jpg"
+    },
     {
       "title": "Decode Black Boxes with Explainable AI: Building Transparent AI Agents",
       "video_id": "4_LIxSjc3H0",
@@ -11,46 +43,6 @@
       "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
       "published_at": "2025-10-18T11:00:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4_LIxSjc3H0/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI, Oracle &amp; AMD shake up AI",
-      "video_id": "JQ0ZObgOoGQ",
-      "channel_title": "IBM Technology",
-      "description": "Explore the podcast→ https://ibm.biz/Bdbj5J What if Nvidia's biggest advantage isn't so big anymore? This week on Mixture of ...",
-      "published_at": "2025-10-17T10:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JQ0ZObgOoGQ/hqdefault.jpg"
-    },
-    {
-      "title": "Biometrics &amp; Security: Privacy, Deepfakes, &amp; Cyber Threats",
-      "video_id": "fetX12f3Z-I",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
-      "published_at": "2025-10-16T11:01:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fetX12f3Z-I/hqdefault.jpg"
-    },
-    {
-      "title": "Riding AI Waves: Agentic AI, Open Source Tools, &amp; AI Adoption Challenges",
-      "video_id": "Ae0Oa1kEyBg",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-10-15T15:30:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ae0Oa1kEyBg/hqdefault.jpg"
-    },
-    {
-      "title": "MCP vs gRPC: How AI Agents &amp; LLMs Connect to Tools &amp; Data",
-      "video_id": "23PzNxw11jc",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer v1? Register now and use code IBMTechYT20 for 20% off of your ...",
-      "published_at": "2025-10-13T11:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/23PzNxw11jc/hqdefault.jpg"
-    },
-    {
-      "title": "4 Tips to Learn New Technologies Faster &amp; Smarter",
-      "video_id": "IMWG7yx4UDk",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Developer - IBM i 7.x? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-10-11T11:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IMWG7yx4UDk/hqdefault.jpg"
     },
     {
       "title": "Vibe Security: A Developer&#39;s Guide",
@@ -83,6 +75,14 @@
       "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
       "published_at": "2025-09-16T11:01:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/l9LfC98tE_4/hqdefault.jpg"
+    },
+    {
+      "title": "Anthropic&#39;s AI Welfare Dilemma",
+      "video_id": "WFJi_hs7AQI",
+      "channel_title": "IBM Technology",
+      "description": "Is the term 'welfare' misleading? Dive into Anthropic's AI welfare concept, and analyze experts' concerns over the term 'welfare' ...",
+      "published_at": "2025-08-25T16:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WFJi_hs7AQI/hqdefault.jpg"
     }
   ]
 }

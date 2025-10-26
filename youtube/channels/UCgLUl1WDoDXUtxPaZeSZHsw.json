@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-19T00:30:13.865784",
+  "fetched_at": "2025-10-26T00:29:33.965528",
   "channel_id": "UCgLUl1WDoDXUtxPaZeSZHsw",
   "channel_title": "李自然说",
   "count": 10,
   "videos": [
+    {
+      "title": "20分钟读懂AI史上最重要的一篇论文《Attention Is All You Need》",
+      "video_id": "_VaEjGnHgOI",
+      "channel_title": "李自然说",
+      "description": "你或许用过ChatGPT、DeepSeek这些顶尖AI工具。它们的核心思想，全部源自2017年的一篇经典论文：《Attention Is All You ...",
+      "published_at": "2025-10-21T09:43:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_VaEjGnHgOI/hqdefault.jpg"
+    },
     {
       "title": "一口气了解AI史上最硬核的10位天才",
       "video_id": "6dsLA7e-PYw",
@@ -67,14 +75,6 @@
       "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
       "published_at": "2025-03-27T08:45:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Mp72onydytk/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI最新发布 几个行业很快就要没了",
-      "video_id": "2KmgGqClGBY",
-      "channel_title": "李自然说",
-      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
-      "published_at": "2025-03-27T07:58:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2KmgGqClGBY/hqdefault.jpg"
     },
     {
       "title": "什么级别才有权力开盒？能开盒的人至少几百万",

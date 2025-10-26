@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-19T00:30:06.752373",
+  "fetched_at": "2025-10-26T00:29:27.021253",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "用过上百款编程MCP，只有这15个真正好用，Claude Code与Codex配置MCP详细教程",
+      "video_id": "UW5iQGE3264",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 用过上百种编程类的MCP工具，选出了其中真正好用的15个。这些MCP ...",
+      "published_at": "2025-10-23T07:49:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UW5iQGE3264/hqdefault.jpg"
+    },
     {
       "title": "AI编程新王Codex详细攻略，一期视频精通，附免费使用方法",
       "video_id": "BhOF-7--bhA",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 我写了一个小项目，使用边缘云函数，将一线大模型，Gemini的免费API ...",
       "published_at": "2025-07-31T11:16:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SnNDCgfKHyA/hqdefault.jpg"
-    },
-    {
-      "title": "TRAE 2.0来啦！开发宠物店应用，SOLO一下就够了  #ai #科技 #人工智能 #网站 #编程",
-      "video_id": "1oWsN4qQhQ8",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 就在前天，字节跳动旗下AI编程工具TRAE迎来了重磅的2.0版本升级。",
-      "published_at": "2025-07-23T12:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1oWsN4qQhQ8/hqdefault.jpg"
     }
   ]
 }

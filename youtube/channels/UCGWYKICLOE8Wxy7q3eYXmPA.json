@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2025-10-19T00:29:45.053145",
+  "fetched_at": "2025-10-26T00:29:05.481473",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
+    {
+      "title": "【人工智能】AI战争的背后 | SemiAnalysis创始人Dylan Patel | 算力货币 | 英伟达是中央银行 | AI的话语权 | 服务商链条 | 强化学习 | 巨头创新 | 冲击软件行业",
+      "video_id": "hEogqc9NrlM",
+      "channel_title": "最佳拍档",
+      "description": "SemiAnalysis的创始人兼CEO迪伦·帕特尔（Dylan Patel），最近在《Invest Like The Best》的访谈里说道，算力才是AI世界的货币 ...",
+      "published_at": "2025-10-25T01:30:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hEogqc9NrlM/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】智能正在成为一种商品 | Jason Wei斯坦福演讲 | AI的三个核心思想 | 计算和知识的成本正在趋近于零 | 验证者法则 | 锯齿状前沿 | 自适应计算 | 快速起飞不太可能实现",
+      "video_id": "Bma6tHQYaD4",
+      "channel_title": "最佳拍档",
+      "description": "上周，斯坦福大学AI 俱乐部邀请了Jason Wei作为嘉宾，进行了一场精彩的演讲。Jason Wei 目前在Meta Superintelligence labs ...",
+      "published_at": "2025-10-23T09:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Bma6tHQYaD4/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】DeepSeek-OCR开源 | OCR识别 | 用视觉Token实现文本压缩 | 超长文本新思路 | 10倍压缩仍可保持97%精度 | DeepEncoder | MoE解码器 | 训练",
+      "video_id": "5C5pRcLFKys",
+      "channel_title": "最佳拍档",
+      "description": "而今天我们要聊的这款模型，可能为解决模型的长文本困局，提供了一个全新的方向，它不是靠着堆砌更大的参数、更宽的上下文 ...",
+      "published_at": "2025-10-22T09:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5C5pRcLFKys/hqdefault.jpg"
+    },
+    {
+      "title": "【访谈】极致自律能带来怎样的顶级人生 | Telegram创始人Pavel Durov | 对自由的执念 | 拒绝酒精和手机 | 每天坚持300个俯卧撑 | 隐私保护的底线 | 天才哥哥 | 理想主义",
+      "video_id": "2GQWeUSAPqQ",
+      "channel_title": "最佳拍档",
+      "description": "最近，我反复听了莱克斯·弗里德曼（Lex Fridman）对帕维尔的播客专访，整个对话从个人哲学延伸到了科技伦理，从地缘政治谈 ...",
+      "published_at": "2025-10-21T09:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2GQWeUSAPqQ/hqdefault.jpg"
+    },
+    {
+      "title": "【AI动态】每日科技新闻 | 20251020 | GPT5数学突破闹乌龙 | Opera Neon浏览器问题 | Gemini将狗识别成猫 | 宇树发布仿生机器人H2 | AI助手CiCi霸榜海外",
+      "video_id": "O58Icrc1J1M",
+      "channel_title": "最佳拍档",
+      "description": "https://www.theverge.com/tech/801899/opera-neon-ai-browser-trial-run ...",
+      "published_at": "2025-10-20T13:11:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O58Icrc1J1M/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】Agentic上下文工程ACE | 让大模型通过上下文实现自我提升 | 上下文适配 | 简洁性偏差 | 上下文坍缩 | 生成器 | 反思器 | 整理器 | 增量更新 | 生长精炼",
+      "video_id": "FBCpVPWv7us",
+      "channel_title": "最佳拍档",
+      "description": "今天我们要解读的这篇论文，是来自斯坦福大学、SambaNova Systems和加州大学伯克利分校联合团队的最新成果，ACE框架， ...",
+      "published_at": "2025-10-20T11:03:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FBCpVPWv7us/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】AGI还有十年之遥 | Andrej Karpathy最新访谈 | 幽灵与动物 | AI是一种不同的智能 | 大模型的关键缺陷 | 强化学习很糟糕 | AGI不会带来经济暴涨 | AI教育",
+      "video_id": "EWKsQdfnKj8",
+      "channel_title": "最佳拍档",
+      "description": "前两天，德瓦克什·帕特尔Dwarkesh Patel 放出了跟安德烈·卡帕西Andrej Karpathy最新两小时的采访。在这场深度对话中， Karpathy ...",
+      "published_at": "2025-10-19T11:18:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EWKsQdfnKj8/hqdefault.jpg"
+    },
     {
       "title": "【人工智能】人形机器人会是幻想么？| 机器人专家Rodney Brooks长文 | 机器人的发展历史 | 端到端学习 | 关键的预处理 | 灵活性 | 触觉反馈 | 人类的手 | 行走安全性",
       "video_id": "1YOo-LbXvW8",
@@ -27,62 +83,6 @@
       "description": "",
       "published_at": "2025-10-16T14:01:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/rADZ8xw3SA0/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】早期经验范式 | AI Agent正在迈向经验时代 | 让AI从自身试错中学习 | Rich Sutton | 隐式世界建模 | 自我反思 | 有效性 | 泛化性 | RL兼容性",
-      "video_id": "roAgE4glhqM",
-      "channel_title": "最佳拍档",
-      "description": "上周末，一篇来自META 超级智能实验室MSL、FAIR、俄亥俄州立大学的研究，提出了一个名为早期经验的中间路线。它的核心想法 ...",
-      "published_at": "2025-10-15T09:01:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/roAgE4glhqM/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】OpenAI的算力神话 | 万亿帝国还是巨大泡沫 | 20GW算力 | 英伟达 | AMD认股权证 | Oracle | CoreWeave | 融资压力巨大 | 星际之门 | 债务融资",
-      "video_id": "X2OXhK3IE4c",
-      "channel_title": "最佳拍档",
-      "description": "虽然OpenAI还没上市，却把马斯克的SpaceX甩在身后，成了全球估值最高的未上市初创企业；它一边烧钱百亿美元，一边却能撬动 ...",
-      "published_at": "2025-10-13T09:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X2OXhK3IE4c/hqdefault.jpg"
-    },
-    {
-      "title": "【分享】投资的本质是回归常识 | 彼得·林奇Peter Lynch最新访谈 | 46岁隐退的背后原因 | 从高尔夫球童到投资传奇 | 投资箴言 | AI热潮 | meme股",
-      "video_id": "fpMLFmbdxR4",
-      "channel_title": "最佳拍档",
-      "description": "最近富达投资（Fidelity Investments）专门为Peter Lynch做了一场深度访谈，内容涵盖了他当年隐退的真实原因、从高尔夫球童到 ...",
-      "published_at": "2025-10-10T09:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fpMLFmbdxR4/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】大语言模型是死路一条 | 强化学习之父Rich Sutton | 理解松鼠才能理解AGI | LLM的致命缺陷 | 经验学习范式 | 苦涩的教训 | 真正的泛化 | 持续学习 | 宇宙演化",
-      "video_id": "RLR4OpetiEc",
-      "channel_title": "最佳拍档",
-      "description": "就在最近，知名技术播客德瓦尔凯什播客（Dwarkesh Podcast），上线了与强化学习之父理查德·萨顿（Richard Sutton）的一期视频 ...",
-      "published_at": "2025-10-01T09:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RLR4OpetiEc/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】击败大模型推理的非确定性 | Thinking Machines | 批次不变性缺失 | 浮点数非结合性 | 归约化顺序 | 批次不变内核 | RMSNorm | 矩阵乘法 | 注意力机制",
-      "video_id": "eYq6Zc1M6pU",
-      "channel_title": "最佳拍档",
-      "description": "9月11日当天，Thinking Machines Lab正式推出了他们的研究博客，名字叫Connectionism，翻译过来就是联结主义。而博客的第一 ...",
-      "published_at": "2025-09-12T09:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eYq6Zc1M6pU/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】Meta遭遇AI人才大流失 | 天价挖人失效 | MSI | AI团队重组 | 新员工重回OpenAI | 老员工不满 | 为竞争对手培养人才 | 内部组织架构和文化问题",
-      "video_id": "5UWCU9_ojFw",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts Meta在AI团队最近的磨合重组的过程中，至少有8名骨干员工，包括研究 ...",
-      "published_at": "2025-08-29T10:45:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5UWCU9_ojFw/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】详解UE8M0 FP8 | DeepSeek为何一句话让寒武纪暴涨千亿市值 | 浮点数 | 量化 | MX | 缩放因子 | Blackwell | 狂欢后的冷静 | 渐进式演进",
-      "video_id": "zTdUzh-KVbE",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 最近，国产算力芯片领域有个词火了，那就是UE8M0 FP8。火爆的原因， ...",
-      "published_at": "2025-08-26T09:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zTdUzh-KVbE/hqdefault.jpg"
     }
   ]
 }

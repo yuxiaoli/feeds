@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-19T00:29:40.761751",
+  "fetched_at": "2025-10-26T00:29:01.310463",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "First Mello b2b @MartinGarrix",
+      "video_id": "zSpu0oQMklI",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-10-24T16:03:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zSpu0oQMklI/hqdefault.jpg"
+    },
     {
       "title": "Loss teaches what presence could never say. Holy Water music video out now.",
       "video_id": "87QMqHNhBr4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-06-17T19:32:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_6SJdUL8RdM/hqdefault.jpg"
-    },
-    {
-      "title": "I think they like the song @avaion &amp; @elliegouldingofficial #edm",
-      "video_id": "YaD-o7N3HGE",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-06-09T19:06:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YaD-o7N3HGE/hqdefault.jpg"
     }
   ]
 }

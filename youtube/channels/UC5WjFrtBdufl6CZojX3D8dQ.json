@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-10-19T00:29:32.897977",
+  "fetched_at": "2025-10-26T00:28:53.717545",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Tesla Q3 2025 Financial Results and Q&amp;A Webcast",
+      "video_id": "GQ9S7xbkGAY",
+      "channel_title": "Tesla",
+      "description": "Start of call: https://youtu.be/GQ9S7xbkGAY?t=594.",
+      "published_at": "2025-10-22T22:45:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GQ9S7xbkGAY/hqdefault.jpg"
+    },
+    {
+      "title": "Move any Model Y seat without leaving your seat",
+      "video_id": "mJxWpWRK4lw",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-10-22T16:22:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mJxWpWRK4lw/hqdefault.jpg"
+    },
     {
       "title": "TRON Mode",
       "video_id": "L0phoGxEeic",
@@ -11,14 +27,6 @@
       "description": "",
       "published_at": "2025-10-10T14:37:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/L0phoGxEeic/hqdefault.jpg"
-    },
-    {
-      "title": "TRON Mode",
-      "video_id": "2Jm95xz0Q3I",
-      "channel_title": "Tesla",
-      "description": "The grid has expanded to your Tesla — Tron: Ares software update rolling out now globally To enable: Toybox → Tron Mode ...",
-      "published_at": "2025-10-10T14:09:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2Jm95xz0Q3I/hqdefault.jpg"
     },
     {
       "title": "Change Today for Tomorrow | Megapack",
@@ -75,14 +83,6 @@
       "description": "Mike Snyder, VP of Tesla Energy, walks us through the next chapter of utility-scale energy storage. Megapack is our utility-scale ...",
       "published_at": "2025-09-17T22:54:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wNSS19XKXRE/hqdefault.jpg"
-    },
-    {
-      "title": "Poptimus at Tesla Diner",
-      "video_id": "7RxAS8Fujeo",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-09-07T17:57:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7RxAS8Fujeo/hqdefault.jpg"
     }
   ]
 }

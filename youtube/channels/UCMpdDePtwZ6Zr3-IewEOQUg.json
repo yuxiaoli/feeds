@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-10-19T00:29:54.209179",
+  "fetched_at": "2025-10-26T00:29:14.415725",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "[虚构科幻故事]當AI與外星文明對話：三天，換走了整個人類的知識",
+      "video_id": "v-JrZKuprB8",
+      "channel_title": "科學漫聊",
+      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
+      "published_at": "2025-10-21T13:45:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v-JrZKuprB8/hqdefault.jpg"
+    },
+    {
+      "title": "【虛構科幻】3I「阿特拉斯」來了：譜線暗碼、AI握手與人類被「收割」的那三天",
+      "video_id": "zURTNRVLlvA",
+      "channel_title": "科學漫聊",
+      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
+      "published_at": "2025-10-20T11:23:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zURTNRVLlvA/hqdefault.jpg"
+    },
     {
       "title": "光速不變的啟示：走進量子，走向生命｜六小時合集",
       "video_id": "ZNjRU35KST4",
@@ -67,22 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-09-13T12:16:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JsLLmemTKjo/hqdefault.jpg"
-    },
-    {
-      "title": "電，到底是什麼？",
-      "video_id": "Lxv-ejQif50",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-08-11T12:45:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Lxv-ejQif50/hqdefault.jpg"
-    },
-    {
-      "title": "我們的意識是量子電腦？科學與玄學的邊界",
-      "video_id": "ZTJMDX5wsC0",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-07-22T13:48:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZTJMDX5wsC0/hqdefault.jpg"
     }
   ]
 }

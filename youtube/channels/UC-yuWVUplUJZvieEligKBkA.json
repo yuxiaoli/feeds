@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-10-19T00:29:25.055511",
+  "fetched_at": "2025-10-26T00:28:45.910319",
   "channel_id": "UC-yuWVUplUJZvieEligKBkA",
   "channel_title": "javidx9",
   "count": 10,
@@ -19,6 +19,14 @@
       "description": "In this video I revisit Conway's Game Of Life, a cellular automata simulation with many interesting properties. I've covered this ...",
       "published_at": "2025-08-03T21:37:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/OqfHIujOvnE/hqdefault.jpg"
+    },
+    {
+      "title": "Code-It-Yourself! Remote Home Energy Monitor with ESP32, Websockets &amp; C++",
+      "video_id": "NJXEzL3peIA",
+      "channel_title": "javidx9",
+      "description": "Frustrated by the lack of information provided by my smart meter via my energy supplier, I set about building a system where I can ...",
+      "published_at": "2025-04-24T15:31:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NJXEzL3peIA/hqdefault.jpg"
     },
     {
       "title": "Aiming Cannons at Worms C++ (2 of 2) / featuring: Delta Light 2",
@@ -75,14 +83,6 @@
       "description": "In this video I use a Finite State Machine to parse complicated input into manageable tokens before feeding them to the Shunting ...",
       "published_at": "2024-06-09T13:15:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wrj3iuRdA-M/hqdefault.jpg"
-    },
-    {
-      "title": "DIY Programming Language #1: The Shunting Yard Algorithm",
-      "video_id": "unh6aK8WMwM",
-      "channel_title": "javidx9",
-      "description": "In this video I demonstrate how the Shunting Yard Algorithm works, and produce a simple implementatin to solve basic ...",
-      "published_at": "2024-05-03T20:26:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/unh6aK8WMwM/hqdefault.jpg"
     }
   ]
 }

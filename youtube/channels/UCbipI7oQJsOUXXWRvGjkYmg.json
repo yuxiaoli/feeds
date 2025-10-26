@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-10-19T00:30:08.180718",
+  "fetched_at": "2025-10-26T00:29:28.483552",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "When regular push up is too easy",
+      "video_id": "61KpBLq19ME",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2025-10-24T13:36:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/61KpBLq19ME/hqdefault.jpg"
+    },
+    {
+      "title": "Yoga Master Tried to Break a Calisthenics Pro",
+      "video_id": "ubxy9kbCJJA",
+      "channel_title": "Andry Strong",
+      "description": "Today, Jonah Kest - one of the world's top yoga teachers and the official yoga instructor for Nike App and Netflix — challenges me, ...",
+      "published_at": "2025-10-19T16:07:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ubxy9kbCJJA/hqdefault.jpg"
+    },
     {
       "title": "The Craziest Jump Ever",
       "video_id": "OvWvTJIR71E",
@@ -67,22 +83,6 @@
       "description": "I flew all the way to Bulgaria to face a 2-time world champion and one of the strongest PLANCHE athletes in the world - Viktor ...",
       "published_at": "2025-08-24T13:31:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_asvSOGncuI/hqdefault.jpg"
-    },
-    {
-      "title": "I Tried One of the Hardest Skill",
-      "video_id": "ynXgp15dHdY",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-08-22T12:41:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ynXgp15dHdY/hqdefault.jpg"
-    },
-    {
-      "title": "Can the STRONGEST athlete succeed in MY Challenge?",
-      "video_id": "_XoZkknlYkI",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-08-20T10:34:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_XoZkknlYkI/hqdefault.jpg"
     }
   ]
 }
