@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-10-26T00:29:31.954186",
+  "fetched_at": "2025-11-02T00:30:01.810222",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Worth the wait | Bang &amp; Olufsen",
+      "video_id": "nv2RoSJESA0",
+      "channel_title": "Bang & Olufsen",
+      "description": "Room for one more? Find the perfect gift: https://www.bang-olufsen.com/en/story/find-perfect-gifts #BangOlufsen.",
+      "published_at": "2025-10-31T15:01:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nv2RoSJESA0/hqdefault.jpg"
+    },
+    {
+      "title": "Worth the Wait | Bang &amp; Olufsen",
+      "video_id": "-ciXth4JwnU",
+      "channel_title": "Bang & Olufsen",
+      "description": "Room for one more? Find the perfect gift: https://www.bang-olufsen.com/en/story/find-perfect-gifts #BangOlufsen.",
+      "published_at": "2025-10-31T15:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-ciXth4JwnU/hqdefault.jpg"
+    },
     {
       "title": "The Centennial Collection | Bang &amp; Olufsen",
       "video_id": "cx9buVL2TZw",
@@ -67,22 +83,6 @@
       "description": "Where speed rests and sound takes over. #BangOlufsen.",
       "published_at": "2025-09-02T13:00:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/OZdTBH_IRkY/hqdefault.jpg"
-    },
-    {
-      "title": "Bang &amp; Olufsen | Charles Leclerc",
-      "video_id": "q9xq3Xyr540",
-      "channel_title": "Bang & Olufsen",
-      "description": "Where speed rests and sound takes over. #BangOlufsen.",
-      "published_at": "2025-09-02T13:01:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q9xq3Xyr540/hqdefault.jpg"
-    },
-    {
-      "title": "Sound Travels",
-      "video_id": "PexwryD0qp8",
-      "channel_title": "Bang & Olufsen",
-      "description": "See the sights. Hear the difference. #BangOlufsen #Soundtravels.",
-      "published_at": "2025-08-08T10:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PexwryD0qp8/hqdefault.jpg"
     }
   ]
 }

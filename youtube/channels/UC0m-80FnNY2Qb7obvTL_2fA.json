@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-26T00:28:47.980513",
+  "fetched_at": "2025-11-02T00:29:17.612366",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
+    {
+      "title": "Contentsquare scales customer experience with Microsoft Marketplace",
+      "video_id": "l126PR8OENU",
+      "channel_title": "Microsoft Azure",
+      "description": "Contentsquare chose Microsoft Marketplace to scale enterprise reach, close deals faster, and drive larger contract value.",
+      "published_at": "2025-10-29T14:01:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l126PR8OENU/hqdefault.jpg"
+    },
     {
       "title": "Azure Container Storage for AKS | Free, Fast, Open‑Source Storage for Kubernetes on Azure",
       "video_id": "BZsQ5_odYfU",
@@ -75,14 +83,6 @@
       "description": "Catch up on the highlights from Satya Nadella's Microsoft Build keynote, tailored for software companies. Read about the latest ...",
       "published_at": "2025-05-29T14:01:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/f7POcnSsGzY/hqdefault.jpg"
-    },
-    {
-      "title": "Software development is an act of empathy | Kilimo",
-      "video_id": "c7R6auLG6fg",
-      "channel_title": "Microsoft Azure",
-      "description": "Water is fundamental to our existence, but only a tiny fraction of fresh water on Earth is available to sustain life. How can we ...",
-      "published_at": "2025-05-28T16:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c7R6auLG6fg/hqdefault.jpg"
     }
   ]
 }

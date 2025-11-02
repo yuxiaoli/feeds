@@ -1,64 +1,56 @@
 {
-  "fetched_at": "2025-10-26T00:28:52.971371",
+  "fetched_at": "2025-11-02T00:29:22.623886",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "Follow these roadmaps if you&#39;re a developer!",
-      "video_id": "qMaY3WVUatw",
+      "title": "Powerful advice from a proffesional developer.",
+      "video_id": "FLAzwdj2Ncw",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-10-25T18:29:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qMaY3WVUatw/hqdefault.jpg"
+      "published_at": "2025-11-01T20:15:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FLAzwdj2Ncw/hqdefault.jpg"
     },
     {
-      "title": "The importance of IDE for developers!",
-      "video_id": "xgExk2X2YsM",
+      "title": "Blitzy vs Devin vs Factory: Which AI Platform is The Best?",
+      "video_id": "cliZ-VzQxkE",
+      "channel_title": "Tech With Tim",
+      "description": "Today, I'm putting three of the most hyped AI coding platforms to the test: Blitzy, Devin, and Factory AI. Now, each of these tools ...",
+      "published_at": "2025-11-01T13:58:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cliZ-VzQxkE/hqdefault.jpg"
+    },
+    {
+      "title": "Should you use AI as a beginner developer?",
+      "video_id": "1-Ic_HtNS_U",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-10-24T18:25:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xgExk2X2YsM/hqdefault.jpg"
+      "published_at": "2025-10-31T21:26:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1-Ic_HtNS_U/hqdefault.jpg"
     },
     {
-      "title": "What Programming Language to Learn in 2025 and WHY",
-      "video_id": "8BBHhLioIus",
-      "channel_title": "Tech With Tim",
-      "description": "Go to https://sponsr.is/kinsta_techwithtim or scan QR Code on the screen to get your first month of Managed WordPress Hosting ...",
-      "published_at": "2025-10-24T15:25:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8BBHhLioIus/hqdefault.jpg"
-    },
-    {
-      "title": "How to set up an AI agent in Python.",
-      "video_id": "45zmYzsn6r8",
+      "title": "Is college ACTUALLY worth it?",
+      "video_id": "Rq9GYPPkwPY",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-10-23T19:06:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/45zmYzsn6r8/hqdefault.jpg"
+      "published_at": "2025-10-30T19:24:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Rq9GYPPkwPY/hqdefault.jpg"
     },
     {
-      "title": "Check my bio for my full blueprint on how to land a high paying developer job.",
-      "video_id": "-clUWNxlhq8",
+      "title": "Learn Fast API With This ONE Project",
+      "video_id": "SR5NYCdzKkc",
+      "channel_title": "Tech With Tim",
+      "description": "ImageKit is an image and video API plus AI-Powered DAM that we use in this project to handle all of our image and video ...",
+      "published_at": "2025-10-30T13:26:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault.jpg"
+    },
+    {
+      "title": "Make sure you code is as portable as possible.",
+      "video_id": "kV37p-VLh9s",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-10-22T17:56:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-clUWNxlhq8/hqdefault.jpg"
-    },
-    {
-      "title": "Lovable for WordPress? The First AI WordPress Builder is Here",
-      "video_id": "lINdySGmi3Y",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with 10Web: https://10web.io/?utm_source=YouTube&utm_medium=Influencer&utm_campaign=TimwithTech ...",
-      "published_at": "2025-10-20T19:43:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lINdySGmi3Y/hqdefault.jpg"
-    },
-    {
-      "title": "How I Would Learn Python Web Development If I Started Over",
-      "video_id": "eOuCaQtlql8",
-      "channel_title": "Tech With Tim",
-      "description": "Deploy your applications and services today using Railway and get $20 in free credits! https://railway.com?referralCode=30tGFE If ...",
-      "published_at": "2025-10-10T17:52:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eOuCaQtlql8/hqdefault.jpg"
+      "published_at": "2025-10-29T18:54:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kV37p-VLh9s/hqdefault.jpg"
     },
     {
       "title": "The only video you need to watch if you want to become a software engineer!",
@@ -83,6 +75,14 @@
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
       "published_at": "2025-07-04T02:52:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
+    },
+    {
+      "title": "How to get ahead of 99% of devs in 2025",
+      "video_id": "DJqGKv_q3bA",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-06-09T06:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DJqGKv_q3bA/hqdefault.jpg"
     }
   ]
 }

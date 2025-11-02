@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-26T00:29:29.847107",
+  "fetched_at": "2025-11-02T00:29:59.742899",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Learn to align LLMs through post-training in this new course with AMD!",
+      "video_id": "CkQBJxjgXt4",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/47ict9O Learn to align and optimize LLMs for real-world applications through post-training. In this course ...",
+      "published_at": "2025-10-28T16:08:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CkQBJxjgXt4/hqdefault.jpg"
+    },
     {
       "title": "Integrate data governance into your agent&#39;s workflow in this new course!",
       "video_id": "Mv27yTV7CFI",
@@ -75,14 +83,6 @@
       "description": "Learn more: https://bit.ly/4fjWxaI Claude Code is one of the most capable AI coding assistants today, able to autonomously ...",
       "published_at": "2025-08-06T13:45:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GqjvaBUk3Tc/hqdefault.jpg"
-    },
-    {
-      "title": "New course: Pydantic for LLM Workflows",
-      "video_id": "EXOp8WDa-Xk",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4fepmFI In Pydantic for LLM Workflows, taught by Ryan Keenan, Director of the Learning Experience Lab ...",
-      "published_at": "2025-07-30T13:40:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EXOp8WDa-Xk/hqdefault.jpg"
     }
   ]
 }

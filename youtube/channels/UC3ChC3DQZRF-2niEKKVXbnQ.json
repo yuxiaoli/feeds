@@ -1,14 +1,38 @@
 {
-  "fetched_at": "2025-10-26T00:28:50.816160",
+  "fetched_at": "2025-11-02T00:29:20.470262",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
     {
+      "title": "Cursor 终于有自己的大模型啦！来看实测！",
+      "video_id": "r34YWGVGZGg",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来 Cursor-Composer-1 的测试结果: 大象牙膏测试中, 效果一般, 而且输出特别不稳定, 一会效果像下雨, 一会又像泡泡一样飘 ...",
+      "published_at": "2025-10-30T00:28:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r34YWGVGZGg/hqdefault.jpg"
+    },
+    {
+      "title": "Cursor 推出炼蛊模式！一口气能开8个代理！",
+      "video_id": "BB2-NwEP0EI",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Cursor 2.0 更新内容！这个分量的确够得上一个大版本更新。 首先，推出了炼蛊模式，你最多可以开8个Agent 并行运行 ...",
+      "published_at": "2025-10-29T21:44:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BB2-NwEP0EI/hqdefault.jpg"
+    },
+    {
+      "title": "Minimax M2 实测! 你也晚了3个月?",
+      "video_id": "HjrqtfTC3so",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Minimax M2 的测试结果: 同样, 所有的three js 测试, 全都有包引用错误, 也都是我修了一次才能运行的画面. 大象牙膏测试 ...",
+      "published_at": "2025-10-26T01:12:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HjrqtfTC3so/hqdefault.jpg"
+    },
+    {
       "title": "KAT-Coder-Pro-V1 实测! 早放3个月就好了?",
       "video_id": "FeOEuKulU1E",
       "channel_title": "Karminski-牙医",
-      "description": "给大家带来 kat coder pro v1 的测试结果: 首先, 所有的 three js 测试, 全都有包引用错误, 你所看到的所有演示都是我修了一次才能运行 ...",
+      "description": "给大家带来kat coder pro v1 的测试结果: 首先, 所有的three js 测试, 全都有包引用错误, 你所看到的所有演示都是我修了一次才能运行 ...",
       "published_at": "2025-10-25T00:20:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FeOEuKulU1E/hqdefault.jpg"
     },
@@ -59,30 +83,6 @@
       "description": "给大家带来DeepSeek V3.2 的测试结果, 直接说结论: 写代码方面没质的变化, 但是由于使用了DSA 新技术, 这次召回带来了摧枯拉朽 ...",
       "published_at": "2025-09-30T00:37:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xYjVAB4cUXY/hqdefault.jpg"
-    },
-    {
-      "title": "刚发布的 Qwen3-TTS-Flash 实测!",
-      "video_id": "cEygpB2PPqc",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来刚发布的Qwen3-TTS-Flash 实测，直接说结论。 试了8个中文模型均表现良好，很稳定，没有遇到偶尔中文吐字不清的 ...",
-      "published_at": "2025-09-22T20:32:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cEygpB2PPqc/hqdefault.jpg"
-    },
-    {
-      "title": "库克, 我们需要这个",
-      "video_id": "wkDPaUnhEmE",
-      "channel_title": "Karminski-牙医",
-      "description": "iphone 17 已经发布一周了，我个人觉得今年这个星宇橙色真的一言难尽，那如果是其他颜色，比如粉色，会好看吗？ 于是我分析了 ...",
-      "published_at": "2025-09-18T23:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wkDPaUnhEmE/hqdefault.jpg"
-    },
-    {
-      "title": "Qwen3-Next-80B-A3B 实测! 能跟头部模型对打吗?",
-      "video_id": "I69r_fEKabw",
-      "channel_title": "Karminski-牙医",
-      "description": "直接说结论, 能完成我这个大象牙膏测试的一部分, 已经很厉害了, Python 杯子倒水那个测试表现也可圈可点. 来看测试中暴露出来的 ...",
-      "published_at": "2025-09-12T02:59:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I69r_fEKabw/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-10-26T00:28:46.607784",
+  "fetched_at": "2025-11-02T00:29:16.191631",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Haunted Office",
+      "video_id": "lcm8arnc9ew",
+      "channel_title": "Meta",
+      "description": "POV: you're a ghost at the Meta office.",
+      "published_at": "2025-10-31T18:46:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lcm8arnc9ew/hqdefault.jpg"
+    },
+    {
+      "title": "Meta AI Magic",
+      "video_id": "cMb8YaEX_6g",
+      "channel_title": "Meta",
+      "description": "it's not magic - it's Meta AI.",
+      "published_at": "2025-10-30T16:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cMb8YaEX_6g/hqdefault.jpg"
+    },
+    {
+      "title": "Camera Roll",
+      "video_id": "IY5GZzNKjHY",
+      "channel_title": "Meta",
+      "description": "we scroll and we don't judge.",
+      "published_at": "2025-10-27T14:30:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IY5GZzNKjHY/hqdefault.jpg"
+    },
     {
       "title": "You Got This",
       "video_id": "DdIDMbz_mCU",
@@ -59,30 +83,6 @@
       "description": "solid advice.",
       "published_at": "2025-09-24T15:00:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/OtM0bXfLv14/hqdefault.jpg"
-    },
-    {
-      "title": "Meta Ray-Ban Display + Meta Neural Band Q&amp;A",
-      "video_id": "jd2eryKv6u8",
-      "channel_title": "Meta",
-      "description": "You've got questions, Olivia's got answers.",
-      "published_at": "2025-09-21T21:30:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jd2eryKv6u8/hqdefault.jpg"
-    },
-    {
-      "title": "Three Principles for AI Glasses",
-      "video_id": "zNeCc_vzc5c",
-      "channel_title": "Meta",
-      "description": "how do we make great AI glasses? simple.",
-      "published_at": "2025-09-21T20:17:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zNeCc_vzc5c/hqdefault.jpg"
-    },
-    {
-      "title": "They Are the Moment",
-      "video_id": "nBlhb5Zb9Ys",
-      "channel_title": "Meta",
-      "description": "Meta Ray-Ban Display + Meta Neural Band = this fall's iconic duo.",
-      "published_at": "2025-09-21T19:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nBlhb5Zb9Ys/hqdefault.jpg"
     }
   ]
 }

@@ -1,80 +1,48 @@
 {
-  "fetched_at": "2025-10-26T00:29:05.481473",
+  "fetched_at": "2025-11-02T00:29:35.355413",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "【人工智能】AI战争的背后 | SemiAnalysis创始人Dylan Patel | 算力货币 | 英伟达是中央银行 | AI的话语权 | 服务商链条 | 强化学习 | 巨头创新 | 冲击软件行业",
-      "video_id": "hEogqc9NrlM",
+      "title": "【人工智能】OpenAI完成公司架构重组 | PBC | 投入250亿美元 | 和微软签署新长期协议 | 公开AI发展时间线 | 2028年自动AI研究员 | 对齐的五层结构 | GPT6 | IPO",
+      "video_id": "jTBV3Jb07yE",
       "channel_title": "最佳拍档",
-      "description": "SemiAnalysis的创始人兼CEO迪伦·帕特尔（Dylan Patel），最近在《Invest Like The Best》的访谈里说道，算力才是AI世界的货币 ...",
-      "published_at": "2025-10-25T01:30:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hEogqc9NrlM/hqdefault.jpg"
+      "description": "10月28号和29号，OpenAI不仅重构了自己的组织架构，从之前的非营利机构转型成了公益型公司PBC；CEO山姆·奥特曼还和首席 ...",
+      "published_at": "2025-11-01T09:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jTBV3Jb07yE/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】智能正在成为一种商品 | Jason Wei斯坦福演讲 | AI的三个核心思想 | 计算和知识的成本正在趋近于零 | 验证者法则 | 锯齿状前沿 | 自适应计算 | 快速起飞不太可能实现",
-      "video_id": "Bma6tHQYaD4",
+      "title": "【人工智能】下个阿波罗时刻 | 英伟达GTC25黄仁勋演讲 | CUDA-X全栈加速库 | Vera Rubin芯片 | 新一代超级计算机 | 投资诺基亚10亿美元 | NVQLink | AI劳动力",
+      "video_id": "xefsis6QGG0",
       "channel_title": "最佳拍档",
-      "description": "上周，斯坦福大学AI 俱乐部邀请了Jason Wei作为嘉宾，进行了一场精彩的演讲。Jason Wei 目前在Meta Superintelligence labs ...",
-      "published_at": "2025-10-23T09:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Bma6tHQYaD4/hqdefault.jpg"
+      "description": "美东时间10月28日，黄仁勋在华盛顿举办的GTC 大会上，发表了一场重要的主题演讲，他用一系列人类历史创新的剪影作为开场， ...",
+      "published_at": "2025-10-31T10:11:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xefsis6QGG0/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】DeepSeek-OCR开源 | OCR识别 | 用视觉Token实现文本压缩 | 超长文本新思路 | 10倍压缩仍可保持97%精度 | DeepEncoder | MoE解码器 | 训练",
-      "video_id": "5C5pRcLFKys",
+      "title": "【人工智能】英伟达爆发增长的关键原因 | CTO Michael Kagan | 收购Mellanox | GPU算力的扩展问题 | 网络抖动 | BlueField DPU | 双赢的企业文化",
+      "video_id": "MrreyJEorAE",
       "channel_title": "最佳拍档",
-      "description": "而今天我们要聊的这款模型，可能为解决模型的长文本困局，提供了一个全新的方向，它不是靠着堆砌更大的参数、更宽的上下文 ...",
-      "published_at": "2025-10-22T09:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5C5pRcLFKys/hqdefault.jpg"
+      "description": "10月28日，在红杉资本（Sequoia Capital）的欧洲100活动上，英伟达现任首席技术官（CTO）迈克尔·卡根（Michael Kagan）接受 ...",
+      "published_at": "2025-10-30T09:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MrreyJEorAE/hqdefault.jpg"
     },
     {
-      "title": "【访谈】极致自律能带来怎样的顶级人生 | Telegram创始人Pavel Durov | 对自由的执念 | 拒绝酒精和手机 | 每天坚持300个俯卧撑 | 隐私保护的底线 | 天才哥哥 | 理想主义",
-      "video_id": "2GQWeUSAPqQ",
+      "title": "【人工智能】在线策略蒸馏On-Policy Distillation | Thinking Machines Lab新作 | 训练阶段 | 在线训练 | 离线训练 | 反向KL散度 | LoRA",
+      "video_id": "lLMEtL3PVj4",
       "channel_title": "最佳拍档",
-      "description": "最近，我反复听了莱克斯·弗里德曼（Lex Fridman）对帕维尔的播客专访，整个对话从个人哲学延伸到了科技伦理，从地缘政治谈 ...",
-      "published_at": "2025-10-21T09:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2GQWeUSAPqQ/hqdefault.jpg"
+      "description": "Thinking Machines Lab最新发布的技术文章，在线策略蒸馏，这是一种将强化学习的纠错相关性，与监督微调的奖励密度相结合的 ...",
+      "published_at": "2025-10-29T11:45:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lLMEtL3PVj4/hqdefault.jpg"
     },
     {
-      "title": "【AI动态】每日科技新闻 | 20251020 | GPT5数学突破闹乌龙 | Opera Neon浏览器问题 | Gemini将狗识别成猫 | 宇树发布仿生机器人H2 | AI助手CiCi霸榜海外",
-      "video_id": "O58Icrc1J1M",
+      "title": "【人工智能】ASI会在十年内实现 | Gavin Baker | AI的飞轮效应 | 人才战争与囚徒困境 | 英伟达地位难撼动 | 台积电与英特尔 | SpaceX将是东印度公司 | 星链",
+      "video_id": "Lpp-D6UqNW8",
       "channel_title": "最佳拍档",
-      "description": "https://www.theverge.com/tech/801899/opera-neon-ai-browser-trial-run ...",
-      "published_at": "2025-10-20T13:11:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O58Icrc1J1M/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】Agentic上下文工程ACE | 让大模型通过上下文实现自我提升 | 上下文适配 | 简洁性偏差 | 上下文坍缩 | 生成器 | 反思器 | 整理器 | 增量更新 | 生长精炼",
-      "video_id": "FBCpVPWv7us",
-      "channel_title": "最佳拍档",
-      "description": "今天我们要解读的这篇论文，是来自斯坦福大学、SambaNova Systems和加州大学伯克利分校联合团队的最新成果，ACE框架， ...",
-      "published_at": "2025-10-20T11:03:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FBCpVPWv7us/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】AGI还有十年之遥 | Andrej Karpathy最新访谈 | 幽灵与动物 | AI是一种不同的智能 | 大模型的关键缺陷 | 强化学习很糟糕 | AGI不会带来经济暴涨 | AI教育",
-      "video_id": "EWKsQdfnKj8",
-      "channel_title": "最佳拍档",
-      "description": "前两天，德瓦克什·帕特尔Dwarkesh Patel 放出了跟安德烈·卡帕西Andrej Karpathy最新两小时的采访。在这场深度对话中， Karpathy ...",
-      "published_at": "2025-10-19T11:18:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EWKsQdfnKj8/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】人形机器人会是幻想么？| 机器人专家Rodney Brooks长文 | 机器人的发展历史 | 端到端学习 | 关键的预处理 | 灵活性 | 触觉反馈 | 人类的手 | 行走安全性",
-      "video_id": "1YOo-LbXvW8",
-      "channel_title": "最佳拍档",
-      "description": "机器人领域的活化石，罗德尼·布鲁克斯（Rodney Brooks），他在最新的博客里直言，当前的类人机器人，就算砸再多的钱，也学不 ...",
-      "published_at": "2025-10-18T13:13:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1YOo-LbXvW8/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】AI的商业鸿沟 | MIT NANDA报告 | 95%的企业AI投资没有回报 | 为何高采用低转型 | 颠覆指数 | 死亡谷 | 影子AI经济 | AI无法持续学习 | 智能体网络",
-      "video_id": "v19z3lKz418",
-      "channel_title": "最佳拍档",
-      "description": "麻省理工学院NANDA项目，发布了一份《2025年商业AI现状报告》。报告给出了一个足够震撼的结论，那就是尽管企业在生成式AI ...",
-      "published_at": "2025-10-17T09:01:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v19z3lKz418/hqdefault.jpg"
+      "description": "10月22日，《Invested》播客对半导体与AI界的顶尖专家，Atreides Management的管理合伙人加文·贝克（Gavin Baker），进行了 ...",
+      "published_at": "2025-10-28T09:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lpp-D6UqNW8/hqdefault.jpg"
     },
     {
       "title": "【AI动态】每日科技新闻 | 20251016 | 谷歌正式推出Veo 3.1 | 基于Gemma的单细胞分析模型 | Coral NPU | AI音乐疗法 | Claude Haiku 4.5",
@@ -83,6 +51,38 @@
       "description": "",
       "published_at": "2025-10-16T14:01:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/rADZ8xw3SA0/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】击败大模型推理的非确定性 | Thinking Machines | 批次不变性缺失 | 浮点数非结合性 | 归约化顺序 | 批次不变内核 | RMSNorm | 矩阵乘法 | 注意力机制",
+      "video_id": "eYq6Zc1M6pU",
+      "channel_title": "最佳拍档",
+      "description": "9月11日当天，Thinking Machines Lab正式推出了他们的研究博客，名字叫Connectionism，翻译过来就是联结主义。而博客的第一 ...",
+      "published_at": "2025-09-12T09:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eYq6Zc1M6pU/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】Meta遭遇AI人才大流失 | 天价挖人失效 | MSI | AI团队重组 | 新员工重回OpenAI | 老员工不满 | 为竞争对手培养人才 | 内部组织架构和文化问题",
+      "video_id": "5UWCU9_ojFw",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts Meta在AI团队最近的磨合重组的过程中，至少有8名骨干员工，包括研究 ...",
+      "published_at": "2025-08-29T10:45:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5UWCU9_ojFw/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】详解UE8M0 FP8 | DeepSeek为何一句话让寒武纪暴涨千亿市值 | 浮点数 | 量化 | MX | 缩放因子 | Blackwell | 狂欢后的冷静 | 渐进式演进",
+      "video_id": "zTdUzh-KVbE",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 最近，国产算力芯片领域有个词火了，那就是UE8M0 FP8。火爆的原因， ...",
+      "published_at": "2025-08-26T09:01:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zTdUzh-KVbE/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】从不被认可走向行业突破 | 吴恩达回忆谷歌经历 | X实验室 | 规模决定性能 | 单一学习算法 | Larry Page | Jeff Dean | Coursera | AI Fund",
+      "video_id": "ql7qed1r7nU",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 8月8日，吴恩达接受了The Moonshot播客的专访，围绕吴恩达的学术生涯 ...",
+      "published_at": "2025-08-24T09:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ql7qed1r7nU/hqdefault.jpg"
     }
   ]
 }

@@ -1,72 +1,72 @@
 {
-  "fetched_at": "2025-10-26T00:28:59.205822",
+  "fetched_at": "2025-11-02T00:29:29.000567",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 8,
   "videos": [
     {
+      "title": "Voice to Visuals | Unreal Fest Stockholm",
+      "video_id": "2K0ud-FQEpQ",
+      "channel_title": "Unreal Engine",
+      "description": "At Unreal Fest, Voice to Visuals brought together Unreal Engine's most powerful animation tools to show how expressive ...",
+      "published_at": "2025-10-31T15:45:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2K0ud-FQEpQ/hqdefault.jpg"
+    },
+    {
+      "title": "The Road to 60 fps in The Witcher 4 Unreal Engine 5 Tech Demo | Unreal Fest Orlando 2025",
+      "video_id": "ji0Hfiswcjo",
+      "channel_title": "Unreal Engine",
+      "description": "Over the past year, we transformed the rendering, animation, and streaming pipelines in The Witcher 4 Unreal Engine 5 Tech ...",
+      "published_at": "2025-10-31T10:05:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ji0Hfiswcjo/hqdefault.jpg"
+    },
+    {
+      "title": "Physics | Creating in Fortnite",
+      "video_id": "2_iIDjU5qJo",
+      "channel_title": "Unreal Engine",
+      "description": "Event Info: Join us for an exciting session where we'll dive deep into the latest Fortnite Creative and Unreal Editor for Fortnite ...",
+      "published_at": "2025-10-30T20:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2_iIDjU5qJo/hqdefault.jpg"
+    },
+    {
+      "title": "Motion Design in Unreal Engine, Episode 09: Responsive Templates",
+      "video_id": "Y4UcSkt-r-M",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) explores the ...",
+      "published_at": "2025-10-30T16:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y4UcSkt-r-M/hqdefault.jpg"
+    },
+    {
+      "title": "Procedural Content Generation for Entertainment Venue Design | Unreal Fest Stockholm 2025",
+      "video_id": "DDJdaPhOroQ",
+      "channel_title": "Unreal Engine",
+      "description": "This session recorded at Unreal Fest Stockholm explores procedural content generation (PCG) techniques for large-scale ...",
+      "published_at": "2025-10-30T14:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DDJdaPhOroQ/hqdefault.jpg"
+    },
+    {
+      "title": "The Unreal Engine Student Showcase 2025",
+      "video_id": "xNmYtr9nI5k",
+      "channel_title": "Unreal Engine",
+      "description": "Watch our Student Showcase 2025 for a glimpse at some of the inspiring Unreal Engine projects students have been working on ...",
+      "published_at": "2025-10-29T14:15:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xNmYtr9nI5k/hqdefault.jpg"
+    },
+    {
       "title": "LEGO® Prototyping | UEFN Build Along",
       "video_id": "44Fp_mpHSb0",
       "channel_title": "Unreal Engine",
       "description": "Come build a LEGO® experience with us from the ground up - and answer your questions live! October 28th @ 2 PM ET ...",
-      "published_at": "2025-10-24T22:42:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/44Fp_mpHSb0/hqdefault_live.jpg"
+      "published_at": "2025-10-28T20:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/44Fp_mpHSb0/hqdefault.jpg"
     },
     {
-      "title": "10 Years of MegaJam Sizzle Reel",
-      "video_id": "OkECEJi9qRY",
+      "title": "AFRY uses UE5 to visualize heavy datasets for large infrastructure projects",
+      "video_id": "IiQOmj2gDH4",
       "channel_title": "Unreal Engine",
-      "description": "As we celebrate the 2025 Epic MegaJam, we also mark a significant milestone-10 years of MegaJams. It's a time to look back with ...",
-      "published_at": "2025-10-24T11:48:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OkECEJi9qRY/hqdefault.jpg"
-    },
-    {
-      "title": "Exploring the Sports Broadcast: Motion Design Sample | Inside Unreal",
-      "video_id": "YiMh6bEebIs",
-      "channel_title": "Unreal Engine",
-      "description": "This week we'll be discussing the Unreal Motion Design toolset with this feature-packed sample project created in collaboration ...",
-      "published_at": "2025-10-23T20:07:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YiMh6bEebIs/hqdefault.jpg"
-    },
-    {
-      "title": "Debugging Unreal Engine Projects: Lightning Round | Unreal Fest Bali 2025",
-      "video_id": "B5LwNjjU1o4",
-      "channel_title": "Unreal Engine",
-      "description": "Every successful Unreal Engine developer is a sum of all the tips and tricks they've picked up along the way to debug their ...",
-      "published_at": "2025-10-23T08:16:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B5LwNjjU1o4/hqdefault.jpg"
-    },
-    {
-      "title": "Navigating the Job Market as an Emerging Creator | Career Connections",
-      "video_id": "99AqgMigt1s",
-      "channel_title": "Unreal Engine",
-      "description": "In this video from the Epic Games Career Connections series, Amir Satvat of Tencent Games discusses the current state of the ...",
-      "published_at": "2025-10-22T12:18:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/99AqgMigt1s/hqdefault.jpg"
-    },
-    {
-      "title": "Leveraging PCG for Building and City Creation | Unreal Fest Bali 2025",
-      "video_id": "Bh8QJqhJU94",
-      "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Bali 2025, Daniel Mor of Virtuos provides an in-depth look at the power of procedural ...",
-      "published_at": "2025-10-21T11:40:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Bh8QJqhJU94/hqdefault.jpg"
-    },
-    {
-      "title": "Creating Performant MetaHuman Characters in Unreal Engine | Unreal Fest Bali 2025",
-      "video_id": "tTgMafRAM7A",
-      "channel_title": "Unreal Engine",
-      "description": "The MetaHuman plugin for Unreal Engine empowers users to craft highly realistic characters, pose them, and animate them ...",
-      "published_at": "2025-10-21T11:25:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tTgMafRAM7A/hqdefault.jpg"
-    },
-    {
-      "title": "How an Indie Animation Team of Four Uses UE5 to Produce BellyFant",
-      "video_id": "LX_XC_MuGc4",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video to discover how a small indie team of just four uses Unreal Engine to produce BellyFant—and how they've ...",
-      "published_at": "2025-10-20T13:59:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LX_XC_MuGc4/hqdefault.jpg"
+      "description": "Accurately visualizing all the forests, roads, and rivers that surround large-scale infrastructure projects requires the processing of ...",
+      "published_at": "2025-10-28T14:29:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IiQOmj2gDH4/hqdefault.jpg"
     }
   ]
 }

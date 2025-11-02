@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2025-10-26T00:29:24.254738",
+  "fetched_at": "2025-11-02T00:29:54.282644",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Monster Manor by Sora 2",
+      "video_id": "9DyK0Ig6_Rc",
+      "channel_title": "OpenAI",
+      "description": "Happy Halloween from Sora and the monsters of Monster Manor. Created using characters, now available in the Sora app.",
+      "published_at": "2025-10-31T18:22:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9DyK0Ig6_Rc/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing: Sora 2 Character Cameos",
+      "video_id": "kb9suz-kkoM",
+      "channel_title": "OpenAI",
+      "description": "Now available in the Sora app.",
+      "published_at": "2025-10-30T19:24:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kb9suz-kkoM/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: AgentKit",
+      "video_id": "sAitLFLbgDA",
+      "channel_title": "OpenAI",
+      "description": "Introducing AgentKit—build, deploy, and optimize agentic workflows with a complete set of tools. This Build Hour demos how to ...",
+      "published_at": "2025-10-29T20:21:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sAitLFLbgDA/hqdefault.jpg"
+    },
+    {
+      "title": "MIXI accelerates secure, organization-wide adoption of ChatGPT Enterprise",
+      "video_id": "vSxQXq0Sxow",
+      "channel_title": "OpenAI",
+      "description": "MIXI deployed ChatGPT Enterprise to all employees in 45 days, reaching 80%+ weekly usage within three months and creating ...",
+      "published_at": "2025-10-29T19:55:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vSxQXq0Sxow/hqdefault.jpg"
+    },
+    {
+      "title": "ENEOS Materials accelerates manufacturing productivity with ChatGPT Enterprise",
+      "video_id": "F76OjIk6_ko",
+      "channel_title": "OpenAI",
+      "description": "As one of Japan's earliest adopters of ChatGPT Enterprise, ENEOS Materials built 1000+ custom GPTs, achieved 90%+ weekly ...",
+      "published_at": "2025-10-29T19:55:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F76OjIk6_ko/hqdefault.jpg"
+    },
+    {
+      "title": "Sam, Jakub, and Wojciech on the future of OpenAI with audience Q&amp;A",
+      "video_id": "ngDCxlZcecw",
+      "channel_title": "OpenAI",
+      "description": "",
+      "published_at": "2025-10-29T16:41:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ngDCxlZcecw/hqdefault.jpg"
+    },
+    {
+      "title": "Build beautiful frontends with OpenAI Codex",
+      "video_id": "fK_bm84N7bs",
+      "channel_title": "OpenAI",
+      "description": "Codex's multimodal abilities can help you design, iterate, and build beautiful frontends for your apps. Channing Conger and ...",
+      "published_at": "2025-10-27T15:57:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fK_bm84N7bs/hqdefault.jpg"
+    },
     {
       "title": "Intro to scrolling tabs in ChatGPT Atlas",
       "video_id": "nEwLBO8e0Dw",
@@ -27,62 +83,6 @@
       "description": "AppleDsign.",
       "published_at": "2025-10-23T18:57:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qqd4Sb-PKG4/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing ChatGPT Atlas",
-      "video_id": "8UWKxJbjriY",
-      "channel_title": "OpenAI",
-      "description": "Introducing our new browser, ChatGPT Atlas. Sam Altman, Will Ellsworth, Adam Fry, Ben Goodger, Ryan O'Rouke, Justin Rushing ...",
-      "published_at": "2025-10-21T17:52:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8UWKxJbjriY/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing ChatGPT Atlas",
-      "video_id": "Ej6hnsQgV_c",
-      "channel_title": "OpenAI",
-      "description": "Meet our new browser—ChatGPT Atlas. With Atlas, ChatGPT can come with you anywhere across the web—helping you in the ...",
-      "published_at": "2025-10-21T17:22:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ej6hnsQgV_c/hqdefault.jpg"
-    },
-    {
-      "title": "Space with ChatGPT",
-      "video_id": "9wxmlwRaZHc",
-      "channel_title": "OpenAI",
-      "description": "Find the perfect place and set up your study routine with ChatGPT. Music: Following the Feeling by Tommy Newport.",
-      "published_at": "2025-10-17T17:35:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9wxmlwRaZHc/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI Codex in your code editor",
-      "video_id": "sd21Igx4HtA",
-      "channel_title": "OpenAI",
-      "description": "Use Codex right in your code editor with the new IDE extension for VS Code, Cursor and other forks. In this video, Gabriel Peal ...",
-      "published_at": "2025-10-17T14:01:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sd21Igx4HtA/hqdefault.jpg"
-    },
-    {
-      "title": "Using OpenAI Codex CLI with GPT-5-Codex",
-      "video_id": "iqNzfK4_meQ",
-      "channel_title": "OpenAI",
-      "description": "Learn how to use the Codex CLI + GPT-5-Codex in just 5 minutes. In this tutorial, Eason Goodale and Romain Huet show you how ...",
-      "published_at": "2025-10-14T18:19:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iqNzfK4_meQ/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI x Broadcom — The OpenAI Podcast Ep. 8",
-      "video_id": "qqAbVTFnfk8",
-      "channel_title": "OpenAI",
-      "description": "OpenAI and Broadcom are teaming up to design our own chips—bringing lessons from building frontier models straight into the ...",
-      "published_at": "2025-10-13T13:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qqAbVTFnfk8/hqdefault.jpg"
-    },
-    {
-      "title": "What Work Looks Like with ChatGPT | Write, Research, Code, Create",
-      "video_id": "0SccjZ6Yfi8",
-      "channel_title": "OpenAI",
-      "description": "ChatGPT is becoming a bigger part of everyday work. It helps teams move from idea to execution faster, analyzing data, writing ...",
-      "published_at": "2025-10-09T15:32:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0SccjZ6Yfi8/hqdefault.jpg"
     }
   ]
 }

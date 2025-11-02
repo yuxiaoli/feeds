@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-26T00:28:53.717545",
+  "fetched_at": "2025-11-02T00:29:23.324048",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Designing the New Model Y Performance",
+      "video_id": "DYcNfFeRPIk",
+      "channel_title": "Tesla",
+      "description": "Go behind the scenes with Tesla designers & engineers on what went into making the new Model Y Performance Designed to ...",
+      "published_at": "2025-10-29T18:35:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DYcNfFeRPIk/hqdefault.jpg"
+    },
     {
       "title": "Tesla Q3 2025 Financial Results and Q&amp;A Webcast",
       "video_id": "GQ9S7xbkGAY",
@@ -75,14 +83,6 @@
       "description": "New Teslas drive themselves off the line at Giga Berlin Autonomously navigating the factory premises, they stop by the on-site ...",
       "published_at": "2025-10-02T21:37:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/UKpagx0yLc8/hqdefault.jpg"
-    },
-    {
-      "title": "Las Megas | Tesla Megablock Event",
-      "video_id": "wNSS19XKXRE",
-      "channel_title": "Tesla",
-      "description": "Mike Snyder, VP of Tesla Energy, walks us through the next chapter of utility-scale energy storage. Megapack is our utility-scale ...",
-      "published_at": "2025-09-17T22:54:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wNSS19XKXRE/hqdefault.jpg"
     }
   ]
 }

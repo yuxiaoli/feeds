@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2025-10-26T00:29:12.355845",
+  "fetched_at": "2025-11-02T00:29:42.217615",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 2,
+  "count": 4,
   "videos": [
     {
-      "title": "JAXA HTV-X1 Cargo Launch",
-      "video_id": "G_4TUFQytQo",
+      "title": "JAXA HTV-X1 Cargo Rendezvous and Capture",
+      "video_id": "OXm8uc5OB70",
       "channel_title": "NASA",
-      "description": "Tune in for live coverage as a new cargo ship from the Japan Aerospace Exploration Agency (JAXA) lifts off for the International ...",
-      "published_at": "2025-10-26T00:26:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G_4TUFQytQo/hqdefault.jpg"
+      "description": "Watch JAXA's new cargo ship arrive at the International Space Station after a three-day journey through space. The uncrewed ...",
+      "published_at": "2025-10-29T16:14:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OXm8uc5OB70/hqdefault.jpg"
+    },
+    {
+      "title": "Roscosmos Spacewalk 65",
+      "video_id": "1AHUqn0X4Hs",
+      "channel_title": "NASA",
+      "description": "Watch as Roscosmos cosmonauts conduct a spacewalk in support of the International Space Station. Crew members will install a ...",
+      "published_at": "2025-10-28T21:43:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1AHUqn0X4Hs/hqdefault.jpg"
+    },
+    {
+      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
+      "video_id": "b_4mCNb826Y",
+      "channel_title": "NASA",
+      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
+      "published_at": "2025-10-27T13:25:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b_4mCNb826Y/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

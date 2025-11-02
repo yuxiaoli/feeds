@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-10-26T00:28:55.775890",
+  "fetched_at": "2025-11-02T00:29:25.483698",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Happy Halloween | Boston Dynamics",
+      "video_id": "uLRQFtttlK8",
+      "channel_title": "Boston Dynamics",
+      "description": "Happy Halloween from all of us at Boston Dynamics!",
+      "published_at": "2025-10-31T12:45:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uLRQFtttlK8/hqdefault.jpg"
+    },
+    {
+      "title": "Inside the Stretch Test Lab | Boston Dynamics",
+      "video_id": "RpvSMqOT7ls",
+      "channel_title": "Boston Dynamics",
+      "description": "At our test warehouse, we recreate our customers' inbound operations, from the dock configuration and conveyors, to the freight ...",
+      "published_at": "2025-10-28T14:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RpvSMqOT7ls/hqdefault.jpg"
+    },
     {
       "title": "How AI Is Changing Whole Body Manipulation | Atlas | Boston Dynamics",
       "video_id": "AdGFmYQx0lg",
@@ -67,22 +83,6 @@
       "description": "We are excited to share some of our progress on developing Large Behavior Models (LBMs) for Atlas. This work is part of a ...",
       "published_at": "2025-08-20T16:00:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HYwekersccY/hqdefault.jpg"
-    },
-    {
-      "title": "Spot at POSCO | Boston Dynamics",
-      "video_id": "V7D7jXF2pj8",
-      "channel_title": "Boston Dynamics",
-      "description": "South Korean steel maker POSCO uses Spot and Orbit for preventive maintenance on its largest blast furnaces. POSCO's ...",
-      "published_at": "2025-07-09T14:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V7D7jXF2pj8/hqdefault.jpg"
-    },
-    {
-      "title": "Spot at Cargill | Boston Dynamics",
-      "video_id": "AqRquSReZHY",
-      "channel_title": "Boston Dynamics",
-      "description": "Cargill's Amsterdam Multiseed facility enlists Spot and Orbit to inspect machinery and perform visual checks, enhanced by all-new ...",
-      "published_at": "2025-06-17T13:44:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AqRquSReZHY/hqdefault.jpg"
     }
   ]
 }

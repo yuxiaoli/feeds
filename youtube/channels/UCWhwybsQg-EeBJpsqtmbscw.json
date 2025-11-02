@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2025-10-26T00:29:22.903439",
+  "fetched_at": "2025-11-02T00:29:52.828536",
   "channel_id": "UCWhwybsQg-EeBJpsqtmbscw",
   "channel_title": "JomaClass",
   "count": 10,
   "videos": [
+    {
+      "title": "Graphs: Depth First Search (DFS) | Data Structures &amp; Algorithms",
+      "video_id": "JtVDQ8gZa6s",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-01T16:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JtVDQ8gZa6s/hqdefault.jpg"
+    },
+    {
+      "title": "Graphs: Breadth First Search (BFS) | Data Structures &amp; Algorithms",
+      "video_id": "lGzMM2WaE84",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-31T16:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lGzMM2WaE84/hqdefault.jpg"
+    },
+    {
+      "title": "Graph Representation | Data Structures &amp; Algorithms",
+      "video_id": "F2r9ySIzsS8",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-30T16:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F2r9ySIzsS8/hqdefault.jpg"
+    },
+    {
+      "title": "Graphs | Data Structures &amp; Algorithms",
+      "video_id": "DtVOop7zXeU",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-29T16:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DtVOop7zXeU/hqdefault.jpg"
+    },
+    {
+      "title": "Selection Sort &amp; Quicksort | Data Structures &amp; Algorithms",
+      "video_id": "VTotfuS_1-U",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-28T16:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VTotfuS_1-U/hqdefault.jpg"
+    },
+    {
+      "title": "Hash Tables | Data Structures &amp; Algorithms",
+      "video_id": "E-3i3CfJs6U",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-27T16:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E-3i3CfJs6U/hqdefault.jpg"
+    },
+    {
+      "title": "Binary Search Implementation | Data Structures &amp; Algorithms",
+      "video_id": "ITom6ua1SV4",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-10-26T16:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ITom6ua1SV4/hqdefault.jpg"
+    },
     {
       "title": "Binary Search Tree (BST) | Data Structures &amp; Algorithms",
       "video_id": "2nH7WIsRzyI",
@@ -27,62 +83,6 @@
       "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
       "published_at": "2025-10-23T16:01:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mADBD0-QC-E/hqdefault.jpg"
-    },
-    {
-      "title": "Queue | Data Structures &amp; Algorithms",
-      "video_id": "azhu0K1QG7M",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-22T16:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/azhu0K1QG7M/hqdefault.jpg"
-    },
-    {
-      "title": "Stack | Data Structures &amp; Algorithms",
-      "video_id": "I__TYJlagvs",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-21T16:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I__TYJlagvs/hqdefault.jpg"
-    },
-    {
-      "title": "Optimizing Linked List | Data Structures &amp; Algorithms",
-      "video_id": "ToCLkmYi4GY",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-20T16:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ToCLkmYi4GY/hqdefault.jpg"
-    },
-    {
-      "title": "Linked List | Data Structures &amp; Algorithms",
-      "video_id": "NWjZq-V2x0k",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-19T16:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NWjZq-V2x0k/hqdefault.jpg"
-    },
-    {
-      "title": "Dynamic Arrays | Data Structures &amp; Algorithms",
-      "video_id": "8G90FxAphkM",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-18T16:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8G90FxAphkM/hqdefault.jpg"
-    },
-    {
-      "title": "Array Implementation | Data Structures &amp; Algorithms",
-      "video_id": "WxnYvK1XnTg",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-17T16:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WxnYvK1XnTg/hqdefault.jpg"
-    },
-    {
-      "title": "Memory | Data Structures &amp; Algorithms",
-      "video_id": "IAMhw5i0XTU",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-10-16T16:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IAMhw5i0XTU/hqdefault.jpg"
     }
   ]
 }

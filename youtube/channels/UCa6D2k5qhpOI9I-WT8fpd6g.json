@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-26T00:29:27.021253",
+  "fetched_at": "2025-11-02T00:29:56.978986",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "前端读写数据库？能安全吗？ 一期视频精通Supabase，顶级后端开源项目，实战教程+本地部署",
+      "video_id": "eTb-Qjwt-zQ",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 2025年最火的后端开源项目，那必须是Supabase。Supabase 是一个 ...",
+      "published_at": "2025-10-31T12:51:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eTb-Qjwt-zQ/hqdefault.jpg"
+    },
     {
       "title": "用过上百款编程MCP，只有这15个真正好用，Claude Code与Codex配置MCP详细教程",
       "video_id": "UW5iQGE3264",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Claude Code虽好，价格受不了。本期介绍几种免费方案。 Claude Code ...",
       "published_at": "2025-08-05T12:09:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Hr24rIDDyPU/hqdefault.jpg"
-    },
-    {
-      "title": "边缘函数中转Gemini API，国内无限免费爽用，云函数入门实战教程",
-      "video_id": "SnNDCgfKHyA",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 我写了一个小项目，使用边缘云函数，将一线大模型，Gemini的免费API ...",
-      "published_at": "2025-07-31T11:16:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SnNDCgfKHyA/hqdefault.jpg"
     }
   ]
 }

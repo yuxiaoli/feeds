@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-10-26T00:29:16.584875",
+  "fetched_at": "2025-11-02T00:29:46.452175",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "impossible muscleup? #calisthenics #shorts",
+      "video_id": "xx1XvodBgps",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2025-10-26T15:01:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xx1XvodBgps/hqdefault.jpg"
+    },
     {
       "title": "Why you should train calisthenics #shorts #calisthenics",
       "video_id": "SM-JZZQBY60",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-07-20T13:50:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/70Q5mgISHfE/hqdefault.jpg"
-    },
-    {
-      "title": "Hardest muscleup I&#39;ve done #shorts",
-      "video_id": "JJWJPdNLUNc",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-07-13T14:45:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JJWJPdNLUNc/hqdefault.jpg"
     }
   ]
 }

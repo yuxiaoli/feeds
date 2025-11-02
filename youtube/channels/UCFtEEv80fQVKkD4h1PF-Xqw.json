@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2025-10-26T00:29:04.755037",
+  "fetched_at": "2025-11-02T00:29:34.654268",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "How tech transformed the way Netflix tells stories | Ted Sarandos, Netflix co-CEO",
-      "video_id": "1ws5cjDXSGc",
+      "title": "Protecting Colombia’s endangered wildlife with Project SPARROW",
+      "video_id": "r4skB5RbzfU",
       "channel_title": "Microsoft",
-      "description": "Netflix co-CEO Ted Sarandos joins Microsoft's Vice Chair and President Brad Smith to discuss the constant reinvention behind ...",
-      "published_at": "2025-10-23T16:31:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1ws5cjDXSGc/hqdefault.jpg"
+      "description": "Deforestation and human activity are threatening Colombia's Middle Magdalena Valley, an endangered wildlife and ecosystem in ...",
+      "published_at": "2025-10-31T16:09:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r4skB5RbzfU/hqdefault.jpg"
+    },
+    {
+      "title": "AI and automation expert on how leaders use AI agents to get ahead | Pascal Bornet",
+      "video_id": "HXy3J1mGHRE",
+      "channel_title": "Microsoft",
+      "description": "AI agents can become essential team members at any organization if they're deployed thoughtfully in business workflows. In this ...",
+      "published_at": "2025-10-30T15:29:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HXy3J1mGHRE/hqdefault.jpg"
     },
     {
       "title": "Minecraft teaches kids to stay safe online",
@@ -75,14 +83,6 @@
       "description": "Refik Anadol, an internationally renowned media artist and director, joins Behind the Tech to discuss his journey from a childhood ...",
       "published_at": "2024-11-12T17:00:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/R93cfvrdGFQ/hqdefault.jpg"
-    },
-    {
-      "title": "BWT Alpine F1 Team&#39;s Everyday AI Companion | Microsoft Copilot",
-      "video_id": "DA2_e-qB9dQ",
-      "channel_title": "Microsoft",
-      "description": "When team driver Pierre Gasly forgets a birthday, Microsoft Copilot has his back. Learn more: ...",
-      "published_at": "2024-06-03T15:30:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DA2_e-qB9dQ/hqdefault.jpg"
     }
   ]
 }
