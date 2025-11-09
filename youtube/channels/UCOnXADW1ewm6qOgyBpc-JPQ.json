@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-02T00:29:46.452175",
+  "fetched_at": "2025-11-09T00:30:18.404958",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "just 4 clean pullups #shorts #calisthenics",
+      "video_id": "5cDxM8wwNM0",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2025-11-02T16:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5cDxM8wwNM0/hqdefault.jpg"
+    },
     {
       "title": "impossible muscleup? #calisthenics #shorts",
       "video_id": "xx1XvodBgps",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-07-27T14:45:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/r6nUHPSDeHY/hqdefault.jpg"
-    },
-    {
-      "title": "getting better at floating #shorts",
-      "video_id": "70Q5mgISHfE",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-07-20T13:50:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/70Q5mgISHfE/hqdefault.jpg"
     }
   ]
 }

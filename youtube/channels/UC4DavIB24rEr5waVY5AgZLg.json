@@ -1,14 +1,22 @@
 {
-  "fetched_at": "2025-11-02T00:29:21.871051",
+  "fetched_at": "2025-11-09T00:29:54.185184",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
     {
-      "title": "Haunted Mansion Stories &amp; Details Revealed with Imagineers | WED Walk",
+      "title": "Hey we’re Imagineers on the Special Effects team — this is our lab! 🚪✨ #disney #spfx #disneyparks",
+      "video_id": "fbbJ5ZWWiKY",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "",
+      "published_at": "2025-11-04T21:45:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fbbJ5ZWWiKY/hqdefault.jpg"
+    },
+    {
+      "title": "Haunted Mansion Secrets Revealed | Disney Imagineering Behind the Scenes",
       "video_id": "endLo0NqGaw",
       "channel_title": "Walt Disney Imagineering",
-      "description": "Welcome foolish mortals, to this walking tour of The Haunted Mansion at Walt Disney World with Disney Imagineers! The Haunted ...",
+      "description": "Welcome, foolish mortals! Join Disney Imagineers for an exclusive walking tour of The Haunted Mansion at Walt Disney World.",
       "published_at": "2025-10-31T19:00:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/endLo0NqGaw/hqdefault.jpg"
     },
@@ -75,14 +83,6 @@
       "description": "Nothing says Disney Parks like castles. Disney Castles are beloved icons, synonymous with magic, and a symbol of Disney ...",
       "published_at": "2025-09-08T16:01:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dQ_xNj7gkM8/hqdefault.jpg"
-    },
-    {
-      "title": "New Episode of “We Call It Imagineering” Coming September 8th ✨",
-      "video_id": "9h8AWP44S8A",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "",
-      "published_at": "2025-08-31T20:14:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9h8AWP44S8A/hqdefault.jpg"
     }
   ]
 }

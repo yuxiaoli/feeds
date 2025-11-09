@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-11-02T00:29:24.772666",
+  "fetched_at": "2025-11-09T00:29:57.000139",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Why &quot;AI spam&quot; should be a teaching moment",
-      "video_id": "bv0eOXQbGFY",
+      "title": "The GitHub Universe 2025 highlights in 60 seconds",
+      "video_id": "70t8agv8usI",
       "channel_title": "GitHub",
-      "description": "AI-generated spam in issues and pull requests is a growing challenge for maintainers. In this clip from The GitHub Podcast, our ...",
-      "published_at": "2025-11-01T16:01:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bv0eOXQbGFY/hqdefault.jpg"
+      "description": "Missed GitHub Universe 2025? Here's what you need to know. We introduced Agent HQ, a single workflow to orchestrate agents ...",
+      "published_at": "2025-11-08T14:46:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/70t8agv8usI/hqdefault.jpg"
     },
     {
-      "title": "Making Desktop Frameworks More Accessible with Electron | Episode 4 | The GitHub Podcast",
-      "video_id": "IODadNBk0po",
+      "title": "Open Source Friday with Ladybird",
+      "video_id": "i6_79RzntEQ",
       "channel_title": "GitHub",
-      "description": "In this episode of the GitHub Podcast, Abby and Kedasha are joined by Keeley Hammond, a longtime maintainer of the Electron ...",
-      "published_at": "2025-11-01T14:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IODadNBk0po/hqdefault.jpg"
+      "description": "From GitHub Universe 2025: Meet Ladybird Browser, the new independent web browser built entirely from scratch—no Chrome, ...",
+      "published_at": "2025-11-08T08:22:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i6_79RzntEQ/hqdefault.jpg"
     },
     {
-      "title": "Empowering business leaders to scale innovation in the age of AI",
-      "video_id": "7YEi5SoVzNQ",
+      "title": "[pt-BR] Open Source Friday Brasil 🇧🇷 com Arthur Fücher",
+      "video_id": "LNGpRWovX-s",
       "channel_title": "GitHub",
-      "description": "As agentic AI , like GitHub Copilot, transforms software development, enterprise administrators and platform engineering teams ...",
-      "published_at": "2025-10-31T14:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7YEi5SoVzNQ/hqdefault.jpg"
+      "description": "Open Source Friday Brasil Toda sexta-feira, ao vivo no canal GitHub Brasil, exploramos projetos Open Source brasileiros e ...",
+      "published_at": "2025-11-08T05:10:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LNGpRWovX-s/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursday - live from GitHub HQ!",
-      "video_id": "Cb3P7pOFOWE",
+      "title": "The Download: GitHub Game Off, Universe 2025 &amp; Octoverse report recap",
+      "video_id": "1JxLIxbEzxQ",
       "channel_title": "GitHub",
-      "description": "Join me for a debugging session as we take a look at all the shiny new GitHub ships!",
-      "published_at": "2025-10-31T07:15:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Cb3P7pOFOWE/hqdefault.jpg"
+      "description": "This week on The Download, Christina Warren is back to recap the biggest news from GitHub Universe 2025, from Agent HQ to ...",
+      "published_at": "2025-11-07T17:54:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1JxLIxbEzxQ/hqdefault.jpg"
     },
     {
-      "title": "The biggest announcements from GitHub Universe",
-      "video_id": "9TRsiFBnMUg",
+      "title": "A Marine&#39;s Playbook for Building High-Performance Developer Teams at Fidelity",
+      "video_id": "qJ-tJ27wYSs",
       "channel_title": "GitHub",
-      "description": "Join Burke Holland from VS Code and April Yoho from GitHub as they recap some of the most exciting announcements from this ...",
-      "published_at": "2025-10-31T04:21:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9TRsiFBnMUg/hqdefault.jpg"
+      "description": "Join Andrea Griffiths, Senior Developer Advocate at GitHub, as she sits down with Jeff Cobble, Director of Cloud Platform ...",
+      "published_at": "2025-11-07T14:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qJ-tJ27wYSs/hqdefault_live.jpg"
     },
     {
-      "title": "How GitHub Copilot hacked a Furby",
-      "video_id": "oETSqqi4CqU",
+      "title": "Rubber Duck Thursdays - Let&#39;s cowork! Cassidy&#39;s back! Hey!",
+      "video_id": "QZGQNEZTZr8",
       "channel_title": "GitHub",
-      "description": "Meet the star of the GitHub keynote: a hacked Furby! See how our VP of Developer Relations, Martin, used GitHub Copilot to ...",
-      "published_at": "2025-10-30T14:01:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oETSqqi4CqU/hqdefault.jpg"
+      "description": "We're going to talk tech and perhaps code something, too!",
+      "published_at": "2025-11-07T08:14:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QZGQNEZTZr8/hqdefault.jpg"
     },
     {
-      "title": "My 5 favorite spots at GitHub Universe 2025",
-      "video_id": "rYeGf1Knehs",
+      "title": "Event in Spanish: Jueves de Quack con Gisela Torres",
+      "video_id": "yUA47dQczE8",
       "channel_title": "GitHub",
-      "description": "Come with me on a quick tour of my favorite spots at GitHub Universe 2025! From the bustling Festival and Gateway Pavilions to ...",
-      "published_at": "2025-10-30T12:01:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rYeGf1Knehs/hqdefault.jpg"
+      "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde Gisela Torres @returngis y Andrea Griffiths @acolombiadev ...",
+      "published_at": "2025-11-07T00:42:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yUA47dQczE8/hqdefault_live.jpg"
     },
     {
-      "title": "Dream it in the morning, build it in the afternoon: Collapsing the distance from idea to impact",
-      "video_id": "q1IxyisKcZI",
+      "title": "How this open source project broke Minecraft",
+      "video_id": "Busz5mhYa_s",
       "channel_title": "GitHub",
-      "description": "Calculators to code, sketches to shipped apps. The distance from idea to impact is collapsing, thanks to AI-powered development ...",
-      "published_at": "2025-10-29T22:06:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q1IxyisKcZI/hqdefault.jpg"
+      "description": "Imagine being in the middle of fixing a global security crisis, only to find out your own son's Minecraft game is broken... by your ...",
+      "published_at": "2025-11-06T17:11:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Busz5mhYa_s/hqdefault.jpg"
     },
     {
-      "title": "How to hack your GitHub Universe 2025 badge",
-      "video_id": "H3S8LCyOZQA",
+      "title": "Anders Hejlsberg (creator of TypeScript) reacts to the 2025 Octoverse report",
+      "video_id": "GMWJceUTxuk",
       "channel_title": "GitHub",
-      "description": "Did you know the GitHub Universe 2025 conference badge is a mini computer running Python? In this quick tutorial, we show you ...",
-      "published_at": "2025-10-29T20:30:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H3S8LCyOZQA/hqdefault.jpg"
+      "description": "Join Anders Hejlsberg, the creator of TypeScript and Technical Fellow at Microsoft, as he reacts to the key findings from the ...",
+      "published_at": "2025-11-06T14:48:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GMWJceUTxuk/hqdefault.jpg"
     },
     {
-      "title": "Introducing Plan Mode: build better plans with GitHub Copilot",
-      "video_id": "rxIjBKM-XvU",
+      "title": "AI &amp; Copilot: Modernizing Applications for the Cloud",
+      "video_id": "a9glyQs6cbE",
       "channel_title": "GitHub",
-      "description": "Meet Plan Mode, a new way to work with GitHub Copilot in VS Code. Before you write any code, Copilot will ask clarifying ...",
-      "published_at": "2025-10-29T18:40:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rxIjBKM-XvU/hqdefault.jpg"
+      "description": "Join Ayan Gupta live as we explore how GitHub Copilot App Modernization helps teams upgrade, migrate, and deploy ...",
+      "published_at": "2025-11-06T08:26:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a9glyQs6cbE/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-11-02T00:30:05.277057",
+  "fetched_at": "2025-11-09T00:30:37.327969",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Autonomous Spaceport Drone Ship Landing #rocketlab  #rocket #automobile",
+      "video_id": "wo1oLquMnBM",
+      "channel_title": "Hazegrayart",
+      "description": "An autonomous spaceport drone ship (ASDS) is an ocean-going vessel derived from a deck barge, outfitted with station-keeping ...",
+      "published_at": "2025-11-06T01:44:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wo1oLquMnBM/hqdefault.jpg"
+    },
+    {
+      "title": "DARPA Hammerhead  Fuel Tank",
+      "video_id": "0aN63tMjz94",
+      "channel_title": "Hazegrayart",
+      "description": "DARPA studied modifying the current external tank design to be able to carry low-density payloads in a 25 or 35 ft (7.6 or 10.6 m) ...",
+      "published_at": "2025-11-02T13:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0aN63tMjz94/hqdefault.jpg"
+    },
     {
       "title": "Launching Rockets from Aircraft Carries",
       "video_id": "iEO5TVAVPtk",
@@ -67,22 +83,6 @@
       "description": "DARPA studied modifying the current external tank design to be able to carry low-density payloads in a 25 or 35 ft (7.6 or 10.6 m) ...",
       "published_at": "2025-09-30T12:01:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/l8aj3PK4q44/hqdefault.jpg"
-    },
-    {
-      "title": "Largest Solid Rocket Motor Ever Tested",
-      "video_id": "fUEEq_CKDOA",
-      "channel_title": "Hazegrayart",
-      "description": "Aerojet 260: The Largest Solid Rocket Motor Ever Tested In the 1960s, Aerojet, under NASA contract, developed and static-tested ...",
-      "published_at": "2025-09-26T12:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fUEEq_CKDOA/hqdefault.jpg"
-    },
-    {
-      "title": "DARPA Hammerhead Space Shuttle Concept",
-      "video_id": "cTj5NHIj79c",
-      "channel_title": "Hazegrayart",
-      "description": "DARPA studied modifying the current external tank design to be able to carry low-density payloads in a 25 or 35 ft (7.6 or 10.6 m) ...",
-      "published_at": "2025-09-25T12:40:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cTj5NHIj79c/hqdefault.jpg"
     }
   ]
 }

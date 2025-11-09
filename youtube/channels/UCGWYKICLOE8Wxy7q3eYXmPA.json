@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-11-02T00:29:35.355413",
+  "fetched_at": "2025-11-09T00:30:07.246283",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
+    {
+      "title": "【商业】Canva的创业之路 | CEO梅兰妮·珀金斯 | B栏思维 | 十年目标 | 长期主义 | 三张图 | 可视化组织 | 如何对待否定 | 公益与产品 | 2050年的未来",
+      "video_id": "quwaZPVMG9M",
+      "channel_title": "最佳拍档",
+      "description": "最近Canva的CEO梅兰妮·珀金斯在Lenny's Podcast的一期节目里，详细拆解了她从0到1打造Canva的底层逻辑，没有所谓的爆款 ...",
+      "published_at": "2025-11-07T23:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/quwaZPVMG9M/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】如何训练一个世界级小模型 | HuggingFace Smol3模型训练手册 | 明确动机 | 预训练 | 四个踩坑 | 监督微调 | 强化学习 | 消融实验 | 基础设施 | GPU通讯",
+      "video_id": "H7CKhTXoR30",
+      "channel_title": "最佳拍档",
+      "description": "最近，Hugging Face的12位工程师发布了一份《The Smol Training Playbook》指南，记录了他们训练SmolLM3的全过程，可以说 ...",
+      "published_at": "2025-11-06T09:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H7CKhTXoR30/hqdefault.jpg"
+    },
+    {
+      "title": "【OpenAI】两年前宫斗内幕再被揭开 | 62页Ilya证词曝光 | 谋划一年 | Mira Murati | Anthropic合并 | 董事会经验不足 | Helen Toner | Greg",
+      "video_id": "d_qRrlPwKSk",
+      "channel_title": "最佳拍档",
+      "description": "在最近埃隆·马斯克（Elon Musk）起诉山姆·奥特曼（Sam Altman）的诉讼案中，公布了伊利亚·苏茨克维尔（Ilya Sutskever）一份长 ...",
+      "published_at": "2025-11-05T09:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d_qRrlPwKSk/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】AI进入双重复利阶段 | Satya Nadella与Sam Altman BG2对话 | 2019年投资 | 共生关系 | 电力不足 | AI泡沫 | SaaS被重写 | 工业复兴",
+      "video_id": "SW1siWSnq_E",
+      "channel_title": "最佳拍档",
+      "description": "前两天，硅谷最活跃的成长型投资人之一，Altimeter Capital 的创始人布拉德·格斯特纳Brad Gerstner，以投资者的视角，促成了一场 ...",
+      "published_at": "2025-11-03T12:08:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SW1siWSnq_E/hqdefault.jpg"
+    },
     {
       "title": "【人工智能】OpenAI完成公司架构重组 | PBC | 投入250亿美元 | 和微软签署新长期协议 | 公开AI发展时间线 | 2028年自动AI研究员 | 对齐的五层结构 | GPT6 | IPO",
       "video_id": "jTBV3Jb07yE",
@@ -11,38 +43,6 @@
       "description": "10月28号和29号，OpenAI不仅重构了自己的组织架构，从之前的非营利机构转型成了公益型公司PBC；CEO山姆·奥特曼还和首席 ...",
       "published_at": "2025-11-01T09:01:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jTBV3Jb07yE/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】下个阿波罗时刻 | 英伟达GTC25黄仁勋演讲 | CUDA-X全栈加速库 | Vera Rubin芯片 | 新一代超级计算机 | 投资诺基亚10亿美元 | NVQLink | AI劳动力",
-      "video_id": "xefsis6QGG0",
-      "channel_title": "最佳拍档",
-      "description": "美东时间10月28日，黄仁勋在华盛顿举办的GTC 大会上，发表了一场重要的主题演讲，他用一系列人类历史创新的剪影作为开场， ...",
-      "published_at": "2025-10-31T10:11:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xefsis6QGG0/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】英伟达爆发增长的关键原因 | CTO Michael Kagan | 收购Mellanox | GPU算力的扩展问题 | 网络抖动 | BlueField DPU | 双赢的企业文化",
-      "video_id": "MrreyJEorAE",
-      "channel_title": "最佳拍档",
-      "description": "10月28日，在红杉资本（Sequoia Capital）的欧洲100活动上，英伟达现任首席技术官（CTO）迈克尔·卡根（Michael Kagan）接受 ...",
-      "published_at": "2025-10-30T09:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MrreyJEorAE/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】在线策略蒸馏On-Policy Distillation | Thinking Machines Lab新作 | 训练阶段 | 在线训练 | 离线训练 | 反向KL散度 | LoRA",
-      "video_id": "lLMEtL3PVj4",
-      "channel_title": "最佳拍档",
-      "description": "Thinking Machines Lab最新发布的技术文章，在线策略蒸馏，这是一种将强化学习的纠错相关性，与监督微调的奖励密度相结合的 ...",
-      "published_at": "2025-10-29T11:45:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lLMEtL3PVj4/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】ASI会在十年内实现 | Gavin Baker | AI的飞轮效应 | 人才战争与囚徒困境 | 英伟达地位难撼动 | 台积电与英特尔 | SpaceX将是东印度公司 | 星链",
-      "video_id": "Lpp-D6UqNW8",
-      "channel_title": "最佳拍档",
-      "description": "10月22日，《Invested》播客对半导体与AI界的顶尖专家，Atreides Management的管理合伙人加文·贝克（Gavin Baker），进行了 ...",
-      "published_at": "2025-10-28T09:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Lpp-D6UqNW8/hqdefault.jpg"
     },
     {
       "title": "【AI动态】每日科技新闻 | 20251016 | 谷歌正式推出Veo 3.1 | 基于Gemma的单细胞分析模型 | Coral NPU | AI音乐疗法 | Claude Haiku 4.5",

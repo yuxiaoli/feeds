@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-02T00:30:05.957192",
+  "fetched_at": "2025-11-09T00:30:38.014723",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "10月最新9个Github开源项目",
+      "video_id": "G4kUQDbMKxY",
+      "channel_title": "Find Interesting AI",
+      "description": "文档链接： https://qadso0i11yj.feishu.cn/base/AkPvbevrDaoSyusM5h7cThuwnCe?from=from_copylink.",
+      "published_at": "2025-11-02T23:30:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G4kUQDbMKxY/hqdefault.jpg"
+    },
     {
       "title": "HuggingFace最新8个项目玩个遍",
       "video_id": "UC7STcfo28k",
@@ -75,14 +83,6 @@
       "description": "相关文档： https://qadso0i11yj.feishu.cn/base/TxAqbl1t8a1EpAs2zjWcqhvKn5d?from=from_copylink.",
       "published_at": "2025-07-16T00:00:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/oSMzhbpL7Lk/hqdefault.jpg"
-    },
-    {
-      "title": "千里挑一，论文分享",
-      "video_id": "IEY5Y3wdoPk",
-      "channel_title": "Find Interesting AI",
-      "description": "6月论文汇总： https://qadso0i11yj.feishu.cn/base/LLumbYdgJaziD2sihWYcyGQQnQe?from=from_copylink.",
-      "published_at": "2025-07-03T23:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IEY5Y3wdoPk/hqdefault.jpg"
     }
   ]
 }

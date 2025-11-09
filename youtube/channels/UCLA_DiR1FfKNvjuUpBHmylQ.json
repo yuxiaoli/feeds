@@ -1,25 +1,9 @@
 {
-  "fetched_at": "2025-11-02T00:29:42.217615",
+  "fetched_at": "2025-11-09T00:30:14.229474",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 4,
+  "count": 2,
   "videos": [
-    {
-      "title": "JAXA HTV-X1 Cargo Rendezvous and Capture",
-      "video_id": "OXm8uc5OB70",
-      "channel_title": "NASA",
-      "description": "Watch JAXA's new cargo ship arrive at the International Space Station after a three-day journey through space. The uncrewed ...",
-      "published_at": "2025-10-29T16:14:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OXm8uc5OB70/hqdefault.jpg"
-    },
-    {
-      "title": "Roscosmos Spacewalk 65",
-      "video_id": "1AHUqn0X4Hs",
-      "channel_title": "NASA",
-      "description": "Watch as Roscosmos cosmonauts conduct a spacewalk in support of the International Space Station. Crew members will install a ...",
-      "published_at": "2025-10-28T21:43:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1AHUqn0X4Hs/hqdefault.jpg"
-    },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
       "video_id": "b_4mCNb826Y",

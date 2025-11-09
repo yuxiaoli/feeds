@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-02T00:29:16.191631",
+  "fetched_at": "2025-11-09T00:29:48.367430",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "How these Quest sculptures become 3D art with @Salventius",
+      "video_id": "yVKcxkWfKo0",
+      "channel_title": "Meta",
+      "description": "Salventius uses Meta Quest to creates hand‑drawn, one‑line sculptures, then introduces the items into the real world with 3D ...",
+      "published_at": "2025-11-06T15:30:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yVKcxkWfKo0/hqdefault.jpg"
+    },
     {
       "title": "Haunted Office",
       "video_id": "lcm8arnc9ew",
@@ -75,14 +83,6 @@
       "description": "We just unveiled Meta Ray-Ban Display glasses, our most advanced pair of AI glasses yet. It's taken ten years of innovation, ...",
       "published_at": "2025-10-02T16:49:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LIvpjFZwx4Q/hqdefault.jpg"
-    },
-    {
-      "title": "We&#39;ll Take Two",
-      "video_id": "OtM0bXfLv14",
-      "channel_title": "Meta",
-      "description": "solid advice.",
-      "published_at": "2025-09-24T15:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OtM0bXfLv14/hqdefault.jpg"
     }
   ]
 }

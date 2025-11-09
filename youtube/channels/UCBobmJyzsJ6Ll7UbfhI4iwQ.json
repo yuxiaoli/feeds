@@ -1,16 +1,64 @@
 {
-  "fetched_at": "2025-11-02T00:29:29.000567",
+  "fetched_at": "2025-11-09T00:30:01.072322",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 8,
   "videos": [
     {
-      "title": "Voice to Visuals | Unreal Fest Stockholm",
-      "video_id": "2K0ud-FQEpQ",
+      "title": "Motion Design in Unreal Engine, Episode 10: Cloners, Part Two",
+      "video_id": "22yo8Bt0vNs",
       "channel_title": "Unreal Engine",
-      "description": "At Unreal Fest, Voice to Visuals brought together Unreal Engine's most powerful animation tools to show how expressive ...",
-      "published_at": "2025-10-31T15:45:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2K0ud-FQEpQ/hqdefault.jpg"
+      "description": "Watch this second video on cloners from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) ...",
+      "published_at": "2025-11-07T14:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/22yo8Bt0vNs/hqdefault.jpg"
+    },
+    {
+      "title": "I AM RIPPER | Game Profile | Unreal Engine",
+      "video_id": "GkH9ZhNUrA0",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video to find out how White Paper Games used UE5 to create nail-biting thriller 'I AM RIPPER.' Tactile gameplay and a ...",
+      "published_at": "2025-11-06T15:29:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GkH9ZhNUrA0/hqdefault.jpg"
+    },
+    {
+      "title": "A-COM Animation Sample: Project Walkthrough",
+      "video_id": "pQWyC9LznfE",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video for a walkthrough of the animation workflows and features in Unreal Engine 5.6 used to create Beta's Intro—the ...",
+      "published_at": "2025-11-04T09:18:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pQWyC9LznfE/hqdefault.jpg"
+    },
+    {
+      "title": "A-COM Animation Sample Now Available | Unreal Engine",
+      "video_id": "m7ND8zEKe7A",
+      "channel_title": "Unreal Engine",
+      "description": "Check out Agora Studio's two new animation sample projects for UE: the A-COM Animatic Sample and A-COM Animation Sample.",
+      "published_at": "2025-11-04T09:18:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m7ND8zEKe7A/hqdefault.jpg"
+    },
+    {
+      "title": "A First Look at the New Animation Features in Unreal Engine 5.6",
+      "video_id": "LtQWZQxGeXM",
+      "channel_title": "Unreal Engine",
+      "description": "Check out the updates to Unreal Engine's in-editor animation toolsets in UE 5.6. UE 5.6 enables you to animate with greater ...",
+      "published_at": "2025-11-03T15:45:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LtQWZQxGeXM/hqdefault.jpg"
+    },
+    {
+      "title": "Non-Destructive Workflows for Chaos Physics in UE5 | Unreal Fest Orlando 2025",
+      "video_id": "t_jyTILDYo8",
+      "channel_title": "Unreal Engine",
+      "description": "Setting up content for physics can be difficult and time consuming. In this session, we explore how UE5's Dataflow Graph system ...",
+      "published_at": "2025-11-03T11:36:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t_jyTILDYo8/hqdefault.jpg"
+    },
+    {
+      "title": "Epic Games Store: 2025 Update | Unreal Fest Bali 2025",
+      "video_id": "xGl_bBWUbYA",
+      "channel_title": "Unreal Engine",
+      "description": "In January 2025, the Epic Games Store's 'on mobile update' added support for third-party mobile games along with several new ...",
+      "published_at": "2025-11-03T11:06:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xGl_bBWUbYA/hqdefault.jpg"
     },
     {
       "title": "The Road to 60 fps in The Witcher 4 Unreal Engine 5 Tech Demo | Unreal Fest Orlando 2025",
@@ -19,54 +67,6 @@
       "description": "Over the past year, we transformed the rendering, animation, and streaming pipelines in The Witcher 4 Unreal Engine 5 Tech ...",
       "published_at": "2025-10-31T10:05:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ji0Hfiswcjo/hqdefault.jpg"
-    },
-    {
-      "title": "Physics | Creating in Fortnite",
-      "video_id": "2_iIDjU5qJo",
-      "channel_title": "Unreal Engine",
-      "description": "Event Info: Join us for an exciting session where we'll dive deep into the latest Fortnite Creative and Unreal Editor for Fortnite ...",
-      "published_at": "2025-10-30T20:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2_iIDjU5qJo/hqdefault.jpg"
-    },
-    {
-      "title": "Motion Design in Unreal Engine, Episode 09: Responsive Templates",
-      "video_id": "Y4UcSkt-r-M",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) explores the ...",
-      "published_at": "2025-10-30T16:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y4UcSkt-r-M/hqdefault.jpg"
-    },
-    {
-      "title": "Procedural Content Generation for Entertainment Venue Design | Unreal Fest Stockholm 2025",
-      "video_id": "DDJdaPhOroQ",
-      "channel_title": "Unreal Engine",
-      "description": "This session recorded at Unreal Fest Stockholm explores procedural content generation (PCG) techniques for large-scale ...",
-      "published_at": "2025-10-30T14:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DDJdaPhOroQ/hqdefault.jpg"
-    },
-    {
-      "title": "The Unreal Engine Student Showcase 2025",
-      "video_id": "xNmYtr9nI5k",
-      "channel_title": "Unreal Engine",
-      "description": "Watch our Student Showcase 2025 for a glimpse at some of the inspiring Unreal Engine projects students have been working on ...",
-      "published_at": "2025-10-29T14:15:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xNmYtr9nI5k/hqdefault.jpg"
-    },
-    {
-      "title": "LEGO® Prototyping | UEFN Build Along",
-      "video_id": "44Fp_mpHSb0",
-      "channel_title": "Unreal Engine",
-      "description": "Come build a LEGO® experience with us from the ground up - and answer your questions live! October 28th @ 2 PM ET ...",
-      "published_at": "2025-10-28T20:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/44Fp_mpHSb0/hqdefault.jpg"
-    },
-    {
-      "title": "AFRY uses UE5 to visualize heavy datasets for large infrastructure projects",
-      "video_id": "IiQOmj2gDH4",
-      "channel_title": "Unreal Engine",
-      "description": "Accurately visualizing all the forests, roads, and rivers that surround large-scale infrastructure projects requires the processing of ...",
-      "published_at": "2025-10-28T14:29:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IiQOmj2gDH4/hqdefault.jpg"
     }
   ]
 }

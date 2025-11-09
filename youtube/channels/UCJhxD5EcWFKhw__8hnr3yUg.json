@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-02T00:29:38.024740",
+  "fetched_at": "2025-11-09T00:30:09.995529",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "第一次来台湾，两天从台北到台南！",
+      "video_id": "og0-YfhULds",
+      "channel_title": "码农高天",
+      "description": "终于到了心心念念的台湾啦，中正纪念堂，龙山寺，迪化街，大稻埕，吃吃喝喝，然后“站”高铁去台南了！",
+      "published_at": "2025-11-02T06:30:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/og0-YfhULds/hqdefault.jpg"
+    },
     {
       "title": "三天速通新加坡，全在这一个视频里了！",
       "video_id": "Cyfyx6-WcG0",
@@ -75,14 +83,6 @@
       "description": "东京的后两天有点疲惫，拍的素材少一点，但是两个Omakase认认真真地拍了！富士山也还不错，远远地观察了它一下。",
       "published_at": "2025-08-23T10:30:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XCKHc0r-DQQ/hqdefault.jpg"
-    },
-    {
-      "title": "我要去PyCon TW啦，不如你也来一起呀？",
-      "video_id": "o8_L1DWbrdw",
-      "channel_title": "码农高天",
-      "description": "PyCon TW主页：https://tw.pycon.org/2025/zh-hant 购票链接（个人）：https://pycontw.kktix.cc/events/2025-individual 源来适你 ...",
-      "published_at": "2025-08-19T10:01:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o8_L1DWbrdw/hqdefault.jpg"
     }
   ]
 }

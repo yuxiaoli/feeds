@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-02T00:29:57.642088",
+  "fetched_at": "2025-11-09T00:30:29.644789",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "ايش اكثر تمرين بوزن الجسم تحبه ؟",
+      "video_id": "4shCAmd4kMU",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2025-11-06T20:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4shCAmd4kMU/hqdefault.jpg"
+    },
     {
       "title": "اذا تعتقد ان رياضة الكالسثنكس ما تبني عضلات راجع معلوماتك",
       "video_id": "RuEkfDAAusg",
@@ -75,14 +83,6 @@
       "description": "حاب تبدأ رياضة الكاليسثينكس ؟ ‏أول شي تشوف هذا الفيديو عشان تتعرف على رياضة الكاليسثينكس https://youtu.be/iNIFmVe9mkk ...",
       "published_at": "2025-07-18T12:13:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8iCoN5LUTRk/hqdefault.jpg"
-    },
-    {
-      "title": "خطوات تمرين القفز للمصل اب Jumping Muslcle up",
-      "video_id": "74NcekWUzfA",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-07-16T11:40:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/74NcekWUzfA/hqdefault.jpg"
     }
   ]
 }

@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2025-11-02T00:29:23.324048",
+  "fetched_at": "2025-11-09T00:29:55.583854",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
     {
-      "title": "Designing the New Model Y Performance",
-      "video_id": "DYcNfFeRPIk",
+      "title": "2025 Annual Shareholder Meeting | Tesla",
+      "video_id": "VGPlvmMjPtE",
       "channel_title": "Tesla",
-      "description": "Go behind the scenes with Tesla designers & engineers on what went into making the new Model Y Performance Designed to ...",
-      "published_at": "2025-10-29T18:35:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DYcNfFeRPIk/hqdefault.jpg"
+      "description": "",
+      "published_at": "2025-11-06T23:32:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VGPlvmMjPtE/hqdefault.jpg"
+    },
+    {
+      "title": "Forming the Future Grid | Tesla Megapack",
+      "video_id": "aN0rctOAEFk",
+      "channel_title": "Tesla",
+      "description": "Megapack grid-forming inverters are key to enabling global grid stability and reliability. Megan Jackson, Tesla Sr Sales ...",
+      "published_at": "2025-11-05T04:36:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aN0rctOAEFk/hqdefault.jpg"
     },
     {
       "title": "Tesla Q3 2025 Financial Results and Q&amp;A Webcast",
@@ -75,14 +83,6 @@
       "description": "Massive storage brought to you by: – Lockable 6ft truck bed – Powered-frunk – Fold-up rear seats Add Cybertruck Crossbars for ...",
       "published_at": "2025-10-03T21:19:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/slVrLndXnr8/hqdefault.jpg"
-    },
-    {
-      "title": "New Teslas Drive Themselves Off The Line",
-      "video_id": "UKpagx0yLc8",
-      "channel_title": "Tesla",
-      "description": "New Teslas drive themselves off the line at Giga Berlin Autonomously navigating the factory premises, they stop by the on-site ...",
-      "published_at": "2025-10-02T21:37:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UKpagx0yLc8/hqdefault.jpg"
     }
   ]
 }

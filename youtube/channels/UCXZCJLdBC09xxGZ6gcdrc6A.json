@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-02T00:29:54.282644",
+  "fetched_at": "2025-11-09T00:30:26.057609",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Automatic code reviews with OpenAI Codex",
+      "video_id": "HwbSWVg5Ln4",
+      "channel_title": "OpenAI",
+      "description": "Maja Trębacz and Romain Huet show you how to set up Codex to automatically review new pull requests in GitHub and in the ...",
+      "published_at": "2025-11-04T17:54:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HwbSWVg5Ln4/hqdefault.jpg"
+    },
     {
       "title": "Monster Manor by Sora 2",
       "video_id": "9DyK0Ig6_Rc",
@@ -75,14 +83,6 @@
       "description": "Get answers specific to your business in ChatGPT. Introducing company knowledge — a new way to work with all the context from ...",
       "published_at": "2025-10-23T20:15:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DupfnOCH-JI/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT Atlas",
-      "video_id": "qqd4Sb-PKG4",
-      "channel_title": "OpenAI",
-      "description": "AppleDsign.",
-      "published_at": "2025-10-23T18:57:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qqd4Sb-PKG4/hqdefault.jpg"
     }
   ]
 }

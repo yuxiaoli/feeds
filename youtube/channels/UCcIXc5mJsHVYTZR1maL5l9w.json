@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-02T00:29:59.742899",
+  "fetched_at": "2025-11-09T00:30:31.789957",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Learn to code, debug, and analyze data with AI assistance in Jupyter notebooks",
+      "video_id": "iiLLfHq047U",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/47AZws7 Our latest course, Jupyter AI: AI Coding in Notebooks, taught by Andrew Ng and Brian Granger, ...",
+      "published_at": "2025-11-03T15:40:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iiLLfHq047U/hqdefault.jpg"
+    },
     {
       "title": "Learn to align LLMs through post-training in this new course with AMD!",
       "video_id": "CkQBJxjgXt4",
@@ -75,14 +83,6 @@
       "description": "Learn more: https://bit.ly/47q045r Traditional development cycles, where it takes months of planning before anything ships, don't ...",
       "published_at": "2025-08-12T14:07:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1km00uTv1aA/hqdefault.jpg"
-    },
-    {
-      "title": "Build faster with Claude Code! New short course now live",
-      "video_id": "GqjvaBUk3Tc",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4fjWxaI Claude Code is one of the most capable AI coding assistants today, able to autonomously ...",
-      "published_at": "2025-08-06T13:45:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GqjvaBUk3Tc/hqdefault.jpg"
     }
   ]
 }

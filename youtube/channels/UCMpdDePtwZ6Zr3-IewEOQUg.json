@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-02T00:29:44.383078",
+  "fetched_at": "2025-11-09T00:30:16.276149",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "從數學怪獸到生命密碼：分形如何構建生命",
+      "video_id": "3iMWE-wKatw",
+      "channel_title": "科學漫聊",
+      "description": "【播客】本期我們從「數學怪獸」聊到「生命密碼」：什麼叫分形？為什麼海岸線越量越長？科赫雪花、康托塵埃與謝爾賓斯基 ...",
+      "published_at": "2025-11-02T13:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3iMWE-wKatw/hqdefault.jpg"
+    },
     {
       "title": "時間為什麼只往前？｜從熵增看宇宙的命運",
       "video_id": "QehTYd9R-yk",
@@ -75,14 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-09-24T06:04:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/BBsbK5Z7HkY/hqdefault.jpg"
-    },
-    {
-      "title": "NASA官宣新發現：火星「豹紋岩」逼近生命答案",
-      "video_id": "AcUPXkORVJk",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-09-18T12:33:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AcUPXkORVJk/hqdefault.jpg"
     }
   ]
 }

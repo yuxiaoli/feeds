@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2025-11-02T00:29:56.285317",
+  "fetched_at": "2025-11-09T00:30:28.192307",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 1,
+  "count": 2,
   "videos": [
     {
-      "title": "Time for a sweet treat #shorts",
-      "video_id": "4vS49H7hSyA",
+      "title": "No bad angles here #shorts",
+      "video_id": "tqOjLHYijaw",
       "channel_title": "Porsche",
-      "description": "Grape or mint? Take your pick. @llmediany_.",
-      "published_at": "2025-10-30T19:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4vS49H7hSyA/hqdefault.jpg"
+      "description": "I think they call this flawless? @matt.spots_.",
+      "published_at": "2025-11-07T18:01:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tqOjLHYijaw/hqdefault.jpg"
+    },
+    {
+      "title": "The calm before the climb #shorts",
+      "video_id": "DIzTUoeFHX0",
+      "channel_title": "Porsche",
+      "description": "Just your average Alpine commute – cowbells optional. @carswithalexis @porsche.ch.",
+      "published_at": "2025-11-04T19:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DIzTUoeFHX0/hqdefault.jpg"
     }
   ]
 }

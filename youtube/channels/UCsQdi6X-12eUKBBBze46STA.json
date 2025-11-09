@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-02T00:30:13.027040",
+  "fetched_at": "2025-11-09T00:30:45.150452",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "The Secret To Good Sleep 😴",
+      "video_id": "9vf9SJ00Q5A",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2025-11-04T17:17:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9vf9SJ00Q5A/hqdefault.jpg"
+    },
     {
       "title": "The best alcohol to drink? 🍸",
       "video_id": "oRMcR4qNJPQ",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-10-09T19:57:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FpJhqT6ZRZI/hqdefault.jpg"
-    },
-    {
-      "title": "Is Coffee a Desert? ☕️",
-      "video_id": "8v2XRvNwBHc",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-10-06T10:38:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8v2XRvNwBHc/hqdefault.jpg"
     }
   ]
 }

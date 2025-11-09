@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-11-02T00:29:58.361733",
+  "fetched_at": "2025-11-09T00:30:30.339010",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "This Jump Terrified Me",
+      "video_id": "KESXIg_qRiE",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2025-11-04T13:50:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KESXIg_qRiE/hqdefault.jpg"
+    },
+    {
+      "title": "Everyone in Times Square Stopped to Watch This",
+      "video_id": "GK2zyKgqPRM",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2025-11-03T10:01:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GK2zyKgqPRM/hqdefault.jpg"
+    },
     {
       "title": "Kids Follow Your Actions- Not Your Words!",
       "video_id": "C6M-WPiY9Fo",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-09-21T14:21:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fEfk4Ko8_I8/hqdefault.jpg"
-    },
-    {
-      "title": "Kids Follow your Actions, NOT your words",
-      "video_id": "1HGqX4tNM2I",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-09-18T17:39:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1HGqX4tNM2I/hqdefault.jpg"
-    },
-    {
-      "title": "100 Levels of Handstand Push Ups | Can Anyone Do Level 100?",
-      "video_id": "tcxRctOjqIY",
-      "channel_title": "Andry Strong",
-      "description": "The ultimate Handstand Push Up challenge is on! I, along with four incredible athletes, am attempting to complete 100 levels of ...",
-      "published_at": "2025-09-14T17:03:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tcxRctOjqIY/hqdefault.jpg"
     }
   ]
 }

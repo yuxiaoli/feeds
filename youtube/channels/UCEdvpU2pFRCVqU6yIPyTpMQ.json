@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-02T00:29:31.243547",
+  "fetched_at": "2025-11-09T00:30:03.128633",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "Mello-Ween🎃",
+      "video_id": "VbqCwW6oOLs",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2025-11-03T21:25:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VbqCwW6oOLs/hqdefault.jpg"
+    },
     {
       "title": "First Mello b2b @MartinGarrix",
       "video_id": "zSpu0oQMklI",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-06-27T19:17:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hj4ewm0IBiQ/hqdefault.jpg"
-    },
-    {
-      "title": "Have to get them the best shot possible",
-      "video_id": "_6SJdUL8RdM",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-06-17T19:32:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_6SJdUL8RdM/hqdefault.jpg"
     }
   ]
 }

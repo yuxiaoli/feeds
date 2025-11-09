@@ -1,16 +1,56 @@
 {
-  "fetched_at": "2025-11-02T00:29:40.902062",
+  "fetched_at": "2025-11-09T00:30:12.795855",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Python SDK Meets AI Agents: Automating Data Pipelines with LLMs",
-      "video_id": "R43Q0nIXa1Q",
+      "title": "Why Security Training Fails",
+      "video_id": "7muYSvhI-sY",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Quantum Computation using Qiskit v2.X Developer? Register now and use code IBMTechYT20 for ...",
-      "published_at": "2025-11-01T11:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R43Q0nIXa1Q/hqdefault.jpg"
+      "description": "Making security stick means making it simple. Learn how gamification and visual risk tools drive real behavior change. Watch the ...",
+      "published_at": "2025-11-07T18:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7muYSvhI-sY/hqdefault.jpg"
+    },
+    {
+      "title": "1X NEO humanoid robot enters the home",
+      "video_id": "9GhT1mp5Edk",
+      "channel_title": "IBM Technology",
+      "description": "Explore the podcast → https://ibm.biz/Bdbazd Would you trust a humanoid robot to unload your dishwasher? This week on Mixture ...",
+      "published_at": "2025-11-07T11:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9GhT1mp5Edk/hqdefault.jpg"
+    },
+    {
+      "title": "What Are Large Reasoning Models (LRMs)? Smarter AI Beyond LLMs",
+      "video_id": "enLbj0igyx4",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer v1? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-11-06T12:01:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/enLbj0igyx4/hqdefault.jpg"
+    },
+    {
+      "title": "Android malware that acts like a person and AI agents that act like malware",
+      "video_id": "iaZS1jer8MY",
+      "channel_title": "IBM Technology",
+      "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
+      "published_at": "2025-11-05T10:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
+    },
+    {
+      "title": "Orchestrator Agents &amp; MCP: How AI Agents Drive Automation",
+      "video_id": "Ons1Fv3IE4U",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-11-04T12:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ons1Fv3IE4U/hqdefault.jpg"
+    },
+    {
+      "title": "What Is an AI Stack? LLMs, RAG, &amp; AI Hardware",
+      "video_id": "RRKwmeyIc24",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of ...",
+      "published_at": "2025-11-03T12:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RRKwmeyIc24/hqdefault.jpg"
     },
     {
       "title": "Can you spot the social engineering trap?",
@@ -21,54 +61,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ys2IjNjdK2E/hqdefault.jpg"
     },
     {
-      "title": "Anthropic’s TPU move and NVIDIA’s Starcloud",
-      "video_id": "KF3jIUBecFo",
-      "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/BdbSHw It's spooky week in AI! This week on our Halloween edition of Mixture of Experts, ...",
-      "published_at": "2025-10-31T10:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KF3jIUBecFo/hqdefault.jpg"
-    },
-    {
-      "title": "Granite 4.0: Small AI Models, Big Efficiency",
-      "video_id": "AaCBiGWTuyA",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-10-30T11:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AaCBiGWTuyA/hqdefault.jpg"
-    },
-    {
-      "title": "Is ChatGPT Atlas safe? Plus: invisible worms, ghost networks and the AWS outage",
-      "video_id": "zc8qBG99GWk",
-      "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/BdbyJY Learn more about cybersecurity → https://ibm.biz/BdbyJ2 Learn more about ...",
-      "published_at": "2025-10-29T10:01:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zc8qBG99GWk/hqdefault.jpg"
-    },
-    {
-      "title": "How AI Agents and Decision Agents Combine Rules &amp; ML in Automation",
-      "video_id": "-mldKsBR0UM",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-10-28T11:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-mldKsBR0UM/hqdefault.jpg"
-    },
-    {
-      "title": "RIP Windows 10, automated code repair and battling the payroll pirates",
-      "video_id": "sVxSCcwlxus",
-      "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/Bdb2LY Is Windows 10 dead? This week, panelists Michelle Alvarez, Sridhar Muppidi and ...",
-      "published_at": "2025-10-22T10:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sVxSCcwlxus/hqdefault.jpg"
-    },
-    {
-      "title": "Machine Learning Explained: A Guide to ML, AI, &amp; Deep Learning",
-      "video_id": "znF2U_3Z210",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-10-20T11:01:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/znF2U_3Z210/hqdefault.jpg"
-    },
-    {
       "title": "Decode Black Boxes with Explainable AI: Building Transparent AI Agents",
       "video_id": "4_LIxSjc3H0",
       "channel_title": "IBM Technology",
@@ -77,12 +69,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4_LIxSjc3H0/hqdefault.jpg"
     },
     {
-      "title": "Zero-Click Attacks: AI Agents and the Next Cybersecurity Challenge",
-      "video_id": "CMHL1bPtQdI",
+      "title": "Building Decision Agents with LLMs &amp; Machine Learning Models",
+      "video_id": "mRkJTXDromw",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
-      "published_at": "2025-09-30T11:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CMHL1bPtQdI/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-09-25T11:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mRkJTXDromw/hqdefault.jpg"
+    },
+    {
+      "title": "AI Agents &amp; Mainframe: Optimized Systems Powered by LLMs",
+      "video_id": "IRa6XmG8QCQ",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Mainframe Modernization Architect? Register now and use code IBMTechYT20 for 20% off ...",
+      "published_at": "2025-09-21T11:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IRa6XmG8QCQ/hqdefault.jpg"
     }
   ]
 }

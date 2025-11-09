@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-11-02T00:29:54.996204",
+  "fetched_at": "2025-11-09T00:30:26.802917",
   "channel_id": "UCYFpniqsDTy6uBaFUH7cWOg",
   "channel_title": "NS Production",
   "count": 10,
   "videos": [
+    {
+      "title": "My Soul",
+      "video_id": "pXkFlbxL7wA",
+      "channel_title": "NS Production",
+      "description": "Khachatryans - My Soul Music: Khachatryans Music label: Endless.",
+      "published_at": "2025-11-07T18:59:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pXkFlbxL7wA/hqdefault.jpg"
+    },
+    {
+      "title": "#armenia",
+      "video_id": "Z-k4vyAim54",
+      "channel_title": "NS Production",
+      "description": "",
+      "published_at": "2025-11-03T20:22:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z-k4vyAim54/hqdefault.jpg"
+    },
+    {
+      "title": "А ты меня забыла/Այս խոսքերը վարդի փուշ են",
+      "video_id": "tUMd0TlcRds",
+      "channel_title": "NS Production",
+      "description": "ANNA Туман/Ays xosqer@ vardi push en Ays xosqere vardi pushen А ты меня забыла была была А в душе туман Producer: ...",
+      "published_at": "2025-11-02T17:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tUMd0TlcRds/hqdefault.jpg"
+    },
     {
       "title": "#shortvideo",
       "video_id": "cL9Z3ttdMxc",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2025-09-26T20:49:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PjaTsA-CVtw/hqdefault.jpg"
-    },
-    {
-      "title": "#shortvideo",
-      "video_id": "1TfjIAYKjx0",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2025-09-26T16:08:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1TfjIAYKjx0/hqdefault.jpg"
-    },
-    {
-      "title": "#shortvideo",
-      "video_id": "UeRU1rvtcdA",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2025-09-26T15:40:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UeRU1rvtcdA/hqdefault.jpg"
-    },
-    {
-      "title": "#shortvideo",
-      "video_id": "PTsLsfa_rzQ",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2025-09-25T20:54:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PTsLsfa_rzQ/hqdefault.jpg"
     }
   ]
 }

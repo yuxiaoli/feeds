@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2025-11-02T00:29:17.612366",
+  "fetched_at": "2025-11-09T00:29:49.845359",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Contentsquare scales customer experience with Microsoft Marketplace",
-      "video_id": "l126PR8OENU",
+      "title": "Leveraging UiPath and Azure AI to Address Incidental Findings in Radiology",
+      "video_id": "KtT0mbzYqwA",
       "channel_title": "Microsoft Azure",
-      "description": "Contentsquare chose Microsoft Marketplace to scale enterprise reach, close deals faster, and drive larger contract value.",
-      "published_at": "2025-10-29T14:01:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l126PR8OENU/hqdefault.jpg"
+      "description": "Discover how automation and AI are transforming radiology by addressing incidental findings in imaging studies like CT and MRI.",
+      "published_at": "2025-11-05T16:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KtT0mbzYqwA/hqdefault.jpg"
     },
     {
       "title": "Azure Container Storage for AKS | Free, Fast, Open‑Source Storage for Kubernetes on Azure",

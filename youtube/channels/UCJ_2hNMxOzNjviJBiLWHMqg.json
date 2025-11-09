@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-02T00:29:37.372460",
+  "fetched_at": "2025-11-09T00:30:09.298813",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Would you raise a family in space—or always come back home?",
+      "video_id": "lTHkajrEqQs",
+      "channel_title": "DamiLee",
+      "description": "Long-term life in low gravity can break down the human body—muscles shrink, bones weaken, even vision fades. Kajima ...",
+      "published_at": "2025-11-02T16:37:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lTHkajrEqQs/hqdefault.jpg"
+    },
     {
       "title": "What would you build first if you had a lunar 3D printer?",
       "video_id": "ZFxSP6KWgrY",
@@ -75,14 +83,6 @@
       "description": "The dark side of the Moon might be humanity's next address. Would you live in a place that never sees sunlight?",
       "published_at": "2025-10-18T15:31:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/p6siCkRyfi0/hqdefault.jpg"
-    },
-    {
-      "title": "What to do When Nature Calls",
-      "video_id": "WsIaeizds-s",
-      "channel_title": "DamiLee",
-      "description": "This isn't a cabin in the woods — it's a public toilet in Shibuya designed to blend seamlessly with the trees. Would you even notice ...",
-      "published_at": "2025-10-15T15:32:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WsIaeizds-s/hqdefault.jpg"
     }
   ]
 }

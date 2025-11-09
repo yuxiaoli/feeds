@@ -1,40 +1,16 @@
 {
-  "fetched_at": "2025-11-02T00:29:32.698861",
+  "fetched_at": "2025-11-09T00:30:04.524050",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
     {
-      "title": "Why Do People Carve Pumpkins?",
-      "video_id": "nMCgYo7ikIk",
+      "title": "XPENG&#39;s New Robot Has Body Parts",
+      "video_id": "4jmYRTPswMw",
       "channel_title": "Interesting Engineering",
-      "description": "People have been carving pumpkins into Jack-o'-lanterns for centuries, but why, how did it start, and what did people use before ...",
-      "published_at": "2025-10-31T14:58:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nMCgYo7ikIk/hqdefault.jpg"
-    },
-    {
-      "title": "1X Announces Neo Housekeeping Robot",
-      "video_id": "D_EYMga_jJQ",
-      "channel_title": "Interesting Engineering",
-      "description": "1X have just announced their Neo humanoid, house-cleaning robot for pre-order.",
-      "published_at": "2025-10-30T09:16:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D_EYMga_jJQ/hqdefault.jpg"
-    },
-    {
-      "title": "Making Water Out Of Thin Air",
-      "video_id": "CxoyMBCPugI",
-      "channel_title": "Interesting Engineering",
-      "description": "Meet Kara Pure 2 — the next evolution air-to-water dispenser producing 10 liters of pure 9.2 pH alkaline water daily. Inspired by ...",
-      "published_at": "2025-10-27T19:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CxoyMBCPugI/hqdefault.jpg"
-    },
-    {
-      "title": "The Most Exciting Vehicles You Can Now Fly",
-      "video_id": "cFKP-_CwS5Y",
-      "channel_title": "Interesting Engineering",
-      "description": "As it turns out, you can actually go out and buy a Personal Flying Vehicle right now. Flying cars, hoverboards, and Jetpacks are all ...",
-      "published_at": "2025-10-26T09:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cFKP-_CwS5Y/hqdefault.jpg"
+      "description": "XPENG have just announced a new iteration of their robot, called IRON. However, they are targeting male and female body types ...",
+      "published_at": "2025-11-06T11:33:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4jmYRTPswMw/hqdefault.jpg"
     },
     {
       "title": "NASA Reports Life On Mars",
@@ -83,6 +59,30 @@
       "description": "Think you can solve it? A 100 kg weight is lifted with this pulley system — but how much force is really needed? Drop your answer ...",
       "published_at": "2025-08-18T17:01:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qPpqlXpfYGs/hqdefault.jpg"
+    },
+    {
+      "title": "ROV SuBastian Livestreams Deep Sea Marine Life",
+      "video_id": "3sGV_KgLvEM",
+      "channel_title": "Interesting Engineering",
+      "description": "One of the biggest underexplored frontiers of the Earth is the bottom of the ocean. But now everyone can take a peek and enjoy as ...",
+      "published_at": "2025-08-07T08:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3sGV_KgLvEM/hqdefault.jpg"
+    },
+    {
+      "title": "World&#39;s Largest Battery Jumpstarts Australia",
+      "video_id": "pY4-lln4au0",
+      "channel_title": "Interesting Engineering",
+      "description": "The world's largest battery has just made its debut. Capable of powering 1 million homes for one hour all at once, the Waratah ...",
+      "published_at": "2025-08-05T18:00:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pY4-lln4au0/hqdefault.jpg"
+    },
+    {
+      "title": "Spotify Now Scans Faces For Age Verification",
+      "video_id": "wyCj7xVH-lc",
+      "channel_title": "Interesting Engineering",
+      "description": "In compliance with the UK Online Safety Act, Spotify—along with other online platforms—are now requiring facial verification ...",
+      "published_at": "2025-08-01T08:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wyCj7xVH-lc/hqdefault.jpg"
     }
   ]
 }
