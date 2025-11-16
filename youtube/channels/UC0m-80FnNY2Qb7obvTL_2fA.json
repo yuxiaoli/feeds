@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-11-09T00:29:49.845359",
+  "fetched_at": "2025-11-16T00:30:12.765189",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Leveraging UiPath and Azure AI to Address Incidental Findings in Radiology",
-      "video_id": "KtT0mbzYqwA",
+      "title": "Unified Data Meets Azure Intelligence: Fabric, Foundry and Copilot in Action",
+      "video_id": "mwNYX2xU0nI",
       "channel_title": "Microsoft Azure",
-      "description": "Discover how automation and AI are transforming radiology by addressing incidental findings in imaging studies like CT and MRI.",
-      "published_at": "2025-11-05T16:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KtT0mbzYqwA/hqdefault.jpg"
+      "description": "Dive into AI and analytics capabilities for your Oracle data on the Microsoft Cloud. Learn how leading organizations are ...",
+      "published_at": "2025-11-14T16:01:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mwNYX2xU0nI/hqdefault.jpg"
     },
     {
-      "title": "Azure Container Storage for AKS | Free, Fast, Open‑Source Storage for Kubernetes on Azure",
-      "video_id": "BZsQ5_odYfU",
+      "title": "Enterprise-Ready, AI-First: What’s New with Oracle Database@Azure",
+      "video_id": "2bxJPgwoSKw",
       "channel_title": "Microsoft Azure",
-      "description": "Announcing Azure Container Storage v2.0.0: Supercharge Kubernetes workloads with the fastest storage for AKS. Azure ...",
-      "published_at": "2025-10-06T17:25:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BZsQ5_odYfU/hqdefault.jpg"
+      "description": "Ready to transform your Oracle workloads into intelligent, cloud-native solutions? Learn how Oracle Database@Azure is ...",
+      "published_at": "2025-11-14T16:02:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2bxJPgwoSKw/hqdefault.jpg"
     },
     {
-      "title": "Introducing Microsoft Azure Face Liveness",
-      "video_id": "3ysxiX49oxw",
+      "title": "Supercharge Oracle Data with Microsoft AI",
+      "video_id": "NJV9oP34mLY",
       "channel_title": "Microsoft Azure",
-      "description": "Discover how Azure Face Liveness brings enterprise-grade security and effortless user experiences together. - Instant proof of ...",
-      "published_at": "2025-08-20T17:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3ysxiX49oxw/hqdefault.jpg"
+      "description": "Your Oracle data is powerful—but on Microsoft Azure, it becomes transformative. Discover how Oracle customers are turning ...",
+      "published_at": "2025-11-14T16:01:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NJV9oP34mLY/hqdefault.jpg"
     },
     {
-      "title": "GPT-5 in Azure AI Foundry featuring model router",
-      "video_id": "xgdz-KCFpFI",
+      "title": "Accelerate Azure Migrations by Unlocking Access to Microsoft Experts &amp; Programs",
+      "video_id": "CBMgZ95S35k",
       "channel_title": "Microsoft Azure",
-      "description": "Welcome to the Model Router in Azure AI Foundry. In this video, we introduce you to the Model Router that doesn't just switch ...",
-      "published_at": "2025-08-07T17:05:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xgdz-KCFpFI/hqdefault.jpg"
+      "description": "Are you looking to accelerate your Oracle migration while minimizing disruption? Microsoft helps Oracle customers move quickly, ...",
+      "published_at": "2025-11-14T16:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CBMgZ95S35k/hqdefault.jpg"
     },
     {
-      "title": "Lift and shift (migrate) your Windows and Linux servers to Azure VM with Azure Migrate",
-      "video_id": "YAFcLWifeC0",
+      "title": "Confidential Computing: Defining a Spectrum of Guarantees | Confidential Computing Summit 2025",
+      "video_id": "WIeV2me3NQ0",
       "channel_title": "Microsoft Azure",
-      "description": "This video talks about the process of rehosting you're on-prem servers to Azure using Azure Migrates server migration capability.",
-      "published_at": "2025-07-25T14:00:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YAFcLWifeC0/hqdefault.jpg"
+      "description": "Join Azure CTO Mark Russinovich as he explores Confidential Computing, its deployment models, and recommended ...",
+      "published_at": "2025-11-13T09:04:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WIeV2me3NQ0/hqdefault.jpg"
     },
     {
-      "title": "Make-A-Wish brings more joy, hope, and strength to children through Microsoft technology",
-      "video_id": "cH1Y0xTomwM",
+      "title": "Confidential computing at a massive scale with G42 and AMD",
+      "video_id": "Ibuz1p0eHhM",
       "channel_title": "Microsoft Azure",
-      "description": "Make-A-Wish works to provide a life-changing experience of their dreams to every eligible child with a critical illness.",
-      "published_at": "2025-06-17T14:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cH1Y0xTomwM/hqdefault.jpg"
+      "description": "Step into the future of secure cloud computing with G42 as they join forces with Microsoft and AMD to redefine how sensitive data ...",
+      "published_at": "2025-11-13T09:03:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ibuz1p0eHhM/hqdefault.jpg"
     },
     {
-      "title": "Granular RBAC in Azure Monitor Log Analytics",
-      "video_id": "8WhOA0LCgU0",
+      "title": "Building Confidential Inferencing (and other SaaS) on Azure - Confidential Computing Summit 2025",
+      "video_id": "qPaqwO_6Wbs",
       "channel_title": "Microsoft Azure",
-      "description": "Granular role-based access control (RBAC) in Azure Monitor Log Analytics allows you to filter workspace data that each user can ...",
-      "published_at": "2025-06-16T15:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8WhOA0LCgU0/hqdefault.jpg"
+      "description": "Join Antoine Delignat-Lavaud, researcher at Microsoft, as he dives into the technical and practical challenges of building ...",
+      "published_at": "2025-11-13T07:30:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qPaqwO_6Wbs/hqdefault.jpg"
     },
     {
-      "title": "Secure and Scale for GenAI apps with Cloud Migration and Modernization",
-      "video_id": "1rdfQcdTqyc",
+      "title": "Interview with Mark Russinovich | Confidential Computing Summit 2025",
+      "video_id": "P9K4QBkU9NQ",
       "channel_title": "Microsoft Azure",
-      "description": "Learn about the challenges of building GenAI apps on-premises and how Azure is optimized to help you migrate and modernize ...",
-      "published_at": "2025-06-13T20:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1rdfQcdTqyc/hqdefault.jpg"
+      "description": "In this exclusive interview from the Confidential Computing Summit 2025, Mark Russinovich, CTO for Azure and technical fellow at ...",
+      "published_at": "2025-11-13T07:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/P9K4QBkU9NQ/hqdefault.jpg"
     },
     {
-      "title": "OC3 2025 | OpenHCL: the new open source paravisor by Chris Oo",
-      "video_id": "oJFEKuHGCzA",
+      "title": "Achieving Auditability and Trust Through Azure’s Cloud Transparency Service",
+      "video_id": "sgp_MJuZGJQ",
       "channel_title": "Microsoft Azure",
-      "description": "Join Chris Oo as he discusses Microsoft's development of the first industry “paravisor” that enables existing VM workloads to ...",
-      "published_at": "2025-06-03T14:01:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oJFEKuHGCzA/hqdefault.jpg"
+      "description": "Kartik Prabhu from Microsoft's Azure security team presents the Cloud Transparency Service (CTS), a confidential-grade Azure ...",
+      "published_at": "2025-11-13T06:30:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sgp_MJuZGJQ/hqdefault.jpg"
     },
     {
-      "title": "Microsoft Build 2025 | Software Development Company Highlights",
-      "video_id": "f7POcnSsGzY",
+      "title": "Securing data and records through Azure Confidential Ledger | Confidential Computing Summit 2025",
+      "video_id": "VFJgedgZYok",
       "channel_title": "Microsoft Azure",
-      "description": "Catch up on the highlights from Satya Nadella's Microsoft Build keynote, tailored for software companies. Read about the latest ...",
-      "published_at": "2025-05-29T14:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f7POcnSsGzY/hqdefault.jpg"
+      "description": "Azure experts, Shubhra Sinha Kamath and Yagnesh Setti Subramanian, explore how Azure Confidential Ledger empowers ...",
+      "published_at": "2025-11-13T05:30:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VFJgedgZYok/hqdefault.jpg"
     }
   ]
 }

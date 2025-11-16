@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-09T00:30:37.327969",
+  "fetched_at": "2025-11-16T00:30:59.910445",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "That Time Apollo 12 Got Struck by Lightning, Twice",
+      "video_id": "_D0aeR0IB7s",
+      "channel_title": "Hazegrayart",
+      "description": "rocket #apollo #saturnv On November 14, 1969, at 11:22 a.m. ET, Apollo 12 with NASA astronauts Charles \"Pete\" Conrad, Alan ...",
+      "published_at": "2025-11-14T20:22:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_D0aeR0IB7s/hqdefault.jpg"
+    },
     {
       "title": "Autonomous Spaceport Drone Ship Landing #rocketlab  #rocket #automobile",
       "video_id": "wo1oLquMnBM",
@@ -75,14 +83,6 @@
       "description": "Operation Sandy was the codename for the post-World War II launch of a captured V-2 rocket from the deck of the United States ...",
       "published_at": "2025-10-03T12:07:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/uoDshnc32ic/hqdefault.jpg"
-    },
-    {
-      "title": "The Large Space Shuttle",
-      "video_id": "l8aj3PK4q44",
-      "channel_title": "Hazegrayart",
-      "description": "DARPA studied modifying the current external tank design to be able to carry low-density payloads in a 25 or 35 ft (7.6 or 10.6 m) ...",
-      "published_at": "2025-09-30T12:01:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l8aj3PK4q44/hqdefault.jpg"
     }
   ]
 }

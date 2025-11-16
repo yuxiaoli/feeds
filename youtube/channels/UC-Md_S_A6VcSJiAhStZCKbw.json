@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-09T00:29:47.000321",
+  "fetched_at": "2025-11-16T00:30:10.032517",
   "channel_id": "UC-Md_S_A6VcSJiAhStZCKbw",
   "channel_title": "Jordi Koalitic",
   "count": 10,
   "videos": [
+    {
+      "title": "We still prefer real magic over AI generation 🪄 shot w @xiaomi #xiaomi15ultra",
+      "video_id": "44y47fXujh4",
+      "channel_title": "Jordi Koalitic",
+      "description": "",
+      "published_at": "2025-11-12T13:19:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/44y47fXujh4/hqdefault.jpg"
+    },
     {
       "title": "When they tell you “IT’S ALL ABOUT PERSPECTIVE “ and you finally get it 🤯 @NikonEurope #nikonz9",
       "video_id": "Z8MTYA5vrPQ",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-10-14T13:22:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GguqgNm0fxc/hqdefault.jpg"
-    },
-    {
-      "title": "When you finally se the light at the end of the tunnel 👀 shot w @NikonEurope #nikonz9",
-      "video_id": "qJNmNVt66GA",
-      "channel_title": "Jordi Koalitic",
-      "description": "",
-      "published_at": "2025-10-13T12:16:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qJNmNVt66GA/hqdefault.jpg"
     }
   ]
 }

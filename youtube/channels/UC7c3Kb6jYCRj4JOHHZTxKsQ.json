@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-11-09T00:29:57.000139",
+  "fetched_at": "2025-11-16T00:30:19.800531",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "The GitHub Universe 2025 highlights in 60 seconds",
-      "video_id": "70t8agv8usI",
+      "title": "Tackling your tech debt with Copilot coding agent",
+      "video_id": "LafpndhNC_E",
       "channel_title": "GitHub",
-      "description": "Missed GitHub Universe 2025? Here's what you need to know. We introduced Agent HQ, a single workflow to orchestrate agents ...",
-      "published_at": "2025-11-08T14:46:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/70t8agv8usI/hqdefault.jpg"
+      "description": "Before the age of agents, tech debt often went straight from the backlog to the graveyard. While it's important to continually identify ...",
+      "published_at": "2025-11-15T14:12:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LafpndhNC_E/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Ladybird",
-      "video_id": "i6_79RzntEQ",
+      "title": "Open Source Friday Exploring Joplin: Note-Taking App with Privacy First",
+      "video_id": "V0PRW-WIo2A",
       "channel_title": "GitHub",
-      "description": "From GitHub Universe 2025: Meet Ladybird Browser, the new independent web browser built entirely from scratch—no Chrome, ...",
-      "published_at": "2025-11-08T08:22:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i6_79RzntEQ/hqdefault.jpg"
+      "description": "Join us on this episode of Open Source Friday as we welcome Laurent Cozic, the creator of Joplin—a powerful open-source tool ...",
+      "published_at": "2025-11-15T06:37:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V0PRW-WIo2A/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] Open Source Friday Brasil 🇧🇷 com Arthur Fücher",
-      "video_id": "LNGpRWovX-s",
+      "title": "[pt-BR] Open Source Friday Brasil 🇧🇷✨ com Manoel Campos mantenedor do CloudSim Plus 📱",
+      "video_id": "TNoYF2d_qIY",
       "channel_title": "GitHub",
-      "description": "Open Source Friday Brasil Toda sexta-feira, ao vivo no canal GitHub Brasil, exploramos projetos Open Source brasileiros e ...",
-      "published_at": "2025-11-08T05:10:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LNGpRWovX-s/hqdefault.jpg"
+      "description": "Toda sexta-feira, ao vivo no canal Twitch.tv/GitHubBrasil , exploramos projetos Open Source brasileiros e conversamos com suas ...",
+      "published_at": "2025-11-15T05:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TNoYF2d_qIY/hqdefault.jpg"
     },
     {
-      "title": "The Download: GitHub Game Off, Universe 2025 &amp; Octoverse report recap",
-      "video_id": "1JxLIxbEzxQ",
+      "title": "[pt-BR] Open Source Friday Brasil 🇧🇷✨ com Manoel Campos mantenedor do CloudSim Plus",
+      "video_id": "sZF35ORhSq0",
       "channel_title": "GitHub",
-      "description": "This week on The Download, Christina Warren is back to recap the biggest news from GitHub Universe 2025, from Agent HQ to ...",
-      "published_at": "2025-11-07T17:54:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1JxLIxbEzxQ/hqdefault.jpg"
+      "description": "Toda sexta-feira, ao vivo no canal Twitch.tv/GitHubBrasil , exploramos projetos Open Source brasileiros e conversamos com suas ...",
+      "published_at": "2025-11-15T05:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sZF35ORhSq0/hqdefault.jpg"
     },
     {
-      "title": "A Marine&#39;s Playbook for Building High-Performance Developer Teams at Fidelity",
-      "video_id": "qJ-tJ27wYSs",
+      "title": "Unboxing the GitHub Copilot Amazeball from the GitHub shop",
+      "video_id": "caKNPVHedHc",
       "channel_title": "GitHub",
-      "description": "Join Andrea Griffiths, Senior Developer Advocate at GitHub, as she sits down with Jeff Cobble, Director of Cloud Platform ...",
-      "published_at": "2025-11-07T14:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qJ-tJ27wYSs/hqdefault_live.jpg"
+      "description": "Meet the GitHub Copilot Amazeball, your new \"vaguely spherical pair programmer.\" We unbox this new desk toy from the GitHub ...",
+      "published_at": "2025-11-14T15:01:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/caKNPVHedHc/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Let&#39;s cowork! Cassidy&#39;s back! Hey!",
-      "video_id": "QZGQNEZTZr8",
+      "title": "Rubber Duck Thursdays - Let&#39;s cowork and talk about the Game Off!",
+      "video_id": "cPs8mMtI-yM",
       "channel_title": "GitHub",
-      "description": "We're going to talk tech and perhaps code something, too!",
-      "published_at": "2025-11-07T08:14:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QZGQNEZTZr8/hqdefault.jpg"
+      "description": "Are you planning on entering? Check it out! https://github.blog/company/github-game-off-2025-theme-announcement/",
+      "published_at": "2025-11-14T08:11:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cPs8mMtI-yM/hqdefault.jpg"
     },
     {
-      "title": "Event in Spanish: Jueves de Quack con Gisela Torres",
-      "video_id": "yUA47dQczE8",
+      "title": "Quinta do Patinho ✨",
+      "video_id": "8S3S5NfoJtw",
       "channel_title": "GitHub",
-      "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde Gisela Torres @returngis y Andrea Griffiths @acolombiadev ...",
-      "published_at": "2025-11-07T00:42:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yUA47dQczE8/hqdefault_live.jpg"
+      "description": "A Quinta do Patinho está de volta! Toda quinta-feira, ao vivo, a gente se reúne pra codar, explorar ferramentas, testar ideias e ...",
+      "published_at": "2025-11-14T05:05:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8S3S5NfoJtw/hqdefault.jpg"
     },
     {
-      "title": "How this open source project broke Minecraft",
-      "video_id": "Busz5mhYa_s",
+      "title": "Quinta do Patinho ✨ 📱",
+      "video_id": "7ur14xMSzqo",
       "channel_title": "GitHub",
-      "description": "Imagine being in the middle of fixing a global security crisis, only to find out your own son's Minecraft game is broken... by your ...",
-      "published_at": "2025-11-06T17:11:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Busz5mhYa_s/hqdefault.jpg"
+      "description": "A Quinta do Patinho está de volta! Toda quinta-feira, ao vivo, a gente se reúne pra codar, explorar ferramentas, testar ideias e ...",
+      "published_at": "2025-11-14T05:05:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7ur14xMSzqo/hqdefault.jpg"
     },
     {
-      "title": "Anders Hejlsberg (creator of TypeScript) reacts to the 2025 Octoverse report",
-      "video_id": "GMWJceUTxuk",
+      "title": "Event in Spanish: Jueves de Quack con Interledger",
+      "video_id": "hATdZTq2pqk",
       "channel_title": "GitHub",
-      "description": "Join Anders Hejlsberg, the creator of TypeScript and Technical Fellow at Microsoft, as he reacts to the key findings from the ...",
-      "published_at": "2025-11-06T14:48:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GMWJceUTxuk/hqdefault.jpg"
+      "description": "Únete ‪@alacolombiadev‬ y Marian Villa (DevRel en Interledger) para una conversación en vivo sobre innovación, comunidad y ...",
+      "published_at": "2025-11-14T04:12:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hATdZTq2pqk/hqdefault.jpg"
     },
     {
-      "title": "AI &amp; Copilot: Modernizing Applications for the Cloud",
-      "video_id": "a9glyQs6cbE",
+      "title": "The future of coding: Idan Gazit breaks down Octoverse 2025",
+      "video_id": "MQOaBXwRfYo",
       "channel_title": "GitHub",
-      "description": "Join Ayan Gupta live as we explore how GitHub Copilot App Modernization helps teams upgrade, migrate, and deploy ...",
-      "published_at": "2025-11-06T08:26:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a9glyQs6cbE/hqdefault.jpg"
+      "description": "What does the Head of GitHub Next think about the trends shaping software development? Idan Gazit reacts to the key findings ...",
+      "published_at": "2025-11-13T15:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MQOaBXwRfYo/hqdefault.jpg"
     }
   ]
 }

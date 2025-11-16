@@ -1,72 +1,88 @@
 {
-  "fetched_at": "2025-11-09T00:30:01.072322",
+  "fetched_at": "2025-11-16T00:30:23.915690",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 8,
+  "count": 10,
   "videos": [
     {
-      "title": "Motion Design in Unreal Engine, Episode 10: Cloners, Part Two",
-      "video_id": "22yo8Bt0vNs",
+      "title": "Adopting Twinmotion for Smarter Solutions | Unreal Fest Orlando 2025",
+      "video_id": "BnM5-BPdZns",
       "channel_title": "Unreal Engine",
-      "description": "Watch this second video on cloners from the 'Motion Design in Unreal Engine' series, in which Nick Jushchyshyn (AKA Pixel Prof) ...",
-      "published_at": "2025-11-07T14:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/22yo8Bt0vNs/hqdefault.jpg"
+      "description": "This session recorded at Unreal Fest Orlando 2025 demonstrates the potential of Twinmotion to simplify your workflow and ...",
+      "published_at": "2025-11-15T19:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BnM5-BPdZns/hqdefault.jpg"
     },
     {
-      "title": "I AM RIPPER | Game Profile | Unreal Engine",
-      "video_id": "GkH9ZhNUrA0",
+      "title": "Closing the Sim-to-Real Gap with Unreal Engine | Unreal Fest Orlando 2025",
+      "video_id": "jf3L23H5niM",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to find out how White Paper Games used UE5 to create nail-biting thriller 'I AM RIPPER.' Tactile gameplay and a ...",
-      "published_at": "2025-11-06T15:29:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GkH9ZhNUrA0/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Orlando 2025, Jim Piavis of Scaled Foundations shows how Open GRID utilizes Unreal ...",
+      "published_at": "2025-11-15T17:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jf3L23H5niM/hqdefault.jpg"
     },
     {
-      "title": "A-COM Animation Sample: Project Walkthrough",
-      "video_id": "pQWyC9LznfE",
+      "title": "Dynamic Data-Driven Worlds: Transforming Massive BIM Models | Unreal Fest Orlando 2025",
+      "video_id": "H7UHMXJzNWc",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video for a walkthrough of the animation workflows and features in Unreal Engine 5.6 used to create Beta's Intro—the ...",
-      "published_at": "2025-11-04T09:18:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pQWyC9LznfE/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Orlando 2025, Imerza showcases the real-time transformation of massive BIM models.",
+      "published_at": "2025-11-15T15:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H7UHMXJzNWc/hqdefault.jpg"
     },
     {
-      "title": "A-COM Animation Sample Now Available | Unreal Engine",
-      "video_id": "m7ND8zEKe7A",
+      "title": "Build AI-powered Digital Humans in Unreal Engine 5 | Unreal Fest Orlando 2025",
+      "video_id": "uwuT8ERswHo",
       "channel_title": "Unreal Engine",
-      "description": "Check out Agora Studio's two new animation sample projects for UE: the A-COM Animatic Sample and A-COM Animation Sample.",
-      "published_at": "2025-11-04T09:18:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m7ND8zEKe7A/hqdefault.jpg"
+      "description": "Watch this session recorded at Unreal Fest Orlando 2025, hosted by NVIDIA, and learn how to enable agentic workflows that ...",
+      "published_at": "2025-11-14T17:01:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uwuT8ERswHo/hqdefault.jpg"
     },
     {
-      "title": "A First Look at the New Animation Features in Unreal Engine 5.6",
-      "video_id": "LtQWZQxGeXM",
+      "title": "World&#39;s First UE5 Vehicle Navigation: Pioneering Vector Tiles | Unreal Fest Orlando 2025",
+      "video_id": "KnQgaaUSM_s",
       "channel_title": "Unreal Engine",
-      "description": "Check out the updates to Unreal Engine's in-editor animation toolsets in UE 5.6. UE 5.6 enables you to animate with greater ...",
-      "published_at": "2025-11-03T15:45:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LtQWZQxGeXM/hqdefault.jpg"
+      "description": "This session recorded at Unreal Fest Orlando 2025 demonstrates the next-generation navigation that integrates Unreal Engine ...",
+      "published_at": "2025-11-14T11:04:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KnQgaaUSM_s/hqdefault.jpg"
     },
     {
-      "title": "Non-Destructive Workflows for Chaos Physics in UE5 | Unreal Fest Orlando 2025",
-      "video_id": "t_jyTILDYo8",
+      "title": "In-Island Transactions  | UEFN Build Along",
+      "video_id": "wdHLRL3OCns",
       "channel_title": "Unreal Engine",
-      "description": "Setting up content for physics can be difficult and time consuming. In this session, we explore how UE5's Dataflow Graph system ...",
-      "published_at": "2025-11-03T11:36:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t_jyTILDYo8/hqdefault.jpg"
+      "description": "Come build with us as we explore the new In-Island Transaction tools! November 13th @ 4:45 PM ET.",
+      "published_at": "2025-11-13T23:08:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wdHLRL3OCns/hqdefault.jpg"
     },
     {
-      "title": "Epic Games Store: 2025 Update | Unreal Fest Bali 2025",
-      "video_id": "xGl_bBWUbYA",
+      "title": "Unreal Engine 5.7 Feature Overview | Inside Unreal",
+      "video_id": "3PQga-2vLm4",
       "channel_title": "Unreal Engine",
-      "description": "In January 2025, the Epic Games Store's 'on mobile update' added support for third-party mobile games along with several new ...",
-      "published_at": "2025-11-03T11:06:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xGl_bBWUbYA/hqdefault.jpg"
+      "description": "Unreal Engine 5.7 is now available! Build expansive, lifelike worlds filled with rich, beautiful details in real time; render high-fidelity ...",
+      "published_at": "2025-11-13T21:06:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3PQga-2vLm4/hqdefault.jpg"
     },
     {
-      "title": "The Road to 60 fps in The Witcher 4 Unreal Engine 5 Tech Demo | Unreal Fest Orlando 2025",
-      "video_id": "ji0Hfiswcjo",
+      "title": "UEFN HLODs, Data Layers, Draw Distance, and Static Level Optimizations | Unreal Fest Orlando 2025",
+      "video_id": "RwRp3DlWkSE",
       "channel_title": "Unreal Engine",
-      "description": "Over the past year, we transformed the rendering, animation, and streaming pipelines in The Witcher 4 Unreal Engine 5 Tech ...",
-      "published_at": "2025-10-31T10:05:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ji0Hfiswcjo/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Orlando 2025, Aggressive Performance covers Unreal Editor for Fortnite (UEFN) static ...",
+      "published_at": "2025-11-13T12:23:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RwRp3DlWkSE/hqdefault.jpg"
+    },
+    {
+      "title": "Unreal Engine 5.7 Feature Highlights",
+      "video_id": "TDGujnN_PN0",
+      "channel_title": "Unreal Engine",
+      "description": "Unreal Engine 5.7 empowers you to build expansive, lifelike, high-performance worlds filled with rich, beautifully detailed dense ...",
+      "published_at": "2025-11-12T15:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TDGujnN_PN0/hqdefault.jpg"
+    },
+    {
+      "title": "Unreal Engine AECO Sizzle Reel 2025",
+      "video_id": "UfvdNpg6PgI",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video for a look at some of the spectacular Unreal Engine projects that have been delivered across the architecture, ...",
+      "published_at": "2025-11-11T17:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UfvdNpg6PgI/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-09T00:29:48.367430",
+  "fetched_at": "2025-11-16T00:30:11.415009",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Boz To The Future # 24: The Future According to Francois Chardavoine",
+      "video_id": "WpFCYR3f46U",
+      "channel_title": "Meta",
+      "description": "Welcome back to another episode of Boz To The Future, hosted by Meta CTO and Head of Reality Labs Andrew \"Boz\" Bosworth.",
+      "published_at": "2025-11-10T16:50:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WpFCYR3f46U/hqdefault.jpg"
+    },
     {
       "title": "How these Quest sculptures become 3D art with @Salventius",
       "video_id": "yVKcxkWfKo0",
@@ -75,14 +83,6 @@
       "description": "the life of a meta social girl.",
       "published_at": "2025-10-03T16:19:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/k-QLy8Yb3xw/hqdefault.jpg"
-    },
-    {
-      "title": "10 Years in the Making",
-      "video_id": "LIvpjFZwx4Q",
-      "channel_title": "Meta",
-      "description": "We just unveiled Meta Ray-Ban Display glasses, our most advanced pair of AI glasses yet. It's taken ten years of innovation, ...",
-      "published_at": "2025-10-02T16:49:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LIvpjFZwx4Q/hqdefault.jpg"
     }
   ]
 }

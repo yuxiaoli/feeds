@@ -1,16 +1,48 @@
 {
-  "fetched_at": "2025-11-09T00:30:04.524050",
+  "fetched_at": "2025-11-16T00:30:27.451988",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
     {
-      "title": "XPENG&#39;s New Robot Has Body Parts",
-      "video_id": "4jmYRTPswMw",
+      "title": "What Happens If An Asteroid Hits Earth?",
+      "video_id": "Ik9F3Sto89E",
       "channel_title": "Interesting Engineering",
-      "description": "XPENG have just announced a new iteration of their robot, called IRON. However, they are targeting male and female body types ...",
-      "published_at": "2025-11-06T11:33:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4jmYRTPswMw/hqdefault.jpg"
+      "description": "Asteroids hitting Earth sounds like a story straight out of science fiction, or the era of dinosaurs. But the threat is very real.",
+      "published_at": "2025-11-14T19:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ik9F3Sto89E/hqdefault.jpg"
+    },
+    {
+      "title": "The Factory That Prints Furniture",
+      "video_id": "QVfTcze_e4s",
+      "channel_title": "Interesting Engineering",
+      "description": "Inside Haddy's new 3D-printing micro factory, eight CEAD robots can produce 300000 custom pieces a year. Powered by ...",
+      "published_at": "2025-11-14T15:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QVfTcze_e4s/hqdefault.jpg"
+    },
+    {
+      "title": "Americium: The Element That Will Transform Space Travel",
+      "video_id": "g0AwtpgD-pE",
+      "channel_title": "Interesting Engineering",
+      "description": "Space explorations cannot rely on solar power alone. Especially when it comes to the far reaches of our solar system, the Sun's ...",
+      "published_at": "2025-11-12T14:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g0AwtpgD-pE/hqdefault.jpg"
+    },
+    {
+      "title": "Sending Solar Panels to Space",
+      "video_id": "4sp14SD_kAQ",
+      "channel_title": "Interesting Engineering",
+      "description": "Solar panels are one of the many ways we can generate clean energy. But they're often hampered by the atmosphere, or the ...",
+      "published_at": "2025-11-11T20:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4sp14SD_kAQ/hqdefault.jpg"
+    },
+    {
+      "title": "The Future of Human Space Exploration",
+      "video_id": "3iOW0_eVhRo",
+      "channel_title": "Interesting Engineering",
+      "description": "Humanity is turning its gaze towards the moon once again -- and far beyond. Lockheed Martin designed and built Orion, the only ...",
+      "published_at": "2025-11-10T17:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3iOW0_eVhRo/hqdefault.jpg"
     },
     {
       "title": "NASA Reports Life On Mars",
@@ -37,14 +69,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3D4nA8bM2Kw/hqdefault.jpg"
     },
     {
-      "title": "The Most Hygenic Chemical Reaction",
-      "video_id": "yjrvIITHtgo",
-      "channel_title": "Interesting Engineering",
-      "description": "Soap just might be the number one disease prevention method. Its invention changed history. But have you ever wondered how ...",
-      "published_at": "2025-08-21T11:30:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yjrvIITHtgo/hqdefault.jpg"
-    },
-    {
       "title": "Shape Changing Antenna Secures Signal",
       "video_id": "5GIFQ5CvF2Q",
       "channel_title": "Interesting Engineering",
@@ -59,30 +83,6 @@
       "description": "Think you can solve it? A 100 kg weight is lifted with this pulley system — but how much force is really needed? Drop your answer ...",
       "published_at": "2025-08-18T17:01:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qPpqlXpfYGs/hqdefault.jpg"
-    },
-    {
-      "title": "ROV SuBastian Livestreams Deep Sea Marine Life",
-      "video_id": "3sGV_KgLvEM",
-      "channel_title": "Interesting Engineering",
-      "description": "One of the biggest underexplored frontiers of the Earth is the bottom of the ocean. But now everyone can take a peek and enjoy as ...",
-      "published_at": "2025-08-07T08:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3sGV_KgLvEM/hqdefault.jpg"
-    },
-    {
-      "title": "World&#39;s Largest Battery Jumpstarts Australia",
-      "video_id": "pY4-lln4au0",
-      "channel_title": "Interesting Engineering",
-      "description": "The world's largest battery has just made its debut. Capable of powering 1 million homes for one hour all at once, the Waratah ...",
-      "published_at": "2025-08-05T18:00:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pY4-lln4au0/hqdefault.jpg"
-    },
-    {
-      "title": "Spotify Now Scans Faces For Age Verification",
-      "video_id": "wyCj7xVH-lc",
-      "channel_title": "Interesting Engineering",
-      "description": "In compliance with the UK Online Safety Act, Spotify—along with other online platforms—are now requiring facial verification ...",
-      "published_at": "2025-08-01T08:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wyCj7xVH-lc/hqdefault.jpg"
     }
   ]
 }

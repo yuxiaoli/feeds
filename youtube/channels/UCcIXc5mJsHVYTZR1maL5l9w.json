@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-11-09T00:30:31.789957",
+  "fetched_at": "2025-11-16T00:30:54.373649",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The PyTorch for Deep Learning Professional Certificate is live",
+      "video_id": "_mcC2lG9YDc",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4o70AuF PyTorch is one of the most widely used frameworks in AI research and production.",
+      "published_at": "2025-11-13T18:20:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_mcC2lG9YDc/hqdefault.jpg"
+    },
+    {
+      "title": "Design, Develop, and Deploy Multi-Agent Systems with CrewAI",
+      "video_id": "guXhZ_q6sVY",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4ooiRUl Introducing \"Design, Develop, and Deploy Multi-Agent Systems with CrewAI,\" taught by João ...",
+      "published_at": "2025-11-11T14:24:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/guXhZ_q6sVY/hqdefault.jpg"
+    },
     {
       "title": "Learn to code, debug, and analyze data with AI assistance in Jupyter notebooks",
       "video_id": "iiLLfHq047U",
@@ -67,22 +83,6 @@
       "description": "Learn more: https://bit.ly/3IfEp5R Learn how to help AI agents find and execute the right APIs in the right order using a knowledge ...",
       "published_at": "2025-09-10T14:12:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/funhZgM8uIk/hqdefault.jpg"
-    },
-    {
-      "title": "New course with Neo4j! Enroll in Agentic Knowledge Graph Construction",
-      "video_id": "pG5xMfkeMtg",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4lKS3M2 Learn to automate the construction of knowledge graphs using agents in Agentic Knowledge ...",
-      "published_at": "2025-08-27T13:48:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pG5xMfkeMtg/hqdefault.jpg"
-    },
-    {
-      "title": "Build GenAI app prototypes in days instead of months! Join our new course",
-      "video_id": "1km00uTv1aA",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/47q045r Traditional development cycles, where it takes months of planning before anything ships, don't ...",
-      "published_at": "2025-08-12T14:07:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1km00uTv1aA/hqdefault.jpg"
     }
   ]
 }

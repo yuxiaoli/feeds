@@ -1,72 +1,32 @@
 {
-  "fetched_at": "2025-11-09T00:29:54.919339",
+  "fetched_at": "2025-11-16T00:30:17.648537",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 10,
+  "count": 5,
   "videos": [
     {
-      "title": "7 Python Anti Patterns to Avoid",
-      "video_id": "KUPceyLgzeU",
+      "title": "These Tools Changed My Python Workflow",
+      "video_id": "Cn6juk073uM",
       "channel_title": "Tech With Tim",
-      "description": "Get started with Airia today and register for a free account to start orchestrating your own AI agents: https://bit.ly/3KhdQOq This ...",
-      "published_at": "2025-11-08T18:52:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KUPceyLgzeU/hqdefault.jpg"
+      "description": "Try ConfigCat's Forever Free plan, or get 25% off any paid plan with the code TIM25 ...",
+      "published_at": "2025-11-15T14:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cn6juk073uM/hqdefault.jpg"
     },
     {
-      "title": "3 things you have to do as a programmer!",
-      "video_id": "EibDfhzNvzg",
+      "title": "Finally, an AI Database That Actually Makes Sense",
+      "video_id": "8cf_bveteOE",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-11-08T15:40:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EibDfhzNvzg/hqdefault.jpg"
+      "description": "Create an Account to try Tiger Data for Free: https://tsdb.co/twt I'm going to show you some of the coolest AI features that I've seen ...",
+      "published_at": "2025-11-13T13:45:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8cf_bveteOE/hqdefault.jpg"
     },
     {
-      "title": "If you&#39;re a software developer, watch this video!",
-      "video_id": "Z7Wg1tdgx9I",
+      "title": "Python Skills You NEED Before Machine Learning",
+      "video_id": "YhmtBmyQt18",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-11-07T18:38:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z7Wg1tdgx9I/hqdefault.jpg"
-    },
-    {
-      "title": "The only way you will stay motivated as a programer.",
-      "video_id": "N0go7bRXvfs",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-11-06T16:30:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N0go7bRXvfs/hqdefault.jpg"
-    },
-    {
-      "title": "Is This the Fastest App Build Ever? (Base44 Demo)",
-      "video_id": "WPBXvDS-UEo",
-      "channel_title": "Tech With Tim",
-      "description": "In this video, I'm going to attempt to clone Airbnb in just ten minutes and get to a functional prototype. Of course, I'm going to be ...",
-      "published_at": "2025-11-06T13:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WPBXvDS-UEo/hqdefault.jpg"
-    },
-    {
-      "title": "Check the description for my full blueprint on how to land a high paying developer job.",
-      "video_id": "GUJuidMl5ls",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-11-05T18:15:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GUJuidMl5ls/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI’s New Agent Builder is Insane - Full Tutorial",
-      "video_id": "g93XqSRxcAs",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with Rube today: ...",
-      "published_at": "2025-11-04T13:59:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g93XqSRxcAs/hqdefault.jpg"
-    },
-    {
-      "title": "The only video you need to watch if you want to become a software engineer!",
-      "video_id": "Haa4Tw6MWUk",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-09-12T16:04:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Haa4Tw6MWUk/hqdefault.jpg"
+      "description": "These are two of the best beginner-friendly Python Machine Learning resources I recommend: Python Data Fundamentals ...",
+      "published_at": "2025-11-11T14:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YhmtBmyQt18/hqdefault.jpg"
     },
     {
       "title": "How I Vibe Coded 3 Apps in 20 Minutes - DeepAgent Demo",
@@ -77,12 +37,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0Vx1MWojNaU/hqdefault.jpg"
     },
     {
-      "title": "THIS is why you keep getting ghosted by recruiters",
-      "video_id": "fRkxtW12oBI",
+      "title": "Why I’m Ditching ChatGPT… ChatLLM Tutorial",
+      "video_id": "EYcDauqeJjI",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-04T02:52:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
+      "description": "Get started wirh ChatLLM here: https://chatllm.abacus.ai I want you to ask yourself how many I subscriptions are you currently ...",
+      "published_at": "2025-04-25T13:48:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EYcDauqeJjI/hqdefault.jpg"
     }
   ]
 }

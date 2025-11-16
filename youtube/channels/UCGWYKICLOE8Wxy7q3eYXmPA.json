@@ -1,40 +1,56 @@
 {
-  "fetched_at": "2025-11-09T00:30:07.246283",
+  "fetched_at": "2025-11-16T00:30:30.158383",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "【商业】Canva的创业之路 | CEO梅兰妮·珀金斯 | B栏思维 | 十年目标 | 长期主义 | 三张图 | 可视化组织 | 如何对待否定 | 公益与产品 | 2050年的未来",
-      "video_id": "quwaZPVMG9M",
+      "title": "【人工智能】NanoBanana爆火的原因 | 红杉专访产品和工程负责人 | 如何解决角色一致性 | 名字的由来 | 人工评估 | 匠心打磨 | 从趣味性到实用性 | 短期和长期目标 | 如何防止滥用",
+      "video_id": "BaDmwxCu_t4",
       "channel_title": "最佳拍档",
-      "description": "最近Canva的CEO梅兰妮·珀金斯在Lenny's Podcast的一期节目里，详细拆解了她从0到1打造Canva的底层逻辑，没有所谓的爆款 ...",
-      "published_at": "2025-11-07T23:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/quwaZPVMG9M/hqdefault.jpg"
+      "description": "11月11日，红杉资本的斯蒂芬妮·詹（Stephanie Zhan）和帕特·格雷迪（Pat Grady），对Nano Banana核心团队进行了一次专访， ...",
+      "published_at": "2025-11-15T10:12:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BaDmwxCu_t4/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】如何训练一个世界级小模型 | HuggingFace Smol3模型训练手册 | 明确动机 | 预训练 | 四个踩坑 | 监督微调 | 强化学习 | 消融实验 | 基础设施 | GPU通讯",
-      "video_id": "H7CKhTXoR30",
+      "title": "【分享】巴菲特的最后一封致股东信 | 六十年商业传奇生涯告别 | 童年经历回忆 | 奥马哈的哺育 | 面对衰老 | 家庭和慈善 | 继任者阿贝尔 | 企业高管薪酬 | 股价波动 | 人生箴言",
+      "video_id": "K1QMiBTNt5E",
       "channel_title": "最佳拍档",
-      "description": "最近，Hugging Face的12位工程师发布了一份《The Smol Training Playbook》指南，记录了他们训练SmolLM3的全过程，可以说 ...",
-      "published_at": "2025-11-06T09:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H7CKhTXoR30/hqdefault.jpg"
+      "description": "前两天，有奥马哈先知之称的沃伦·巴菲特（Warren Buffett），这位执掌伯克希尔·哈撒韦公司（Berkshire Hathaway）整整六十年的 ...",
+      "published_at": "2025-11-14T09:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K1QMiBTNt5E/hqdefault.jpg"
     },
     {
-      "title": "【OpenAI】两年前宫斗内幕再被揭开 | 62页Ilya证词曝光 | 谋划一年 | Mira Murati | Anthropic合并 | 董事会经验不足 | Helen Toner | Greg",
-      "video_id": "d_qRrlPwKSk",
+      "title": "【访谈】理性与克制才是真正的长期资产 | 段永平雪球最新采访 | 做对的事 | 本分的文化 | 不做什么才重要 | 投资的核心 | 信任与放权 | AI的工业革命 | 英伟达 | 买股票就是买公司",
+      "video_id": "iiYHtk-cfBM",
       "channel_title": "最佳拍档",
-      "description": "在最近埃隆·马斯克（Elon Musk）起诉山姆·奥特曼（Sam Altman）的诉讼案中，公布了伊利亚·苏茨克维尔（Ilya Sutskever）一份长 ...",
-      "published_at": "2025-11-05T09:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d_qRrlPwKSk/hqdefault.jpg"
+      "description": "11 月11 日，在雪球出品的《方略》第三季第一期中，雪球创始人方三文在美国加州与段永平面对面。这不仅是一场关于财富的访谈 ...",
+      "published_at": "2025-11-13T09:35:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iiYHtk-cfBM/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】AI进入双重复利阶段 | Satya Nadella与Sam Altman BG2对话 | 2019年投资 | 共生关系 | 电力不足 | AI泡沫 | SaaS被重写 | 工业复兴",
-      "video_id": "SW1siWSnq_E",
+      "title": "【人工智能】AI的下一个十年是空间智能 | 李飞飞亲自撰文 | 大语言模型的局限 | 构建世界模型 | 生成式 | 多模态 | 交互性 | 三大挑战 | World Labs",
+      "video_id": "s2yLdM46jcM",
       "channel_title": "最佳拍档",
-      "description": "前两天，硅谷最活跃的成长型投资人之一，Altimeter Capital 的创始人布拉德·格斯特纳Brad Gerstner，以投资者的视角，促成了一场 ...",
-      "published_at": "2025-11-03T12:08:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SW1siWSnq_E/hqdefault.jpg"
+      "description": "11月10日，李飞飞亲自撰文，认为生成AI的下一个战场是空间智能（Spatial Intelligence）。在文章中，她首次系统性地解释了什么 ...",
+      "published_at": "2025-11-12T09:01:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s2yLdM46jcM/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】谷歌最新论文提出嵌套学习概念 | Nested Learning | 深度学习的幻觉 | 持续学习 | 人脑的神经可塑性 | 记忆巩固 | 嵌套优化 | 深度优化器 | HOPE模型",
+      "video_id": "ljYXKurry9o",
+      "channel_title": "最佳拍档",
+      "description": "今天，我们要聊的这篇来自谷歌研究院的重磅论文，《嵌套学习：深度学习架构的幻象》（Nested Learning: The Illusion of Deep ...",
+      "published_at": "2025-11-11T09:01:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ljYXKurry9o/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】AI是产业革命还是一场泡沫 | 六位AI奠基人罕见齐聚讨论 | 杰弗里·辛顿 | 杨立昆 | 约书亚·本吉奥 | 黄仁勋 | 比尔·达利 | 李飞飞 | 顿悟时刻 | AGI何时到来",
+      "video_id": "Ca1Gxg3J_Lc",
+      "channel_title": "最佳拍档",
+      "description": "深度学习三巨头杰弗里·辛顿、杨立昆、约书亚·本吉奥，英伟达的算力双引擎，CEO黄仁勋和首席科学家比尔·达利，以及李飞飞， ...",
+      "published_at": "2025-11-10T12:34:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ca1Gxg3J_Lc/hqdefault.jpg"
     },
     {
       "title": "【人工智能】OpenAI完成公司架构重组 | PBC | 投入250亿美元 | 和微软签署新长期协议 | 公开AI发展时间线 | 2028年自动AI研究员 | 对齐的五层结构 | GPT6 | IPO",
@@ -67,22 +83,6 @@
       "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts Meta在AI团队最近的磨合重组的过程中，至少有8名骨干员工，包括研究 ...",
       "published_at": "2025-08-29T10:45:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5UWCU9_ojFw/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】详解UE8M0 FP8 | DeepSeek为何一句话让寒武纪暴涨千亿市值 | 浮点数 | 量化 | MX | 缩放因子 | Blackwell | 狂欢后的冷静 | 渐进式演进",
-      "video_id": "zTdUzh-KVbE",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 最近，国产算力芯片领域有个词火了，那就是UE8M0 FP8。火爆的原因， ...",
-      "published_at": "2025-08-26T09:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zTdUzh-KVbE/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】从不被认可走向行业突破 | 吴恩达回忆谷歌经历 | X实验室 | 规模决定性能 | 单一学习算法 | Larry Page | Jeff Dean | Coursera | AI Fund",
-      "video_id": "ql7qed1r7nU",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 8月8日，吴恩达接受了The Moonshot播客的专访，围绕吴恩达的学术生涯 ...",
-      "published_at": "2025-08-24T09:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ql7qed1r7nU/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-09T00:30:42.999349",
+  "fetched_at": "2025-11-16T00:31:05.316325",
   "channel_id": "UCqK9h1enC4NS4o3RSWwAz2Q",
   "channel_title": "SVF TV “Stock Video Footage TV”",
   "count": 10,
   "videos": [
+    {
+      "title": "Relaxing Sea Waves on a Summer Day | 4K Ultra HD Nature Video",
+      "video_id": "S4xr1KASjkY",
+      "channel_title": "SVF TV “Stock Video Footage TV”",
+      "description": "Enjoy this relaxing coastal landscape on a beautiful summer day, filmed in stunning 4K Ultra HD. Perfect for meditation ...",
+      "published_at": "2025-11-14T07:41:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S4xr1KASjkY/hqdefault.jpg"
+    },
     {
       "title": "Beautiful Autumn River Flowing Through Forest | 4K Nature Footage | Free Stock Video",
       "video_id": "lxvZOHYHo8M",
@@ -75,14 +83,6 @@
       "description": "Enjoy this free stock footage featuring a beautiful sunflower in the garden. Perfect for filmmakers, designers, and content creators ...",
       "published_at": "2025-08-06T10:10:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3FQPAznbfyM/hqdefault.jpg"
-    },
-    {
-      "title": "60 Seconds of a Peaceful River – Nature in 4K | No Music #Shorts",
-      "video_id": "OJGIqLemwwg",
-      "channel_title": "SVF TV “Stock Video Footage TV”",
-      "description": "Take a full minute to slow down. This peaceful 4K river scene is perfect for relaxation, focus, or just a breath of calm. No music.",
-      "published_at": "2025-08-03T12:00:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OJGIqLemwwg/hqdefault.jpg"
     }
   ]
 }

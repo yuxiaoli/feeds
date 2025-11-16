@@ -1,24 +1,32 @@
 {
-  "fetched_at": "2025-11-09T00:30:12.795855",
+  "fetched_at": "2025-11-16T00:30:35.667492",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Why Security Training Fails",
-      "video_id": "7muYSvhI-sY",
+      "title": "GPT-5.1 and Kimi K2: What ‘Thinking AI’ really means",
+      "video_id": "5sFJVAoafFI",
       "channel_title": "IBM Technology",
-      "description": "Making security stick means making it simple. Learn how gamification and visual risk tools drive real behavior change. Watch the ...",
-      "published_at": "2025-11-07T18:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7muYSvhI-sY/hqdefault.jpg"
+      "description": "Explore the podcast → https://ibm.biz/Bdbb4f Which model is better, GPT-5.1 or Kimi K2 Thinking? This week on Mixture of ...",
+      "published_at": "2025-11-14T11:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5sFJVAoafFI/hqdefault.jpg"
     },
     {
-      "title": "1X NEO humanoid robot enters the home",
-      "video_id": "9GhT1mp5Edk",
+      "title": "BeeAI Framework: Extending LLMs with Tools, RAG, &amp; AI Agents",
+      "video_id": "WozA_qHEAqo",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/Bdbazd Would you trust a humanoid robot to unload your dishwasher? This week on Mixture ...",
-      "published_at": "2025-11-07T11:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9GhT1mp5Edk/hqdefault.jpg"
+      "description": "Ready to become a certified Certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of ...",
+      "published_at": "2025-11-13T12:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WozA_qHEAqo/hqdefault.jpg"
+    },
+    {
+      "title": "Prompt Engineering for LLMs, PDL, &amp; LangChain in Action",
+      "video_id": "cgVppD6paYo",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of ...",
+      "published_at": "2025-11-10T12:01:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cgVppD6paYo/hqdefault.jpg"
     },
     {
       "title": "What Are Large Reasoning Models (LRMs)? Smarter AI Beyond LLMs",
@@ -35,22 +43,6 @@
       "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
       "published_at": "2025-11-05T10:01:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
-    },
-    {
-      "title": "Orchestrator Agents &amp; MCP: How AI Agents Drive Automation",
-      "video_id": "Ons1Fv3IE4U",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-11-04T12:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ons1Fv3IE4U/hqdefault.jpg"
-    },
-    {
-      "title": "What Is an AI Stack? LLMs, RAG, &amp; AI Hardware",
-      "video_id": "RRKwmeyIc24",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of ...",
-      "published_at": "2025-11-03T12:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RRKwmeyIc24/hqdefault.jpg"
     },
     {
       "title": "Can you spot the social engineering trap?",
@@ -83,6 +75,14 @@
       "description": "Ready to become a certified watsonx Mainframe Modernization Architect? Register now and use code IBMTechYT20 for 20% off ...",
       "published_at": "2025-09-21T11:00:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IRa6XmG8QCQ/hqdefault.jpg"
+    },
+    {
+      "title": "Building Trustworthy AI Agents with Hybrid RAG",
+      "video_id": "l9LfC98tE_4",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-09-16T11:01:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l9LfC98tE_4/hqdefault.jpg"
     }
   ]
 }

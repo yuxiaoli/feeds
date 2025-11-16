@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-09T00:29:54.185184",
+  "fetched_at": "2025-11-16T00:30:16.934262",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "How Disney Created the Spectacular Christening Projection Show for the Disney Destiny",
+      "video_id": "FFKBtnLo0mc",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Disney Cruise Line has officially christened its newest ship, the Disney Destiny, in spectacular fashion! Witness a groundbreaking ...",
+      "published_at": "2025-11-11T00:10:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FFKBtnLo0mc/hqdefault.jpg"
+    },
     {
       "title": "Hey we’re Imagineers on the Special Effects team — this is our lab! 🚪✨ #disney #spfx #disneyparks",
       "video_id": "fbbJ5ZWWiKY",
@@ -75,14 +83,6 @@
       "description": "How do Imagineers make mountains? Tom Morrow 2.0 answers Michelle Khare's question from 25 years ago and finds out ...",
       "published_at": "2025-09-15T16:01:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/YLZlSxFU1rE/hqdefault.jpg"
-    },
-    {
-      "title": "We Call It Imagineering | Building Castles",
-      "video_id": "dQ_xNj7gkM8",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "Nothing says Disney Parks like castles. Disney Castles are beloved icons, synonymous with magic, and a symbol of Disney ...",
-      "published_at": "2025-09-08T16:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dQ_xNj7gkM8/hqdefault.jpg"
     }
   ]
 }

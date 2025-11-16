@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-11-09T00:30:45.150452",
+  "fetched_at": "2025-11-16T00:31:07.333381",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "Chew Your Food 2️⃣0️⃣ times!",
+      "video_id": "rbXPzkDEqlc",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2025-11-14T18:24:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rbXPzkDEqlc/hqdefault.jpg"
+    },
+    {
+      "title": "Pasta &amp; Wine Surprising Effect 🍝🍷",
+      "video_id": "Xn0-7gDUQ9g",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2025-11-12T08:31:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xn0-7gDUQ9g/hqdefault.jpg"
+    },
+    {
+      "title": "My favourite supplement to take 💊",
+      "video_id": "rmQPNrIlJYg",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2025-11-10T15:03:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rmQPNrIlJYg/hqdefault.jpg"
+    },
     {
       "title": "The Secret To Good Sleep 😴",
       "video_id": "9vf9SJ00Q5A",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2025-10-21T15:32:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5z9jF62v4uY/hqdefault.jpg"
-    },
-    {
-      "title": "HYROX x Glucose 🔬",
-      "video_id": "xnzr39KPw5c",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-10-20T18:44:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xnzr39KPw5c/hqdefault.jpg"
-    },
-    {
-      "title": "Glucose Hack #1 👩🏻‍🔬",
-      "video_id": "lnWxD18IZX4",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-10-10T18:48:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lnWxD18IZX4/hqdefault.jpg"
-    },
-    {
-      "title": "Don’t Think About The Calories 🧮",
-      "video_id": "FpJhqT6ZRZI",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-10-09T19:57:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FpJhqT6ZRZI/hqdefault.jpg"
     }
   ]
 }

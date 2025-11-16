@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2025-11-09T00:30:26.057609",
+  "fetched_at": "2025-11-16T00:30:48.799656",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "How Philips is scaling AI literacy across 70,000 employees",
+      "video_id": "LXwGSHZXbKs",
+      "channel_title": "OpenAI",
+      "description": "Philips is building AI literacy into a company-wide capability, training executives, running use case challenges, and rolling out ...",
+      "published_at": "2025-11-14T06:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LXwGSHZXbKs/hqdefault.jpg"
+    },
+    {
+      "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
+      "video_id": "6TXXMTYQtHk",
+      "channel_title": "OpenAI",
+      "description": "With OpenAI, Notion became a natively AI-powered workspace. Their integration of GPT-4o, GPT-4o mini, embeddings, and now ...",
+      "published_at": "2025-11-14T05:05:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6TXXMTYQtHk/hqdefault.jpg"
+    },
+    {
+      "title": "From pilot to practice: How BBVA is scaling AI across the organization",
+      "video_id": "OtIuu_xYtpw",
+      "channel_title": "OpenAI",
+      "description": "Long recognized as one of the world's most innovative financial institutions, BBVA is applying AI at global scale. We sat down with ...",
+      "published_at": "2025-11-14T05:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OtIuu_xYtpw/hqdefault.jpg"
+    },
+    {
+      "title": "New personalities in ChatGPT",
+      "video_id": "kykP8fy1a9Q",
+      "channel_title": "OpenAI",
+      "description": "Say hello to GPT-5.1 and new personalization controls, rolling out to all users this week. 8 unique chat styles (including 3 new ...",
+      "published_at": "2025-11-14T04:17:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kykP8fy1a9Q/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT Atlas and the next era of web browsing — the OpenAI Podcast Ep. 9",
+      "video_id": "WdbgNC80PMw",
+      "channel_title": "OpenAI",
+      "description": "How will the internet feel when your browser can actually do things for you? OpenAI's Ben Goodger and Darin Fisher, whose past ...",
+      "published_at": "2025-11-14T00:16:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WdbgNC80PMw/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: Agent RFT",
+      "video_id": "1s_7RMG4O4U",
+      "channel_title": "OpenAI",
+      "description": "Agent RFT enables reasoning models to become even more powerful, tool-using agents by training directly on the workflows they ...",
+      "published_at": "2025-11-10T14:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1s_7RMG4O4U/hqdefault.jpg"
+    },
     {
       "title": "Automatic code reviews with OpenAI Codex",
       "video_id": "HwbSWVg5Ln4",
@@ -35,54 +83,6 @@
       "description": "Introducing AgentKit—build, deploy, and optimize agentic workflows with a complete set of tools. This Build Hour demos how to ...",
       "published_at": "2025-10-29T20:21:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/sAitLFLbgDA/hqdefault.jpg"
-    },
-    {
-      "title": "MIXI accelerates secure, organization-wide adoption of ChatGPT Enterprise",
-      "video_id": "vSxQXq0Sxow",
-      "channel_title": "OpenAI",
-      "description": "MIXI deployed ChatGPT Enterprise to all employees in 45 days, reaching 80%+ weekly usage within three months and creating ...",
-      "published_at": "2025-10-29T19:55:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vSxQXq0Sxow/hqdefault.jpg"
-    },
-    {
-      "title": "ENEOS Materials accelerates manufacturing productivity with ChatGPT Enterprise",
-      "video_id": "F76OjIk6_ko",
-      "channel_title": "OpenAI",
-      "description": "As one of Japan's earliest adopters of ChatGPT Enterprise, ENEOS Materials built 1000+ custom GPTs, achieved 90%+ weekly ...",
-      "published_at": "2025-10-29T19:55:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F76OjIk6_ko/hqdefault.jpg"
-    },
-    {
-      "title": "Sam, Jakub, and Wojciech on the future of OpenAI with audience Q&amp;A",
-      "video_id": "ngDCxlZcecw",
-      "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2025-10-29T16:41:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ngDCxlZcecw/hqdefault.jpg"
-    },
-    {
-      "title": "Build beautiful frontends with OpenAI Codex",
-      "video_id": "fK_bm84N7bs",
-      "channel_title": "OpenAI",
-      "description": "Codex's multimodal abilities can help you design, iterate, and build beautiful frontends for your apps. Channing Conger and ...",
-      "published_at": "2025-10-27T15:57:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fK_bm84N7bs/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to scrolling tabs in ChatGPT Atlas",
-      "video_id": "nEwLBO8e0Dw",
-      "channel_title": "OpenAI",
-      "description": "Learn about scrolling tabs in ChatGPT Atlas with Darin Fisher from OpenAI — search across tabs with Cmd+Shift+A, ...",
-      "published_at": "2025-10-24T00:25:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nEwLBO8e0Dw/hqdefault.jpg"
-    },
-    {
-      "title": "Work smarter with your company knowledge in ChatGPT",
-      "video_id": "DupfnOCH-JI",
-      "channel_title": "OpenAI",
-      "description": "Get answers specific to your business in ChatGPT. Introducing company knowledge — a new way to work with all the context from ...",
-      "published_at": "2025-10-23T20:15:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DupfnOCH-JI/hqdefault.jpg"
     }
   ]
 }

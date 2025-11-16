@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-11-09T00:30:28.940952",
+  "fetched_at": "2025-11-16T00:30:51.537760",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "Obsidian邪修用法，免费云同步，AI，手机端，还有进阶技巧",
+      "video_id": "IlNOhNeWGgY",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 这两年我换了N 个笔记工具，最终我还是选择了Obsidian。 我有三个必须 ...",
+      "published_at": "2025-11-15T12:11:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IlNOhNeWGgY/hqdefault.jpg"
+    },
+    {
+      "title": "6大MCP协作开发电商业务网站，真实编程场景实测GLM-4.6",
+      "video_id": "Fkzj5YlAfPc",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 海外顶流AI编程产品涉嫌“套壳”中国开源大模型。最近Cursor 2.0 新版发布 ...",
+      "published_at": "2025-11-10T04:29:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fkzj5YlAfPc/hqdefault.jpg"
+    },
     {
       "title": "前端读写数据库？能安全吗？ 一期视频精通Supabase，顶级后端开源项目，实战教程+本地部署",
       "video_id": "eTb-Qjwt-zQ",
@@ -67,22 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 这是世界上最先进的开源关系型数据库PostGreSQL，能装下世间万物， ...",
       "published_at": "2025-08-21T11:00:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1UPoCK0v22w/hqdefault.jpg"
-    },
-    {
-      "title": "AI编程工具Claude Code详细攻略，一期视频精通",
-      "video_id": "e5O8A5pcVgg",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 介绍30个Claude Code高阶使用技巧，一期视频精通Claude Code。",
-      "published_at": "2025-08-13T09:59:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e5O8A5pcVgg/hqdefault.jpg"
-    },
-    {
-      "title": "无限免费Claude Code，免费模型有满血版几成功力？",
-      "video_id": "Hr24rIDDyPU",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Claude Code虽好，价格受不了。本期介绍几种免费方案。 Claude Code ...",
-      "published_at": "2025-08-05T12:09:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hr24rIDDyPU/hqdefault.jpg"
     }
   ]
 }

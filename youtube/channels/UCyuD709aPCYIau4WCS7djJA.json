@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-11-09T00:30:48.610822",
+  "fetched_at": "2025-11-16T00:31:10.716342",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Witness a sunset on Mars 🌅 through the lenses of its robotic explorers.",
+      "video_id": "m3SSKvShBfQ",
+      "channel_title": "Star Walk",
+      "description": "This isn't a scene from a sci-fi movie. This is a real sunset on another world, pieced together from observations by NASA's rovers: ...",
+      "published_at": "2025-11-13T07:12:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m3SSKvShBfQ/hqdefault.jpg"
+    },
+    {
+      "title": "Space BBQ, anyone? 🔥🪐",
+      "video_id": "wFN0uH5GT-w",
+      "channel_title": "Star Walk",
+      "description": "Chinese astronauts just became the first humans ever to cook real food in space — grilled meat in an oven aboard the Tiangong ...",
+      "published_at": "2025-11-10T12:58:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wFN0uH5GT-w/hqdefault.jpg"
+    },
     {
       "title": "Dogs… but make them constellations 🐶🌌",
       "video_id": "AxOlZB-dHIQ",
@@ -67,22 +83,6 @@
       "description": "Early this morning, a spectacular bolide lit up the skies over Moscow and the Moscow region at 06:32:18 local time. It shone at ...",
       "published_at": "2025-10-27T12:13:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/QiKNFet6Ilo/hqdefault.jpg"
-    },
-    {
-      "title": "Two Sunrises, One Planet. Welcome to Mercury! 🌅",
-      "video_id": "7MPCPX47V2Y",
-      "channel_title": "Star Walk",
-      "description": "Picture this: you're standing on the scorched surface of Mercury, the closest planet to the Sun. The horizon begins to glow — the ...",
-      "published_at": "2025-10-23T11:36:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7MPCPX47V2Y/hqdefault.jpg"
-    },
-    {
-      "title": "Don&#39;t miss the Orionids (+ 2 comets) on October 21! 💫☄️",
-      "video_id": "E4nXTv08jfI",
-      "channel_title": "Star Walk",
-      "description": "",
-      "published_at": "2025-10-17T20:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E4nXTv08jfI/hqdefault.jpg"
     }
   ]
 }

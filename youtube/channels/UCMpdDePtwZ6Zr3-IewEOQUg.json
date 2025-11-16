@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-09T00:30:16.276149",
+  "fetched_at": "2025-11-16T00:30:39.178907",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "核聚變火箭、雷射帆與中繼站：星際旅行的現實攻略",
+      "video_id": "8dJx1MINT5E",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2025-11-11T13:15:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8dJx1MINT5E/hqdefault.jpg"
+    },
     {
       "title": "從數學怪獸到生命密碼：分形如何構建生命",
       "video_id": "3iMWE-wKatw",
@@ -75,14 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-09-28T13:21:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/r6ahAjOug3c/hqdefault.jpg"
-    },
-    {
-      "title": "沒有電的 72 小時：現代文明哪一層先崩？",
-      "video_id": "BBsbK5Z7HkY",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-09-24T06:04:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BBsbK5Z7HkY/hqdefault.jpg"
     }
   ]
 }
