@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-16T00:30:10.032517",
+  "fetched_at": "2025-11-23T00:31:49.511716",
   "channel_id": "UC-Md_S_A6VcSJiAhStZCKbw",
   "channel_title": "Jordi Koalitic",
   "count": 10,
   "videos": [
+    {
+      "title": "Entering the Upside Down - We used @Adorama LED lighting to create this portal-lile effect ✌️",
+      "video_id": "iirVoHX6zxc",
+      "channel_title": "Jordi Koalitic",
+      "description": "",
+      "published_at": "2025-11-21T13:49:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iirVoHX6zxc/hqdefault.jpg"
+    },
     {
       "title": "We still prefer real magic over AI generation 🪄 shot w @xiaomi #xiaomi15ultra",
       "video_id": "44y47fXujh4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-10-20T12:22:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/aLXcAoKdq30/hqdefault.jpg"
-    },
-    {
-      "title": "How I Create Cinema-Level Halloween Effects Without AI 👀👻",
-      "video_id": "GguqgNm0fxc",
-      "channel_title": "Jordi Koalitic",
-      "description": "",
-      "published_at": "2025-10-14T13:22:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GguqgNm0fxc/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-11-16T00:30:48.799656",
+  "fetched_at": "2025-11-23T00:32:28.984833",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Scania accelerates operations across its global workforce with ChatGPT",
+      "video_id": "0luMwmnvRuQ",
+      "channel_title": "OpenAI",
+      "description": "Scania builds the trucks, buses, and transport systems that keep the world moving. With AI in their engineering-led organisation, ...",
+      "published_at": "2025-11-21T01:43:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0luMwmnvRuQ/hqdefault.jpg"
+    },
+    {
+      "title": "How AI Is Accelerating Scientific Discovery Today and What&#39;s Ahead — the OpenAI Podcast Ep. 10",
+      "video_id": "0sNOaD9xT_4",
+      "channel_title": "OpenAI",
+      "description": "AI is beginning to change how science gets done. Head of OpenAI for Science Kevin Weil and OpenAI research scientist Alex ...",
+      "published_at": "2025-11-20T17:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0sNOaD9xT_4/hqdefault.jpg"
+    },
     {
       "title": "How Philips is scaling AI literacy across 70,000 employees",
       "video_id": "LXwGSHZXbKs",
@@ -67,22 +83,6 @@
       "description": "Happy Halloween from Sora and the monsters of Monster Manor. Created using characters, now available in the Sora app.",
       "published_at": "2025-10-31T18:22:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9DyK0Ig6_Rc/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing: Sora 2 Character Cameos",
-      "video_id": "kb9suz-kkoM",
-      "channel_title": "OpenAI",
-      "description": "Now available in the Sora app.",
-      "published_at": "2025-10-30T19:24:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kb9suz-kkoM/hqdefault.jpg"
-    },
-    {
-      "title": "Build Hour: AgentKit",
-      "video_id": "sAitLFLbgDA",
-      "channel_title": "OpenAI",
-      "description": "Introducing AgentKit—build, deploy, and optimize agentic workflows with a complete set of tools. This Build Hour demos how to ...",
-      "published_at": "2025-10-29T20:21:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sAitLFLbgDA/hqdefault.jpg"
     }
   ]
 }

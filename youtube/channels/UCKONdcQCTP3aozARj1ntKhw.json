@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2025-11-16T00:30:34.308046",
+  "fetched_at": "2025-11-23T00:32:13.722390",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
-  "count": 25,
+  "count": 10,
   "videos": [
+    {
+      "title": "Everything new in Warp",
+      "video_id": "ZJT4epNMEDE",
+      "channel_title": "Warp",
+      "description": "We're going to build a real-world project.",
+      "published_at": "2025-11-20T20:03:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZJT4epNMEDE/hqdefault.jpg"
+    },
+    {
+      "title": "Warp agents can now address comments (Interactive Code Review)",
+      "video_id": "jit_6eevt8w",
+      "channel_title": "Warp",
+      "description": "Warp brings code review into the terminal. With Interactive Code Review, you can now review an agent's work like you would a ...",
+      "published_at": "2025-11-20T15:16:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jit_6eevt8w/hqdefault.jpg"
+    },
+    {
+      "title": "Agents 3.0 Walk-through with CEO Zach Lloyd",
+      "video_id": "eUc8jz_pQb0",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2025-11-20T15:16:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eUc8jz_pQb0/hqdefault.jpg"
+    },
+    {
+      "title": "You can now @Warp in Linear",
+      "video_id": "FNefNmbSdmg",
+      "channel_title": "Warp",
+      "description": "Warp now connects with Slack, Linear, and GitHub Actions, letting you assign tasks to the agent directly from the tools your team ...",
+      "published_at": "2025-11-20T15:15:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FNefNmbSdmg/hqdefault.jpg"
+    },
+    {
+      "title": "Warp agents can now /plan (Planning Mode)",
+      "video_id": "DawcFWyudV0",
+      "channel_title": "Warp",
+      "description": "How do you keep AI on track? You give it a plan. Warp's new /plan command introduces spec-driven development inside the ...",
+      "published_at": "2025-11-20T15:16:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DawcFWyudV0/hqdefault.jpg"
+    },
+    {
+      "title": "Agents 3.0 — Agents now have Full Terminal Use",
+      "video_id": "gBdehHrtb94",
+      "channel_title": "Warp",
+      "description": "Meet the first AI agent that can actually use the terminal like you do. Warp's Full Terminal Use lets agents interact with REPLs, run ...",
+      "published_at": "2025-11-19T16:43:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gBdehHrtb94/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing Agents 3.0 — Full Terminal Use, /plan, and more",
+      "video_id": "igxPtzCImxM",
+      "channel_title": "Warp",
+      "description": "Warp's new features expand what agents can do and how you can interact with them: • Full Terminal Use lets the agent use the ...",
+      "published_at": "2025-11-19T15:44:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/igxPtzCImxM/hqdefault.jpg"
+    },
     {
       "title": "Dylan Field and Lenny Ratchinsky on Warp and how Figma tackles blockers!",
       "video_id": "jaYC3tuo9MY",
@@ -27,182 +83,6 @@
       "description": "How sustainable is vibe-coding in the long term? Not very sustainable.",
       "published_at": "2025-11-14T18:56:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dvTnbbdEvnE/hqdefault.jpg"
-    },
-    {
-      "title": "Will Agents replace Engineers?",
-      "video_id": "D4IlguV2WTg",
-      "channel_title": "Warp",
-      "description": "Are Agents replacing engineers? Not necessarily.",
-      "published_at": "2025-11-13T23:00:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D4IlguV2WTg/hqdefault.jpg"
-    },
-    {
-      "title": "The Future of Coding",
-      "video_id": "WqcUGLJXpL4",
-      "channel_title": "Warp",
-      "description": "Development by hand? ❌ Development by prompt ... with Zach and the No Priors Show!",
-      "published_at": "2025-11-13T21:30:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WqcUGLJXpL4/hqdefault.jpg"
-    },
-    {
-      "title": "Growth inflection point",
-      "video_id": "4BzWg9tpJj4",
-      "channel_title": "Warp",
-      "description": "Zach's founder take on hypergrowth for startups on The Room Podcast.",
-      "published_at": "2025-10-24T17:26:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4BzWg9tpJj4/hqdefault.jpg"
-    },
-    {
-      "title": "Vlad Kachur - Non technical founders",
-      "video_id": "5ZIBnrMaf2s",
-      "channel_title": "Warp",
-      "description": "Can you really vibe-code complex apps like Figma, Notion, or Slack? Zach says stay tuned. #vibecoding #zerotohero.",
-      "published_at": "2025-10-24T17:17:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5ZIBnrMaf2s/hqdefault.jpg"
-    },
-    {
-      "title": "Warp Sharpshooter",
-      "video_id": "o3rW4iwCKU0",
-      "channel_title": "Warp",
-      "description": "Warp's agents solve your problems with sharpshooter precision #agents #debugging.",
-      "published_at": "2025-10-20T20:59:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o3rW4iwCKU0/hqdefault.jpg"
-    },
-    {
-      "title": "Warp Vlad Kachur",
-      "video_id": "M0PP61NxUMc",
-      "channel_title": "Warp",
-      "description": "Warp Terminal? Warp ADE! Zach sits down with @VladKachur to discuss Warp's positioning! #coding.",
-      "published_at": "2025-10-20T20:55:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M0PP61NxUMc/hqdefault.jpg"
-    },
-    {
-      "title": "Bug Fixed #warp #code #tech #ai #devtools #softwaredevelopment",
-      "video_id": "kT3dj6p4LHs",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-16T16:25:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kT3dj6p4LHs/hqdefault.jpg"
-    },
-    {
-      "title": "What is an Agentic Development Environment? #ai #code #prompt #openai #development #warp #coding",
-      "video_id": "_NP6fT5LinE",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-15T18:13:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_NP6fT5LinE/hqdefault.jpg"
-    },
-    {
-      "title": "8 Warp Updates: Improved Voice Recording &amp; AI Copy Functionality",
-      "video_id": "8jLe9NX3W1A",
-      "channel_title": "Warp",
-      "description": "Welcome back to another Fix-it Friday video, where we have 8 new updates that are shipped (or soon to be shipped).",
-      "published_at": "2025-10-14T17:47:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8jLe9NX3W1A/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI Dev Day Demo #openai #warp #prompt #coding #tech #softwaredevelopment #ai",
-      "video_id": "4ntohUxYsh8",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-14T16:58:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4ntohUxYsh8/hqdefault.jpg"
-    },
-    {
-      "title": "I asked Warp to make my website cowboy themed #warp #ai #coding #prompt #softwaredevelopment",
-      "video_id": "LXPbO_h_zo8",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-13T17:29:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LXPbO_h_zo8/hqdefault.jpg"
-    },
-    {
-      "title": "The Big Shift In Coding #ai #coding #softwaredevelopment #change #tech #prompt",
-      "video_id": "peqDkmFPFtQ",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-11T20:54:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/peqDkmFPFtQ/hqdefault.jpg"
-    },
-    {
-      "title": "Making AI Usage More Transparent",
-      "video_id": "tK1rGt_tQG0",
-      "channel_title": "Warp",
-      "description": "We want every Warp user to get the most out of our agents. As part of that, we are always trying to make our agents more efficient, ...",
-      "published_at": "2025-10-10T18:56:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tK1rGt_tQG0/hqdefault.jpg"
-    },
-    {
-      "title": "Why Are We Cowboy Themed? #cowboy #warp #marketing #interview #podcast",
-      "video_id": "ge98j5knn5c",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-10T03:21:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ge98j5knn5c/hqdefault.jpg"
-    },
-    {
-      "title": "How We Design Smart Agents #warp #ai #aiagents #coding #software engineering #programming",
-      "video_id": "gwXK2v4rp44",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-08T14:45:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gwXK2v4rp44/hqdefault.jpg"
-    },
-    {
-      "title": "Spicy Take on Vibe Coding #vibecoding #ai #interview #spicy #coding #softwaredevelopment #cs",
-      "video_id": "NSWgJHjdaEU",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-06T13:53:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NSWgJHjdaEU/hqdefault.jpg"
-    },
-    {
-      "title": "Summarize Open Changes Using Warp #prompt #vibecoding #ai #coding #warp #tech #softwareengineering",
-      "video_id": "JulGJZ7QniU",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-04T17:44:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JulGJZ7QniU/hqdefault.jpg"
-    },
-    {
-      "title": "Vibe Coding MCP Server #mcp #vibecoding #ai #tech #recruiter #mcpserver #warp #startup",
-      "video_id": "ww9PcZRHKBQ",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-03T20:23:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ww9PcZRHKBQ/hqdefault.jpg"
-    },
-    {
-      "title": "CEO does Product Demo ON A HORSE 🐴 #Tech #ProductDemo #Startup #Cowboy #warp #horse #marketing",
-      "video_id": "Temz96q1n84",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-02T15:55:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Temz96q1n84/hqdefault.jpg"
-    },
-    {
-      "title": "Vibe Coding Bongo Cat #vibecoding #bongocat #ai #coding #tech #warp",
-      "video_id": "0P6PSULQxdE",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-01T23:10:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0P6PSULQxdE/hqdefault.jpg"
-    },
-    {
-      "title": "Using Agent Profiles",
-      "video_id": "iD0R-8fY-tY",
-      "channel_title": "Warp",
-      "description": "Learn how Warp's agent profiles let you customize AI coding behavior for different scenarios. See a side-by-side comparison ...",
-      "published_at": "2025-09-30T01:44:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iD0R-8fY-tY/hqdefault.jpg"
-    },
-    {
-      "title": "Using Project Rules",
-      "video_id": "SCYovBn4TnM",
-      "channel_title": "Warp",
-      "description": "Master Warp's project rule files to eliminate AI hallucinations. Learn how Warp.MD files provide consistent context and keep your ...",
-      "published_at": "2025-09-30T01:44:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SCYovBn4TnM/hqdefault.jpg"
     }
   ]
 }

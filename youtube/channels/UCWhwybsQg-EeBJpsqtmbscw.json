@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2025-11-16T00:30:47.413121",
+  "fetched_at": "2025-11-23T00:32:27.574663",
   "channel_id": "UCWhwybsQg-EeBJpsqtmbscw",
   "channel_title": "JomaClass",
   "count": 10,
   "videos": [
+    {
+      "title": "CASE | SQL for Data Analytics",
+      "video_id": "Kti_ua3FShE",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-22T16:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Kti_ua3FShE/hqdefault.jpg"
+    },
+    {
+      "title": "DISTINCT | SQL for Data Analytics",
+      "video_id": "lcYzDwjlpv4",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-21T16:01:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lcYzDwjlpv4/hqdefault.jpg"
+    },
+    {
+      "title": "HAVING | SQL for Data Analytics",
+      "video_id": "1Q6OwHKUlTE",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-20T16:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1Q6OwHKUlTE/hqdefault.jpg"
+    },
+    {
+      "title": "GROUP BY | SQL for Data Analytics",
+      "video_id": "V_o9YSxgyAY",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-19T16:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V_o9YSxgyAY/hqdefault.jpg"
+    },
+    {
+      "title": "Aggregation Functions | SQL for Data Analytics",
+      "video_id": "TyDzUYl-9cE",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-18T16:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TyDzUYl-9cE/hqdefault.jpg"
+    },
+    {
+      "title": "ORDER BY | SQL for Data Analytics",
+      "video_id": "s--6mItWebs",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-17T16:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s--6mItWebs/hqdefault.jpg"
+    },
+    {
+      "title": "IS NULL | SQL for Data Analytics",
+      "video_id": "38oOcV6ZwdY",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-16T16:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/38oOcV6ZwdY/hqdefault.jpg"
+    },
     {
       "title": "IN | SQL for Data Analytics",
       "video_id": "mm72NnEPs_c",
@@ -27,62 +83,6 @@
       "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
       "published_at": "2025-11-13T16:00:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JlvUKHoAsdc/hqdefault.jpg"
-    },
-    {
-      "title": "Comparison Operators | SQL for Data Analytics",
-      "video_id": "rvVg11T8xAs",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-12T16:01:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rvVg11T8xAs/hqdefault.jpg"
-    },
-    {
-      "title": "WHERE &amp; LIMIT | SQL for Data Analytics",
-      "video_id": "bj1FSQ34Gdc",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-11T16:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bj1FSQ34Gdc/hqdefault.jpg"
-    },
-    {
-      "title": "SELECT &amp; FROM | SQL for Data Analytics",
-      "video_id": "OoPbjHEXdQo",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-10T16:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OoPbjHEXdQo/hqdefault.jpg"
-    },
-    {
-      "title": "What is SQL? | SQL for Data Analytics",
-      "video_id": "tXfZCg3NLQ8",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-09T16:01:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tXfZCg3NLQ8/hqdefault.jpg"
-    },
-    {
-      "title": "Setup With Mode | SQL for Data Analytics",
-      "video_id": "cAMs5g9tMNw",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-08T16:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cAMs5g9tMNw/hqdefault.jpg"
-    },
-    {
-      "title": "Dynamic Programming: Coin Change Problem | Data Structures and Algorithms",
-      "video_id": "kU9-O7TQ_2A",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-07T16:01:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kU9-O7TQ_2A/hqdefault.jpg"
-    },
-    {
-      "title": "Dynamic Programming | Data Structures and Algorithms",
-      "video_id": "Aslfnm4opiE",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-06T16:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Aslfnm4opiE/hqdefault.jpg"
     }
   ]
 }

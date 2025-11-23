@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-11-16T00:30:54.373649",
+  "fetched_at": "2025-11-23T00:32:34.530460",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The AI for Good Specialization is Now Available at DeepLearning.AI",
+      "video_id": "VRBBuCbyASI",
+      "channel_title": "DeepLearningAI",
+      "description": "Enroll now! https://bit.ly/4p5rJOY In AI for Good, our three-course specialization built in collaboration with the Microsoft AI for Good ...",
+      "published_at": "2025-11-21T17:53:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VRBBuCbyASI/hqdefault.jpg"
+    },
+    {
+      "title": "Machine Learning Specialization by DeepLearning.AI",
+      "video_id": "SZz1qC-X1uA",
+      "channel_title": "DeepLearningAI",
+      "description": "Enroll in the Machine Learning Specialization https://bit.ly/4nFHHOF This 3-course specialization is a foundational online ...",
+      "published_at": "2025-11-21T17:49:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SZz1qC-X1uA/hqdefault.jpg"
+    },
+    {
+      "title": "New course: Semantic Caching for AI Agents",
+      "video_id": "m_dNwtoxqd8",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/44btwJY Join our new short course, Semantic Caching for AI Agents! Learn from Tyler Hutcherson, ...",
+      "published_at": "2025-11-19T14:24:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m_dNwtoxqd8/hqdefault.jpg"
+    },
     {
       "title": "The PyTorch for Deep Learning Professional Certificate is live",
       "video_id": "_mcC2lG9YDc",
@@ -59,30 +83,6 @@
       "description": "Agentic AI, taught by Andrew Ng, is now available worldwide. Learn to design and evaluate AI systems that plan, reflect, and ...",
       "published_at": "2025-10-07T16:09:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NS47q32aWZw/hqdefault.jpg"
-    },
-    {
-      "title": "Learn to build effective Agentic AI systems with Andrew Ng",
-      "video_id": "w7vqXL4PWEE",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4mVUPyF Building effective Agentic AI systems is one of the most valuable skills in AI today. Introducing ...",
-      "published_at": "2025-10-07T15:26:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w7vqXL4PWEE/hqdefault.jpg"
-    },
-    {
-      "title": "Enroll in our new course: Building and Evaluating Data Agents",
-      "video_id": "2UMBWyOk75M",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4my1oaz Learn how to build and evaluate a data agent in “Building and Evaluating Data Agents,” a ...",
-      "published_at": "2025-09-24T14:40:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2UMBWyOk75M/hqdefault.jpg"
-    },
-    {
-      "title": "New Course: Knowledge Graphs for AI Agent API Discovery",
-      "video_id": "funhZgM8uIk",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/3IfEp5R Learn how to help AI agents find and execute the right APIs in the right order using a knowledge ...",
-      "published_at": "2025-09-10T14:12:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/funhZgM8uIk/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-16T00:30:37.092310",
+  "fetched_at": "2025-11-23T00:32:17.165628",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 4,
+  "count": 7,
   "videos": [
+    {
+      "title": "NASA Shares Interstellar Comet 3I/ATLAS Images",
+      "video_id": "A55SUq2eDXg",
+      "channel_title": "NASA",
+      "description": "Tune in as NASA shares the latest images of the interstellar comet 3I/ATLAS, collected by several NASA missions. First observed ...",
+      "published_at": "2025-11-19T21:02:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/A55SUq2eDXg/hqdefault.jpg"
+    },
     {
       "title": "Sentinel-6B: Extending the Legacy (NASA Mission Trailer)",
       "video_id": "k4RaWqobggI",
@@ -13,20 +21,36 @@
       "thumbnail_url": "https://i.ytimg.com/vi/k4RaWqobggI/hqdefault.jpg"
     },
     {
-      "title": "Sentinel-6B Launch",
-      "video_id": "6tyr0ld2ZB4",
-      "channel_title": "NASA",
-      "description": "Sentinel-6B, an international mission that will deliver critical sea level and ocean data, is scheduled to lift off at 12:21 a.m. EST ...",
-      "published_at": "2025-11-12T18:16:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6tyr0ld2ZB4/hqdefault_live.jpg"
-    },
-    {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
       "video_id": "Ni-YkkvH6DQ",
       "channel_title": "NASA",
       "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
       "published_at": "2025-11-10T14:43:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Ni-YkkvH6DQ/hqdefault_live.jpg"
+    },
+    {
+      "title": "NASA Astronaut Chris Williams Soyuz MS-28 Hatch Opening",
+      "video_id": "5N92gFwvD_s",
+      "channel_title": "NASA",
+      "description": "After lifting off from the Baikonur Cosmodrome in Kazakhstan and docking to the International Space Station earlier on Thursday, ...",
+      "published_at": "2025-11-06T19:17:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5N92gFwvD_s/hqdefault_live.jpg"
+    },
+    {
+      "title": "NASA Astronaut Chris Williams Soyuz MS-28 Docking",
+      "video_id": "OIAduLEqvTc",
+      "channel_title": "NASA",
+      "description": "After lifting off from the Baikonur Cosmodrome in Kazakhstan, NASA astronaut Chris Williams is scheduled to dock with the ...",
+      "published_at": "2025-11-06T19:03:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OIAduLEqvTc/hqdefault_live.jpg"
+    },
+    {
+      "title": "NASA Astronaut Chris Williams Soyuz MS-28 Launch",
+      "video_id": "gWhAbWnm_oM",
+      "channel_title": "NASA",
+      "description": "NASA astronaut Chris Williams is launching to the International Space Station from the Baikonur Cosmodrome in Kazakhstan.",
+      "published_at": "2025-11-04T19:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gWhAbWnm_oM/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

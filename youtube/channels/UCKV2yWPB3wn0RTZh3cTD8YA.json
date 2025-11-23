@@ -1,0 +1,88 @@
+{
+  "fetched_at": "2025-11-23T00:32:15.103566",
+  "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
+  "channel_title": "硅谷101",
+  "count": 10,
+  "videos": [
+    {
+      "title": "直播解析谷歌Gemini 3：“AI 全模态”时代与Scaling Law的极致执行【101 Live】",
+      "video_id": "1pgCnlJRuxE",
+      "channel_title": "硅谷101",
+      "description": "在AI 领域的最新风暴中，Google 最新推出的Gemini 3 被多家媒体和开发者视为“里程碑式”的突破：它不仅在多模态能力（文字、 ...",
+      "published_at": "2025-11-21T05:35:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1pgCnlJRuxE/hqdefault.jpg"
+    },
+    {
+      "title": "AI的下一步：强化学习是正确的AGI解法吗？｜硅谷101年度线下大会｜Alignment 2025",
+      "video_id": "bnIHrenhFpc",
+      "channel_title": "硅谷101",
+      "description": "【硅谷101年度线下大会回放】2016年，AlphaGo击败围棋世界冠军，让强化学习一战成名。如今，从推荐算法到自动驾驶，强化 ...",
+      "published_at": "2025-11-20T03:56:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bnIHrenhFpc/hqdefault.jpg"
+    },
+    {
+      "title": "硅谷101首场直播：万亿基建市场还是AI投资泡沫？",
+      "video_id": "_AdW48HjadE",
+      "channel_title": "硅谷101",
+      "description": "2025 年的科技市场再次进入狂热时刻。英伟达、微软、亚马逊、谷歌、Meta 等科技巨头纷纷上调AI 基础设施的资本开支（CapEx） ...",
+      "published_at": "2025-11-15T18:05:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_AdW48HjadE/hqdefault.jpg"
+    },
+    {
+      "title": "专访前FAIR研究总监田渊栋：Meta裁员之后，对AI的一些遗憾与思考",
+      "video_id": "EsaUQNx59vA",
+      "channel_title": "硅谷101",
+      "description": "2025年10月底，Meta在AI部门进行大规模裁员约600人，前FAIR研究总监田渊栋是这次风波的核心人物之一。我们在上个视频中聊 ...",
+      "published_at": "2025-11-11T00:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EsaUQNx59vA/hqdefault.jpg"
+    },
+    {
+      "title": "失衡的乌托邦：Meta的开源AI路线是如何遭遇滑铁卢的",
+      "video_id": "0mrko3cYqBs",
+      "channel_title": "硅谷101",
+      "description": "2025年10月底，Meta AI部门宣布裁员600个职位，甚至核心部门的研究总监，同时掌管AI业务的高管纷纷离职、被边缘化，就连图灵 ...",
+      "published_at": "2025-11-09T00:03:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0mrko3cYqBs/hqdefault.jpg"
+    },
+    {
+      "title": "给AI一个“身体”：3D数字人是具身智能的解法？｜机器人系列",
+      "video_id": "zR9tvIE_P-w",
+      "channel_title": "硅谷101",
+      "description": "3D数字人为什么是具身智能的解法？AI视频生成模型Sora 2的发布，再次点燃了人们对AI内容的想象。然而，它终究是“被观看”的2D ...",
+      "published_at": "2025-11-07T23:38:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zR9tvIE_P-w/hqdefault.jpg"
+    },
+    {
+      "title": "诺奖得主们的AI用法跟咱们有什么不一样？｜直击AIAS 2025峰会",
+      "video_id": "oX9RYxoX1rs",
+      "channel_title": "硅谷101",
+      "description": "来～我们带大家去参会一场超级硬核的会：在10月的旧金山AIAS 2025峰会上，AI正以前所未有的速度成为科学发现的主体。",
+      "published_at": "2025-11-06T02:03:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oX9RYxoX1rs/hqdefault.jpg"
+    },
+    {
+      "title": "美国硅谷是怎么看人形机器人的｜硅谷101年度线下大会｜Alignment 2025（全英）",
+      "video_id": "FueX88st2OQ",
+      "channel_title": "硅谷101",
+      "description": "今年的硅谷101 Alignment大会的机器人专题讨论，我们从技术、商业模式、可靠性的“不可能三角”来分析机器人的发展进程和挑战。",
+      "published_at": "2025-11-05T04:49:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FueX88st2OQ/hqdefault.jpg"
+    },
+    {
+      "title": "LMArena：谁是AI之王，凭什么这个评测说了算？",
+      "video_id": "EUsIYVtt3y0",
+      "channel_title": "硅谷101",
+      "description": "在大模型激战的今天，谁才是真正的“最强AI”？传统的Benchmark测试正因“题库泄露”和“刷分”在失去公信力，而一个叫LMArena的 ...",
+      "published_at": "2025-10-30T22:35:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EUsIYVtt3y0/hqdefault.jpg"
+    },
+    {
+      "title": "英伟达“两个儿子”之战：AI算力的杠杆游戏与潜在泡沫【深度】｜Coreweave｜Nebius｜Neocloud",
+      "video_id": "8ndEN6VVlUw",
+      "channel_title": "硅谷101",
+      "description": "AI浪潮之下，一场关于算力的“闪电战”已经打响。当AWS、谷歌云等传统巨头在GPU短缺中挣扎时，一个千亿美元的“新 ...",
+      "published_at": "2025-10-23T02:36:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8ndEN6VVlUw/hqdefault.jpg"
+    }
+  ]
+}

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-16T00:30:18.382189",
+  "fetched_at": "2025-11-23T00:31:57.743728",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Hot wings",
+      "video_id": "FwqPI15nPjc",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-11-19T20:40:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FwqPI15nPjc/hqdefault.jpg"
+    },
     {
       "title": "2025 Annual Shareholder Meeting | Tesla",
       "video_id": "VGPlvmMjPtE",
@@ -75,14 +83,6 @@
       "description": "Tesla's Annual Meeting is coming up on November 6 & we need your vote! Optimus will show you how. Voting is quick and easy ...",
       "published_at": "2025-10-06T21:08:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6JwClvNwoYw/hqdefault.jpg"
-    },
-    {
-      "title": "Load it, Lock it",
-      "video_id": "slVrLndXnr8",
-      "channel_title": "Tesla",
-      "description": "Massive storage brought to you by: – Lockable 6ft truck bed – Powered-frunk – Fold-up rear seats Add Cybertruck Crossbars for ...",
-      "published_at": "2025-10-03T21:19:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/slVrLndXnr8/hqdefault.jpg"
     }
   ]
 }

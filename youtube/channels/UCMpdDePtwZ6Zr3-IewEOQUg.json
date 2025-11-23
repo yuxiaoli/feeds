@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-16T00:30:39.178907",
+  "fetched_at": "2025-11-23T00:32:19.196209",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "如果宇宙是一個模擬程式，我們能發現它嗎？",
+      "video_id": "mb_qoK5DJqQ",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，第一時間觀看新內容，你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2025-11-21T13:01:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mb_qoK5DJqQ/hqdefault.jpg"
+    },
     {
       "title": "核聚變火箭、雷射帆與中繼站：星際旅行的現實攻略",
       "video_id": "8dJx1MINT5E",
@@ -75,14 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-10-01T13:00:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0wNTDPMGkZw/hqdefault.jpg"
-    },
-    {
-      "title": "10 個日常悖論，重建你的相對論直覺",
-      "video_id": "r6ahAjOug3c",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-09-28T13:21:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r6ahAjOug3c/hqdefault.jpg"
     }
   ]
 }

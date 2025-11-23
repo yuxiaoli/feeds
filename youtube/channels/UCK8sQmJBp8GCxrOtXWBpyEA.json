@@ -1,40 +1,88 @@
 {
-  "fetched_at": "2025-11-16T00:30:33.610482",
+  "fetched_at": "2025-11-23T00:32:12.978379",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 4,
+  "count": 10,
   "videos": [
     {
-      "title": "Get ready for your next big test with a practice quiz from Search on desktop",
-      "video_id": "IephBtSDVzU",
+      "title": "Become a Thanksgiving parade balloon 🎈",
+      "video_id": "kNZzfaq3wzY",
       "channel_title": "Google",
-      "description": "Is your brain bone breaking? Get ready for your next big test with a practice quiz from Search on desktop. #GoogleSearch ...",
-      "published_at": "2025-11-14T20:42:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IephBtSDVzU/hqdefault.jpg"
+      "description": "Want to go big for the holidays? Learn how to prompt yourself into a giant Thanksgiving parade balloon with Search. Full prompt ...",
+      "published_at": "2025-11-21T16:59:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kNZzfaq3wzY/hqdefault.jpg"
     },
     {
-      "title": "Prepare for one last strange adventure. Search “stranger things” and join the party @strangerthings",
-      "video_id": "JkaBLE1UKNY",
+      "title": "Catch up on Stranger Things with Google",
+      "video_id": "sL9sH8chRqk",
       "channel_title": "Google",
-      "description": "",
-      "published_at": "2025-11-14T18:30:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JkaBLE1UKNY/hqdefault.jpg"
+      "description": "The time has come. Season 5 is almost here, and it's time to recap all things #StrangerThings with Google Search. Ask anything ...",
+      "published_at": "2025-11-21T14:09:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sL9sH8chRqk/hqdefault.jpg"
     },
     {
-      "title": "Enter Now: Doodle for Google 2025",
-      "video_id": "13ja86Hep3M",
+      "title": "NotebookLM introducing Slide Decks",
+      "video_id": "W5RDPMavfNA",
       "channel_title": "Google",
-      "description": "The Doodle for Google student art contest is BACK And this year, NBA All-Star and philanthropist Giannis Antetokounmpo is ...",
-      "published_at": "2025-11-13T17:44:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/13ja86Hep3M/hqdefault.jpg"
+      "description": "Tired of making slides one by one? Try to generate Slide Deck in NotebookLM Eliminate the dread of the blank slide. A deck can ...",
+      "published_at": "2025-11-20T22:21:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W5RDPMavfNA/hqdefault.jpg"
     },
     {
-      "title": "What can AI teach us about humanity? | Father Paolo Benanti &amp; Google’s James Manyika",
-      "video_id": "Mze0Eth1V78",
+      "title": "Nano Banana Pro | Live from Mountain View",
+      "video_id": "y-RQ48sfPgM",
       "channel_title": "Google",
-      "description": "Google's Senior Vice President of Research, Labs, Technology & Society James Manyika sits down with Father Paolo Benanti, ...",
-      "published_at": "2025-11-12T19:24:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Mze0Eth1V78/hqdefault.jpg"
+      "description": "Broadcasting live, we are showcasing the latest \"Nano Banana Pro\" capabilities in AI Studio, demonstrating how users can master ...",
+      "published_at": "2025-11-20T20:59:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y-RQ48sfPgM/hqdefault.jpg"
+    },
+    {
+      "title": "Meet Nano Banana Pro: Next-Level AI Image Generation &amp; Editing",
+      "video_id": "AeBOzler4nE",
+      "channel_title": "Google",
+      "description": "Fresh off the launch of Gemini 3, we are thrilled to roll out Nano Banana Pro—an all-new, state-of-the-art image generation and ...",
+      "published_at": "2025-11-20T20:55:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AeBOzler4nE/hqdefault.jpg"
+    },
+    {
+      "title": "Submissions for #DoodleForGoogle are now open until December 10.",
+      "video_id": "Sl0EO6adQko",
+      "channel_title": "Google",
+      "description": "The #DoodleForGoogle student art contest is open! This year's theme is “My superpower is…” and we're inviting U.S. K-12 ...",
+      "published_at": "2025-11-19T21:57:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Sl0EO6adQko/hqdefault.jpg"
+    },
+    {
+      "title": "YONK brings Doodle for Google to life",
+      "video_id": "s_ciTrSKPWo",
+      "channel_title": "Google",
+      "description": "The #DoodleForGoogle student art contest is back and @yonk.online is bringing this year's theme “My superpower is…” to life in a ...",
+      "published_at": "2025-11-19T20:37:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s_ciTrSKPWo/hqdefault.jpg"
+    },
+    {
+      "title": "Vibe coding with Gemini 3 | Live from Mountain View",
+      "video_id": "YfFkPAso4kE",
+      "channel_title": "Google",
+      "description": "Live from Mountain View, Logan Kilpatrick, Amaar Reshi, Kat Kampf, Tulsee Doshi and other guests are here to show how you ...",
+      "published_at": "2025-11-18T21:30:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YfFkPAso4kE/hqdefault.jpg"
+    },
+    {
+      "title": "Practice for your next preso with Gemini 3 to get detailed feedback on your pacing and strengths.",
+      "video_id": "z3qBxFBPa_w",
+      "channel_title": "Google",
+      "description": "Gemini 3 Pro is rolling out globally starting today. To use it, simply select “Thinking” from the model selector. Our Google AI Plus, ...",
+      "published_at": "2025-11-18T19:26:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z3qBxFBPa_w/hqdefault.jpg"
+    },
+    {
+      "title": "Turn treasured recipes into shareable family cookbooks with the help of Gemini",
+      "video_id": "Ob4CI5Cavgs",
+      "channel_title": "Google",
+      "description": "Gemini 3 Pro is rolling out globally starting today. To use it, simply select “Thinking” from the model selector. Our Google AI Plus, ...",
+      "published_at": "2025-11-18T18:52:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ob4CI5Cavgs/hqdefault.jpg"
     }
   ]
 }

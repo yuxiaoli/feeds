@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-16T00:30:32.945367",
+  "fetched_at": "2025-11-23T00:32:12.333877",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "台南市内一日游，在夜市见到台南市长了？",
+      "video_id": "oP0slj5Qd-I",
+      "channel_title": "码农高天",
+      "description": "台湾视频拍的太细了，台南一天就20分钟的视频！在台南市内逛了各种知名的点，很多古色古香的建筑和庙宇。最后在夜市大快朵颐 ...",
+      "published_at": "2025-11-21T10:30:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oP0slj5Qd-I/hqdefault.jpg"
+    },
     {
       "title": "第一次来台湾，两天从台北到台南！",
       "video_id": "og0-YfhULds",
@@ -75,14 +83,6 @@
       "description": "目前为止景色最令人满意的一天，京都是真的很好逛，每个点都很漂亮！清水寺、八坂神社、伏见稻田大社，连马路边上都很好看。",
       "published_at": "2025-08-24T10:30:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/pz5Ugg7sbFk/hqdefault.jpg"
-    },
-    {
-      "title": "连着吃了两天Omakase！顺便和粉丝看了个富士山",
-      "video_id": "XCKHc0r-DQQ",
-      "channel_title": "码农高天",
-      "description": "东京的后两天有点疲惫，拍的素材少一点，但是两个Omakase认认真真地拍了！富士山也还不错，远远地观察了它一下。",
-      "published_at": "2025-08-23T10:30:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XCKHc0r-DQQ/hqdefault.jpg"
     }
   ]
 }

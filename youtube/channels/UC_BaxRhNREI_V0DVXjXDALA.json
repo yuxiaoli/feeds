@@ -1,24 +1,48 @@
 {
-  "fetched_at": "2025-11-16T00:30:50.876078",
+  "fetched_at": "2025-11-23T00:32:31.067032",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 2,
+  "count": 5,
   "videos": [
     {
-      "title": "Spreading our wings #shorts",
-      "video_id": "PlznbSq8Tp0",
+      "title": "Every detail earns its place #Shorts",
+      "video_id": "GsGihRZeqMs",
       "channel_title": "Porsche",
-      "description": "Summer dreaming. @viewsxmk.",
-      "published_at": "2025-11-14T17:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PlznbSq8Tp0/hqdefault.jpg"
+      "description": "Step inside, and you'll feel it – the new Cayenne Electric is built around you. The curved Flow Display pulls everything into your ...",
+      "published_at": "2025-11-20T16:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GsGihRZeqMs/hqdefault.jpg"
+    },
+    {
+      "title": "Reconnecting with nature #shorts",
+      "video_id": "k6_doiuYwAg",
+      "channel_title": "Porsche",
+      "description": "When getting fresh air also includes a flat-six. @bara_cu2.",
+      "published_at": "2025-11-19T19:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k6_doiuYwAg/hqdefault.jpg"
     },
     {
       "title": "World premiere of the new Cayenne Electric | Watch it on 19 November",
       "video_id": "yJAJmsmkhbg",
       "channel_title": "Porsche",
       "description": "Outstanding sportscar performance. Dynamic off-road capability. Fast charging. A reimagined interior experience. The Cayenne ...",
-      "published_at": "2025-11-07T09:30:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yJAJmsmkhbg/hqdefault_live.jpg"
+      "published_at": "2025-11-19T14:17:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yJAJmsmkhbg/hqdefault.jpg"
+    },
+    {
+      "title": "The new Cayenne Electric | The most powerful Porsche ever built",
+      "video_id": "LTHaoFDEVCo",
+      "channel_title": "Porsche",
+      "description": "The Cayenne Electric brings electric performance to the Cayenne family – and raises the bar while doing it. With up to 850 kW ...",
+      "published_at": "2025-11-19T14:16:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LTHaoFDEVCo/hqdefault.jpg"
+    },
+    {
+      "title": "Way to Formosa | A journey through Taiwan with Porsche",
+      "video_id": "8XplngulPM4",
+      "channel_title": "Porsche",
+      "description": "Porsche meets the spirit of Taiwan. In collaboration with Onassis, Way to Formosa celebrates the connection between ...",
+      "published_at": "2025-11-17T14:54:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8XplngulPM4/hqdefault.jpg"
     }
   ]
 }

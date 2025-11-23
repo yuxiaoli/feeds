@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-11-16T00:31:10.716342",
+  "fetched_at": "2025-11-23T00:32:51.055761",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Shepherd Satellites: The Ring Keepers 🪐🧐",
+      "video_id": "XWghHzn0f84",
+      "channel_title": "Star Walk",
+      "description": "Shepherd satellites are small moons that orbit near a planet's rings, keeping the tiny particles from drifting away with their gravity.",
+      "published_at": "2025-11-21T07:29:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XWghHzn0f84/hqdefault.jpg"
+    },
+    {
+      "title": "Best time to see Uranus is NOW 🤩",
+      "video_id": "uHMHS8ALX2A",
+      "channel_title": "Star Walk",
+      "description": "Jokes aside, get your binoculars and telescopes ready — the opposition of Uranus is just 2 days away!",
+      "published_at": "2025-11-19T07:26:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uHMHS8ALX2A/hqdefault.jpg"
+    },
     {
       "title": "Witness a sunset on Mars 🌅 through the lenses of its robotic explorers.",
       "video_id": "m3SSKvShBfQ",
@@ -67,22 +83,6 @@
       "description": "We're all trying to shed a few kilos, but let's talk about a real weight-loss champion: our Sun. While you're hitting the gym ...",
       "published_at": "2025-10-28T11:08:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/z2N9u9bmBnc/hqdefault.jpg"
-    },
-    {
-      "title": "🌍✨ This is where we live in the Milky Way...",
-      "video_id": "ZGSp9hzi1SY",
-      "channel_title": "Star Walk",
-      "description": "If you had to write our cosmic address, it would look like this: Planet Earth (the third planet from the Sun) ☀️ Solar System ...",
-      "published_at": "2025-10-27T12:15:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZGSp9hzi1SY/hqdefault.jpg"
-    },
-    {
-      "title": "🚨 A mysterious fireball over Moscow!",
-      "video_id": "QiKNFet6Ilo",
-      "channel_title": "Star Walk",
-      "description": "Early this morning, a spectacular bolide lit up the skies over Moscow and the Moscow region at 06:32:18 local time. It shone at ...",
-      "published_at": "2025-10-27T12:13:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QiKNFet6Ilo/hqdefault.jpg"
     }
   ]
 }

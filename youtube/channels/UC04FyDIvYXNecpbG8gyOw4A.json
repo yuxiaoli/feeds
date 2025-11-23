@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-11-16T00:30:11.415009",
+  "fetched_at": "2025-11-23T00:31:50.860165",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Best Friends",
+      "video_id": "7McTQm5ub5s",
+      "channel_title": "Meta",
+      "description": "BFFLs.",
+      "published_at": "2025-11-20T16:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7McTQm5ub5s/hqdefault.jpg"
+    },
+    {
+      "title": "Boz To The Future # 25: The Future According to Dylan Field",
+      "video_id": "diMGvhBfy74",
+      "channel_title": "Meta",
+      "description": "\"What happens when design meets the AI revolution? In the latest episode of Boz to the Future, Meta CTO Andrew \"\"Boz\"\" ...",
+      "published_at": "2025-11-20T15:04:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/diMGvhBfy74/hqdefault.jpg"
+    },
+    {
+      "title": "SAM 3",
+      "video_id": "0jo6BRcTJbo",
+      "channel_title": "Meta",
+      "description": "Our Segment Anything Model, SAM 3, is on the scene. SAM 3 can detect and track objects more precisely than ever, which can be ...",
+      "published_at": "2025-11-19T16:10:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0jo6BRcTJbo/hqdefault.jpg"
+    },
     {
       "title": "Boz To The Future # 24: The Future According to Francois Chardavoine",
       "video_id": "WpFCYR3f46U",
@@ -59,30 +83,6 @@
       "description": "Every dream needs a team, Mercedes F1 Team Meta AI We're excited to announce Meta AI as an Official Partner of the ...",
       "published_at": "2025-10-17T14:00:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Bx7N5fGn50w/hqdefault.jpg"
-    },
-    {
-      "title": "kicking off fall with a fresh loaf and Meta AI🍂",
-      "video_id": "MRBfG4rK9Do",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-10-10T17:34:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MRBfG4rK9Do/hqdefault.jpg"
-    },
-    {
-      "title": "Hang ten with Meta AI and @kozmcraesurfingboards2106  🤙",
-      "video_id": "bL40E7IgxFo",
-      "channel_title": "Meta",
-      "description": "",
-      "published_at": "2025-10-07T14:32:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bL40E7IgxFo/hqdefault.jpg"
-    },
-    {
-      "title": "Day in the Life",
-      "video_id": "k-QLy8Yb3xw",
-      "channel_title": "Meta",
-      "description": "the life of a meta social girl.",
-      "published_at": "2025-10-03T16:19:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k-QLy8Yb3xw/hqdefault.jpg"
     }
   ]
 }

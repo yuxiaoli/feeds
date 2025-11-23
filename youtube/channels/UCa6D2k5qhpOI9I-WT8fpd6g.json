@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-16T00:30:51.537760",
+  "fetched_at": "2025-11-23T00:32:31.757100",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "Gemini 3.0 API对接编程实战，是夯还是拉？",
+      "video_id": "NBVv3f6JwbU",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Gemini 3 终于来了，本期视频我们来看一下Gemini 3 更新了哪些东西， ...",
+      "published_at": "2025-11-19T14:54:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NBVv3f6JwbU/hqdefault.jpg"
+    },
     {
       "title": "Obsidian邪修用法，免费云同步，AI，手机端，还有进阶技巧",
       "video_id": "IlNOhNeWGgY",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 MinerU在线使用：https://mineru.net/ NoteGen ...",
       "published_at": "2025-09-01T02:13:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cxc36t7oklI/hqdefault.jpg"
-    },
-    {
-      "title": "PostgreSQL能存万物！这还是你认识的数据库吗？  #数据库 #编程 #科技 #人工智能",
-      "video_id": "1UPoCK0v22w",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 这是世界上最先进的开源关系型数据库PostGreSQL，能装下世间万物， ...",
-      "published_at": "2025-08-21T11:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1UPoCK0v22w/hqdefault.jpg"
     }
   ]
 }

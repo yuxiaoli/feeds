@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2025-11-16T00:31:07.992862",
+  "fetched_at": "2025-11-23T00:32:48.283814",
   "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
   "channel_title": "SpaceX",
-  "count": 10,
+  "count": 25,
   "videos": [
     {
       "title": "Starship | Tenth Flight Test",
@@ -83,6 +83,126 @@
       "description": "At ~700 km above Earth, the EVA suit will support the Polaris Dawn crew in the vacuum of space during the first-ever commercial ...",
       "published_at": "2024-05-05T04:16:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fdELVCg2Ank/hqdefault.jpg"
+    },
+    {
+      "title": "To Make Life Multiplanetary",
+      "video_id": "v9lAGmWhcZM",
+      "channel_title": "SpaceX",
+      "description": "The goal of SpaceX is to build the technologies necessary to make life multiplanetary. This is the first time in the 4-billion-year ...",
+      "published_at": "2024-04-06T17:58:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v9lAGmWhcZM/hqdefault.jpg"
+    },
+    {
+      "title": "Starship | Third Flight Test",
+      "video_id": "ApMrILhTulI",
+      "channel_title": "SpaceX",
+      "description": "On March 14, 2024, Starship successfully lifted off at 8:25 a.m. CT from Starbase in Texas and went on to accomplish several ...",
+      "published_at": "2024-04-05T02:14:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ApMrILhTulI/hqdefault.jpg"
+    },
+    {
+      "title": "Starship | Preparing for Third Flight Test",
+      "video_id": "97GOcZ08tc4",
+      "channel_title": "SpaceX",
+      "description": "The world's most powerful launch vehicle is ready for flight. The third flight test aims to build on what we've learned from previous ...",
+      "published_at": "2024-03-13T20:10:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/97GOcZ08tc4/hqdefault.jpg"
+    },
+    {
+      "title": "Starship | Second Flight Test",
+      "video_id": "C3iHAgwIYtI",
+      "channel_title": "SpaceX",
+      "description": "On November 18, 2023, Starship successfully lifted off at 7:02 a.m. CT from Starbase on its second integrated flight test. While it ...",
+      "published_at": "2023-12-07T18:10:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C3iHAgwIYtI/hqdefault.jpg"
+    },
+    {
+      "title": "Starship | 360 Video of Liftoff",
+      "video_id": "wly-YFGZbvA",
+      "channel_title": "SpaceX",
+      "description": "Starship returned to integrated flight testing with its second launch from Starbase in Texas. While it didn't happen in a lab or on a ...",
+      "published_at": "2023-11-21T17:06:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wly-YFGZbvA/hqdefault.jpg"
+    },
+    {
+      "title": "Starship | Preparing for Second Flight Test",
+      "video_id": "18pCXD709TI",
+      "channel_title": "SpaceX",
+      "description": "Starship is once more preparing for launch. The second flight test of a fully integrated Starship will debut several upgrades to the ...",
+      "published_at": "2023-11-11T02:35:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/18pCXD709TI/hqdefault.jpg"
+    },
+    {
+      "title": "Falcon 1, Flight 4",
+      "video_id": "mq2hymWPN1I",
+      "channel_title": "SpaceX",
+      "description": "On September 28, 2008, Falcon 1 became the first privately developed liquid fuel rocket to reach Earth orbit.",
+      "published_at": "2023-11-11T01:23:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mq2hymWPN1I/hqdefault.jpg"
+    },
+    {
+      "title": "Crew-6 Mission | Undocking",
+      "video_id": "Iz6qdzVCN9g",
+      "channel_title": "SpaceX",
+      "description": "On Sunday, September 3 at 7:05 a.m. ET, Dragon autonomously undocked from the International Space Station. After performing ...",
+      "published_at": "2023-09-03T11:25:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Iz6qdzVCN9g/hqdefault.jpg"
+    },
+    {
+      "title": "Space Development Agency’s Second Tranche 0 Mission",
+      "video_id": "JBeJVN-0t2I",
+      "channel_title": "SpaceX",
+      "description": "On Saturday, September 2 at 7:25 a.m. PT, SpaceX launched the Space Development Agency's second Tranche 0 mission to ...",
+      "published_at": "2023-09-02T14:37:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JBeJVN-0t2I/hqdefault.jpg"
+    },
+    {
+      "title": "Starlink Mission",
+      "video_id": "iFY7mtzsNKo",
+      "channel_title": "SpaceX",
+      "description": "On Thursday, August 31 at 10:21 p.m. ET, Falcon 9 launched 22 Starlink satellites to low-Earth orbit from Space Launch Complex ...",
+      "published_at": "2023-09-01T02:32:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iFY7mtzsNKo/hqdefault.jpg"
+    },
+    {
+      "title": "Crew-7 | Approach and Docking",
+      "video_id": "bEsyo5WLFkQ",
+      "channel_title": "SpaceX",
+      "description": "On Sunday, August 27 at 9:16 a.m. ET, SpaceX's Dragon autonomously docked with the International Space Station. Almost 30 ...",
+      "published_at": "2023-08-27T13:50:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bEsyo5WLFkQ/hqdefault.jpg"
+    },
+    {
+      "title": "Crew-7 Mission | Launch",
+      "video_id": "5KeIAYTW8eQ",
+      "channel_title": "SpaceX",
+      "description": "On Saturday, August 26 at 3:27 a.m. ET (07:27 UTC), Falcon 9 launched Dragon's seventh operational human spaceflight mission ...",
+      "published_at": "2023-08-26T08:05:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5KeIAYTW8eQ/hqdefault.jpg"
+    },
+    {
+      "title": "Starship Super Heavy Static Fire",
+      "video_id": "ENxZS6PUDuI",
+      "channel_title": "SpaceX",
+      "description": "Live views of Starship Super Heavy Booster 9's second static fire. Stream will begin a few minutes before ignition. As is the case ...",
+      "published_at": "2023-08-25T17:42:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ENxZS6PUDuI/hqdefault.jpg"
+    },
+    {
+      "title": "Starlink Mission",
+      "video_id": "rmlRxzxYlyM",
+      "channel_title": "SpaceX",
+      "description": "On Wednesday, August 16 at 11:36 p.m. ET, Falcon 9 launched 22 Starlink satellites to low-Earth orbit from Space Launch ...",
+      "published_at": "2023-08-17T03:50:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rmlRxzxYlyM/hqdefault.jpg"
+    },
+    {
+      "title": "Starlink Mission",
+      "video_id": "alkJWrqffcw",
+      "channel_title": "SpaceX",
+      "description": "On Monday, August 7 at 8:57 p.m. PT, Falcon 9 launched 15 Starlink satellites to low-Earth orbit from Space Launch Complex 4 ...",
+      "published_at": "2023-08-08T04:09:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/alkJWrqffcw/hqdefault.jpg"
     }
   ]
 }

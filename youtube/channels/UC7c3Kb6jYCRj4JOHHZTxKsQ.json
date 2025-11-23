@@ -1,88 +1,120 @@
 {
-  "fetched_at": "2025-11-16T00:30:19.800531",
+  "fetched_at": "2025-11-23T00:31:59.051280",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 10,
+  "count": 14,
   "videos": [
     {
-      "title": "Tackling your tech debt with Copilot coding agent",
-      "video_id": "LafpndhNC_E",
+      "title": "Event in Spanish: Jueves de Quack con Carlos Azaustre",
+      "video_id": "1fkKwbUd40I",
       "channel_title": "GitHub",
-      "description": "Before the age of agents, tech debt often went straight from the backlog to the graveyard. While it's important to continually identify ...",
-      "published_at": "2025-11-15T14:12:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LafpndhNC_E/hqdefault.jpg"
+      "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde @CarlosAzaustre y @acolombiadev discutirán las ultimas ...",
+      "published_at": "2025-11-22T16:19:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1fkKwbUd40I/hqdefault_live.jpg"
     },
     {
-      "title": "Open Source Friday Exploring Joplin: Note-Taking App with Privacy First",
-      "video_id": "V0PRW-WIo2A",
+      "title": "Try Google&#39;s most powerful AI model Gemini 3 Pro in Copilot today",
+      "video_id": "P3Xht3YJUrs",
       "channel_title": "GitHub",
-      "description": "Join us on this episode of Open Source Friday as we welcome Laurent Cozic, the creator of Joplin—a powerful open-source tool ...",
-      "published_at": "2025-11-15T06:37:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V0PRW-WIo2A/hqdefault.jpg"
+      "description": "Google just shook up the leaderboard with Gemini 3 Pro, their most powerful AI model yet. It's built not just to pass tests, but to ...",
+      "published_at": "2025-11-22T15:00:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/P3Xht3YJUrs/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] Open Source Friday Brasil 🇧🇷✨ com Manoel Campos mantenedor do CloudSim Plus 📱",
-      "video_id": "TNoYF2d_qIY",
+      "title": "Open Source Friday with Cilium",
+      "video_id": "Hio_cJjrR-Y",
       "channel_title": "GitHub",
-      "description": "Toda sexta-feira, ao vivo no canal Twitch.tv/GitHubBrasil , exploramos projetos Open Source brasileiros e conversamos com suas ...",
-      "published_at": "2025-11-15T05:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TNoYF2d_qIY/hqdefault.jpg"
+      "description": "On this week's Open Source Friday, we highlight Cilium, an open source project that provides modern networking, security, and ...",
+      "published_at": "2025-11-22T06:55:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Hio_cJjrR-Y/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR] Open Source Friday Brasil 🇧🇷✨ com Manoel Campos mantenedor do CloudSim Plus",
-      "video_id": "sZF35ORhSq0",
+      "title": "[pt-BR] 🇧🇷 Open Source Friday Brasil com Gui Santos",
+      "video_id": "xoe4GCMaRPY",
       "channel_title": "GitHub",
-      "description": "Toda sexta-feira, ao vivo no canal Twitch.tv/GitHubBrasil , exploramos projetos Open Source brasileiros e conversamos com suas ...",
-      "published_at": "2025-11-15T05:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sZF35ORhSq0/hqdefault.jpg"
+      "description": "Open Source Friday Brasil Toda sexta-feira, ao vivo no canal GitHub Brasil, exploramos projetos Open Source brasileiros e ...",
+      "published_at": "2025-11-22T05:01:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xoe4GCMaRPY/hqdefault.jpg"
     },
     {
-      "title": "Unboxing the GitHub Copilot Amazeball from the GitHub shop",
-      "video_id": "caKNPVHedHc",
+      "title": "The Download: Git 2.52, Gemini 3, a private file converter &amp; more",
+      "video_id": "wc2y1HS2a4I",
       "channel_title": "GitHub",
-      "description": "Meet the GitHub Copilot Amazeball, your new \"vaguely spherical pair programmer.\" We unbox this new desk toy from the GitHub ...",
-      "published_at": "2025-11-14T15:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/caKNPVHedHc/hqdefault.jpg"
+      "description": "This week on The Download, Cassidy covers the release of Git 2.52 and its new \"jetpack\" feature for checking file history. We also ...",
+      "published_at": "2025-11-21T18:18:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wc2y1HS2a4I/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Let&#39;s cowork and talk about the Game Off!",
-      "video_id": "cPs8mMtI-yM",
+      "title": "It&#39;s Rubber Duck Thursday! Come with your questions about open source, and let&#39;s cowork!",
+      "video_id": "MoVjtpSPwIo",
       "channel_title": "GitHub",
-      "description": "Are you planning on entering? Check it out! https://github.blog/company/github-game-off-2025-theme-announcement/",
-      "published_at": "2025-11-14T08:11:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cPs8mMtI-yM/hqdefault.jpg"
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2025-11-21T08:05:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MoVjtpSPwIo/hqdefault.jpg"
     },
     {
-      "title": "Quinta do Patinho ✨",
-      "video_id": "8S3S5NfoJtw",
+      "title": "[pt-BR]🇧🇷  Quinta do Patinho! - Construindo nosso MCP",
+      "video_id": "E6rCexhEwBA",
       "channel_title": "GitHub",
-      "description": "A Quinta do Patinho está de volta! Toda quinta-feira, ao vivo, a gente se reúne pra codar, explorar ferramentas, testar ideias e ...",
-      "published_at": "2025-11-14T05:05:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8S3S5NfoJtw/hqdefault.jpg"
+      "description": "A Quinta do Patinho é um stream semanal apresentado por Pachi Parra, onde fazemos live coding, exploramos ferramentas, ...",
+      "published_at": "2025-11-21T05:16:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E6rCexhEwBA/hqdefault.jpg"
     },
     {
-      "title": "Quinta do Patinho ✨ 📱",
-      "video_id": "7ur14xMSzqo",
+      "title": "Event in Spanish: Jueves de Quack con Gisela Torres",
+      "video_id": "yUA47dQczE8",
       "channel_title": "GitHub",
-      "description": "A Quinta do Patinho está de volta! Toda quinta-feira, ao vivo, a gente se reúne pra codar, explorar ferramentas, testar ideias e ...",
-      "published_at": "2025-11-14T05:05:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7ur14xMSzqo/hqdefault.jpg"
+      "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde Gisela Torres @returngis y Andrea Griffiths @acolombiadev ...",
+      "published_at": "2025-11-21T04:21:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yUA47dQczE8/hqdefault.jpg"
     },
     {
-      "title": "Event in Spanish: Jueves de Quack con Interledger",
-      "video_id": "hATdZTq2pqk",
+      "title": "Rubber Duck Thursdays - Let&#39;s build",
+      "video_id": "DEXo7X3YXbE",
       "channel_title": "GitHub",
-      "description": "Únete ‪@alacolombiadev‬ y Marian Villa (DevRel en Interledger) para una conversación en vivo sobre innovación, comunidad y ...",
-      "published_at": "2025-11-14T04:12:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hATdZTq2pqk/hqdefault.jpg"
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects.",
+      "published_at": "2025-11-21T00:09:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DEXo7X3YXbE/hqdefault.jpg"
     },
     {
-      "title": "The future of coding: Idan Gazit breaks down Octoverse 2025",
-      "video_id": "MQOaBXwRfYo",
+      "title": "How to create your first GitHub repository",
+      "video_id": "O9ZjvFcP1XQ",
       "channel_title": "GitHub",
-      "description": "What does the Head of GitHub Next think about the trends shaping software development? Idan Gazit reacts to the key findings ...",
-      "published_at": "2025-11-13T15:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MQOaBXwRfYo/hqdefault.jpg"
+      "description": "Ready to start your coding journey? In this quick tutorial, we walk you through creating your very first repository on GitHub.",
+      "published_at": "2025-11-20T17:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O9ZjvFcP1XQ/hqdefault.jpg"
+    },
+    {
+      "title": "How to assign and manage Copilot agent tasks from anywhere",
+      "video_id": "__RLpdxThEE",
+      "channel_title": "GitHub",
+      "description": "GitHub Copilot coding agent meets you where you're at, allowing you to assign tasks from basically anywhere - including a Slack ...",
+      "published_at": "2025-11-20T15:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/__RLpdxThEE/hqdefault.jpg"
+    },
+    {
+      "title": "3 crucial lessons every developer should learn from Log4Shell",
+      "video_id": "HdKBtgZhaYk",
+      "channel_title": "GitHub",
+      "description": "\"Behind every small library is a human being.\" In this powerful message, Log4j maintainer Christian Grobmeier shares the three ...",
+      "published_at": "2025-11-19T17:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HdKBtgZhaYk/hqdefault.jpg"
+    },
+    {
+      "title": "How Copilot Spaces gives your AI the right project context | GitHub Checkout",
+      "video_id": "noVdaj7sEWA",
+      "channel_title": "GitHub",
+      "description": "Tired of your AI assistant lacking the right project context? This deep dive into GitHub Copilot Spaces shows you the solution.",
+      "published_at": "2025-11-18T15:01:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/noVdaj7sEWA/hqdefault.jpg"
+    },
+    {
+      "title": "What&#39;s new with GitHub Copilot code review (CodeQL, agents &amp; more)",
+      "video_id": "ikIosF_iiz4",
+      "channel_title": "GitHub",
+      "description": "We've now powered up the GitHub Copilot code review agent, blending AI and deterministic detections, including our ...",
+      "published_at": "2025-11-16T14:01:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ikIosF_iiz4/hqdefault.jpg"
     }
   ]
 }

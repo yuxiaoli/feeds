@@ -1,32 +1,56 @@
 {
-  "fetched_at": "2025-11-16T00:30:35.667492",
+  "fetched_at": "2025-11-23T00:32:15.801424",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "GPT-5.1 and Kimi K2: What ‘Thinking AI’ really means",
-      "video_id": "5sFJVAoafFI",
+      "title": "Is Gemini 3 hallucinating?",
+      "video_id": "LO0xg43ZGNM",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/Bdbb4f Which model is better, GPT-5.1 or Kimi K2 Thinking? This week on Mixture of ...",
-      "published_at": "2025-11-14T11:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5sFJVAoafFI/hqdefault.jpg"
+      "description": "Google just launched Gemini 3—but experts say it's still cannot admit when it's wrong. Why are these new models still ...",
+      "published_at": "2025-11-21T17:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LO0xg43ZGNM/hqdefault.jpg"
     },
     {
-      "title": "BeeAI Framework: Extending LLMs with Tools, RAG, &amp; AI Agents",
-      "video_id": "WozA_qHEAqo",
+      "title": "Google’s Gemini 3: AI agents, reasoning and search mode",
+      "video_id": "7T_TjH6P8CE",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of ...",
-      "published_at": "2025-11-13T12:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WozA_qHEAqo/hqdefault.jpg"
+      "description": "Explore the podcast → https://ibm.biz/BdbhEh Learn more about IBM's CUGA agent framework → https://ibm.biz/BdbhE9 Does ...",
+      "published_at": "2025-11-21T11:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7T_TjH6P8CE/hqdefault.jpg"
     },
     {
-      "title": "Prompt Engineering for LLMs, PDL, &amp; LangChain in Action",
-      "video_id": "cgVppD6paYo",
+      "title": "The Power of AI Agents and Agentic AI Explained",
+      "video_id": "2j26a5dmCnI",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of ...",
-      "published_at": "2025-11-10T12:01:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cgVppD6paYo/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-11-20T12:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2j26a5dmCnI/hqdefault.jpg"
+    },
+    {
+      "title": "Anthropic stops AI spies, the new OWASP Top 10 and the rise of small-time ransomware",
+      "video_id": "LNVDrrKbfzg",
+      "channel_title": "IBM Technology",
+      "description": "Explore the podcast → https://ibm.biz/Bdb8tC Anthropic says it disrupted a nearly fully autonomous espionage campaign carried ...",
+      "published_at": "2025-11-19T11:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LNVDrrKbfzg/hqdefault.jpg"
+    },
+    {
+      "title": "AI ATTACKS! How Hackers Weaponize Artificial Intelligence",
+      "video_id": "0tHb6U2604g",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-11-18T12:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0tHb6U2604g/hqdefault.jpg"
+    },
+    {
+      "title": "MCP vs. RAG: How AI Agents &amp; LLMs Connect to Data",
+      "video_id": "X95MFcYH1_s",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-11-17T12:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X95MFcYH1_s/hqdefault.jpg"
     },
     {
       "title": "What Are Large Reasoning Models (LRMs)? Smarter AI Beyond LLMs",
@@ -45,44 +69,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
     },
     {
+      "title": "What Is an AI Stack? LLMs, RAG, &amp; AI Hardware",
+      "video_id": "RRKwmeyIc24",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of ...",
+      "published_at": "2025-11-03T12:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RRKwmeyIc24/hqdefault.jpg"
+    },
+    {
       "title": "Can you spot the social engineering trap?",
       "video_id": "Ys2IjNjdK2E",
       "channel_title": "IBM Technology",
       "description": "She spilled coffee on her resume… or was it bait? ☕   Discover how social engineers use human hacking and physical security ...",
       "published_at": "2025-10-31T16:00:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Ys2IjNjdK2E/hqdefault.jpg"
-    },
-    {
-      "title": "Decode Black Boxes with Explainable AI: Building Transparent AI Agents",
-      "video_id": "4_LIxSjc3H0",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-10-18T11:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4_LIxSjc3H0/hqdefault.jpg"
-    },
-    {
-      "title": "Building Decision Agents with LLMs &amp; Machine Learning Models",
-      "video_id": "mRkJTXDromw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-25T11:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mRkJTXDromw/hqdefault.jpg"
-    },
-    {
-      "title": "AI Agents &amp; Mainframe: Optimized Systems Powered by LLMs",
-      "video_id": "IRa6XmG8QCQ",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Mainframe Modernization Architect? Register now and use code IBMTechYT20 for 20% off ...",
-      "published_at": "2025-09-21T11:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IRa6XmG8QCQ/hqdefault.jpg"
-    },
-    {
-      "title": "Building Trustworthy AI Agents with Hybrid RAG",
-      "video_id": "l9LfC98tE_4",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-16T11:01:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l9LfC98tE_4/hqdefault.jpg"
     }
   ]
 }

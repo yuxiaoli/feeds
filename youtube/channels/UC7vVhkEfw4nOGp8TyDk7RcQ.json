@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-16T00:30:20.453769",
+  "fetched_at": "2025-11-23T00:31:59.747781",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Why Humanoids Are the Future of Manufacturing | Boston Dynamics Webinar",
+      "video_id": "laexcnaTrDM",
+      "channel_title": "Boston Dynamics",
+      "description": "Humanoid robots have long captured our imagination. Interest has skyrocketed along with the perception that robots are getting ...",
+      "published_at": "2025-11-18T17:51:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/laexcnaTrDM/hqdefault.jpg"
+    },
     {
       "title": "Happy Halloween | Boston Dynamics",
       "video_id": "uLRQFtttlK8",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-26T19:07:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iYy3jXjYL8I/hqdefault.jpg"
-    },
-    {
-      "title": "Getting a Leg up with End-to-end Neural Networks | Boston Dynamics",
-      "video_id": "HYwekersccY",
-      "channel_title": "Boston Dynamics",
-      "description": "We are excited to share some of our progress on developing Large Behavior Models (LBMs) for Atlas. This work is part of a ...",
-      "published_at": "2025-08-20T16:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HYwekersccY/hqdefault.jpg"
     }
   ]
 }

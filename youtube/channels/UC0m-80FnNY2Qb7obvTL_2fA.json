@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-11-16T00:30:12.765189",
+  "fetched_at": "2025-11-23T00:31:52.334022",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Unified Data Meets Azure Intelligence: Fabric, Foundry and Copilot in Action",
-      "video_id": "mwNYX2xU0nI",
+      "title": "Designing Proteins with AI at UW With Microsoft Foundry",
+      "video_id": "zjwIw_dHsEo",
       "channel_title": "Microsoft Azure",
-      "description": "Dive into AI and analytics capabilities for your Oracle data on the Microsoft Cloud. Learn how leading organizations are ...",
-      "published_at": "2025-11-14T16:01:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mwNYX2xU0nI/hqdefault.jpg"
+      "description": "See how University of Washington uses Microsoft Foundry to design new proteins for medicine, technology, and sustainability.",
+      "published_at": "2025-11-22T02:47:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zjwIw_dHsEo/hqdefault.jpg"
     },
     {
-      "title": "Enterprise-Ready, AI-First: What’s New with Oracle Database@Azure",
-      "video_id": "2bxJPgwoSKw",
+      "title": "Orderfox: AI Powered Supply Chains at Scale With Microsoft Foundry",
+      "video_id": "MjLAirBuGY4",
       "channel_title": "Microsoft Azure",
-      "description": "Ready to transform your Oracle workloads into intelligent, cloud-native solutions? Learn how Oracle Database@Azure is ...",
-      "published_at": "2025-11-14T16:02:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2bxJPgwoSKw/hqdefault.jpg"
+      "description": "Orderfox uses AI and Microsoft Foundry to power efficient, data-driven supply chains, connecting buyers and suppliers, enabling ...",
+      "published_at": "2025-11-22T02:46:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MjLAirBuGY4/hqdefault.jpg"
     },
     {
-      "title": "Supercharge Oracle Data with Microsoft AI",
-      "video_id": "NJV9oP34mLY",
+      "title": "Lufthansa Technik: AI That Optimizes Aircraft Maintenance With Microsoft Foundry",
+      "video_id": "L0fPilA79_A",
       "channel_title": "Microsoft Azure",
-      "description": "Your Oracle data is powerful—but on Microsoft Azure, it becomes transformative. Discover how Oracle customers are turning ...",
-      "published_at": "2025-11-14T16:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NJV9oP34mLY/hqdefault.jpg"
+      "description": "Discover how Lufthansa Technik leverages AI and Microsoft Foundry to revolutionize aircraft maintenance. See how these ...",
+      "published_at": "2025-11-22T02:47:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L0fPilA79_A/hqdefault.jpg"
     },
     {
-      "title": "Accelerate Azure Migrations by Unlocking Access to Microsoft Experts &amp; Programs",
-      "video_id": "CBMgZ95S35k",
+      "title": "Blue Yonder Powers Responsible Supply Chains With Microsoft Foundry",
+      "video_id": "whViU04ek2U",
       "channel_title": "Microsoft Azure",
-      "description": "Are you looking to accelerate your Oracle migration while minimizing disruption? Microsoft helps Oracle customers move quickly, ...",
-      "published_at": "2025-11-14T16:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CBMgZ95S35k/hqdefault.jpg"
+      "description": "Learn about the integration of responsible AI principles throughout the development lifecycle, ensuring safety, compliance, trust, ...",
+      "published_at": "2025-11-22T02:46:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/whViU04ek2U/hqdefault.jpg"
     },
     {
-      "title": "Confidential Computing: Defining a Spectrum of Guarantees | Confidential Computing Summit 2025",
-      "video_id": "WIeV2me3NQ0",
+      "title": "Founderz Makes Online Learning Human With Microsoft Foundry",
+      "video_id": "z0wsw8znndg",
       "channel_title": "Microsoft Azure",
-      "description": "Join Azure CTO Mark Russinovich as he explores Confidential Computing, its deployment models, and recommended ...",
-      "published_at": "2025-11-13T09:04:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WIeV2me3NQ0/hqdefault.jpg"
+      "description": "Founderz is making online learning more human with diverse learning circles, AI-powered assistants, and a mission to ensure ...",
+      "published_at": "2025-11-22T02:47:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z0wsw8znndg/hqdefault.jpg"
     },
     {
-      "title": "Confidential computing at a massive scale with G42 and AMD",
-      "video_id": "Ibuz1p0eHhM",
+      "title": "Pantone’s Palette Generator enhances creative exploration with agentic AI on Azure",
+      "video_id": "VxcsxhmJToE",
       "channel_title": "Microsoft Azure",
-      "description": "Step into the future of secure cloud computing with G42 as they join forces with Microsoft and AMD to redefine how sensitive data ...",
-      "published_at": "2025-11-13T09:03:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ibuz1p0eHhM/hqdefault.jpg"
+      "description": "Pantone empower designers with AI-driven color insights, instant trend forecasting, and seamless access to expert palettes for ...",
+      "published_at": "2025-11-22T02:46:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VxcsxhmJToE/hqdefault.jpg"
     },
     {
-      "title": "Building Confidential Inferencing (and other SaaS) on Azure - Confidential Computing Summit 2025",
-      "video_id": "qPaqwO_6Wbs",
+      "title": "Growing at the Speed of AI: Sierra’s Journey With Microsoft Foundry",
+      "video_id": "gNa9FP5up9Q",
       "channel_title": "Microsoft Azure",
-      "description": "Join Antoine Delignat-Lavaud, researcher at Microsoft, as he dives into the technical and practical challenges of building ...",
-      "published_at": "2025-11-13T07:30:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qPaqwO_6Wbs/hqdefault.jpg"
+      "description": "Discover how Sierra uses Microsoft Foundry and Azure OpenAI to power AI agents that transform customer experiences, solve ...",
+      "published_at": "2025-11-22T02:45:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gNa9FP5up9Q/hqdefault.jpg"
     },
     {
-      "title": "Interview with Mark Russinovich | Confidential Computing Summit 2025",
-      "video_id": "P9K4QBkU9NQ",
+      "title": "Microsoft Azure Key Vault HSM Animated Explainer",
+      "video_id": "4qqSPSMJSFY",
       "channel_title": "Microsoft Azure",
-      "description": "In this exclusive interview from the Confidential Computing Summit 2025, Mark Russinovich, CTO for Azure and technical fellow at ...",
-      "published_at": "2025-11-13T07:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/P9K4QBkU9NQ/hqdefault.jpg"
+      "description": "This video helps you understand Azure Key Vault Hardware Security Modules (HSM) that help keep your data on the Azure ...",
+      "published_at": "2025-11-22T01:39:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4qqSPSMJSFY/hqdefault.jpg"
     },
     {
-      "title": "Achieving Auditability and Trust Through Azure’s Cloud Transparency Service",
-      "video_id": "sgp_MJuZGJQ",
+      "title": "Microsoft Azure Hardware Security Module (HSM): Helping you with data security and sovereignty",
+      "video_id": "2raGD8wS3ZU",
       "channel_title": "Microsoft Azure",
-      "description": "Kartik Prabhu from Microsoft's Azure security team presents the Cloud Transparency Service (CTS), a confidential-grade Azure ...",
-      "published_at": "2025-11-13T06:30:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sgp_MJuZGJQ/hqdefault.jpg"
+      "description": "Microsoft Azure Key Vault Managed HSM helps keep your data away from those that aren't entitled to access it, including ...",
+      "published_at": "2025-11-22T01:38:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2raGD8wS3ZU/hqdefault.jpg"
     },
     {
-      "title": "Securing data and records through Azure Confidential Ledger | Confidential Computing Summit 2025",
-      "video_id": "VFJgedgZYok",
+      "title": "Premier League drives deep fan connection with Microsoft Foundry and Azure Cosmos DB",
+      "video_id": "iEAk3UqzVJg",
       "channel_title": "Microsoft Azure",
-      "description": "Azure experts, Shubhra Sinha Kamath and Yagnesh Setti Subramanian, explore how Azure Confidential Ledger empowers ...",
-      "published_at": "2025-11-13T05:30:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VFJgedgZYok/hqdefault.jpg"
+      "description": "The Premier League unified massive, diverse datasets and enabled real-time, personalized fan experiences using Microsoft ...",
+      "published_at": "2025-11-21T22:22:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iEAk3UqzVJg/hqdefault.jpg"
     }
   ]
 }
