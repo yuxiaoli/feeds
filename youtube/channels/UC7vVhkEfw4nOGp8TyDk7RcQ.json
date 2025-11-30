@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2025-11-23T00:31:59.747781",
+  "fetched_at": "2025-11-30T00:31:47.525580",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
-  "count": 10,
+  "count": 25,
   "videos": [
     {
       "title": "Why Humanoids Are the Future of Manufacturing | Boston Dynamics Webinar",
@@ -21,14 +21,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uLRQFtttlK8/hqdefault.jpg"
     },
     {
-      "title": "Inside the Stretch Test Lab | Boston Dynamics",
-      "video_id": "RpvSMqOT7ls",
-      "channel_title": "Boston Dynamics",
-      "description": "At our test warehouse, we recreate our customers' inbound operations, from the dock configuration and conveyors, to the freight ...",
-      "published_at": "2025-10-28T14:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RpvSMqOT7ls/hqdefault.jpg"
-    },
-    {
       "title": "How AI Is Changing Whole Body Manipulation | Atlas | Boston Dynamics",
       "video_id": "AdGFmYQx0lg",
       "channel_title": "Boston Dynamics",
@@ -37,36 +29,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/AdGFmYQx0lg/hqdefault.jpg"
     },
     {
-      "title": "What&#39;s in a humanoid hand? | Boston Dynamics",
-      "video_id": "gS4rOqNDTBk",
-      "channel_title": "Boston Dynamics",
-      "description": "Grippers are one of the most intricate parts of a humanoid robot, packed with actuation and sensing; they need to be durable ...",
-      "published_at": "2025-10-08T14:02:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gS4rOqNDTBk/hqdefault.jpg"
-    },
-    {
-      "title": "Boston Dynamics University | Customer Learning &amp; Development",
-      "video_id": "E5gZgaqXILY",
-      "channel_title": "Boston Dynamics",
-      "description": "Boston Dynamics University is part of our commitment to helping our customers maximize the value of their investment in robotics ...",
-      "published_at": "2025-10-07T14:50:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E5gZgaqXILY/hqdefault.jpg"
-    },
-    {
       "title": "Spot at Michelin Excerpt | Boston Dynamics",
       "video_id": "gafzTfN42jI",
       "channel_title": "Boston Dynamics",
       "description": "With Spot on the job, Michelin has generated more than 72 work orders. By delegating the mundane task of inspection, the ...",
       "published_at": "2025-09-24T13:57:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gafzTfN42jI/hqdefault.jpg"
-    },
-    {
-      "title": "Atlas Getting a Leg up with End-to-end Neural Networks",
-      "video_id": "PKKI5O1vfj4",
-      "channel_title": "Boston Dynamics",
-      "description": "We are excited to share some of our progress on developing Large Behavior Models (LBMs) for Atlas. This work is part of a ...",
-      "published_at": "2025-09-15T15:43:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PKKI5O1vfj4/hqdefault.jpg"
     },
     {
       "title": "Air Spot | RL Behavior Research | Boston Dynamics",
@@ -83,6 +51,158 @@
       "description": "",
       "published_at": "2025-08-26T19:07:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iYy3jXjYL8I/hqdefault.jpg"
+    },
+    {
+      "title": "Getting a Leg up with End-to-end Neural Networks | Boston Dynamics",
+      "video_id": "HYwekersccY",
+      "channel_title": "Boston Dynamics",
+      "description": "We are excited to share some of our progress on developing Large Behavior Models (LBMs) for Atlas. This work is part of a ...",
+      "published_at": "2025-08-20T16:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HYwekersccY/hqdefault.jpg"
+    },
+    {
+      "title": "Spot at POSCO | Boston Dynamics",
+      "video_id": "V7D7jXF2pj8",
+      "channel_title": "Boston Dynamics",
+      "description": "South Korean steel maker POSCO uses Spot and Orbit for preventive maintenance on its largest blast furnaces. POSCO's ...",
+      "published_at": "2025-07-09T14:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V7D7jXF2pj8/hqdefault.jpg"
+    },
+    {
+      "title": "Spot at Cargill | Boston Dynamics",
+      "video_id": "AqRquSReZHY",
+      "channel_title": "Boston Dynamics",
+      "description": "Cargill's Amsterdam Multiseed facility enlists Spot and Orbit to inspect machinery and perform visual checks, enhanced by all-new ...",
+      "published_at": "2025-06-17T13:44:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AqRquSReZHY/hqdefault.jpg"
+    },
+    {
+      "title": "Having Such a Good Time #AGTAuditions",
+      "video_id": "2-eBap2ECJA",
+      "channel_title": "Boston Dynamics",
+      "description": "Behind the scenes on the road to our America's Got Talent audition. Check out the full performance: ...",
+      "published_at": "2025-06-11T15:40:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2-eBap2ECJA/hqdefault.jpg"
+    },
+    {
+      "title": "Check it off the list, with Spot &amp; Orbit | Boston Dynamics",
+      "video_id": "xWmWmhRt-fs",
+      "channel_title": "Boston Dynamics",
+      "description": "What if you could detect, diagnose, and act—before issues even arise? With Spot and Orbit, you can. Orbit provides a real-time ...",
+      "published_at": "2025-06-04T13:20:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xWmWmhRt-fs/hqdefault.jpg"
+    },
+    {
+      "title": "Arm you glad to see me, Atlas? | Boston Dynamics",
+      "video_id": "dFObux6mfTc",
+      "channel_title": "Boston Dynamics",
+      "description": "In robotics, dexterity and perception go hand-in-hand, literally! Our Atlas manipulation test stand practices a range of grasps, using ...",
+      "published_at": "2025-04-28T14:04:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dFObux6mfTc/hqdefault.jpg"
+    },
+    {
+      "title": "Stretch at Gap | Boston Dynamics",
+      "video_id": "_dhwRYdZs9w",
+      "channel_title": "Boston Dynamics",
+      "description": "By having Stretch take on the physically demanding task of unloading trailers stacked floor to ceiling with boxes, Gap Inc has ...",
+      "published_at": "2025-03-26T14:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_dhwRYdZs9w/hqdefault.jpg"
+    },
+    {
+      "title": "Breakdancin’ | Boston Dynamics &amp; RAI Institute",
+      "video_id": "omwFoOReSFI",
+      "channel_title": "Boston Dynamics",
+      "description": "",
+      "published_at": "2025-03-24T11:53:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/omwFoOReSFI/hqdefault.jpg"
+    },
+    {
+      "title": "Walk, Run, Crawl, RL Fun | Boston Dynamics | Atlas",
+      "video_id": "I44_zbEwz_w",
+      "channel_title": "Boston Dynamics",
+      "description": "In this video, Atlas is demonstrating policies developed using reinforcement learning with references from human motion capture ...",
+      "published_at": "2025-03-19T13:59:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I44_zbEwz_w/hqdefault.jpg"
+    },
+    {
+      "title": "Pick, Carry, Place, Repeat | Inside the Lab with Atlas",
+      "video_id": "v8UaiRgqvlc",
+      "channel_title": "Boston Dynamics",
+      "description": "Last year, we unveiled the new Atlas—faster, stronger, more compact, and less messy. We're designing the world's most dynamic ...",
+      "published_at": "2025-03-05T14:07:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v8UaiRgqvlc/hqdefault.jpg"
+    },
+    {
+      "title": "Happy Holidays, Atlas",
+      "video_id": "yHo6nKWkwgs",
+      "channel_title": "Boston Dynamics",
+      "description": "",
+      "published_at": "2024-12-23T17:05:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yHo6nKWkwgs/hqdefault.jpg"
+    },
+    {
+      "title": "Happy Holidays | 2024 | Boston Dynamics",
+      "video_id": "sFkUH5XFHKU",
+      "channel_title": "Boston Dynamics",
+      "description": "Wishing you a holiday season full of light and laughter as we flip over into the new year!",
+      "published_at": "2024-12-23T15:02:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sFkUH5XFHKU/hqdefault.jpg"
+    },
+    {
+      "title": "Spot at Code &amp; Circuit | Boston Dynamics",
+      "video_id": "UVpkyJto-DQ",
+      "channel_title": "Boston Dynamics",
+      "description": "Code & Circuit, a non-profit organization based in Amesbury, MA, is a place where kids can use technology to create, collaborate, ...",
+      "published_at": "2024-11-26T15:08:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UVpkyJto-DQ/hqdefault.jpg"
+    },
+    {
+      "title": "Spot Watches Its Step | Boston Dynamics",
+      "video_id": "YD9EaS3VRbc",
+      "channel_title": "Boston Dynamics",
+      "description": "On a typical day, our customers are operating the Spot® robot in factories, foundries, substations, sub basements, and beyond.",
+      "published_at": "2024-11-14T14:59:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YD9EaS3VRbc/hqdefault.jpg"
+    },
+    {
+      "title": "Trick or treat, Atlas!",
+      "video_id": "_rFqD1Np5P8",
+      "channel_title": "Boston Dynamics",
+      "description": "Why build a humanoid robot? Because the world is designed for humans, including all the best Halloween costumes! We don't ...",
+      "published_at": "2024-10-31T13:30:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_rFqD1Np5P8/hqdefault.jpg"
+    },
+    {
+      "title": "Stretch in the Box | Boston Dynamics",
+      "video_id": "1lOvdvAOQjc",
+      "channel_title": "Boston Dynamics",
+      "description": "Spot checks out Stretch's 2024 Halloween costume.",
+      "published_at": "2024-10-31T13:29:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1lOvdvAOQjc/hqdefault.jpg"
+    },
+    {
+      "title": "Atlas Goes Hands On",
+      "video_id": "F_7IPm7f1vI",
+      "channel_title": "Boston Dynamics",
+      "description": "Atlas is autonomously moving engine covers between supplier containers and a mobile sequencing dolly. The robot receives as ...",
+      "published_at": "2024-10-30T13:44:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F_7IPm7f1vI/hqdefault.jpg"
+    },
+    {
+      "title": "Spot at Michelin | Boston Dynamics",
+      "video_id": "DTNWH9wN57s",
+      "channel_title": "Boston Dynamics",
+      "description": "With Spot on the job, Michelin has generated more than 72 work orders. By delegating the mundane task of inspection, the ...",
+      "published_at": "2024-10-23T14:11:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DTNWH9wN57s/hqdefault.jpg"
+    },
+    {
+      "title": "New in Spot &amp; Orbit 4.1 | Boston Dynamics",
+      "video_id": "0hrYzgP_Lg4",
+      "channel_title": "Boston Dynamics",
+      "description": "Hundreds of companies are using Spot to increase reliability and uptime in their plants—and seeing their investment in robotics ...",
+      "published_at": "2024-09-24T14:02:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0hrYzgP_Lg4/hqdefault.jpg"
     }
   ]
 }

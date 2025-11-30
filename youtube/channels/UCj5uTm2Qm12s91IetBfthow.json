@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-23T00:32:40.724131",
+  "fetched_at": "2025-11-30T00:32:28.968223",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "一口气玩遍11月huggingface最火项目",
+      "video_id": "zffYlZDQuoM",
+      "channel_title": "Find Interesting AI",
+      "description": "",
+      "published_at": "2025-11-30T00:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zffYlZDQuoM/hqdefault.jpg"
+    },
     {
       "title": "11月最新AI精选论文分享",
       "video_id": "6BsBKbLF5sg",
@@ -75,14 +83,6 @@
       "description": "文档及资料： https://qadso0i11yj.feishu.cn/base/RhjWbJeaaaciwHsXvdRcJoEVnPg?from=from_copylink.",
       "published_at": "2025-08-12T23:00:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/UAdV8n6Jm-Q/hqdefault.jpg"
-    },
-    {
-      "title": "最新7月AI论文总结",
-      "video_id": "QWji_biIaDc",
-      "channel_title": "Find Interesting AI",
-      "description": "7月论文总结文档： https://qadso0i11yj.feishu.cn/base/YuW7bfwgJaGUIpszeXQcHzrAnFb?from=from_copylink.",
-      "published_at": "2025-08-03T12:37:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QWji_biIaDc/hqdefault.jpg"
     }
   ]
 }

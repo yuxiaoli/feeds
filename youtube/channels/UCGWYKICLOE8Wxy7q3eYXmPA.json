@@ -1,33 +1,9 @@
 {
-  "fetched_at": "2025-11-23T00:32:09.588269",
+  "fetched_at": "2025-11-30T00:31:57.369064",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
-    {
-      "title": "【人工智能】揭开大模型的黑盒 | 解释性电路 | 权重稀疏模型 | 叠加态 | 双重稀疏 | AdamW | L0退火 | 梯度裁剪 | 修剪算法 | 三大任务实验 | 桥接方法 | 稀疏模型映射",
-      "video_id": "WlJb_Xj5W-E",
-      "channel_title": "最佳拍档",
-      "description": "当我们每天使用GPT、Claude这些大语言模型时，我们真的知道它们是怎么思考的吗？我们输入一个查询，模型给出精准的回答， ...",
-      "published_at": "2025-11-22T02:16:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WlJb_Xj5W-E/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】AI不是泡沫 | 微软AICEO Mustafa Suleyman | AI没有自我意识 | 超级智能 | AGI | 日常生活变化 | 医疗平权 | 教育普及 | 自学能力",
-      "video_id": "_988hgoYeMk",
-      "channel_title": "最佳拍档",
-      "description": "最近，硅谷女孩播客频道，对微软AI执行副总裁、DeepMind的联合创始人穆斯塔法·苏莱曼（Mustafa Suleyman），进行了一场独家 ...",
-      "published_at": "2025-11-20T09:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_988hgoYeMk/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】谷歌发布Gemini 3 | 史上最智能AI模型 | 多项测试霸榜 | 顶尖推理能力 | 全能多模态 | Google Antigravity | Deep Think模式",
-      "video_id": "dUWBj6YTe0Y",
-      "channel_title": "最佳拍档",
-      "description": "今天，Gemini 3正式发布了。作为Google DeepMind团队倾尽两年心血打磨的集大成之作，这款被称为史上最智能AI模型的产品， ...",
-      "published_at": "2025-11-19T10:41:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dUWBj6YTe0Y/hqdefault.jpg"
-    },
     {
       "title": "【人工智能】OpenAI完成公司架构重组 | PBC | 投入250亿美元 | 和微软签署新长期协议 | 公开AI发展时间线 | 2028年自动AI研究员 | 对齐的五层结构 | GPT6 | IPO",
       "video_id": "jTBV3Jb07yE",
@@ -83,6 +59,30 @@
       "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 在最新一期的Decoder节目中，托马斯·多姆克与主持人亚历克斯·希思（Alex ...",
       "published_at": "2025-08-22T09:00:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Qn5eCavq68I/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】推理的本质 | Denny Zhou斯坦福讲座 | 什么是推理 | 思考的必要性 | 思维链提示 | 贪婪解码 | 置信度 | step-by-step | SFT | 验证器",
+      "video_id": "s00fy5RkCHc",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 最近，DeepMind首席科学家兼研究总监丹尼·周，在斯坦福大学做了一场讲座 ...",
+      "published_at": "2025-08-19T09:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s00fy5RkCHc/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】AI革命被严重低估了 | 谷歌前CEO Eric Schmidt | 电力 | 数据中心 | 旧金山共识 | 数字超智能 | AI会缓慢侵蚀人类 | 对就业的影响 | 学习循环",
+      "video_id": "wYz0Sw6101Y",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 谷歌的前CEO埃里克·施密特（Eric Schmidt）最近做客了Moonshots播客， ...",
+      "published_at": "2025-07-25T09:01:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wYz0Sw6101Y/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】AlphaFold诞生记 | 诺奖得主John Jumper YC演讲 | 职业经历 | 机器学习 | DeepMind | 蛋白质折叠 | PDB | 算法研究的重要性 | CASP",
+      "video_id": "odRUO7a87-U",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 今天我们要深入探讨一个足以改写现代生物学发展轨迹的故事，这个故事的 ...",
+      "published_at": "2025-07-21T09:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/odRUO7a87-U/hqdefault.jpg"
     }
   ]
 }

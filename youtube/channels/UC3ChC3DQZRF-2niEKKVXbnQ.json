@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-23T00:31:55.006839",
+  "fetched_at": "2025-11-30T00:31:42.507785",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "什么? 用 Claude Code 剪视频?",
+      "video_id": "XftxFxi3iDM",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来新的AI邪修教程! 相信有很多朋友在制作视频的时候, 在痛苦的学AE, PR, Blender这些专业工具怎么用. 今天给大家带来新 ...",
+      "published_at": "2025-11-28T02:55:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XftxFxi3iDM/hqdefault.jpg"
+    },
     {
       "title": "Meta 的新模型 SAM 3 实测!",
       "video_id": "1rpqFbX3PUQ",
@@ -75,14 +83,6 @@
       "description": "直接说结论, 这只是个经济型模型, 没什么竞争力. 大象牙膏测试中，三角烧瓶的建模有问题, 然后喷发动画实现有性能问题, 特别卡新增 ...",
       "published_at": "2025-10-22T01:13:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DewXta5G7a8/hqdefault.jpg"
-    },
-    {
-      "title": "Vibe Coding 不流行了? Spec Coding 教程来啦",
-      "video_id": "oXSp3530q28",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来Kiro Spec Coding 小教程! 总计4个场景: 场景A: 15000 行C 代码的项目cJSON 移植到TypeScript, 全程一行代码都没动手 ...",
-      "published_at": "2025-10-22T01:14:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oXSp3530q28/hqdefault.jpg"
     }
   ]
 }

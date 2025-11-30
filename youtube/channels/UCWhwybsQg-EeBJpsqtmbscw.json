@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2025-11-23T00:32:27.574663",
+  "fetched_at": "2025-11-30T00:32:15.419967",
   "channel_id": "UCWhwybsQg-EeBJpsqtmbscw",
   "channel_title": "JomaClass",
   "count": 10,
   "videos": [
+    {
+      "title": "Overview of Web Development | Web Development Concepts",
+      "video_id": "2C8_Tytu14U",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-29T16:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2C8_Tytu14U/hqdefault.jpg"
+    },
+    {
+      "title": "SQL: Everything Else | SQL for Data Analytics",
+      "video_id": "p_ZnYggMuEA",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-28T16:01:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p_ZnYggMuEA/hqdefault.jpg"
+    },
+    {
+      "title": "Window Functions | SQL for Data Analytics",
+      "video_id": "kki6NliYlfA",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-27T16:01:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kki6NliYlfA/hqdefault.jpg"
+    },
+    {
+      "title": "JOIN Practice | SQL for Data Analytics",
+      "video_id": "eghLEVUFXAE",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-26T16:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eghLEVUFXAE/hqdefault.jpg"
+    },
+    {
+      "title": "JOIN: INNER, LEFT, RIGHT, OUTER | SQL for Data Analytics",
+      "video_id": "IflOlZj6cc0",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-25T16:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IflOlZj6cc0/hqdefault.jpg"
+    },
+    {
+      "title": "JOIN | SQL for Data Analytics",
+      "video_id": "EPjFc53psUg",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-24T16:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EPjFc53psUg/hqdefault.jpg"
+    },
+    {
+      "title": "UNION | SQL for Data Analytics",
+      "video_id": "8K6gFLy4gxE",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-11-23T16:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8K6gFLy4gxE/hqdefault.jpg"
+    },
     {
       "title": "CASE | SQL for Data Analytics",
       "video_id": "Kti_ua3FShE",
@@ -27,62 +83,6 @@
       "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
       "published_at": "2025-11-20T16:00:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1Q6OwHKUlTE/hqdefault.jpg"
-    },
-    {
-      "title": "GROUP BY | SQL for Data Analytics",
-      "video_id": "V_o9YSxgyAY",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-19T16:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V_o9YSxgyAY/hqdefault.jpg"
-    },
-    {
-      "title": "Aggregation Functions | SQL for Data Analytics",
-      "video_id": "TyDzUYl-9cE",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-18T16:00:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TyDzUYl-9cE/hqdefault.jpg"
-    },
-    {
-      "title": "ORDER BY | SQL for Data Analytics",
-      "video_id": "s--6mItWebs",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-17T16:01:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s--6mItWebs/hqdefault.jpg"
-    },
-    {
-      "title": "IS NULL | SQL for Data Analytics",
-      "video_id": "38oOcV6ZwdY",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-16T16:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/38oOcV6ZwdY/hqdefault.jpg"
-    },
-    {
-      "title": "IN | SQL for Data Analytics",
-      "video_id": "mm72NnEPs_c",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-15T16:01:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mm72NnEPs_c/hqdefault.jpg"
-    },
-    {
-      "title": "LIKE &amp; ILIKE | SQL for Data Analytics",
-      "video_id": "dnNzrFEPCvs",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-14T16:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dnNzrFEPCvs/hqdefault.jpg"
-    },
-    {
-      "title": "AND, OR, NOT | SQL for Data Analytics",
-      "video_id": "JlvUKHoAsdc",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-11-13T16:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JlvUKHoAsdc/hqdefault.jpg"
     }
   ]
 }

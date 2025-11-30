@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-23T00:32:32.434770",
+  "fetched_at": "2025-11-30T00:32:20.467930",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "تحكم كامل بالجسم",
+      "video_id": "gXNkoTzfu94",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2025-11-25T10:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gXNkoTzfu94/hqdefault.jpg"
+    },
     {
       "title": "No space Muscle up",
       "video_id": "2Jky_ttRKRM",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-07-20T13:23:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/OihsjDJHn7w/hqdefault.jpg"
-    },
-    {
-      "title": "كيف تجيب العدة الثانية في المصل اب",
-      "video_id": "lQ9R40TIOKQ",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-07-19T18:43:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lQ9R40TIOKQ/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-11-23T00:32:34.530460",
+  "fetched_at": "2025-11-30T00:32:22.610386",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Deep Learning Specialization by DeepLearning.AI #BeADeepLearner",
+      "video_id": "mY9EypyKaEU",
+      "channel_title": "DeepLearningAI",
+      "description": "Enroll Now: https://bit.ly/47elYXy Looking to grow your skills and build a career in AI? Join 1 million+ learners and ...",
+      "published_at": "2025-11-25T16:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mY9EypyKaEU/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 NYC: Event Highlights",
+      "video_id": "cSLmR2eX4xE",
+      "channel_title": "DeepLearningAI",
+      "description": "What a day! AI Dev 25 x NYC, hosted by Andrew Ng and DeepLearning.AI, brought together engineers, researchers, and builders ...",
+      "published_at": "2025-11-24T17:16:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cSLmR2eX4xE/hqdefault.jpg"
+    },
+    {
+      "title": "Generative AI for Software Development is open for enrollment!",
+      "video_id": "d3mYcvWgAhY",
+      "channel_title": "DeepLearningAI",
+      "description": "Enroll now: https://bit.ly/4p18Oo4 Generative AI is not just a tool for creating content faster. It's a paradigm shift in how you can ...",
+      "published_at": "2025-11-24T17:16:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d3mYcvWgAhY/hqdefault.jpg"
+    },
     {
       "title": "The AI for Good Specialization is Now Available at DeepLearning.AI",
       "video_id": "VRBBuCbyASI",
@@ -59,30 +83,6 @@
       "description": "Learn more: https://bit.ly/47ict9O Learn to align and optimize LLMs for real-world applications through post-training. In this course ...",
       "published_at": "2025-10-28T16:08:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CkQBJxjgXt4/hqdefault.jpg"
-    },
-    {
-      "title": "Integrate data governance into your agent&#39;s workflow in this new course!",
-      "video_id": "Mv27yTV7CFI",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4nh0gZ5 Introducing Governing AI Agents, a short course built in collaboration with Databricks and taught ...",
-      "published_at": "2025-10-22T15:40:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Mv27yTV7CFI/hqdefault.jpg"
-    },
-    {
-      "title": "Build live voice agents that listen, reason, and respond, using Google’s ADK",
-      "video_id": "yxu2RQy2i-c",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/43jxboy In \"Building Live Voice Agents with Google's ADK\" you'll learn from Lavi Nigam and Sita Lakshmi ...",
-      "published_at": "2025-10-15T14:26:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yxu2RQy2i-c/hqdefault.jpg"
-    },
-    {
-      "title": "Learn to build effective Agentic AI systems",
-      "video_id": "NS47q32aWZw",
-      "channel_title": "DeepLearningAI",
-      "description": "Agentic AI, taught by Andrew Ng, is now available worldwide. Learn to design and evaluate AI systems that plan, reflect, and ...",
-      "published_at": "2025-10-07T16:09:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NS47q32aWZw/hqdefault.jpg"
     }
   ]
 }

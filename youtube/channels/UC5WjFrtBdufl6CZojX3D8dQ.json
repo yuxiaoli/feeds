@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-23T00:31:57.743728",
+  "fetched_at": "2025-11-30T00:31:45.488150",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Model X opens the door for you",
+      "video_id": "x8c965ezpq8",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-11-24T18:13:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x8c965ezpq8/hqdefault.jpg"
+    },
     {
       "title": "Hot wings",
       "video_id": "FwqPI15nPjc",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-10-07T03:11:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0jHCsY8MnmQ/hqdefault.jpg"
-    },
-    {
-      "title": "Vote Your Tesla Shares",
-      "video_id": "6JwClvNwoYw",
-      "channel_title": "Tesla",
-      "description": "Tesla's Annual Meeting is coming up on November 6 & we need your vote! Optimus will show you how. Voting is quick and easy ...",
-      "published_at": "2025-10-06T21:08:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6JwClvNwoYw/hqdefault.jpg"
     }
   ]
 }

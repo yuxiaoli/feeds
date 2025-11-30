@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-23T00:31:51.592338",
+  "fetched_at": "2025-11-30T00:31:39.064992",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "The Castellows - Alabama Stone (Live from Charlotte, NC)",
+      "video_id": "vdjovB1R4o8",
+      "channel_title": "The Castellows",
+      "description": "The Castellows - Alabama Stone (Live from Charlotte, NC) Listen to the EP Playlist: ...",
+      "published_at": "2025-11-24T16:01:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vdjovB1R4o8/hqdefault.jpg"
+    },
     {
       "title": "The Castellows - Place They Call Home feat. Flatland Cavalry (Live in Nashville)",
       "video_id": "DXl4-WJhgRY",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-09-25T21:32:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GvZw4R-wMAE/hqdefault.jpg"
-    },
-    {
-      "title": "‘Heartland’ is coming to you Sept 26th!!! #thecastellows",
-      "video_id": "vOZdJWEbqKY",
-      "channel_title": "The Castellows",
-      "description": "",
-      "published_at": "2025-09-16T21:20:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vOZdJWEbqKY/hqdefault.jpg"
     }
   ]
 }

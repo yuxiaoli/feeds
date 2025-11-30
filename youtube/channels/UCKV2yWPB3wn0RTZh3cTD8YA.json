@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-23T00:32:15.103566",
+  "fetched_at": "2025-11-30T00:32:02.849603",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "“人造肉”千亿赛道的坍塌：资本的幻想与精英主义的泡沫",
+      "video_id": "2TV2jMaIcak",
+      "channel_title": "硅谷101",
+      "description": "这是一个曾被比尔·盖茨、李嘉诚、小李子押注的千亿赛道，如今却沦为华尔街的笑话。2019年，Beyond Meat上市首日暴涨163%， ...",
+      "published_at": "2025-11-26T01:17:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2TV2jMaIcak/hqdefault.jpg"
+    },
     {
       "title": "直播解析谷歌Gemini 3：“AI 全模态”时代与Scaling Law的极致执行【101 Live】",
       "video_id": "1pgCnlJRuxE",
@@ -75,14 +83,6 @@
       "description": "在大模型激战的今天，谁才是真正的“最强AI”？传统的Benchmark测试正因“题库泄露”和“刷分”在失去公信力，而一个叫LMArena的 ...",
       "published_at": "2025-10-30T22:35:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EUsIYVtt3y0/hqdefault.jpg"
-    },
-    {
-      "title": "英伟达“两个儿子”之战：AI算力的杠杆游戏与潜在泡沫【深度】｜Coreweave｜Nebius｜Neocloud",
-      "video_id": "8ndEN6VVlUw",
-      "channel_title": "硅谷101",
-      "description": "AI浪潮之下，一场关于算力的“闪电战”已经打响。当AWS、谷歌云等传统巨头在GPU短缺中挣扎时，一个千亿美元的“新 ...",
-      "published_at": "2025-10-23T02:36:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8ndEN6VVlUw/hqdefault.jpg"
     }
   ]
 }
