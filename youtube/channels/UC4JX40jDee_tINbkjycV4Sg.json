@@ -1,64 +1,72 @@
 {
-  "fetched_at": "2025-11-30T00:31:44.679956",
+  "fetched_at": "2025-12-07T00:31:50.412716",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 10,
+  "count": 16,
   "videos": [
     {
-      "title": "Did you know about the range function?",
-      "video_id": "il0dFcWBev0",
+      "title": "Have you used this function in Python?",
+      "video_id": "3Kmd4wV_hCs",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-11-29T16:38:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/il0dFcWBev0/hqdefault.jpg"
+      "published_at": "2025-12-06T17:10:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3Kmd4wV_hCs/hqdefault.jpg"
     },
     {
-      "title": "Data Structures  - Full Course for Beginners",
-      "video_id": "J2fol8eWo64",
-      "channel_title": "Tech With Tim",
-      "description": "This course will teach you about Data Structures and how they will apply in real-world scenarios, like computer science courses, ...",
-      "published_at": "2025-11-28T09:33:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J2fol8eWo64/hqdefault.jpg"
-    },
-    {
-      "title": "You need to follow a system...",
-      "video_id": "KXjccJm-06I",
+      "title": "How to properly use AI as a developer.",
+      "video_id": "GX0nPC4QpoI",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-11-28T09:14:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KXjccJm-06I/hqdefault.jpg"
+      "published_at": "2025-12-05T23:54:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GX0nPC4QpoI/hqdefault.jpg"
     },
     {
-      "title": "Watch this video if you&#39;re a developer!",
-      "video_id": "sCiD-Wzj9P0",
+      "title": "Cursor 2.0 - Full Tutorial for Beginners",
+      "video_id": "l30Eb76Tk5s",
+      "channel_title": "Tech With Tim",
+      "description": "Get started building MCP servers with Arcade.dev: https://arcade.dev.plug.dev/onVacVC In this video, I'll give you a full beginner's ...",
+      "published_at": "2025-12-05T14:01:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l30Eb76Tk5s/hqdefault.jpg"
+    },
+    {
+      "title": "You need to learn this ASAP!",
+      "video_id": "fa1QEzhpKZU",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-11-27T17:43:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sCiD-Wzj9P0/hqdefault.jpg"
+      "published_at": "2025-12-05T00:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fa1QEzhpKZU/hqdefault.jpg"
     },
     {
-      "title": "This is a huge red flag if you&#39;re a programmer...",
-      "video_id": "KP42CpCCGmo",
+      "title": "You need to make sure you do this...",
+      "video_id": "Voxq9kT_0jo",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-11-26T18:58:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KP42CpCCGmo/hqdefault.jpg"
+      "published_at": "2025-12-04T20:22:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Voxq9kT_0jo/hqdefault.jpg"
     },
     {
-      "title": "My honest advice to aspiring software engineers",
-      "video_id": "pzcbRNLNkhY",
-      "channel_title": "Tech With Tim",
-      "description": "Get Job Ready with SAL1 and PT1 Certifications at TryHackMe: https://tryhackme.com/yt_techwithtim. Use my code \"TIM25CERT\" ...",
-      "published_at": "2025-11-26T00:11:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pzcbRNLNkhY/hqdefault.jpg"
-    },
-    {
-      "title": "This is the #1 mistake people make in interviews.",
-      "video_id": "vB1HPzvpMVA",
+      "title": "How to use AI properly as a developer.",
+      "video_id": "GkwgtyulHBM",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-11-26T00:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vB1HPzvpMVA/hqdefault.jpg"
+      "published_at": "2025-12-03T23:43:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GkwgtyulHBM/hqdefault.jpg"
+    },
+    {
+      "title": "The AI Browser That Just Replaced Chrome",
+      "video_id": "E3YPjh9lJOY",
+      "channel_title": "Tech With Tim",
+      "description": "Check out Neo and download now: ...",
+      "published_at": "2025-12-02T14:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E3YPjh9lJOY/hqdefault.jpg"
+    },
+    {
+      "title": "Ex-Google Engineer Reveals How to Pass a Technical Interview ft .@KevinNaughtonJr",
+      "video_id": "Ky1WodwYUA8",
+      "channel_title": "Tech With Tim",
+      "description": "Today, you are going to learn exactly what it takes to pass a technical interview. In order to explain that to you, I brought one of my ...",
+      "published_at": "2025-11-30T11:01:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ky1WodwYUA8/hqdefault.jpg"
     },
     {
       "title": "The only video you need to watch if you want to become a software engineer!",
@@ -83,6 +91,46 @@
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
       "published_at": "2025-07-04T02:52:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
+    },
+    {
+      "title": "Why I’m Ditching ChatGPT… ChatLLM Tutorial",
+      "video_id": "EYcDauqeJjI",
+      "channel_title": "Tech With Tim",
+      "description": "Get started wirh ChatLLM here: https://chatllm.abacus.ai I want you to ask yourself how many I subscriptions are you currently ...",
+      "published_at": "2025-04-25T13:48:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EYcDauqeJjI/hqdefault.jpg"
+    },
+    {
+      "title": "Backend Software Engineer roadmap",
+      "video_id": "FlsrKv_xIyg",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-03-24T21:17:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FlsrKv_xIyg/hqdefault.jpg"
+    },
+    {
+      "title": "You are never really gonna get anything done if you don&#39;t commit to...",
+      "video_id": "71-XeR-r1aA",
+      "channel_title": "Tech With Tim",
+      "description": "Understanding this in your coding career.",
+      "published_at": "2025-01-05T20:45:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/71-XeR-r1aA/hqdefault.jpg"
+    },
+    {
+      "title": "Cracking the code to land a job at Google👀",
+      "video_id": "sxSVJAfuiPU",
+      "channel_title": "Tech With Tim",
+      "description": "",
+      "published_at": "2024-11-16T21:46:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sxSVJAfuiPU/hqdefault.jpg"
+    },
+    {
+      "title": "Python vs. JavaScript",
+      "video_id": "mP0AuMKypd8",
+      "channel_title": "Tech With Tim",
+      "description": "Which one should you learn? Let me break it down for you.",
+      "published_at": "2024-10-03T18:43:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mP0AuMKypd8/hqdefault.jpg"
     }
   ]
 }

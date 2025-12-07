@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2025-11-30T00:32:16.909678",
+  "fetched_at": "2025-12-07T00:32:22.415577",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "What&#39;s New with ChatGPT Voice",
+      "video_id": "4jBcK0cYass",
+      "channel_title": "OpenAI",
+      "description": "You can now use ChatGPT Voice right inside chat — no separate mode needed. You can talk, watch answers appear, review ...",
+      "published_at": "2025-12-05T19:07:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4jBcK0cYass/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: Agent Memory Patterns",
+      "video_id": "WsGVXiWzTpI",
+      "channel_title": "OpenAI",
+      "description": "AI agents don't just reason — they remember. In this Build Hour, we deep-dive into context engineering techniques that enable ...",
+      "published_at": "2025-12-04T20:28:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WsGVXiWzTpI/hqdefault.jpg"
+    },
+    {
+      "title": "Codex brings concepts into view.",
+      "video_id": "z8RRfZnwsGg",
+      "channel_title": "OpenAI",
+      "description": "maddyzhang.",
+      "published_at": "2025-12-03T16:29:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z8RRfZnwsGg/hqdefault.jpg"
+    },
+    {
+      "title": "Shaping Model Behavior in GPT-5.1— the OpenAI Podcast Ep. 11",
+      "video_id": "GXAAzKX6oaQ",
+      "channel_title": "OpenAI",
+      "description": "What does it mean for an AI model to have \"personality\"? Researcher Christina Kim and product manager Laurentia Romaniuk ...",
+      "published_at": "2025-12-02T18:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GXAAzKX6oaQ/hqdefault.jpg"
+    },
     {
       "title": "Scania accelerates operations across its global workforce with ChatGPT",
       "video_id": "0luMwmnvRuQ",
@@ -51,38 +83,6 @@
       "description": "Say hello to GPT-5.1 and new personalization controls, rolling out to all users this week. 8 unique chat styles (including 3 new ...",
       "published_at": "2025-11-14T04:17:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/kykP8fy1a9Q/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT Atlas and the next era of web browsing — the OpenAI Podcast Ep. 9",
-      "video_id": "WdbgNC80PMw",
-      "channel_title": "OpenAI",
-      "description": "How will the internet feel when your browser can actually do things for you? OpenAI's Ben Goodger and Darin Fisher, whose past ...",
-      "published_at": "2025-11-14T00:16:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WdbgNC80PMw/hqdefault.jpg"
-    },
-    {
-      "title": "Build Hour: Agent RFT",
-      "video_id": "1s_7RMG4O4U",
-      "channel_title": "OpenAI",
-      "description": "Agent RFT enables reasoning models to become even more powerful, tool-using agents by training directly on the workflows they ...",
-      "published_at": "2025-11-10T14:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1s_7RMG4O4U/hqdefault.jpg"
-    },
-    {
-      "title": "Automatic code reviews with OpenAI Codex",
-      "video_id": "HwbSWVg5Ln4",
-      "channel_title": "OpenAI",
-      "description": "Maja Trębacz and Romain Huet show you how to set up Codex to automatically review new pull requests in GitHub and in the ...",
-      "published_at": "2025-11-04T17:54:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HwbSWVg5Ln4/hqdefault.jpg"
-    },
-    {
-      "title": "Monster Manor by Sora 2",
-      "video_id": "9DyK0Ig6_Rc",
-      "channel_title": "OpenAI",
-      "description": "Happy Halloween from Sora and the monsters of Monster Manor. Created using characters, now available in the Sora app.",
-      "published_at": "2025-10-31T18:22:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9DyK0Ig6_Rc/hqdefault.jpg"
     }
   ]
 }

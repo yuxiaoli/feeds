@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-30T00:32:17.678185",
+  "fetched_at": "2025-12-07T00:32:23.121894",
   "channel_id": "UCYFpniqsDTy6uBaFUH7cWOg",
   "channel_title": "NS Production",
   "count": 25,
   "videos": [
+    {
+      "title": "Մասիս նկարելուց, նաև նկարում է թե ոնց են կորցրել Մասիսը | Հայկ Ղազարյան",
+      "video_id": "djxLBxCSA6c",
+      "channel_title": "NS Production",
+      "description": "Կյանքի Էջեր հաղորդաշարում Գարիկ Ուրումյանի հյուրերն է ...",
+      "published_at": "2025-12-05T20:30:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/djxLBxCSA6c/hqdefault.jpg"
+    },
     {
       "title": "#shortvideo",
       "video_id": "01fCLEy4cNs",
@@ -195,14 +203,6 @@
       "description": "",
       "published_at": "2025-09-04T16:09:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ekouqm7hr9A/hqdefault.jpg"
-    },
-    {
-      "title": "Khachatryans - You Broke My Heart",
-      "video_id": "E2QZ2mqAk9E",
-      "channel_title": "NS Production",
-      "description": "You Broke My Heart - Khachatryans Music: Khachatryans Video: NS Production. ☑NS Production ○Social Networks▽ ...",
-      "published_at": "2025-08-08T17:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E2QZ2mqAk9E/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-30T00:32:26.807583",
+  "fetched_at": "2025-12-07T00:32:32.152265",
   "channel_id": "UCgLUl1WDoDXUtxPaZeSZHsw",
   "channel_title": "李自然说",
   "count": 10,
   "videos": [
+    {
+      "title": "AI学术圈年度大瓜，OpenReview漏洞，论文审稿人裸奔",
+      "video_id": "-EGSvl3tBfU",
+      "channel_title": "李自然说",
+      "description": "",
+      "published_at": "2025-12-03T05:12:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-EGSvl3tBfU/hqdefault.jpg"
+    },
     {
       "title": "20分钟读懂AI史上最重要的一篇论文《Attention Is All You Need》",
       "video_id": "_VaEjGnHgOI",
@@ -75,14 +83,6 @@
       "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
       "published_at": "2025-03-27T08:45:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Mp72onydytk/hqdefault.jpg"
-    },
-    {
-      "title": "什么级别才有权力开盒？能开盒的人至少几百万",
-      "video_id": "mjmCMpexL3s",
-      "channel_title": "李自然说",
-      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
-      "published_at": "2025-03-24T08:47:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mjmCMpexL3s/hqdefault.jpg"
     }
   ]
 }

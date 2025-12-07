@@ -1,24 +1,16 @@
 {
-  "fetched_at": "2025-11-30T00:31:54.654831",
+  "fetched_at": "2025-12-07T00:32:00.327286",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
     {
-      "title": "The Infento Kit allows you to create up to 71 unique life-sized rides!",
-      "video_id": "ecBAXtQMXmE",
+      "title": "Why did Ivanpah Fail?",
+      "video_id": "ulp-qoGZMdw",
       "channel_title": "Interesting Engineering",
-      "description": "Imagine being able to build your kid's ultimate dream ride! This DIY ride-building kit allows you to build endless rides together with ...",
-      "published_at": "2025-11-28T12:50:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ecBAXtQMXmE/hqdefault.jpg"
-    },
-    {
-      "title": "What Happens If An Asteroid Hits Earth?",
-      "video_id": "Ik9F3Sto89E",
-      "channel_title": "Interesting Engineering",
-      "description": "Asteroids hitting Earth sounds like a story straight out of science fiction, or the era of dinosaurs. But the threat is very real.",
-      "published_at": "2025-11-14T19:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ik9F3Sto89E/hqdefault.jpg"
+      "description": "Ivanpah was a massive project set to revolutionise the power industry. However it didn't! With the plant now shutting down it's ...",
+      "published_at": "2025-11-30T09:01:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ulp-qoGZMdw/hqdefault.jpg"
     },
     {
       "title": "The Future of Human Space Exploration",
@@ -29,12 +21,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/3iOW0_eVhRo/hqdefault.jpg"
     },
     {
-      "title": "Why We Can&#39;t Go to Mars",
-      "video_id": "tfcTThHMJXI",
+      "title": "Our Flying Car Future May Finally be Here",
+      "video_id": "cFKP-_CwS5Y",
       "channel_title": "Interesting Engineering",
-      "description": "In part 2 of our Human Bodies in Space series we look at the science still needed to be developed before we can send the first ...",
-      "published_at": "2025-11-10T14:01:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tfcTThHMJXI/hqdefault.jpg"
+      "description": "As it turns out, you can actually go out and buy a Personal Flying Vehicle right now. Flying cars, hoverboards, and Jetpacks are all ...",
+      "published_at": "2025-10-26T09:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cFKP-_CwS5Y/hqdefault.jpg"
     },
     {
       "title": "NASA Reports Life On Mars",
@@ -83,6 +75,14 @@
       "description": "One of the biggest underexplored frontiers of the Earth is the bottom of the ocean. But now everyone can take a peek and enjoy as ...",
       "published_at": "2025-08-07T08:00:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3sGV_KgLvEM/hqdefault.jpg"
+    },
+    {
+      "title": "World&#39;s Largest Battery Jumpstarts Australia",
+      "video_id": "pY4-lln4au0",
+      "channel_title": "Interesting Engineering",
+      "description": "The world's largest battery has just made its debut. Capable of powering 1 million homes for one hour all at once, the Waratah ...",
+      "published_at": "2025-08-05T18:00:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pY4-lln4au0/hqdefault.jpg"
     }
   ]
 }

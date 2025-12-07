@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-30T00:32:19.772540",
+  "fetched_at": "2025-12-07T00:32:25.104018",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "把Gemini3生成的网页应用，打包成手机APP，手把手教程，混合APP开发入门      #ai #科技 #人工智能 #计算机 #手机",
+      "video_id": "FK8-9JEWNHM",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 上期视频我们把Gemini3 生成的炫酷应用免费部署成了自己的网站。",
+      "published_at": "2025-12-04T11:52:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FK8-9JEWNHM/hqdefault.jpg"
+    },
     {
       "title": "把Gemini3生成的应用，免费部署成自己的网站，别只会在AI Studio里玩了",
       "video_id": "1joStDlw9lg",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 最近几天Antropic官方发文承认存在模型输出质量下降问题，也就是俗称的 ...",
       "published_at": "2025-09-19T11:30:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HSmPZT3d1KE/hqdefault.jpg"
-    },
-    {
-      "title": "为什么PostgreSQL能超越MySQL，有哪些优势？PostgreSQL登顶最受欢迎的数据库",
-      "video_id": "vuAPhx0P3ms",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 为什么Postgres能超越Mysql登顶最受欢迎的数据库，Postgres比起Mysql ...",
-      "published_at": "2025-09-09T11:46:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vuAPhx0P3ms/hqdefault.jpg"
     }
   ]
 }

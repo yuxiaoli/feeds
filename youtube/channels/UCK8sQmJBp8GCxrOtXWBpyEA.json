@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-11-30T00:32:00.682486",
+  "fetched_at": "2025-12-07T00:32:06.486486",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 10,
+  "count": 6,
   "videos": [
+    {
+      "title": "Coming soon to our YouTube channel. Stay tuned 👀 #YearInSearch",
+      "video_id": "I_uKiklr3bs",
+      "channel_title": "Google",
+      "description": "Year in Search looks back at what the world searched for — the moments that sparked curiosity #YearInSearch.",
+      "published_at": "2025-12-05T16:27:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I_uKiklr3bs/hqdefault.jpg"
+    },
+    {
+      "title": "2025 – Year in Search Trailer",
+      "video_id": "OZUCxZbpVD0",
+      "channel_title": "Google",
+      "description": "Sneak peek Our Year in Search 2025 video is coming soon. Stay tuned…. #YearInSearch And if you're feeling nostalgic, revisit ...",
+      "published_at": "2025-12-04T18:41:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OZUCxZbpVD0/hqdefault.jpg"
+    },
+    {
+      "title": "Transform your home for the holidays with Nano Banana ✨",
+      "video_id": "KQHFQbTnwQU",
+      "channel_title": "Google",
+      "description": "Deck your halls in seconds with #NanoBanana in Search. Tap the Lens icon, hit , and prompt for any festive theme.",
+      "published_at": "2025-12-02T22:40:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KQHFQbTnwQU/hqdefault.jpg"
+    },
     {
       "title": "Launch Recap: Nano Banana Pro",
       "video_id": "by5fLFWz9h4",
@@ -11,22 +35,6 @@
       "description": "Missed the Nano Banana Pro live launch? We've got you covered. ✨ In this recap from our launch day live, you'll hear ...",
       "published_at": "2025-11-28T16:03:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/by5fLFWz9h4/hqdefault.jpg"
-    },
-    {
-      "title": "Big Night Out? Just Ask Google",
-      "video_id": "XVgoPFHLTfs",
-      "channel_title": "Google",
-      "description": "When the fashion stakes are high, virtually try on clothes from thousands of your favorite brands. No matter what style or fashion ...",
-      "published_at": "2025-11-27T17:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XVgoPFHLTfs/hqdefault.jpg"
-    },
-    {
-      "title": "Google Presents: Sleigh My Name",
-      "video_id": "pjAu7dSgcto",
-      "channel_title": "Google",
-      "description": "\"Get into the spirit this season with festive – though not entirely real – Christmas comedies that show how Google Search can help ...",
-      "published_at": "2025-11-27T16:10:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pjAu7dSgcto/hqdefault.jpg"
     },
     {
       "title": "Turkey-fy your meal with Nano Banana in Search",
@@ -43,46 +51,6 @@
       "description": "With Veo and Nano Banana Pro in Gemini, it's easy to experiment, get creative, and see where your ideas take ewe. Try it now: ...",
       "published_at": "2025-11-27T05:04:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/b9qPMHpyZ5Q/hqdefault.jpg"
-    },
-    {
-      "title": "Gemini 3 is now in the Gemini app. See what&#39;s new with these 3 prompts",
-      "video_id": "-P4GR7s9ots",
-      "channel_title": "Google",
-      "description": "Have you tried Gemini 3 Pro yet? Discover what's new with Gemini by trying these three prompts. - Plan a 3-day trip to Rome: ...",
-      "published_at": "2025-11-26T23:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-P4GR7s9ots/hqdefault.jpg"
-    },
-    {
-      "title": "Recap: Vibe Coding with Gemini 3 on Launch Day",
-      "video_id": "tHpoeIra9Fw",
-      "channel_title": "Google",
-      "description": "Missed our Gemini 3 vibe coding livestream? We've condensed the chaos and creativity into one essential recap. Watch the team ...",
-      "published_at": "2025-11-26T22:01:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tHpoeIra9Fw/hqdefault.jpg"
-    },
-    {
-      "title": "Go Upside Down one last time. Search ‘stranger things’ for a surprise! @strangerthings",
-      "video_id": "c8TLyqmydKA",
-      "channel_title": "Google",
-      "description": "",
-      "published_at": "2025-11-26T20:44:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c8TLyqmydKA/hqdefault.jpg"
-    },
-    {
-      "title": "Cooked up something special for Thanksgiving with @TheTinyChefShow",
-      "video_id": "DOhxkJJCsOs",
-      "channel_title": "Google",
-      "description": "We've been in the kitchen with @thetinychefshow cooking up a special #GoogleDoodle for Thanksgiving.",
-      "published_at": "2025-11-26T17:04:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DOhxkJJCsOs/hqdefault.jpg"
-    },
-    {
-      "title": "Google Presents: The Naughty Lister",
-      "video_id": "aMr_cpujip8",
-      "channel_title": "Google",
-      "description": "Get into the spirit this season with festive – though not entirely real – Christmas comedies that show how Google Search can help ...",
-      "published_at": "2025-11-25T20:17:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aMr_cpujip8/hqdefault.jpg"
     }
   ]
 }

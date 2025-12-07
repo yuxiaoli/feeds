@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-11-30T00:31:46.821928",
+  "fetched_at": "2025-12-07T00:31:52.577693",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "How to vibe code responsibly (with a little help from MCPs)",
-      "video_id": "PvdptUZ3XeU",
+      "title": "Anthropic and OpenAI propose standard UIs for MCP",
+      "video_id": "y0u1MqW4rPU",
       "channel_title": "GitHub",
-      "description": "The year of the agent ushered in vibe coding — asking an AI agent like GitHub Copilot to build and going with the flow. But too ...",
-      "published_at": "2025-11-29T15:00:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PvdptUZ3XeU/hqdefault.jpg"
+      "description": "This is the MCP news that actually matters. Anthropic, OpenAI, and the community have proposed the MCP Apps extension, which ...",
+      "published_at": "2025-12-06T15:01:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y0u1MqW4rPU/hqdefault.jpg"
     },
     {
-      "title": "[ptBR]🇧🇷✨ Open Source Friday Brazil  com Priscila Gutierres &amp; Guinevere Larsen",
-      "video_id": "O9s3-VXNi94",
+      "title": "Open Source Friday: Open Source Friday Exploring Unsloth",
+      "video_id": "sHHsOfIwfBY",
       "channel_title": "GitHub",
-      "description": "O Open Source Friday desta sexta vai ser um pouco diferente! Em vez de receber pessoas brasileiras que criaram seus próprios ...",
-      "published_at": "2025-11-29T05:04:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O9s3-VXNi94/hqdefault.jpg"
+      "description": "This week on Open Source Friday we'll sit down with Daniel Han and Michael Han, the minds behind Unsloth - an open source ...",
+      "published_at": "2025-12-06T07:06:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sHHsOfIwfBY/hqdefault.jpg"
     },
     {
-      "title": "Replay: Open Source Friday: Secure Code Game with Bartosz Gałek &amp; jkcso",
-      "video_id": "EXEtRc8oQ7E",
+      "title": "[Brazilian Stream 🇧🇷] Open Source Friday Brasil com Carlos BeckerGoReleaser",
+      "video_id": "heECotJnO-E",
       "channel_title": "GitHub",
-      "description": "Join us for a special episode of Open Source Friday featuring Bartosz Gałek and jkcso, contributors to the Secure Code Game.",
-      "published_at": "2025-11-28T17:57:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EXEtRc8oQ7E/hqdefault_live.jpg"
+      "description": "[Brazilian Stream ] Toda sexta-feira, ao vivo no canal Twitch.tv/GitHubBrasil, exploramos projetos Open Source brasileiros e ...",
+      "published_at": "2025-12-06T04:52:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/heECotJnO-E/hqdefault.jpg"
     },
     {
-      "title": "What is a .gitignore file and why do you need it?",
-      "video_id": "0qdRS3xYwIY",
+      "title": "The Download: Zork goes open source, Blender 5.0, unlocking AirPods &amp; more",
+      "video_id": "B7t0XvHk2rI",
       "channel_title": "GitHub",
-      "description": "Keep your Git repository clean and professional by using a .gitignore file. In this video, we explain what file exclusion is, why it ...",
-      "published_at": "2025-11-28T15:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0qdRS3xYwIY/hqdefault.jpg"
+      "description": "This week on The Download, Andrea Griffiths covers the release of Blender 5.0 and a major open source move from Microsoft, ...",
+      "published_at": "2025-12-05T15:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B7t0XvHk2rI/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Let&#39;s build with custom agents",
-      "video_id": "-eRjenGV2OM",
+      "title": "Rubber Duck Thursdays! Live with Dalia Abo Sheasha 👀",
+      "video_id": "sUUjzVtXrfo",
       "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. In this episode ...",
-      "published_at": "2025-11-28T01:07:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-eRjenGV2OM/hqdefault.jpg"
+      "description": "Today we're chatting with Dalia Abo Sheasha about software development, the IDEs you know and love, the differences between ...",
+      "published_at": "2025-12-05T08:02:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sUUjzVtXrfo/hqdefault.jpg"
     },
     {
-      "title": "How to use GitHub Copilot coding agent in Slack",
-      "video_id": "l37u8FrdhY0",
+      "title": "How to improve code health with GitHub Code Quality",
+      "video_id": "dlgYCpQI_lU",
       "channel_title": "GitHub",
-      "description": "You can now use the GitHub app for Slack to collaborate with GitHub Copilot right inside your Slack conversations. This initial ...",
-      "published_at": "2025-11-27T16:48:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l37u8FrdhY0/hqdefault.jpg"
+      "description": "GitHub Code Quality helps you ensure your codebase is reliable, maintainable, and efficient. Whether you're building a new ...",
+      "published_at": "2025-12-04T15:01:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dlgYCpQI_lU/hqdefault.jpg"
     },
     {
-      "title": "New GitHub feature: the PR overview button",
-      "video_id": "Z90tRzk84RM",
+      "title": "Rubber Duck Thursdays - Let&#39;s build with custom agents (again!)",
+      "video_id": "X9jbNK1006E",
       "channel_title": "GitHub",
-      "description": "There's a new feature in GitHub pull requests that saves you from constant context switching. In the \"new experience\" view, you ...",
-      "published_at": "2025-11-27T16:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z90tRzk84RM/hqdefault.jpg"
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. Last week, we ...",
+      "published_at": "2025-12-04T12:33:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X9jbNK1006E/hqdefault.jpg"
     },
     {
-      "title": "The moment a Log4j maintainer realized the true scale of the crisis",
-      "video_id": "5ALgu0n4R5s",
+      "title": "&quot;A bomb dropping in my inbox&quot;: the discovery of Log4Shell",
+      "video_id": "ozXxkXQQhVM",
       "channel_title": "GitHub",
-      "description": "What happens when a bug in your project is so big you consider quitting open source altogether? Christian Grobmeier, a Log4j ...",
-      "published_at": "2025-11-26T17:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5ALgu0n4R5s/hqdefault.jpg"
+      "description": "\"It was not one or two or three emails... it was tens or 20.\" In this clip, Log4j maintainer Christian Grobmeier shares the untold story ...",
+      "published_at": "2025-12-03T17:01:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ozXxkXQQhVM/hqdefault.jpg"
     },
     {
-      "title": "5 ways to automate everyday workflows with GitHub Actions",
-      "video_id": "2p1D29zJdBI",
+      "title": "The latest in managing and auditing GitHub Copilot agents",
+      "video_id": "boviC841YWs",
       "channel_title": "GitHub",
-      "description": "GitHub Actions has revolutionized the way developers automate workflows, streamline processes, and supercharge their ...",
-      "published_at": "2025-11-26T15:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2p1D29zJdBI/hqdefault.jpg"
+      "description": "As the toolset available to Copilot has become more advanced, so has the toolset available to administrators for governance.",
+      "published_at": "2025-12-03T15:01:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/boviC841YWs/hqdefault.jpg"
     },
     {
-      "title": "Why Python is the language of AI: insights from Guido van Rossum (creator of Python)",
-      "video_id": "QXE5rEVlu20",
+      "title": "How to close pull requests faster with Copilot code review | GitHub Checkout",
+      "video_id": "8hyvYP5PCks",
       "channel_title": "GitHub",
-      "description": "We sat down with Guido van Rossum, the creator of Python, to discuss the origins of the language and its incredible trajectory in ...",
-      "published_at": "2025-11-25T15:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QXE5rEVlu20/hqdefault.jpg"
+      "description": "Code reviews are essential but often time-consuming. Join us for a deep dive into GitHub Copilot code review, an AI assistant ...",
+      "published_at": "2025-12-02T15:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8hyvYP5PCks/hqdefault.jpg"
     }
   ]
 }

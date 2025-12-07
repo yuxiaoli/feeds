@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2025-11-30T00:31:57.369064",
+  "fetched_at": "2025-12-07T00:32:03.099696",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
+    {
+      "title": "【人工智能】AI如何改变Anthropic的工作 | 工作总量大幅提升 | 学习和迭代速度加快 | 核心技能退化风险 | AI取代工作的担忧 | 工作的意义感 | 软件工程师的未来 | 未来的迷茫",
+      "video_id": "3o13Kw57kt4",
+      "channel_title": "最佳拍档",
+      "description": "2025年8月，头部AI公司Anthropic 做了一次向内审视的研究，调查了132名工程师和研究员，进行了53次深度访谈，还分析了20万 ...",
+      "published_at": "2025-12-06T09:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3o13Kw57kt4/hqdefault.jpg"
+    },
+    {
+      "title": "【芯片】台积电海外建厂能成功么？| 基于台湾的三种护城河 | 美国亚利桑那 | 日本德国 | WaferTech的失败教训 | 张忠谋 | 地缘政治要求 | 全球科技格局影响",
+      "video_id": "SlNMna-9Hck",
+      "channel_title": "最佳拍档",
+      "description": "过去五年，台积电在全球掀起了一场规模空前的海外建厂浪潮，美国亚利桑那、日本熊本、德国德累斯顿，三大海外基地相继落地， ...",
+      "published_at": "2025-12-05T09:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SlNMna-9Hck/hqdefault.jpg"
+    },
+    {
+      "title": "【访谈】能源是真正唯一的货币 | 埃隆·马斯克最新两小时访谈精华 | 社交媒体X的意义 | 人生的原动力 | 42的隐喻 | 真正的能源是太阳 | 人形机器人的爆发 | AI的价值观 | 模拟世界",
+      "video_id": "UfKZRDWKqxk",
+      "channel_title": "最佳拍档",
+      "description": "最近，印度最年轻的亿万富翁之一、Zerodha的联合创始人尼基尔·卡马特（Nikhil Kamath），和伊隆·马斯克（Elon Musk）进行了一 ...",
+      "published_at": "2025-12-04T09:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UfKZRDWKqxk/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】思考游戏 | 哈萨比斯与DeepMind纪录片 | 如何从国际象棋天才少年成长为AI领袖 | 通用人工智能AGI | AlphaGo | AlphaFold | 人类历史的十字路口",
+      "video_id": "clGdgQEOew8",
+      "channel_title": "最佳拍档",
+      "description": "今天我们要分享的故事，关于一群认为自己在与时间赛跑的人。他们的目标听起来狂妄得近乎荒谬，他们想要解决智能，然后用智能 ...",
+      "published_at": "2025-12-03T09:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/clGdgQEOew8/hqdefault.jpg"
+    },
+    {
+      "title": "【访谈】为什么马斯克能打败所有人 | 红杉合伙人肖恩·马奎尔 | 马斯克是一个群体 | 科技界的布尔巴基 | 选人的艺术 | 智力的差距层级 | 天才之间的鸿沟 | 投资SpaceX | 非线性决策",
+      "video_id": "GgkXSTatK48",
+      "channel_title": "最佳拍档",
+      "description": "今天，我想和大家分享一次非常有深度的对话。这次对话的主角是红杉资本的合伙人，肖恩·马奎尔（Shaun Maguire）。肖恩是加州 ...",
+      "published_at": "2025-12-02T09:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GgkXSTatK48/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】谷歌TPU欲将英伟达GPU挑下王座？ | 全球AI芯片市场格局突变 | CUDA护城河能持续多久 | Anthropic百万订单 | TCO和峰值FLOPS | 系统架构优势 | 软件生态",
+      "video_id": "p4Vg6hcnJH4",
+      "channel_title": "最佳拍档",
+      "description": "如果要问当前AI行业最核心的命脉是什么？答案大概率是芯片，尤其是能够支撑大模型训练与推理的高性能AI芯片。过去几年， ...",
+      "published_at": "2025-12-01T09:02:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p4Vg6hcnJH4/hqdefault.jpg"
+    },
     {
       "title": "【人工智能】OpenAI完成公司架构重组 | PBC | 投入250亿美元 | 和微软签署新长期协议 | 公开AI发展时间线 | 2028年自动AI研究员 | 对齐的五层结构 | GPT6 | IPO",
       "video_id": "jTBV3Jb07yE",
@@ -35,54 +83,6 @@
       "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts Meta在AI团队最近的磨合重组的过程中，至少有8名骨干员工，包括研究 ...",
       "published_at": "2025-08-29T10:45:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5UWCU9_ojFw/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】详解UE8M0 FP8 | DeepSeek为何一句话让寒武纪暴涨千亿市值 | 浮点数 | 量化 | MX | 缩放因子 | Blackwell | 狂欢后的冷静 | 渐进式演进",
-      "video_id": "zTdUzh-KVbE",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 最近，国产算力芯片领域有个词火了，那就是UE8M0 FP8。火爆的原因， ...",
-      "published_at": "2025-08-26T09:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zTdUzh-KVbE/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】从不被认可走向行业突破 | 吴恩达回忆谷歌经历 | X实验室 | 规模决定性能 | 单一学习算法 | Larry Page | Jeff Dean | Coursera | AI Fund",
-      "video_id": "ql7qed1r7nU",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 8月8日，吴恩达接受了The Moonshot播客的专访，围绕吴恩达的学术生涯 ...",
-      "published_at": "2025-08-24T09:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ql7qed1r7nU/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】开发者的奥德赛时代 | Github CEO Thomas Dohmke | 年底离职 | Github并入微软 | 新阶层分化 | AI完成90%代码 | Agent | ASI",
-      "video_id": "Qn5eCavq68I",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 在最新一期的Decoder节目中，托马斯·多姆克与主持人亚历克斯·希思（Alex ...",
-      "published_at": "2025-08-22T09:00:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Qn5eCavq68I/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】推理的本质 | Denny Zhou斯坦福讲座 | 什么是推理 | 思考的必要性 | 思维链提示 | 贪婪解码 | 置信度 | step-by-step | SFT | 验证器",
-      "video_id": "s00fy5RkCHc",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 最近，DeepMind首席科学家兼研究总监丹尼·周，在斯坦福大学做了一场讲座 ...",
-      "published_at": "2025-08-19T09:01:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s00fy5RkCHc/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】AI革命被严重低估了 | 谷歌前CEO Eric Schmidt | 电力 | 数据中心 | 旧金山共识 | 数字超智能 | AI会缓慢侵蚀人类 | 对就业的影响 | 学习循环",
-      "video_id": "wYz0Sw6101Y",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 谷歌的前CEO埃里克·施密特（Eric Schmidt）最近做客了Moonshots播客， ...",
-      "published_at": "2025-07-25T09:01:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wYz0Sw6101Y/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】AlphaFold诞生记 | 诺奖得主John Jumper YC演讲 | 职业经历 | 机器学习 | DeepMind | 蛋白质折叠 | PDB | 算法研究的重要性 | CASP",
-      "video_id": "odRUO7a87-U",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 今天我们要深入探讨一个足以改写现代生物学发展轨迹的故事，这个故事的 ...",
-      "published_at": "2025-07-21T09:01:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/odRUO7a87-U/hqdefault.jpg"
     }
   ]
 }

@@ -1,16 +1,40 @@
 {
-  "fetched_at": "2025-11-30T00:31:39.764472",
+  "fetched_at": "2025-12-07T00:31:45.296705",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Building the Modern Quantum Architecture: Lecture 2 — Utility Scale Quantum Architecture",
-      "video_id": "SKMXsdCWpzY",
+      "title": "Azure Backup Threat Detection",
+      "video_id": "PzqNUf8OyUc",
       "channel_title": "Microsoft Azure",
-      "description": "How do you build a utility scale quantum computer, and which parts of classical architecture still matter? In Lecture 2, Dr. Matthias ...",
-      "published_at": "2025-11-29T16:00:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SKMXsdCWpzY/hqdefault.jpg"
+      "description": "This demo shows how to enable Threat Detection in Azure Backup from the Azure Portal. Learn more: https://msft.it/6056tbwD8 ...",
+      "published_at": "2025-12-06T15:42:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PzqNUf8OyUc/hqdefault.jpg"
+    },
+    {
+      "title": "Agentic AI in the Modern Lab: Transforming R&amp;D productivity with Copilot for Researcher",
+      "video_id": "9daRzwzTgeE",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover how agentic AI is reshaping the way researchers work in life sciences. We'll show how AI agents can connect to trusted ...",
+      "published_at": "2025-12-04T16:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9daRzwzTgeE/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing the model router in Foundry Models",
+      "video_id": "_HrL3TubGbI",
+      "channel_title": "Microsoft Azure",
+      "description": "Meet the Model router in Foundry Models and Foundry Agent Service, now generally available. In this video, we introduce you to ...",
+      "published_at": "2025-12-02T17:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_HrL3TubGbI/hqdefault.jpg"
+    },
+    {
+      "title": "SK Telecom deepens customer connections with agentic workflows in Microsoft Foundry",
+      "video_id": "6RHsxWn_Dws",
+      "channel_title": "Microsoft Azure",
+      "description": "SK Telecom uses Microsoft Foundry to orchestrate multi-agent workflows to deliver personalized, scalable, and compliant digital ...",
+      "published_at": "2025-12-01T22:41:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6RHsxWn_Dws/hqdefault.jpg"
     },
     {
       "title": "Future of Cloud: Language of Nature",
@@ -59,30 +83,6 @@
       "description": "MSC, the world's largest container shipping operator, moves cargo across the globe with over 900 vessels. To keep global ...",
       "published_at": "2025-11-18T15:46:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0aMWYClF_ss/hqdefault.jpg"
-    },
-    {
-      "title": "Azure Migrate application aware e2e migration",
-      "video_id": "FYS4fnX8Ljs",
-      "channel_title": "Microsoft Azure",
-      "description": "Use Azure Migrate end-to-end platform capabilities including application awareness to migrate and modernize entire application ...",
-      "published_at": "2025-11-18T15:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FYS4fnX8Ljs/hqdefault.jpg"
-    },
-    {
-      "title": "Building Confidential Inferencing (and other SaaS) on Azure - Confidential Computing Summit 2025",
-      "video_id": "qPaqwO_6Wbs",
-      "channel_title": "Microsoft Azure",
-      "description": "Join Antoine Delignat-Lavaud, researcher at Microsoft, as he dives into the technical and practical challenges of building ...",
-      "published_at": "2025-11-13T07:30:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qPaqwO_6Wbs/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Microsoft Azure Face Liveness",
-      "video_id": "3ysxiX49oxw",
-      "channel_title": "Microsoft Azure",
-      "description": "Discover how Azure Face Liveness brings enterprise-grade security and effortless user experiences together. - Instant proof of ...",
-      "published_at": "2025-08-20T17:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3ysxiX49oxw/hqdefault.jpg"
     }
   ]
 }

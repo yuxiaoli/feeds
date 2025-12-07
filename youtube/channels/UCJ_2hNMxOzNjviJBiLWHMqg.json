@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-11-30T00:31:59.368008",
+  "fetched_at": "2025-12-07T00:32:05.177614",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Why Minas Tirith was a War Machine  (Lord Of The Rings Architecture Explained)",
+      "video_id": "K0sRNqfiwfw",
+      "channel_title": "DamiLee",
+      "description": "Ready to build a site that looks hand-coded—without hiring a developer? Launch your site for free at Framer and use the code ...",
+      "published_at": "2025-12-04T16:30:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K0sRNqfiwfw/hqdefault.jpg"
+    },
+    {
+      "title": "North Korean Animal Crossing??",
+      "video_id": "m03IH-zz7tY",
+      "channel_title": "DamiLee",
+      "description": "The DMZ is one of the world's most protected borders—and also one of its most vibrant wildlife sanctuaries. As a student, I ...",
+      "published_at": "2025-11-30T16:15:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m03IH-zz7tY/hqdefault.jpg"
+    },
     {
       "title": "How do you even begin to say goodbye after 70 years apart?",
       "video_id": "HmpAPMnRAoI",
@@ -67,22 +83,6 @@
       "description": "Long-term life in low gravity can break down the human body—muscles shrink, bones weaken, even vision fades. Kajima ...",
       "published_at": "2025-11-02T16:37:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lTHkajrEqQs/hqdefault.jpg"
-    },
-    {
-      "title": "What would you build first if you had a lunar 3D printer?",
-      "video_id": "ZFxSP6KWgrY",
-      "channel_title": "DamiLee",
-      "description": "Lunar architecture sounds simple: print habitats with local regolith. But extreme temperature swings, vacuum curing, and fragile ...",
-      "published_at": "2025-11-01T15:06:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZFxSP6KWgrY/hqdefault.jpg"
-    },
-    {
-      "title": "Could you live in a tiny lunar habitat for three months?",
-      "video_id": "xbb39FGN1Xc",
-      "channel_title": "DamiLee",
-      "description": "Two Danish architects tested what life on the Moon might feel like—by living in a self-built lunar habitat in Greenland for three ...",
-      "published_at": "2025-10-31T15:18:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xbb39FGN1Xc/hqdefault.jpg"
     }
   ]
 }

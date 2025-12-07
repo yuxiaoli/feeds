@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-30T00:32:09.132717",
+  "fetched_at": "2025-12-07T00:32:14.751429",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "This is calisthenics #shorts #calisthenics",
+      "video_id": "9bQiKpRF3jY",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2025-11-30T16:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9bQiKpRF3jY/hqdefault.jpg"
+    },
     {
       "title": "just 4 clean pullups #shorts #calisthenics",
       "video_id": "5cDxM8wwNM0",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-09T15:00:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Hlueg3nNg4w/hqdefault.jpg"
-    },
-    {
-      "title": "Natural Physique &amp; Natural Lighting #calisthenics",
-      "video_id": "r6nUHPSDeHY",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-07-27T14:45:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r6nUHPSDeHY/hqdefault.jpg"
     }
   ]
 }

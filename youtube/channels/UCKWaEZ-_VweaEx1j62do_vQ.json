@@ -1,30 +1,70 @@
 {
-  "fetched_at": "2025-11-30T00:32:03.637396",
+  "fetched_at": "2025-12-07T00:32:09.336634",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Rogue AI Agents: How AI Observability Builds Autonomous Trust",
-      "video_id": "UjQBgwTcvng",
+      "title": "AI Agents vs. Low Code vs. No Code vs. SDK in Data Integration",
+      "video_id": "zNfuxvMFKwo",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Instana Observability v1.0.277 Administrator? Register now and use code IBMTechYT20 for 20% off ...",
-      "published_at": "2025-11-29T12:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UjQBgwTcvng/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx Data Lakehouse Engineer? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-12-06T12:02:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zNfuxvMFKwo/hqdefault.jpg"
     },
     {
-      "title": "Inside a Hacker Honeypot",
-      "video_id": "PlY0H8Y6Vso",
+      "title": "Cyberattack Aftermath: The Domino Effect",
+      "video_id": "N3LmPS7vcuc",
       "channel_title": "IBM Technology",
-      "description": "Honeypots lure hackers into fake systems—watch them, learn their moves and protect real networks. It's cybersecurity's ultimate ...",
-      "published_at": "2025-11-28T17:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PlY0H8Y6Vso/hqdefault.jpg"
+      "description": "Cyberattacks don't end when discovered. Learn why defenders must stay vigilant months after a breach and how one compromise ...",
+      "published_at": "2025-12-05T17:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N3LmPS7vcuc/hqdefault.jpg"
+    },
+    {
+      "title": "AI model analysis: Mistral 3, DeepSeek-V3.2 &amp; Claude Opus 4.5",
+      "video_id": "_lZgapJzFho",
+      "channel_title": "IBM Technology",
+      "description": "Explore the podcast → https://ibm.biz/Bdb9GX Is open source winning the AI race? This week on Mixture of Experts, we analyze ...",
+      "published_at": "2025-12-05T11:01:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_lZgapJzFho/hqdefault.jpg"
+    },
+    {
+      "title": "AI Agents and Data Integration: Redefining Data Engineering",
+      "video_id": "leC9vkDsGqM",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Data Lakehouse Engineer? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-12-04T12:01:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/leC9vkDsGqM/hqdefault.jpg"
+    },
+    {
+      "title": "A Brief History of AI: From Machine Learning to Gen AI to Agentic AI",
+      "video_id": "ZHCB09O6zUk",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of ...",
+      "published_at": "2025-12-02T12:01:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZHCB09O6zUk/hqdefault.jpg"
+    },
+    {
+      "title": "Why AI Agents Go Rogue",
+      "video_id": "XJQNTZFqJTQ",
+      "channel_title": "IBM Technology",
+      "description": "Kimi K2 can call 200+ tools, but goes off the rails fast. Here's why AI agents need frameworks to scale from prototype to production ...",
+      "published_at": "2025-12-01T17:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XJQNTZFqJTQ/hqdefault.jpg"
+    },
+    {
+      "title": "Preparing IT for AI Agents: How MCP Shapes the Future of AI",
+      "video_id": "yKPAwTF1SGY",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-12-01T15:01:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yKPAwTF1SGY/hqdefault.jpg"
     },
     {
       "title": "AI agents in 2025: Why agentic commerce isn&#39;t ready for Black Friday yet",
       "video_id": "SdNRWJ-oqjY",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/BdbJ6K Will Black Friday 2025 be the breakout ...",
+      "description": "Explore the podcast → https://ibm.biz/BdbJ6K Will Black Friday 2025 be the breakout moment for agentic commerce? This week ...",
       "published_at": "2025-11-28T11:00:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/hqdefault.jpg"
     },
@@ -43,46 +83,6 @@
       "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
       "published_at": "2025-11-05T10:01:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
-    },
-    {
-      "title": "Can you spot the social engineering trap?",
-      "video_id": "Ys2IjNjdK2E",
-      "channel_title": "IBM Technology",
-      "description": "She spilled coffee on her resume… or was it bait? ☕   Discover how social engineers use human hacking and physical security ...",
-      "published_at": "2025-10-31T16:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ys2IjNjdK2E/hqdefault.jpg"
-    },
-    {
-      "title": "Decode Black Boxes with Explainable AI: Building Transparent AI Agents",
-      "video_id": "4_LIxSjc3H0",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-10-18T11:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4_LIxSjc3H0/hqdefault.jpg"
-    },
-    {
-      "title": "Building Decision Agents with LLMs &amp; Machine Learning Models",
-      "video_id": "mRkJTXDromw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-25T11:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mRkJTXDromw/hqdefault.jpg"
-    },
-    {
-      "title": "AI Agents &amp; Mainframe: Optimized Systems Powered by LLMs",
-      "video_id": "IRa6XmG8QCQ",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Mainframe Modernization Architect? Register now and use code IBMTechYT20 for 20% off ...",
-      "published_at": "2025-09-21T11:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IRa6XmG8QCQ/hqdefault.jpg"
-    },
-    {
-      "title": "Building Trustworthy AI Agents with Hybrid RAG",
-      "video_id": "l9LfC98tE_4",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-16T11:01:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l9LfC98tE_4/hqdefault.jpg"
     }
   ]
 }

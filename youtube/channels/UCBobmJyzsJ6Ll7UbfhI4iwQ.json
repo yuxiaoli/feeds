@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-11-30T00:31:51.178700",
+  "fetched_at": "2025-12-07T00:31:56.831361",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 10,
   "videos": [
     {
-      "title": "Crafting Scalable AI for a AAA Souls-Like Game in Unreal Engine | Unreal Fest Stockholm 2025",
-      "video_id": "XKQfMZOXFv0",
+      "title": "Unpacking High-Performance Telemetry with TraceLog | Unreal Fest Stockholm 2025",
+      "video_id": "OlTyHdqf6-M",
       "channel_title": "Unreal Engine",
-      "description": "In 'Lords of the Fallen', CI Games Mediterranean Projects SL customized Unreal Engine's AI systems to meet the demands of a ...",
-      "published_at": "2025-11-29T19:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XKQfMZOXFv0/hqdefault.jpg"
+      "description": "This talk recorded at Unreal Fest Stockholm will equip you with the skills to leverage Unreal Engine's TraceLog library effectively ...",
+      "published_at": "2025-12-06T19:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OlTyHdqf6-M/hqdefault.jpg"
     },
     {
-      "title": "Managing Unbounded Growth: A Story of Shaders in UE | Unreal Fest Stockholm 2025",
-      "video_id": "FQVOYNczPpw",
+      "title": "Creating Debug Tools with SlateIM | Unreal Fest Stockholm 2025",
+      "video_id": "zilYOy1w2b0",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Stockholm, we explore the journey Unreal Engine has been on when it comes to managing ...",
-      "published_at": "2025-11-29T17:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FQVOYNczPpw/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Stockholm, Epic's Cody Albert provides a deep dive into the current features of SlateIM and ...",
+      "published_at": "2025-12-06T17:01:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zilYOy1w2b0/hqdefault.jpg"
     },
     {
-      "title": "101 Unreal Engine Tips &amp; Tricks: The Reckoning | Unreal Fest Stockholm 2025",
-      "video_id": "4w0PWcRwyOc",
+      "title": "The Future of Nanite Foliage | Unreal Fest Stockholm 2025",
+      "video_id": "aZr-mWAzoTg",
       "channel_title": "Unreal Engine",
-      "description": "In 2019, five Unreal Engine evangelists gathered at Unreal Fest Prague to deliver an ambitious talk: 100 UE4 Tips and Tricks.",
-      "published_at": "2025-11-29T15:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4w0PWcRwyOc/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Stockholm, the Quixel team at Epic dive into the latest updates to Nanite Foliage content!",
+      "published_at": "2025-12-06T15:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aZr-mWAzoTg/hqdefault.jpg"
     },
     {
-      "title": "Jump off the Bus and Get Developing in Fortnite! | Unreal Fest Stockholm 2025",
-      "video_id": "5VeSz98jfoQ",
+      "title": "The making of Tarantino’s The Lost Chapter: Yuki’s Revenge",
+      "video_id": "QECEHQN5zts",
       "channel_title": "Unreal Engine",
-      "description": "Are you new to creating in Fortnite? Are you a developer curious about UEFN but unsure about where to start? This session ...",
-      "published_at": "2025-11-28T19:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5VeSz98jfoQ/hqdefault.jpg"
+      "description": "Get a behind-the-scenes look at The Lost Chapter: Yuki's Revenge, a lost scene from Kill Bill, created in Unreal Engine! Directed ...",
+      "published_at": "2025-12-05T23:12:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QECEHQN5zts/hqdefault_live.jpg"
     },
     {
-      "title": "The State of Model Importing Processes in Unreal Engine | Unreal Fest Stockholm 2025",
-      "video_id": "8CyEgBRdB3Q",
+      "title": "The End of Year stream set is really coming together 👀",
+      "video_id": "xQo_2hF2O8U",
       "channel_title": "Unreal Engine",
-      "description": "The FBX file format is still pervasively used, but today it's not the only option, with glTF and USD getting more traction throughout ...",
-      "published_at": "2025-11-28T17:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8CyEgBRdB3Q/hqdefault.jpg"
+      "description": "We should be fully set up on... Dec 11 at 2PM ET! So, join us and some very special friends live right here on the Unreal Engine ...",
+      "published_at": "2025-12-05T20:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xQo_2hF2O8U/hqdefault.jpg"
     },
     {
-      "title": "The Art of Anamorphic Lenses in The Witcher 4 Cinematic Reveal Trailer | Unreal Fest Stockholm 2025",
-      "video_id": "e5suKk-Ofyw",
+      "title": "Crafting Parametric Hairstyles for MetaHumans | Unreal Fest Stockholm 2025",
+      "video_id": "rfKzdI9X9Hg",
       "channel_title": "Unreal Engine",
-      "description": "Watch Platige Image give an inside look at the advanced techniques used to craft The Witcher 4 Cinematic Reveal Trailer, ...",
-      "published_at": "2025-11-28T15:01:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e5suKk-Ofyw/hqdefault.jpg"
+      "description": "This session recorded at Unreal Fest Stockholm presents an accessible grooming system in Houdini designed to simplify the ...",
+      "published_at": "2025-12-05T19:00:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rfKzdI9X9Hg/hqdefault.jpg"
     },
     {
-      "title": "Real-World Implementation of SMPTE 2110 for ICVFX | Unreal Fest Stockholm 2025",
-      "video_id": "1DABcIDJ3tU",
+      "title": "A Tech Artist&#39;s Guide to Automated Performance Testing | Unreal Fest Stockholm 2025",
+      "video_id": "IamXWkYibZk",
       "channel_title": "Unreal Engine",
-      "description": "One of the most persistent visual giveaways in shows created using in-camera visual effects (ICVFX) is the softness of the ...",
-      "published_at": "2025-11-27T19:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1DABcIDJ3tU/hqdefault.jpg"
+      "description": "As tech artists, we love to analyze the performance of our game, and we want to be able to automate the process of gathering that ...",
+      "published_at": "2025-12-05T17:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IamXWkYibZk/hqdefault.jpg"
     },
     {
-      "title": "Runtime PCG in The Witcher 4 Unreal Engine Tech Demo | Unreal Fest Stockholm 2025",
-      "video_id": "icIFFlOyob4",
+      "title": "One File Per Actor for Linear Content | Unreal Engine Animation Hub",
+      "video_id": "_0ofqq7DTMw",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Stockholm, we explore the use of Unreal Engine's Procedural Content Generation (PCG) ...",
-      "published_at": "2025-11-27T17:01:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/icIFFlOyob4/hqdefault.jpg"
+      "description": "Watch this video and learn how to use the One File Per Actor (OFPA) workflow in Unreal Engine for linear content. This tutorial ...",
+      "published_at": "2025-12-05T14:40:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_0ofqq7DTMw/hqdefault.jpg"
     },
     {
-      "title": "Creating an Interactive Model for Sweden´s Largest Stadium | Unreal Fest Stockholm 2025",
-      "video_id": "rJJ7VDrN0to",
+      "title": "What is Animation Hub? | Unreal Engine Animation Hub",
+      "video_id": "OBvb8ia75g8",
       "channel_title": "Unreal Engine",
-      "description": "Utilizing key technologies such as MegaLights, Lumen, and Nanite, the team at AFRY Experience Studios created large-scale ...",
-      "published_at": "2025-11-27T15:01:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rJJ7VDrN0to/hqdefault.jpg"
+      "description": "Watch this video for an introduction to the new Unreal Engine Animation Hub video series. Animation Hub is your space for ...",
+      "published_at": "2025-12-05T14:40:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OBvb8ia75g8/hqdefault.jpg"
     },
     {
-      "title": "PCG: Introduction, Use Cases, and Production Best Practices | Unreal Fest Stockholm 2025",
-      "video_id": "TbNZ4GKaTow",
+      "title": "Movie Render Graph Intro | Unreal Engine Animation Hub",
+      "video_id": "0c8-8NSarDI",
       "channel_title": "Unreal Engine",
-      "description": "Since its initial Experimental release in UE 5.2, the Procedural Content Generation (PCG) framework has grown into a powerful ...",
-      "published_at": "2025-11-26T19:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TbNZ4GKaTow/hqdefault.jpg"
+      "description": "Watch this video and learn how to use Movie Render Graph to render shots into layers suitable for a compositing pipeline.",
+      "published_at": "2025-12-05T14:40:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0c8-8NSarDI/hqdefault.jpg"
     }
   ]
 }

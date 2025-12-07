@@ -1,40 +1,48 @@
 {
-  "fetched_at": "2025-11-30T00:32:04.974287",
+  "fetched_at": "2025-12-07T00:32:10.731028",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 6,
+  "count": 7,
   "videos": [
     {
-      "title": "NASA Astronaut Chris Williams Soyuz MS-28 Hatch Opening",
-      "video_id": "5N92gFwvD_s",
+      "title": "NASA Science Live: Inside NASA&#39;s Prep for the Moon, Mars, and the Search for Life",
+      "video_id": "LTGnv08tpZ8",
       "channel_title": "NASA",
-      "description": "After lifting off from the Baikonur Cosmodrome in Kazakhstan and docking to the International Space Station earlier on Thursday, ...",
-      "published_at": "2025-11-27T15:39:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5N92gFwvD_s/hqdefault.jpg"
+      "description": "How do we get ready to explore the Moon, Mars, and beyond? By pushing the limits right here on Earth. Join us Wednesday, Dec.",
+      "published_at": "2025-12-03T19:13:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LTGnv08tpZ8/hqdefault_live.jpg"
     },
     {
-      "title": "NASA Astronaut Chris Williams Soyuz MS-28 Docking",
-      "video_id": "OIAduLEqvTc",
+      "title": "International Space Station Change of Command Ceremony",
+      "video_id": "RGG5hfoKEuw",
       "channel_title": "NASA",
-      "description": "After lifting off from the Baikonur Cosmodrome in Kazakhstan, NASA astronaut Chris Williams is scheduled to dock with the ...",
-      "published_at": "2025-11-27T12:46:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OIAduLEqvTc/hqdefault.jpg"
+      "description": "Sergey Ryzhikov of Roscosmos hands over command of the International Space Station to NASA astronaut Mike Fincke. Ryzhikov ...",
+      "published_at": "2025-12-01T20:38:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RGG5hfoKEuw/hqdefault_live.jpg"
     },
     {
-      "title": "NASA Astronaut Chris Williams Soyuz MS-28 Launch",
-      "video_id": "gWhAbWnm_oM",
+      "title": "NASA Astronaut Jonny Kim Soyuz MS-27 Space Station Farewells and Hatch Closing",
+      "video_id": "_ga47xnD5Bc",
       "channel_title": "NASA",
-      "description": "NASA astronaut Chris Williams is launching to the International Space Station from the Baikonur Cosmodrome in Kazakhstan.",
-      "published_at": "2025-11-27T09:49:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gWhAbWnm_oM/hqdefault.jpg"
+      "description": "After eight months aboard the International Space Station, astronaut Jonny Kim is getting ready to return home. Watch as he gives ...",
+      "published_at": "2025-11-26T21:57:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_ga47xnD5Bc/hqdefault_live.jpg"
     },
     {
-      "title": "Space Station Astronauts Deliver a Thanksgiving Message for 2025",
-      "video_id": "IWPMM2-xt6w",
+      "title": "NASA Astronaut Jonny Kim Soyuz MS-27 Undocking",
+      "video_id": "Jg6ua4104IA",
       "channel_title": "NASA",
-      "description": "Aboard the International Space Station, NASA Expedition 73 crew members Zena Cardman, Mike Fincke, Jonny Kim, and JAXA ...",
-      "published_at": "2025-11-25T20:00:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IWPMM2-xt6w/hqdefault.jpg"
+      "description": "Watch as NASA astronaut Jonny Kim, along with Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritsky, depart from the ...",
+      "published_at": "2025-11-10T22:02:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Jg6ua4104IA/hqdefault_live.jpg"
+    },
+    {
+      "title": "NASA Astronaut Jonny Kim Soyuz MS-27 Re-entry and Landing",
+      "video_id": "oiOsmOTCbFE",
+      "channel_title": "NASA",
+      "description": "After departing from the International Space Station at 8:41 p.m. EST on Dec. 8 (0141 UTC Dec. 9), NASA astronaut Jonny Kim is ...",
+      "published_at": "2025-11-10T18:03:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oiOsmOTCbFE/hqdefault_live.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-30T00:32:00.049832",
+  "fetched_at": "2025-12-07T00:32:05.867579",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "漫步安平，我知道有些观点可能会引起争议，但我还是放出来了",
+      "video_id": "f0dIZDkKXqQ",
+      "channel_title": "码农高天",
+      "description": "台南第二天，逛了安平，又去了渔光岛。这期视频里可能会有一些相对尖锐的观点，但是我还是决定剪出来。我觉得每个观点都是 ...",
+      "published_at": "2025-12-01T10:30:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f0dIZDkKXqQ/hqdefault.jpg"
+    },
     {
       "title": "台南市内一日游，在夜市见到台南市长了？",
       "video_id": "oP0slj5Qd-I",
@@ -75,14 +83,6 @@
       "description": "京都又玩了一天，去了金阁寺和岚山。今天吃的这两顿饭都很不错！",
       "published_at": "2025-09-06T03:30:42Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ppQ4u-bPbRI/hqdefault.jpg"
-    },
-    {
-      "title": "京都可是太好逛了，日本最好看的一天！",
-      "video_id": "pz5Ugg7sbFk",
-      "channel_title": "码农高天",
-      "description": "目前为止景色最令人满意的一天，京都是真的很好逛，每个点都很漂亮！清水寺、八坂神社、伏见稻田大社，连马路边上都很好看。",
-      "published_at": "2025-08-24T10:30:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pz5Ugg7sbFk/hqdefault.jpg"
     }
   ]
 }

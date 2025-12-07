@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-11-30T00:31:42.507785",
+  "fetched_at": "2025-12-07T00:31:48.159723",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "DeepSeek V3.2 正式版实测! 提升真的有限?",
+      "video_id": "B-hs8f8-ubk",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来DeepSeek V3.2 正式版的测试结果: 所有测试项目来看, 与之前的DeepSeek-V3.2-Exp 相比是有进步的, 之前无法实现的 ...",
+      "published_at": "2025-12-01T17:14:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B-hs8f8-ubk/hqdefault.jpg"
+    },
     {
       "title": "什么? 用 Claude Code 剪视频?",
       "video_id": "XftxFxi3iDM",
@@ -75,14 +83,6 @@
       "description": "给大家带来kat coder pro v1 的测试结果: 首先, 所有的three js 测试, 全都有包引用错误, 你所看到的所有演示都是我修了一次才能运行 ...",
       "published_at": "2025-10-25T00:20:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FeOEuKulU1E/hqdefault.jpg"
-    },
-    {
-      "title": "claude-haiku-4.5 实测! 便宜大碗?",
-      "video_id": "DewXta5G7a8",
-      "channel_title": "Karminski-牙医",
-      "description": "直接说结论, 这只是个经济型模型, 没什么竞争力. 大象牙膏测试中，三角烧瓶的建模有问题, 然后喷发动画实现有性能问题, 特别卡新增 ...",
-      "published_at": "2025-10-22T01:13:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DewXta5G7a8/hqdefault.jpg"
     }
   ]
 }
