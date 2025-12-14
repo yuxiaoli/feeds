@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-12-07T00:32:12.717210",
+  "fetched_at": "2025-12-14T00:32:40.158884",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "地球：巧合還是特調？",
+      "video_id": "SRzmcumDFS8",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，第一時間觀看新內容，你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2025-12-09T14:36:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SRzmcumDFS8/hqdefault.jpg"
+    },
+    {
+      "title": "【播客】被困在量子叠加状态，我被50个平行宇宙的自己猎杀",
+      "video_id": "n2w2xRuOoNY",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，第一時間觀看新內容，你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2025-12-07T13:15:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/n2w2xRuOoNY/hqdefault.jpg"
+    },
     {
       "title": "從數學怪獸到生命密碼：是否存在介於 2 維和 3 維之間的物體？",
       "video_id": "KoP6HM3dQ88",
@@ -67,22 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-10-21T13:45:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/v-JrZKuprB8/hqdefault.jpg"
-    },
-    {
-      "title": "【虛構科幻】3I「阿特拉斯」來了：譜線暗碼、AI握手與人類被「收割」的那三天",
-      "video_id": "zURTNRVLlvA",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-10-20T11:23:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zURTNRVLlvA/hqdefault.jpg"
-    },
-    {
-      "title": "光速不變的啟示：走進量子，走向生命｜六小時合集",
-      "video_id": "ZNjRU35KST4",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-10-03T11:04:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZNjRU35KST4/hqdefault.jpg"
     }
   ]
 }

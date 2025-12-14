@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2025-12-07T00:31:56.831361",
+  "fetched_at": "2025-12-14T00:32:23.938961",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 10,
   "videos": [
     {
-      "title": "Unpacking High-Performance Telemetry with TraceLog | Unreal Fest Stockholm 2025",
-      "video_id": "OlTyHdqf6-M",
+      "title": "Mafia: The Old Country: Using MetaHuman in a AAA Character Pipeline | Unreal Fest Stockholm 2025",
+      "video_id": "V8rL1r_1IcQ",
       "channel_title": "Unreal Engine",
-      "description": "This talk recorded at Unreal Fest Stockholm will equip you with the skills to leverage Unreal Engine's TraceLog library effectively ...",
-      "published_at": "2025-12-06T19:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OlTyHdqf6-M/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Stockholm, Hangar 13 showcase how they used the MetaHuman framework to create hero ...",
+      "published_at": "2025-12-13T21:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V8rL1r_1IcQ/hqdefault.jpg"
     },
     {
-      "title": "Creating Debug Tools with SlateIM | Unreal Fest Stockholm 2025",
-      "video_id": "zilYOy1w2b0",
+      "title": "Server-Side Fog of War: Defending Against Wall Hacks | Unreal Fest Stockholm 2025",
+      "video_id": "CK2L7rjp0qk",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Stockholm, Epic's Cody Albert provides a deep dive into the current features of SlateIM and ...",
-      "published_at": "2025-12-06T17:01:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zilYOy1w2b0/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Stockholm, CCP Games presents a server-side system they've dubbed “Fog of War” that ...",
+      "published_at": "2025-12-13T19:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CK2L7rjp0qk/hqdefault.jpg"
     },
     {
-      "title": "The Future of Nanite Foliage | Unreal Fest Stockholm 2025",
-      "video_id": "aZr-mWAzoTg",
+      "title": "A truly sweet coincidence helped in the making of Yuki’s Revenge🍨",
+      "video_id": "rvHmn1E21Tk",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Stockholm, the Quixel team at Epic dive into the latest updates to Nanite Foliage content!",
-      "published_at": "2025-12-06T15:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aZr-mWAzoTg/hqdefault.jpg"
+      "description": "Go behind the scenes with Unreal Engine on The Lost Chapter: Yuki's Revenge available on the Unreal Engine YouTube ...",
+      "published_at": "2025-12-13T17:01:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rvHmn1E21Tk/hqdefault.jpg"
     },
     {
-      "title": "The making of Tarantino’s The Lost Chapter: Yuki’s Revenge",
-      "video_id": "QECEHQN5zts",
+      "title": "Unreal Fellowship: Product Storytelling I Sizzle Reel - June, 2025",
+      "video_id": "Qkhrt38C8QY",
       "channel_title": "Unreal Engine",
-      "description": "Get a behind-the-scenes look at The Lost Chapter: Yuki's Revenge, a lost scene from Kill Bill, created in Unreal Engine! Directed ...",
-      "published_at": "2025-12-05T23:12:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QECEHQN5zts/hqdefault_live.jpg"
+      "description": "Enjoy highlights from the product cinematics created during the second four-week Unreal Fellowship: Product Storytelling at Epic ...",
+      "published_at": "2025-12-12T19:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qkhrt38C8QY/hqdefault.jpg"
     },
     {
-      "title": "The End of Year stream set is really coming together 👀",
-      "video_id": "xQo_2hF2O8U",
+      "title": "Level Management: Sub-Levels, Spawnables, Possessibles in UE5",
+      "video_id": "yOcgYMcxr3Q",
       "channel_title": "Unreal Engine",
-      "description": "We should be fully set up on... Dec 11 at 2PM ET! So, join us and some very special friends live right here on the Unreal Engine ...",
-      "published_at": "2025-12-05T20:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xQo_2hF2O8U/hqdefault.jpg"
+      "description": "UE5 LEVEL OPTIMIZATION SECRETS: Master your cinematic environment by understanding how the Master Level uses nested ...",
+      "published_at": "2025-12-12T17:01:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yOcgYMcxr3Q/hqdefault.jpg"
     },
     {
-      "title": "Crafting Parametric Hairstyles for MetaHumans | Unreal Fest Stockholm 2025",
-      "video_id": "rfKzdI9X9Hg",
+      "title": "MetaHumans for Mocap | Unreal Engine Animation Hub",
+      "video_id": "myxrzJiLc6I",
       "channel_title": "Unreal Engine",
-      "description": "This session recorded at Unreal Fest Stockholm presents an accessible grooming system in Houdini designed to simplify the ...",
-      "published_at": "2025-12-05T19:00:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rfKzdI9X9Hg/hqdefault.jpg"
+      "description": "Watch this video and learn how to set up a MetaHuman so it can be used seamlessly with Unreal Engine's Mocap Manager.",
+      "published_at": "2025-12-12T17:01:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/myxrzJiLc6I/hqdefault.jpg"
     },
     {
-      "title": "A Tech Artist&#39;s Guide to Automated Performance Testing | Unreal Fest Stockholm 2025",
-      "video_id": "IamXWkYibZk",
+      "title": "Bringing accuracy to mushroom measuring with RealityScan Mobile",
+      "video_id": "2TwaT0tSLf4",
       "channel_title": "Unreal Engine",
-      "description": "As tech artists, we love to analyze the performance of our game, and we want to be able to automate the process of gathering that ...",
-      "published_at": "2025-12-05T17:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IamXWkYibZk/hqdefault.jpg"
+      "description": "Watch this video to find out how KÄÄPÄ Biotech uses RealityScan Mobile to accurately track the growth of chaga mushrooms over ...",
+      "published_at": "2025-12-12T14:59:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2TwaT0tSLf4/hqdefault.jpg"
     },
     {
-      "title": "One File Per Actor for Linear Content | Unreal Engine Animation Hub",
-      "video_id": "_0ofqq7DTMw",
+      "title": "Control Rig Physics: Fast, Fun, and Expressive Character Animation | Unreal Fest Stockholm 2025",
+      "video_id": "HennjwB6zZ8",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video and learn how to use the One File Per Actor (OFPA) workflow in Unreal Engine for linear content. This tutorial ...",
-      "published_at": "2025-12-05T14:40:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_0ofqq7DTMw/hqdefault.jpg"
+      "description": "In this talk recorded at Unreal Fest Stockholm, we explore how physically simulated characters can be created and controlled ...",
+      "published_at": "2025-12-12T15:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HennjwB6zZ8/hqdefault.jpg"
     },
     {
-      "title": "What is Animation Hub? | Unreal Engine Animation Hub",
-      "video_id": "OBvb8ia75g8",
+      "title": "Year in Review 2025 | Inside Unreal",
+      "video_id": "LUlxPB5-sno",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video for an introduction to the new Unreal Engine Animation Hub video series. Animation Hub is your space for ...",
-      "published_at": "2025-12-05T14:40:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OBvb8ia75g8/hqdefault.jpg"
+      "description": "It's that time again! Come join us as we sit down with Tim Sweeney, Wyeth Johnson, Andre Balta and Sjoerd de Jong to chat about ...",
+      "published_at": "2025-12-11T20:08:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LUlxPB5-sno/hqdefault.jpg"
     },
     {
-      "title": "Movie Render Graph Intro | Unreal Engine Animation Hub",
-      "video_id": "0c8-8NSarDI",
+      "title": "A Dive Into Networked Physics-Based Character Movement | Unreal Fest Stockholm 2025",
+      "video_id": "_jRLlTDqoGI",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video and learn how to use Movie Render Graph to render shots into layers suitable for a compositing pipeline.",
-      "published_at": "2025-12-05T14:40:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0c8-8NSarDI/hqdefault.jpg"
+      "description": "This session recorded at Unreal Fest Stockholm explores the latest developments in Unreal Engine to support physics-based ...",
+      "published_at": "2025-12-11T17:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_jRLlTDqoGI/hqdefault.jpg"
     }
   ]
 }

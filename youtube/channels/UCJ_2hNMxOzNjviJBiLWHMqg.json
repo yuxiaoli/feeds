@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-07T00:32:05.177614",
+  "fetched_at": "2025-12-14T00:32:32.496703",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Future of Lunar Living",
+      "video_id": "tRhRwMB70LY",
+      "channel_title": "DamiLee",
+      "description": "Low gravity reshapes the human body, from muscle loss to vision changes, forcing us to rethink how we'll truly live beyond Earth.",
+      "published_at": "2025-12-10T14:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tRhRwMB70LY/hqdefault.jpg"
+    },
     {
       "title": "Why Minas Tirith was a War Machine  (Lord Of The Rings Architecture Explained)",
       "video_id": "K0sRNqfiwfw",
@@ -75,14 +83,6 @@
       "description": "The DMZ is one of the most heavily protected borders on Earth, yet it's become an accidental sanctuary where wildlife has ...",
       "published_at": "2025-11-17T16:13:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/kTfJxt5lSlQ/hqdefault.jpg"
-    },
-    {
-      "title": "Would you raise a family in space—or always come back home?",
-      "video_id": "lTHkajrEqQs",
-      "channel_title": "DamiLee",
-      "description": "Long-term life in low gravity can break down the human body—muscles shrink, bones weaken, even vision fades. Kajima ...",
-      "published_at": "2025-11-02T16:37:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lTHkajrEqQs/hqdefault.jpg"
     }
   ]
 }

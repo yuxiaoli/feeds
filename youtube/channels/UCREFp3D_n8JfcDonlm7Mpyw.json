@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-07T00:32:16.852274",
+  "fetched_at": "2025-12-14T00:32:44.445076",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "50+ Python Projects for Beginners | Wall of Inspiration",
+      "video_id": "J2cthi6oDok",
+      "channel_title": "Programiz",
+      "description": "Remember your first “Hello, World!”? It felt like magic. But after the basics variables, loops, functions — the real question is: what ...",
+      "published_at": "2025-09-05T10:15:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J2cthi6oDok/hqdefault.jpg"
+    },
     {
       "title": "Episode 1: Coding in a post-genAI world | Programiz After Hours",
       "video_id": "foiV6ttYTLo",
@@ -75,14 +83,6 @@
       "description": "Struggling to get started with coding? Let's fix that! You've probably been there — you're ready to learn to code, open your laptop, ...",
       "published_at": "2025-05-22T11:15:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2GfhUs1g3kI/hqdefault.jpg"
-    },
-    {
-      "title": "Stuck in Tutorial Hell? (Do this instead) #shorts",
-      "video_id": "rczNFVfIcbs",
-      "channel_title": "Programiz",
-      "description": "\"I watched hours of coding tutorials and still felt lost.\" If that sounds familiar, you're not alone. Most courses teach you to watch, not ...",
-      "published_at": "2025-05-07T12:15:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rczNFVfIcbs/hqdefault.jpg"
     }
   ]
 }

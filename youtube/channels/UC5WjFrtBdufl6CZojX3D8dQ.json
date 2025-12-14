@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-07T00:31:51.179552",
+  "fetched_at": "2025-12-14T00:32:18.233390",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Powering Chile&#39;s Renewable Future | Megapack",
+      "video_id": "_iytMHw6uJY",
+      "channel_title": "Tesla",
+      "description": "25MW / 900MWh of Megapack provides power in Chile's Atacama Desert, considered the driest desert on earth. Megapacks for ...",
+      "published_at": "2025-12-08T20:36:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_iytMHw6uJY/hqdefault.jpg"
+    },
     {
       "title": "Model X opens the door for you",
       "video_id": "x8c965ezpq8",
@@ -75,14 +83,6 @@
       "description": "Meet our most affordable vehicles – Ultra low cost of ownership, engineered for safety & comes with the best Tesla features you ...",
       "published_at": "2025-10-07T18:45:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gQ92igDGBHQ/hqdefault.jpg"
-    },
-    {
-      "title": "Optimus’ red carpet debut",
-      "video_id": "0jHCsY8MnmQ",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-10-07T03:11:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0jHCsY8MnmQ/hqdefault.jpg"
     }
   ]
 }

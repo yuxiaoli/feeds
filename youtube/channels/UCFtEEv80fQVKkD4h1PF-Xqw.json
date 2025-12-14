@@ -1,32 +1,40 @@
 {
-  "fetched_at": "2025-12-07T00:32:02.356830",
+  "fetched_at": "2025-12-14T00:32:29.652726",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "Satya Nadella completes the Microsoft 365 Copilot Challenge",
-      "video_id": "gBcwQaNoP5A",
+      "title": "MahaCrimeOS AI: accelerating cybercrime investigations with AI",
+      "video_id": "vPn8CckO-_E",
       "channel_title": "Microsoft",
-      "description": "microsoft #excel #microsoftexcel As the Excel World Championship takes place in Las Vegas, Satya Nadella tries his hand at the ...",
-      "published_at": "2025-12-04T18:55:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gBcwQaNoP5A/hqdefault.jpg"
+      "description": "In partnership with Microsoft India Development Center, CyberEYE created MahaCrimeOS AI, an AI-powered cybercrime ...",
+      "published_at": "2025-12-13T04:54:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vPn8CckO-_E/hqdefault.jpg"
     },
     {
-      "title": "Microsoft employees try to guess each other&#39;s stories: disability community edition",
-      "video_id": "oEeit3UrB2I",
+      "title": "Swiggy: using Microsoft Fabric Real-Time Intelligence to deliver millions of orders daily",
+      "video_id": "z32sE3194wg",
       "channel_title": "Microsoft",
-      "description": "From breaking barriers to designing breakthroughs, the disability community expands what's possible for people and technology.",
-      "published_at": "2025-12-03T14:59:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oEeit3UrB2I/hqdefault.jpg"
+      "description": "Swiggy is one of India's leading on-demand convenience platforms. Powered by Microsoft Fabric Real-Time Intelligence, Swiggy ...",
+      "published_at": "2025-12-12T04:54:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z32sE3194wg/hqdefault.jpg"
     },
     {
-      "title": "Disability community awareness: Microsoft employees break barriers &amp; build belonging in tech",
-      "video_id": "2u8bKBmHrp4",
+      "title": "Satya Nadella demos an app he built | Microsoft AI Tour Bengaluru",
+      "video_id": "SEZADIErqyw",
       "channel_title": "Microsoft",
-      "description": "Different experiences. Shared Impact. Recognizing the voices and contributions of people of all abilities at Microsoft​. Discover ...",
-      "published_at": "2025-12-01T14:59:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2u8bKBmHrp4/hqdefault.jpg"
+      "description": "Microsoft chairman and CEO, Satya Nadella, demos an app he built during his keynote address at the Microsoft AI Tour in ...",
+      "published_at": "2025-12-11T22:50:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SEZADIErqyw/hqdefault.jpg"
+    },
+    {
+      "title": "e-Shram: integrating AI to connect India&#39;s informal workers to better jobs with social security",
+      "video_id": "_GgUlA8j558",
+      "channel_title": "Microsoft",
+      "description": "e-Shram, India's database for 300 million informal workers, is powered by Microsoft Azure and AI tools that guide workers toward ...",
+      "published_at": "2025-12-11T06:09:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_GgUlA8j558/hqdefault.jpg"
     },
     {
       "title": "Minecraft teaches kids to stay safe online",
@@ -75,14 +83,6 @@
       "description": "Subscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube Follow us on social: LinkedIn: ...",
       "published_at": "2025-02-07T18:00:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4CMJDiPq1f4/hqdefault.jpg"
-    },
-    {
-      "title": "BWT Alpine F1 Team&#39;s Everyday AI Companion | Microsoft Copilot",
-      "video_id": "DA2_e-qB9dQ",
-      "channel_title": "Microsoft",
-      "description": "When team driver Pierre Gasly forgets a birthday, Microsoft Copilot has his back. Learn more: ...",
-      "published_at": "2024-06-03T15:30:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DA2_e-qB9dQ/hqdefault.jpg"
     }
   ]
 }

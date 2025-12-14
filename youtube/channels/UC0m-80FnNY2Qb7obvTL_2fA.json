@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2025-12-07T00:31:45.296705",
+  "fetched_at": "2025-12-14T00:32:12.466848",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Azure Backup Threat Detection",
-      "video_id": "PzqNUf8OyUc",
+      "title": "Dragon Copilot coding suggestions",
+      "video_id": "fKh9G194fcQ",
       "channel_title": "Microsoft Azure",
-      "description": "This demo shows how to enable Threat Detection in Azure Backup from the Azure Portal. Learn more: https://msft.it/6056tbwD8 ...",
-      "published_at": "2025-12-06T15:42:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PzqNUf8OyUc/hqdefault.jpg"
+      "description": "Minimize delays, denials and the burden on your RCM staff with coding, diagnosis and procedure suggestions during note review, ...",
+      "published_at": "2025-12-11T17:18:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fKh9G194fcQ/hqdefault.jpg"
     },
     {
-      "title": "Agentic AI in the Modern Lab: Transforming R&amp;D productivity with Copilot for Researcher",
-      "video_id": "9daRzwzTgeE",
+      "title": "Dragon Copilot Admin Center",
+      "video_id": "36WbakEVlmE",
       "channel_title": "Microsoft Azure",
-      "description": "Discover how agentic AI is reshaping the way researchers work in life sciences. We'll show how AI agents can connect to trusted ...",
-      "published_at": "2025-12-04T16:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9daRzwzTgeE/hqdefault.jpg"
+      "description": "With the Dragon Copilot admin center, a centralized destination for managing licensing, billing and organizational lifecycle ...",
+      "published_at": "2025-12-10T17:40:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/36WbakEVlmE/hqdefault.jpg"
     },
     {
-      "title": "Introducing the model router in Foundry Models",
-      "video_id": "_HrL3TubGbI",
+      "title": "Recap from the ground: Microsoft Azure at Ignite 2025",
+      "video_id": "yVwDJBnw__Q",
       "channel_title": "Microsoft Azure",
-      "description": "Meet the Model router in Foundry Models and Foundry Agent Service, now generally available. In this video, we introduce you to ...",
-      "published_at": "2025-12-02T17:01:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_HrL3TubGbI/hqdefault.jpg"
+      "description": "See how the technical community responded to the latest news across Microsoft cloud and AI platforms, including Microsoft Azure, ...",
+      "published_at": "2025-12-10T16:34:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yVwDJBnw__Q/hqdefault.jpg"
     },
     {
       "title": "SK Telecom deepens customer connections with agentic workflows in Microsoft Foundry",
@@ -61,14 +61,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/D-_wynwy_LI/hqdefault.jpg"
     },
     {
-      "title": "Zonal resiliency in Azure",
-      "video_id": "JXoeG1FJzG4",
-      "channel_title": "Microsoft Azure",
-      "description": "Zonal resiliency in Azure: goals & targeted recommendations powered by AI Assess and improve your zonal resiliency posture on ...",
-      "published_at": "2025-11-18T19:23:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JXoeG1FJzG4/hqdefault.jpg"
-    },
-    {
       "title": "Introducing Azure Copilot",
       "video_id": "4AI9Oswnrko",
       "channel_title": "Microsoft Azure",
@@ -83,6 +75,14 @@
       "description": "MSC, the world's largest container shipping operator, moves cargo across the globe with over 900 vessels. To keep global ...",
       "published_at": "2025-11-18T15:46:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0aMWYClF_ss/hqdefault.jpg"
+    },
+    {
+      "title": "Azure Migrate application aware e2e migration",
+      "video_id": "FYS4fnX8Ljs",
+      "channel_title": "Microsoft Azure",
+      "description": "Use Azure Migrate end-to-end platform capabilities including application awareness to migrate and modernize entire application ...",
+      "published_at": "2025-11-18T15:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FYS4fnX8Ljs/hqdefault.jpg"
     }
   ]
 }

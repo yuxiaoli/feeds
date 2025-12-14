@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-07T00:31:43.941408",
+  "fetched_at": "2025-12-14T00:32:11.066369",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "He&#39;s Fine, He Has Water",
+      "video_id": "8hnGjPlg4dc",
+      "channel_title": "Meta",
+      "description": "the place to be tbh.",
+      "published_at": "2025-12-12T15:04:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8hnGjPlg4dc/hqdefault.jpg"
+    },
     {
       "title": "Well Done",
       "video_id": "gI4THmMpDgk",
@@ -75,14 +83,6 @@
       "description": "it's not magic - it's Meta AI.",
       "published_at": "2025-10-30T16:01:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cMb8YaEX_6g/hqdefault.jpg"
-    },
-    {
-      "title": "Camera Roll",
-      "video_id": "IY5GZzNKjHY",
-      "channel_title": "Meta",
-      "description": "we scroll and we don't judge.",
-      "published_at": "2025-10-27T14:30:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IY5GZzNKjHY/hqdefault.jpg"
     }
   ]
 }

@@ -1,24 +1,48 @@
 {
-  "fetched_at": "2025-12-07T00:32:24.465964",
+  "fetched_at": "2025-12-14T00:32:52.319452",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 2,
+  "count": 5,
   "videos": [
     {
-      "title": "Inside the new Cayenne Electric | A walkaround with Michael Schätzle",
-      "video_id": "9gqN_n6bWYM",
+      "title": "Spotless #shorts",
+      "video_id": "2vXjtXxXwQE",
       "channel_title": "Porsche",
-      "description": "See the new Porsche Cayenne Electric up close. Michael Schätzle, Vice President Product Line Cayenne, guides us through a ...",
-      "published_at": "2025-12-05T10:01:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9gqN_n6bWYM/hqdefault.jpg"
+      "description": "Our rainbow on a cloudy day. @socal.spottingss.",
+      "published_at": "2025-12-12T19:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2vXjtXxXwQE/hqdefault.jpg"
     },
     {
-      "title": "A colour palette to make you swoon #shorts",
-      "video_id": "TSTzQfoDsbk",
+      "title": "Inside the new Cayenne Electric | A walkaround with Michael Schätzle",
+      "video_id": "O1R6GfXh3kA",
       "channel_title": "Porsche",
-      "description": "We couldn't dream up a prettier Porsche. @mxth500.",
-      "published_at": "2025-12-04T19:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TSTzQfoDsbk/hqdefault.jpg"
+      "description": "See the new Porsche Cayenne Electric up close. Michael Schätzle, Vice President Product Line Cayenne, guides us through a ...",
+      "published_at": "2025-12-12T16:06:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O1R6GfXh3kA/hqdefault.jpg"
+    },
+    {
+      "title": "A Tribute to F. A. Porsche | A Sonderwunsch 911 born from legacy.​",
+      "video_id": "IyYB0nlSMFE",
+      "channel_title": "Porsche",
+      "description": "A tribute to Ferdinand Alexander Porsche – the mind behind the original 911.​ A Sonderwunsch creation, envisioned by his son ...",
+      "published_at": "2025-12-11T17:27:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IyYB0nlSMFE/hqdefault.jpg"
+    },
+    {
+      "title": "The Art of Dreams – Porsche x Norman Foster Foundation in Venice​",
+      "video_id": "LU72EOKEggU",
+      "channel_title": "Porsche",
+      "description": "What happens when a sportscar brand and a world-renowned architecture foundation collaborate? The result: a vision for ...",
+      "published_at": "2025-12-10T13:15:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LU72EOKEggU/hqdefault.jpg"
+    },
+    {
+      "title": "The new Cayenne Electric | Climbing to new heights",
+      "video_id": "2yrlNznB2lE",
+      "channel_title": "Porsche",
+      "description": "The Cayenne Electric raises the bar. Sportscar performance with up to 850 kW (1156 PS) Overboost Power with Launch Control in ...",
+      "published_at": "2025-12-09T10:08:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2yrlNznB2lE/hqdefault.jpg"
     }
   ]
 }

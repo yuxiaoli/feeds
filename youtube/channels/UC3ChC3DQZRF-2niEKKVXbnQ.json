@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-12-07T00:31:48.159723",
+  "fetched_at": "2025-12-14T00:32:15.313564",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "GPT-5.2 实测! 美是真的美, 卡是真的卡",
+      "video_id": "ct1PUBip_LY",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来 GPT 5.2 thinking 和 pro 的测试结果: 说实话, 这两个模型差距并不大, 但是价格却差了11倍. 大象牙膏测试, 这个感觉退步 ...",
+      "published_at": "2025-12-12T06:44:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ct1PUBip_LY/hqdefault.jpg"
+    },
+    {
+      "title": "教程来啦! 如何使用AI打造自媒体博主军火库",
+      "video_id": "mG1gRINcI6M",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来我压箱底的工具集的一部分, reddit 内容创作全家桶! 可以极大地提升内容创作速度. 包含: 社区垂搜工具, 用来搜索感兴趣的 ...",
+      "published_at": "2025-12-10T04:17:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mG1gRINcI6M/hqdefault.jpg"
+    },
     {
       "title": "DeepSeek V3.2 正式版实测! 提升真的有限?",
       "video_id": "B-hs8f8-ubk",
@@ -67,22 +83,6 @@
       "description": "给大家带来Cursor 2.0 更新内容！这个分量的确够得上一个大版本更新。 首先，推出了炼蛊模式，你最多可以开8个Agent 并行运行 ...",
       "published_at": "2025-10-29T21:44:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/BB2-NwEP0EI/hqdefault.jpg"
-    },
-    {
-      "title": "Minimax M2 实测! 你也晚了3个月?",
-      "video_id": "HjrqtfTC3so",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来Minimax M2 的测试结果: 同样, 所有的three js 测试, 全都有包引用错误, 也都是我修了一次才能运行的画面. 大象牙膏测试 ...",
-      "published_at": "2025-10-26T01:12:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HjrqtfTC3so/hqdefault.jpg"
-    },
-    {
-      "title": "KAT-Coder-Pro-V1 实测! 早放3个月就好了?",
-      "video_id": "FeOEuKulU1E",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来kat coder pro v1 的测试结果: 首先, 所有的three js 测试, 全都有包引用错误, 你所看到的所有演示都是我修了一次才能运行 ...",
-      "published_at": "2025-10-25T00:20:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FeOEuKulU1E/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-07T00:31:59.666319",
+  "fetched_at": "2025-12-14T00:32:26.881097",
   "channel_id": "UCEtckLYWcFq5uMW1K2zyjLA",
   "channel_title": "Africa Travel Channel",
   "count": 10,
   "videos": [
+    {
+      "title": "Leopard vs Cheetah 😱🐆🐆",
+      "video_id": "kaGe25FZEy0",
+      "channel_title": "Africa Travel Channel",
+      "description": "",
+      "published_at": "2025-12-13T11:51:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kaGe25FZEy0/hqdefault.jpg"
+    },
     {
       "title": "Huge African Python 🐍",
       "video_id": "Dg0w2yhyfAU",
@@ -75,14 +83,6 @@
       "description": "Wildlife gathers at a waterhole in Kruger National Park #wildlife #animals #nature.",
       "published_at": "2025-06-29T11:56:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6YZGfuRkU8A/hqdefault.jpg"
-    },
-    {
-      "title": "Wildebeest On The Run",
-      "video_id": "05-fVJS6klQ",
-      "channel_title": "Africa Travel Channel",
-      "description": "Watch Wildebeest On The Run! #animals #nature #wildlife.",
-      "published_at": "2024-08-07T06:22:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/05-fVJS6klQ/hqdefault.jpg"
     }
   ]
 }

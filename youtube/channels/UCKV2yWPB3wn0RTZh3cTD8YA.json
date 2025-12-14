@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-07T00:32:08.587933",
+  "fetched_at": "2025-12-14T00:32:35.928121",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "Swatch危机：瑞士钟表的昔日骄傲与美国“野蛮人”",
+      "video_id": "ChYacMSR-yk",
+      "channel_title": "硅谷101",
+      "description": "曾经Swatch集团凭借一块色彩斑斓的塑料表，将瑞士钟表业从“石英危机”的死亡线上拉回，不仅缔造了流行文化，更打造了全球最大 ...",
+      "published_at": "2025-12-09T00:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ChYacMSR-yk/hqdefault.jpg"
+    },
     {
       "title": "硅谷教育颠覆者发出警告：AI将淘汰不愿改革的学校｜硅谷101年度线下大会（全英）",
       "video_id": "vZ1kAuU_ogw",
@@ -11,14 +19,6 @@
       "description": "在人工智能席卷各行各业的今天，教育正站在变革的十字路口。这是一场汇聚了“硅谷教母”、密涅瓦大学创始人以及斯坦福加速学习 ...",
       "published_at": "2025-12-03T23:34:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vZ1kAuU_ogw/hqdefault.jpg"
-    },
-    {
-      "title": "硅谷101直播：AI时代的社交网络是什么样儿？",
-      "video_id": "uQNl00paWNI",
-      "channel_title": "硅谷101",
-      "description": "在生成式AI 带来的巨大浪潮下，社交网络正在迎来十年来最大的一轮范式重构。Sora 2 留存率骤降、个性化AI 兴起、Agent 参与社交 ...",
-      "published_at": "2025-12-03T09:32:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uQNl00paWNI/hqdefault_live.jpg"
     },
     {
       "title": "AI最烧钱的战场：数据中心的真实账单",

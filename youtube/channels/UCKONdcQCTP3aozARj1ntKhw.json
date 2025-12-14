@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-07T00:32:07.163859",
+  "fetched_at": "2025-12-14T00:32:34.558619",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Let&#39;s build an advent calendar with Warp agents",
+      "video_id": "bx9JOhz58T8",
+      "channel_title": "Warp",
+      "description": "We're build to build an advent calendar using Warp.",
+      "published_at": "2025-12-11T06:47:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bx9JOhz58T8/hqdefault.jpg"
+    },
     {
       "title": "Everything new in Warp",
       "video_id": "ZJT4epNMEDE",
@@ -75,14 +83,6 @@
       "description": "Does re-writing from the ground-up make sense? For founders, probably not!",
       "published_at": "2025-11-14T21:04:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vC6Dr-tnhoA/hqdefault.jpg"
-    },
-    {
-      "title": "How sustainable is vibe-coding in the long-term?",
-      "video_id": "dvTnbbdEvnE",
-      "channel_title": "Warp",
-      "description": "How sustainable is vibe-coding in the long term? Not very sustainable.",
-      "published_at": "2025-11-14T18:56:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dvTnbbdEvnE/hqdefault.jpg"
     }
   ]
 }

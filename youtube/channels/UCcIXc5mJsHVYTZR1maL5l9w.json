@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-12-07T00:32:27.895497",
+  "fetched_at": "2025-12-14T00:32:55.841498",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Learn to implement multi-vector retrieval for image data in this new course",
+      "video_id": "5lR0V1PUZ10",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/44b5kHS Our new short course, Multi-Vector Image Retrieval, created in collaboration with Qdrant, is now ...",
+      "published_at": "2025-12-10T14:26:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5lR0V1PUZ10/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Nyah Macklin: How to Structure Context to Make Your Agents Smarter",
+      "video_id": "YdQZzxjIhzE",
+      "channel_title": "DeepLearningAI",
+      "description": "When agents fail at complex tasks, the problem is rarely the model itself— it's the lack of a proper context that is required for ...",
+      "published_at": "2025-12-08T14:27:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YdQZzxjIhzE/hqdefault.jpg"
+    },
     {
       "title": "AI Dev 25 x NYC | Tyler Slaton: Build User Facing Agentic Applications with AG UI",
       "video_id": "fGSpr8bHxcM",
@@ -67,22 +83,6 @@
       "description": "Industry leaders agree: the missing layer in enterprise AI is hands-on, immersive learning. In this session, Codio founder Phillip ...",
       "published_at": "2025-12-05T20:04:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iPu68fiNyBU/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Param Singh: Building with Mistral: Open, Powerful, and Ready to Scale",
-      "video_id": "Axlesb8yTro",
-      "channel_title": "DeepLearningAI",
-      "description": "Param Singh, Partner Solution Architect at Mistral AI offered an insightful session on developing and deploying Enterprise AI ...",
-      "published_at": "2025-12-05T19:59:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Axlesb8yTro/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Panel Discussion: Software Development in the Age of AI",
-      "video_id": "bttcJn58J24",
-      "channel_title": "DeepLearningAI",
-      "description": "Artificial intelligence is redefining how software is conceived, built, and maintained. This panel brought together Laurence ...",
-      "published_at": "2025-12-05T19:55:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bttcJn58J24/hqdefault.jpg"
     }
   ]
 }

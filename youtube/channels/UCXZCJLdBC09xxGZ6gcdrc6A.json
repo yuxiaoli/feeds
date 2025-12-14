@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-12-07T00:32:22.415577",
+  "fetched_at": "2025-12-14T00:32:50.184990",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "10 years.",
+      "video_id": "8JXwrVQQ4jw",
+      "channel_title": "OpenAI",
+      "description": "",
+      "published_at": "2025-12-11T21:33:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8JXwrVQQ4jw/hqdefault.jpg"
+    },
+    {
+      "title": "Running a South Carolina seed farm with ChatGPT",
+      "video_id": "J6imKdMmb2U",
+      "channel_title": "OpenAI",
+      "description": "Inside a 4th generation seed farm in South Carolina, the Sharp family shows how a long-running operation adapts as the work ...",
+      "published_at": "2025-12-10T16:59:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J6imKdMmb2U/hqdefault.jpg"
+    },
+    {
+      "title": "Modernizing a legacy steel yard with ChatGPT",
+      "video_id": "WeBuFsJ8k-0",
+      "channel_title": "OpenAI",
+      "description": "Inside an 86-year-old steel yard in Reno, manager Richard Lane shows how a legacy business stays alive by adapting: fixing ...",
+      "published_at": "2025-12-10T16:59:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WeBuFsJ8k-0/hqdefault.jpg"
+    },
     {
       "title": "What&#39;s New with ChatGPT Voice",
       "video_id": "4jBcK0cYass",
@@ -59,30 +83,6 @@
       "description": "Philips is building AI literacy into a company-wide capability, training executives, running use case challenges, and rolling out ...",
       "published_at": "2025-11-14T06:00:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LXwGSHZXbKs/hqdefault.jpg"
-    },
-    {
-      "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
-      "video_id": "6TXXMTYQtHk",
-      "channel_title": "OpenAI",
-      "description": "With OpenAI, Notion became a natively AI-powered workspace. Their integration of GPT-4o, GPT-4o mini, embeddings, and now ...",
-      "published_at": "2025-11-14T05:05:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6TXXMTYQtHk/hqdefault.jpg"
-    },
-    {
-      "title": "From pilot to practice: How BBVA is scaling AI across the organization",
-      "video_id": "OtIuu_xYtpw",
-      "channel_title": "OpenAI",
-      "description": "Long recognized as one of the world's most innovative financial institutions, BBVA is applying AI at global scale. We sat down with ...",
-      "published_at": "2025-11-14T05:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OtIuu_xYtpw/hqdefault.jpg"
-    },
-    {
-      "title": "New personalities in ChatGPT",
-      "video_id": "kykP8fy1a9Q",
-      "channel_title": "OpenAI",
-      "description": "Say hello to GPT-5.1 and new personalization controls, rolling out to all users this week. 8 unique chat styles (including 3 new ...",
-      "published_at": "2025-11-14T04:17:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kykP8fy1a9Q/hqdefault.jpg"
     }
   ]
 }
