@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-14T00:32:33.189146",
+  "fetched_at": "2025-12-21T00:32:16.556685",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "台北故宫！老的！纯老的！毫无争议的老！",
+      "video_id": "nn-OLlk-REg",
+      "channel_title": "码农高天",
+      "description": "台湾性价比最高的一天，在台北故宫逛了一下午，结束去士林夜市吃大鸡排啦！",
+      "published_at": "2025-12-14T09:01:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nn-OLlk-REg/hqdefault.jpg"
+    },
     {
       "title": "漫步安平，我知道有些观点可能会引起争议，但我还是放出来了",
       "video_id": "f0dIZDkKXqQ",
@@ -75,14 +83,6 @@
       "description": "大阪虽然是个相对无聊的城市，但是我们还是玩了一些地方的。一兰拉面挺好吃，但是这个炸串是有点一言难尽的。",
       "published_at": "2025-09-12T10:30:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/E9zVPAt1dtA/hqdefault.jpg"
-    },
-    {
-      "title": "京都第二天，金阁寺加岚山，吃的也不错哈！",
-      "video_id": "ppQ4u-bPbRI",
-      "channel_title": "码农高天",
-      "description": "京都又玩了一天，去了金阁寺和岚山。今天吃的这两顿饭都很不错！",
-      "published_at": "2025-09-06T03:30:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ppQ4u-bPbRI/hqdefault.jpg"
     }
   ]
 }

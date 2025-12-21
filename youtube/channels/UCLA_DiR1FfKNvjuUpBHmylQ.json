@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-12-14T00:32:38.054851",
+  "fetched_at": "2025-12-21T00:32:21.138046",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 7,
+  "count": 5,
   "videos": [
+    {
+      "title": "Agencywide Town Hall with NASA Administrator Jared Isaacman, Friday, Dec. 19, 2025",
+      "video_id": "WdQiPJ6KmRc",
+      "channel_title": "NASA",
+      "description": "NASA's new administrator, Jared Isaacman, hosts an agencywide town hall to talk about his vision for the agency's future and ...",
+      "published_at": "2025-12-19T23:32:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WdQiPJ6KmRc/hqdefault.jpg"
+    },
+    {
+      "title": "NASA Astronaut Jonny Kim Post-Flight News Conference (Dec. 19, 2025)",
+      "video_id": "pRBx5t3Hi8s",
+      "channel_title": "NASA",
+      "description": "NASA astronaut Jonny Kim recaps his eight-month mission aboard the International Space Station. After logging 245 days aboard ...",
+      "published_at": "2025-12-19T21:01:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pRBx5t3Hi8s/hqdefault.jpg"
+    },
+    {
+      "title": "Step Inside the International Space Station (POV Tour)",
+      "video_id": "nmBbcNTUkOg",
+      "channel_title": "NASA",
+      "description": "What's it like to float through the International Space Station? Come along with us for a guided tour! Our astronauts in low Earth ...",
+      "published_at": "2025-12-17T16:36:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nmBbcNTUkOg/hqdefault.jpg"
+    },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
       "video_id": "Hj1XwNjvkDE",
@@ -11,46 +35,6 @@
       "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
       "published_at": "2025-12-11T14:29:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Hj1XwNjvkDE/hqdefault_live.jpg"
-    },
-    {
-      "title": "NASA Astronaut Jonny Kim Post-Flight News Conference (Dec. 19, 2025)",
-      "video_id": "pRBx5t3Hi8s",
-      "channel_title": "NASA",
-      "description": "NASA astronaut Jonny Kim recaps his eight-month mission aboard the International Space Station. After logging 245 days aboard ...",
-      "published_at": "2025-12-10T22:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pRBx5t3Hi8s/hqdefault_live.jpg"
-    },
-    {
-      "title": "Inside NASA&#39;s Prep for the Moon, Mars, and the Search for Life",
-      "video_id": "LTGnv08tpZ8",
-      "channel_title": "NASA",
-      "description": "How do we get ready to explore the Moon, Mars, and beyond? By pushing the limits right here on Earth. Join us Wednesday, Dec.",
-      "published_at": "2025-12-10T21:03:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LTGnv08tpZ8/hqdefault.jpg"
-    },
-    {
-      "title": "NASA Astronaut Jonny Kim Soyuz MS-27 Re-entry and Landing",
-      "video_id": "oiOsmOTCbFE",
-      "channel_title": "NASA",
-      "description": "After departing from the International Space Station at 8:41 p.m. EST on Dec. 8 (0141 UTC Dec. 9), NASA astronaut Jonny Kim is ...",
-      "published_at": "2025-12-09T06:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oiOsmOTCbFE/hqdefault.jpg"
-    },
-    {
-      "title": "NASA Astronaut Jonny Kim Soyuz MS-27 Undocking",
-      "video_id": "Jg6ua4104IA",
-      "channel_title": "NASA",
-      "description": "",
-      "published_at": "2025-12-09T02:16:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Jg6ua4104IA/hqdefault.jpg"
-    },
-    {
-      "title": "Expedition 73/74 Change of Command Ceremony",
-      "video_id": "RGG5hfoKEuw",
-      "channel_title": "NASA",
-      "description": "",
-      "published_at": "2025-12-07T15:47:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RGG5hfoKEuw/hqdefault.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-14T00:33:01.410708",
+  "fetched_at": "2025-12-21T00:32:43.966202",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "Project Orion Battleship",
+      "video_id": "d6_CBDoP0Uk",
+      "channel_title": "Hazegrayart",
+      "description": "The Project Orion \"battleship\" was a proposed, but never built, concept for a massive, nuclear-powered space warship that ...",
+      "published_at": "2025-12-15T16:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d6_CBDoP0Uk/hqdefault.jpg"
+    },
     {
       "title": "Buran Space Shuttle  MIR-2 Space Station",
       "video_id": "MfkcoX0GEAc",
@@ -75,14 +83,6 @@
       "description": "Operation Sandy was the codename for the post-World War II launch of a captured V-2 rocket from the deck of the United States ...",
       "published_at": "2025-10-25T19:10:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iEO5TVAVPtk/hqdefault.jpg"
-    },
-    {
-      "title": "Buran Space Shuttle",
-      "video_id": "0fnsC-FxF8Y",
-      "channel_title": "Hazegrayart",
-      "description": "The Buran (Russian for \"snowstorm\") was the Soviet Union's reusable space shuttle, developed as a direct response to the ...",
-      "published_at": "2025-10-23T10:27:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0fnsC-FxF8Y/hqdefault.jpg"
     }
   ]
 }

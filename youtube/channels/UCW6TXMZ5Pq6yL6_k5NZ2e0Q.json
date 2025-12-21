@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-14T00:32:47.267118",
+  "fetched_at": "2025-12-21T00:32:30.131269",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "Threads and Threading in Python",
+      "video_id": "BexuvowO7PM",
+      "channel_title": "Socratica",
+      "description": "Sign up for Socratica Courses: https://www.socratica.com/collections Socratica ...",
+      "published_at": "2025-12-19T12:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BexuvowO7PM/hqdefault.jpg"
+    },
     {
       "title": "Stock Options Course version 1.0 - for Aspiring Quants",
       "video_id": "MB0n6CpNw9o",
@@ -75,14 +83,6 @@
       "description": "A common options strategy is the Protective Put. This is when you buy a put option to \"protect\" your stock investment from ...",
       "published_at": "2025-07-30T10:01:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/baf9moVb-i0/hqdefault.jpg"
-    },
-    {
-      "title": "Straddle - Stock Options Trading - Betting on Volatility",
-      "video_id": "l9tUHwBl14k",
-      "channel_title": "Socratica",
-      "description": "Learn how combining two options - a call and a put - gives you the ability to bet that a stock will move, even if you don't know in ...",
-      "published_at": "2025-07-26T23:07:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l9tUHwBl14k/hqdefault.jpg"
     }
   ]
 }

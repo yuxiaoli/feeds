@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2025-12-14T00:33:12.840708",
+  "fetched_at": "2025-12-21T00:32:55.039837",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "✨ Solstice 101 🌞🌍",
+      "video_id": "TVthBf12DIU",
+      "channel_title": "Star Walk",
+      "description": "Solstices happen twice a year and mark the start of winter or summer — depending on your hemisphere. ❄️ Winter solstice ...",
+      "published_at": "2025-12-19T23:00:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TVthBf12DIU/hqdefault.jpg"
+    },
+    {
+      "title": "Cat constellations 🐈",
+      "video_id": "CpJmd6BDN-s",
+      "channel_title": "Star Walk",
+      "description": "Some constellations roar. Some just quietly purr in the night sky. ✨ Meet the three “cat constellations”: Leo, Leo Minor, and Lynx ...",
+      "published_at": "2025-12-17T08:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CpJmd6BDN-s/hqdefault.jpg"
+    },
+    {
+      "title": "🛰️ Space Junk Overload!",
+      "video_id": "0Ng7Nl3IU3A",
+      "channel_title": "Star Walk",
+      "description": "Did you know that Earth's orbit is becoming more crowded every year? Space junk — also called space debris or orbital waste ...",
+      "published_at": "2025-12-15T08:26:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0Ng7Nl3IU3A/hqdefault.jpg"
+    },
     {
       "title": "🚨The Longest Cosmic Explosion EVER Caught!",
       "video_id": "7fxE7nQUOYI",
@@ -59,30 +83,6 @@
       "description": "Have you ever seen a timelapse of a robot's epic 11-year adventure on another planet? The original NASA videos of the ...",
       "published_at": "2025-12-01T14:46:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xY_ukkWmsUk/hqdefault.jpg"
-    },
-    {
-      "title": "Top astronomy events of December 2025 ✨",
-      "video_id": "oj7Tu0ZCKnc",
-      "channel_title": "Star Walk",
-      "description": "nightsky #decembersky #astronomy #astronomy2025 #starwalk.",
-      "published_at": "2025-11-30T23:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oj7Tu0ZCKnc/hqdefault.jpg"
-    },
-    {
-      "title": "🌌 Galaxy Collisions: Simulation vs. Hubble&#39;s Observations 🌌",
-      "video_id": "Kamo3Juy2vk",
-      "channel_title": "Star Walk",
-      "description": "How do we understand cosmic events that take billions of years to unfold? This stunning visualization provides the answer by ...",
-      "published_at": "2025-11-28T09:40:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Kamo3Juy2vk/hqdefault.jpg"
-    },
-    {
-      "title": "Were you a little astronomer too? 🌌👶",
-      "video_id": "enPobS9YU0Y",
-      "channel_title": "Star Walk",
-      "description": "How did your parents introduce you to the night sky? Or how are you passing that magic on to your kids? Tell us your story!",
-      "published_at": "2025-11-27T14:08:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/enPobS9YU0Y/hqdefault.jpg"
     }
   ]
 }

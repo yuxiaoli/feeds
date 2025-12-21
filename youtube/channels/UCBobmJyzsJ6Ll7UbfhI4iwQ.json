@@ -1,48 +1,144 @@
 {
-  "fetched_at": "2025-12-14T00:32:23.938961",
+  "fetched_at": "2025-12-21T00:32:07.540804",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 10,
+  "count": 23,
   "videos": [
     {
-      "title": "Mafia: The Old Country: Using MetaHuman in a AAA Character Pipeline | Unreal Fest Stockholm 2025",
-      "video_id": "V8rL1r_1IcQ",
+      "title": "Unreal Engine as the Heart of a Real-time, Web-controlled Simulator | Unreal Fest Stockholm 2025",
+      "video_id": "2uOMnTLK44w",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Stockholm, Hangar 13 showcase how they used the MetaHuman framework to create hero ...",
-      "published_at": "2025-12-13T21:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V8rL1r_1IcQ/hqdefault.jpg"
+      "description": "This session recorded at Unreal Fest Stockholm showcases a real-time simulation system developed in Unreal Engine and ...",
+      "published_at": "2025-12-20T17:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2uOMnTLK44w/hqdefault.jpg"
     },
     {
-      "title": "Server-Side Fog of War: Defending Against Wall Hacks | Unreal Fest Stockholm 2025",
-      "video_id": "CK2L7rjp0qk",
+      "title": "First Steps for Fashion Designers | Unreal Fest Stockholm 2025",
+      "video_id": "GbwH5Q7VFWQ",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Stockholm, CCP Games presents a server-side system they've dubbed “Fog of War” that ...",
-      "published_at": "2025-12-13T19:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CK2L7rjp0qk/hqdefault.jpg"
+      "description": "The amount of work you can accomplish as an individual with a fashion brand or digital fashion aspirations is immense—and ...",
+      "published_at": "2025-12-20T15:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GbwH5Q7VFWQ/hqdefault.jpg"
     },
     {
-      "title": "A truly sweet coincidence helped in the making of Yuki’s Revenge🍨",
-      "video_id": "rvHmn1E21Tk",
+      "title": "Technical Content Grimoire: Volume 2 | Unreal Fest Stockholm 2025",
+      "video_id": "Mut7T5v3EzA",
       "channel_title": "Unreal Engine",
-      "description": "Go behind the scenes with Unreal Engine on The Lost Chapter: Yuki's Revenge available on the Unreal Engine YouTube ...",
-      "published_at": "2025-12-13T17:01:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rvHmn1E21Tk/hqdefault.jpg"
+      "description": "In this session recorded at Unreal Fest Stockholm, Croteam builds on last year's Technical Content Grimoire talk and showcases ...",
+      "published_at": "2025-12-19T19:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Mut7T5v3EzA/hqdefault.jpg"
     },
     {
-      "title": "Unreal Fellowship: Product Storytelling I Sizzle Reel - June, 2025",
-      "video_id": "Qkhrt38C8QY",
+      "title": "Stylized Animation Control Rig Characters in Unreal Engine 5",
+      "video_id": "WMKvwVIuFS4",
       "channel_title": "Unreal Engine",
-      "description": "Enjoy highlights from the product cinematics created during the second four-week Unreal Fellowship: Product Storytelling at Epic ...",
-      "published_at": "2025-12-12T19:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Qkhrt38C8QY/hqdefault.jpg"
+      "description": "MASTERING UE5 MODULAR CHARACTER RIGS: Get hands-on with the high-quality modular character rigs created by Agora ...",
+      "published_at": "2025-12-19T17:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WMKvwVIuFS4/hqdefault.jpg"
     },
     {
-      "title": "Level Management: Sub-Levels, Spawnables, Possessibles in UE5",
-      "video_id": "yOcgYMcxr3Q",
+      "title": "Making Digital Twins Playable: From UEFN to Unreal Engine | Unreal Fest Stockholm 2025",
+      "video_id": "XliX7KaAA9g",
       "channel_title": "Unreal Engine",
-      "description": "UE5 LEVEL OPTIMIZATION SECRETS: Master your cinematic environment by understanding how the Master Level uses nested ...",
-      "published_at": "2025-12-12T17:01:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yOcgYMcxr3Q/hqdefault.jpg"
+      "description": "What if a city's digital twin could be more than a static model, and it could be played with, explored, and learned from?",
+      "published_at": "2025-12-19T15:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XliX7KaAA9g/hqdefault.jpg"
+    },
+    {
+      "title": "Beyond the Basics: Unlocking UEFN with an Unreal Mindset | Unreal Fest Stockholm 2025",
+      "video_id": "XFuKwaQRBX0",
+      "channel_title": "Unreal Engine",
+      "description": "This session recorded at Unreal Fest Stockholm offers actionable insights and learnings on how to get the most out of ...",
+      "published_at": "2025-12-18T19:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XFuKwaQRBX0/hqdefault.jpg"
+    },
+    {
+      "title": "Stylized Rendering—A Simple Outline | Unreal Engine Animation Hub",
+      "video_id": "7rwLqPeOjB4",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video and learn how to leverage the Camera Vector expression in Unreal Engine 5.7 to create a stylized comic ink-like ...",
+      "published_at": "2025-12-18T16:21:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7rwLqPeOjB4/hqdefault.jpg"
+    },
+    {
+      "title": "Package Your Project in Unreal Engine",
+      "video_id": "ARfQ58w31Vs",
+      "channel_title": "Unreal Engine",
+      "description": "Just starting your journey using Unreal Engine? This beginner tutorial series, created in partnership with Luke Anderton of Tinkr ...",
+      "published_at": "2025-12-17T22:22:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ARfQ58w31Vs/hqdefault.jpg"
+    },
+    {
+      "title": "Create the Game Over Screen in Unreal Engine",
+      "video_id": "TsQzwcHydf8",
+      "channel_title": "Unreal Engine",
+      "description": "Just starting your journey using Unreal Engine? This beginner tutorial series, created in partnership with Luke Anderton of Tinkr ...",
+      "published_at": "2025-12-17T22:22:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TsQzwcHydf8/hqdefault.jpg"
+    },
+    {
+      "title": "Introduction to Player Blueprints in Unreal Engine",
+      "video_id": "VVpZW4pKafQ",
+      "channel_title": "Unreal Engine",
+      "description": "Just starting your journey using Unreal Engine? This beginner tutorial series, created in partnership with Luke Anderton of Tinkr ...",
+      "published_at": "2025-12-17T22:22:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VVpZW4pKafQ/hqdefault.jpg"
+    },
+    {
+      "title": "Creating the Game Over Functionality in Blueprints",
+      "video_id": "Q8PDeZEYirE",
+      "channel_title": "Unreal Engine",
+      "description": "Just starting your journey using Unreal Engine? This beginner tutorial series, created in partnership with Luke Anderton of Tinkr ...",
+      "published_at": "2025-12-17T22:22:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q8PDeZEYirE/hqdefault.jpg"
+    },
+    {
+      "title": "Packaging Your Project in Unreal Engine",
+      "video_id": "-OyVWhP2ekk",
+      "channel_title": "Unreal Engine",
+      "description": "Just starting your journey using Unreal Engine? This beginner tutorial series, created in partnership with Luke Anderton of Tinkr ...",
+      "published_at": "2025-12-17T22:22:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-OyVWhP2ekk/hqdefault.jpg"
+    },
+    {
+      "title": "Building a Coin Counter in Unreal Engine",
+      "video_id": "I9BMOmdWoYE",
+      "channel_title": "Unreal Engine",
+      "description": "Just starting your journey using Unreal Engine? This beginner tutorial series, created in partnership with Luke Anderton of Tinkr ...",
+      "published_at": "2025-12-17T22:22:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I9BMOmdWoYE/hqdefault.jpg"
+    },
+    {
+      "title": "Creating An End State Screen in Unreal Engine",
+      "video_id": "XqhcJXgjEM4",
+      "channel_title": "Unreal Engine",
+      "description": "Just starting your journey using Unreal Engine? This beginner tutorial series, created in partnership with Luke Anderton of Tinkr ...",
+      "published_at": "2025-12-17T22:22:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XqhcJXgjEM4/hqdefault.jpg"
+    },
+    {
+      "title": "Communities + Sponsored Row w/ Kevin Marciano, FOAD | Let&#39;s Chat",
+      "video_id": "DgMfXfNOB5Q",
+      "channel_title": "Unreal Engine",
+      "description": "This week, come join us as Kevin Marciano from FOAD discusses with some special guests from Epic Games Fortnite ...",
+      "published_at": "2025-12-17T19:52:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DgMfXfNOB5Q/hqdefault.jpg"
+    },
+    {
+      "title": "Workshop Sizzle | Rigging in Unreal Engine",
+      "video_id": "4oZuxwnsIbk",
+      "channel_title": "Unreal Engine",
+      "description": "Unlock your potential in the Rigging in Unreal Engine Workshop! Learn practical, production-ready skills as you move toward ...",
+      "published_at": "2025-12-17T19:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4oZuxwnsIbk/hqdefault.jpg"
+    },
+    {
+      "title": "Advanced UE5 Cinematic Workflow: Camera Rigs &amp; Custom Viewports",
+      "video_id": "E7C1xbpEA_Q",
+      "channel_title": "Unreal Engine",
+      "description": "PRO CAMERA ANIMATION HACKS (UE5): Learn advanced organizational techniques by dissecting Sub-sequences (nested ...",
+      "published_at": "2025-12-17T17:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E7C1xbpEA_Q/hqdefault.jpg"
     },
     {
       "title": "MetaHumans for Mocap | Unreal Engine Animation Hub",
@@ -53,36 +149,44 @@
       "thumbnail_url": "https://i.ytimg.com/vi/myxrzJiLc6I/hqdefault.jpg"
     },
     {
-      "title": "Bringing accuracy to mushroom measuring with RealityScan Mobile",
-      "video_id": "2TwaT0tSLf4",
+      "title": "One File Per Actor for Linear Content | Unreal Engine Animation Hub",
+      "video_id": "_0ofqq7DTMw",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to find out how KÄÄPÄ Biotech uses RealityScan Mobile to accurately track the growth of chaga mushrooms over ...",
-      "published_at": "2025-12-12T14:59:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2TwaT0tSLf4/hqdefault.jpg"
+      "description": "Watch this video and learn how to use the One File Per Actor (OFPA) workflow in Unreal Engine for linear content. This tutorial ...",
+      "published_at": "2025-12-05T14:40:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_0ofqq7DTMw/hqdefault.jpg"
     },
     {
-      "title": "Control Rig Physics: Fast, Fun, and Expressive Character Animation | Unreal Fest Stockholm 2025",
-      "video_id": "HennjwB6zZ8",
+      "title": "What is Animation Hub? | Unreal Engine Animation Hub",
+      "video_id": "OBvb8ia75g8",
       "channel_title": "Unreal Engine",
-      "description": "In this talk recorded at Unreal Fest Stockholm, we explore how physically simulated characters can be created and controlled ...",
-      "published_at": "2025-12-12T15:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HennjwB6zZ8/hqdefault.jpg"
+      "description": "Watch this video for an introduction to the new Unreal Engine Animation Hub video series. Animation Hub is your space for ...",
+      "published_at": "2025-12-05T14:40:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OBvb8ia75g8/hqdefault.jpg"
     },
     {
-      "title": "Year in Review 2025 | Inside Unreal",
-      "video_id": "LUlxPB5-sno",
+      "title": "Movie Render Graph Intro | Unreal Engine Animation Hub",
+      "video_id": "0c8-8NSarDI",
       "channel_title": "Unreal Engine",
-      "description": "It's that time again! Come join us as we sit down with Tim Sweeney, Wyeth Johnson, Andre Balta and Sjoerd de Jong to chat about ...",
-      "published_at": "2025-12-11T20:08:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LUlxPB5-sno/hqdefault.jpg"
+      "description": "Watch this video and learn how to use Movie Render Graph to render shots into layers suitable for a compositing pipeline.",
+      "published_at": "2025-12-05T14:40:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0c8-8NSarDI/hqdefault.jpg"
     },
     {
-      "title": "A Dive Into Networked Physics-Based Character Movement | Unreal Fest Stockholm 2025",
-      "video_id": "_jRLlTDqoGI",
+      "title": "MetaHuman Realtime Animator Best Practices | Unreal Engine Animation Hub",
+      "video_id": "PgzSGQnWVcU",
       "channel_title": "Unreal Engine",
-      "description": "This session recorded at Unreal Fest Stockholm explores the latest developments in Unreal Engine to support physics-based ...",
-      "published_at": "2025-12-11T17:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_jRLlTDqoGI/hqdefault.jpg"
+      "description": "Watch this video and learn how to get the very highest quality facial animation via MetaHuman Animator using video sources such ...",
+      "published_at": "2025-12-05T14:40:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PgzSGQnWVcU/hqdefault.jpg"
+    },
+    {
+      "title": "Live Link Hub Tips | Unreal Engine Animation Hub",
+      "video_id": "JdaXti950vg",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video for a deep dive into the different features of Live Link Hub, including the management, recording, and playback of ...",
+      "published_at": "2025-12-05T14:40:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JdaXti950vg/hqdefault.jpg"
     }
   ]
 }

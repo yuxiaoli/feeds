@@ -1,24 +1,48 @@
 {
-  "fetched_at": "2025-12-14T00:32:19.627578",
+  "fetched_at": "2025-12-21T00:32:03.371516",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 10,
+  "count": 6,
   "videos": [
     {
-      "title": "Open Source Friday: Open WebUI - a user-friendly self-hosted AI platform",
-      "video_id": "Ly3T8sHvWyc",
+      "title": "Replay: Quincy Larson on 10 Years of freeCodeCamp",
+      "video_id": "5sa58eNiglM",
       "channel_title": "GitHub",
-      "description": "This week on Open Source Friday, we're talking with Open WebUI, a user-friendly self-hosted AI platform that makes it easier to ...",
-      "published_at": "2025-12-13T06:48:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ly3T8sHvWyc/hqdefault.jpg"
+      "description": "Join us for an inspiring conversation with Quincy Larson, the founder of freeCodeCamp—the world's largest free coding education ...",
+      "published_at": "2025-12-20T06:31:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5sa58eNiglM/hqdefault.jpg"
     },
     {
-      "title": "[pt-BR🇧🇷] Open Source Friday Brasil com Karina Peres",
-      "video_id": "gCFWwr-eiLU",
+      "title": "Rubber Duck Thursdays - Come cowork and code!",
+      "video_id": "mGTWMJ7JHNs",
       "channel_title": "GitHub",
-      "description": "Nesta sexta tem Open Source Friday Brasil! Toda sexta-feira exploramos projetos Open Source brasileiros e conversamos com ...",
-      "published_at": "2025-12-13T04:58:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gCFWwr-eiLU/hqdefault.jpg"
+      "description": "Cassidy on the GitHub dev advocacy team is here to chat with you about your questions, and maybe even build a thing or two!",
+      "published_at": "2025-12-19T08:10:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mGTWMJ7JHNs/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays - Let&#39;s build our way into 2026!",
+      "video_id": "re80VvDuNgA",
+      "channel_title": "GitHub",
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. This will be our last ...",
+      "published_at": "2025-12-19T00:18:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/re80VvDuNgA/hqdefault.jpg"
+    },
+    {
+      "title": "The new role of the developer in the AI era",
+      "video_id": "B345wIc9AqM",
+      "channel_title": "GitHub",
+      "description": "How is the developer's relationship with AI evolving? Eirini Kalliamvakou explains that as developers experiment more with AI, ...",
+      "published_at": "2025-12-18T20:21:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B345wIc9AqM/hqdefault.jpg"
+    },
+    {
+      "title": "Manage all Copilot agents in one place with Mission Control | GitHub Checkout",
+      "video_id": "lQrr1M7AeiY",
+      "channel_title": "GitHub",
+      "description": "In this episode of GitHub Checkout, Andrea Griffiths talks with Senior Product Manager Ellie Bennett about the new \"Mission ...",
+      "published_at": "2025-12-16T20:49:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lQrr1M7AeiY/hqdefault.jpg"
     },
     {
       "title": "Transforming Engineering Leadership with AI and Metrics",
@@ -27,62 +51,6 @@
       "description": "Join GitHub's Andrea Griffiths and Jeff Keyes, Field CTO at Allstacks, to explore how the Intelligence Engine and AI-powered deep ...",
       "published_at": "2025-12-12T23:00:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/uBw1Q0L6qwU/hqdefault_live.jpg"
-    },
-    {
-      "title": "Beyond the stats: Eirini Kalliamvakou&#39;s take on the 2025 Octoverse report",
-      "video_id": "riTyEDJdpEw",
-      "channel_title": "GitHub",
-      "description": "Join Eirini Kalliamvakou, Research Advisor at GitHub, as she shares her expert insights on the findings from the Octoverse 2025 ...",
-      "published_at": "2025-12-12T15:01:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/riTyEDJdpEw/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays - Come chat with the GitHub team!",
-      "video_id": "35poA93sVVA",
-      "channel_title": "GitHub",
-      "description": "Come cowork and chat with Cassidy and Kedasha on the GitHub team and ask your questions!",
-      "published_at": "2025-12-12T08:58:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/35poA93sVVA/hqdefault.jpg"
-    },
-    {
-      "title": "Why India is the world&#39;s fastest-growing developer hub | Octoverse 2025",
-      "video_id": "aa3GrqEhj2Q",
-      "channel_title": "GitHub",
-      "description": "Join Karan M V, GitHub's International Developer Relations Director, as he unpacks the staggering findings from the 2025 ...",
-      "published_at": "2025-12-12T05:18:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aa3GrqEhj2Q/hqdefault.jpg"
-    },
-    {
-      "title": "Quinta do Patinho, quack",
-      "video_id": "-v8Pd25zytE",
-      "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2025-12-12T04:48:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-v8Pd25zytE/hqdefault.jpg"
-    },
-    {
-      "title": "Event in Spanish: Jueves de Quack con Carlos Azaustre",
-      "video_id": "1fkKwbUd40I",
-      "channel_title": "GitHub",
-      "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde @CarlosAzaustre y @acolombiadev discutirán las ultimas ...",
-      "published_at": "2025-12-12T04:21:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1fkKwbUd40I/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays - Let&#39;s build down tech debt",
-      "video_id": "OgFacJ6lIBc",
-      "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. Last week, we ...",
-      "published_at": "2025-12-11T23:56:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OgFacJ6lIBc/hqdefault.jpg"
-    },
-    {
-      "title": "Model Context Protocol: how MCP went from blog post to the Linux Foundation",
-      "video_id": "DBaFFYyUSl8",
-      "channel_title": "GitHub",
-      "description": "The Model Context Protocol (MCP) started as a small idea for an open way for AI models to connect to tools, systems, and ...",
-      "published_at": "2025-12-09T21:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DBaFFYyUSl8/hqdefault.jpg"
     }
   ]
 }

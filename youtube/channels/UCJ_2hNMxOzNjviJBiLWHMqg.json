@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-14T00:32:32.496703",
+  "fetched_at": "2025-12-21T00:32:15.879675",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "The Colosseum: Rome’s Mind Control Machine",
+      "video_id": "UJj58txYaTU",
+      "channel_title": "DamiLee",
+      "description": "Build your Roman Empire with Anno 117: Pax Romana: https://www.ubisoft.com/en-us/game/anno/117-pax-romana My Merch: ...",
+      "published_at": "2025-12-19T16:30:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UJj58txYaTU/hqdefault.jpg"
+    },
     {
       "title": "Future of Lunar Living",
       "video_id": "tRhRwMB70LY",
@@ -75,14 +83,6 @@
       "description": "We are looking for a local architectural assistant/intern to join our team. ☺️ If you're into architecture and storytelling, check out ...",
       "published_at": "2025-11-19T16:30:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/idBTe4l6biI/hqdefault.jpg"
-    },
-    {
-      "title": "Sanctuary at the DMZ?",
-      "video_id": "kTfJxt5lSlQ",
-      "channel_title": "DamiLee",
-      "description": "The DMZ is one of the most heavily protected borders on Earth, yet it's become an accidental sanctuary where wildlife has ...",
-      "published_at": "2025-11-17T16:13:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kTfJxt5lSlQ/hqdefault.jpg"
     }
   ]
 }

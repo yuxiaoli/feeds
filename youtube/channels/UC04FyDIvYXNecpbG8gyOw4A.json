@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-12-14T00:32:11.066369",
+  "fetched_at": "2025-12-21T00:31:55.165282",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Navigating the World with Ray-Ban Meta",
+      "video_id": "0EobTQnkIgc",
+      "channel_title": "Meta",
+      "description": "Paul is a children's book author, creator, and the blind half of interabled couple @MatthewandPaulOfficial. With Ray-Ban Meta ...",
+      "published_at": "2025-12-18T17:23:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0EobTQnkIgc/hqdefault.jpg"
+    },
+    {
+      "title": "Liquid clay transforms into an iridescent ornament via @turndesignstudio",
+      "video_id": "nMh6NbF1biQ",
+      "channel_title": "Meta",
+      "description": "Watch Kenny Sing of @turndesignstudio transform liquid clay into stunning ornaments coated in iridescent copper, a unique ...",
+      "published_at": "2025-12-17T16:05:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nMh6NbF1biQ/hqdefault.jpg"
+    },
     {
       "title": "He&#39;s Fine, He Has Water",
       "video_id": "8hnGjPlg4dc",
@@ -67,22 +83,6 @@
       "description": "Salventius uses Meta Quest to creates hand‑drawn, one‑line sculptures, then introduces the items into the real world with 3D ...",
       "published_at": "2025-11-06T15:30:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/yVKcxkWfKo0/hqdefault.jpg"
-    },
-    {
-      "title": "Haunted Office",
-      "video_id": "lcm8arnc9ew",
-      "channel_title": "Meta",
-      "description": "POV: you're a ghost at the Meta office.",
-      "published_at": "2025-10-31T18:46:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lcm8arnc9ew/hqdefault.jpg"
-    },
-    {
-      "title": "Meta AI Magic",
-      "video_id": "cMb8YaEX_6g",
-      "channel_title": "Meta",
-      "description": "it's not magic - it's Meta AI.",
-      "published_at": "2025-10-30T16:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cMb8YaEX_6g/hqdefault.jpg"
     }
   ]
 }

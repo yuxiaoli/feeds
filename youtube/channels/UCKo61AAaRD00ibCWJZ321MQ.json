@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-14T00:32:37.365264",
+  "fetched_at": "2025-12-21T00:32:20.487049",
   "channel_id": "UCKo61AAaRD00ibCWJZ321MQ",
   "channel_title": "SoKrispyMedia",
   "count": 10,
   "videos": [
+    {
+      "title": "Drawing a Minecraft Pickaxe | Chalk Warfare",
+      "video_id": "1psV1miZVL8",
+      "channel_title": "SoKrispyMedia",
+      "description": "Drawing a Chalk Warfare pickaxe based on comments from previous videos! Leave a comment what you'd like to see drawn next!",
+      "published_at": "2025-12-15T02:30:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1psV1miZVL8/hqdefault.jpg"
+    },
     {
       "title": "Realistic Rick and Morty | BEFORE &amp; AFTER #vfx",
       "video_id": "UiMLVW1CFRU",
@@ -75,14 +83,6 @@
       "description": "Behind the scenes look of the #cgi of our Action Film - Tesla Robots Fight Back.",
       "published_at": "2025-01-25T15:01:14Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xRCFtukHZ0A/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Robots Fight Back | Action Film",
-      "video_id": "LyP7gsp2g8w",
-      "channel_title": "SoKrispyMedia",
-      "description": "The new Tesla Software full self driving update is pretty intense Directed by Sam Wickert Subscribe to the actors in this film ...",
-      "published_at": "2025-01-12T14:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LyP7gsp2g8w/hqdefault.jpg"
     }
   ]
 }

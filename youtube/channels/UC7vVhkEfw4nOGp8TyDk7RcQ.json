@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-14T00:32:20.375691",
+  "fetched_at": "2025-12-21T00:32:04.061062",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 25,
   "videos": [
+    {
+      "title": "The Humanoid Mission in Manufacturing | Boston Dynamics Tech Talk",
+      "video_id": "SRZ9E48B6aM",
+      "channel_title": "Boston Dynamics",
+      "description": "In this conversation, Zack Jackowski, General Manager and Vice President, Atlas and Alberto Rodriguez, Director of Robot ...",
+      "published_at": "2025-12-17T18:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SRZ9E48B6aM/hqdefault.jpg"
+    },
     {
       "title": "Why does Atlas stand up like that?  #bostondynamics #atlas #robot",
       "video_id": "7MXQG-f9jtk",
@@ -195,14 +203,6 @@
       "description": "Ash Grove Cement, a CRH Company, has employed Spot to help boost efficiency and safety during site inspections in their ...",
       "published_at": "2025-02-25T14:40:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4s7_ng-pSow/hqdefault.jpg"
-    },
-    {
-      "title": "2024 In Review",
-      "video_id": "ebwVjuyuaFY",
-      "channel_title": "Boston Dynamics",
-      "description": "Take a look back at some of our 2024 highlights and get ready for even more in 2025!",
-      "published_at": "2025-01-07T15:08:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ebwVjuyuaFY/hqdefault.jpg"
     }
   ]
 }

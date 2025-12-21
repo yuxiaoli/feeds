@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-12-14T00:32:18.233390",
+  "fetched_at": "2025-12-21T00:32:02.063812",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Charging Passport | Tesla",
+      "video_id": "J_IomhTi7ms",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-12-18T21:41:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J_IomhTi7ms/hqdefault.jpg"
+    },
+    {
+      "title": "Icy to cozy with a tap | Tesla",
+      "video_id": "bxLgg_FNHj8",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-12-15T22:35:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bxLgg_FNHj8/hqdefault.jpg"
+    },
     {
       "title": "Powering Chile&#39;s Renewable Future | Megapack",
       "video_id": "_iytMHw6uJY",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-10-10T14:37:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/L0phoGxEeic/hqdefault.jpg"
-    },
-    {
-      "title": "Change Today for Tomorrow | Megapack",
-      "video_id": "_3QAXxUjpbU",
-      "channel_title": "Tesla",
-      "description": "In Western Australia's South West, 2.2 GWh of Tesla Megapacks are now powering Neoen's Collie Battery 1 and 2.",
-      "published_at": "2025-10-09T19:26:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_3QAXxUjpbU/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Model Y Standard &amp; Model 3 Standard",
-      "video_id": "gQ92igDGBHQ",
-      "channel_title": "Tesla",
-      "description": "Meet our most affordable vehicles – Ultra low cost of ownership, engineered for safety & comes with the best Tesla features you ...",
-      "published_at": "2025-10-07T18:45:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gQ92igDGBHQ/hqdefault.jpg"
     }
   ]
 }

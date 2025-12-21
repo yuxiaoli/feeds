@@ -1,14 +1,30 @@
 {
-  "fetched_at": "2025-12-14T00:32:15.313564",
+  "fetched_at": "2025-12-21T00:31:59.324560",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
     {
+      "title": "让AI送外卖? 来看字节跳动刚刚发布的 doubao-seed-1.8 Agent 能力评测!",
+      "video_id": "iDvFypXBrQ4",
+      "channel_title": "Karminski-牙医",
+      "description": "大家经常看到我的评测都是让大模型写代码, 今天咱们整个新活, 如果让大模型送外卖, 看看大模型能赚多少钱? 为了这个测试我写了个 ...",
+      "published_at": "2025-12-18T08:07:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iDvFypXBrQ4/hqdefault.jpg"
+    },
+    {
+      "title": "一秒生成高斯点云? Apple新模型SHARP实测!",
+      "video_id": "S5F_3RA1eJ4",
+      "channel_title": "Karminski-牙医",
+      "description": "Apple 刚刚推出了新的模型和配套框架SHARP, 这个模型可以实现单张图像生成逼真的3D场景, 尤其是模型大小只有2.8GB, 大概 ...",
+      "published_at": "2025-12-18T05:34:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S5F_3RA1eJ4/hqdefault.jpg"
+    },
+    {
       "title": "GPT-5.2 实测! 美是真的美, 卡是真的卡",
       "video_id": "ct1PUBip_LY",
       "channel_title": "Karminski-牙医",
-      "description": "给大家带来 GPT 5.2 thinking 和 pro 的测试结果: 说实话, 这两个模型差距并不大, 但是价格却差了11倍. 大象牙膏测试, 这个感觉退步 ...",
+      "description": "给大家带来GPT 5.2 thinking 和pro 的测试结果: 说实话, 这两个模型差距并不大, 但是价格却差了11倍. 大象牙膏测试, 这个感觉退步了, ...",
       "published_at": "2025-12-12T06:44:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ct1PUBip_LY/hqdefault.jpg"
     },
@@ -67,22 +83,6 @@
       "description": "给大家带来Qwen3-Max-Thinking-Preview 的测试结果: 大象牙膏测试这个大家看上去黑乎乎的, 实际上是光照有问题, 我给大家拉近了 ...",
       "published_at": "2025-11-03T06:31:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Ytx6qu3M4-c/hqdefault.jpg"
-    },
-    {
-      "title": "Cursor 终于有自己的大模型啦！来看实测！",
-      "video_id": "r34YWGVGZGg",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来Cursor-Composer-1 的测试结果: 大象牙膏测试中, 效果一般, 而且输出特别不稳定, 一会效果像下雨, 一会又像泡泡一样飘 ...",
-      "published_at": "2025-10-30T00:28:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r34YWGVGZGg/hqdefault.jpg"
-    },
-    {
-      "title": "Cursor 推出炼蛊模式！一口气能开8个代理！",
-      "video_id": "BB2-NwEP0EI",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来Cursor 2.0 更新内容！这个分量的确够得上一个大版本更新。 首先，推出了炼蛊模式，你最多可以开8个Agent 并行运行 ...",
-      "published_at": "2025-10-29T21:44:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BB2-NwEP0EI/hqdefault.jpg"
     }
   ]
 }

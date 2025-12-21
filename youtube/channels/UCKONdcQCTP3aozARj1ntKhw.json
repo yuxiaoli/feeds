@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-14T00:32:34.558619",
+  "fetched_at": "2025-12-21T00:32:17.927059",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Introducing the Warp Platform Beta",
+      "video_id": "qTMOJoga9do",
+      "channel_title": "Warp",
+      "description": "Learn about our agents platform and session sharing: ...",
+      "published_at": "2025-12-19T19:46:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qTMOJoga9do/hqdefault.jpg"
+    },
     {
       "title": "Let&#39;s build an advent calendar with Warp agents",
       "video_id": "bx9JOhz58T8",
@@ -75,14 +83,6 @@
       "description": "Dylan Field and Lenny Ratchinsky discuss Warp and how Figma tackles blockers!",
       "published_at": "2025-11-15T18:57:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jaYC3tuo9MY/hqdefault.jpg"
-    },
-    {
-      "title": "Does re-writing from the ground-up make sense?",
-      "video_id": "vC6Dr-tnhoA",
-      "channel_title": "Warp",
-      "description": "Does re-writing from the ground-up make sense? For founders, probably not!",
-      "published_at": "2025-11-14T21:04:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vC6Dr-tnhoA/hqdefault.jpg"
     }
   ]
 }

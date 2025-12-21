@@ -1,40 +1,64 @@
 {
-  "fetched_at": "2025-12-14T00:32:36.644886",
+  "fetched_at": "2025-12-21T00:32:19.844901",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "AI &amp; Text to SQL: How LLMs &amp; Schema Power Data Analytics",
-      "video_id": "S5ezVVJhQmE",
+      "title": "Agentic AI Meets Shadow AI : Zero Trust Security for AI Automation",
+      "video_id": "IaJ2jXmljmM",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Lakehouse Engineer? Register now and use code IBMTechYT20 for 20% off of your ...",
-      "published_at": "2025-12-13T12:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S5ezVVJhQmE/hqdefault.jpg"
+      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-12-20T12:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IaJ2jXmljmM/hqdefault.jpg"
     },
     {
-      "title": "New AI Model Launches: Boost or Burnout?",
-      "video_id": "WudphUGIlVg",
+      "title": "Why Disney Chose OpenAI Now",
+      "video_id": "dfGl44qUIY0",
       "channel_title": "IBM Technology",
-      "description": "Are new AI models truly improving our lives, or just racing for attention? Experts weigh in on AI fatigue amidst the GPT-5.2 vs.",
-      "published_at": "2025-12-12T17:01:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WudphUGIlVg/hqdefault.jpg"
+      "description": "Disney's investing USD 1B in OpenAI—flipping the AI IP battle. Are other brands missing out? The content race just changed ...",
+      "published_at": "2025-12-19T17:01:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dfGl44qUIY0/hqdefault.jpg"
     },
     {
-      "title": "GPT-5.2 code red &amp; AWS Nova models drop",
-      "video_id": "nvAScf8YhzE",
+      "title": "Disney&#39;s AI bet: USD 1B OpenAI content deal explained",
+      "video_id": "dJTwev1O-mE",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast→ https://ibm.biz/BdbTEw Should we care about GPT-5.2? This week on Mixture of Experts, we analyze the ...",
-      "published_at": "2025-12-12T11:01:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nvAScf8YhzE/hqdefault.jpg"
+      "description": "Explore the podcast→ https://ibm.biz/BdbkC4 Why did Disney pay OpenAI a billion dollars to use their characters? This week on ...",
+      "published_at": "2025-12-19T11:01:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dJTwev1O-mE/hqdefault.jpg"
     },
     {
-      "title": "Latest Gmail hack",
-      "video_id": "Z2GR4kh4MJI",
+      "title": "Securing AI browsers",
+      "video_id": "I1xVDxDLfDA",
       "channel_title": "IBM Technology",
-      "description": "Hackers are locking Gmail users out by changing account ages to 10. Learn how this scam works and why it could scale into a ...",
-      "published_at": "2025-12-11T17:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z2GR4kh4MJI/hqdefault.jpg"
+      "description": "AI browsers act on your behalf—but can you trust them? Learn why treating AI autonomy like privileged users could change ...",
+      "published_at": "2025-12-18T20:45:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I1xVDxDLfDA/hqdefault.jpg"
+    },
+    {
+      "title": "AI Tool Calling via Natural Language: LLMs, APIs &amp; Docker in Action",
+      "video_id": "gosZ_vqXkMI",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-12-18T12:01:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gosZ_vqXkMI/hqdefault.jpg"
+    },
+    {
+      "title": "AI browser bans and the top software flaws of 2025",
+      "video_id": "8jWAQiSqDVU",
+      "channel_title": "IBM Technology",
+      "description": "Explore the podcast → https://ibm.biz/BdbkBS Learn more about cybersecurity →https://ibm.biz/BdbkBv AI browsers are neat—but ...",
+      "published_at": "2025-12-17T11:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8jWAQiSqDVU/hqdefault.jpg"
+    },
+    {
+      "title": "Flexible Orchestration for AI &amp; ML: Beyond Kubernetes Automation",
+      "video_id": "YsEnqWnZcME",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Mainframe Modernization Architect? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-12-16T12:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YsEnqWnZcME/hqdefault.jpg"
     },
     {
       "title": "Anatomy of AI Agents: Inside LLMs, RAG Systems, &amp; Generative AI",
@@ -45,36 +69,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CAKGKkWf0tI/hqdefault.jpg"
     },
     {
-      "title": "React2Shell makes waves, WormGPT falls flat and the latest threat to your Gmail account",
-      "video_id": "LWGdsBMPcnY",
-      "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/BdbQ9z Just how big a deal is React2Shell? Depending on who you ask, it's either a ...",
-      "published_at": "2025-12-10T11:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LWGdsBMPcnY/hqdefault.jpg"
-    },
-    {
       "title": "Mistral 3 vs DeepSeek-V3.2",
       "video_id": "0JXOFoucK78",
       "channel_title": "IBM Technology",
       "description": "Does open source AI win? Mistral 3 and DeepSeek-V3.2 make the case. Different paths, same result: AI efficiency. Watch the ...",
       "published_at": "2025-12-09T17:00:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0JXOFoucK78/hqdefault.jpg"
-    },
-    {
-      "title": "Red Team vs Blue Team: Ethical Hacking, CTF &amp; Cybersecurity Battles",
-      "video_id": "xHCCIc9n0xE",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
-      "published_at": "2025-12-09T12:02:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xHCCIc9n0xE/hqdefault.jpg"
-    },
-    {
-      "title": "RAG vs Agentic AI: How LLMs Connect Data for Smarter AI",
-      "video_id": "fB2JQXEH_94",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-12-08T12:01:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fB2JQXEH_94/hqdefault.jpg"
     },
     {
       "title": "Why AI Agents Go Rogue",
