@@ -1,48 +1,40 @@
 {
-  "fetched_at": "2025-12-21T00:32:01.376941",
+  "fetched_at": "2025-12-28T00:33:31.358390",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "This is key to know as a developer!",
-      "video_id": "JMJZn2PfP8s",
+      "title": "Best advice for beginner devs.",
+      "video_id": "a3aNeAw1wZo",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-12-20T00:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JMJZn2PfP8s/hqdefault.jpg"
+      "published_at": "2025-12-27T19:17:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a3aNeAw1wZo/hqdefault.jpg"
     },
     {
-      "title": "How to Run LLMs Locally - Full Guide",
-      "video_id": "km5-0jhv0JI",
-      "channel_title": "Tech With Tim",
-      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
-      "published_at": "2025-12-19T13:01:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/km5-0jhv0JI/hqdefault.jpg"
-    },
-    {
-      "title": "This Python feature will simplify your life.",
-      "video_id": "ts4nhTDerjA",
+      "title": "Have you heard of this before?",
+      "video_id": "GF-X1det0R8",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-12-19T00:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ts4nhTDerjA/hqdefault.jpg"
+      "published_at": "2025-12-27T00:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GF-X1det0R8/hqdefault.jpg"
     },
     {
-      "title": "How to get a machine learning engineer job fast - Without a uni degree",
-      "video_id": "ULmOZY3aR1A",
+      "title": "If you&#39;re a developer, this could be ruining your portfolio.",
+      "video_id": "ba-iRNOEQAY",
       "channel_title": "Tech With Tim",
-      "description": "These are three of the best Machine Learning Engineer resources I recommend: Machine Learning Fundamentals w/ Python ...",
-      "published_at": "2025-12-17T12:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ULmOZY3aR1A/hqdefault.jpg"
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2025-12-26T19:59:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ba-iRNOEQAY/hqdefault.jpg"
     },
     {
-      "title": "Genspark&#39;s Super AI Agent is INSANE",
-      "video_id": "ayUZdS3ikqQ",
+      "title": "Master Python Requests In 15 Minutes. Call Any API",
+      "video_id": "Xnbef8F_Yfc",
       "channel_title": "Tech With Tim",
-      "description": "Try Genspark with free credits available upon signup. The wildest part? Genspark is offering unlimited usage of the AI Chat and AI ...",
-      "published_at": "2025-12-15T13:37:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ayUZdS3ikqQ/hqdefault.jpg"
+      "description": "To learn for free on Brilliant, go to https://brilliant.org/techwithtim . Brilliant's also given our viewers 20% off an annual Premium ...",
+      "published_at": "2025-12-22T13:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xnbef8F_Yfc/hqdefault.jpg"
     },
     {
       "title": "The only video you need to watch if you want to become a software engineer!",
@@ -83,6 +75,14 @@
       "description": "My Software Development Program: ...",
       "published_at": "2025-03-24T21:17:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FlsrKv_xIyg/hqdefault.jpg"
+    },
+    {
+      "title": "You are never really gonna get anything done if you don&#39;t commit to...",
+      "video_id": "71-XeR-r1aA",
+      "channel_title": "Tech With Tim",
+      "description": "Understanding this in your coding career.",
+      "published_at": "2025-01-05T20:45:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/71-XeR-r1aA/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-21T00:32:19.225294",
+  "fetched_at": "2025-12-28T00:33:49.539436",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 25,
   "videos": [
+    {
+      "title": "2025年，人形机器人走到哪一步了？｜机器人系列｜具身智能年度盘点",
+      "video_id": "qs0ovkaacls",
+      "channel_title": "硅谷101",
+      "description": "这是一期机器人系列的2025年综述，详细的算法、开闭源派、数据、硬件等单集很快上线～ 2025年，具身智能行业经历了一场从“ ...",
+      "published_at": "2025-12-24T00:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qs0ovkaacls/hqdefault.jpg"
+    },
     {
       "title": "派拉蒙百年兴衰史：80亿卖身甲骨文背后的传媒帝国大洗牌",
       "video_id": "f41vPIkpYh4",
@@ -181,7 +189,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Z3G7k30vsAw/hqdefault.jpg"
     },
     {
-      "title": "当机器人学会开可乐：深聊灵巧手的“不可能三角”与六大技术门派｜机器人专题",
+      "title": "当机器人学会开可乐：深聊灵巧手的“不可能三角”与六大技术门派｜机器人系列",
       "video_id": "9RMvKWHgyF8",
       "channel_title": "硅谷101",
       "description": "让机器人学会拧开可乐瓶，竟然比让它学会后空翻还要难上十倍？ 硅谷101开启机器人系列特辑，第一期我们就来深度解析机器人 ...",
@@ -195,14 +203,6 @@
       "description": "【AI应用实验室系列】总觉得AI只是硅谷精英的“自嗨”？这次我们走出硅谷，亲自到拉斯维加斯超热闹的创业大赛CoCreate看看！",
       "published_at": "2025-09-23T00:15:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/MDNtfUTNvb4/hqdefault.jpg"
-    },
-    {
-      "title": "预测未来，还是操纵未来？Polymarket的崛起之路与争议【深度】",
-      "video_id": "TYOw0FHxdNQ",
-      "channel_title": "硅谷101",
-      "description": "硅谷101的年度线下科技大会又回来啦！早鸟票倒计时！https://luma.com/mtqq79ii 【硅谷101粉丝特享折扣码：VALLEY101FANS】 ...",
-      "published_at": "2025-09-12T20:24:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TYOw0FHxdNQ/hqdefault.jpg"
     }
   ]
 }

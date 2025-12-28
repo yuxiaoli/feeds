@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2025-12-21T00:32:31.486391",
+  "fetched_at": "2025-12-28T00:34:02.143078",
   "channel_id": "UCWhwybsQg-EeBJpsqtmbscw",
   "channel_title": "JomaClass",
-  "count": 10,
+  "count": 25,
   "videos": [
+    {
+      "title": "Maximum Depth of Binary Tree (Leetcode 104) | LeetCode Tutorial",
+      "video_id": "1-acyiA6ypE",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-27T16:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1-acyiA6ypE/hqdefault.jpg"
+    },
+    {
+      "title": "Maximum Subarray (Leetcode 53) | LeetCode Tutorial",
+      "video_id": "_saNikLSZE0",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-26T16:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_saNikLSZE0/hqdefault.jpg"
+    },
+    {
+      "title": "Make The Largest Number (Leetcode 179) | LeetCode Tutorial",
+      "video_id": "K67rvKH3IY4",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-25T16:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K67rvKH3IY4/hqdefault.jpg"
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters (Leetcode 3) | LeetCode Tutorial",
+      "video_id": "RzRtAkA6Z0A",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-24T16:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RzRtAkA6Z0A/hqdefault.jpg"
+    },
+    {
+      "title": "Longest Increasing Subsequence (Leetcode 300) | LeetCode Tutorial",
+      "video_id": "MNug4GfuObg",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-23T16:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MNug4GfuObg/hqdefault.jpg"
+    },
+    {
+      "title": "Jump to The End (Leetcode 45) | LeetCode Tutorial",
+      "video_id": "SvxEG4H0GIs",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-22T16:00:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SvxEG4H0GIs/hqdefault.jpg"
+    },
+    {
+      "title": "Invert Binary Tree (Leetcode 226) | LeetCode Tutorial",
+      "video_id": "40AMFfSCHE0",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-21T16:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/40AMFfSCHE0/hqdefault.jpg"
+    },
     {
       "title": "Intersection of Two Linked Lists (Leetcode 160) | LeetCode Tutorial",
       "video_id": "uvdX6CFQUz0",
@@ -83,6 +139,70 @@
       "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
       "published_at": "2025-12-11T16:00:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NUSJ5Ncp9xc/hqdefault.jpg"
+    },
+    {
+      "title": "Valid Palindrome (Leetcode 125) | LeetCode Tutorial",
+      "video_id": "M4e64qc70_Y",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-10T16:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M4e64qc70_Y/hqdefault.jpg"
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock (Leetcode 121) | LeetCode Tutorial",
+      "video_id": "Kxml2OfG7F4",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-09T16:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Kxml2OfG7F4/hqdefault.jpg"
+    },
+    {
+      "title": "Balanced Binary Tree (Leetcode 1382) | LeetCode Tutorial",
+      "video_id": "vAFy8SCT02A",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-08T16:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vAFy8SCT02A/hqdefault.jpg"
+    },
+    {
+      "title": "Arithmetic Binary Tree (Leetcode 1628) | LeetCode Tutorial",
+      "video_id": "hnykO1gIzRk",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-07T16:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hnykO1gIzRk/hqdefault.jpg"
+    },
+    {
+      "title": "Find All Anagrams in a String (Leetcode 438) | LeetCode Tutorial",
+      "video_id": "ROrxyd96cQU",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-06T16:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ROrxyd96cQU/hqdefault.jpg"
+    },
+    {
+      "title": "3 Sum (Leetcode 15) | LeetCode Tutorial",
+      "video_id": "9JYTeff2K10",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-05T16:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9JYTeff2K10/hqdefault.jpg"
+    },
+    {
+      "title": "Overview of JavaScript | Web Development Concepts",
+      "video_id": "TuWR-Zb2jhs",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-04T16:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TuWR-Zb2jhs/hqdefault.jpg"
+    },
+    {
+      "title": "Developing a Website | Web Development Concepts",
+      "video_id": "fqyQMqVolOA",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-03T16:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fqyQMqVolOA/hqdefault.jpg"
     }
   ]
 }

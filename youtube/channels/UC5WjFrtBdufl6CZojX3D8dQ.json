@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-12-21T00:32:02.063812",
+  "fetched_at": "2025-12-28T00:33:32.066432",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Santa Mode 🎅",
+      "video_id": "tqvdJBPmStg",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-12-25T18:44:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tqvdJBPmStg/hqdefault.jpg"
+    },
+    {
+      "title": "Tesla Puppytaxi",
+      "video_id": "B-RKSzxbo-k",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-12-23T02:58:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B-RKSzxbo-k/hqdefault.jpg"
+    },
     {
       "title": "Charging Passport | Tesla",
       "video_id": "J_IomhTi7ms",
@@ -67,22 +83,6 @@
       "description": "Start of call: https://youtu.be/GQ9S7xbkGAY?t=594.",
       "published_at": "2025-10-22T22:45:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GQ9S7xbkGAY/hqdefault.jpg"
-    },
-    {
-      "title": "Move any Model Y seat without leaving your seat",
-      "video_id": "mJxWpWRK4lw",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-10-22T16:22:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mJxWpWRK4lw/hqdefault.jpg"
-    },
-    {
-      "title": "TRON Mode",
-      "video_id": "L0phoGxEeic",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-10-10T14:37:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L0phoGxEeic/hqdefault.jpg"
     }
   ]
 }

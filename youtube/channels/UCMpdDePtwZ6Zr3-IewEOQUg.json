@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-21T00:32:23.295436",
+  "fetched_at": "2025-12-28T00:33:53.841629",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "智力巔峰：量子場論、標準模型和大型粒子對撞機",
+      "video_id": "x5Gi1erIXZM",
+      "channel_title": "科學漫聊",
+      "description": "今天是一期內容比較深的節目，我看其他科普欄目講的很少，它是關於量子場論、標準模型，一路講到大型粒子對撞機到底是怎樣 ...",
+      "published_at": "2025-12-21T18:13:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x5Gi1erIXZM/hqdefault.jpg"
+    },
     {
       "title": "地球：巧合還是特調？",
       "video_id": "SRzmcumDFS8",
@@ -75,14 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-10-26T07:32:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-KVK1RvgSuw/hqdefault.jpg"
-    },
-    {
-      "title": "[虚构科幻故事]當AI與外星文明對話：三天，換走了整個人類的知識",
-      "video_id": "v-JrZKuprB8",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-10-21T13:45:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v-JrZKuprB8/hqdefault.jpg"
     }
   ]
 }

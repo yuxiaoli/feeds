@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-21T00:32:32.841052",
+  "fetched_at": "2025-12-28T00:34:03.468285",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Kirana Store with ChatGPT",
+      "video_id": "6bttVzM1tps",
+      "channel_title": "OpenAI",
+      "description": "Turn your hard work into something big, with ChatGPT. : “Ajib Dastan Hai Yeh” by Lata Mangeshkar [Saregama Music]",
+      "published_at": "2025-12-22T19:44:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6bttVzM1tps/hqdefault.jpg"
+    },
     {
       "title": "ChatGPT Images",
       "video_id": "DPBtd57p5Mg",
@@ -75,14 +83,6 @@
       "description": "Philips is building AI literacy into a company-wide capability, training executives, running use case challenges, and rolling out ...",
       "published_at": "2025-11-14T06:00:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LXwGSHZXbKs/hqdefault.jpg"
-    },
-    {
-      "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
-      "video_id": "6TXXMTYQtHk",
-      "channel_title": "OpenAI",
-      "description": "With OpenAI, Notion became a natively AI-powered workspace. Their integration of GPT-4o, GPT-4o mini, embeddings, and now ...",
-      "published_at": "2025-11-14T05:05:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6TXXMTYQtHk/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-12-21T00:31:55.165282",
+  "fetched_at": "2025-12-28T00:33:24.871769",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Let Him Cook",
+      "video_id": "bj4r-vDdI1g",
+      "channel_title": "Meta",
+      "description": "let him cook! (at least with Meta AI's help)",
+      "published_at": "2025-12-23T19:54:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bj4r-vDdI1g/hqdefault.jpg"
+    },
+    {
+      "title": "That&#39;s a Wrap",
+      "video_id": "YO8FKCOzz04",
+      "channel_title": "Meta",
+      "description": "He's the gift that keeps on giving.",
+      "published_at": "2025-12-22T15:57:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YO8FKCOzz04/hqdefault.jpg"
+    },
     {
       "title": "Navigating the World with Ray-Ban Meta",
       "video_id": "0EobTQnkIgc",
@@ -67,22 +83,6 @@
       "description": "Our Segment Anything Model, SAM 3, is on the scene. SAM 3 can detect and track objects more precisely than ever, which can be ...",
       "published_at": "2025-11-19T16:10:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0jo6BRcTJbo/hqdefault.jpg"
-    },
-    {
-      "title": "Boz To The Future # 24: The Future According to Francois Chardavoine",
-      "video_id": "WpFCYR3f46U",
-      "channel_title": "Meta",
-      "description": "Welcome back to another episode of Boz To The Future, hosted by Meta CTO and Head of Reality Labs Andrew \"Boz\" Bosworth.",
-      "published_at": "2025-11-10T16:50:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WpFCYR3f46U/hqdefault.jpg"
-    },
-    {
-      "title": "How these Quest sculptures become 3D art with @Salventius",
-      "video_id": "yVKcxkWfKo0",
-      "channel_title": "Meta",
-      "description": "Salventius uses Meta Quest to creates hand‑drawn, one‑line sculptures, then introduces the items into the real world with 3D ...",
-      "published_at": "2025-11-06T15:30:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yVKcxkWfKo0/hqdefault.jpg"
     }
   ]
 }

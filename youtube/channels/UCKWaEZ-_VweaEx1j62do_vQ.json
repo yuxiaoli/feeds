@@ -1,72 +1,32 @@
 {
-  "fetched_at": "2025-12-21T00:32:19.844901",
+  "fetched_at": "2025-12-28T00:33:50.261639",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Agentic AI Meets Shadow AI : Zero Trust Security for AI Automation",
-      "video_id": "IaJ2jXmljmM",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-12-20T12:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IaJ2jXmljmM/hqdefault.jpg"
-    },
-    {
-      "title": "Why Disney Chose OpenAI Now",
-      "video_id": "dfGl44qUIY0",
-      "channel_title": "IBM Technology",
-      "description": "Disney's investing USD 1B in OpenAI—flipping the AI IP battle. Are other brands missing out? The content race just changed ...",
-      "published_at": "2025-12-19T17:01:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dfGl44qUIY0/hqdefault.jpg"
-    },
-    {
-      "title": "Disney&#39;s AI bet: USD 1B OpenAI content deal explained",
-      "video_id": "dJTwev1O-mE",
-      "channel_title": "IBM Technology",
-      "description": "Explore the podcast→ https://ibm.biz/BdbkC4 Why did Disney pay OpenAI a billion dollars to use their characters? This week on ...",
-      "published_at": "2025-12-19T11:01:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dJTwev1O-mE/hqdefault.jpg"
-    },
-    {
-      "title": "Securing AI browsers",
-      "video_id": "I1xVDxDLfDA",
-      "channel_title": "IBM Technology",
-      "description": "AI browsers act on your behalf—but can you trust them? Learn why treating AI autonomy like privileged users could change ...",
-      "published_at": "2025-12-18T20:45:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I1xVDxDLfDA/hqdefault.jpg"
-    },
-    {
-      "title": "AI Tool Calling via Natural Language: LLMs, APIs &amp; Docker in Action",
-      "video_id": "gosZ_vqXkMI",
+      "title": "How to Use Agentic AI: LLMs, AI Agents &amp; Prompt Engineering in Action",
+      "video_id": "bwvfdFWR1RI",
       "channel_title": "IBM Technology",
       "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-12-18T12:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gosZ_vqXkMI/hqdefault.jpg"
+      "published_at": "2025-12-27T12:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bwvfdFWR1RI/hqdefault.jpg"
     },
     {
-      "title": "AI browser bans and the top software flaws of 2025",
-      "video_id": "8jWAQiSqDVU",
+      "title": "AI Code Generation: Wins, Fails and the Future",
+      "video_id": "oRRDAZtJLmk",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/BdbkBS Learn more about cybersecurity →https://ibm.biz/BdbkBv AI browsers are neat—but ...",
-      "published_at": "2025-12-17T11:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8jWAQiSqDVU/hqdefault.jpg"
+      "description": "Explore the podcast → https://ibm.biz/Bdbw6n What's the future of AI code generation? This week on Mixture of Experts, host Tim ...",
+      "published_at": "2025-12-26T11:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oRRDAZtJLmk/hqdefault.jpg"
     },
     {
-      "title": "Flexible Orchestration for AI &amp; ML: Beyond Kubernetes Automation",
-      "video_id": "YsEnqWnZcME",
+      "title": "AI Trends 2026: Quantum, Agentic AI &amp; Smarter Automation",
+      "video_id": "zt0JA5rxdfM",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Mainframe Modernization Architect? Register now and use code IBMTechYT20 for 20% off of your ...",
-      "published_at": "2025-12-16T12:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YsEnqWnZcME/hqdefault.jpg"
-    },
-    {
-      "title": "Anatomy of AI Agents: Inside LLMs, RAG Systems, &amp; Generative AI",
-      "video_id": "CAKGKkWf0tI",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-12-11T12:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CAKGKkWf0tI/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Register now and use code IBMTechYT20 for 20% ...",
+      "published_at": "2025-12-22T12:01:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zt0JA5rxdfM/hqdefault.jpg"
     },
     {
       "title": "Mistral 3 vs DeepSeek-V3.2",
@@ -83,6 +43,46 @@
       "description": "Kimi K2 can call 200+ tools, but goes off the rails fast. Here's why AI agents need frameworks to scale from prototype to production ...",
       "published_at": "2025-12-01T17:01:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XJQNTZFqJTQ/hqdefault.jpg"
+    },
+    {
+      "title": "AI agents in 2025: Why agentic commerce isn&#39;t ready for Black Friday yet",
+      "video_id": "SdNRWJ-oqjY",
+      "channel_title": "IBM Technology",
+      "description": "Explore the podcast → https://ibm.biz/BdbJ6K Will Black Friday 2025 be the breakout moment for agentic commerce? This week ...",
+      "published_at": "2025-11-28T11:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/hqdefault.jpg"
+    },
+    {
+      "title": "What Are Large Reasoning Models (LRMs)? Smarter AI Beyond LLMs",
+      "video_id": "enLbj0igyx4",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer v1? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2025-11-06T12:01:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/enLbj0igyx4/hqdefault.jpg"
+    },
+    {
+      "title": "Android malware that acts like a person and AI agents that act like malware",
+      "video_id": "iaZS1jer8MY",
+      "channel_title": "IBM Technology",
+      "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
+      "published_at": "2025-11-05T10:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
+    },
+    {
+      "title": "Can you spot the social engineering trap?",
+      "video_id": "Ys2IjNjdK2E",
+      "channel_title": "IBM Technology",
+      "description": "She spilled coffee on her resume… or was it bait? ☕   Discover how social engineers use human hacking and physical security ...",
+      "published_at": "2025-10-31T16:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ys2IjNjdK2E/hqdefault.jpg"
+    },
+    {
+      "title": "Decode Black Boxes with Explainable AI: Building Transparent AI Agents",
+      "video_id": "4_LIxSjc3H0",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-10-18T11:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4_LIxSjc3H0/hqdefault.jpg"
     }
   ]
 }

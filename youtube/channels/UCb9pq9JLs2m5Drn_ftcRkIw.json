@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-21T00:32:36.371017",
+  "fetched_at": "2025-12-28T00:34:06.932597",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "مستحيل تلقى امتع من رياضة الكالسثنكس",
+      "video_id": "dA2ZkMGOSh0",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2025-12-27T10:29:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dA2ZkMGOSh0/hqdefault.jpg"
+    },
     {
       "title": "قوتك تبدأ من الداخل 💪 مع كولاجين ڤايتال بروتينز",
       "video_id": "eS3vZw97ioM",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-03T11:45:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/auNUC2pWPkA/hqdefault.jpg"
-    },
-    {
-      "title": "Assisted hip lift شرح التمرين",
-      "video_id": "sweV5BTpY2E",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-07-30T11:10:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sweV5BTpY2E/hqdefault.jpg"
     }
   ]
 }

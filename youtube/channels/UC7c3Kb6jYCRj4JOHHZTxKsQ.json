@@ -1,48 +1,24 @@
 {
-  "fetched_at": "2025-12-21T00:32:03.371516",
+  "fetched_at": "2025-12-28T00:33:33.502138",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 6,
+  "count": 3,
   "videos": [
     {
-      "title": "Replay: Quincy Larson on 10 Years of freeCodeCamp",
-      "video_id": "5sa58eNiglM",
+      "title": "How Python dodged a language breaking mistake",
+      "video_id": "m1duSN3xRwY",
       "channel_title": "GitHub",
-      "description": "Join us for an inspiring conversation with Quincy Larson, the founder of freeCodeCamp—the world's largest free coding education ...",
-      "published_at": "2025-12-20T06:31:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5sa58eNiglM/hqdefault.jpg"
+      "description": "Adding new features to a language as popular as Python is risky. You don't want to break everyone's code. In this short, Guido ...",
+      "published_at": "2025-12-27T15:01:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m1duSN3xRwY/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Come cowork and code!",
-      "video_id": "mGTWMJ7JHNs",
+      "title": "Git basics: status and add commands",
+      "video_id": "zztkA8cJaCs",
       "channel_title": "GitHub",
-      "description": "Cassidy on the GitHub dev advocacy team is here to chat with you about your questions, and maybe even build a thing or two!",
-      "published_at": "2025-12-19T08:10:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mGTWMJ7JHNs/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays - Let&#39;s build our way into 2026!",
-      "video_id": "re80VvDuNgA",
-      "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. This will be our last ...",
-      "published_at": "2025-12-19T00:18:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/re80VvDuNgA/hqdefault.jpg"
-    },
-    {
-      "title": "The new role of the developer in the AI era",
-      "video_id": "B345wIc9AqM",
-      "channel_title": "GitHub",
-      "description": "How is the developer's relationship with AI evolving? Eirini Kalliamvakou explains that as developers experiment more with AI, ...",
-      "published_at": "2025-12-18T20:21:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B345wIc9AqM/hqdefault.jpg"
-    },
-    {
-      "title": "Manage all Copilot agents in one place with Mission Control | GitHub Checkout",
-      "video_id": "lQrr1M7AeiY",
-      "channel_title": "GitHub",
-      "description": "In this episode of GitHub Checkout, Andrea Griffiths talks with Senior Product Manager Ellie Bennett about the new \"Mission ...",
-      "published_at": "2025-12-16T20:49:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lQrr1M7AeiY/hqdefault.jpg"
+      "description": "Learn how to use git status to see what's changed in your repository. We also cover git add to move files from untracked to the ...",
+      "published_at": "2025-12-25T15:02:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zztkA8cJaCs/hqdefault.jpg"
     },
     {
       "title": "Transforming Engineering Leadership with AI and Metrics",

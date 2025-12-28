@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-21T00:32:34.982049",
+  "fetched_at": "2025-12-28T00:34:05.525370",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 3,
+  "count": 2,
   "videos": [
+    {
+      "title": "That GT3 feeling #shorts",
+      "video_id": "Ntd36ji_swc",
+      "channel_title": "Porsche",
+      "description": "No bad angles here. @fonzicaars.edits.",
+      "published_at": "2025-12-26T17:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ntd36ji_swc/hqdefault.jpg"
+    },
     {
       "title": "Porsche Holiday | The Coded Love Letter",
       "video_id": "b596NIgNFWI",
@@ -11,22 +19,6 @@
       "description": "This one's for you. Our community. To everyone who shows up and shares their passion — you keep the Porsche spirit alive every ...",
       "published_at": "2025-12-19T16:01:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/b596NIgNFWI/hqdefault.jpg"
-    },
-    {
-      "title": "Matching done right #shorts",
-      "video_id": "Mp5j_IU_Vu0",
-      "channel_title": "Porsche",
-      "description": "This is how you do twinning. ‍♀️ @autogenics_.",
-      "published_at": "2025-12-18T17:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Mp5j_IU_Vu0/hqdefault.jpg"
-    },
-    {
-      "title": "A Tribute to F. A. Porsche | A Sonderwunsch 911 born from legacy.​",
-      "video_id": "IyYB0nlSMFE",
-      "channel_title": "Porsche",
-      "description": "A tribute to Ferdinand Alexander Porsche – the mind behind the original 911.​ A Sonderwunsch creation, envisioned by his son ...",
-      "published_at": "2025-12-11T17:27:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IyYB0nlSMFE/hqdefault.jpg"
     }
   ]
 }
