@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2025-12-28T00:34:06.932597",
+  "fetched_at": "2026-01-04T00:34:22.423319",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "اللي يعرف الجهاز بيفهم الصعوبة",
+      "video_id": "ZRUnrdr0DrQ",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-01-02T12:04:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZRUnrdr0DrQ/hqdefault.jpg"
+    },
+    {
+      "title": "جمال القوة",
+      "video_id": "d60vger-gHc",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2025-12-29T18:37:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d60vger-gHc/hqdefault.jpg"
+    },
     {
       "title": "مستحيل تلقى امتع من رياضة الكالسثنكس",
       "video_id": "dA2ZkMGOSh0",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-11-06T20:01:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4shCAmd4kMU/hqdefault.jpg"
-    },
-    {
-      "title": "اذا تعتقد ان رياضة الكالسثنكس ما تبني عضلات راجع معلوماتك",
-      "video_id": "RuEkfDAAusg",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-10-27T16:39:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RuEkfDAAusg/hqdefault.jpg"
-    },
-    {
-      "title": "طريقة استخدام حبل المقاومة في البلانش",
-      "video_id": "auNUC2pWPkA",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-08-03T11:45:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/auNUC2pWPkA/hqdefault.jpg"
     }
   ]
 }

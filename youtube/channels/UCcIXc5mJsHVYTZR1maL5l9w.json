@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2025-12-28T00:34:09.111667",
+  "fetched_at": "2026-01-04T00:34:24.526368",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
-  "count": 10,
+  "count": 25,
   "videos": [
     {
       "title": "Make your AI agents production-ready with Nvidia’s NeMo Toolkit",
@@ -83,6 +83,126 @@
       "description": "In this session, Robert Crowe, Product Manager at Google, spoke about Flax NNX, the new, streamlined API for building, ...",
       "published_at": "2025-12-05T20:08:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FEVFMXvwPuM/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Phillip Snalune: AI Upskilling: A Framework Agnostic Playbook to Scale Adoption",
+      "video_id": "iPu68fiNyBU",
+      "channel_title": "DeepLearningAI",
+      "description": "Industry leaders agree: the missing layer in enterprise AI is hands-on, immersive learning. In this session, Codio founder Phillip ...",
+      "published_at": "2025-12-05T20:04:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iPu68fiNyBU/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Param Singh: Building with Mistral: Open, Powerful, and Ready to Scale",
+      "video_id": "Axlesb8yTro",
+      "channel_title": "DeepLearningAI",
+      "description": "Param Singh, Partner Solution Architect at Mistral AI offered an insightful session on developing and deploying Enterprise AI ...",
+      "published_at": "2025-12-05T19:59:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Axlesb8yTro/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Panel Discussion: Software Development in the Age of AI",
+      "video_id": "bttcJn58J24",
+      "channel_title": "DeepLearningAI",
+      "description": "Artificial intelligence is redefining how software is conceived, built, and maintained. This panel brought together Laurence ...",
+      "published_at": "2025-12-05T19:55:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bttcJn58J24/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Panel: Building Trustworthy AI through Governance, Literacy, and Community",
+      "video_id": "Q_mwaPOQxnc",
+      "channel_title": "DeepLearningAI",
+      "description": "As AI systems move from lab to production, engineers face a new challenge: how to innovate fast while building responsibly.",
+      "published_at": "2025-12-05T19:49:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q_mwaPOQxnc/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Panel discussion: Breaking the Limits of AI Growth: from Hardware to Application",
+      "video_id": "e_CR4kN0XE4",
+      "channel_title": "DeepLearningAI",
+      "description": "From large models to real-time applications and product-level tradeoffs, the path to scalable AI is full of hard engineering choices.",
+      "published_at": "2025-12-05T19:43:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e_CR4kN0XE4/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC Nicholas Clegg: How AWS Moved Beyond Orchestration with Strands SDK",
+      "video_id": "lVgrowsPASU",
+      "channel_title": "DeepLearningAI",
+      "description": "Nicholas Clegg, Senior Software Engineer at AWS, discussed model-driven agents at AI Dev 25 x NYC. Until recently, building AI ...",
+      "published_at": "2025-12-05T14:53:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lVgrowsPASU/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Manish Kapur: Assessing the Quality of AI Generated Code",
+      "video_id": "SOPftW_muSQ",
+      "channel_title": "DeepLearningAI",
+      "description": "This session by Manish Kapur, Sr. Director, Product and Solutions at Sonar, revealed Sonar's new research into the unique ...",
+      "published_at": "2025-12-05T14:49:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SOPftW_muSQ/hqdefault.jpg"
+    },
+    {
+      "title": "Machine Learning in Production, now available at DeepLearning.AI",
+      "video_id": "EXmq8aQN4wY",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/48ebmK8 Machine learning engineering for production refers to the tools, techniques, and practical ...",
+      "published_at": "2025-12-05T14:36:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EXmq8aQN4wY/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Kay Zhu: How Genspark Built a Super Agent That Scales",
+      "video_id": "Q24UKZSG8aQ",
+      "channel_title": "DeepLearningAI",
+      "description": "Kay Zhu, CTO of Mainfunc (Genspark), shared at AI Dev 25 x NYC how Genspark advocates for giving AI agents autonomy to plan ...",
+      "published_at": "2025-12-04T23:10:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q24UKZSG8aQ/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | João Moura: Design, Develop, and Deploy Multi Agent Systems with CrewAI",
+      "video_id": "Y-rQSxACvOg",
+      "channel_title": "DeepLearningAI",
+      "description": "In this Presentation, João Moura, CEO of CrewAI, guided the audience through a comprehensive exploration of the rapidly ...",
+      "published_at": "2025-12-04T23:03:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y-rQSxACvOg/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Jacky Liang: Why Agents Can&#39;t Find the Right Docs (And How Postgres Fixes It)",
+      "video_id": "D1XQho8jETc",
+      "channel_title": "DeepLearningAI",
+      "description": "At AI Dev 25 x NYC, Jacky Liang, Developer Advocate at TigerData, showcased hy AI agents struggle to find the correct ...",
+      "published_at": "2025-12-04T23:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D1XQho8jETc/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Hatice Ozen: Build a Deep Research Agent with One API Call",
+      "video_id": "W3f9Mdyc_Xg",
+      "channel_title": "DeepLearningAI",
+      "description": "Hatice Ozen, Head of Developer Relations at Groq, showcased how to build a deep research agent with one API call. AI agents ...",
+      "published_at": "2025-12-04T22:54:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W3f9Mdyc_Xg/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Gary Qi: TRAE: Redefining Coding Agents",
+      "video_id": "Grb1qIYnsi8",
+      "channel_title": "DeepLearningAI",
+      "description": "Gary Qi, Developer Operation Manager at ByteDance, showcased TRAE, an AI IDE from ByteDance, which is redefining coding ...",
+      "published_at": "2025-12-04T21:22:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Grb1qIYnsi8/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Eric Sondhi: Small AI: The Next Big Thing",
+      "video_id": "DRMX9YzmYMQ",
+      "channel_title": "DeepLearningAI",
+      "description": "At AI Dev 25 in New York City, Eric Sondhi, Senior Manager Developer Marketing Strategy at ARM, discussed the two emerging ...",
+      "published_at": "2025-12-04T21:05:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DRMX9YzmYMQ/hqdefault.jpg"
+    },
+    {
+      "title": "Build GenAI app prototypes in days instead of months! Join our new course",
+      "video_id": "_v5jdbpLYqI",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/47tqm5j Traditional development cycles, where it takes months of planning before anything ships, don't ...",
+      "published_at": "2025-12-04T20:44:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_v5jdbpLYqI/hqdefault.jpg"
     }
   ]
 }

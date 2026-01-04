@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-28T00:33:25.628385",
+  "fetched_at": "2026-01-04T00:33:41.288645",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "Eighteen Wheeeeeeels♥️ #classiccountry #thecastellows #countrymusic",
+      "video_id": "GVNPKv5vPsE",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2025-12-29T16:57:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GVNPKv5vPsE/hqdefault.jpg"
+    },
     {
       "title": "we never have a white Christmas😢 #christmas #thecastellows #countrymusic #songwriter",
       "video_id": "zhqiTkWIhdA",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-12-02T16:00:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/TFkkWFQfdwo/hqdefault.jpg"
-    },
-    {
-      "title": "The Castellows - Alabama Stone (Live from Charlotte, NC)",
-      "video_id": "vdjovB1R4o8",
-      "channel_title": "The Castellows",
-      "description": "The Castellows - Alabama Stone (Live from Charlotte, NC) Listen to the EP Playlist: ...",
-      "published_at": "2025-11-24T16:01:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vdjovB1R4o8/hqdefault.jpg"
     }
   ]
 }

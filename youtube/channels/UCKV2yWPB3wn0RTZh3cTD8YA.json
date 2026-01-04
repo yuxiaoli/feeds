@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-28T00:33:49.539436",
+  "fetched_at": "2026-01-04T00:34:05.356837",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
-  "count": 25,
+  "count": 10,
   "videos": [
+    {
+      "title": "2026年科技行业前瞻：AI、自动驾驶、机器人、世界模型、美股...",
+      "video_id": "lAy9RKQSi2U",
+      "channel_title": "硅谷101",
+      "description": "环节一：AI的2025与2026：技术共识与非共识（first hour） 主持人：陈茜嘉宾： Howie Xu（硅谷徐老师），资深硅谷技术高管、 ...",
+      "published_at": "2025-12-31T12:33:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lAy9RKQSi2U/hqdefault_live.jpg"
+    },
     {
       "title": "2025年，人形机器人走到哪一步了？｜机器人系列｜具身智能年度盘点",
       "video_id": "qs0ovkaacls",
@@ -75,134 +83,6 @@
       "description": "在AI 领域的最新风暴中，Google 最新推出的Gemini 3 被多家媒体和开发者视为“里程碑式”的突破：它不仅在多模态能力（文字、 ...",
       "published_at": "2025-11-21T05:35:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1pgCnlJRuxE/hqdefault.jpg"
-    },
-    {
-      "title": "AI的下一步：强化学习是正确的AGI解法吗？｜硅谷101年度线下大会｜Alignment 2025",
-      "video_id": "bnIHrenhFpc",
-      "channel_title": "硅谷101",
-      "description": "【硅谷101年度线下大会回放】2016年，AlphaGo击败围棋世界冠军，让强化学习一战成名。如今，从推荐算法到自动驾驶，强化 ...",
-      "published_at": "2025-11-20T03:56:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bnIHrenhFpc/hqdefault.jpg"
-    },
-    {
-      "title": "硅谷101首场直播：万亿基建市场还是AI投资泡沫？",
-      "video_id": "_AdW48HjadE",
-      "channel_title": "硅谷101",
-      "description": "2025 年的科技市场再次进入狂热时刻。英伟达、微软、亚马逊、谷歌、Meta 等科技巨头纷纷上调AI 基础设施的资本开支（CapEx） ...",
-      "published_at": "2025-11-15T18:05:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_AdW48HjadE/hqdefault.jpg"
-    },
-    {
-      "title": "专访前FAIR研究总监田渊栋：Meta裁员之后，对AI的一些遗憾与思考【对话】",
-      "video_id": "EsaUQNx59vA",
-      "channel_title": "硅谷101",
-      "description": "2025年10月底，Meta在AI部门进行大规模裁员约600人，前FAIR研究总监田渊栋是这次风波的核心人物之一。我们在上个视频中聊 ...",
-      "published_at": "2025-11-11T00:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EsaUQNx59vA/hqdefault.jpg"
-    },
-    {
-      "title": "失衡的乌托邦：Meta的开源AI路线是如何遭遇滑铁卢的",
-      "video_id": "0mrko3cYqBs",
-      "channel_title": "硅谷101",
-      "description": "2025年10月底，Meta AI部门宣布裁员600个职位，甚至核心部门的研究总监，同时掌管AI业务的高管纷纷离职、被边缘化，就连图灵 ...",
-      "published_at": "2025-11-09T00:03:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0mrko3cYqBs/hqdefault.jpg"
-    },
-    {
-      "title": "给AI一个“身体”：3D数字人是具身智能的解法？｜机器人系列",
-      "video_id": "zR9tvIE_P-w",
-      "channel_title": "硅谷101",
-      "description": "3D数字人为什么是具身智能的解法？AI视频生成模型Sora 2的发布，再次点燃了人们对AI内容的想象。然而，它终究是“被观看”的2D ...",
-      "published_at": "2025-11-07T23:38:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zR9tvIE_P-w/hqdefault.jpg"
-    },
-    {
-      "title": "诺奖得主们的AI用法跟咱们有什么不一样？｜直击AIAS 2025峰会",
-      "video_id": "oX9RYxoX1rs",
-      "channel_title": "硅谷101",
-      "description": "来～我们带大家去参会一场超级硬核的会：在10月的旧金山AIAS 2025峰会上，AI正以前所未有的速度成为科学发现的主体。",
-      "published_at": "2025-11-06T02:03:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oX9RYxoX1rs/hqdefault.jpg"
-    },
-    {
-      "title": "美国硅谷是怎么看人形机器人的｜硅谷101年度线下大会｜Alignment 2025（全英）",
-      "video_id": "FueX88st2OQ",
-      "channel_title": "硅谷101",
-      "description": "今年的硅谷101 Alignment大会的机器人专题讨论，我们从技术、商业模式、可靠性的“不可能三角”来分析机器人的发展进程和挑战。",
-      "published_at": "2025-11-05T04:49:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FueX88st2OQ/hqdefault.jpg"
-    },
-    {
-      "title": "LMArena：谁是AI之王，凭什么这个评测说了算？",
-      "video_id": "EUsIYVtt3y0",
-      "channel_title": "硅谷101",
-      "description": "在大模型激战的今天，谁才是真正的“最强AI”？传统的Benchmark测试正因“题库泄露”和“刷分”在失去公信力，而一个叫LMArena的 ...",
-      "published_at": "2025-10-30T22:35:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EUsIYVtt3y0/hqdefault.jpg"
-    },
-    {
-      "title": "英伟达“两个儿子”之战：AI算力的杠杆游戏与潜在泡沫【深度】｜Coreweave｜Nebius｜Neocloud",
-      "video_id": "8ndEN6VVlUw",
-      "channel_title": "硅谷101",
-      "description": "AI浪潮之下，一场关于算力的“闪电战”已经打响。当AWS、谷歌云等传统巨头在GPU短缺中挣扎时，一个千亿美元的“新 ...",
-      "published_at": "2025-10-23T02:36:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8ndEN6VVlUw/hqdefault.jpg"
-    },
-    {
-      "title": "穿越热潮周期，硬技术公司的生存之道｜侯晓迪硅谷101年度线下大会演讲（全英）｜Alignment 2025",
-      "video_id": "7d2QdCv4qNU",
-      "channel_title": "硅谷101",
-      "description": "侯晓迪是自动驾驶界最有故事的人之一。他是图森未来联合创始人，曾担任图森CTO、董事会主席、总裁及CEO。如今，侯晓迪的新 ...",
-      "published_at": "2025-10-20T01:12:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7d2QdCv4qNU/hqdefault.jpg"
-    },
-    {
-      "title": "AI解决了我的4万封未读邮件｜101 Weekly｜AI应用实验室",
-      "video_id": "ukR7dvFWnIQ",
-      "channel_title": "硅谷101",
-      "description": "【AI应用实验室系列】当AI的焦点从军备竞赛转向日常痛点，我们的电子邮箱正成为下一个被重塑的战场。面对信息过载的收件箱， ...",
-      "published_at": "2025-10-16T23:38:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ukR7dvFWnIQ/hqdefault.jpg"
-    },
-    {
-      "title": "当苹果AI开始赋能开发者，一名父亲的学外语app风靡全球",
-      "video_id": "0jyyMiDTuQ4",
-      "channel_title": "硅谷101",
-      "description": "",
-      "published_at": "2025-10-16T05:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0jyyMiDTuQ4/hqdefault.jpg"
-    },
-    {
-      "title": "杠杆、垄断和泡沫：解析硅谷万亿资本闭环｜101 Weekly",
-      "video_id": "7fvQr224cGY",
-      "channel_title": "硅谷101",
-      "description": "欢迎大家免费报名诺奖大咖云集的AIAS研讨会：https://aias2025.org/registration/ 2025年10月27-28日，陈天桥雒芊芊研究院和加州 ...",
-      "published_at": "2025-10-14T03:16:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7fvQr224cGY/hqdefault.jpg"
-    },
-    {
-      "title": "硅谷万亿AI资本，如何形成了巨大的资本循环？ #Valley101Shorts #三分钟说清楚",
-      "video_id": "Z3G7k30vsAw",
-      "channel_title": "硅谷101",
-      "description": "硅谷万亿AI资本，如何形成了巨大的资本循环？ 在硅谷，一场史无前例的万亿资本循环正在上演。OpenAI从英伟达获得千亿美元投资 ...",
-      "published_at": "2025-10-12T06:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z3G7k30vsAw/hqdefault.jpg"
-    },
-    {
-      "title": "当机器人学会开可乐：深聊灵巧手的“不可能三角”与六大技术门派｜机器人系列",
-      "video_id": "9RMvKWHgyF8",
-      "channel_title": "硅谷101",
-      "description": "让机器人学会拧开可乐瓶，竟然比让它学会后空翻还要难上十倍？ 硅谷101开启机器人系列特辑，第一期我们就来深度解析机器人 ...",
-      "published_at": "2025-09-26T23:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9RMvKWHgyF8/hqdefault.jpg"
-    },
-    {
-      "title": "走出硅谷，我们去看看国际贸易的“ChatGPT时刻”｜101 Weekly｜AI应用实验室",
-      "video_id": "MDNtfUTNvb4",
-      "channel_title": "硅谷101",
-      "description": "【AI应用实验室系列】总觉得AI只是硅谷精英的“自嗨”？这次我们走出硅谷，亲自到拉斯维加斯超热闹的创业大赛CoCreate看看！",
-      "published_at": "2025-09-23T00:15:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MDNtfUTNvb4/hqdefault.jpg"
     }
   ]
 }

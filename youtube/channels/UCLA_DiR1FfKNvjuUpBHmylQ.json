@@ -1,24 +1,32 @@
 {
-  "fetched_at": "2025-12-28T00:33:51.698223",
+  "fetched_at": "2026-01-04T00:34:07.359981",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 4,
+  "count": 5,
   "videos": [
     {
-      "title": "Space Station Astronauts Offer 2025 Holiday Greetings",
-      "video_id": "F4rldqgCaHE",
+      "title": "X-59 Team Reflects on Completing First Flight",
+      "video_id": "PlXrHQVrvmw",
       "channel_title": "NASA",
-      "description": "Aboard the International Space Station, NASA astronauts Mike Fincke, Zena Cardman, and Chris Williams, along with JAXA ...",
-      "published_at": "2025-12-22T17:56:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F4rldqgCaHE/hqdefault.jpg"
+      "description": "After years of design, development, and testing, NASA's X-59 quiet supersonic research aircraft took to the skies for the first time ...",
+      "published_at": "2025-12-31T15:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PlXrHQVrvmw/hqdefault.jpg"
     },
     {
-      "title": "Agencywide Town Hall with NASA Administrator Jared Isaacman, Friday, Dec. 19, 2025",
-      "video_id": "WdQiPJ6KmRc",
+      "title": "NASA: 2025 Review and 2026 Preview",
+      "video_id": "uNuhG3kS7so",
       "channel_title": "NASA",
-      "description": "NASA's new administrator, Jared Isaacman, hosts an agencywide town hall to talk about his vision for the agency's future and ...",
-      "published_at": "2025-12-19T23:32:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WdQiPJ6KmRc/hqdefault.jpg"
+      "description": "In 2025, we stacked the Artemis II rocket, certified next-generation lunar spacesuits, celebrated 25 years on the International ...",
+      "published_at": "2025-12-30T16:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uNuhG3kS7so/hqdefault.jpg"
+    },
+    {
+      "title": "U.S. Spacewalk Preview News Conference (Jan. 6, 2026)",
+      "video_id": "YSgLjktLfrQ",
+      "channel_title": "NASA",
+      "description": "NASA experts are discussing two upcoming spacewalks which will make upgrades to the International Space Station. Tune in and ...",
+      "published_at": "2025-12-26T15:10:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YSgLjktLfrQ/hqdefault_live.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",

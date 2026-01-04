@@ -1,24 +1,24 @@
 {
-  "fetched_at": "2025-12-28T00:33:33.502138",
+  "fetched_at": "2026-01-04T00:33:49.022604",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 3,
   "videos": [
     {
-      "title": "How Python dodged a language breaking mistake",
-      "video_id": "m1duSN3xRwY",
+      "title": "How AI is shaping your programming language choices",
+      "video_id": "pzF4D7juXbM",
       "channel_title": "GitHub",
-      "description": "Adding new features to a language as popular as Python is risky. You don't want to break everyone's code. In this short, Guido ...",
-      "published_at": "2025-12-27T15:01:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m1duSN3xRwY/hqdefault.jpg"
+      "description": "Why is TypeScript surging in popularity? Idan Gazit explains the \"self-reinforcing cycle\" where developers choose languages that ...",
+      "published_at": "2026-01-02T15:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pzF4D7juXbM/hqdefault.jpg"
     },
     {
-      "title": "Git basics: status and add commands",
-      "video_id": "zztkA8cJaCs",
+      "title": "The real reason Python exists",
+      "video_id": "e6Oz331Rauc",
       "channel_title": "GitHub",
-      "description": "Learn how to use git status to see what's changed in your repository. We also cover git add to move files from untracked to the ...",
-      "published_at": "2025-12-25T15:02:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zztkA8cJaCs/hqdefault.jpg"
+      "description": "Why was Python actually created? In this short, Guido van Rossum reveals that he simply needed a language that was safer and ...",
+      "published_at": "2025-12-31T15:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e6Oz331Rauc/hqdefault.jpg"
     },
     {
       "title": "Transforming Engineering Leadership with AI and Metrics",

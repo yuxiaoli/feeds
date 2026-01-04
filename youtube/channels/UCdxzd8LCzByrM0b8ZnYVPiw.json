@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-28T00:34:11.238345",
+  "fetched_at": "2026-01-04T00:34:26.628708",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Sound. Elevated. | Bang &amp; Olufsen",
+      "video_id": "reNIA7KDrS0",
+      "channel_title": "Bang & Olufsen",
+      "description": "Spinning you right round. Since 1925. ​ #BangOlufsen #SoundElevated.",
+      "published_at": "2026-01-02T13:01:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/reNIA7KDrS0/hqdefault.jpg"
+    },
     {
       "title": "Sound. Elevated. | Bang &amp; Olufsen",
       "video_id": "8VUHS0Zs1rU",
@@ -75,14 +83,6 @@
       "description": "Beosound Premiere: Feel the depth and clarity of every note and effect as the sound comes alive from every direction.",
       "published_at": "2025-12-03T14:15:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Sl2VNLqxeyc/hqdefault.jpg"
-    },
-    {
-      "title": "Beosound Premiere: Produced from Aluminium at Factory 5, Struer, Denmark",
-      "video_id": "Kbhz7_SbeBQ",
-      "channel_title": "Bang & Olufsen",
-      "description": "Factory 5 hums with precision, even from the outside. 99.97%: that's the purity of the aluminium used here. Any less, it risks ...",
-      "published_at": "2025-12-03T14:15:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Kbhz7_SbeBQ/hqdefault.jpg"
     }
   ]
 }

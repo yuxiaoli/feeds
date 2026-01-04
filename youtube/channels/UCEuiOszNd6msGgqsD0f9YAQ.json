@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-28T00:33:41.255496",
+  "fetched_at": "2026-01-04T00:33:56.762233",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Arm Chips Explained",
+      "video_id": "iTqorvhzCbA",
+      "channel_title": "Interesting Engineering",
+      "description": "Arm are one of the biggest makers of CPU's globally but do not appear to be as well known by the general public as companies ...",
+      "published_at": "2025-12-28T09:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iTqorvhzCbA/hqdefault.jpg"
+    },
     {
       "title": "The Future of Human Space Exploration",
       "video_id": "3iOW0_eVhRo",
@@ -75,14 +83,6 @@
       "description": "In compliance with the UK Online Safety Act, Spotify—along with other online platforms—are now requiring facial verification ...",
       "published_at": "2025-08-01T08:01:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wyCj7xVH-lc/hqdefault.jpg"
-    },
-    {
-      "title": "You Can Now Feel Touch In VR",
-      "video_id": "cHuCOq3CfeI",
-      "channel_title": "Interesting Engineering",
-      "description": "A new sensation has entered the VR world: the sense of touch. The USC Viterbi School of Engineering have invented a haptic ...",
-      "published_at": "2025-07-31T15:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cHuCOq3CfeI/hqdefault.jpg"
     }
   ]
 }

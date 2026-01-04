@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2025-12-28T00:33:37.738688",
+  "fetched_at": "2026-01-04T00:33:53.212460",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 1,
+  "count": 2,
   "videos": [
     {
-      "title": "Unreal Fest Stockholm 2025 Collection - Materials, Shaders, and Substrate!",
-      "video_id": "uUpp5QqVxc0",
+      "title": "Unreal Fest Stockholm 2025 Collection - Profiling, Telemetry, and Performance",
+      "video_id": "CijCVXa0wBQ",
       "channel_title": "Unreal Engine",
-      "description": "While everyone celebrates over the holidays, we've put together a collection of talks from Unreal Fest Stockholm. These talks ...",
-      "published_at": "2025-12-26T21:19:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uUpp5QqVxc0/hqdefault.jpg"
+      "description": "Happy New Year, everyone! We have another collection of wonderful talks from Unreal Fest Stockholm! We've put together three ...",
+      "published_at": "2026-01-02T21:28:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CijCVXa0wBQ/hqdefault.jpg"
+    },
+    {
+      "title": "A Look at MetaHuman in Unreal Engine",
+      "video_id": "doax4FU1-t0",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video to find out how MetaHumans can now be fully authored directly within Unreal Engine, unlocking a more ...",
+      "published_at": "2025-12-29T14:45:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/doax4FU1-t0/hqdefault.jpg"
     }
   ]
 }

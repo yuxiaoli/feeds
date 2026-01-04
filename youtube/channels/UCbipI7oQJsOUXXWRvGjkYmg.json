@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-28T00:34:07.645899",
+  "fetched_at": "2026-01-04T00:34:23.163961",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "New Level Is Coming",
+      "video_id": "RXReoASHwD4",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2025-12-31T13:45:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RXReoASHwD4/hqdefault.jpg"
+    },
     {
       "title": "2026 - New Level Is Coming",
       "video_id": "OpskXO4pAYE",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-11-27T08:09:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/rjnnoPMfJR4/hqdefault.jpg"
-    },
-    {
-      "title": "99% Will Fail this Challenge | Will You?",
-      "video_id": "kFfnDb5nzZ8",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-11-26T12:33:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kFfnDb5nzZ8/hqdefault.jpg"
     }
   ]
 }

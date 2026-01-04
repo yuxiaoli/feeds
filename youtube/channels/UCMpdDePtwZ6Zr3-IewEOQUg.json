@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2025-12-28T00:33:53.841629",
+  "fetched_at": "2026-01-04T00:34:09.449909",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "沒有人的時候月亮是什麼樣子？愛因斯坦與玻爾的世紀大辯論",
+      "video_id": "UOw7L0ooj58",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2026-01-03T13:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UOw7L0ooj58/hqdefault.jpg"
+    },
     {
       "title": "智力巔峰：量子場論、標準模型和大型粒子對撞機",
       "video_id": "x5Gi1erIXZM",
@@ -75,14 +83,6 @@
       "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
       "published_at": "2025-10-26T13:15:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dp3wJ-MhM6Y/hqdefault.jpg"
-    },
-    {
-      "title": "外星文明的「播種計劃」：人類與 AI 的命運被寫進基因",
-      "video_id": "-KVK1RvgSuw",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-10-26T07:32:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-KVK1RvgSuw/hqdefault.jpg"
     }
   ]
 }
