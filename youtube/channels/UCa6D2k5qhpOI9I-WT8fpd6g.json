@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-04T00:34:21.737168",
+  "fetched_at": "2026-01-11T00:34:04.300507",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "Agent Skills (Claude Skills) 详细攻略，一期视频精通",
+      "video_id": "DNF0FJ9l7wo",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Agent Skills最近非常的火，起初它还只是Claude中一个小功能模块，就在 ...",
+      "published_at": "2026-01-07T07:03:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DNF0FJ9l7wo/hqdefault.jpg"
+    },
     {
       "title": "为什么React的漏洞能攻破服务器？NextJs与RSC入门基础",
       "video_id": "bMiOYsDtpGM",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 最近Codex 已经超越了Claude Code，成为当前热度最高的AI 编程工具。",
       "published_at": "2025-10-13T14:23:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/BhOF-7--bhA/hqdefault.jpg"
-    },
-    {
-      "title": "赛博善人出新品！中国区友好的免费全栈部署平台，AI编程绝配",
-      "video_id": "h3RWKZO_sRw",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "EdgeOne中国区免费CDN，激活码领取（8000个，先到先得）：https://edgeone.tech-shrimp.com/ 中国区免费CDN视频教程： ...",
-      "published_at": "2025-09-26T08:07:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h3RWKZO_sRw/hqdefault.jpg"
     }
   ]
 }

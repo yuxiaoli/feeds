@@ -1,24 +1,40 @@
 {
-  "fetched_at": "2026-01-04T00:33:53.212460",
+  "fetched_at": "2026-01-11T00:33:35.714750",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 2,
+  "count": 4,
   "videos": [
     {
-      "title": "Unreal Fest Stockholm 2025 Collection - Profiling, Telemetry, and Performance",
-      "video_id": "CijCVXa0wBQ",
+      "title": "Simulation float your boat? Check out the Future Helm Simulator from Brunswick&#39;s booth at CES.",
+      "video_id": "I-1KpR98o-4",
       "channel_title": "Unreal Engine",
-      "description": "Happy New Year, everyone! We have another collection of wonderful talks from Unreal Fest Stockholm! We've put together three ...",
-      "published_at": "2026-01-02T21:28:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CijCVXa0wBQ/hqdefault.jpg"
+      "description": "Running on Unreal Engine, the simulator features an immersive environment you can navigate the boat through, interaction points ...",
+      "published_at": "2026-01-09T17:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I-1KpR98o-4/hqdefault.jpg"
     },
     {
-      "title": "A Look at MetaHuman in Unreal Engine",
-      "video_id": "doax4FU1-t0",
+      "title": "Unreal Fest Stockholm 2025 Collection - Animated Foliage in Witcher 4 &amp; the Future of Nanite Foliage",
+      "video_id": "bfmfYpJ3cZ4",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to find out how MetaHumans can now be fully authored directly within Unreal Engine, unlocking a more ...",
-      "published_at": "2025-12-29T14:45:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/doax4FU1-t0/hqdefault.jpg"
+      "description": "Happy New Year, everyone! We have another collection of wonderful talks from Unreal Fest Stockholm! We've put together a few ...",
+      "published_at": "2026-01-08T20:13:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bfmfYpJ3cZ4/hqdefault.jpg"
+    },
+    {
+      "title": "Using Vectors for Stylization | Unreal Engine Animation Hub",
+      "video_id": "PlMZ9IXvUDw",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video and learn how to use light and camera vectors for stylized material outlines and effects. Visit the EDC for more on ...",
+      "published_at": "2026-01-08T18:03:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PlMZ9IXvUDw/hqdefault.jpg"
+    },
+    {
+      "title": "While at CES, check out the Unreal Engine powered CARLA simulator at the Elektrobit booth🚗",
+      "video_id": "gVAaW9RbxOE",
+      "channel_title": "Unreal Engine",
+      "description": "The team use CARLA simulator for high fidelity Advanced Driver Assistance System(ADAS) simulation that includes testing of ...",
+      "published_at": "2026-01-08T17:01:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gVAaW9RbxOE/hqdefault.jpg"
     }
   ]
 }

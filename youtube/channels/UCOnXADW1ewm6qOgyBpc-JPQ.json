@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-04T00:34:11.477529",
+  "fetched_at": "2026-01-11T00:33:53.516664",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "pullups looking ai generated #calisthenics #shorts",
+      "video_id": "UtWNP5zWfpQ",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2026-01-04T16:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UtWNP5zWfpQ/hqdefault.jpg"
+    },
     {
       "title": "This is calisthenics #shorts #calisthenics",
       "video_id": "9bQiKpRF3jY",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-24T15:00:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_scSHgzsvC4/hqdefault.jpg"
-    },
-    {
-      "title": "calisthenics athlete tries rings #shorts",
-      "video_id": "Hlueg3nNg4w",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-08-09T15:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hlueg3nNg4w/hqdefault.jpg"
     }
   ]
 }

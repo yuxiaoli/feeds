@@ -1,48 +1,64 @@
 {
-  "fetched_at": "2026-01-04T00:34:06.024654",
+  "fetched_at": "2026-01-11T00:33:48.069390",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "LLM‑D Explained: Building Next‑Gen AI with LLMs, RAG &amp; Kubernetes",
-      "video_id": "CNKGgOphAPM",
+      "title": "Securing AI Agents: How to Prevent Hidden Prompt Injection Attacks",
+      "video_id": "5ZA1lTxTH3c",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Administrator - IBM Cloud Pak for Business Automation? Register now and use code IBMTechYT20 ...",
-      "published_at": "2026-01-03T12:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CNKGgOphAPM/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx Generative AI Engineer - Associate? Register now and use code IBMTechYT20 for 20% off ...",
+      "published_at": "2026-01-10T12:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5ZA1lTxTH3c/hqdefault.jpg"
     },
     {
-      "title": "AI year in review: Trends shaping 2026",
-      "video_id": "ARXS-uk19h8",
+      "title": "CES 2026 AI highlights: NVIDIA Rubin &amp; wild gadgets",
+      "video_id": "5gRCyXOYF74",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/BdbkGM What defined AI in 2025 and what's coming in 2026? In this special year-end ...",
-      "published_at": "2026-01-02T11:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ARXS-uk19h8/hqdefault.jpg"
+      "description": "Explore the podcast → https://ibm.biz/BdbUyf Is NVIDIA unstoppable? In this episode of Mixture of Experts, host Tim Hwang is ...",
+      "published_at": "2026-01-09T14:10:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5gRCyXOYF74/hqdefault.jpg"
     },
     {
-      "title": "Do VPNs Really Protect Privacy? Data &amp; Cybersecurity Insights",
-      "video_id": "zMahtD8TIwc",
+      "title": "Passkeys Are 2026&#39;s Security Resolution",
+      "video_id": "dHSlFIpatkw",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
-      "published_at": "2025-12-31T12:01:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zMahtD8TIwc/hqdefault.jpg"
+      "description": "Passwords are out. Passkeys are in. Explore 2026's top cybersecurity resolutions: quantum readiness and business-first security ...",
+      "published_at": "2026-01-08T17:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dHSlFIpatkw/hqdefault.jpg"
     },
     {
-      "title": "Build Private Agentic AI Flows with LLMs for Data Privacy",
-      "video_id": "-Tz_FWVYgnM",
+      "title": "Unlock Better RAG &amp; AI Agents with Docling",
+      "video_id": "rrQHnibpXX8",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-12-30T12:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-Tz_FWVYgnM/hqdefault.jpg"
+      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-01-08T12:01:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rrQHnibpXX8/hqdefault.jpg"
     },
     {
-      "title": "Cybersecurity Trends in 2026: Shadow AI, Quantum &amp; Deepfakes",
-      "video_id": "2jU-mLMV8Vw",
+      "title": "A new take on bug bounties, AI red teams and our New Year’s resolutions",
+      "video_id": "50e3h0Q7RTE",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
-      "published_at": "2025-12-29T12:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2jU-mLMV8Vw/hqdefault.jpg"
+      "description": "Explore the podcast → https://ibm.biz/Bdb6NZ Learn more about cybersecurity → https://ibm.biz/Bdb6NY Microsoft is trying to ...",
+      "published_at": "2026-01-07T12:05:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/50e3h0Q7RTE/hqdefault.jpg"
+    },
+    {
+      "title": "Infrastructure Layer: Power the AI Stack with Data Pipelines &amp; MLOps",
+      "video_id": "itBc7nwAK5o",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Deployment Professional - Maximo Manage? Register now and use code IBMTechYT20 for 20% off ...",
+      "published_at": "2026-01-06T12:01:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/itBc7nwAK5o/hqdefault.jpg"
+    },
+    {
+      "title": "AI Periodic Table Explained: Mapping LLMs, RAG &amp; AI Agent Frameworks",
+      "video_id": "ESBMgZHzfG0",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Data Scientist - Associate? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2026-01-05T12:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ESBMgZHzfG0/hqdefault.jpg"
     },
     {
       "title": "Mistral 3 vs DeepSeek-V3.2",
@@ -67,22 +83,6 @@
       "description": "Explore the podcast → https://ibm.biz/BdbJ6K Will Black Friday 2025 be the breakout moment for agentic commerce? This week ...",
       "published_at": "2025-11-28T11:00:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/hqdefault.jpg"
-    },
-    {
-      "title": "What Are Large Reasoning Models (LRMs)? Smarter AI Beyond LLMs",
-      "video_id": "enLbj0igyx4",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer v1? Register now and use code IBMTechYT20 for 20% off of your ...",
-      "published_at": "2025-11-06T12:01:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/enLbj0igyx4/hqdefault.jpg"
-    },
-    {
-      "title": "Android malware that acts like a person and AI agents that act like malware",
-      "video_id": "iaZS1jer8MY",
-      "channel_title": "IBM Technology",
-      "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
-      "published_at": "2025-11-05T10:01:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
     }
   ]
 }

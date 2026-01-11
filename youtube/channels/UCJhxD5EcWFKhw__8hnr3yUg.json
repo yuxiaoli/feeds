@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-04T00:34:02.510909",
+  "fetched_at": "2026-01-11T00:33:44.585252",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "九份、金矿、卤肉饭和网红出租车",
+      "video_id": "H6q5-EMOUCs",
+      "channel_title": "码农高天",
+      "description": "打卡经典游客目的地九份，顺便去边上的金矿看了一圈。晚上回来还遇到个网红出租车，在车上唱了个歌！",
+      "published_at": "2026-01-10T05:30:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H6q5-EMOUCs/hqdefault.jpg"
+    },
     {
       "title": "台北故宫！老的！纯老的！毫无争议的老！",
       "video_id": "nn-OLlk-REg",
@@ -75,14 +83,6 @@
       "description": "奈良是在日本玩的最有趣的一天，也是最狼狈的一天。奈良的小鹿有的很有礼貌，有的很讨厌啊！！！",
       "published_at": "2025-09-16T10:30:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/G3XUgbJ3qUw/hqdefault.jpg"
-    },
-    {
-      "title": "大阪来啦！通天阁，水族馆，一兰拉面大阪烧！",
-      "video_id": "E9zVPAt1dtA",
-      "channel_title": "码农高天",
-      "description": "大阪虽然是个相对无聊的城市，但是我们还是玩了一些地方的。一兰拉面挺好吃，但是这个炸串是有点一言难尽的。",
-      "published_at": "2025-09-12T10:30:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E9zVPAt1dtA/hqdefault.jpg"
     }
   ]
 }

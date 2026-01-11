@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-04T00:34:23.163961",
+  "fetched_at": "2026-01-11T00:34:05.769896",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "Can a Calisthenics Athlete Do Parkour?",
+      "video_id": "oafJyWm2skg",
+      "channel_title": "Andry Strong",
+      "description": "Struggling with planche, muscle-ups, or slow progress? Fix it now with my FREE 4-video course: https://www.andrystrong.world ...",
+      "published_at": "2026-01-04T13:51:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oafJyWm2skg/hqdefault.jpg"
+    },
     {
       "title": "New Level Is Coming",
       "video_id": "RXReoASHwD4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-11-28T18:48:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/F3VABnWt23k/hqdefault.jpg"
-    },
-    {
-      "title": "The ONE Tip You Need for Faster Progress",
-      "video_id": "rjnnoPMfJR4",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-11-27T08:09:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rjnnoPMfJR4/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-01-04T00:33:47.651059",
+  "fetched_at": "2026-01-11T00:33:30.100571",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "CyberTenting under the stars",
+      "video_id": "kHtvEoCQM_Y",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-01-10T18:37:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kHtvEoCQM_Y/hqdefault.jpg"
+    },
+    {
+      "title": "Grandma gets it",
+      "video_id": "3zke56cE4H4",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-01-09T19:35:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3zke56cE4H4/hqdefault.jpg"
+    },
+    {
+      "title": "Tesla Lock Sounds",
+      "video_id": "X1oyhh5cS30",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-01-08T17:38:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X1oyhh5cS30/hqdefault.jpg"
+    },
     {
       "title": "Santa Mode 🎅",
       "video_id": "tqvdJBPmStg",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2025-11-19T20:40:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FwqPI15nPjc/hqdefault.jpg"
-    },
-    {
-      "title": "2025 Annual Shareholder Meeting | Tesla",
-      "video_id": "VGPlvmMjPtE",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-11-06T23:32:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VGPlvmMjPtE/hqdefault.jpg"
-    },
-    {
-      "title": "Forming the Future Grid | Tesla Megapack",
-      "video_id": "aN0rctOAEFk",
-      "channel_title": "Tesla",
-      "description": "Megapack grid-forming inverters are key to enabling global grid stability and reliability. Megan Jackson, Tesla Sr Sales ...",
-      "published_at": "2025-11-05T04:36:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aN0rctOAEFk/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Q3 2025 Financial Results and Q&amp;A Webcast",
-      "video_id": "GQ9S7xbkGAY",
-      "channel_title": "Tesla",
-      "description": "Start of call: https://youtu.be/GQ9S7xbkGAY?t=594.",
-      "published_at": "2025-10-22T22:45:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GQ9S7xbkGAY/hqdefault.jpg"
     }
   ]
 }

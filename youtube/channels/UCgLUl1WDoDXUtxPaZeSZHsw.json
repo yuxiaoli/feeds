@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-04T00:34:28.564015",
+  "fetched_at": "2026-01-11T00:34:11.290710",
   "channel_id": "UCgLUl1WDoDXUtxPaZeSZHsw",
   "channel_title": "李自然说",
   "count": 10,
   "videos": [
+    {
+      "title": "中国品牌出海，AI到底能帮上什么忙？这三步让ROI翻倍",
+      "video_id": "Fivj1LM9mOo",
+      "channel_title": "李自然说",
+      "description": "AI时代，中国品牌出海的营销逻辑彻底变了。 这期视频，我用三个真实案例拆解品牌出海的AI三步法： 洞察：VIVAIA如何用AI发现\" ...",
+      "published_at": "2026-01-09T10:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fivj1LM9mOo/hqdefault.jpg"
+    },
     {
       "title": "AI学术圈年度大瓜，OpenReview漏洞，论文审稿人裸奔",
       "video_id": "-EGSvl3tBfU",
@@ -75,14 +83,6 @@
       "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
       "published_at": "2025-04-02T07:22:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/MEu25V2ou6o/hqdefault.jpg"
-    },
-    {
-      "title": "DeepSeek低调放大招 协议变化要关注",
-      "video_id": "Mp72onydytk",
-      "channel_title": "李自然说",
-      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
-      "published_at": "2025-03-27T08:45:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Mp72onydytk/hqdefault.jpg"
     }
   ]
 }

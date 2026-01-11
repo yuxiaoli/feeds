@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-04T00:33:44.740355",
+  "fetched_at": "2026-01-11T00:33:27.136440",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "2025年全球大模型厂商下载量排行榜",
+      "video_id": "pxymiCGzwQo",
+      "channel_title": "Karminski-牙医",
+      "description": "终于爆肝了一个元旦假期弄完了, 给大家带来2025年全球大模型厂商开放权重模型下载量排行榜. 数据更多代表国内以外的区域的下载 ...",
+      "published_at": "2026-01-04T16:42:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pxymiCGzwQo/hqdefault.jpg"
+    },
     {
       "title": "抱歉我们只有超大杯! GLM-4.7实测!",
       "video_id": "UYbVUMltPrE",
@@ -75,14 +83,6 @@
       "description": "给大家带来Meta 的SAM 3 大模型实测! 这个大模型有4个功能, 分别是视频内容识别, 图片内容识别, 图片生成3D模型, 图片生成3D人物 ...",
       "published_at": "2025-11-22T03:43:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1rpqFbX3PUQ/hqdefault.jpg"
-    },
-    {
-      "title": "Gemini 3.0 Pro 实测! SOTA! 不过发现两个重要问题!",
-      "video_id": "E85zAvWEwhM",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来Gemini 3.0 Pro preview 的测试结果: 大象牙膏测试直接SOTA, 粒子效果非常牛逼，这个大象牙膏喷发的效果比之前 ...",
-      "published_at": "2025-11-22T00:28:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E85zAvWEwhM/hqdefault.jpg"
     }
   ]
 }

@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-01-04T00:34:05.356837",
+  "fetched_at": "2026-01-11T00:33:47.387492",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
     {
+      "title": "脑机接口大盘点：从科幻到现实，谁在引领这场“读心术”革命?",
+      "video_id": "bO6xBjIx9JQ",
+      "channel_title": "硅谷101",
+      "description": "1月1日，马斯克突然在X上宣布：Neuralink的脑机接口设备将于今年大规模量产。想象一下：人类用意念操控机器，思想直接变成 ...",
+      "published_at": "2026-01-10T00:30:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bO6xBjIx9JQ/hqdefault.jpg"
+    },
+    {
+      "title": "专访Bryan Johnson：“换血富豪”的“不死”抗衰实验与商业版图",
+      "video_id": "dOlQZnjMriI",
+      "channel_title": "硅谷101",
+      "description": "Bryan Johnson是硅谷最具争议的抗衰实践者，也是“世界上最被精密量化的人”。他曾受肥胖、抑郁困扰，如今却声称将自己的生物 ...",
+      "published_at": "2026-01-05T04:14:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dOlQZnjMriI/hqdefault.jpg"
+    },
+    {
       "title": "2026年科技行业前瞻：AI、自动驾驶、机器人、世界模型、美股...",
       "video_id": "lAy9RKQSi2U",
       "channel_title": "硅谷101",
-      "description": "环节一：AI的2025与2026：技术共识与非共识（first hour） 主持人：陈茜嘉宾： Howie Xu（硅谷徐老师），资深硅谷技术高管、 ...",
-      "published_at": "2025-12-31T12:33:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lAy9RKQSi2U/hqdefault_live.jpg"
+      "description": "硅谷101的三小时新年直播来啦，聚焦聊聊2026年大家最关心的几个科技赛道展望～ 视频时间轴： 环节一：AI的2025与2026：技术 ...",
+      "published_at": "2026-01-04T07:25:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lAy9RKQSi2U/hqdefault.jpg"
     },
     {
       "title": "2025年，人形机器人走到哪一步了？｜机器人系列｜具身智能年度盘点",
@@ -67,22 +83,6 @@
       "description": "5000亿美元，是NASA预估让人类登陆火星的预算，却只够OpenAI建一座“星际之门”数据中心。而这，仅仅是开始。随着Meta、xAI ...",
       "published_at": "2025-12-01T23:06:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/reCHpD4yDfQ/hqdefault.jpg"
-    },
-    {
-      "title": "“人造肉”千亿赛道的坍塌：资本的幻想与精英主义的泡沫",
-      "video_id": "2TV2jMaIcak",
-      "channel_title": "硅谷101",
-      "description": "这是一个曾被比尔·盖茨、李嘉诚、小李子押注的千亿赛道，如今却沦为华尔街的笑话。2019年，Beyond Meat上市首日暴涨163%， ...",
-      "published_at": "2025-11-26T01:17:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2TV2jMaIcak/hqdefault.jpg"
-    },
-    {
-      "title": "直播解析谷歌Gemini 3：“AI 全模态”时代与Scaling Law的极致执行【101 Live】",
-      "video_id": "1pgCnlJRuxE",
-      "channel_title": "硅谷101",
-      "description": "在AI 领域的最新风暴中，Google 最新推出的Gemini 3 被多家媒体和开发者视为“里程碑式”的突破：它不仅在多模态能力（文字、 ...",
-      "published_at": "2025-11-21T05:35:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1pgCnlJRuxE/hqdefault.jpg"
     }
   ]
 }

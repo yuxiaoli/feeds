@@ -1,32 +1,56 @@
 {
-  "fetched_at": "2026-01-04T00:33:49.022604",
+  "fetched_at": "2026-01-11T00:33:31.431491",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 3,
+  "count": 6,
   "videos": [
     {
-      "title": "How AI is shaping your programming language choices",
-      "video_id": "pzF4D7juXbM",
+      "title": "GitHub Game Off 2025: Top 10 Entries",
+      "video_id": "YzM-kIbhico",
       "channel_title": "GitHub",
-      "description": "Why is TypeScript surging in popularity? Idan Gazit explains the \"self-reinforcing cycle\" where developers choose languages that ...",
-      "published_at": "2026-01-02T15:01:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pzF4D7juXbM/hqdefault.jpg"
+      "description": "We asked for WAVES. You delivered 700+ games, all free to play, with source code you can actually poke at. Meet the top 10 ...",
+      "published_at": "2026-01-10T21:37:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YzM-kIbhico/hqdefault.jpg"
     },
     {
-      "title": "The real reason Python exists",
-      "video_id": "e6Oz331Rauc",
+      "title": "Mike McQuaid on 16 years of maintaining Homebrew | Episode 5 | The GitHub Podcast",
+      "video_id": "mdxYnfPQrzU",
       "channel_title": "GitHub",
-      "description": "Why was Python actually created? In this short, Guido van Rossum reveals that he simply needed a language that was safer and ...",
-      "published_at": "2025-12-31T15:01:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e6Oz331Rauc/hqdefault.jpg"
+      "description": "Homebrew's project lead, Mike McQuaid, joins Abby and Andrea to unpack what it really takes to sustain one of the most-used ...",
+      "published_at": "2026-01-10T15:01:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mdxYnfPQrzU/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday Special - Vision Board 2026",
+      "video_id": "x5gW0MrhdV0",
+      "channel_title": "GitHub",
+      "description": "Grab your favorite beverage and join us for a laid-back, community-powered yap-session about where we want open source to go ...",
+      "published_at": "2026-01-10T08:13:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x5gW0MrhdV0/hqdefault.jpg"
     },
     {
       "title": "Transforming Engineering Leadership with AI and Metrics",
       "video_id": "uBw1Q0L6qwU",
       "channel_title": "GitHub",
       "description": "Join GitHub's Andrea Griffiths and Jeff Keyes, Field CTO at Allstacks, to explore how the Intelligence Engine and AI-powered deep ...",
-      "published_at": "2025-12-12T23:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uBw1Q0L6qwU/hqdefault_live.jpg"
+      "published_at": "2026-01-09T23:26:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uBw1Q0L6qwU/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays - It&#39;s time to build!",
+      "video_id": "KalgAXDzG4w",
+      "channel_title": "GitHub",
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We'll revisit the ...",
+      "published_at": "2026-01-09T21:02:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KalgAXDzG4w/hqdefault.jpg"
+    },
+    {
+      "title": "Event in Spanish: Jueves de Quack con @acolombiadev",
+      "video_id": "iBf7L5BQra4",
+      "channel_title": "GitHub",
+      "description": "Te perdiste las últimas semanas de diciembre? GitHub no se detuvo durante las fiestas. Hoy cubrimos TODO lo que necesitas ...",
+      "published_at": "2026-01-09T17:21:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iBf7L5BQra4/hqdefault.jpg"
     }
   ]
 }

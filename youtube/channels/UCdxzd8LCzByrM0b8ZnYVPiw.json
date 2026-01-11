@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-04T00:34:26.628708",
+  "fetched_at": "2026-01-11T00:34:09.335177",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Come closer | Beosound Premiere | Bang &amp; Olufsen",
+      "video_id": "Lf1VQWemCgE",
+      "channel_title": "Bang & Olufsen",
+      "description": "Beosound Premiere. Come closer to spatial sound, like you've never experienced it before. ​ #BangOlufsen ...",
+      "published_at": "2026-01-08T11:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lf1VQWemCgE/hqdefault.jpg"
+    },
+    {
+      "title": "Come closer | Beosound Premiere",
+      "video_id": "woXhQ0ZowHE",
+      "channel_title": "Bang & Olufsen",
+      "description": "Beosound Premiere. Come closer to spatial sound, like you've never experienced it before. ​ #BangOlufsen ...",
+      "published_at": "2026-01-08T11:02:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/woXhQ0ZowHE/hqdefault.jpg"
+    },
     {
       "title": "Sound. Elevated. | Bang &amp; Olufsen",
       "video_id": "reNIA7KDrS0",
@@ -67,22 +83,6 @@
       "description": "Beosound Premiere: a new approach to spatial audio. Designed to offer a truly immersive listening experience, this soundbar ...",
       "published_at": "2025-12-03T14:15:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bHJp0r8u53k/hqdefault.jpg"
-    },
-    {
-      "title": "Beosound Premiere: First Time Setup",
-      "video_id": "tOtBW6PW4Zw",
-      "channel_title": "Bang & Olufsen",
-      "description": "Beosound Premiere: a new approach to spatial audio. Designed to offer a truly immersive listening experience, this soundbar ...",
-      "published_at": "2025-12-03T14:15:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tOtBW6PW4Zw/hqdefault.jpg"
-    },
-    {
-      "title": "Beosound Premiere Installation: Table Stand",
-      "video_id": "Sl2VNLqxeyc",
-      "channel_title": "Bang & Olufsen",
-      "description": "Beosound Premiere: Feel the depth and clarity of every note and effect as the sound comes alive from every direction.",
-      "published_at": "2025-12-03T14:15:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Sl2VNLqxeyc/hqdefault.jpg"
     }
   ]
 }

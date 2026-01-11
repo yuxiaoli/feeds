@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-04T00:33:40.572900",
+  "fetched_at": "2026-01-11T00:33:22.861900",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Matcha Magic",
+      "video_id": "nWSwdHd40ZY",
+      "channel_title": "Meta",
+      "description": "Jia Xin (@h0mec4fe) transforms simple ingredients into one-of-a-kind food art (like this matcha sheep creation), sharing her ...",
+      "published_at": "2026-01-07T15:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nWSwdHd40ZY/hqdefault.jpg"
+    },
     {
       "title": "Let Him Cook",
       "video_id": "bj4r-vDdI1g",
@@ -75,14 +83,6 @@
       "description": "\"What happens when design meets the AI revolution? In the latest episode of Boz to the Future, Meta CTO Andrew \"\"Boz\"\" ...",
       "published_at": "2025-11-20T15:04:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/diMGvhBfy74/hqdefault.jpg"
-    },
-    {
-      "title": "SAM 3",
-      "video_id": "0jo6BRcTJbo",
-      "channel_title": "Meta",
-      "description": "Our Segment Anything Model, SAM 3, is on the scene. SAM 3 can detect and track objects more precisely than ever, which can be ...",
-      "published_at": "2025-11-19T16:10:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0jo6BRcTJbo/hqdefault.jpg"
     }
   ]
 }

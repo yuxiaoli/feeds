@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-04T00:33:54.683811",
+  "fetched_at": "2026-01-11T00:33:37.126513",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Get motivated with Workout Buddy. Tip from Londa at the Apple Store. #Shorts",
+      "video_id": "dplYA7ymKIk",
+      "channel_title": "Apple",
+      "description": "AppleWatch #AppleWatchTips #WorkoutBuddy #AppleStore.",
+      "published_at": "2026-01-09T17:01:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dplYA7ymKIk/hqdefault.jpg"
+    },
+    {
+      "title": "Track your Heart Rate Zones. Tip from Eden at the Apple Store.#Shorts",
+      "video_id": "PBbMvdFSUxQ",
+      "channel_title": "Apple",
+      "description": "AppleWatch #AppleWatchTips #Zone2 #TrackYourRuns #AppleStore.",
+      "published_at": "2026-01-06T17:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PBbMvdFSUxQ/hqdefault.jpg"
+    },
     {
       "title": "Detectives 8x Zoom I Shot on iPhone 17 Pro I Apple",
       "video_id": "leYJBhat7zw",
@@ -67,22 +83,6 @@
       "description": "iPhone #iPhoneTips #ScreenTime #AppleStore.",
       "published_at": "2025-12-11T17:00:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HGp005A-2mM/hqdefault.jpg"
-    },
-    {
-      "title": "Engrave your Memoji on AirPods. Tip from Garryn at the Apple Store. #Shorts",
-      "video_id": "M3wMuVJpauM",
-      "channel_title": "Apple",
-      "description": "AirPods #AirPodsTips #Engraving #AppleStore.",
-      "published_at": "2025-12-09T17:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M3wMuVJpauM/hqdefault.jpg"
-    },
-    {
-      "title": "Apple Pay | Outrun | Apple",
-      "video_id": "gLhwEXW2-7M",
-      "channel_title": "Apple",
-      "description": "Life is chaotic. Paying shouldn't be. Just use Apple Pay and be on your way. It works anywhere that takes contactless payments ...",
-      "published_at": "2025-12-08T17:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gLhwEXW2-7M/hqdefault.jpg"
     }
   ]
 }

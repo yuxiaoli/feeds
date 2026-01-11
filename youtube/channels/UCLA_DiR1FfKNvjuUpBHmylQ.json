@@ -1,48 +1,32 @@
 {
-  "fetched_at": "2026-01-04T00:34:07.359981",
+  "fetched_at": "2026-01-11T00:33:49.406738",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 5,
+  "count": 3,
   "videos": [
     {
-      "title": "X-59 Team Reflects on Completing First Flight",
-      "video_id": "PlXrHQVrvmw",
+      "title": "International Space Station Update: Thursday, Jan. 8, 2026",
+      "video_id": "ffcV3jCwwPk",
       "channel_title": "NASA",
-      "description": "After years of design, development, and testing, NASA's X-59 quiet supersonic research aircraft took to the skies for the first time ...",
-      "published_at": "2025-12-31T15:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PlXrHQVrvmw/hqdefault.jpg"
-    },
-    {
-      "title": "NASA: 2025 Review and 2026 Preview",
-      "video_id": "uNuhG3kS7so",
-      "channel_title": "NASA",
-      "description": "In 2025, we stacked the Artemis II rocket, certified next-generation lunar spacesuits, celebrated 25 years on the International ...",
-      "published_at": "2025-12-30T16:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uNuhG3kS7so/hqdefault.jpg"
+      "description": "NASA will host a live news conference at 5 p.m. EST on Thursday from the agency's headquarters in Washington to discuss the ...",
+      "published_at": "2026-01-08T22:47:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ffcV3jCwwPk/hqdefault.jpg"
     },
     {
       "title": "U.S. Spacewalk Preview News Conference (Jan. 6, 2026)",
       "video_id": "YSgLjktLfrQ",
       "channel_title": "NASA",
       "description": "NASA experts are discussing two upcoming spacewalks which will make upgrades to the International Space Station. Tune in and ...",
-      "published_at": "2025-12-26T15:10:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YSgLjktLfrQ/hqdefault_live.jpg"
-    },
-    {
-      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
-      "video_id": "Hj1XwNjvkDE",
-      "channel_title": "NASA",
-      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
-      "published_at": "2025-12-11T14:29:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hj1XwNjvkDE/hqdefault_live.jpg"
+      "published_at": "2026-01-06T19:47:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YSgLjktLfrQ/hqdefault.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
       "video_id": "iYmvCUonukw",
       "channel_title": "NASA",
       "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
-      "published_at": "2025-09-04T13:14:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iYmvCUonukw/hqdefault_live.jpg"
+      "published_at": "2026-01-04T05:20:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iYmvCUonukw/hqdefault.jpg"
     }
   ]
 }

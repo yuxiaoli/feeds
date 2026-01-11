@@ -1,48 +1,48 @@
 {
-  "fetched_at": "2026-01-04T00:33:46.887399",
+  "fetched_at": "2026-01-11T00:33:29.411301",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "The key to solving problems.",
-      "video_id": "xQhymuUyvc4",
+      "title": "A quick look in to a Django web application.",
+      "video_id": "b005t8L5I4w",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-04T00:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xQhymuUyvc4/hqdefault.jpg"
+      "published_at": "2026-01-10T17:05:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b005t8L5I4w/hqdefault.jpg"
     },
     {
-      "title": "You need to hear this advice today!",
-      "video_id": "7YRQDF2aAL8",
+      "title": "Have you used streamlit to build an app before?",
+      "video_id": "EQo99o9iN3s",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-03T20:52:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7YRQDF2aAL8/hqdefault.jpg"
+      "published_at": "2026-01-09T00:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EQo99o9iN3s/hqdefault.jpg"
     },
     {
-      "title": "This tool is a gamechanger.",
-      "video_id": "D8-SPVKKrLs",
+      "title": "Django FULL Project Build - YouTube Clone | ImageKit, Authentication, Uploads, &amp; More...",
+      "video_id": "_SgRXhguJRM",
+      "channel_title": "Tech With Tim",
+      "description": "In this video, I'll show you how to build a YouTube clone using Python and Django. We'll cover everything from uploading videos, ...",
+      "published_at": "2026-01-08T13:45:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_SgRXhguJRM/hqdefault.jpg"
+    },
+    {
+      "title": "Have you used Django before?",
+      "video_id": "9Kicq3n6Z-Y",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-01T19:14:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D8-SPVKKrLs/hqdefault.jpg"
+      "published_at": "2026-01-07T19:43:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9Kicq3n6Z-Y/hqdefault.jpg"
     },
     {
-      "title": "FastAPI + React B2B SaaS Full Project Build - Orgs, Users, Billing, Roles &amp; More...",
-      "video_id": "BvsBJynm64k",
+      "title": "I Asked an Uber Tech recruiter if CS Grads are Cooked...",
+      "video_id": "i4VKHExk9fs",
       "channel_title": "Tech With Tim",
-      "description": "This project uses Clerk to handle authentication, users, organizations, billing and more, get started with Clerk for free from this link: ...",
-      "published_at": "2025-12-31T11:23:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BvsBJynm64k/hqdefault.jpg"
-    },
-    {
-      "title": "This python function will simplify your life.",
-      "video_id": "TzY-28ViE4I",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-12-31T10:59:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TzY-28ViE4I/hqdefault.jpg"
+      "description": "Today we sat down with Katie, an ex-Uber senior technical recruiter with over 10 years of experience, to discuss the current tech ...",
+      "published_at": "2026-01-06T14:01:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i4VKHExk9fs/hqdefault.jpg"
     },
     {
       "title": "The only video you need to watch if you want to become a software engineer!",

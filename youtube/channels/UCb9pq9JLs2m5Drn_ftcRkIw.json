@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-04T00:34:22.423319",
+  "fetched_at": "2026-01-11T00:34:05.000657",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "الطريقة الصحيحة لاستخدام الأوزان",
+      "video_id": "gHgeZM3nyxM",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-01-07T09:53:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gHgeZM3nyxM/hqdefault.jpg"
+    },
     {
       "title": "اللي يعرف الجهاز بيفهم الصعوبة",
       "video_id": "ZRUnrdr0DrQ",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-11-14T10:46:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2Jky_ttRKRM/hqdefault.jpg"
-    },
-    {
-      "title": "ايش اكثر تمرين بوزن الجسم تحبه ؟",
-      "video_id": "4shCAmd4kMU",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-11-06T20:01:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4shCAmd4kMU/hqdefault.jpg"
     }
   ]
 }
