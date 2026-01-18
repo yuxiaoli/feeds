@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-11T00:33:45.976484",
+  "fetched_at": "2026-01-18T00:33:20.416928",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Optimize your agent setup - live walkthrough",
+      "video_id": "01pAjQryX4c",
+      "channel_title": "Warp",
+      "description": "Download Warp: warp.dev Clone the starter repository: https://github.com/warpdotdev/onboarding-demo-github-issue-triage-201.",
+      "published_at": "2026-01-16T06:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/01pAjQryX4c/hqdefault.jpg"
+    },
+    {
+      "title": "Start using coding agents - live walkthrough",
+      "video_id": "311g6x4Q8pw",
+      "channel_title": "Warp",
+      "description": "Download Warp: https://warp.dev Clone the starter project: ...",
+      "published_at": "2026-01-15T06:26:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/311g6x4Q8pw/hqdefault.jpg"
+    },
     {
       "title": "Introducing the Warp Platform Beta",
       "video_id": "qTMOJoga9do",
@@ -67,22 +83,6 @@
       "description": "Meet the first AI agent that can actually use the terminal like you do. Warp's Full Terminal Use lets agents interact with REPLs, run ...",
       "published_at": "2025-11-19T16:43:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gBdehHrtb94/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Agents 3.0 — Full Terminal Use, /plan, and more",
-      "video_id": "igxPtzCImxM",
-      "channel_title": "Warp",
-      "description": "Warp's new features expand what agents can do and how you can interact with them: • Full Terminal Use lets the agent use the ...",
-      "published_at": "2025-11-19T15:44:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/igxPtzCImxM/hqdefault.jpg"
-    },
-    {
-      "title": "Dylan Field and Lenny Ratchinsky on Warp and how Figma tackles blockers!",
-      "video_id": "jaYC3tuo9MY",
-      "channel_title": "Warp",
-      "description": "Dylan Field and Lenny Ratchinsky discuss Warp and how Figma tackles blockers!",
-      "published_at": "2025-11-15T18:57:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jaYC3tuo9MY/hqdefault.jpg"
     }
   ]
 }

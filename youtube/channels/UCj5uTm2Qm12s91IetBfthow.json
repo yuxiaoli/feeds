@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-11T00:34:13.297250",
+  "fetched_at": "2026-01-18T00:33:47.764416",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "2026开年Huggingface最火的8个空间",
+      "video_id": "9yjQdq-nnJo",
+      "channel_title": "Find Interesting AI",
+      "description": "LTX-2: https://huggingface.co/papers/2601.03233 FinePDF: ...",
+      "published_at": "2026-01-17T09:10:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9yjQdq-nnJo/hqdefault.jpg"
+    },
     {
       "title": "2025程序员AI年终总结",
       "video_id": "nwQ7oiqD9W0",
@@ -75,14 +83,6 @@
       "description": "9月份huggingface最火的八个项目一口气玩个遍https://huggingface.co/",
       "published_at": "2025-09-21T00:01:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jYKt2p3VRmg/hqdefault.jpg"
-    },
-    {
-      "title": "8月AI论文精选分享",
-      "video_id": "pNSVAkkHReM",
-      "channel_title": "Find Interesting AI",
-      "description": "8月全部AI论文： https://qadso0i11yj.feishu.cn/base/LplpbJRmQanORbst9CUcqYQDnRc?from=from_copylink.",
-      "published_at": "2025-09-07T00:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pNSVAkkHReM/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-11T00:33:58.511829",
+  "fetched_at": "2026-01-18T00:33:33.187678",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "HTTP Requests in Python",
+      "video_id": "hEv50bS1_Og",
+      "channel_title": "Socratica",
+      "description": "Sign up for Socratica Courses: https://www.socratica.com/collections Socratica ...",
+      "published_at": "2026-01-13T12:01:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hEv50bS1_Og/hqdefault.jpg"
+    },
     {
       "title": "Threads and Threading in Python",
       "video_id": "BexuvowO7PM",
@@ -75,14 +83,6 @@
       "description": "There are 4 key stock option positions: the long call, long put, short call, and short put. And for stock directly, you can either be ...",
       "published_at": "2025-08-01T10:01:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jssGJnENU1I/hqdefault.jpg"
-    },
-    {
-      "title": "Protective Put - Protecting yourself from downside risk - Stock Option Trading Tips",
-      "video_id": "baf9moVb-i0",
-      "channel_title": "Socratica",
-      "description": "A common options strategy is the Protective Put. This is when you buy a put option to \"protect\" your stock investment from ...",
-      "published_at": "2025-07-30T10:01:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/baf9moVb-i0/hqdefault.jpg"
     }
   ]
 }

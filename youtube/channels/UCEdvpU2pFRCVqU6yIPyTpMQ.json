@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-11T00:33:37.854314",
+  "fetched_at": "2026-01-18T00:33:12.162002",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "It’s 2016 and the mannequin challenge is peak internet",
+      "video_id": "dFoDaFS_FoE",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-01-15T21:24:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dFoDaFS_FoE/hqdefault.jpg"
+    },
     {
       "title": "Marshmello, INJI - Kissin My Friends (Official Audio)",
       "video_id": "oO2N2kak064",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-07-01T19:00:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Q0FHPZfOYiQ/hqdefault.jpg"
-    },
-    {
-      "title": "We were cringe but we were happy😂",
-      "video_id": "hj4ewm0IBiQ",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-06-27T19:17:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hj4ewm0IBiQ/hqdefault.jpg"
     }
   ]
 }

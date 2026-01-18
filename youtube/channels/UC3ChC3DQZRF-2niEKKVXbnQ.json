@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-11T00:33:27.136440",
+  "fetched_at": "2026-01-18T00:33:01.658900",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "500张图片测试! 一个视频告诉你GLM-Image怎么用!",
+      "video_id": "JWvLchYffPw",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来GLM-Image 实测! 我这次设计了两个极限测试, 来测试这个大模型的能力, 首先是模型的画面控制力, 怎样能让模型把对应的 ...",
+      "published_at": "2026-01-16T16:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JWvLchYffPw/hqdefault.jpg"
+    },
     {
       "title": "2025年全球大模型厂商下载量排行榜",
       "video_id": "pxymiCGzwQo",
@@ -75,14 +83,6 @@
       "description": "给大家带来新的AI邪修教程! 相信有很多朋友在制作视频的时候, 在痛苦的学AE, PR, Blender这些专业工具怎么用. 今天给大家带来新 ...",
       "published_at": "2025-11-28T02:55:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XftxFxi3iDM/hqdefault.jpg"
-    },
-    {
-      "title": "Meta 的新模型 SAM 3 实测!",
-      "video_id": "1rpqFbX3PUQ",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来Meta 的SAM 3 大模型实测! 这个大模型有4个功能, 分别是视频内容识别, 图片内容识别, 图片生成3D模型, 图片生成3D人物 ...",
-      "published_at": "2025-11-22T03:43:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1rpqFbX3PUQ/hqdefault.jpg"
     }
   ]
 }

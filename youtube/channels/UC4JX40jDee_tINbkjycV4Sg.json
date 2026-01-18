@@ -1,48 +1,64 @@
 {
-  "fetched_at": "2026-01-11T00:33:29.411301",
+  "fetched_at": "2026-01-18T00:33:03.779090",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "A quick look in to a Django web application.",
-      "video_id": "b005t8L5I4w",
+      "title": "Do not write your code like this.",
+      "video_id": "LXu4g0GAcj8",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-10T17:05:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b005t8L5I4w/hqdefault.jpg"
+      "published_at": "2026-01-17T21:40:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LXu4g0GAcj8/hqdefault.jpg"
     },
     {
-      "title": "Have you used streamlit to build an app before?",
-      "video_id": "EQo99o9iN3s",
+      "title": "This mistake might be stopping you from getting hired.",
+      "video_id": "USBxTm0ORVs",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-09T00:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EQo99o9iN3s/hqdefault.jpg"
+      "published_at": "2026-01-17T00:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/USBxTm0ORVs/hqdefault.jpg"
     },
     {
-      "title": "Django FULL Project Build - YouTube Clone | ImageKit, Authentication, Uploads, &amp; More...",
-      "video_id": "_SgRXhguJRM",
-      "channel_title": "Tech With Tim",
-      "description": "In this video, I'll show you how to build a YouTube clone using Python and Django. We'll cover everything from uploading videos, ...",
-      "published_at": "2026-01-08T13:45:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_SgRXhguJRM/hqdefault.jpg"
-    },
-    {
-      "title": "Have you used Django before?",
-      "video_id": "9Kicq3n6Z-Y",
+      "title": "The easiest way to make a website in Python.",
+      "video_id": "2UIFF8M0NIw",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-07T19:43:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9Kicq3n6Z-Y/hqdefault.jpg"
+      "published_at": "2026-01-16T20:29:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2UIFF8M0NIw/hqdefault.jpg"
     },
     {
-      "title": "I Asked an Uber Tech recruiter if CS Grads are Cooked...",
-      "video_id": "i4VKHExk9fs",
+      "title": "Learn NumPy in 40 Minutes - Python NumPy Tutorial",
+      "video_id": "zI5ducyfyNc",
       "channel_title": "Tech With Tim",
-      "description": "Today we sat down with Katie, an ex-Uber senior technical recruiter with over 10 years of experience, to discuss the current tech ...",
-      "published_at": "2026-01-06T14:01:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i4VKHExk9fs/hqdefault.jpg"
+      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
+      "published_at": "2026-01-15T21:04:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zI5ducyfyNc/hqdefault.jpg"
+    },
+    {
+      "title": "Have you used Flask before?",
+      "video_id": "sc_57a5arRU",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2026-01-15T09:13:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sc_57a5arRU/hqdefault.jpg"
+    },
+    {
+      "title": "Lovable vs MeDo, which AI app builder actually works?",
+      "video_id": "lhaGyrp1vfY",
+      "channel_title": "Tech With Tim",
+      "description": "AI app builders are everywhere right now, and everyone's claiming that you can go from an idea to a full product in just minutes.",
+      "published_at": "2026-01-14T11:36:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lhaGyrp1vfY/hqdefault.jpg"
+    },
+    {
+      "title": "Interview Coder Just Leaked Users’ Full Names and Where They Got Offers",
+      "video_id": "YG6odi6VY9g",
+      "channel_title": "Tech With Tim",
+      "description": "In this Interview Coder review, I will show you how they just leaked their customers names and where they got offers. This major ...",
+      "published_at": "2026-01-12T21:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YG6odi6VY9g/hqdefault.jpg"
     },
     {
       "title": "The only video you need to watch if you want to become a software engineer!",
@@ -67,22 +83,6 @@
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
       "published_at": "2025-07-04T02:52:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
-    },
-    {
-      "title": "Why I’m Ditching ChatGPT… ChatLLM Tutorial",
-      "video_id": "EYcDauqeJjI",
-      "channel_title": "Tech With Tim",
-      "description": "Get started wirh ChatLLM here: https://chatllm.abacus.ai I want you to ask yourself how many I subscriptions are you currently ...",
-      "published_at": "2025-04-25T13:48:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EYcDauqeJjI/hqdefault.jpg"
-    },
-    {
-      "title": "Backend Software Engineer roadmap",
-      "video_id": "FlsrKv_xIyg",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-24T21:17:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FlsrKv_xIyg/hqdefault.jpg"
     }
   ]
 }

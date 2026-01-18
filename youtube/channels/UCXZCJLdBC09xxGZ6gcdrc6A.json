@@ -1,14 +1,38 @@
 {
-  "fetched_at": "2026-01-11T00:34:01.351834",
+  "fetched_at": "2026-01-18T00:33:35.893130",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
+      "title": "ChatGPT Go is rolling out everywhere ChatGPT is available.",
+      "video_id": "RXJ8zqblP5M",
+      "channel_title": "OpenAI",
+      "description": "Starting today, ChatGPT Go is rolling out everywhere ChatGPT is available. In the US, Go is available for $8* per month. ChatGPT ...",
+      "published_at": "2026-01-16T18:06:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RXJ8zqblP5M/hqdefault.jpg"
+    },
+    {
+      "title": "Helping you choose the right insurance plan for you with ChatGPT",
+      "video_id": "g4MTiidxp8I",
+      "channel_title": "OpenAI",
+      "description": "We're introducing ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT's ...",
+      "published_at": "2026-01-12T17:13:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g4MTiidxp8I/hqdefault.jpg"
+    },
+    {
+      "title": "Getting started with Codex",
+      "video_id": "px7XlbYgk7I",
+      "channel_title": "OpenAI",
+      "description": "Get started with Codex, OpenAI's coding agent, in this step-by-step onboarding walkthrough. You'll learn how to install Codex, set ...",
+      "published_at": "2026-01-12T16:11:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/px7XlbYgk7I/hqdefault.jpg"
+    },
+    {
       "title": "This Year with ChatGPT",
       "video_id": "cjveRUfE7dc",
       "channel_title": "OpenAI",
-      "description": "Set goals and stick to them all year with ChatGPT.",
+      "description": "Set goals and stick to them all year with ChatGPT. Music: \"Les Fleurs\" by Minnie Riperton.",
       "published_at": "2026-01-09T16:00:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cjveRUfE7dc/hqdefault.jpg"
     },
@@ -27,14 +51,6 @@
       "description": "We're introducing ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT's ...",
       "published_at": "2026-01-07T19:45:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Aj4Wecpkee8/hqdefault.jpg"
-    },
-    {
-      "title": "Helping you choose the right insurance plan for you with ChatGPT",
-      "video_id": "Qsx96rg9Ai0",
-      "channel_title": "OpenAI",
-      "description": "We're introducing ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT's ...",
-      "published_at": "2026-01-07T19:45:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Qsx96rg9Ai0/hqdefault.jpg"
     },
     {
       "title": "Securely connecting your information and apps with ChatGPT Health",
@@ -67,22 +83,6 @@
       "description": "Living with heart failure, Steve uses ChatGPT to carry out his doctor's care plan by tracking his diet, medications, and ...",
       "published_at": "2026-01-07T00:22:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/X4birkVaLas/hqdefault.jpg"
-    },
-    {
-      "title": "Balancing Motherhood | with ChatGPT",
-      "video_id": "IDyHqwyHWGw",
-      "channel_title": "OpenAI",
-      "description": "As a mom of two toddlers, Lauren uses ChatGPT to find time for herself through flexible workouts that fit into the unpredictable ...",
-      "published_at": "2026-01-06T17:40:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IDyHqwyHWGw/hqdefault.jpg"
-    },
-    {
-      "title": "Commonwealth Bank of Australia builds AI fluency at scale",
-      "video_id": "z6h7XYxQpGs",
-      "channel_title": "OpenAI",
-      "description": "By rolling out ChatGPT Enterprise across its workforce, CBA is improving how teams work and deliver better outcomes for ...",
-      "published_at": "2026-01-06T01:05:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z6h7XYxQpGs/hqdefault.jpg"
     }
   ]
 }

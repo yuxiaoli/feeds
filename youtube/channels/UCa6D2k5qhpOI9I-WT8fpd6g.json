@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-11T00:34:04.300507",
+  "fetched_at": "2026-01-18T00:33:38.649044",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
-  "count": 10,
+  "count": 25,
   "videos": [
+    {
+      "title": "OpenCode详细攻略，开源版Claude Code，免费模型与神级插件  #ai #科技 #计算机 #编程 #coding",
+      "video_id": "JYVTUU9ClUA",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 OpenCode 是近期热度最高的AI编程工具。 它的最大优势是有开箱即用的 ...",
+      "published_at": "2026-01-17T13:30:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JYVTUU9ClUA/hqdefault.jpg"
+    },
     {
       "title": "Agent Skills (Claude Skills) 详细攻略，一期视频精通",
       "video_id": "DNF0FJ9l7wo",
@@ -83,6 +91,118 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 最近Codex 已经超越了Claude Code，成为当前热度最高的AI 编程工具。",
       "published_at": "2025-10-13T14:23:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/BhOF-7--bhA/hqdefault.jpg"
+    },
+    {
+      "title": "赛博善人出新品！中国区友好的免费全栈部署平台，AI编程绝配",
+      "video_id": "h3RWKZO_sRw",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "EdgeOne中国区免费CDN，激活码领取（8000个，先到先得）：https://edgeone.tech-shrimp.com/ 中国区免费CDN视频教程： ...",
+      "published_at": "2025-09-26T08:07:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h3RWKZO_sRw/hqdefault.jpg"
+    },
+    {
+      "title": "AI编程，我找到了性价比平替，前后端真实编程场景实测",
+      "video_id": "HSmPZT3d1KE",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 最近几天Antropic官方发文承认存在模型输出质量下降问题，也就是俗称的 ...",
+      "published_at": "2025-09-19T11:30:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HSmPZT3d1KE/hqdefault.jpg"
+    },
+    {
+      "title": "为什么PostgreSQL能超越MySQL，有哪些优势？PostgreSQL登顶最受欢迎的数据库",
+      "video_id": "vuAPhx0P3ms",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 为什么Postgres能超越Mysql登顶最受欢迎的数据库，Postgres比起Mysql ...",
+      "published_at": "2025-09-09T11:46:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vuAPhx0P3ms/hqdefault.jpg"
+    },
+    {
+      "title": "开学必备！五款开源免费AI知识类工具，高效提取知识，重塑学习流程",
+      "video_id": "cxc36t7oklI",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 MinerU在线使用：https://mineru.net/ NoteGen ...",
+      "published_at": "2025-09-01T02:13:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cxc36t7oklI/hqdefault.jpg"
+    },
+    {
+      "title": "PostgreSQL能存万物！这还是你认识的数据库吗？  #数据库 #编程 #科技 #人工智能",
+      "video_id": "1UPoCK0v22w",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 这是世界上最先进的开源关系型数据库PostGreSQL，能装下世间万物， ...",
+      "published_at": "2025-08-21T11:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1UPoCK0v22w/hqdefault.jpg"
+    },
+    {
+      "title": "AI编程工具Claude Code详细攻略，一期视频精通",
+      "video_id": "e5O8A5pcVgg",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 介绍30个Claude Code高阶使用技巧，一期视频精通Claude Code。",
+      "published_at": "2025-08-13T09:59:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e5O8A5pcVgg/hqdefault.jpg"
+    },
+    {
+      "title": "无限免费Claude Code，免费模型有满血版几成功力？",
+      "video_id": "Hr24rIDDyPU",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Claude Code虽好，价格受不了。本期介绍几种免费方案。 Claude Code ...",
+      "published_at": "2025-08-05T12:09:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Hr24rIDDyPU/hqdefault.jpg"
+    },
+    {
+      "title": "边缘函数中转Gemini API，国内无限免费爽用，云函数入门实战教程",
+      "video_id": "SnNDCgfKHyA",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 我写了一个小项目，使用边缘云函数，将一线大模型，Gemini的免费API ...",
+      "published_at": "2025-07-31T11:16:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SnNDCgfKHyA/hqdefault.jpg"
+    },
+    {
+      "title": "TRAE 2.0来啦！开发宠物店应用，SOLO一下就够了  #ai #科技 #人工智能 #网站 #编程",
+      "video_id": "1oWsN4qQhQ8",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 就在前天，字节跳动旗下AI编程工具TRAE迎来了重磅的2.0版本升级。",
+      "published_at": "2025-07-23T12:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1oWsN4qQhQ8/hqdefault.jpg"
+    },
+    {
+      "title": "下一代容器管理工具Podman，对比Docker有哪些优势，架构是什么样的？#科技 #教程  #计算机  #操作系统",
+      "video_id": "P68C6CQB0F4",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Docker过时了吗？下一代容器管理工具Podman是什么，比起Docker有 ...",
+      "published_at": "2025-07-14T13:53:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/P68C6CQB0F4/hqdefault.jpg"
+    },
+    {
+      "title": "十几个场景榨干AI善人，Gemini 2.5 Pro API又免费了  #ai #人工智能 #科技 #教程 #计算机",
+      "video_id": "s3dXrSl7ltU",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 好消息，Gemini 2.5 Pro 的API又可以免费用了。免费用户每分钟可以 ...",
+      "published_at": "2025-07-05T09:56:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s3dXrSl7ltU/hqdefault.jpg"
+    },
+    {
+      "title": "40分钟的Docker实战攻略，一期视频精通Docker",
+      "video_id": "_-IPi1a774E",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 本视频是一个40分钟的Docker的实战教程。涵盖了Docker的所有常用功能 ...",
+      "published_at": "2025-06-28T09:24:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_-IPi1a774E/hqdefault.jpg"
+    },
+    {
+      "title": "新赛博大善人诞生了!  中国区友好的免费CDN，无限流量，DDoS防护。比cloudflare更好用？",
+      "video_id": "LCMPC_GDBeo",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "大家搭建网站的时候，一定遇到过图片/视频加载慢、浏览器显示不安全、还有担心被黑客攻击等等的问题。以往大家都会 ...",
+      "published_at": "2025-06-20T12:19:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LCMPC_GDBeo/hqdefault.jpg"
+    },
+    {
+      "title": "免费服务器+免费大模型部署n8n（免费AI工作流）",
+      "video_id": "mzjhST0Od5Q",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 免费服务器+免费大模型部署开源免费AI工作流n8n.",
+      "published_at": "2025-06-07T11:05:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mzjhST0Od5Q/hqdefault.jpg"
     }
   ]
 }

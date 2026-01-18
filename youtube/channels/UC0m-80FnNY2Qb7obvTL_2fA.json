@@ -1,40 +1,64 @@
 {
-  "fetched_at": "2026-01-11T00:33:24.315462",
+  "fetched_at": "2026-01-18T00:32:58.836372",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Foundry IQ: unlock ubiquitous knowledge for agents",
-      "video_id": "eUNxLD3oSIA",
+      "title": "Microsoft Defender for Cloud Windows Server setup demo",
+      "video_id": "qkWozHgDy9U",
       "channel_title": "Microsoft Azure",
-      "description": "Discover how Foundry IQ transforms enterprise AI agents by unifying knowledge from SharePoint, internal apps, and the public ...",
-      "published_at": "2026-01-09T16:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eUNxLD3oSIA/hqdefault.jpg"
+      "description": "Learn how to set up Microsoft Defender for Cloud protection for your Windows Virtual Machines. Learn more and explore options ...",
+      "published_at": "2026-01-16T21:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qkWozHgDy9U/hqdefault.jpg"
     },
     {
-      "title": "Retail Forward: Return on Intelligence",
-      "video_id": "L4_cF4m94ro",
+      "title": "Protect VMs using Azure Backup and Microsoft Defender for Cloud",
+      "video_id": "qo05D85fb0w",
       "channel_title": "Microsoft Azure",
-      "description": "Agentic AI is the new frontier. The new era of Retail is human-led and AI-powered. Accelerate loyalty through next-gen customer ...",
-      "published_at": "2026-01-08T16:22:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L4_cF4m94ro/hqdefault.jpg"
+      "description": "A quick demo of how you can help protect virtual machines from threats, using both Azure Backup and Microsoft Defender for ...",
+      "published_at": "2026-01-16T19:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qo05D85fb0w/hqdefault.jpg"
     },
     {
-      "title": "How to Migrate Data from AWS S3 to Azure Blob | Free Cloud-to-Cloud with Azure Storage Mover",
-      "video_id": "a9ptzHk7Y74",
+      "title": "Microsoft for Consumer Goods: Power up your AI Transformation",
+      "video_id": "GzMq58t-aQM",
       "channel_title": "Microsoft Azure",
-      "description": "Do more with your data by simplifying hybrid and multicloud migrations with the free, fully managed Azure Storage Mover service!",
-      "published_at": "2026-01-07T18:12:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a9ptzHk7Y74/hqdefault.jpg"
+      "description": "Power up your data, products, brands, and future with Microsoft for Consumer Goods. Enrich employee experiences by ...",
+      "published_at": "2026-01-16T17:46:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GzMq58t-aQM/hqdefault.jpg"
     },
     {
-      "title": "How to Deploy High-Performance Storage for AKS | Free, Open-Source Azure Container Storage",
-      "video_id": "DqabGLa_Hxo",
+      "title": "Microsoft Ignite 2025: Azure Storage and migration solutions",
+      "video_id": "kkXap7C--e0",
       "channel_title": "Microsoft Azure",
-      "description": "Run stateful Kubernetes on Azure with confidence and experience how Azure Container Storage makes managing storage for ...",
-      "published_at": "2026-01-07T18:11:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DqabGLa_Hxo/hqdefault.jpg"
+      "description": "At Microsoft Ignite 2025, Azure Storage and migration solutions showcased how organizations can move, modernize, and scale ...",
+      "published_at": "2026-01-15T18:13:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kkXap7C--e0/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft Ignite 2025: Azure Storage innovations with the next-generation of Azure Ultra Disk",
+      "video_id": "mYYfnTZKKpE",
+      "channel_title": "Microsoft Azure",
+      "description": "In this interview, Yuemin Lu discusses how Ultra Disk continues to evolve to meet the demands of modern workloads—delivering ...",
+      "published_at": "2026-01-15T18:09:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mYYfnTZKKpE/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft Ignite 2025: Pure Storage and Azure Storage on simplifying migrations with Microsoft Azure",
+      "video_id": "S5EFNsxKRvg",
+      "channel_title": "Microsoft Azure",
+      "description": "At Microsoft Ignite, Lissa Kurnik spoke with Dan Kogan from Pure Storage about how Pure Storage and Microsoft Azure ...",
+      "published_at": "2026-01-15T17:57:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S5EFNsxKRvg/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft Ignite 2025: Azure Storage on the AI evolution and staying ahead of the curve",
+      "video_id": "GCzm2clS-sw",
+      "channel_title": "Microsoft Azure",
+      "description": "At Microsoft Ignite 2025, Yuemin Lu and Ali Jamil discuss the AI evolution and what it takes to stay ahead of the curve.",
+      "published_at": "2026-01-15T17:26:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GCzm2clS-sw/hqdefault.jpg"
     },
     {
       "title": "Dragon Copilot Admin Center",
@@ -59,30 +83,6 @@
       "description": "SK Telecom uses Microsoft Foundry to orchestrate multi-agent workflows to deliver personalized, scalable, and compliant digital ...",
       "published_at": "2025-12-01T22:41:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6RHsxWn_Dws/hqdefault.jpg"
-    },
-    {
-      "title": "Future of Cloud: Language of Nature",
-      "video_id": "iWi8M5qsKAk",
-      "channel_title": "Microsoft Azure",
-      "description": "In this episode of Future of Cloud: Language of Nature, we trace how the logic of living systems is shaping the next era of ...",
-      "published_at": "2025-11-24T16:01:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iWi8M5qsKAk/hqdefault.jpg"
-    },
-    {
-      "title": "Designing Proteins with AI at UW With Microsoft Foundry",
-      "video_id": "zjwIw_dHsEo",
-      "channel_title": "Microsoft Azure",
-      "description": "See how University of Washington uses Microsoft Foundry to design new proteins for medicine, technology, and sustainability.",
-      "published_at": "2025-11-22T02:47:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zjwIw_dHsEo/hqdefault.jpg"
-    },
-    {
-      "title": "Azure Copilot and GitHub Copilot application modernization",
-      "video_id": "D-_wynwy_LI",
-      "channel_title": "Microsoft Azure",
-      "description": "Use Azure Copilot for application discovery, business case and assessments and interoperate with GitHub Copilot for application ...",
-      "published_at": "2025-11-18T19:28:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D-_wynwy_LI/hqdefault.jpg"
     }
   ]
 }

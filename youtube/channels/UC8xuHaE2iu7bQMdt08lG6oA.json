@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-11T00:33:33.611643",
+  "fetched_at": "2026-01-18T00:33:08.064491",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "1969 Mustang Mach 1 Burning Rubber @adriennejanic",
+      "video_id": "qaXGE4DTIN0",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-01-16T23:05:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qaXGE4DTIN0/hqdefault.jpg"
+    },
     {
       "title": "1967 Mustang, Pure American Muscle #mustang #ford",
       "video_id": "uWDKA9XsF90",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-07-11T23:14:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5Mcy8qNkOUk/hqdefault.jpg"
-    },
-    {
-      "title": "Her Porsche 911 is No Joke @jessycacb #porsche #911",
-      "video_id": "m45WYNIKwTw",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-07-08T16:38:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m45WYNIKwTw/hqdefault.jpg"
     }
   ]
 }

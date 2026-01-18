@@ -1,24 +1,72 @@
 {
-  "fetched_at": "2026-01-11T00:33:31.431491",
+  "fetched_at": "2026-01-18T00:33:05.936825",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 6,
+  "count": 10,
   "videos": [
     {
-      "title": "GitHub Game Off 2025: Top 10 Entries",
-      "video_id": "YzM-kIbhico",
+      "title": "One new developer joins GitHub every second",
+      "video_id": "zz6yge9p6e0",
       "channel_title": "GitHub",
-      "description": "We asked for WAVES. You delivered 700+ games, all free to play, with source code you can actually poke at. Meet the top 10 ...",
-      "published_at": "2026-01-10T21:37:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YzM-kIbhico/hqdefault.jpg"
+      "description": "The 2025 Octoverse report is in, and the numbers are incredible. There are now over 180 million developers on GitHub, with more ...",
+      "published_at": "2026-01-17T17:01:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zz6yge9p6e0/hqdefault.jpg"
     },
     {
-      "title": "Mike McQuaid on 16 years of maintaining Homebrew | Episode 5 | The GitHub Podcast",
-      "video_id": "mdxYnfPQrzU",
+      "title": "Inside Octoverse 2025 report: The rise of vibe coding &amp; agentic AI | Episode 7 | The GitHub Podcast",
+      "video_id": "ve-tfDEQOG8",
       "channel_title": "GitHub",
-      "description": "Homebrew's project lead, Mike McQuaid, joins Abby and Andrea to unpack what it really takes to sustain one of the most-used ...",
-      "published_at": "2026-01-10T15:01:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mdxYnfPQrzU/hqdefault.jpg"
+      "description": "Andrea and Kedasha sit down with data whisperer, Jeff Luszcz, one of the wizards behind GitHub's annual Octoverse report, ...",
+      "published_at": "2026-01-17T15:01:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ve-tfDEQOG8/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday with Appwrite",
+      "video_id": "m-TAeO4FnKM",
+      "channel_title": "GitHub",
+      "description": "In this episode of Open Source Friday, we sit down with Dennis Ivy, Developer Advocate at Appwrite, to explore how the ...",
+      "published_at": "2026-01-17T06:29:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m-TAeO4FnKM/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday with Clawdbot 🦀",
+      "video_id": "1iCcUjnAIOM",
+      "channel_title": "GitHub",
+      "description": "In this week's Open Source Friday, we sit down with Peter Steinberger to dive into Clawdbot, an open source personal AI assistant ...",
+      "published_at": "2026-01-15T19:52:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1iCcUjnAIOM/hqdefault_live.jpg"
+    },
+    {
+      "title": "Homebrew&#39;s zero tolerance policy for toxic behavior",
+      "video_id": "8dyuHoMSqyU",
+      "channel_title": "GitHub",
+      "description": "Why does Homebrew have such a strict policy against unpleasant behavior? Mike McQuaid addresses his reputation as a ...",
+      "published_at": "2026-01-15T15:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8dyuHoMSqyU/hqdefault.jpg"
+    },
+    {
+      "title": "How Log4Shell changed open source funding forever | Episode 6 | The GitHub Podcast",
+      "video_id": "BkRjrey43z0",
+      "channel_title": "GitHub",
+      "description": "In this episode of the GitHub Podcast, Abby sits down with Felix Reda, Director of Developer Policy at GitHub, and Christian ...",
+      "published_at": "2026-01-13T15:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BkRjrey43z0/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday with Nuxt",
+      "video_id": "UAdUbNEwRjY",
+      "channel_title": "GitHub",
+      "description": "Join us for Open Source Friday featuring Daniel Roe, leader of the Nuxt core team! Discover the latest from the Nuxt project, get ...",
+      "published_at": "2026-01-13T03:14:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UAdUbNEwRjY/hqdefault_live.jpg"
+    },
+    {
+      "title": "Even in Spanish: Open Source Viernes con rOpenSci",
+      "video_id": "Q01Wrp1puP0",
+      "channel_title": "GitHub",
+      "description": "Acompáñanos en Open Source Friday para descubrir el Programa de Campeon(a|e)s de rOpenSci, una iniciativa que fortalece ...",
+      "published_at": "2026-01-13T02:39:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q01Wrp1puP0/hqdefault_live.jpg"
     },
     {
       "title": "Open Source Friday Special - Vision Board 2026",
@@ -32,25 +80,9 @@
       "title": "Transforming Engineering Leadership with AI and Metrics",
       "video_id": "uBw1Q0L6qwU",
       "channel_title": "GitHub",
-      "description": "Join GitHub's Andrea Griffiths and Jeff Keyes, Field CTO at Allstacks, to explore how the Intelligence Engine and AI-powered deep ...",
+      "description": "Join GitHub's @acolombiadev and Jeff Keyes, Field CTO at Allstacks, to explore how the Intelligence Engine and AI-powered ...",
       "published_at": "2026-01-09T23:26:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/uBw1Q0L6qwU/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays - It&#39;s time to build!",
-      "video_id": "KalgAXDzG4w",
-      "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. We'll revisit the ...",
-      "published_at": "2026-01-09T21:02:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KalgAXDzG4w/hqdefault.jpg"
-    },
-    {
-      "title": "Event in Spanish: Jueves de Quack con @acolombiadev",
-      "video_id": "iBf7L5BQra4",
-      "channel_title": "GitHub",
-      "description": "Te perdiste las últimas semanas de diciembre? GitHub no se detuvo durante las fiestas. Hoy cubrimos TODO lo que necesitas ...",
-      "published_at": "2026-01-09T17:21:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iBf7L5BQra4/hqdefault.jpg"
     }
   ]
 }

@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2026-01-11T00:34:07.239771",
+  "fetched_at": "2026-01-18T00:33:41.492260",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
     {
-      "title": "A new course on Retrieval Augmented Generation (RAG) is live!",
-      "video_id": "FipL9bDLzJk",
+      "title": "One of the best ways to improve the apps you build is to share them early: Andrew Ng",
+      "video_id": "50uLstQ0TN8",
       "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/3GKWqrY We're thrilled to announce the launch of a new course: Retrieval Augmented Generation (RAG) ...",
-      "published_at": "2026-01-08T15:14:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FipL9bDLzJk/hqdefault.jpg"
+      "description": "One of the best ways to improve the apps you build is to share them early. In the beginner-friendly \"Build with Andrew\" course, ...",
+      "published_at": "2026-01-15T20:51:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/50uLstQ0TN8/hqdefault.jpg"
+    },
+    {
+      "title": "New course! Document AI: From OCR to Agentic Doc Extraction",
+      "video_id": "ltxsE1rhSfI",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4bsaJP0 Join this new short course on Document AI, built with LandingAI and taught by David Park, ...",
+      "published_at": "2026-01-14T14:27:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ltxsE1rhSfI/hqdefault.jpg"
     },
     {
       "title": "Build your first app with AI. No coding background required",
@@ -19,14 +27,6 @@
       "description": "You don't need to know how to code to build apps anymore. Andrew Ng's new course shows how to turn an idea into a working ...",
       "published_at": "2026-01-07T15:13:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Wq634q-uKpA/hqdefault.jpg"
-    },
-    {
-      "title": "Build your first app with AI. No coding background required",
-      "video_id": "GJoLZ0oTsK0",
-      "channel_title": "DeepLearningAI",
-      "description": "Many people have ideas for apps they wish existed, but still assume building them requires learning to code, installing tools, ...",
-      "published_at": "2026-01-07T13:53:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GJoLZ0oTsK0/hqdefault.jpg"
     },
     {
       "title": "Make your AI agents production-ready with Nvidia’s NeMo Toolkit",

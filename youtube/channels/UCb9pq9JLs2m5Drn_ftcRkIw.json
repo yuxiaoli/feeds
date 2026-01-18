@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-11T00:34:05.000657",
+  "fetched_at": "2026-01-18T00:33:39.379488",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "مافي جاذبية",
+      "video_id": "V5bQRb6stcM",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-01-11T09:54:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V5bQRb6stcM/hqdefault.jpg"
+    },
     {
       "title": "الطريقة الصحيحة لاستخدام الأوزان",
       "video_id": "gHgeZM3nyxM",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-11-25T10:00:42Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gXNkoTzfu94/hqdefault.jpg"
-    },
-    {
-      "title": "No space Muscle up",
-      "video_id": "2Jky_ttRKRM",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-11-14T10:46:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2Jky_ttRKRM/hqdefault.jpg"
     }
   ]
 }

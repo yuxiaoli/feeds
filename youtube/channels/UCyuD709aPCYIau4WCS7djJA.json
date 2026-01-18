@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-11T00:34:23.819960",
+  "fetched_at": "2026-01-18T00:33:58.226417",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Aurora magic from space! 💚💜",
+      "video_id": "i9Y1FZi3BXQ",
+      "channel_title": "Star Walk",
+      "description": "This stunning view of the polar lights was filmed by JAXA astronaut Kimiya Yui from the International Space Station. 🛰️ He ...",
+      "published_at": "2026-01-12T09:56:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i9Y1FZi3BXQ/hqdefault.jpg"
+    },
     {
       "title": "January Full Moon 2026 is the Wolf Supermoon! 🐺🌕",
       "video_id": "Lq9NlNQdZSw",
@@ -75,14 +83,6 @@
       "description": "Did you know that Earth's orbit is becoming more crowded every year? Space junk — also called space debris or orbital waste ...",
       "published_at": "2025-12-15T08:26:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0Ng7Nl3IU3A/hqdefault.jpg"
-    },
-    {
-      "title": "🚨The Longest Cosmic Explosion EVER Caught!",
-      "video_id": "7fxE7nQUOYI",
-      "channel_title": "Star Walk",
-      "description": "A black hole just broke the record for the longest cosmic blast we've ever seen. ✨ On July 2, 2025, GRB 250702B lit up the ...",
-      "published_at": "2025-12-12T13:21:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7fxE7nQUOYI/hqdefault.jpg"
     }
   ]
 }

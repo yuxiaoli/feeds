@@ -1,32 +1,88 @@
 {
-  "fetched_at": "2026-01-11T00:33:49.406738",
+  "fetched_at": "2026-01-18T00:33:23.886566",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 3,
+  "count": 10,
   "videos": [
     {
-      "title": "International Space Station Update: Thursday, Jan. 8, 2026",
-      "video_id": "ffcV3jCwwPk",
+      "title": "NASA&#39;s Artemis II Crew Rollout Media Event",
+      "video_id": "tTs799cmxBc",
       "channel_title": "NASA",
-      "description": "NASA will host a live news conference at 5 p.m. EST on Thursday from the agency's headquarters in Washington to discuss the ...",
-      "published_at": "2026-01-08T22:47:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ffcV3jCwwPk/hqdefault.jpg"
+      "description": "NASA Administrator Jared Isaacman and the crew of Artemis II (NASA astronauts Reid Wiseman, Victor Glover, and Christina ...",
+      "published_at": "2026-01-17T14:44:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tTs799cmxBc/hqdefault.jpg"
     },
     {
-      "title": "U.S. Spacewalk Preview News Conference (Jan. 6, 2026)",
-      "video_id": "YSgLjktLfrQ",
+      "title": "NASA&#39;s Artemis II Live Views from Kennedy Space Center",
+      "video_id": "nrVnsO_rdew",
       "channel_title": "NASA",
-      "description": "NASA experts are discussing two upcoming spacewalks which will make upgrades to the International Space Station. Tune in and ...",
-      "published_at": "2026-01-06T19:47:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YSgLjktLfrQ/hqdefault.jpg"
+      "description": "This live feed from our Kennedy Space Center in Florida will provide continuous views of the Artemis II Moon rocket beginning on ...",
+      "published_at": "2026-01-16T19:36:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nrVnsO_rdew/hqdefault_live.jpg"
+    },
+    {
+      "title": "NASA’s Artemis II Rollout and Mission Overview News Conference (Jan. 16, 2026)",
+      "video_id": "Pn9lZtMXFxQ",
+      "channel_title": "NASA",
+      "description": "NASA experts give updates on the Artemis II mission before rollout of the Moon rocket and spacecraft to the launch pad at ...",
+      "published_at": "2026-01-16T17:59:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pn9lZtMXFxQ/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-11 Post-Splashdown News Conference (Jan. 15, 2026)",
+      "video_id": "QFOVIAxEFng",
+      "channel_title": "NASA",
+      "description": "After the splashdown of NASA's SpaceX Crew-11 mission, agency leaders, including NASA Administrator Jared Isaacman, are ...",
+      "published_at": "2026-01-15T11:21:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QFOVIAxEFng/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-11 Re-Entry and Splashdown",
+      "video_id": "qRVoblm2Nxw",
+      "channel_title": "NASA",
+      "description": "",
+      "published_at": "2026-01-15T09:45:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qRVoblm2Nxw/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-11 Undocking",
+      "video_id": "IakRgsTYUDY",
+      "channel_title": "NASA",
+      "description": "The four members of NASA's SpaceX Crew-11 mission — NASA astronauts Zena Cardman and Mike Fincke, JAXA (Japan ...",
+      "published_at": "2026-01-14T22:45:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IakRgsTYUDY/hqdefault.jpg"
+    },
+    {
+      "title": "NASA’s SpaceX Crew-11 Hatch Close",
+      "video_id": "X0398ExPsK8",
+      "channel_title": "NASA",
+      "description": "Watch as NASA astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, ...",
+      "published_at": "2026-01-14T20:54:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X0398ExPsK8/hqdefault.jpg"
+    },
+    {
+      "title": "International Space Station Change of Command Ceremony",
+      "video_id": "cqvpXwHTztY",
+      "channel_title": "NASA",
+      "description": "As Crew-11 prepares to depart from the space station, NASA astronaut Mike Fincke will hand command of Expedition 74 aboard ...",
+      "published_at": "2026-01-12T19:52:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cqvpXwHTztY/hqdefault.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
-      "video_id": "iYmvCUonukw",
+      "video_id": "FV4Q9DryTG8",
       "channel_title": "NASA",
       "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
-      "published_at": "2026-01-04T05:20:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iYmvCUonukw/hqdefault.jpg"
+      "published_at": "2026-01-12T15:22:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FV4Q9DryTG8/hqdefault_live.jpg"
+    },
+    {
+      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
+      "video_id": "kPLUu3VHPkk",
+      "channel_title": "NASA",
+      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
+      "published_at": "2026-01-12T15:24:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kPLUu3VHPkk/hqdefault_live.jpg"
     }
   ]
 }

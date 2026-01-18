@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-11T00:33:30.100571",
+  "fetched_at": "2026-01-18T00:33:04.564083",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Tesla to the rescue",
+      "video_id": "xwKzJd3_drc",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-01-16T22:14:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xwKzJd3_drc/hqdefault.jpg"
+    },
+    {
+      "title": "Tesla Lithium Refinery",
+      "video_id": "rxYTx6aj96k",
+      "channel_title": "Tesla",
+      "description": "Our Lithium Refinery ushers in energy independence for North America Regionalized access to critical battery minerals brings ...",
+      "published_at": "2026-01-14T19:29:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rxYTx6aj96k/hqdefault.jpg"
+    },
     {
       "title": "CyberTenting under the stars",
       "video_id": "kHtvEoCQM_Y",
@@ -67,22 +83,6 @@
       "description": "25MW / 900MWh of Megapack provides power in Chile's Atacama Desert, considered the driest desert on earth. Megapacks for ...",
       "published_at": "2025-12-08T20:36:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_iytMHw6uJY/hqdefault.jpg"
-    },
-    {
-      "title": "Model X opens the door for you",
-      "video_id": "x8c965ezpq8",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-11-24T18:13:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x8c965ezpq8/hqdefault.jpg"
-    },
-    {
-      "title": "Hot wings",
-      "video_id": "FwqPI15nPjc",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-11-19T20:40:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FwqPI15nPjc/hqdefault.jpg"
     }
   ]
 }

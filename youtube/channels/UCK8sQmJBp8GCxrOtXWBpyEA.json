@@ -1,48 +1,56 @@
 {
-  "fetched_at": "2026-01-11T00:33:45.248995",
+  "fetched_at": "2026-01-18T00:33:19.750101",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 5,
+  "count": 6,
   "videos": [
     {
-      "title": "Find your new look for 2026 ✨",
-      "video_id": "J-pfO9v32jc",
+      "title": "Budgeting not one of your strong suits? Get a little help from Search.",
+      "video_id": "owgMScl57Ps",
       "channel_title": "Google",
-      "description": "Ready to discover your new style? Open the Google app, tap Lens, and hit the to generate your new fashion identity. Visuals ...",
-      "published_at": "2026-01-09T20:53:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J-pfO9v32jc/hqdefault.jpg"
+      "description": "Life adds up fast. Use AI Mode in Search to build a custom budget that actually works for you. #GoogleSearch #AIMode.",
+      "published_at": "2026-01-16T19:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/owgMScl57Ps/hqdefault.jpg"
     },
     {
-      "title": "Meta Puppet on AI Filmmaking with Flow | In the Flow",
-      "video_id": "nkX8j9472lg",
+      "title": "Hashem Al-Ghaili on AI Filmmaking with Flow | In the Flow",
+      "video_id": "Bb0oFbZ35qM",
       "channel_title": "Google",
-      "description": "Don't just talk about your movie idea. Show it. Hear from https://www.youtube.com/@MetaPuppet on how Flow can help you ...",
-      "published_at": "2026-01-09T18:33:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nkX8j9472lg/hqdefault.jpg"
+      "description": "Continuing our series In the Flow, we sat down with filmmaker https://www.youtube.com/user/hashemalghaili to break down his ...",
+      "published_at": "2026-01-16T00:32:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Bb0oFbZ35qM/hqdefault.jpg"
     },
     {
-      "title": "The Future of Medicine: AI vs Disease. Watch the full episode on our channel now.",
-      "video_id": "-Q6_jBnsBiE",
+      "title": "How AI Empowers Artists. Watch the full episode on our channel now.",
+      "video_id": "giZGg6ZWLwo",
       "channel_title": "Google",
-      "description": "Discover the unseen world of data centers. Watch the Season 5 premiere of Google's Webby Award-winning series, Where the ...",
-      "published_at": "2026-01-09T00:39:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-Q6_jBnsBiE/hqdefault.jpg"
+      "description": "This film accompanies Season 5 of the Webby Award-winning podcast Where the Internet Lives, about the unseen world of data ...",
+      "published_at": "2026-01-15T17:36:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/giZGg6ZWLwo/hqdefault.jpg"
     },
     {
-      "title": "Mapping New Medicines | Where the Internet Lives",
-      "video_id": "o-8WCNb3BQY",
+      "title": "Super charging creativity | Where the Internet Lives",
+      "video_id": "jiGDzy0sxOI",
       "channel_title": "Google",
       "description": "Where the Internet Lives is a Webby Award–winning podcast and mini-documentary series about the fascinating world of data ...",
-      "published_at": "2026-01-07T20:54:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o-8WCNb3BQY/hqdefault.jpg"
+      "published_at": "2026-01-14T23:17:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jiGDzy0sxOI/hqdefault.jpg"
     },
     {
-      "title": "How to test nail art virtually with Nano Banana 🍌✨",
-      "video_id": "wO6Q6ttFfnw",
+      "title": "VP of Gemini Josh Woodward breaks down Personal Intelligence in the Gemini App",
+      "video_id": "va91wTJHFAg",
       "channel_title": "Google",
-      "description": "Ever wanted to test a look before committing? Try Nano Banana in Search. Just open Lens, tap the banana, and take your nail art ...",
-      "published_at": "2026-01-07T16:59:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wO6Q6ttFfnw/hqdefault.jpg"
+      "description": "Starting today, access is rolling out over the next week to eligible Google AI Pro and AI Ultra subscribers in the U.S. Once enabled, ...",
+      "published_at": "2026-01-14T17:59:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/va91wTJHFAg/hqdefault.jpg"
+    },
+    {
+      "title": "You can axolotl personal questions with Personal Intelligence in Gemini.",
+      "video_id": "ZJ0GLeWAJfA",
+      "channel_title": "Google",
+      "description": "Personal Intelligence draws insights from across your Google apps to provide truly customized responses from Gemini.",
+      "published_at": "2026-01-14T17:32:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZJ0GLeWAJfA/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-11T00:33:47.387492",
+  "fetched_at": "2026-01-18T00:33:21.802971",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "机器人“大脑”60年进化史：基础模型的五代进化与三大闭源流派｜机器人系列",
+      "video_id": "g5hw1HZfwTc",
+      "channel_title": "硅谷101",
+      "description": "2025年，机器人突然变得“聪明”了。它们开始叠衣服、准备早餐、在真实环境中持续工作，而这一切的背后，不再只是机械结构的 ...",
+      "published_at": "2026-01-13T01:01:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g5hw1HZfwTc/hqdefault.jpg"
+    },
     {
       "title": "脑机接口大盘点：从科幻到现实，谁在引领这场“读心术”革命?",
       "video_id": "bO6xBjIx9JQ",
@@ -75,14 +83,6 @@
       "description": "在人工智能席卷各行各业的今天，教育正站在变革的十字路口。这是一场汇聚了“硅谷教母”、密涅瓦大学创始人以及斯坦福加速学习 ...",
       "published_at": "2025-12-03T23:34:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vZ1kAuU_ogw/hqdefault.jpg"
-    },
-    {
-      "title": "AI最烧钱的战场：数据中心的真实账单",
-      "video_id": "reCHpD4yDfQ",
-      "channel_title": "硅谷101",
-      "description": "5000亿美元，是NASA预估让人类登陆火星的预算，却只够OpenAI建一座“星际之门”数据中心。而这，仅仅是开始。随着Meta、xAI ...",
-      "published_at": "2025-12-01T23:06:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/reCHpD4yDfQ/hqdefault.jpg"
     }
   ]
 }

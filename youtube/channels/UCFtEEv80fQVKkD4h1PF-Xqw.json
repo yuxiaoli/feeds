@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-01-11T00:33:41.201133",
+  "fetched_at": "2026-01-18T00:33:15.635320",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
+    {
+      "title": "Transforming driverless technology with Wayve and Microsoft",
+      "video_id": "a8Znbe-3Wv0",
+      "channel_title": "Microsoft",
+      "description": "The London-based startup Wayve is transforming driverless technology with an AI‑driven neural net that learns to navigate ...",
+      "published_at": "2026-01-16T18:48:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a8Znbe-3Wv0/hqdefault.jpg"
+    },
+    {
+      "title": "Doctor or AI?",
+      "video_id": "CUlOIhsvaZA",
+      "channel_title": "Microsoft",
+      "description": "Microsoft #AI #aiinhealthcare #FutureOfAI #aiethics #Series The question isn't whether AI or doctors will shape healthcare.",
+      "published_at": "2026-01-16T17:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CUlOIhsvaZA/hqdefault.jpg"
+    },
+    {
+      "title": "What happens when AI enters healthcare? | On Second Thought",
+      "video_id": "WKrGCu398ss",
+      "channel_title": "Microsoft",
+      "description": "How is AI changing healthcare, and what does that mean for patients and clinicians? In the first episode of On Second Thought, ...",
+      "published_at": "2026-01-15T17:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WKrGCu398ss/hqdefault.jpg"
+    },
+    {
+      "title": "Our AI future deserves a second thought | Watch ep 1",
+      "video_id": "lqXwOU0b__s",
+      "channel_title": "Microsoft",
+      "description": "Microsoft #AI #AIEthics #FutureOfAI #ResponsibleAI #Series On Second Thought digs into the questions everyone is asking about ...",
+      "published_at": "2026-01-14T16:59:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lqXwOU0b__s/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft AI Diffusion Report: How AI is being adapted worldwide",
+      "video_id": "F46VeJch9gc",
+      "channel_title": "Microsoft",
+      "description": "Microsoft's latest AI Diffusion Report reveals how the world is adopting AI globally, and what that means for countries embracing ...",
+      "published_at": "2026-01-13T16:59:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F46VeJch9gc/hqdefault.jpg"
+    },
     {
       "title": "UN Climate Change partners with Microsoft to create Climate Data Hub",
       "video_id": "7xhg_PCUJIo",
@@ -13,76 +53,36 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7xhg_PCUJIo/hqdefault.jpg"
     },
     {
-      "title": "Minecraft teaches kids to stay safe online",
-      "video_id": "aucW6HBfIWI",
+      "title": "Protecting Colombia’s endangered wildlife with Project SPARROW",
+      "video_id": "8XgoIths87Y",
       "channel_title": "Microsoft",
-      "description": "Minecraft Education is giving schools around the world a creative and powerful way to engage students in critical topics like online ...",
-      "published_at": "2025-07-18T19:57:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aucW6HBfIWI/hqdefault.jpg"
+      "description": "Deforestation and human activity are threatening Colombia's Middle Magdalena Valley, an endangered wildlife and ecosystem in ...",
+      "published_at": "2025-12-19T17:31:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8XgoIths87Y/hqdefault.jpg"
     },
     {
-      "title": "Students are learning to read with the help of AI-powered Microsoft Reading Coach",
-      "video_id": "W4jOURTL7iA",
+      "title": "Swiggy: using Microsoft Fabric Real-Time Intelligence to deliver millions of orders daily",
+      "video_id": "z32sE3194wg",
       "channel_title": "Microsoft",
-      "description": "Reading's magical ✨next chapter is on full display in teacher Olivier Dijmans's Belgian classroom. With students from around the ...",
-      "published_at": "2025-05-30T22:59:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W4jOURTL7iA/hqdefault.jpg"
+      "description": "Swiggy is one of India's leading on-demand convenience platforms. Powered by Microsoft Fabric Real-Time Intelligence, Swiggy ...",
+      "published_at": "2025-12-12T04:54:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z32sE3194wg/hqdefault.jpg"
     },
     {
-      "title": "Stanford Medicine and the healthcare agent orchestrator: Satya Nadella at Microsoft Build 2025",
-      "video_id": "DSOcjyV0oAE",
+      "title": "Satya Nadella demos an app he built | Microsoft AI Tour Bengaluru",
+      "video_id": "SEZADIErqyw",
       "channel_title": "Microsoft",
-      "description": "Stanford Medicine is using healthcare agent orchestrator to advance cancer care and have more effective tumor board meetings.",
-      "published_at": "2025-05-19T16:50:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DSOcjyV0oAE/hqdefault.jpg"
+      "description": "Microsoft chairman and CEO, Satya Nadella, demos an app he built during his keynote address at the Microsoft AI Tour in ...",
+      "published_at": "2025-12-11T22:50:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SEZADIErqyw/hqdefault.jpg"
     },
     {
-      "title": "Who from history would Satya Nadella invite to see Microsoft today? #microsoft50",
-      "video_id": "sPStVP8abPs",
+      "title": "Satya Nadella completes the Microsoft 365 Copilot Challenge",
+      "video_id": "gBcwQaNoP5A",
       "channel_title": "Microsoft",
-      "description": "Watch the full podcast: https://www.youtube.com/watch?v=ncjM7mY4LvE #microsoftceo #satyanadella #billgates #steveballmer ...",
-      "published_at": "2025-04-09T21:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sPStVP8abPs/hqdefault.jpg"
-    },
-    {
-      "title": "Satya Nadella on the future of labor with AI",
-      "video_id": "ueTCS6-U_4s",
-      "channel_title": "Microsoft",
-      "description": "Watch the full conversation: https://youtu.be/4GLSzuYXh6w?si=HBUbZ4seQAJG-yLe #microsoft #techtok #techpodcast ...",
-      "published_at": "2025-02-21T20:30:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ueTCS6-U_4s/hqdefault.jpg"
-    },
-    {
-      "title": "Just Bing it 💕 #microsoft #fyp #techtok #bing #Microsoft50",
-      "video_id": "4CMJDiPq1f4",
-      "channel_title": "Microsoft",
-      "description": "Subscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube Follow us on social: LinkedIn: ...",
-      "published_at": "2025-02-07T18:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4CMJDiPq1f4/hqdefault.jpg"
-    },
-    {
-      "title": "BWT Alpine F1 Team&#39;s Everyday AI Companion | Microsoft Copilot",
-      "video_id": "DA2_e-qB9dQ",
-      "channel_title": "Microsoft",
-      "description": "When team driver Pierre Gasly forgets a birthday, Microsoft Copilot has his back. Learn more: ...",
-      "published_at": "2024-06-03T15:30:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DA2_e-qB9dQ/hqdefault.jpg"
-    },
-    {
-      "title": "Infrastructure | Satya Nadella at Microsoft Build 2024",
-      "video_id": "2G97BW32pWg",
-      "channel_title": "Microsoft",
-      "description": "Satya Nadella at Microsoft Build 2024 - Satya Nadella talks about Microsoft's innovation in Infrastructure Subscribe to Microsoft on ...",
-      "published_at": "2024-05-22T00:05:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2G97BW32pWg/hqdefault.jpg"
-    },
-    {
-      "title": "The tangible stories we carry I People of Microsoft",
-      "video_id": "W_XPAy0lgF4",
-      "channel_title": "Microsoft",
-      "description": "Every artifact from our journey carries a story. Aleenah Ansari shows us a few items that hold importance for her. From traditional ...",
-      "published_at": "2024-05-07T16:01:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W_XPAy0lgF4/hqdefault.jpg"
+      "description": "microsoft #excel #microsoftexcel As the Excel World Championship takes place in Las Vegas, Satya Nadella tries his hand at the ...",
+      "published_at": "2025-12-04T18:55:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gBcwQaNoP5A/hqdefault.jpg"
     }
   ]
 }
