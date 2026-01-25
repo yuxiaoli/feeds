@@ -1,12 +1,36 @@
 {
-  "fetched_at": "2026-01-18T00:16:52.268366",
-  "count": 461,
+  "fetched_at": "2026-01-25T00:17:22.921011",
+  "count": 464,
   "stars": [
+    {
+      "full_name": "docling-project/docling-serve",
+      "description": "Running Docling as an API service",
+      "language": "Python",
+      "stargazers_count": 1156,
+      "forks_count": 248,
+      "pushed_at": "2026-01-13T12:31:32Z"
+    },
+    {
+      "full_name": "chatfire-AI/huobao-drama",
+      "description": "🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator \"One Sentence to Complete Drama: Fully Automated from Script to Final Video\"",
+      "language": "Vue",
+      "stargazers_count": 5853,
+      "forks_count": 1029,
+      "pushed_at": "2026-01-24T03:02:03Z"
+    },
+    {
+      "full_name": "21st-dev/1code",
+      "description": "Best UI for Claude Code",
+      "language": "TypeScript",
+      "stargazers_count": 4315,
+      "forks_count": 398,
+      "pushed_at": "2026-01-24T22:16:12Z"
+    },
     {
       "full_name": "ai-tmarks/tmarks",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 403,
+      "stargazers_count": 411,
       "forks_count": 260,
       "pushed_at": "2025-12-28T04:22:48Z"
     },
@@ -14,31 +38,31 @@
       "full_name": "ebrasha/free-v2ray-public-list",
       "description": "A simple and always-updated list of free, working V2Ray servers. including SS, SSR, Trojan, VLESS, and VMess. Just copy, paste, and connect — no signup, no payment, no nonsense. Updated every 30 minutes.",
       "language": null,
-      "stargazers_count": 419,
-      "forks_count": 52,
-      "pushed_at": "2026-01-18T00:10:21Z"
+      "stargazers_count": 437,
+      "forks_count": 53,
+      "pushed_at": "2026-01-25T00:10:22Z"
     },
     {
       "full_name": "2dust/v2rayN",
       "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
       "language": "C#",
-      "stargazers_count": 94819,
-      "forks_count": 14049,
-      "pushed_at": "2026-01-17T11:35:56Z"
+      "stargazers_count": 95332,
+      "forks_count": 14084,
+      "pushed_at": "2026-01-23T18:44:03Z"
     },
     {
       "full_name": "ChrisTitusTech/win10script",
       "description": "This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. ",
       "language": "PowerShell",
-      "stargazers_count": 3510,
-      "forks_count": 1038,
+      "stargazers_count": 3513,
+      "forks_count": 1034,
       "pushed_at": "2022-06-24T03:57:47Z"
     },
     {
       "full_name": "ChrisTitusTech/TitusPi",
       "description": "Custom CTT Pi based linux distro",
       "language": "Lua",
-      "stargazers_count": 210,
+      "stargazers_count": 211,
       "forks_count": 30,
       "pushed_at": "2024-03-25T17:52:23Z"
     },
@@ -47,14 +71,14 @@
       "description": "Titus's personal NIX OS Configuration",
       "language": "Nix",
       "stargazers_count": 267,
-      "forks_count": 42,
+      "forks_count": 43,
       "pushed_at": "2024-03-25T17:56:39Z"
     },
     {
       "full_name": "ChrisTitusTech/mybash",
       "description": "My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.",
       "language": "Shell",
-      "stargazers_count": 596,
+      "stargazers_count": 599,
       "forks_count": 236,
       "pushed_at": "2025-12-15T11:11:25Z"
     },
@@ -62,23 +86,23 @@
       "full_name": "cockpit-project/cockpit",
       "description": "Cockpit is a web-based graphical interface for servers.",
       "language": "JavaScript",
-      "stargazers_count": 13036,
-      "forks_count": 1223,
-      "pushed_at": "2026-01-16T15:36:33Z"
+      "stargazers_count": 13067,
+      "forks_count": 1221,
+      "pushed_at": "2026-01-23T15:09:27Z"
     },
     {
       "full_name": "1Panel-dev/1Panel",
       "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
       "language": "Go",
-      "stargazers_count": 32888,
-      "forks_count": 2913,
-      "pushed_at": "2026-01-16T09:05:32Z"
+      "stargazers_count": 32995,
+      "forks_count": 2922,
+      "pushed_at": "2026-01-23T09:49:09Z"
     },
     {
       "full_name": "nasa42/webterm",
       "description": "Securely access a server's terminal even when they are behind firewalls",
       "language": "Rust",
-      "stargazers_count": 52,
+      "stargazers_count": 55,
       "forks_count": 4,
       "pushed_at": "2025-11-22T15:33:42Z"
     },
@@ -86,136 +110,136 @@
       "full_name": "ghost-him/ZeroLaunch-rs",
       "description": "🚀 A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Rust + Tauri + Vue! 🚀一款极速、隐私优先的 Windows 智能启动器，精通拼音与模糊匹配；可选本地 AI 语义检索，让错字与意图搜索也能秒速直达。基于 Rust + Tauri + Vue 构建！",
       "language": "Rust",
-      "stargazers_count": 499,
+      "stargazers_count": 501,
       "forks_count": 17,
-      "pushed_at": "2026-01-17T03:28:49Z"
+      "pushed_at": "2026-01-19T10:00:50Z"
     },
     {
       "full_name": "Dokploy/dokploy",
       "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
       "language": "TypeScript",
-      "stargazers_count": 29134,
-      "forks_count": 1938,
-      "pushed_at": "2026-01-16T07:18:17Z"
+      "stargazers_count": 29432,
+      "forks_count": 1969,
+      "pushed_at": "2026-01-21T22:34:05Z"
     },
     {
       "full_name": "sqlalchemy/mako",
       "description": "Mako Templates for Python",
       "language": "Python",
-      "stargazers_count": 427,
-      "forks_count": 68,
+      "stargazers_count": 428,
+      "forks_count": 69,
       "pushed_at": "2025-08-16T14:49:49Z"
     },
     {
       "full_name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stargazers_count": 43838,
-      "forks_count": 4061,
+      "stargazers_count": 51948,
+      "forks_count": 5024,
       "pushed_at": "2025-12-20T18:09:45Z"
     },
     {
       "full_name": "nanobrowser/nanobrowser",
       "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
       "language": "TypeScript",
-      "stargazers_count": 11954,
-      "forks_count": 1222,
+      "stargazers_count": 12066,
+      "forks_count": 1239,
       "pushed_at": "2025-11-24T11:10:03Z"
     },
     {
       "full_name": "browserbase/stagehand",
       "description": "The AI Browser Automation Framework",
       "language": "TypeScript",
-      "stargazers_count": 20421,
-      "forks_count": 1321,
-      "pushed_at": "2026-01-17T18:13:03Z"
+      "stargazers_count": 20559,
+      "forks_count": 1337,
+      "pushed_at": "2026-01-24T02:02:50Z"
     },
     {
       "full_name": "wavetermdev/waveterm",
       "description": "An open-source, cross-platform terminal for seamless workflows",
       "language": "Go",
-      "stargazers_count": 16603,
-      "forks_count": 720,
-      "pushed_at": "2026-01-17T00:54:45Z"
+      "stargazers_count": 16770,
+      "forks_count": 734,
+      "pushed_at": "2026-01-24T21:19:43Z"
     },
     {
       "full_name": "zen-browser/desktop",
       "description": "Welcome to a calmer internet",
       "language": "JavaScript",
-      "stargazers_count": 39560,
-      "forks_count": 1276,
-      "pushed_at": "2026-01-17T23:16:42Z"
+      "stargazers_count": 39695,
+      "forks_count": 1282,
+      "pushed_at": "2026-01-24T23:05:52Z"
     },
     {
       "full_name": "firecracker-microvm/firecracker",
       "description": "Secure and fast microVMs for serverless computing.",
       "language": "Rust",
-      "stargazers_count": 31903,
-      "forks_count": 2211,
-      "pushed_at": "2026-01-16T16:16:38Z"
+      "stargazers_count": 32018,
+      "forks_count": 2222,
+      "pushed_at": "2026-01-23T10:48:36Z"
     },
     {
       "full_name": "servo/servo",
       "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
       "language": "Rust",
-      "stargazers_count": 35053,
-      "forks_count": 3442,
-      "pushed_at": "2026-01-17T23:19:51Z"
+      "stargazers_count": 35156,
+      "forks_count": 3448,
+      "pushed_at": "2026-01-25T00:13:49Z"
     },
     {
       "full_name": "chromium/chromium",
       "description": "The official GitHub mirror of the Chromium source",
       "language": "C++",
-      "stargazers_count": 22756,
-      "forks_count": 8492,
-      "pushed_at": "2026-01-18T00:14:02Z"
+      "stargazers_count": 22824,
+      "forks_count": 8518,
+      "pushed_at": "2026-01-25T00:07:51Z"
     },
     {
       "full_name": "mozilla-firefox/firefox",
       "description": "The official repository of Mozilla's Firefox web browser.",
       "language": "JavaScript",
-      "stargazers_count": 11017,
-      "forks_count": 822,
-      "pushed_at": "2026-01-18T00:11:22Z"
+      "stargazers_count": 11068,
+      "forks_count": 829,
+      "pushed_at": "2026-01-25T00:09:54Z"
     },
     {
       "full_name": "imputnet/helium",
       "description": "Private, fast, and honest web browser",
       "language": "C++",
-      "stargazers_count": 10284,
-      "forks_count": 210,
-      "pushed_at": "2026-01-17T20:55:50Z"
+      "stargazers_count": 10591,
+      "forks_count": 219,
+      "pushed_at": "2026-01-24T11:45:09Z"
     },
     {
       "full_name": "caol64/wenyan",
       "description": "文颜- Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。",
       "language": "Swift",
-      "stargazers_count": 900,
+      "stargazers_count": 908,
       "forks_count": 65,
-      "pushed_at": "2026-01-13T08:56:12Z"
+      "pushed_at": "2026-01-18T08:43:40Z"
     },
     {
       "full_name": "caol64/wenyan-mcp",
       "description": "文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。",
       "language": "JavaScript",
-      "stargazers_count": 985,
+      "stargazers_count": 994,
       "forks_count": 113,
-      "pushed_at": "2026-01-14T08:36:45Z"
+      "pushed_at": "2026-01-22T00:38:47Z"
     },
     {
       "full_name": "oliverschwendener/ueli",
       "description": "Cross-Platform Keystroke Launcher",
       "language": "TypeScript",
-      "stargazers_count": 4418,
+      "stargazers_count": 4428,
       "forks_count": 276,
-      "pushed_at": "2026-01-09T06:57:27Z"
+      "pushed_at": "2026-01-22T07:43:25Z"
     },
     {
       "full_name": "VERT-sh/VERT",
       "description": "The next-generation file converter. Open source, fully local* and free forever.",
       "language": "Svelte",
-      "stargazers_count": 13316,
-      "forks_count": 688,
+      "stargazers_count": 13472,
+      "forks_count": 697,
       "pushed_at": "2026-01-02T07:56:25Z"
     },
     {
@@ -230,7 +254,7 @@
       "full_name": "git-quick-stats/git-quick-stats",
       "description": "▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.",
       "language": "Shell",
-      "stargazers_count": 6911,
+      "stargazers_count": 6916,
       "forks_count": 279,
       "pushed_at": "2025-09-02T09:47:19Z"
     },
@@ -238,31 +262,31 @@
       "full_name": "HeyPuter/puter",
       "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
       "language": "JavaScript",
-      "stargazers_count": 38764,
-      "forks_count": 3402,
-      "pushed_at": "2026-01-17T00:16:47Z"
+      "stargazers_count": 38930,
+      "forks_count": 3420,
+      "pushed_at": "2026-01-24T17:05:31Z"
     },
     {
       "full_name": "DustinBrett/daedalOS",
       "description": "Desktop environment in the browser",
       "language": "JavaScript",
-      "stargazers_count": 12244,
-      "forks_count": 1095,
+      "stargazers_count": 12266,
+      "forks_count": 1096,
       "pushed_at": "2026-01-14T05:20:16Z"
     },
     {
       "full_name": "ShizukuIchi/winXP",
       "description": "🏁 Web based Windows XP desktop recreation. ",
       "language": "JavaScript",
-      "stargazers_count": 5767,
-      "forks_count": 447,
+      "stargazers_count": 5769,
+      "forks_count": 445,
       "pushed_at": "2023-11-18T10:39:43Z"
     },
     {
       "full_name": "PuruVJ/macos-web",
       "description": null,
       "language": "Svelte",
-      "stargazers_count": 2570,
+      "stargazers_count": 2575,
       "forks_count": 320,
       "pushed_at": "2025-07-14T17:02:14Z"
     },
@@ -270,105 +294,105 @@
       "full_name": "baidu/amis",
       "description": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
       "language": "TypeScript",
-      "stargazers_count": 18795,
-      "forks_count": 2714,
+      "stargazers_count": 18807,
+      "forks_count": 2720,
       "pushed_at": "2025-12-29T12:29:42Z"
     },
     {
       "full_name": "ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stargazers_count": 21374,
-      "forks_count": 1279,
-      "pushed_at": "2026-01-17T07:37:47Z"
+      "stargazers_count": 22137,
+      "forks_count": 1319,
+      "pushed_at": "2026-01-23T18:04:28Z"
     },
     {
       "full_name": "firecrawl/firecrawl",
       "description": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
       "language": "TypeScript",
-      "stargazers_count": 75550,
-      "forks_count": 5763,
-      "pushed_at": "2026-01-17T14:20:21Z"
+      "stargazers_count": 77148,
+      "forks_count": 5821,
+      "pushed_at": "2026-01-24T23:59:38Z"
     },
     {
       "full_name": "agronholm/sqlacodegen",
       "description": "Automatic model code generator for SQLAlchemy",
       "language": "Python",
-      "stargazers_count": 2286,
-      "forks_count": 280,
-      "pushed_at": "2026-01-14T14:47:38Z"
+      "stargazers_count": 2297,
+      "forks_count": 279,
+      "pushed_at": "2026-01-23T21:40:19Z"
     },
     {
       "full_name": "microsoft/fara",
       "description": "Fara-7B: An Efficient Agentic Model for Computer Use",
       "language": "Python",
-      "stargazers_count": 3473,
-      "forks_count": 313,
+      "stargazers_count": 3483,
+      "forks_count": 315,
       "pushed_at": "2026-01-14T20:09:58Z"
     },
     {
       "full_name": "D4Vinci/Scrapling",
       "description": "🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!",
       "language": "Python",
-      "stargazers_count": 8798,
-      "forks_count": 534,
-      "pushed_at": "2026-01-17T22:01:22Z"
+      "stargazers_count": 8847,
+      "forks_count": 537,
+      "pushed_at": "2026-01-22T22:01:17Z"
     },
     {
       "full_name": "sharkdp/bat",
       "description": "A cat(1) clone with wings.",
       "language": "Rust",
-      "stargazers_count": 56681,
-      "forks_count": 1439,
+      "stargazers_count": 56793,
+      "forks_count": 1441,
       "pushed_at": "2026-01-15T20:13:42Z"
     },
     {
       "full_name": "zuruoke/watermark-removal",
       "description": "a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image ",
       "language": "Python",
-      "stargazers_count": 4341,
-      "forks_count": 502,
+      "stargazers_count": 4350,
+      "forks_count": 501,
       "pushed_at": "2025-09-15T16:22:01Z"
     },
     {
       "full_name": "0xlane/wechat-dump-rs",
       "description": "该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。",
       "language": "Rust",
-      "stargazers_count": 2044,
-      "forks_count": 4,
+      "stargazers_count": 2076,
+      "forks_count": 36,
       "pushed_at": "2026-01-09T02:09:44Z"
     },
     {
       "full_name": "imldy/chatlog",
       "description": "chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据",
       "language": "Go",
-      "stargazers_count": 188,
-      "forks_count": 545,
+      "stargazers_count": 205,
+      "forks_count": 598,
       "pushed_at": "2025-10-20T12:03:30Z"
     },
     {
       "full_name": "google/langextract",
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
-      "stargazers_count": 21584,
-      "forks_count": 1498,
+      "stargazers_count": 23652,
+      "forks_count": 1622,
       "pushed_at": "2025-12-29T20:45:34Z"
     },
     {
       "full_name": "MartinPacker/md2pptx",
       "description": "Markdown To PowerPoint converter",
       "language": "Python",
-      "stargazers_count": 478,
-      "forks_count": 69,
-      "pushed_at": "2026-01-02T16:09:39Z"
+      "stargazers_count": 480,
+      "forks_count": 70,
+      "pushed_at": "2026-01-21T09:28:33Z"
     },
     {
       "full_name": "ArchiveBox/ArchiveBox",
       "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
       "language": "Python",
-      "stargazers_count": 26427,
-      "forks_count": 1441,
-      "pushed_at": "2026-01-06T00:07:29Z"
+      "stargazers_count": 26609,
+      "forks_count": 1456,
+      "pushed_at": "2026-01-21T11:20:02Z"
     },
     {
       "full_name": "JinsongRoh/pydoll-mcp",
@@ -382,71 +406,71 @@
       "full_name": "traefik/traefik",
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
-      "stargazers_count": 61107,
-      "forks_count": 5780,
-      "pushed_at": "2026-01-16T13:48:06Z"
+      "stargazers_count": 61226,
+      "forks_count": 5788,
+      "pushed_at": "2026-01-22T11:10:07Z"
     },
     {
       "full_name": "MemoriLabs/Memori",
       "description": "SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems",
       "language": "Python",
-      "stargazers_count": 11746,
-      "forks_count": 864,
-      "pushed_at": "2026-01-16T20:35:53Z"
+      "stargazers_count": 11864,
+      "forks_count": 948,
+      "pushed_at": "2026-01-23T20:20:06Z"
     },
     {
       "full_name": "milvus-io/milvus",
       "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
       "language": "Go",
-      "stargazers_count": 42282,
-      "forks_count": 3766,
-      "pushed_at": "2026-01-17T15:57:29Z"
+      "stargazers_count": 42399,
+      "forks_count": 3779,
+      "pushed_at": "2026-01-23T12:19:34Z"
     },
     {
       "full_name": "playcanvas/engine",
       "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
       "language": "JavaScript",
-      "stargazers_count": 14354,
-      "forks_count": 1717,
-      "pushed_at": "2026-01-16T16:59:08Z"
+      "stargazers_count": 14381,
+      "forks_count": 1721,
+      "pushed_at": "2026-01-23T17:23:05Z"
     },
     {
       "full_name": "memgraph/memgraph",
       "description": "Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.",
       "language": "C++",
-      "stargazers_count": 3615,
+      "stargazers_count": 3633,
       "forks_count": 198,
-      "pushed_at": "2026-01-16T22:27:24Z"
+      "pushed_at": "2026-01-24T18:48:47Z"
     },
     {
       "full_name": "topoteretes/cognee",
       "description": "Memory for AI Agents in 6 lines of code",
       "language": "Python",
-      "stargazers_count": 10923,
-      "forks_count": 1022,
-      "pushed_at": "2026-01-17T21:17:42Z"
+      "stargazers_count": 11287,
+      "forks_count": 1065,
+      "pushed_at": "2026-01-24T15:13:13Z"
     },
     {
       "full_name": "surrealdb/surrealdb",
       "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
       "language": "Rust",
-      "stargazers_count": 30840,
-      "forks_count": 1104,
-      "pushed_at": "2026-01-17T21:29:27Z"
+      "stargazers_count": 30932,
+      "forks_count": 1107,
+      "pushed_at": "2026-01-23T18:12:08Z"
     },
     {
       "full_name": "gitui-org/gitui",
       "description": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
       "language": "Rust",
-      "stargazers_count": 21225,
-      "forks_count": 690,
-      "pushed_at": "2026-01-16T13:00:15Z"
+      "stargazers_count": 21266,
+      "forks_count": 692,
+      "pushed_at": "2026-01-23T20:07:17Z"
     },
     {
       "full_name": "invl/retry",
       "description": "easy to use retry decorator in python",
       "language": "Python",
-      "stargazers_count": 749,
+      "stargazers_count": 750,
       "forks_count": 112,
       "pushed_at": "2024-07-05T13:16:48Z"
     },
@@ -454,40 +478,40 @@
       "full_name": "jd/tenacity",
       "description": "Retrying library for Python",
       "language": "Python",
-      "stargazers_count": 8269,
-      "forks_count": 306,
+      "stargazers_count": 8287,
+      "forks_count": 304,
       "pushed_at": "2026-01-17T16:56:04Z"
     },
     {
       "full_name": "jorgerojas26/lazysql",
       "description": "A cross-platform TUI database management tool written in Go.",
       "language": "Go",
-      "stargazers_count": 3296,
-      "forks_count": 133,
+      "stargazers_count": 3327,
+      "forks_count": 135,
       "pushed_at": "2026-01-02T19:58:00Z"
     },
     {
       "full_name": "GateNLP/ultimate-sitemap-parser",
       "description": "Ultimate Website Sitemap Parser",
       "language": "Python",
-      "stargazers_count": 241,
-      "forks_count": 72,
-      "pushed_at": "2026-01-17T10:37:11Z"
+      "stargazers_count": 242,
+      "forks_count": 74,
+      "pushed_at": "2026-01-22T11:32:14Z"
     },
     {
       "full_name": "trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "language": "Python",
-      "stargazers_count": 11758,
-      "forks_count": 699,
-      "pushed_at": "2026-01-18T00:09:12Z"
+      "stargazers_count": 11907,
+      "forks_count": 710,
+      "pushed_at": "2026-01-24T20:53:53Z"
     },
     {
       "full_name": "openinterpreter/open-interpreter",
       "description": "A natural language interface for computers",
       "language": "Python",
-      "stargazers_count": 61686,
-      "forks_count": 5295,
+      "stargazers_count": 61801,
+      "forks_count": 5312,
       "pushed_at": "2025-12-05T18:57:03Z"
     },
     {
@@ -502,15 +526,15 @@
       "full_name": "cloudflare/pingora",
       "description": "A library for building fast, reliable and evolvable network services.",
       "language": "Rust",
-      "stargazers_count": 25914,
-      "forks_count": 1547,
+      "stargazers_count": 25957,
+      "forks_count": 1552,
       "pushed_at": "2026-01-16T20:17:56Z"
     },
     {
       "full_name": "sqshq/sampler",
       "description": "Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
       "language": "Go",
-      "stargazers_count": 14426,
+      "stargazers_count": 14439,
       "forks_count": 670,
       "pushed_at": "2024-02-22T10:21:15Z"
     },
@@ -518,55 +542,55 @@
       "full_name": "bee-san/RustScan",
       "description": "🤖 The Modern Port Scanner 🤖",
       "language": "Rust",
-      "stargazers_count": 19029,
+      "stargazers_count": 19067,
       "forks_count": 1276,
-      "pushed_at": "2026-01-12T10:10:15Z"
+      "pushed_at": "2026-01-19T09:48:51Z"
     },
     {
       "full_name": "sivel/speedtest-cli",
       "description": "Command line interface for testing internet bandwidth using speedtest.net",
       "language": "Python",
-      "stargazers_count": 14057,
-      "forks_count": 1932,
+      "stargazers_count": 14064,
+      "forks_count": 1929,
       "pushed_at": "2024-07-20T16:58:27Z"
     },
     {
       "full_name": "BurntSushi/ripgrep",
       "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
       "language": "Rust",
-      "stargazers_count": 58996,
-      "forks_count": 2372,
+      "stargazers_count": 59221,
+      "forks_count": 2375,
       "pushed_at": "2025-12-17T16:38:12Z"
     },
     {
       "full_name": "py-pdf/pdfly",
       "description": "CLI tool to extract (meta)data from PDF and manipulate PDF files",
       "language": "Python",
-      "stargazers_count": 527,
+      "stargazers_count": 528,
       "forks_count": 46,
-      "pushed_at": "2026-01-16T21:10:52Z"
+      "pushed_at": "2026-01-23T09:28:53Z"
     },
     {
       "full_name": "charmbracelet/glow",
       "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
       "language": "Go",
-      "stargazers_count": 22286,
-      "forks_count": 551,
+      "stargazers_count": 22442,
+      "forks_count": 558,
       "pushed_at": "2026-01-12T11:55:43Z"
     },
     {
       "full_name": "zyedidia/eget",
       "description": "Easily install prebuilt binaries from GitHub.",
       "language": "Go",
-      "stargazers_count": 1854,
-      "forks_count": 58,
+      "stargazers_count": 1861,
+      "forks_count": 60,
       "pushed_at": "2024-07-09T06:03:04Z"
     },
     {
       "full_name": "bgreenwell/doxx",
       "description": "Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!",
       "language": "Makefile",
-      "stargazers_count": 3414,
+      "stargazers_count": 3429,
       "forks_count": 78,
       "pushed_at": "2025-12-12T01:56:29Z"
     },
@@ -574,15 +598,15 @@
       "full_name": "orf/gping",
       "description": "Ping, but with a graph",
       "language": "Rust",
-      "stargazers_count": 12268,
-      "forks_count": 355,
+      "stargazers_count": 12283,
+      "forks_count": 356,
       "pushed_at": "2026-01-05T10:04:51Z"
     },
     {
       "full_name": "hanshuaikang/Nping",
       "description": "🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations",
       "language": "Rust",
-      "stargazers_count": 2102,
+      "stargazers_count": 2115,
       "forks_count": 89,
       "pushed_at": "2026-01-11T06:24:44Z"
     },
@@ -590,25 +614,25 @@
       "full_name": "fujiapple852/trippy",
       "description": "A network diagnostic tool ",
       "language": "Rust",
-      "stargazers_count": 6483,
+      "stargazers_count": 6507,
       "forks_count": 198,
-      "pushed_at": "2026-01-16T02:52:57Z"
+      "pushed_at": "2026-01-24T13:40:00Z"
     },
     {
       "full_name": "pyenv-win/pyenv-win",
       "description": "pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.",
       "language": "VBScript",
-      "stargazers_count": 6923,
-      "forks_count": 563,
-      "pushed_at": "2026-01-16T02:25:21Z"
+      "stargazers_count": 6942,
+      "forks_count": 562,
+      "pushed_at": "2026-01-23T02:25:39Z"
     },
     {
       "full_name": "pyenv/pyenv",
       "description": "Simple Python version management",
-      "language": "Roff",
-      "stargazers_count": 44073,
-      "forks_count": 3235,
-      "pushed_at": "2026-01-15T13:10:08Z"
+      "language": "Shell",
+      "stargazers_count": 44129,
+      "forks_count": 3233,
+      "pushed_at": "2026-01-20T15:53:15Z"
     },
     {
       "full_name": "yuxiaoli/yuxiaoli",
@@ -616,14 +640,14 @@
       "language": null,
       "stargazers_count": 1,
       "forks_count": 0,
-      "pushed_at": "2026-01-18T00:11:18Z"
+      "pushed_at": "2026-01-25T00:11:28Z"
     },
     {
       "full_name": "coleifer/huey",
       "description": "a little task queue for python",
       "language": "Python",
-      "stargazers_count": 5881,
-      "forks_count": 393,
+      "stargazers_count": 5897,
+      "forks_count": 392,
       "pushed_at": "2026-01-07T16:08:53Z"
     },
     {
@@ -632,13 +656,13 @@
       "language": "TypeScript",
       "stargazers_count": 90,
       "forks_count": 6,
-      "pushed_at": "2026-01-12T19:36:32Z"
+      "pushed_at": "2026-01-19T19:51:15Z"
     },
     {
       "full_name": "mher/flower",
       "description": "Real-time monitor and web admin for Celery distributed task queue",
       "language": "Python",
-      "stargazers_count": 7094,
+      "stargazers_count": 7096,
       "forks_count": 1142,
       "pushed_at": "2025-11-24T20:29:19Z"
     },
@@ -662,23 +686,23 @@
       "full_name": "fathyb/carbonyl",
       "description": "Chromium running inside your terminal",
       "language": "Rust",
-      "stargazers_count": 15788,
-      "forks_count": 327,
+      "stargazers_count": 15804,
+      "forks_count": 329,
       "pushed_at": "2024-07-01T14:31:50Z"
     },
     {
       "full_name": "gnmyt/Nexterm",
       "description": "The open source server management software for SSH, VNC & RDP",
       "language": "JavaScript",
-      "stargazers_count": 3687,
+      "stargazers_count": 3715,
       "forks_count": 190,
-      "pushed_at": "2026-01-17T22:29:24Z"
+      "pushed_at": "2026-01-23T07:13:00Z"
     },
     {
       "full_name": "DavorMar/rustautogui",
       "description": "Highly optimized GUI automation rust library for controlling the mouse and keyboard, with template matching support.",
       "language": "Rust",
-      "stargazers_count": 278,
+      "stargazers_count": 282,
       "forks_count": 25,
       "pushed_at": "2025-10-24T10:31:16Z"
     },
@@ -686,63 +710,63 @@
       "full_name": "asweigart/pyautogui",
       "description": "A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.",
       "language": "Python",
-      "stargazers_count": 12221,
-      "forks_count": 1390,
+      "stargazers_count": 12237,
+      "forks_count": 1392,
       "pushed_at": "2024-08-20T18:34:57Z"
     },
     {
       "full_name": "houmain/keymapper",
       "description": "A cross-platform context-aware key remapper.",
       "language": "C++",
-      "stargazers_count": 1021,
-      "forks_count": 36,
-      "pushed_at": "2026-01-17T10:21:03Z"
+      "stargazers_count": 1026,
+      "forks_count": 37,
+      "pushed_at": "2026-01-24T10:34:00Z"
     },
     {
       "full_name": "jtroo/kanata",
       "description": "Improve keyboard comfort and usability with advanced customization",
       "language": "Rust",
-      "stargazers_count": 6554,
-      "forks_count": 237,
-      "pushed_at": "2026-01-18T00:07:21Z"
+      "stargazers_count": 6655,
+      "forks_count": 238,
+      "pushed_at": "2026-01-24T23:31:40Z"
     },
     {
       "full_name": "daytonaio/daytona",
       "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
       "language": "TypeScript",
-      "stargazers_count": 47506,
-      "forks_count": 3928,
-      "pushed_at": "2026-01-17T18:48:08Z"
+      "stargazers_count": 50172,
+      "forks_count": 3955,
+      "pushed_at": "2026-01-24T21:09:45Z"
     },
     {
       "full_name": "Skyvern-AI/skyvern",
       "description": "Automate browser based workflows with AI",
       "language": "Python",
-      "stargazers_count": 20134,
-      "forks_count": 1777,
-      "pushed_at": "2026-01-17T00:40:42Z"
+      "stargazers_count": 20199,
+      "forks_count": 1785,
+      "pushed_at": "2026-01-24T18:50:53Z"
     },
     {
       "full_name": "simonw/llm",
       "description": "Access large language models from the command-line",
       "language": "Python",
-      "stargazers_count": 10879,
-      "forks_count": 739,
-      "pushed_at": "2026-01-16T01:43:59Z"
+      "stargazers_count": 10956,
+      "forks_count": 746,
+      "pushed_at": "2026-01-19T21:20:06Z"
     },
     {
       "full_name": "JeanLucPons/VanitySearch",
       "description": "Bitcoin Address Prefix Finder",
       "language": "C++",
-      "stargazers_count": 547,
-      "forks_count": 256,
+      "stargazers_count": 550,
+      "forks_count": 257,
       "pushed_at": "2024-01-31T20:29:23Z"
     },
     {
       "full_name": "1inch/profanity2",
       "description": "Vanity address generator for Ethereum",
       "language": "C++",
-      "stargazers_count": 473,
+      "stargazers_count": 472,
       "forks_count": 136,
       "pushed_at": "2024-11-20T14:16:36Z"
     },
@@ -751,7 +775,7 @@
       "description": null,
       "language": "C",
       "stargazers_count": 1277,
-      "forks_count": 640,
+      "forks_count": 639,
       "pushed_at": "2024-06-18T12:35:26Z"
     },
     {
@@ -774,7 +798,7 @@
       "full_name": "kmonad/kmonad-contrib",
       "description": "A repository of community configurations, as well as other bits and bobs",
       "language": "Emacs Lisp",
-      "stargazers_count": 58,
+      "stargazers_count": 59,
       "forks_count": 24,
       "pushed_at": "2025-12-10T06:22:29Z"
     },
@@ -782,15 +806,15 @@
       "full_name": "kmonad/kmonad",
       "description": "An advanced keyboard manager",
       "language": "Haskell",
-      "stargazers_count": 4872,
+      "stargazers_count": 4874,
       "forks_count": 330,
-      "pushed_at": "2026-01-16T10:20:46Z"
+      "pushed_at": "2026-01-22T22:56:51Z"
     },
     {
       "full_name": "ChrisTitusTech/macutil",
       "description": "Fix macOS crazy defaults to be functional and remove animations and other apple b.s.",
       "language": "Shell",
-      "stargazers_count": 518,
+      "stargazers_count": 523,
       "forks_count": 24,
       "pushed_at": "2025-12-15T17:57:29Z"
     },
@@ -798,55 +822,55 @@
       "full_name": "GongRzhe/Office-PowerPoint-MCP-Server",
       "description": "A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protocol.",
       "language": "Python",
-      "stargazers_count": 1423,
-      "forks_count": 196,
+      "stargazers_count": 1439,
+      "forks_count": 198,
       "pushed_at": "2025-12-31T13:23:39Z"
     },
     {
       "full_name": "ChrisTitusTech/winutil",
       "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
       "language": "PowerShell",
-      "stargazers_count": 45732,
-      "forks_count": 2412,
-      "pushed_at": "2026-01-15T20:49:19Z"
+      "stargazers_count": 46079,
+      "forks_count": 2427,
+      "pushed_at": "2026-01-22T15:40:55Z"
     },
     {
       "full_name": "ChrisTitusTech/linutil",
       "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
       "language": "Shell",
-      "stargazers_count": 4689,
-      "forks_count": 367,
-      "pushed_at": "2025-12-18T21:19:03Z"
+      "stargazers_count": 4717,
+      "forks_count": 372,
+      "pushed_at": "2026-01-22T21:16:58Z"
     },
     {
       "full_name": "RSSNext/Folo",
       "description": "🧡 Folo is the AI Reader",
       "language": "TypeScript",
-      "stargazers_count": 36680,
-      "forks_count": 1907,
-      "pushed_at": "2026-01-17T04:46:18Z"
+      "stargazers_count": 36759,
+      "forks_count": 1922,
+      "pushed_at": "2026-01-24T09:39:03Z"
     },
     {
       "full_name": "awslabs/mcp",
-      "description": "AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.",
+      "description": "Official AWS MCP Servers",
       "language": "Python",
-      "stargazers_count": 7893,
-      "forks_count": 1214,
-      "pushed_at": "2026-01-17T05:08:36Z"
+      "stargazers_count": 7947,
+      "forks_count": 1233,
+      "pushed_at": "2026-01-24T05:08:58Z"
     },
     {
       "full_name": "xonsh/xontrib-vox",
       "description": "Python virtual environment manager for xonsh.",
       "language": "Python",
-      "stargazers_count": 26,
+      "stargazers_count": 27,
       "forks_count": 4,
-      "pushed_at": "2025-12-15T17:43:35Z"
+      "pushed_at": "2026-01-19T17:48:34Z"
     },
     {
       "full_name": "anki-code/starship-prompt-mono",
       "description": "Monochrome style for @starship prompt.",
       "language": null,
-      "stargazers_count": 10,
+      "stargazers_count": 11,
       "forks_count": 1,
       "pushed_at": "2026-01-14T21:27:46Z"
     },
@@ -862,7 +886,7 @@
       "full_name": "xonsh/xontrib-template",
       "description": "Full-featured template for building extension (xontrib) for the xonsh shell.",
       "language": "Python",
-      "stargazers_count": 59,
+      "stargazers_count": 60,
       "forks_count": 10,
       "pushed_at": "2025-12-14T04:59:05Z"
     },
@@ -870,7 +894,7 @@
       "full_name": "adnksharp/CyberGRUB-2077",
       "description": "GRUB Bootloader Theme Inspired by Cyberpunk 2077.",
       "language": "Shell",
-      "stargazers_count": 146,
+      "stargazers_count": 153,
       "forks_count": 17,
       "pushed_at": "2025-12-28T23:55:43Z"
     },
@@ -878,8 +902,8 @@
       "full_name": "hey-jian-wei/jianying-mcp",
       "description": "jiangying mcp",
       "language": "Python",
-      "stargazers_count": 165,
-      "forks_count": 38,
+      "stargazers_count": 176,
+      "forks_count": 40,
       "pushed_at": "2025-08-22T09:55:44Z"
     },
     {
@@ -894,7 +918,7 @@
       "full_name": "Textualize/rich-cli",
       "description": "Rich-cli is a command line toolbox for fancy output in the terminal",
       "language": "Python",
-      "stargazers_count": 3543,
+      "stargazers_count": 3558,
       "forks_count": 99,
       "pushed_at": "2026-01-08T07:26:43Z"
     },
@@ -910,39 +934,39 @@
       "full_name": "httpie/cli",
       "description": "🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
       "language": "Python",
-      "stargazers_count": 37358,
-      "forks_count": 3800,
+      "stargazers_count": 37407,
+      "forks_count": 3806,
       "pushed_at": "2024-12-17T17:30:35Z"
     },
     {
       "full_name": "Orange-OpenSource/hurl",
       "description": "Hurl, run and test HTTP requests with plain text.",
       "language": "Rust",
-      "stargazers_count": 18392,
-      "forks_count": 702,
-      "pushed_at": "2026-01-18T00:00:00Z"
+      "stargazers_count": 18420,
+      "forks_count": 703,
+      "pushed_at": "2026-01-24T17:27:16Z"
     },
     {
       "full_name": "openai/tiktoken",
       "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
       "language": "Python",
-      "stargazers_count": 17027,
-      "forks_count": 1363,
+      "stargazers_count": 17077,
+      "forks_count": 1366,
       "pushed_at": "2025-10-06T20:21:57Z"
     },
     {
       "full_name": "xaoyaoo/PyWxDump",
       "description": "删库",
       "language": null,
-      "stargazers_count": 9786,
-      "forks_count": 1618,
+      "stargazers_count": 9785,
+      "forks_count": 1634,
       "pushed_at": "2025-10-20T10:36:39Z"
     },
     {
       "full_name": "mtcto/weclone",
       "description": "欢迎star⭐。使用微信聊天记录微调大语言模型，使用微信语音消息大模➕0.5B大模型实现高质量声音克隆，并绑定到微信机器人，实现自己的数字分身。  数字克隆/数字分身／声音克隆/LLM/大语言模型/微信聊天机器人/LoRA",
       "language": null,
-      "stargazers_count": 603,
+      "stargazers_count": 607,
       "forks_count": 43,
       "pushed_at": "2025-04-09T15:09:13Z"
     },
@@ -950,49 +974,49 @@
       "full_name": "xming521/WeClone",
       "description": "🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  ",
       "language": "Python",
-      "stargazers_count": 16216,
-      "forks_count": 1307,
-      "pushed_at": "2026-01-05T21:45:32Z"
+      "stargazers_count": 16262,
+      "forks_count": 1322,
+      "pushed_at": "2026-01-20T02:54:13Z"
     },
     {
       "full_name": "microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stargazers_count": 85337,
-      "forks_count": 4923,
+      "stargazers_count": 85700,
+      "forks_count": 4956,
       "pushed_at": "2026-01-08T23:21:33Z"
     },
     {
       "full_name": "jesseduffield/lazygit",
       "description": "simple terminal UI for git commands",
       "language": "Go",
-      "stargazers_count": 70792,
-      "forks_count": 2444,
-      "pushed_at": "2026-01-17T10:59:49Z"
+      "stargazers_count": 71099,
+      "forks_count": 2454,
+      "pushed_at": "2026-01-24T22:34:13Z"
     },
     {
       "full_name": "microsoft/playwright-mcp",
       "description": "Playwright MCP server",
       "language": "TypeScript",
-      "stargazers_count": 25724,
-      "forks_count": 2089,
-      "pushed_at": "2026-01-16T18:50:04Z"
+      "stargazers_count": 26152,
+      "forks_count": 2115,
+      "pushed_at": "2026-01-24T01:19:21Z"
     },
     {
       "full_name": "langchain-ai/open_deep_research",
       "description": null,
       "language": "Python",
-      "stargazers_count": 10214,
-      "forks_count": 1485,
+      "stargazers_count": 10310,
+      "forks_count": 1492,
       "pushed_at": "2025-08-27T03:59:01Z"
     },
     {
       "full_name": "marticliment/UniGetUI",
       "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
       "language": "C#",
-      "stargazers_count": 19896,
-      "forks_count": 667,
-      "pushed_at": "2026-01-17T19:28:54Z"
+      "stargazers_count": 20059,
+      "forks_count": 674,
+      "pushed_at": "2026-01-23T21:14:03Z"
     },
     {
       "full_name": "PrajwalVandana/maestro-cli",
@@ -1006,79 +1030,79 @@
       "full_name": "stan-smith/FossFLOW",
       "description": "Make beautiful isometric infrastructure diagrams",
       "language": "TypeScript",
-      "stargazers_count": 16481,
-      "forks_count": 1058,
-      "pushed_at": "2026-01-15T06:45:51Z"
+      "stargazers_count": 16829,
+      "forks_count": 1073,
+      "pushed_at": "2026-01-24T11:53:27Z"
     },
     {
       "full_name": "google-gemini/gemini-cli",
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "language": "TypeScript",
-      "stargazers_count": 91374,
-      "forks_count": 10634,
-      "pushed_at": "2026-01-17T22:41:03Z"
+      "stargazers_count": 92377,
+      "forks_count": 10793,
+      "pushed_at": "2026-01-24T21:54:57Z"
     },
     {
       "full_name": "netdata/netdata",
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "language": "C",
-      "stargazers_count": 77371,
-      "forks_count": 6303,
-      "pushed_at": "2026-01-17T09:45:12Z"
+      "stargazers_count": 77495,
+      "forks_count": 6317,
+      "pushed_at": "2026-01-24T20:23:13Z"
     },
     {
       "full_name": "is-a-dev/register",
       "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
       "language": "JavaScript",
-      "stargazers_count": 9413,
-      "forks_count": 17534,
-      "pushed_at": "2026-01-17T17:00:57Z"
+      "stargazers_count": 9461,
+      "forks_count": 17667,
+      "pushed_at": "2026-01-24T06:19:08Z"
     },
     {
       "full_name": "exo-explore/exo",
       "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
       "language": "Python",
-      "stargazers_count": 40142,
-      "forks_count": 2705,
-      "pushed_at": "2026-01-17T22:58:19Z"
+      "stargazers_count": 40451,
+      "forks_count": 2728,
+      "pushed_at": "2026-01-24T21:50:51Z"
     },
     {
       "full_name": "bytedance/Dolphin",
       "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
       "language": "Python",
-      "stargazers_count": 8691,
-      "forks_count": 736,
+      "stargazers_count": 8726,
+      "forks_count": 739,
       "pushed_at": "2025-12-17T13:14:09Z"
     },
     {
       "full_name": "ultralytics/ultralytics",
       "description": "Ultralytics YOLO 🚀",
       "language": "Python",
-      "stargazers_count": 51894,
-      "forks_count": 9930,
-      "pushed_at": "2026-01-17T10:13:02Z"
+      "stargazers_count": 52400,
+      "forks_count": 10019,
+      "pushed_at": "2026-01-25T00:07:00Z"
     },
     {
       "full_name": "modelcontextprotocol/registry",
       "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
       "language": "Go",
-      "stargazers_count": 6284,
-      "forks_count": 563,
-      "pushed_at": "2026-01-16T23:35:46Z"
+      "stargazers_count": 6315,
+      "forks_count": 568,
+      "pushed_at": "2026-01-23T23:35:59Z"
     },
     {
       "full_name": "openai/harmony",
       "description": "Renderer for the harmony response format to be used with gpt-oss",
       "language": "Rust",
-      "stargazers_count": 4138,
-      "forks_count": 247,
+      "stargazers_count": 4150,
+      "forks_count": 249,
       "pushed_at": "2025-12-15T22:05:16Z"
     },
     {
       "full_name": "pydoit/doit",
       "description": "CLI task management & automation tool",
       "language": "Python",
-      "stargazers_count": 2001,
+      "stargazers_count": 2007,
       "forks_count": 187,
       "pushed_at": "2026-01-10T21:17:58Z"
     },
@@ -1086,8 +1110,8 @@
       "full_name": "ConEmu/ConEmu",
       "description": "ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more",
       "language": "C++",
-      "stargazers_count": 9027,
-      "forks_count": 596,
+      "stargazers_count": 9032,
+      "forks_count": 599,
       "pushed_at": "2025-04-07T22:10:41Z"
     },
     {
@@ -1110,47 +1134,47 @@
       "full_name": "github/github-mcp-server",
       "description": "GitHub's official MCP Server",
       "language": "Go",
-      "stargazers_count": 26017,
-      "forks_count": 3387,
-      "pushed_at": "2026-01-17T23:54:08Z"
+      "stargazers_count": 26261,
+      "forks_count": 3442,
+      "pushed_at": "2026-01-25T00:08:52Z"
     },
     {
       "full_name": "steel-dev/steel-browser",
       "description": "🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.",
       "language": "TypeScript",
-      "stargazers_count": 6241,
-      "forks_count": 910,
+      "stargazers_count": 6274,
+      "forks_count": 909,
       "pushed_at": "2026-01-09T19:14:16Z"
     },
     {
       "full_name": "QuantumNous/new-api",
       "description": "AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 A Unified AI Model Management & Distribution System. Aggregate all your LLMs into one app and access them via an OpenAI-compatible API, with native support for Claude (Messages) and Gemini formats.",
       "language": "JavaScript",
-      "stargazers_count": 15400,
-      "forks_count": 3019,
-      "pushed_at": "2026-01-15T07:35:17Z"
+      "stargazers_count": 15876,
+      "forks_count": 3123,
+      "pushed_at": "2026-01-22T20:03:39Z"
     },
     {
       "full_name": "hwdsl2/wireguard-install",
       "description": "WireGuard VPN server installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS, Fedora, openSUSE and Raspberry Pi OS",
       "language": "Shell",
-      "stargazers_count": 1660,
-      "forks_count": 358,
-      "pushed_at": "2026-01-07T01:29:50Z"
+      "stargazers_count": 1670,
+      "forks_count": 357,
+      "pushed_at": "2026-01-24T20:46:46Z"
     },
     {
       "full_name": "eza-community/eza",
       "description": "A modern alternative to ls",
       "language": "Rust",
-      "stargazers_count": 19455,
-      "forks_count": 375,
+      "stargazers_count": 19586,
+      "forks_count": 379,
       "pushed_at": "2026-01-06T18:11:32Z"
     },
     {
       "full_name": "ogham/exa",
       "description": "A modern replacement for ‘ls’.",
       "language": "Rust",
-      "stargazers_count": 24277,
+      "stargazers_count": 24276,
       "forks_count": 664,
       "pushed_at": "2024-09-24T15:18:09Z"
     },
@@ -1158,7 +1182,7 @@
       "full_name": "s3tools/s3cmd",
       "description": "Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).",
       "language": "Python",
-      "stargazers_count": 4847,
+      "stargazers_count": 4853,
       "forks_count": 913,
       "pushed_at": "2025-10-22T23:26:17Z"
     },
@@ -1166,48 +1190,48 @@
       "full_name": "pipipi-pikachu/PPTist",
       "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.",
       "language": "Vue",
-      "stargazers_count": 8515,
-      "forks_count": 1681,
-      "pushed_at": "2026-01-16T04:50:19Z"
+      "stargazers_count": 8546,
+      "forks_count": 1690,
+      "pushed_at": "2026-01-24T17:32:10Z"
     },
     {
       "full_name": "Alibaba-NLP/DeepResearch",
       "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
       "language": "Python",
-      "stargazers_count": 17962,
-      "forks_count": 1380,
-      "pushed_at": "2026-01-12T09:21:08Z"
+      "stargazers_count": 18035,
+      "forks_count": 1387,
+      "pushed_at": "2026-01-21T17:42:01Z"
     },
     {
       "full_name": "chrishayuk/mcp-cli",
       "description": null,
       "language": "Python",
-      "stargazers_count": 1829,
-      "forks_count": 303,
+      "stargazers_count": 1846,
+      "forks_count": 302,
       "pushed_at": "2025-12-29T03:27:51Z"
     },
     {
       "full_name": "agronholm/apscheduler",
       "description": "Task scheduling library for Python",
       "language": "Python",
-      "stargazers_count": 7238,
-      "forks_count": 746,
+      "stargazers_count": 7258,
+      "forks_count": 745,
       "pushed_at": "2026-01-06T12:05:10Z"
     },
     {
       "full_name": "huggingface/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "language": "Python",
-      "stargazers_count": 155279,
-      "forks_count": 31768,
-      "pushed_at": "2026-01-16T18:42:33Z"
+      "stargazers_count": 155660,
+      "forks_count": 31848,
+      "pushed_at": "2026-01-24T18:26:11Z"
     },
     {
       "full_name": "google-gemini/gemini-fullstack-langgraph-quickstart",
       "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
       "language": "Jupyter Notebook",
-      "stargazers_count": 17704,
-      "forks_count": 3018,
+      "stargazers_count": 17762,
+      "forks_count": 3038,
       "pushed_at": "2026-01-08T23:01:33Z"
     },
     {
@@ -1222,84 +1246,84 @@
       "full_name": "sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
-      "stargazers_count": 71953,
-      "forks_count": 8518,
-      "pushed_at": "2026-01-17T05:16:07Z"
+      "stargazers_count": 72133,
+      "forks_count": 8548,
+      "pushed_at": "2026-01-24T08:49:11Z"
     },
     {
       "full_name": "langchain-ai/langchain-mcp-adapters",
       "description": "LangChain 🔌 MCP",
       "language": "Python",
-      "stargazers_count": 3274,
-      "forks_count": 350,
+      "stargazers_count": 3288,
+      "forks_count": 353,
       "pushed_at": "2026-01-09T17:45:59Z"
     },
     {
       "full_name": "aristocratos/btop4win",
       "description": "btop++ for windows",
       "language": "C++",
-      "stargazers_count": 1496,
-      "forks_count": 47,
+      "stargazers_count": 1508,
+      "forks_count": 48,
       "pushed_at": "2025-10-12T16:45:50Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
       "description": "AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.",
       "language": "TypeScript",
-      "stargazers_count": 37951,
-      "forks_count": 3493,
-      "pushed_at": "2026-01-17T16:43:39Z"
+      "stargazers_count": 38307,
+      "forks_count": 3516,
+      "pushed_at": "2026-01-24T15:29:49Z"
     },
     {
       "full_name": "withastro/astro",
       "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
       "language": "TypeScript",
-      "stargazers_count": 55796,
-      "forks_count": 3078,
-      "pushed_at": "2026-01-17T22:37:23Z"
+      "stargazers_count": 56211,
+      "forks_count": 3093,
+      "pushed_at": "2026-01-24T16:16:59Z"
     },
     {
       "full_name": "monkeytypegame/monkeytype",
       "description": "The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.",
       "language": "TypeScript",
-      "stargazers_count": 19237,
-      "forks_count": 2990,
-      "pushed_at": "2026-01-17T23:40:58Z"
+      "stargazers_count": 19271,
+      "forks_count": 3004,
+      "pushed_at": "2026-01-24T21:44:19Z"
     },
     {
       "full_name": "kuzudb/kuzu",
       "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
       "language": "C++",
-      "stargazers_count": 3579,
-      "forks_count": 344,
+      "stargazers_count": 3589,
+      "forks_count": 346,
       "pushed_at": "2025-10-10T15:34:00Z"
     },
     {
       "full_name": "deepseek-ai/smallpond",
       "description": "A lightweight data processing framework built on DuckDB and 3FS.",
       "language": "Python",
-      "stargazers_count": 4901,
-      "forks_count": 439,
+      "stargazers_count": 4906,
+      "forks_count": 440,
       "pushed_at": "2025-03-05T18:23:54Z"
     },
     {
       "full_name": "davidgasquez/awesome-duckdb",
       "description": "🦆 A curated list of awesome DuckDB resources",
       "language": null,
-      "stargazers_count": 2235,
-      "forks_count": 167,
-      "pushed_at": "2026-01-15T09:18:22Z"
+      "stargazers_count": 2243,
+      "forks_count": 169,
+      "pushed_at": "2026-01-24T23:02:07Z"
     },
     {
       "full_name": "duckdb/duckdb",
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
-      "stargazers_count": 35455,
-      "forks_count": 2857,
-      "pushed_at": "2026-01-16T15:49:43Z"
+      "stargazers_count": 35637,
+      "forks_count": 2877,
+      "pushed_at": "2026-01-24T12:49:14Z"
     },
     {
-      "full_name": "RechardLLee/RSSHUB-MCP",
+      "full_name": "mu-zi-lee/RSSHUB-MCP",
       "description": "RSSHUB-MCP",
       "language": "Python",
       "stargazers_count": 13,
@@ -1310,15 +1334,15 @@
       "full_name": "alexgolec/schwab-py",
       "description": "Unofficial API wrapper for the Schwab HTTP API ",
       "language": "Python",
-      "stargazers_count": 380,
-      "forks_count": 112,
+      "stargazers_count": 384,
+      "forks_count": 113,
       "pushed_at": "2025-08-04T12:34:48Z"
     },
     {
       "full_name": "adhikasp/mcp-client-cli",
       "description": "A simple CLI to run LLM prompt and implement MCP client.",
       "language": "Python",
-      "stargazers_count": 658,
+      "stargazers_count": 660,
       "forks_count": 84,
       "pushed_at": "2025-12-02T10:00:38Z"
     },
@@ -1326,15 +1350,15 @@
       "full_name": "neo4j/neo4j",
       "description": "Graphs for Everyone",
       "language": "Java",
-      "stargazers_count": 15735,
-      "forks_count": 2550,
-      "pushed_at": "2026-01-16T13:10:25Z"
+      "stargazers_count": 15769,
+      "forks_count": 2554,
+      "pushed_at": "2026-01-23T13:21:20Z"
     },
     {
       "full_name": "CopilotKit/open-mcp-client",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 1636,
+      "stargazers_count": 1639,
       "forks_count": 257,
       "pushed_at": "2025-04-22T21:13:39Z"
     },
@@ -1344,13 +1368,13 @@
       "language": "CSS",
       "stargazers_count": 63,
       "forks_count": 10,
-      "pushed_at": "2024-01-08T07:49:26Z"
+      "pushed_at": "2026-01-22T08:17:12Z"
     },
     {
       "full_name": "cirocosta/asciinema-edit",
       "description": "asciinema casts post-production tools",
       "language": "Go",
-      "stargazers_count": 335,
+      "stargazers_count": 337,
       "forks_count": 24,
       "pushed_at": "2023-06-28T22:07:22Z"
     },
@@ -1358,7 +1382,7 @@
       "full_name": "gvcgo/asciinema",
       "description": "🔥🎨 ⚡️📝A cross-platform asciinema(v2) terminal session recorder for MacOS/Linux/Windows. Currently a better choice than the official one.",
       "language": "Go",
-      "stargazers_count": 213,
+      "stargazers_count": 214,
       "forks_count": 9,
       "pushed_at": "2024-07-12T06:41:22Z"
     },
@@ -1366,16 +1390,16 @@
       "full_name": "asciinema/agg",
       "description": "asciinema gif generator",
       "language": "Rust",
-      "stargazers_count": 1527,
-      "forks_count": 57,
+      "stargazers_count": 1535,
+      "forks_count": 58,
       "pushed_at": "2025-10-22T16:10:59Z"
     },
     {
       "full_name": "asciinema/asciinema",
       "description": "Terminal session recorder, streamer and player 📹",
       "language": "Rust",
-      "stargazers_count": 16692,
-      "forks_count": 996,
+      "stargazers_count": 16745,
+      "forks_count": 999,
       "pushed_at": "2026-01-14T09:40:36Z"
     },
     {
@@ -1390,23 +1414,23 @@
       "full_name": "boardgameio/boardgame.io",
       "description": "State Management and Multiplayer Networking for Turn-Based Games",
       "language": "TypeScript",
-      "stargazers_count": 12145,
-      "forks_count": 805,
+      "stargazers_count": 12147,
+      "forks_count": 807,
       "pushed_at": "2025-04-18T17:57:53Z"
     },
     {
       "full_name": "backstage/backstage",
       "description": "Backstage is an open framework for building developer portals",
       "language": "TypeScript",
-      "stargazers_count": 32337,
-      "forks_count": 7023,
-      "pushed_at": "2026-01-17T14:45:21Z"
+      "stargazers_count": 32403,
+      "forks_count": 7051,
+      "pushed_at": "2026-01-24T23:29:48Z"
     },
     {
       "full_name": "sentient-agi/OpenDeepSearch",
       "description": "SOTA search powered LLM",
       "language": "Python",
-      "stargazers_count": 3764,
+      "stargazers_count": 3766,
       "forks_count": 341,
       "pushed_at": "2025-04-04T18:20:24Z"
     },
@@ -1414,89 +1438,89 @@
       "full_name": "elastic/elasticsearch",
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
-      "stargazers_count": 75892,
-      "forks_count": 25791,
-      "pushed_at": "2026-01-17T16:39:11Z"
+      "stargazers_count": 75953,
+      "forks_count": 25794,
+      "pushed_at": "2026-01-24T18:22:50Z"
     },
     {
       "full_name": "md-reader/md-reader",
       "description": "📜 The best way to read Markdown in Browser.",
       "language": "TypeScript",
-      "stargazers_count": 240,
-      "forks_count": 27,
-      "pushed_at": "2026-01-16T21:17:04Z"
+      "stargazers_count": 243,
+      "forks_count": 29,
+      "pushed_at": "2026-01-21T23:49:22Z"
     },
     {
       "full_name": "wasmerio/Python-Scripts",
       "description": "A curated list of python scripts for automating your tasks",
       "language": "Python",
-      "stargazers_count": 1414,
-      "forks_count": 472,
-      "pushed_at": "2026-01-15T20:26:34Z"
+      "stargazers_count": 1441,
+      "forks_count": 476,
+      "pushed_at": "2026-01-22T19:01:51Z"
     },
     {
       "full_name": "hastagAB/Awesome-Python-Scripts",
       "description": "A Curated list of Awesome Python Scripts that Automate Stuffs. ",
       "language": "Python",
       "stargazers_count": 2328,
-      "forks_count": 770,
+      "forks_count": 771,
       "pushed_at": "2025-09-29T12:27:25Z"
     },
     {
       "full_name": "geekcomputers/Python",
       "description": "My Python Examples",
       "language": "Python",
-      "stargazers_count": 34622,
-      "forks_count": 12879,
-      "pushed_at": "2026-01-17T12:17:38Z"
+      "stargazers_count": 34658,
+      "forks_count": 12887,
+      "pushed_at": "2026-01-24T17:24:27Z"
     },
     {
       "full_name": "DouyinFE/semi-design",
       "description": "🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click ",
       "language": "TypeScript",
-      "stargazers_count": 9674,
-      "forks_count": 790,
-      "pushed_at": "2026-01-16T08:29:15Z"
+      "stargazers_count": 9695,
+      "forks_count": 793,
+      "pushed_at": "2026-01-21T07:11:18Z"
     },
     {
       "full_name": "saadeghi/daisyui",
       "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
       "language": "Svelte",
-      "stargazers_count": 39960,
-      "forks_count": 1601,
+      "stargazers_count": 40043,
+      "forks_count": 1605,
       "pushed_at": "2026-01-17T07:51:58Z"
     },
     {
       "full_name": "tailwindlabs/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
       "language": "TypeScript",
-      "stargazers_count": 92979,
-      "forks_count": 4991,
-      "pushed_at": "2026-01-17T09:55:46Z"
+      "stargazers_count": 93149,
+      "forks_count": 5012,
+      "pushed_at": "2026-01-18T19:40:35Z"
     },
     {
       "full_name": "airyland/vux",
       "description": "Mobile UI Components based on Vue & WeUI",
       "language": "Vue",
       "stargazers_count": 17535,
-      "forks_count": 3682,
+      "forks_count": 3680,
       "pushed_at": "2024-04-24T07:38:09Z"
     },
     {
       "full_name": "vuetifyjs/vuetify",
       "description": "🐉 Vue Component Framework",
       "language": "TypeScript",
-      "stargazers_count": 40900,
-      "forks_count": 7143,
-      "pushed_at": "2026-01-16T04:34:41Z"
+      "stargazers_count": 40919,
+      "forks_count": 7146,
+      "pushed_at": "2026-01-23T16:32:22Z"
     },
     {
       "full_name": "DavidHDev/react-bits",
       "description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
       "language": "JavaScript",
-      "stargazers_count": 34188,
-      "forks_count": 1505,
-      "pushed_at": "2026-01-17T23:42:40Z"
+      "stargazers_count": 34620,
+      "forks_count": 1530,
+      "pushed_at": "2026-01-20T20:53:16Z"
     },
     {
       "full_name": "deltaray-io/kelly-criterion",
@@ -1510,23 +1534,23 @@
       "full_name": "wilsonfreitas/awesome-quant",
       "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
       "language": "Jupyter Notebook",
-      "stargazers_count": 23734,
-      "forks_count": 3142,
-      "pushed_at": "2026-01-17T01:30:57Z"
+      "stargazers_count": 23866,
+      "forks_count": 3156,
+      "pushed_at": "2026-01-24T01:31:24Z"
     },
     {
       "full_name": "marketcalls/openalgo",
       "description": "Open Source Algo Trading Platform for Everyone",
       "language": "Python",
-      "stargazers_count": 1107,
-      "forks_count": 532,
-      "pushed_at": "2026-01-17T15:28:42Z"
+      "stargazers_count": 1148,
+      "forks_count": 550,
+      "pushed_at": "2026-01-24T14:50:15Z"
     },
     {
       "full_name": "ttggs/hummingbot_chinese",
       "description": "hummingbot中文资源",
       "language": null,
-      "stargazers_count": 767,
+      "stargazers_count": 771,
       "forks_count": 157,
       "pushed_at": "2025-03-05T04:17:23Z"
     },
@@ -1534,71 +1558,71 @@
       "full_name": "cinar/indicator",
       "description": "Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀",
       "language": "Go",
-      "stargazers_count": 784,
-      "forks_count": 145,
+      "stargazers_count": 785,
+      "forks_count": 146,
       "pushed_at": "2025-09-27T02:58:43Z"
     },
     {
       "full_name": "facebook/prophet",
       "description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
       "language": "Python",
-      "stargazers_count": 19945,
-      "forks_count": 4644,
-      "pushed_at": "2025-12-23T05:43:58Z"
+      "stargazers_count": 19969,
+      "forks_count": 4646,
+      "pushed_at": "2026-01-22T01:34:45Z"
     },
     {
       "full_name": "TA-Lib/ta-lib-python",
       "description": "Python wrapper for TA-Lib (http://ta-lib.org/).",
       "language": "Cython",
-      "stargazers_count": 11625,
-      "forks_count": 1957,
-      "pushed_at": "2025-12-22T05:50:12Z"
+      "stargazers_count": 11645,
+      "forks_count": 1958,
+      "pushed_at": "2026-01-22T06:13:14Z"
     },
     {
       "full_name": "mementum/backtrader",
       "description": "Python Backtesting library for trading strategies",
       "language": "Python",
-      "stargazers_count": 20144,
-      "forks_count": 4876,
+      "stargazers_count": 20214,
+      "forks_count": 4894,
       "pushed_at": "2024-08-19T17:47:36Z"
     },
     {
       "full_name": "jrothschild33/learn_backtrader",
       "description": "BackTrader中文教程笔记（by：量化投资与机器学习），系统性介绍Bactrader的特性、策略构建、数据结构、回测交易等，彻底掌握量化神器的使用方法。章节：介绍篇、数据篇、指标篇、交易篇、策略篇、可视化篇……（持续更新中）",
       "language": "Python",
-      "stargazers_count": 1953,
-      "forks_count": 388,
+      "stargazers_count": 1970,
+      "forks_count": 391,
       "pushed_at": "2021-10-21T14:43:53Z"
     },
     {
       "full_name": "supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stargazers_count": 96323,
-      "forks_count": 11293,
-      "pushed_at": "2026-01-17T14:07:05Z"
+      "stargazers_count": 96705,
+      "forks_count": 11350,
+      "pushed_at": "2026-01-24T22:19:48Z"
     },
     {
       "full_name": "dubinc/dub",
       "description": "The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.",
       "language": "TypeScript",
-      "stargazers_count": 22906,
-      "forks_count": 2809,
-      "pushed_at": "2026-01-17T23:00:00Z"
+      "stargazers_count": 22946,
+      "forks_count": 2815,
+      "pushed_at": "2026-01-25T00:04:13Z"
     },
     {
       "full_name": "neovim/neovim",
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
-      "stargazers_count": 95762,
-      "forks_count": 6529,
-      "pushed_at": "2026-01-17T13:48:50Z"
+      "stargazers_count": 95937,
+      "forks_count": 6543,
+      "pushed_at": "2026-01-24T13:16:46Z"
     },
     {
       "full_name": "zamalali/DeepGit",
       "description": "Deep research agent to help you find the best GitHub repositories 🕵️!",
       "language": "Python",
-      "stargazers_count": 837,
+      "stargazers_count": 838,
       "forks_count": 88,
       "pushed_at": "2025-11-20T21:24:26Z"
     },
@@ -1606,7 +1630,7 @@
       "full_name": "highlightjs/highlight.js",
       "description": "JavaScript syntax highlighter with language auto-detection and zero dependencies.",
       "language": "JavaScript",
-      "stargazers_count": 24804,
+      "stargazers_count": 24812,
       "forks_count": 3718,
       "pushed_at": "2025-10-27T17:01:56Z"
     },
@@ -1614,8 +1638,8 @@
       "full_name": "highlight/highlight",
       "description": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.",
       "language": "TypeScript",
-      "stargazers_count": 9082,
-      "forks_count": 473,
+      "stargazers_count": 9093,
+      "forks_count": 474,
       "pushed_at": "2026-01-08T16:45:51Z"
     },
     {
@@ -1632,45 +1656,45 @@
       "language": "JavaScript",
       "stargazers_count": 3234,
       "forks_count": 232,
-      "pushed_at": "2026-01-12T17:30:39Z"
+      "pushed_at": "2026-01-19T15:57:07Z"
     },
     {
       "full_name": "PrismJS/prism",
       "description": "Lightweight, robust, elegant syntax highlighting.",
       "language": "JavaScript",
-      "stargazers_count": 12894,
-      "forks_count": 1359,
-      "pushed_at": "2026-01-01T19:19:35Z"
+      "stargazers_count": 12906,
+      "forks_count": 1358,
+      "pushed_at": "2026-01-21T23:04:25Z"
     },
     {
       "full_name": "markdown-it/markdown-it",
       "description": "Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed",
       "language": "JavaScript",
-      "stargazers_count": 20948,
-      "forks_count": 1797,
+      "stargazers_count": 20981,
+      "forks_count": 1799,
       "pushed_at": "2025-09-11T12:21:18Z"
     },
     {
       "full_name": "alibaba/higress",
       "description": "🤖 AI Gateway | AI Native API Gateway",
       "language": "Go",
-      "stargazers_count": 7316,
-      "forks_count": 952,
-      "pushed_at": "2026-01-15T12:36:55Z"
+      "stargazers_count": 7374,
+      "forks_count": 962,
+      "pushed_at": "2026-01-23T07:56:59Z"
     },
     {
       "full_name": "makenotion/notion-sdk-js",
       "description": "Official Notion JavaScript Client",
       "language": "TypeScript",
-      "stargazers_count": 5497,
-      "forks_count": 699,
-      "pushed_at": "2026-01-15T02:23:18Z"
+      "stargazers_count": 5505,
+      "forks_count": 701,
+      "pushed_at": "2026-01-23T20:21:03Z"
     },
     {
       "full_name": "LelouchFR/skill-icons",
       "description": "\"Fork\" of official skill-icons repository. Showcase your skills on your Github readme or resumé with ease ✨",
       "language": "Go",
-      "stargazers_count": 657,
+      "stargazers_count": 660,
       "forks_count": 74,
       "pushed_at": "2025-12-20T22:10:26Z"
     },
@@ -1678,15 +1702,15 @@
       "full_name": "anmol098/anmol098",
       "description": "If you are forking please do not forget to star the repo",
       "language": null,
-      "stargazers_count": 659,
-      "forks_count": 758,
-      "pushed_at": "2026-01-17T00:41:00Z"
+      "stargazers_count": 660,
+      "forks_count": 757,
+      "pushed_at": "2026-01-24T00:42:30Z"
     },
     {
       "full_name": "anmol098/waka-readme-stats",
       "description": "This GitHub action helps to add cool dev metrics to your github profile Readme",
       "language": "Python",
-      "stargazers_count": 3844,
+      "stargazers_count": 3853,
       "forks_count": 624,
       "pushed_at": "2026-01-16T18:56:33Z"
     },
@@ -1694,39 +1718,39 @@
       "full_name": "microsoft/winget-pkgs",
       "description": "The Microsoft community Windows Package Manager manifest repository",
       "language": "PowerShell",
-      "stargazers_count": 10137,
-      "forks_count": 5924,
-      "pushed_at": "2026-01-18T00:14:22Z"
+      "stargazers_count": 10169,
+      "forks_count": 5956,
+      "pushed_at": "2026-01-25T00:11:02Z"
     },
     {
       "full_name": "rahuldkjain/github-profile-readme-generator",
       "description": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
       "language": "TypeScript",
-      "stargazers_count": 23930,
-      "forks_count": 8218,
+      "stargazers_count": 23952,
+      "forks_count": 8226,
       "pushed_at": "2025-10-28T10:27:15Z"
     },
     {
       "full_name": "krisk/Fuse",
       "description": "Lightweight fuzzy-search, in JavaScript",
       "language": "JavaScript",
-      "stargazers_count": 19887,
-      "forks_count": 797,
+      "stargazers_count": 19906,
+      "forks_count": 799,
       "pushed_at": "2025-03-08T19:48:57Z"
     },
     {
       "full_name": "nextapps-de/flexsearch",
       "description": "Next-generation full-text search library for Browser and Node.js",
       "language": "JavaScript",
-      "stargazers_count": 13542,
-      "forks_count": 519,
+      "stargazers_count": 13562,
+      "forks_count": 520,
       "pushed_at": "2025-09-26T19:48:55Z"
     },
     {
       "full_name": "lilianweng/lilianweng.github.io",
       "description": "My personal page",
       "language": "HTML",
-      "stargazers_count": 704,
+      "stargazers_count": 705,
       "forks_count": 113,
       "pushed_at": "2025-06-10T14:19:36Z"
     },
@@ -1750,7 +1774,7 @@
       "full_name": "houtianze/bypy",
       "description": "Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端",
       "language": "Python",
-      "stargazers_count": 8476,
+      "stargazers_count": 8484,
       "forks_count": 1425,
       "pushed_at": "2025-04-02T01:11:10Z"
     },
@@ -1758,7 +1782,7 @@
       "full_name": "tortilla/tortilla",
       "description": " Wrapping web APIs made easy.",
       "language": "Python",
-      "stargazers_count": 1242,
+      "stargazers_count": 1241,
       "forks_count": 43,
       "pushed_at": "2020-12-29T05:32:48Z"
     },
@@ -1766,15 +1790,15 @@
       "full_name": "pola-rs/polars",
       "description": "Extremely fast Query Engine for DataFrames, written in Rust",
       "language": "Rust",
-      "stargazers_count": 37025,
-      "forks_count": 2563,
-      "pushed_at": "2026-01-16T16:13:49Z"
+      "stargazers_count": 37128,
+      "forks_count": 2575,
+      "pushed_at": "2026-01-24T17:41:44Z"
     },
     {
       "full_name": "gruns/furl",
       "description": "🌐 The easiest way to parse and modify URLs in Python.",
       "language": "Python",
-      "stargazers_count": 2793,
+      "stargazers_count": 2795,
       "forks_count": 157,
       "pushed_at": "2025-11-24T09:40:05Z"
     },
@@ -1782,39 +1806,39 @@
       "full_name": "python-poetry/poetry",
       "description": "Python packaging and dependency management made easy",
       "language": "Python",
-      "stargazers_count": 34169,
+      "stargazers_count": 34160,
       "forks_count": 2393,
-      "pushed_at": "2026-01-17T12:50:21Z"
+      "pushed_at": "2026-01-24T22:10:08Z"
     },
     {
       "full_name": "chinese-poetry/chinese-poetry",
       "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
       "language": "JavaScript",
-      "stargazers_count": 50818,
-      "forks_count": 10275,
+      "stargazers_count": 50871,
+      "forks_count": 10287,
       "pushed_at": "2025-04-02T09:42:19Z"
     },
     {
       "full_name": "python-pendulum/pendulum",
       "description": "Python datetimes made easy",
       "language": "Python",
-      "stargazers_count": 6606,
-      "forks_count": 415,
+      "stargazers_count": 6609,
+      "forks_count": 416,
       "pushed_at": "2026-01-15T12:16:54Z"
     },
     {
       "full_name": "calcom/cal.com",
       "description": "Scheduling infrastructure for absolutely everyone.",
       "language": "TypeScript",
-      "stargazers_count": 39751,
-      "forks_count": 11594,
-      "pushed_at": "2026-01-17T22:40:33Z"
+      "stargazers_count": 39858,
+      "forks_count": 11680,
+      "pushed_at": "2026-01-24T22:30:32Z"
     },
     {
       "full_name": "dbader/schedule",
       "description": "Python job scheduling for humans.",
       "language": "Python",
-      "stargazers_count": 12226,
+      "stargazers_count": 12224,
       "forks_count": 984,
       "pushed_at": "2024-05-25T18:41:01Z"
     },
@@ -1822,33 +1846,33 @@
       "full_name": "Textualize/textual",
       "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.",
       "language": "Python",
-      "stargazers_count": 33704,
-      "forks_count": 1068,
+      "stargazers_count": 33833,
+      "forks_count": 1073,
       "pushed_at": "2026-01-15T16:38:26Z"
     },
     {
       "full_name": "Textualize/rich",
       "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
       "language": "Python",
-      "stargazers_count": 55155,
-      "forks_count": 1999,
-      "pushed_at": "2026-01-17T17:08:52Z"
+      "stargazers_count": 55237,
+      "forks_count": 2006,
+      "pushed_at": "2026-01-24T21:42:13Z"
     },
     {
       "full_name": "duiker101/Hacker-Typer",
       "description": "Hacker Typer is a fun joke for every person who wants to look like a cool hacker!",
       "language": "JavaScript",
-      "stargazers_count": 713,
-      "forks_count": 252,
+      "stargazers_count": 714,
+      "forks_count": 251,
       "pushed_at": "2023-08-26T17:43:55Z"
     },
     {
       "full_name": "fastapi/typer",
       "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
       "language": "Python",
-      "stargazers_count": 18650,
-      "forks_count": 826,
-      "pushed_at": "2026-01-16T11:40:53Z"
+      "stargazers_count": 18690,
+      "forks_count": 829,
+      "pushed_at": "2026-01-23T13:21:51Z"
     },
     {
       "full_name": "hugapi/hug",
@@ -1862,31 +1886,31 @@
       "full_name": "fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
-      "stargazers_count": 94184,
-      "forks_count": 8535,
-      "pushed_at": "2026-01-16T12:36:44Z"
+      "stargazers_count": 94420,
+      "forks_count": 8579,
+      "pushed_at": "2026-01-24T21:29:42Z"
     },
     {
       "full_name": "jina-ai/serve",
       "description": "☁️ Build multimodal AI applications with cloud-native stack",
       "language": "Python",
-      "stargazers_count": 21821,
-      "forks_count": 2240,
+      "stargazers_count": 21828,
+      "forks_count": 2238,
       "pushed_at": "2025-03-24T13:59:54Z"
     },
     {
       "full_name": "567-labs/instructor",
       "description": "structured outputs for llms ",
       "language": "Python",
-      "stargazers_count": 12155,
+      "stargazers_count": 12212,
       "forks_count": 918,
-      "pushed_at": "2026-01-17T17:54:41Z"
+      "pushed_at": "2026-01-24T19:21:26Z"
     },
     {
       "full_name": "httprunner/httprunner",
       "description": "HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。",
       "language": "Go",
-      "stargazers_count": 4241,
+      "stargazers_count": 4248,
       "forks_count": 1284,
       "pushed_at": "2025-12-11T16:50:50Z"
     },
@@ -1894,7 +1918,7 @@
       "full_name": "brentyi/tyro",
       "description": "CLI interfaces & config objects, from types",
       "language": "Python",
-      "stargazers_count": 931,
+      "stargazers_count": 939,
       "forks_count": 38,
       "pushed_at": "2026-01-13T20:50:40Z"
     },
@@ -1902,39 +1926,39 @@
       "full_name": "ray-project/ray",
       "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
       "language": "Python",
-      "stargazers_count": 40833,
-      "forks_count": 7125,
-      "pushed_at": "2026-01-17T22:23:08Z"
+      "stargazers_count": 40966,
+      "forks_count": 7153,
+      "pushed_at": "2026-01-24T22:10:50Z"
     },
     {
       "full_name": "MetaCubeX/mihomo",
       "description": "A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.",
       "language": "Python",
-      "stargazers_count": 26064,
-      "forks_count": 3580,
-      "pushed_at": "2026-01-17T14:49:06Z"
+      "stargazers_count": 26259,
+      "forks_count": 3599,
+      "pushed_at": "2026-01-23T01:57:29Z"
     },
     {
       "full_name": "pydantic/pydantic-ai",
       "description": "GenAI Agent Framework, the Pydantic way",
       "language": "Python",
-      "stargazers_count": 14325,
-      "forks_count": 1548,
-      "pushed_at": "2026-01-17T01:15:16Z"
+      "stargazers_count": 14433,
+      "forks_count": 1568,
+      "pushed_at": "2026-01-24T00:33:18Z"
     },
     {
       "full_name": "pydantic/pydantic",
       "description": "Data validation using Python type hints",
       "language": "Python",
-      "stargazers_count": 26485,
-      "forks_count": 2398,
-      "pushed_at": "2026-01-17T13:30:03Z"
+      "stargazers_count": 26551,
+      "forks_count": 2405,
+      "pushed_at": "2026-01-23T11:10:06Z"
     },
     {
       "full_name": "lakshaybhushan/vecto3d",
       "description": "A super simple tool to convert your SVG's to 3D models.",
       "language": "TypeScript",
-      "stargazers_count": 1343,
+      "stargazers_count": 1345,
       "forks_count": 81,
       "pushed_at": "2026-01-14T10:46:17Z"
     },
@@ -1944,7 +1968,7 @@
       "language": null,
       "stargazers_count": 1,
       "forks_count": 0,
-      "pushed_at": "2026-01-16T02:47:31Z"
+      "pushed_at": "2026-01-23T02:47:46Z"
     },
     {
       "full_name": "yuxiaoli/zacks",
@@ -1952,7 +1976,7 @@
       "language": null,
       "stargazers_count": 1,
       "forks_count": 0,
-      "pushed_at": "2026-01-16T10:06:02Z"
+      "pushed_at": "2026-01-23T10:05:57Z"
     },
     {
       "full_name": "yuxiaoli/arkk",
@@ -1960,61 +1984,61 @@
       "language": "Python",
       "stargazers_count": 1,
       "forks_count": 0,
-      "pushed_at": "2026-01-16T20:06:23Z"
+      "pushed_at": "2026-01-23T20:06:37Z"
     },
     {
       "full_name": "NginxProxyManager/nginx-proxy-manager",
       "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
       "language": "TypeScript",
-      "stargazers_count": 31127,
-      "forks_count": 3537,
-      "pushed_at": "2026-01-14T23:58:07Z"
+      "stargazers_count": 31252,
+      "forks_count": 3557,
+      "pushed_at": "2026-01-21T23:43:46Z"
     },
     {
       "full_name": "0xJacky/nginx-ui",
       "description": "Yet another WebUI for Nginx",
       "language": "Go",
-      "stargazers_count": 10421,
-      "forks_count": 763,
-      "pushed_at": "2026-01-17T18:27:00Z"
+      "stargazers_count": 10459,
+      "forks_count": 765,
+      "pushed_at": "2026-01-23T20:27:54Z"
     },
     {
       "full_name": "nginx-proxy/nginx-proxy",
       "description": "Automated nginx proxy for Docker containers using docker-gen",
       "language": "Python",
-      "stargazers_count": 19723,
-      "forks_count": 3076,
+      "stargazers_count": 19729,
+      "forks_count": 3077,
       "pushed_at": "2026-01-16T20:06:03Z"
     },
     {
       "full_name": "kubernetes/ingress-nginx",
       "description": "Ingress NGINX Controller for Kubernetes",
       "language": "Go",
-      "stargazers_count": 19258,
-      "forks_count": 8503,
-      "pushed_at": "2026-01-15T14:50:28Z"
+      "stargazers_count": 19278,
+      "forks_count": 8506,
+      "pushed_at": "2026-01-23T09:47:28Z"
     },
     {
       "full_name": "nginx/nginx",
       "description": "The official NGINX Open Source repository.",
       "language": "C",
-      "stargazers_count": 29109,
-      "forks_count": 7717,
-      "pushed_at": "2026-01-16T12:13:36Z"
+      "stargazers_count": 29169,
+      "forks_count": 7732,
+      "pushed_at": "2026-01-21T16:39:01Z"
     },
     {
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
       "language": "JavaScript",
-      "stargazers_count": 95050,
-      "forks_count": 15027,
-      "pushed_at": "2026-01-17T14:08:26Z"
+      "stargazers_count": 95138,
+      "forks_count": 15060,
+      "pushed_at": "2026-01-22T00:44:16Z"
     },
     {
       "full_name": "jlevy/the-art-of-command-line",
       "description": "Master the command line, in one page",
       "language": null,
-      "stargazers_count": 159518,
+      "stargazers_count": 159601,
       "forks_count": 14761,
       "pushed_at": "2024-06-25T18:13:44Z"
     },
@@ -2022,23 +2046,23 @@
       "full_name": "docling-project/docling",
       "description": "Get your documents ready for gen AI",
       "language": "Python",
-      "stargazers_count": 50365,
-      "forks_count": 3473,
-      "pushed_at": "2026-01-17T06:37:12Z"
+      "stargazers_count": 51018,
+      "forks_count": 3500,
+      "pushed_at": "2026-01-23T17:26:56Z"
     },
     {
       "full_name": "microsoft/OmniParser",
       "description": "A simple screen parsing tool towards pure vision based GUI agent",
       "language": "Jupyter Notebook",
-      "stargazers_count": 24218,
-      "forks_count": 2090,
+      "stargazers_count": 24265,
+      "forks_count": 2100,
       "pushed_at": "2025-09-12T20:34:05Z"
     },
     {
       "full_name": "microsoft/playwright-python",
       "description": "Python version of the Playwright testing and automation library.",
       "language": "Python",
-      "stargazers_count": 14152,
+      "stargazers_count": 14187,
       "forks_count": 1122,
       "pushed_at": "2025-12-09T07:41:29Z"
     },
@@ -2046,15 +2070,15 @@
       "full_name": "microsoft/playwright",
       "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
       "language": "TypeScript",
-      "stargazers_count": 81343,
-      "forks_count": 5014,
-      "pushed_at": "2026-01-17T01:31:58Z"
+      "stargazers_count": 81640,
+      "forks_count": 5046,
+      "pushed_at": "2026-01-24T16:12:18Z"
     },
     {
       "full_name": "rsalmei/alive-progress",
       "description": "A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!",
       "language": "Python",
-      "stargazers_count": 6218,
+      "stargazers_count": 6222,
       "forks_count": 232,
       "pushed_at": "2025-10-10T00:39:31Z"
     },
@@ -2062,17 +2086,17 @@
       "full_name": "tqdm/tqdm",
       "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI",
       "language": "Python",
-      "stargazers_count": 30863,
-      "forks_count": 1419,
+      "stargazers_count": 30891,
+      "forks_count": 1422,
       "pushed_at": "2025-05-22T12:10:29Z"
     },
     {
       "full_name": "x-cmd/x-cmd",
       "description": "x-cmd: Bootstrap 1000+ command line tools in seconds.",
       "language": "Shell",
-      "stargazers_count": 3862,
-      "forks_count": 123,
-      "pushed_at": "2026-01-16T13:27:53Z"
+      "stargazers_count": 3896,
+      "forks_count": 124,
+      "pushed_at": "2026-01-24T09:08:16Z"
     },
     {
       "full_name": "donnemartin/gitsome",
@@ -2086,7 +2110,7 @@
       "full_name": "ajeetdsouza/zoxide",
       "description": "A smarter cd command. Supports all major shells.",
       "language": "Rust",
-      "stargazers_count": 32647,
+      "stargazers_count": 32829,
       "forks_count": 719,
       "pushed_at": "2025-12-15T18:49:33Z"
     },
@@ -2094,23 +2118,23 @@
       "full_name": "starship/starship",
       "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
       "language": "Rust",
-      "stargazers_count": 53534,
-      "forks_count": 2348,
-      "pushed_at": "2026-01-15T04:47:42Z"
+      "stargazers_count": 53694,
+      "forks_count": 2354,
+      "pushed_at": "2026-01-23T01:33:00Z"
     },
     {
       "full_name": "aria2/aria2",
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
       "language": "C++",
-      "stargazers_count": 39747,
-      "forks_count": 3809,
+      "stargazers_count": 39806,
+      "forks_count": 3810,
       "pushed_at": "2025-11-24T07:07:56Z"
     },
     {
       "full_name": "ziahamza/webui-aria2",
       "description": "The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. ",
       "language": "JavaScript",
-      "stargazers_count": 10275,
+      "stargazers_count": 10282,
       "forks_count": 1472,
       "pushed_at": "2024-04-05T14:52:57Z"
     },
@@ -2118,15 +2142,15 @@
       "full_name": "pyinfra-dev/pyinfra",
       "description": "🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.",
       "language": "Python",
-      "stargazers_count": 4658,
-      "forks_count": 456,
-      "pushed_at": "2026-01-05T09:58:02Z"
+      "stargazers_count": 4673,
+      "forks_count": 457,
+      "pushed_at": "2026-01-23T16:27:50Z"
     },
     {
       "full_name": "xonsh/awesome-xontribs",
       "description": "Awesome list of Xonsh contributions/extensions",
       "language": "CSS",
-      "stargazers_count": 108,
+      "stargazers_count": 110,
       "forks_count": 15,
       "pushed_at": "2025-12-15T05:37:07Z"
     },
@@ -2134,7 +2158,7 @@
       "full_name": "xxh/xxh",
       "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
       "language": "Python",
-      "stargazers_count": 5883,
+      "stargazers_count": 5887,
       "forks_count": 118,
       "pushed_at": "2025-09-22T12:12:06Z"
     },
@@ -2142,31 +2166,31 @@
       "full_name": "anki-code/xonsh-cheatsheet",
       "description": "Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.",
       "language": "Python",
-      "stargazers_count": 284,
+      "stargazers_count": 287,
       "forks_count": 17,
-      "pushed_at": "2026-01-14T18:36:17Z"
+      "pushed_at": "2026-01-23T11:14:26Z"
     },
     {
       "full_name": "xonsh/xonsh",
       "description": "🐚 Python-powered shell. Full-featured and cross-platform.",
       "language": "Python",
-      "stargazers_count": 9178,
-      "forks_count": 694,
-      "pushed_at": "2026-01-16T20:13:51Z"
+      "stargazers_count": 9187,
+      "forks_count": 695,
+      "pushed_at": "2026-01-23T11:27:21Z"
     },
     {
       "full_name": "OpenBB-finance/OpenBB",
       "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
-      "stargazers_count": 58927,
-      "forks_count": 5734,
-      "pushed_at": "2026-01-17T18:30:12Z"
+      "stargazers_count": 59307,
+      "forks_count": 5770,
+      "pushed_at": "2026-01-24T04:38:02Z"
     },
     {
       "full_name": "huacnlee/autocorrect",
       "description": "A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).",
       "language": "Rust",
-      "stargazers_count": 1521,
+      "stargazers_count": 1529,
       "forks_count": 60,
       "pushed_at": "2026-01-03T04:44:46Z"
     },
@@ -2174,17 +2198,17 @@
       "full_name": "helix-editor/helix",
       "description": "A post-modern modal text editor.",
       "language": "Rust",
-      "stargazers_count": 42465,
-      "forks_count": 3263,
-      "pushed_at": "2026-01-14T05:07:41Z"
+      "stargazers_count": 42585,
+      "forks_count": 3278,
+      "pushed_at": "2026-01-23T03:34:23Z"
     },
     {
       "full_name": "tmux/tmux",
       "description": "tmux source code",
       "language": "C",
-      "stargazers_count": 40859,
-      "forks_count": 2367,
-      "pushed_at": "2026-01-14T22:05:28Z"
+      "stargazers_count": 41054,
+      "forks_count": 2375,
+      "pushed_at": "2026-01-23T10:54:52Z"
     },
     {
       "full_name": "Vector-Index/gpts",
@@ -2198,39 +2222,39 @@
       "full_name": "ClementTsang/bottom",
       "description": "Yet another cross-platform graphical process/system monitor.",
       "language": "Rust",
-      "stargazers_count": 12663,
-      "forks_count": 325,
-      "pushed_at": "2026-01-16T07:16:56Z"
+      "stargazers_count": 12766,
+      "forks_count": 330,
+      "pushed_at": "2026-01-19T07:49:04Z"
     },
     {
       "full_name": "gsass1/NTop",
       "description": "💻 htop-like system-monitor for Windows with Vi-keybindings.",
       "language": "C",
-      "stargazers_count": 1461,
-      "forks_count": 83,
+      "stargazers_count": 1463,
+      "forks_count": 84,
       "pushed_at": "2024-12-23T08:39:30Z"
     },
     {
       "full_name": "nicolargo/glances",
       "description": "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.",
       "language": "Python",
-      "stargazers_count": 31335,
-      "forks_count": 1667,
-      "pushed_at": "2026-01-17T18:20:28Z"
+      "stargazers_count": 31417,
+      "forks_count": 1670,
+      "pushed_at": "2026-01-24T20:31:53Z"
     },
     {
       "full_name": "htop-dev/htop",
       "description": "htop - an interactive process viewer",
       "language": "C",
-      "stargazers_count": 7742,
-      "forks_count": 550,
-      "pushed_at": "2026-01-11T13:40:37Z"
+      "stargazers_count": 7766,
+      "forks_count": 554,
+      "pushed_at": "2026-01-23T18:57:13Z"
     },
     {
       "full_name": "Abdenasser/neohtop",
       "description": "💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)",
       "language": "Svelte",
-      "stargazers_count": 8822,
+      "stargazers_count": 8844,
       "forks_count": 281,
       "pushed_at": "2026-01-07T16:11:16Z"
     },
@@ -2238,7 +2262,7 @@
       "full_name": "catppuccin/btop",
       "description": "🧙‍♂️ Soothing pastel theme for btop",
       "language": "Just",
-      "stargazers_count": 380,
+      "stargazers_count": 381,
       "forks_count": 9,
       "pushed_at": "2025-04-26T20:13:06Z"
     },
@@ -2246,24 +2270,24 @@
       "full_name": "aristocratos/btop",
       "description": "A monitor of resources",
       "language": "C++",
-      "stargazers_count": 29741,
-      "forks_count": 899,
-      "pushed_at": "2026-01-17T21:02:55Z"
+      "stargazers_count": 29901,
+      "forks_count": 903,
+      "pushed_at": "2026-01-21T21:26:28Z"
     },
     {
       "full_name": "mountain-loop/yaak",
       "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
       "language": "TypeScript",
-      "stargazers_count": 17435,
-      "forks_count": 677,
-      "pushed_at": "2026-01-17T17:53:17Z"
+      "stargazers_count": 17539,
+      "forks_count": 682,
+      "pushed_at": "2026-01-22T14:44:01Z"
     },
     {
       "full_name": "xanderfrangos/twinkle-tray",
       "description": "Easily manage the brightness of your monitors in Windows from the system tray",
       "language": "JavaScript",
-      "stargazers_count": 7805,
-      "forks_count": 264,
+      "stargazers_count": 7832,
+      "forks_count": 267,
       "pushed_at": "2025-12-25T14:49:18Z"
     },
     {
@@ -2278,7 +2302,7 @@
       "full_name": "tuan3w/awesome-tech-rss",
       "description": "List of awesome RSS channels related to startup, science and technology.",
       "language": "Python",
-      "stargazers_count": 352,
+      "stargazers_count": 372,
       "forks_count": 20,
       "pushed_at": "2024-04-06T01:17:38Z"
     },
@@ -2286,9 +2310,9 @@
       "full_name": "warp-tech/warpgate",
       "description": "Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",
       "language": "Rust",
-      "stargazers_count": 6381,
-      "forks_count": 224,
-      "pushed_at": "2026-01-16T20:03:58Z"
+      "stargazers_count": 6456,
+      "forks_count": 228,
+      "pushed_at": "2026-01-24T23:20:26Z"
     },
     {
       "full_name": "jimmy201602/webterminal",
@@ -2302,15 +2326,15 @@
       "full_name": "moul/sshportal",
       "description": ":tophat: simple, fun and transparent SSH (and telnet) bastion server",
       "language": "Go",
-      "stargazers_count": 1911,
+      "stargazers_count": 1913,
       "forks_count": 139,
-      "pushed_at": "2026-01-16T21:43:06Z"
+      "pushed_at": "2026-01-18T05:52:00Z"
     },
     {
       "full_name": "Netflix/bless",
       "description": "Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function",
       "language": "Python",
-      "stargazers_count": 2760,
+      "stargazers_count": 2761,
       "forks_count": 228,
       "pushed_at": "2024-08-16T23:28:53Z"
     },
@@ -2318,63 +2342,63 @@
       "full_name": "gravitational/teleport",
       "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
       "language": "Go",
-      "stargazers_count": 19697,
-      "forks_count": 1976,
-      "pushed_at": "2026-01-17T21:09:32Z"
+      "stargazers_count": 19737,
+      "forks_count": 1984,
+      "pushed_at": "2026-01-24T22:42:37Z"
     },
     {
       "full_name": "whale4113/cloud-document-converter",
       "description": "Convert Lark Doc to Markdown",
       "language": "TypeScript",
-      "stargazers_count": 876,
-      "forks_count": 121,
-      "pushed_at": "2026-01-14T02:49:43Z"
+      "stargazers_count": 888,
+      "forks_count": 125,
+      "pushed_at": "2026-01-22T09:00:56Z"
     },
     {
       "full_name": "xpipe-io/xpipe",
       "description": "Access your entire server infrastructure from your local desktop",
       "language": "Java",
-      "stargazers_count": 13494,
-      "forks_count": 518,
-      "pushed_at": "2026-01-17T09:25:19Z"
+      "stargazers_count": 13613,
+      "forks_count": 523,
+      "pushed_at": "2026-01-24T13:20:16Z"
     },
     {
       "full_name": "toeverything/AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
       "language": "TypeScript",
-      "stargazers_count": 61921,
-      "forks_count": 4275,
-      "pushed_at": "2026-01-17T18:25:06Z"
+      "stargazers_count": 62161,
+      "forks_count": 4314,
+      "pushed_at": "2026-01-23T14:04:37Z"
     },
     {
       "full_name": "glanceapp/glance",
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "language": "Go",
-      "stargazers_count": 31263,
-      "forks_count": 1167,
+      "stargazers_count": 31374,
+      "forks_count": 1172,
       "pushed_at": "2025-12-10T09:44:11Z"
     },
     {
       "full_name": "subframe7536/maple-font",
       "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项",
       "language": "Python",
-      "stargazers_count": 22886,
-      "forks_count": 890,
+      "stargazers_count": 23028,
+      "forks_count": 904,
       "pushed_at": "2026-01-12T03:26:53Z"
     },
     {
       "full_name": "warpdotdev/Warp",
       "description": "Warp is the agentic development environment, built for coding with multiple AI agents.",
       "language": null,
-      "stargazers_count": 25693,
-      "forks_count": 611,
+      "stargazers_count": 25760,
+      "forks_count": 614,
       "pushed_at": "2026-01-14T23:21:34Z"
     },
     {
       "full_name": "EdJoPaTo/mqttui",
       "description": "Subscribe to a MQTT Topic or publish something quickly from the terminal",
       "language": "Rust",
-      "stargazers_count": 618,
+      "stargazers_count": 622,
       "forks_count": 32,
       "pushed_at": "2026-01-09T01:14:35Z"
     },
@@ -2382,9 +2406,9 @@
       "full_name": "tjy-gitnub/win12",
       "description": "Windows 12 网页版，在线体验 点击下面的链接在线体验",
       "language": "JavaScript",
-      "stargazers_count": 7162,
-      "forks_count": 893,
-      "pushed_at": "2026-01-03T08:40:45Z"
+      "stargazers_count": 7173,
+      "forks_count": 894,
+      "pushed_at": "2026-01-20T09:35:29Z"
     },
     {
       "full_name": "PiyushSuthar/Windows-11-Web",
@@ -2398,8 +2422,8 @@
       "full_name": "PiyushSuthar/github-readme-quotes",
       "description": "🔥 Add Programming Quotes To Your GitHub Readme",
       "language": "TypeScript",
-      "stargazers_count": 581,
-      "forks_count": 93,
+      "stargazers_count": 584,
+      "forks_count": 94,
       "pushed_at": "2025-07-14T18:12:06Z"
     },
     {
@@ -2414,31 +2438,31 @@
       "full_name": "lencx/Noi",
       "description": "🚀 Less chaos. More flow.",
       "language": "TypeScript",
-      "stargazers_count": 8524,
-      "forks_count": 665,
-      "pushed_at": "2026-01-15T06:26:13Z"
+      "stargazers_count": 8661,
+      "forks_count": 676,
+      "pushed_at": "2026-01-21T14:20:35Z"
     },
     {
       "full_name": "juanfont/headscale",
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
-      "stargazers_count": 34346,
-      "forks_count": 1837,
-      "pushed_at": "2026-01-17T09:13:25Z"
+      "stargazers_count": 34491,
+      "forks_count": 1848,
+      "pushed_at": "2026-01-24T16:18:59Z"
     },
     {
       "full_name": "umami-software/umami",
       "description": "Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.",
       "language": "TypeScript",
-      "stargazers_count": 34763,
-      "forks_count": 6290,
-      "pushed_at": "2026-01-17T06:15:11Z"
+      "stargazers_count": 34877,
+      "forks_count": 6329,
+      "pushed_at": "2026-01-24T18:09:39Z"
     },
     {
       "full_name": "hoppscotch/proxyscotch",
       "description": "📡 A simple proxy server created for https://hoppscotch.io",
       "language": "Go",
-      "stargazers_count": 401,
+      "stargazers_count": 402,
       "forks_count": 123,
       "pushed_at": "2025-10-14T09:34:18Z"
     },
@@ -2446,15 +2470,15 @@
       "full_name": "srbhr/Resume-Matcher",
       "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. ",
       "language": "TypeScript",
-      "stargazers_count": 25676,
-      "forks_count": 4634,
-      "pushed_at": "2026-01-15T19:58:51Z"
+      "stargazers_count": 25764,
+      "forks_count": 4648,
+      "pushed_at": "2026-01-23T13:20:46Z"
     },
     {
       "full_name": "Orange-Cyberdefense/awesome-industrial-protocols",
       "description": "Security-oriented list of resources about industrial network protocols. ",
       "language": null,
-      "stargazers_count": 655,
+      "stargazers_count": 654,
       "forks_count": 92,
       "pushed_at": "2025-12-09T14:53:38Z"
     },
@@ -2462,23 +2486,23 @@
       "full_name": "fastfetch-cli/fastfetch",
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
       "language": "C",
-      "stargazers_count": 19385,
-      "forks_count": 660,
-      "pushed_at": "2026-01-16T12:02:24Z"
+      "stargazers_count": 19551,
+      "forks_count": 664,
+      "pushed_at": "2026-01-24T01:17:22Z"
     },
     {
       "full_name": "sxyazi/yazi",
       "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
       "language": "Rust",
-      "stargazers_count": 31613,
-      "forks_count": 700,
-      "pushed_at": "2026-01-17T17:25:41Z"
+      "stargazers_count": 31855,
+      "forks_count": 701,
+      "pushed_at": "2026-01-24T19:23:12Z"
     },
     {
       "full_name": "xxxily/hello-ai",
       "description": "It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from \"The Three-Body Problem\".         中文说明： 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》",
       "language": "JavaScript",
-      "stargazers_count": 1228,
+      "stargazers_count": 1235,
       "forks_count": 116,
       "pushed_at": "2025-02-24T09:01:54Z"
     },
@@ -2486,25 +2510,25 @@
       "full_name": "openai/openai-cookbook",
       "description": "Examples and guides for using the OpenAI API",
       "language": "Jupyter Notebook",
-      "stargazers_count": 70986,
-      "forks_count": 11866,
-      "pushed_at": "2026-01-15T12:00:24Z"
+      "stargazers_count": 71121,
+      "forks_count": 11902,
+      "pushed_at": "2026-01-22T03:03:51Z"
     },
     {
       "full_name": "ahujasid/blender-mcp",
       "description": null,
       "language": "Python",
-      "stargazers_count": 15442,
-      "forks_count": 1474,
-      "pushed_at": "2026-01-15T10:30:17Z"
+      "stargazers_count": 16394,
+      "forks_count": 1554,
+      "pushed_at": "2026-01-23T17:20:04Z"
     },
     {
       "full_name": "lowlighter/metrics",
       "description": "📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!",
       "language": "JavaScript",
-      "stargazers_count": 16012,
-      "forks_count": 2108,
-      "pushed_at": "2026-01-17T16:08:42Z"
+      "stargazers_count": 16043,
+      "forks_count": 2112,
+      "pushed_at": "2026-01-23T16:12:18Z"
     },
     {
       "full_name": "Vector-Index/natural-language-terminal",
@@ -2518,201 +2542,201 @@
       "full_name": "autoscrape-labs/pydoll",
       "description": "Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. ",
       "language": "Python",
-      "stargazers_count": 6444,
-      "forks_count": 346,
+      "stargazers_count": 6464,
+      "forks_count": 350,
       "pushed_at": "2026-01-04T02:42:31Z"
     },
     {
       "full_name": "PatrickJS/awesome-cursorrules",
       "description": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
       "language": "MDX",
-      "stargazers_count": 37123,
-      "forks_count": 3153,
+      "stargazers_count": 37331,
+      "forks_count": 3179,
       "pushed_at": "2025-10-24T16:37:26Z"
     },
     {
       "full_name": "punkpeye/awesome-mcp-servers",
       "description": "A collection of MCP servers.",
       "language": null,
-      "stargazers_count": 79113,
-      "forks_count": 6829,
-      "pushed_at": "2026-01-17T22:45:18Z"
+      "stargazers_count": 79616,
+      "forks_count": 6908,
+      "pushed_at": "2026-01-24T17:41:23Z"
     },
     {
       "full_name": "yuruotong1/autoMate",
       "description": "Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves",
       "language": "Python",
-      "stargazers_count": 3810,
-      "forks_count": 477,
+      "stargazers_count": 3821,
+      "forks_count": 479,
       "pushed_at": "2025-05-14T01:11:31Z"
     },
     {
       "full_name": "mfontanini/presenterm",
       "description": "A markdown terminal slideshow tool",
       "language": "Rust",
-      "stargazers_count": 7690,
-      "forks_count": 164,
-      "pushed_at": "2026-01-16T14:27:40Z"
+      "stargazers_count": 7734,
+      "forks_count": 163,
+      "pushed_at": "2026-01-24T22:19:18Z"
     },
     {
       "full_name": "browser-use/browser-use",
       "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
       "language": "Python",
-      "stargazers_count": 75632,
-      "forks_count": 9036,
-      "pushed_at": "2026-01-17T15:44:44Z"
+      "stargazers_count": 76769,
+      "forks_count": 9128,
+      "pushed_at": "2026-01-24T22:25:13Z"
     },
     {
       "full_name": "mem0ai/mem0",
       "description": "Universal memory layer for AI Agents",
       "language": "Python",
-      "stargazers_count": 45614,
-      "forks_count": 4991,
+      "stargazers_count": 45924,
+      "forks_count": 5035,
       "pushed_at": "2026-01-13T07:39:14Z"
     },
     {
       "full_name": "codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stargazers_count": 457657,
-      "forks_count": 42907,
+      "stargazers_count": 460304,
+      "forks_count": 43172,
       "pushed_at": "2025-12-26T19:40:39Z"
     },
     {
       "full_name": "deepseek-ai/awesome-deepseek-integration",
       "description": "Integrate the DeepSeek API into popular softwares",
       "language": null,
-      "stargazers_count": 35118,
-      "forks_count": 3933,
+      "stargazers_count": 35191,
+      "forks_count": 3940,
       "pushed_at": "2025-09-25T08:22:37Z"
     },
     {
       "full_name": "kamranahmedse/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "language": "TypeScript",
-      "stargazers_count": 347405,
-      "forks_count": 43630,
-      "pushed_at": "2026-01-17T10:14:00Z"
+      "stargazers_count": 347855,
+      "forks_count": 43652,
+      "pushed_at": "2026-01-24T13:40:55Z"
     },
     {
       "full_name": "camel-ai/camel",
       "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
       "language": "Python",
-      "stargazers_count": 15538,
-      "forks_count": 1712,
-      "pushed_at": "2026-01-17T23:07:07Z"
+      "stargazers_count": 15762,
+      "forks_count": 1741,
+      "pushed_at": "2026-01-24T23:54:38Z"
     },
     {
       "full_name": "imsyy/DailyHotApi",
       "description": "🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot",
       "language": "TypeScript",
-      "stargazers_count": 3512,
-      "forks_count": 1166,
+      "stargazers_count": 3521,
+      "forks_count": 1169,
       "pushed_at": "2025-12-28T14:55:54Z"
     },
     {
       "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
       "description": "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.",
       "language": null,
-      "stargazers_count": 29695,
-      "forks_count": 3366,
+      "stargazers_count": 29692,
+      "forks_count": 3365,
       "pushed_at": "2025-09-30T08:08:00Z"
     },
     {
       "full_name": "FoundationAgents/MetaGPT",
       "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
       "language": "Python",
-      "stargazers_count": 63095,
-      "forks_count": 7922,
-      "pushed_at": "2025-10-04T05:57:57Z"
+      "stargazers_count": 63379,
+      "forks_count": 7952,
+      "pushed_at": "2026-01-21T10:12:33Z"
     },
     {
       "full_name": "grpc-ecosystem/grpc-gateway",
       "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
       "language": "Go",
-      "stargazers_count": 19769,
-      "forks_count": 2363,
-      "pushed_at": "2026-01-16T21:57:52Z"
+      "stargazers_count": 19781,
+      "forks_count": 2364,
+      "pushed_at": "2026-01-23T20:02:48Z"
     },
     {
       "full_name": "virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stargazers_count": 45307,
-      "forks_count": 7941,
+      "stargazers_count": 45485,
+      "forks_count": 7968,
       "pushed_at": "2025-12-01T22:47:07Z"
     },
     {
       "full_name": "ComposioHQ/composio",
       "description": "Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling",
       "language": "TypeScript",
-      "stargazers_count": 26372,
-      "forks_count": 4407,
-      "pushed_at": "2026-01-17T21:19:19Z"
+      "stargazers_count": 26431,
+      "forks_count": 4405,
+      "pushed_at": "2026-01-24T18:53:21Z"
     },
     {
       "full_name": "clockworklabs/SpacetimeDB",
       "description": "Multiplayer at the speed of light",
       "language": "Rust",
-      "stargazers_count": 18864,
-      "forks_count": 671,
-      "pushed_at": "2026-01-17T23:38:11Z"
+      "stargazers_count": 18940,
+      "forks_count": 677,
+      "pushed_at": "2026-01-24T21:06:25Z"
     },
     {
       "full_name": "moby/moby",
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
-      "stargazers_count": 71376,
-      "forks_count": 18882,
-      "pushed_at": "2026-01-16T17:16:01Z"
+      "stargazers_count": 71416,
+      "forks_count": 18888,
+      "pushed_at": "2026-01-24T00:09:19Z"
     },
     {
       "full_name": "linera-io/linera-protocol",
       "description": "Main repository for the Linera protocol",
       "language": "Rust",
-      "stargazers_count": 31955,
-      "forks_count": 2262,
-      "pushed_at": "2026-01-17T17:59:44Z"
+      "stargazers_count": 32058,
+      "forks_count": 2271,
+      "pushed_at": "2026-01-24T17:29:20Z"
     },
     {
       "full_name": "microsoft/generative-ai-for-beginners",
       "description": "21 Lessons, Get Started Building with Generative AI ",
       "language": "Jupyter Notebook",
-      "stargazers_count": 105274,
-      "forks_count": 56237,
-      "pushed_at": "2026-01-17T08:47:28Z"
+      "stargazers_count": 105599,
+      "forks_count": 56523,
+      "pushed_at": "2026-01-22T13:40:13Z"
     },
     {
       "full_name": "unionlabs/union",
       "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
       "language": "Rust",
-      "stargazers_count": 74399,
-      "forks_count": 3842,
-      "pushed_at": "2026-01-17T09:09:10Z"
+      "stargazers_count": 74373,
+      "forks_count": 3843,
+      "pushed_at": "2026-01-24T19:39:21Z"
     },
     {
       "full_name": "stanford-oval/storm",
       "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
       "language": "Python",
-      "stargazers_count": 27789,
-      "forks_count": 2531,
+      "stargazers_count": 27815,
+      "forks_count": 2529,
       "pushed_at": "2025-09-30T18:07:21Z"
     },
     {
       "full_name": "hoppscotch/hoppscotch",
       "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
       "language": "TypeScript",
-      "stargazers_count": 77566,
-      "forks_count": 5524,
-      "pushed_at": "2026-01-16T16:42:49Z"
+      "stargazers_count": 77640,
+      "forks_count": 5537,
+      "pushed_at": "2026-01-23T15:50:38Z"
     },
     {
       "full_name": "commixproject/commix",
       "description": "Automated All-in-One OS Command Injection Exploitation Tool",
       "language": "Python",
-      "stargazers_count": 5586,
-      "forks_count": 912,
-      "pushed_at": "2026-01-11T06:53:14Z"
+      "stargazers_count": 5595,
+      "forks_count": 911,
+      "pushed_at": "2026-01-23T19:49:12Z"
     },
     {
       "full_name": "yuxiaoli/json-manager",
@@ -2726,7 +2750,7 @@
       "full_name": "shopifypartners/shopify-product-csvs-and-images",
       "description": "Shopify product CSVs and images to seed your store with product data.",
       "language": null,
-      "stargazers_count": 129,
+      "stargazers_count": 131,
       "forks_count": 98,
       "pushed_at": "2017-03-31T20:18:32Z"
     },
@@ -2734,23 +2758,23 @@
       "full_name": "Shopify/cli",
       "description": "Build apps, themes, and hydrogen storefronts for Shopify",
       "language": "TypeScript",
-      "stargazers_count": 599,
+      "stargazers_count": 601,
       "forks_count": 223,
-      "pushed_at": "2026-01-17T00:22:52Z"
+      "pushed_at": "2026-01-23T21:34:17Z"
     },
     {
       "full_name": "Shopify/shopify_python_api",
       "description": "ShopifyAPI library allows Python developers to programmatically access the admin section of stores",
       "language": "Python",
-      "stargazers_count": 1403,
-      "forks_count": 390,
+      "stargazers_count": 1405,
+      "forks_count": 391,
       "pushed_at": "2025-06-16T15:30:10Z"
     },
     {
       "full_name": "julionc/awesome-shopify",
       "description": "📌✨A curated list of awesome Shopify resources, libraries and open source projects.",
       "language": null,
-      "stargazers_count": 1157,
+      "stargazers_count": 1163,
       "forks_count": 139,
       "pushed_at": "2026-01-15T20:08:29Z"
     },
@@ -2758,23 +2782,23 @@
       "full_name": "1234567Yang/cf-proxy-ex",
       "description": "Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Claude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms.",
       "language": "JavaScript",
-      "stargazers_count": 1684,
+      "stargazers_count": 1693,
       "forks_count": 544,
-      "pushed_at": "2026-01-07T23:56:00Z"
+      "pushed_at": "2026-01-23T18:54:02Z"
     },
     {
       "full_name": "AstrBotDevs/AstrBot",
       "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. ✨",
       "language": "Python",
-      "stargazers_count": 15041,
-      "forks_count": 1181,
-      "pushed_at": "2026-01-17T13:44:22Z"
+      "stargazers_count": 15164,
+      "forks_count": 1194,
+      "pushed_at": "2026-01-24T08:31:23Z"
     },
     {
       "full_name": "gradio-app/fastrtc",
       "description": "The python library for real-time communication",
       "language": "JavaScript",
-      "stargazers_count": 4485,
+      "stargazers_count": 4500,
       "forks_count": 426,
       "pushed_at": "2026-01-12T15:53:57Z"
     },
@@ -2790,16 +2814,16 @@
       "full_name": "scanny/python-pptx",
       "description": "Create Open XML PowerPoint documents in Python",
       "language": "Python",
-      "stargazers_count": 3147,
-      "forks_count": 662,
+      "stargazers_count": 3156,
+      "forks_count": 663,
       "pushed_at": "2024-08-07T17:36:44Z"
     },
     {
       "full_name": "python-openxml/python-docx",
       "description": "Create and modify Word documents with Python",
       "language": "Python",
-      "stargazers_count": 5395,
-      "forks_count": 1258,
+      "stargazers_count": 5406,
+      "forks_count": 1261,
       "pushed_at": "2025-06-17T03:15:11Z"
     },
     {
@@ -2822,7 +2846,7 @@
       "full_name": "jdorfman/awesome-json-datasets",
       "description": "A curated list of awesome JSON datasets that don't require authentication.",
       "language": "JavaScript",
-      "stargazers_count": 3536,
+      "stargazers_count": 3541,
       "forks_count": 387,
       "pushed_at": "2024-12-13T17:28:21Z"
     },
@@ -2830,23 +2854,23 @@
       "full_name": "trackawesomelist/trackawesomelist",
       "description": "Track 500+ Awesome List Updates, Track it - not just star it!",
       "language": null,
-      "stargazers_count": 571,
-      "forks_count": 51,
+      "stargazers_count": 576,
+      "forks_count": 52,
       "pushed_at": "2026-01-09T02:29:33Z"
     },
     {
       "full_name": "DIYgod/RSSHub",
       "description": "🧡 Everything is RSSible",
       "language": "TypeScript",
-      "stargazers_count": 41192,
-      "forks_count": 9031,
-      "pushed_at": "2026-01-17T19:27:36Z"
+      "stargazers_count": 41360,
+      "forks_count": 9077,
+      "pushed_at": "2026-01-24T19:39:00Z"
     },
     {
       "full_name": "Orange-Cyberdefense/arsenal",
       "description": "Arsenal is just a quick inventory and launcher for hacking programs",
       "language": "Python",
-      "stargazers_count": 3651,
+      "stargazers_count": 3666,
       "forks_count": 554,
       "pushed_at": "2024-11-29T14:48:20Z"
     },
@@ -2856,13 +2880,13 @@
       "language": "TypeScript",
       "stargazers_count": 295,
       "forks_count": 35,
-      "pushed_at": "2026-01-13T09:00:31Z"
+      "pushed_at": "2026-01-22T07:43:00Z"
     },
     {
       "full_name": "wuxingsanren/wildcat-vip-account",
       "description": "野猫 - 每天分享最新的百度网盘SVIP、迅雷超级会员、手机话费折扣充值、霸王餐免费吃VIP（美团、饿了么、大众点评、肯德基、麦当劳、星巴克）、饿了么超级会员、美团外卖会员&红包券、爱奇艺VIP会员、腾讯视频VIP、优酷VIP会员、哔哩哔哩大会员、百度文库VIP、QQ音乐VIP、网易云黑胶VIP、喜马拉雅VIP、樊登读书会VIP、千图网VIP、包图网VIP、摄图网VIP、CSDN下载VIP、天眼查VIP、苹果ID等等各类VIP帐号，随取随用，完全免费，绝无套路，同时提供：百度文库VIP下载、图库素材VIP下载、学术文献VIP下载（知网维普万方读秀龙源超星、英文数据库、法律数据库、医学数据库、金融数据库）、全网视频VIP解析、全网音乐MP3免费听及下载、微信域名拦截检测API ，欢迎推荐分享给",
       "language": null,
-      "stargazers_count": 8345,
+      "stargazers_count": 8372,
       "forks_count": 654,
       "pushed_at": "2025-07-19T04:59:06Z"
     },
@@ -2870,8 +2894,8 @@
       "full_name": "dzhng/deep-research",
       "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.",
       "language": "TypeScript",
-      "stargazers_count": 18342,
-      "forks_count": 1895,
+      "stargazers_count": 18375,
+      "forks_count": 1896,
       "pushed_at": "2025-09-08T16:22:24Z"
     },
     {
@@ -2886,15 +2910,15 @@
       "full_name": "mufeedvh/code2prompt",
       "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
       "language": "Rust",
-      "stargazers_count": 7039,
-      "forks_count": 397,
-      "pushed_at": "2026-01-12T22:37:38Z"
+      "stargazers_count": 7073,
+      "forks_count": 399,
+      "pushed_at": "2026-01-19T20:03:17Z"
     },
     {
       "full_name": "rspeer/python-ftfy",
       "description": "Fixes mojibake and other glitches in Unicode text, after the fact.",
       "language": "Python",
-      "stargazers_count": 4009,
+      "stargazers_count": 4008,
       "forks_count": 124,
       "pushed_at": "2024-10-30T21:00:49Z"
     },
@@ -2926,17 +2950,17 @@
       "full_name": "microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
       "language": "C#",
-      "stargazers_count": 128014,
-      "forks_count": 7598,
-      "pushed_at": "2026-01-17T03:29:07Z"
+      "stargazers_count": 128348,
+      "forks_count": 7626,
+      "pushed_at": "2026-01-23T20:12:12Z"
     },
     {
       "full_name": "1c7/chinese-independent-developer",
       "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
       "language": null,
-      "stargazers_count": 46229,
-      "forks_count": 3912,
-      "pushed_at": "2026-01-17T16:05:20Z"
+      "stargazers_count": 46291,
+      "forks_count": 3917,
+      "pushed_at": "2026-01-23T16:07:53Z"
     },
     {
       "full_name": "yuxiaoli/onelink",
@@ -2958,7 +2982,7 @@
       "full_name": "fayazara/onelink",
       "description": "Onelink is an experimental link-in-bio tool, where the data lives in the URL.",
       "language": "Vue",
-      "stargazers_count": 1007,
+      "stargazers_count": 1011,
       "forks_count": 224,
       "pushed_at": "2025-05-22T03:37:17Z"
     },
@@ -2974,7 +2998,7 @@
       "full_name": "quodlibet/mutagen",
       "description": "Python module for handling audio metadata",
       "language": "Python",
-      "stargazers_count": 1833,
+      "stargazers_count": 1838,
       "forks_count": 186,
       "pushed_at": "2025-12-24T19:59:35Z"
     },
@@ -2982,7 +3006,7 @@
       "full_name": "vietnh1009/ASCII-generator",
       "description": "ASCII generator (image to text, image to image, video to video)",
       "language": "Python",
-      "stargazers_count": 8114,
+      "stargazers_count": 8118,
       "forks_count": 628,
       "pushed_at": "2024-11-22T00:04:58Z"
     },
@@ -2991,7 +3015,7 @@
       "description": "cloudflare加速openai等接口",
       "language": "JavaScript",
       "stargazers_count": 909,
-      "forks_count": 340,
+      "forks_count": 339,
       "pushed_at": "2024-11-28T09:08:59Z"
     },
     {
@@ -3022,7 +3046,7 @@
       "full_name": "JessicaTegner/pypandoc",
       "description": "Thin wrapper for \"pandoc\" (MIT)",
       "language": "Python",
-      "stargazers_count": 1091,
+      "stargazers_count": 1095,
       "forks_count": 120,
       "pushed_at": "2026-01-05T16:29:35Z"
     },
@@ -3030,7 +3054,7 @@
       "full_name": "asweigart/PyGetWindow",
       "description": "A simple, cross-platform module for obtaining GUI information on applications' windows.",
       "language": "Python",
-      "stargazers_count": 410,
+      "stargazers_count": 411,
       "forks_count": 71,
       "pushed_at": "2024-07-02T00:45:26Z"
     },
@@ -3038,17 +3062,17 @@
       "full_name": "moses-palmer/pystray",
       "description": null,
       "language": "Python",
-      "stargazers_count": 545,
-      "forks_count": 67,
+      "stargazers_count": 546,
+      "forks_count": 69,
       "pushed_at": "2025-03-27T17:35:33Z"
     },
     {
       "full_name": "microsoft/terminal",
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
-      "stargazers_count": 101402,
-      "forks_count": 9021,
-      "pushed_at": "2026-01-17T02:32:07Z"
+      "stargazers_count": 101499,
+      "forks_count": 9035,
+      "pushed_at": "2026-01-24T02:31:48Z"
     },
     {
       "full_name": "Vector-Index/messenger",
@@ -3078,7 +3102,7 @@
       "full_name": "yuxiaoli/wcf-http",
       "description": "Python HTTP server for WeChatFerry",
       "language": "Python",
-      "stargazers_count": 75,
+      "stargazers_count": 76,
       "forks_count": 34,
       "pushed_at": "2025-01-13T03:44:12Z"
     },
@@ -3086,17 +3110,17 @@
       "full_name": "python-cmd2/cmd2",
       "description": "cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python",
       "language": "Python",
-      "stargazers_count": 673,
+      "stargazers_count": 676,
       "forks_count": 127,
-      "pushed_at": "2026-01-17T23:41:52Z"
+      "pushed_at": "2026-01-24T21:47:32Z"
     },
     {
       "full_name": "doocs/md",
       "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
       "language": "Vue",
-      "stargazers_count": 11492,
-      "forks_count": 1951,
-      "pushed_at": "2026-01-17T23:49:30Z"
+      "stargazers_count": 11554,
+      "forks_count": 1965,
+      "pushed_at": "2026-01-24T13:31:11Z"
     },
     {
       "full_name": "yuxiaoli/youtube-player",
@@ -3128,7 +3152,7 @@
       "language": "JavaScript",
       "stargazers_count": 457,
       "forks_count": 40,
-      "pushed_at": "2025-12-01T12:02:08Z"
+      "pushed_at": "2026-01-23T16:11:36Z"
     },
     {
       "full_name": "yuxiaoli/m3u8-player",
@@ -3150,16 +3174,16 @@
       "full_name": "pyjokes/pyjokes",
       "description": "One line jokes for programmers (jokes as a service)",
       "language": "Python",
-      "stargazers_count": 358,
+      "stargazers_count": 359,
       "forks_count": 90,
-      "pushed_at": "2025-11-16T10:46:47Z"
+      "pushed_at": "2026-01-23T18:34:16Z"
     },
     {
       "full_name": "dreammis/social-auto-upload",
       "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
       "language": "Python",
-      "stargazers_count": 8069,
-      "forks_count": 1461,
+      "stargazers_count": 8198,
+      "forks_count": 1492,
       "pushed_at": "2025-12-09T07:01:10Z"
     },
     {
@@ -3190,7 +3214,7 @@
       "full_name": "ReaVNaiL/New-Grad-2024",
       "description": "👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀",
       "language": "Python",
-      "stargazers_count": 6262,
+      "stargazers_count": 6258,
       "forks_count": 559,
       "pushed_at": "2024-11-26T02:50:19Z"
     },
@@ -3198,7 +3222,7 @@
       "full_name": "PeterDing/BaiduPCS-Py",
       "description": "BaiduPCS API & App 百度网盘客户端 和 API",
       "language": "Python",
-      "stargazers_count": 839,
+      "stargazers_count": 841,
       "forks_count": 139,
       "pushed_at": "2024-06-18T06:29:44Z"
     },
@@ -3206,7 +3230,7 @@
       "full_name": "ryan4yin/video2chars",
       "description": "Convert video to ascii art animation.",
       "language": "Python",
-      "stargazers_count": 227,
+      "stargazers_count": 228,
       "forks_count": 57,
       "pushed_at": "2024-02-08T10:52:40Z"
     },
@@ -3214,7 +3238,7 @@
       "full_name": "UnblockNeteaseMusic/server",
       "description": "Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)",
       "language": "JavaScript",
-      "stargazers_count": 7629,
+      "stargazers_count": 7638,
       "forks_count": 755,
       "pushed_at": "2025-12-15T18:05:09Z"
     },
@@ -3222,48 +3246,48 @@
       "full_name": "mos9527/pyncm",
       "description": "第三方网易云音乐 Python API + 转储工具",
       "language": "Python",
-      "stargazers_count": 670,
-      "forks_count": 87,
+      "stargazers_count": 672,
+      "forks_count": 89,
       "pushed_at": "2025-11-03T07:30:50Z"
     },
     {
       "full_name": "lucafaggianelli/plombery",
       "description": "Python task scheduler with a user-friendly web UI",
       "language": "TypeScript",
-      "stargazers_count": 629,
-      "forks_count": 97,
+      "stargazers_count": 639,
+      "forks_count": 99,
       "pushed_at": "2025-11-29T23:06:04Z"
     },
     {
       "full_name": "zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
-      "stargazers_count": 73512,
-      "forks_count": 6641,
-      "pushed_at": "2026-01-17T23:09:46Z"
+      "stargazers_count": 73988,
+      "forks_count": 6706,
+      "pushed_at": "2026-01-24T22:12:54Z"
     },
     {
       "full_name": "lapce/lapce",
       "description": "Lightning-fast and Powerful Code Editor written in Rust",
       "language": "Rust",
-      "stargazers_count": 37831,
-      "forks_count": 1217,
-      "pushed_at": "2026-01-17T00:49:34Z"
+      "stargazers_count": 37962,
+      "forks_count": 1223,
+      "pushed_at": "2026-01-24T00:49:15Z"
     },
     {
       "full_name": "yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
-      "stargazers_count": 142179,
-      "forks_count": 11486,
-      "pushed_at": "2026-01-16T14:53:32Z"
+      "stargazers_count": 143909,
+      "forks_count": 11651,
+      "pushed_at": "2026-01-19T23:16:08Z"
     },
     {
       "full_name": "public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stargazers_count": 391471,
-      "forks_count": 41884,
+      "stargazers_count": 393260,
+      "forks_count": 42087,
       "pushed_at": "2025-11-04T18:29:01Z"
     },
     {
@@ -3278,17 +3302,17 @@
       "full_name": "GitSquared/edex-ui",
       "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
       "language": "JavaScript",
-      "stargazers_count": 43897,
-      "forks_count": 2945,
+      "stargazers_count": 43939,
+      "forks_count": 2952,
       "pushed_at": "2021-10-19T22:38:47Z"
     },
     {
       "full_name": "webui-dev/webui",
       "description": "Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.",
       "language": "C",
-      "stargazers_count": 3980,
-      "forks_count": 265,
-      "pushed_at": "2026-01-16T19:01:17Z"
+      "stargazers_count": 3995,
+      "forks_count": 266,
+      "pushed_at": "2026-01-23T20:53:21Z"
     },
     {
       "full_name": "bharadwajpro/m3u8-player",
@@ -3302,23 +3326,23 @@
       "full_name": "LibreHardwareMonitor/LibreHardwareMonitor",
       "description": "Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.",
       "language": "C#",
-      "stargazers_count": 7735,
-      "forks_count": 885,
-      "pushed_at": "2026-01-16T12:37:16Z"
+      "stargazers_count": 7767,
+      "forks_count": 890,
+      "pushed_at": "2026-01-22T09:00:23Z"
     },
     {
       "full_name": "f/awesome-chatgpt-prompts",
       "description": "Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "language": "TypeScript",
-      "stargazers_count": 142532,
-      "forks_count": 18922,
-      "pushed_at": "2026-01-17T03:33:41Z"
+      "stargazers_count": 143466,
+      "forks_count": 19017,
+      "pushed_at": "2026-01-24T14:12:16Z"
     },
     {
       "full_name": "novicezk/midjourney-proxy",
       "description": "代理 MidJourney 的discord频道，实现api形式调用AI绘图",
       "language": "Java",
-      "stargazers_count": 5199,
+      "stargazers_count": 5197,
       "forks_count": 2449,
       "pushed_at": "2025-08-03T07:41:19Z"
     },
@@ -3326,31 +3350,31 @@
       "full_name": "BuilderIO/gpt-crawler",
       "description": "Crawl a site to generate knowledge files to create your own custom GPT from a URL",
       "language": "TypeScript",
-      "stargazers_count": 22107,
-      "forks_count": 2386,
+      "stargazers_count": 22129,
+      "forks_count": 2385,
       "pushed_at": "2025-07-07T15:35:16Z"
     },
     {
       "full_name": "awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": null,
-      "stargazers_count": 268690,
-      "forks_count": 12272,
-      "pushed_at": "2026-01-15T23:40:06Z"
+      "stargazers_count": 269856,
+      "forks_count": 12308,
+      "pushed_at": "2026-01-24T21:15:36Z"
     },
     {
       "full_name": "hellzerg/optimizer",
       "description": "The finest Windows Optimizer",
       "language": "C#",
-      "stargazers_count": 17959,
-      "forks_count": 1162,
-      "pushed_at": "2024-08-18T13:38:25Z"
+      "stargazers_count": 17972,
+      "forks_count": 1165,
+      "pushed_at": "2026-01-20T19:04:47Z"
     },
     {
       "full_name": "secretGeek/AwesomeCSV",
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
       "language": "PowerShell",
-      "stargazers_count": 897,
+      "stargazers_count": 902,
       "forks_count": 72,
       "pushed_at": "2025-02-25T02:56:39Z"
     },
@@ -3358,9 +3382,9 @@
       "full_name": "assafelovic/gpt-researcher",
       "description": "An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.",
       "language": "Python",
-      "stargazers_count": 24883,
-      "forks_count": 3293,
-      "pushed_at": "2025-12-14T08:08:22Z"
+      "stargazers_count": 25003,
+      "forks_count": 3311,
+      "pushed_at": "2026-01-23T06:51:06Z"
     },
     {
       "full_name": "vancenx/markdown-css",
@@ -3375,15 +3399,15 @@
       "description": "A Rust client for WeChatFerry.",
       "language": null,
       "stargazers_count": 315,
-      "forks_count": 81,
+      "forks_count": 82,
       "pushed_at": "2025-05-25T01:53:58Z"
     },
     {
       "full_name": "lich0821/WeChatFerry",
       "description": "微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.",
       "language": null,
-      "stargazers_count": 6357,
-      "forks_count": 1424,
+      "stargazers_count": 6356,
+      "forks_count": 1429,
       "pushed_at": "2025-05-25T01:43:57Z"
     },
     {
@@ -3398,31 +3422,31 @@
       "full_name": "google/python-fire",
       "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
       "language": "Python",
-      "stargazers_count": 28060,
-      "forks_count": 1461,
+      "stargazers_count": 28074,
+      "forks_count": 1465,
       "pushed_at": "2025-11-01T08:21:46Z"
     },
     {
       "full_name": "wechatpy/wechatpy",
       "description": "WeChat SDK for Python",
       "language": "Python",
-      "stargazers_count": 4238,
-      "forks_count": 831,
+      "stargazers_count": 4242,
+      "forks_count": 833,
       "pushed_at": "2026-01-08T04:40:59Z"
     },
     {
       "full_name": "mobile-shell/mosh",
       "description": "Mobile Shell",
       "language": "C++",
-      "stargazers_count": 13432,
-      "forks_count": 784,
-      "pushed_at": "2026-01-11T02:01:21Z"
+      "stargazers_count": 13452,
+      "forks_count": 786,
+      "pushed_at": "2026-01-20T00:47:40Z"
     },
     {
       "full_name": "picklepete/pyicloud",
       "description": "A Python + iCloud wrapper to access iPhone and Calendar data.",
       "language": "Python",
-      "stargazers_count": 2780,
+      "stargazers_count": 2782,
       "forks_count": 487,
       "pushed_at": "2024-10-25T14:34:47Z"
     },
@@ -3430,7 +3454,7 @@
       "full_name": "f13T2ach/WxMsgDump",
       "description": "开源的导出微信聊天记录的程序",
       "language": "Python",
-      "stargazers_count": 153,
+      "stargazers_count": 156,
       "forks_count": 36,
       "pushed_at": "2024-10-13T00:52:00Z"
     },
@@ -3438,15 +3462,15 @@
       "full_name": "BlueMatthew/WechatExporter",
       "description": "Wechat Chat History Exporter 微信聊天记录导出备份程序",
       "language": "C++",
-      "stargazers_count": 7338,
-      "forks_count": 669,
+      "stargazers_count": 7533,
+      "forks_count": 803,
       "pushed_at": "2025-02-26T15:51:50Z"
     },
     {
       "full_name": "Eugeny/tabby-web",
       "description": "Tabby Web - an SSH/Telnet/Serial client in your browser.",
       "language": "Python",
-      "stargazers_count": 1302,
+      "stargazers_count": 1313,
       "forks_count": 158,
       "pushed_at": "2026-01-01T21:17:39Z"
     },
@@ -3454,39 +3478,39 @@
       "full_name": "Eugeny/tabby",
       "description": "A terminal for a more modern age",
       "language": "TypeScript",
-      "stargazers_count": 68260,
-      "forks_count": 3830,
-      "pushed_at": "2026-01-17T23:48:35Z"
+      "stargazers_count": 68404,
+      "forks_count": 3844,
+      "pushed_at": "2026-01-24T16:30:14Z"
     },
     {
       "full_name": "PiotrMachowski/Xiaomi-cloud-tokens-extractor",
       "description": "This tool retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.",
       "language": "Python",
-      "stargazers_count": 4127,
-      "forks_count": 410,
+      "stargazers_count": 4146,
+      "forks_count": 413,
       "pushed_at": "2025-11-08T01:57:43Z"
     },
     {
       "full_name": "rytilahti/python-miio",
       "description": "Python library & console tool for controlling Xiaomi smart appliances",
       "language": "Python",
-      "stargazers_count": 4164,
-      "forks_count": 596,
+      "stargazers_count": 4167,
+      "forks_count": 598,
       "pushed_at": "2025-08-19T18:47:39Z"
     },
     {
       "full_name": "winscp/winscp",
       "description": "WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly interface and automation options like .NET assembly.",
       "language": "C",
-      "stargazers_count": 3428,
-      "forks_count": 382,
-      "pushed_at": "2026-01-16T09:29:22Z"
+      "stargazers_count": 3446,
+      "forks_count": 383,
+      "pushed_at": "2026-01-23T12:50:42Z"
     },
     {
       "full_name": "psf/requests-html",
       "description": "Pythonic HTML Parsing for Humans™",
       "language": "Python",
-      "stargazers_count": 13878,
+      "stargazers_count": 13880,
       "forks_count": 999,
       "pushed_at": "2024-04-16T18:50:38Z"
     },
@@ -3494,15 +3518,15 @@
       "full_name": "coleifer/sqlite-web",
       "description": "Web-based SQLite database browser written in Python",
       "language": "Python",
-      "stargazers_count": 3987,
-      "forks_count": 393,
-      "pushed_at": "2026-01-07T16:13:58Z"
+      "stargazers_count": 3992,
+      "forks_count": 392,
+      "pushed_at": "2026-01-21T17:01:33Z"
     },
     {
       "full_name": "bczsalba/pytermgui",
       "description": "Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!",
       "language": "Python",
-      "stargazers_count": 2584,
+      "stargazers_count": 2585,
       "forks_count": 63,
       "pushed_at": "2025-03-31T13:52:38Z"
     },
@@ -3510,15 +3534,15 @@
       "full_name": "ryanoasis/nerd-fonts",
       "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
       "language": "CSS",
-      "stargazers_count": 61276,
-      "forks_count": 3861,
-      "pushed_at": "2026-01-15T17:43:17Z"
+      "stargazers_count": 61382,
+      "forks_count": 3868,
+      "pushed_at": "2026-01-22T14:26:24Z"
     },
     {
       "full_name": "preservim/nerdtree",
       "description": "A tree explorer plugin for vim.",
       "language": "Vim Script",
-      "stargazers_count": 20048,
+      "stargazers_count": 20055,
       "forks_count": 1442,
       "pushed_at": "2025-09-26T16:07:39Z"
     },
@@ -3526,55 +3550,55 @@
       "full_name": "nvim-tree/nvim-tree.lua",
       "description": "A file explorer tree for neovim written in lua",
       "language": "Lua",
-      "stargazers_count": 8310,
+      "stargazers_count": 8325,
       "forks_count": 639,
-      "pushed_at": "2026-01-18T00:16:42Z"
+      "pushed_at": "2026-01-24T23:35:57Z"
     },
     {
       "full_name": "gokcehan/lf",
       "description": "Terminal file manager",
       "language": "Go",
-      "stargazers_count": 8964,
-      "forks_count": 360,
-      "pushed_at": "2026-01-14T00:13:07Z"
+      "stargazers_count": 8988,
+      "forks_count": 359,
+      "pushed_at": "2026-01-25T00:14:27Z"
     },
     {
       "full_name": "hashicorp/vault",
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "language": "Go",
-      "stargazers_count": 33834,
-      "forks_count": 4508,
-      "pushed_at": "2026-01-16T23:14:06Z"
+      "stargazers_count": 33873,
+      "forks_count": 4511,
+      "pushed_at": "2026-01-23T22:04:22Z"
     },
     {
       "full_name": "alacritty/alacritty",
       "description": "A cross-platform, OpenGL terminal emulator.",
       "language": "Rust",
-      "stargazers_count": 61979,
-      "forks_count": 3276,
+      "stargazers_count": 62106,
+      "forks_count": 3282,
       "pushed_at": "2026-01-14T22:30:36Z"
     },
     {
       "full_name": "giampaolo/psutil",
       "description": "Cross-platform lib for process and system monitoring in Python",
       "language": "Python",
-      "stargazers_count": 11029,
-      "forks_count": 1457,
-      "pushed_at": "2026-01-17T12:19:36Z"
+      "stargazers_count": 11046,
+      "forks_count": 1459,
+      "pushed_at": "2026-01-22T02:50:29Z"
     },
     {
       "full_name": "zellij-org/zellij",
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
-      "stargazers_count": 28235,
-      "forks_count": 914,
-      "pushed_at": "2026-01-15T13:10:59Z"
+      "stargazers_count": 28410,
+      "forks_count": 924,
+      "pushed_at": "2026-01-22T16:02:36Z"
     },
     {
       "full_name": "globocom/m3u8",
       "description": "Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions",
       "language": "Python",
-      "stargazers_count": 2236,
+      "stargazers_count": 2237,
       "forks_count": 489,
       "pushed_at": "2025-01-31T21:13:34Z"
     },
@@ -3582,15 +3606,15 @@
       "full_name": "IceWhaleTech/CasaOS",
       "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
       "language": "Go",
-      "stargazers_count": 32909,
-      "forks_count": 1834,
+      "stargazers_count": 32992,
+      "forks_count": 1841,
       "pushed_at": "2025-08-06T08:54:04Z"
     },
     {
       "full_name": "soimort/you-get",
       "description": ":arrow_double_down: Dumb downloader that scrapes the web",
       "language": "Python",
-      "stargazers_count": 56681,
+      "stargazers_count": 56706,
       "forks_count": 9805,
       "pushed_at": "2025-04-27T15:33:25Z"
     },
@@ -3598,23 +3622,23 @@
       "full_name": "microsoft/winget-cli",
       "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
       "language": "C++",
-      "stargazers_count": 25259,
-      "forks_count": 1649,
-      "pushed_at": "2026-01-15T19:57:36Z"
+      "stargazers_count": 25295,
+      "forks_count": 1652,
+      "pushed_at": "2026-01-23T18:53:58Z"
     },
     {
       "full_name": "novnc/websockify",
       "description": "Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.",
       "language": "Python",
-      "stargazers_count": 4302,
-      "forks_count": 835,
+      "stargazers_count": 4307,
+      "forks_count": 834,
       "pushed_at": "2025-10-16T11:05:54Z"
     },
     {
       "full_name": "huashengdun/webssh",
       "description": ":seedling: Web based ssh client",
       "language": "Python",
-      "stargazers_count": 5051,
+      "stargazers_count": 5055,
       "forks_count": 1596,
       "pushed_at": "2025-07-27T13:48:13Z"
     },
@@ -3622,15 +3646,15 @@
       "full_name": "brentvollebregt/auto-py-to-exe",
       "description": "Converts .py to .exe using a simple graphical interface ",
       "language": "JavaScript",
-      "stargazers_count": 4783,
-      "forks_count": 797,
+      "stargazers_count": 4788,
+      "forks_count": 798,
       "pushed_at": "2025-10-27T02:33:54Z"
     },
     {
       "full_name": "dbcli/litecli",
       "description": "CLI for SQLite Databases with auto-completion and syntax highlighting",
       "language": "Python",
-      "stargazers_count": 3171,
+      "stargazers_count": 3175,
       "forks_count": 91,
       "pushed_at": "2025-12-27T12:43:25Z"
     },
@@ -3654,41 +3678,41 @@
       "full_name": "emqx/MQTTX",
       "description": "A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.",
       "language": "TypeScript",
-      "stargazers_count": 4752,
-      "forks_count": 522,
-      "pushed_at": "2026-01-16T03:27:24Z"
+      "stargazers_count": 4766,
+      "forks_count": 523,
+      "pushed_at": "2026-01-23T07:05:50Z"
     },
     {
       "full_name": "novnc/noVNC",
       "description": "VNC client web application",
       "language": "JavaScript",
-      "stargazers_count": 13325,
-      "forks_count": 2554,
+      "stargazers_count": 13349,
+      "forks_count": 2556,
       "pushed_at": "2026-01-10T23:45:47Z"
     },
     {
       "full_name": "influxdata/influxdb",
       "description": "Scalable datastore for metrics, events, and real-time analytics",
       "language": "Rust",
-      "stargazers_count": 31120,
+      "stargazers_count": 31139,
       "forks_count": 3689,
-      "pushed_at": "2026-01-17T20:59:34Z"
+      "pushed_at": "2026-01-23T22:59:45Z"
     },
     {
       "full_name": "emqx/emqx",
       "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
       "language": "Erlang",
-      "stargazers_count": 15816,
-      "forks_count": 2444,
-      "pushed_at": "2026-01-16T19:52:05Z"
+      "stargazers_count": 15842,
+      "forks_count": 2449,
+      "pushed_at": "2026-01-24T12:38:18Z"
     },
     {
       "full_name": "taosdata/TDengine",
       "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
       "language": "C",
-      "stargazers_count": 24677,
-      "forks_count": 4990,
-      "pushed_at": "2026-01-17T15:45:56Z"
+      "stargazers_count": 24690,
+      "forks_count": 4989,
+      "pushed_at": "2026-01-24T16:16:18Z"
     }
   ]
 }
