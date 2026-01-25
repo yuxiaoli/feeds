@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-01-18T00:33:41.492260",
+  "fetched_at": "2026-01-25T00:34:49.751385",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Vertical videos 8",
+      "video_id": "9B3yvPJVlVw",
+      "channel_title": "DeepLearningAI",
+      "description": "OCR can process characters but it doesn't understand pixels. OCR has no way to reason about the headers, totals, or checkboxes ...",
+      "published_at": "2026-01-23T18:36:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9B3yvPJVlVw/hqdefault.jpg"
+    },
+    {
+      "title": "Andrew Ng on why training LLMs isn’t enough",
+      "video_id": "RzUZUrD7cmY",
+      "channel_title": "DeepLearningAI",
+      "description": "A lot of what looks like intelligence today was painfully engineered into the data.” Andrew Ng on why training recipes alone won't ...",
+      "published_at": "2026-01-23T13:50:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RzUZUrD7cmY/hqdefault.jpg"
+    },
+    {
+      "title": "Short course on Gemini CLI: Code &amp; Create with an Open-Source Agent",
+      "video_id": "BQf0ASq573A",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4qJapAx Join this new short course on Gemini CLI, taught by Jack Wotherspoon, Developer Advocate at ...",
+      "published_at": "2026-01-21T14:35:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BQf0ASq573A/hqdefault.jpg"
+    },
     {
       "title": "One of the best ways to improve the apps you build is to share them early: Andrew Ng",
       "video_id": "50uLstQ0TN8",
@@ -59,30 +83,6 @@
       "description": "What does it take to build a production-ready full-stack agentic application? In this talk by Tyler Slaton, Senior Founding Engineer ...",
       "published_at": "2025-12-05T20:56:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fGSpr8bHxcM/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Tanveer Mittal, Utkarsh Lamba: Building with the Claude Agent SDK",
-      "video_id": "8tg8z-Fi0MU",
-      "channel_title": "DeepLearningAI",
-      "description": "This session, led by Tanveer Mittal and Utkarsh Lamba, members of Technical Staff at Anthropic, explored best practices for ...",
-      "published_at": "2025-12-05T20:53:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8tg8z-Fi0MU/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Stefano Pasquali: Building Trustworthy AI for Finance",
-      "video_id": "EBzqP7njk00",
-      "channel_title": "DeepLearningAI",
-      "description": "This session by Stefano Pasquali, SVP, Head of Financial Services at Domyn introduced Domyn's Sovereign AI architecture, ...",
-      "published_at": "2025-12-05T20:43:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EBzqP7njk00/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Scott Yak: Building MCP Servers That Make Agents More Effective",
-      "video_id": "Xel_mF5CCAo",
-      "channel_title": "DeepLearningAI",
-      "description": "Agents often rely on external tools to help them accomplish their tasks, and external MCP servers are convenient for getting those ...",
-      "published_at": "2025-12-05T20:39:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xel_mF5CCAo/hqdefault.jpg"
     }
   ]
 }

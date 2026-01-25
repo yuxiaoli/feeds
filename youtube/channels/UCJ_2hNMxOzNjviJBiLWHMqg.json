@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-18T00:33:18.402356",
+  "fetched_at": "2026-01-25T00:34:26.169781",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "So... Bilbo was kinda Bougie",
+      "video_id": "0NhbzgHltpE",
+      "channel_title": "DamiLee",
+      "description": "Bag End isn't just a hobbit hole, it's a country estate disguised as simplicity. From handcrafted woodwork to its impractical but ...",
+      "published_at": "2026-01-21T16:30:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0NhbzgHltpE/hqdefault.jpg"
+    },
+    {
+      "title": "The Emotional Power of a Good Hole",
+      "video_id": "XsjWZuAJg7I",
+      "channel_title": "DamiLee",
+      "description": "Hobbit holes feel comforting because they align with how the human brain seeks safety, warmth, and refuge. Circular forms, earth ...",
+      "published_at": "2026-01-18T16:30:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XsjWZuAJg7I/hqdefault.jpg"
+    },
     {
       "title": "Why LOTR Feels So Real",
       "video_id": "bG63R2r7cZU",
@@ -67,22 +83,6 @@
       "description": "In 2018, separated North and South Korean families were given just 11 hours across three days to see each other for the ...",
       "published_at": "2025-11-28T16:08:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HmpAPMnRAoI/hqdefault.jpg"
-    },
-    {
-      "title": "Escape Story from North Korea",
-      "video_id": "Hm1B4JJfHqg",
-      "channel_title": "DamiLee",
-      "description": "I spoke with a North Korean defector who escaped at just 18, crossing multiple countries to reach South Korea. Hearing her story ...",
-      "published_at": "2025-11-26T16:03:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hm1B4JJfHqg/hqdefault.jpg"
-    },
-    {
-      "title": "Economic Warfare",
-      "video_id": "TjgqnEjs9e8",
-      "channel_title": "DamiLee",
-      "description": "South Korea's rise from post-war poverty to global powerhouse is often celebrated as the “Miracle on the Han River,” but behind ...",
-      "published_at": "2025-11-25T16:02:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TjgqnEjs9e8/hqdefault.jpg"
     }
   ]
 }

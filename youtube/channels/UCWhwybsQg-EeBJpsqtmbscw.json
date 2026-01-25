@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-01-18T00:33:34.537662",
+  "fetched_at": "2026-01-25T00:34:42.562182",
   "channel_id": "UCWhwybsQg-EeBJpsqtmbscw",
   "channel_title": "JomaClass",
-  "count": 10,
+  "count": 25,
   "videos": [
+    {
+      "title": "Unique Paths (Leetcode 62) | LeetCode Tutorial",
+      "video_id": "L3WcBz95GDY",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-24T16:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L3WcBz95GDY/hqdefault.jpg"
+    },
+    {
+      "title": "Two Sum (Leetcode 1) | LeetCode Tutorial",
+      "video_id": "JhKd7ajrZY4",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-23T16:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JhKd7ajrZY4/hqdefault.jpg"
+    },
+    {
+      "title": "Top K Frequent Elements (Leetcode 347) | LeetCode Tutorial",
+      "video_id": "xIsBk1dMDLI",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-22T16:01:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xIsBk1dMDLI/hqdefault.jpg"
+    },
+    {
+      "title": "Swap Every Two Nodes in a Linked List (Leetcode 1721) | LeetCode Tutorial",
+      "video_id": "PsfNBeEWcYc",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-21T16:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PsfNBeEWcYc/hqdefault.jpg"
+    },
+    {
+      "title": "Sum of Squares (Leetcode) | LeetCode Tutorial",
+      "video_id": "Et9YMOn0o4Q",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-20T16:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Et9YMOn0o4Q/hqdefault.jpg"
+    },
+    {
+      "title": "String to Integer (Leetcode) | LeetCode Tutorial",
+      "video_id": "pQTUT083WWQ",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-19T16:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pQTUT083WWQ/hqdefault.jpg"
+    },
+    {
+      "title": "Sorted Square Numbers (Leetcode 977) | LeetCode Tutorial",
+      "video_id": "pe7V_YDkZ0c",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-18T16:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pe7V_YDkZ0c/hqdefault.jpg"
+    },
     {
       "title": "Sort Colors (Leetcode 75) | LeetCode Tutorial",
       "video_id": "lrJKmFpOdo8",
@@ -83,6 +139,70 @@
       "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
       "published_at": "2026-01-08T16:00:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/TORxPZ9gM0Y/hqdefault.jpg"
+    },
+    {
+      "title": "Push Dominoes (Leetcode 838) | LeetCode Tutorial",
+      "video_id": "Lm6V0iwEqqk",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-07T16:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lm6V0iwEqqk/hqdefault.jpg"
+    },
+    {
+      "title": "Product of Array Except Self (Leetcode 238) | LeetCode Tutorial",
+      "video_id": "eGXaUwuWU9M",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-06T16:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eGXaUwuWU9M/hqdefault.jpg"
+    },
+    {
+      "title": "Permutations (Leetcode 46) | LeetCode Tutorial",
+      "video_id": "m4uIcIQpvvk",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-05T16:01:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m4uIcIQpvvk/hqdefault.jpg"
+    },
+    {
+      "title": "Optimized List Sum (Leetcode) | LeetCode Tutorial",
+      "video_id": "_Sba6bAztiU",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-04T16:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_Sba6bAztiU/hqdefault.jpg"
+    },
+    {
+      "title": "Cousins in Binary Tree (Leetcode 993) | LeetCode Tutorial",
+      "video_id": "QyIdzsDzITI",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-03T16:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QyIdzsDzITI/hqdefault.jpg"
+    },
+    {
+      "title": "Number of 1 Bits (Leetcode 191) | LeetCode Tutorial",
+      "video_id": "wn1yWq5352c",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-02T16:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wn1yWq5352c/hqdefault.jpg"
+    },
+    {
+      "title": "Non-decreasing Array (Leetcode 665) | LeetCode Tutorial",
+      "video_id": "5DqgU0DZr2E",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-01T16:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5DqgU0DZr2E/hqdefault.jpg"
+    },
+    {
+      "title": "N-Queens (Leetcode 51) | LeetCode Tutorial",
+      "video_id": "efUctVbrVNk",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2025-12-31T16:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/efUctVbrVNk/hqdefault.jpg"
     }
   ]
 }

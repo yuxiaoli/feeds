@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-18T00:32:56.705571",
+  "fetched_at": "2026-01-25T00:34:04.240397",
   "channel_id": "UC-yuWVUplUJZvieEligKBkA",
   "channel_title": "javidx9",
   "count": 10,
   "videos": [
+    {
+      "title": "olcPGE3 Tech Preview &amp; Tests",
+      "video_id": "P5-VRRSphfA",
+      "channel_title": "javidx9",
+      "description": "A preview compilation of tech and test demos for upcoming olc::PixelGameEngine 3.0 Patreon: https://www.patreon.com/javidx9 ...",
+      "published_at": "2026-01-24T23:51:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/P5-VRRSphfA/hqdefault.jpg"
+    },
     {
       "title": "olc::CodeJam 2025",
       "video_id": "306UkgBzJys",
@@ -75,14 +83,6 @@
       "description": "In this video I use the fantastic https://pgetinker.com to build a simple interactive model of a favourite childhood toy - the spirograph ...",
       "published_at": "2024-06-30T15:56:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AY99hF3kVH8/hqdefault.jpg"
-    },
-    {
-      "title": "DIY Programming Language #2: Tokenising with Finite State Machine",
-      "video_id": "wrj3iuRdA-M",
-      "channel_title": "javidx9",
-      "description": "In this video I use a Finite State Machine to parse complicated input into manageable tokens before feeding them to the Shunting ...",
-      "published_at": "2024-06-09T13:15:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wrj3iuRdA-M/hqdefault.jpg"
     }
   ]
 }

@@ -1,56 +1,48 @@
 {
-  "fetched_at": "2026-01-18T00:33:10.057171",
+  "fetched_at": "2026-01-25T00:34:17.648596",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 6,
+  "count": 5,
   "videos": [
     {
-      "title": "NON-DESTRUCTIVE Animation in UE5! Layered Control Rigs Explained",
-      "video_id": "A8U_8iPc5hA",
+      "title": "UE5 Animation Layers: Non-Destructive Camera Shake &amp; Character Tweaks",
+      "video_id": "NDrc3ap2ZAA",
       "channel_title": "Unreal Engine",
-      "description": "NON-DESTRUCTIVE ANIMATION HACKS in UE5 (Layered Control Rigs): Learn to implement Layered Control Rigs for making ...",
-      "published_at": "2026-01-16T19:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/A8U_8iPc5hA/hqdefault.jpg"
+      "description": "MASTERING UE5 ANIMATION LAYERS: Intensity Control (Weight Slider) & Offsets: Discover Animation Layers to organize ...",
+      "published_at": "2026-01-23T19:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NDrc3ap2ZAA/hqdefault.jpg"
     },
     {
-      "title": "OddBot reinvents its animation pipeline for ‘Playdate with Winnie the Pooh’",
-      "video_id": "VilqWZIwLOU",
+      "title": "Stylized Comic Ink Material | Unreal Engine Animation Hub",
+      "video_id": "rpmm3PPxJzM",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to explore how OddBot embraced real-time animation in Unreal Engine to create Disney Junior's 'Playdate with ...",
-      "published_at": "2026-01-16T14:58:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VilqWZIwLOU/hqdefault.jpg"
+      "description": "Watch this video and learn how to add texture maps to generate hatching and crosshatching effects to the stylized material that we ...",
+      "published_at": "2026-01-23T17:01:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rpmm3PPxJzM/hqdefault.jpg"
     },
     {
-      "title": "Unreal Fest Stockholm 2025 Collection - Physics Driven Control Rig Animation, Making Your Rigs Smart",
-      "video_id": "o_YJOcJQRrE",
+      "title": "Avoid Tutorial Hell - Utilizing Resources to Learn Unreal Engine in 2026 | Inside Unreal",
+      "video_id": "IeQpGHTBOkQ",
       "channel_title": "Unreal Engine",
-      "description": "As we ramp back up in the New Year, we have one more collection of wonderful talks from Unreal Fest Stockholm 2025!",
-      "published_at": "2026-01-15T20:34:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o_YJOcJQRrE/hqdefault.jpg"
+      "description": "We are joined by a few of our Technical Writers to discuss the best way to utilize tutorials and learning resources; common pitfalls, ...",
+      "published_at": "2026-01-22T21:15:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IeQpGHTBOkQ/hqdefault.jpg"
     },
     {
-      "title": "Overlay Materials for Stylization | Unreal Engine Animation Hub",
-      "video_id": "ibMxs3qc6e0",
+      "title": "UE5 Curve Editor SECRETS: Buffer Curves &amp; Smart Snap Keyframe Tricks",
+      "video_id": "9g0K4GOACis",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video and learn how to use the Overlay material slot to add finer detail to outlines in Unreal Engine 5.7. Visit the EDC ...",
-      "published_at": "2026-01-15T15:01:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ibMxs3qc6e0/hqdefault.jpg"
+      "description": "UE5 CURVE EDITOR SECRETS: Buffer Curves & Mass Keyframe Polishing: Focus on crucial Keyframe Curve Editor tools for safe ...",
+      "published_at": "2026-01-21T19:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9g0K4GOACis/hqdefault.jpg"
     },
     {
-      "title": "Baking Animation in UE5: Control Rig to Animation Sequence &amp; Back!",
-      "video_id": "mDEliLixziU",
+      "title": "UI Updates for UEFN | Creating in Fortnite",
+      "video_id": "18c2vDNk_PQ",
       "channel_title": "Unreal Engine",
-      "description": "UE5 ANIMATION DATA MOBILITY: Bake Control Rigs to Sequences & Backward Solve: This module teaches essential data ...",
-      "published_at": "2026-01-14T19:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mDEliLixziU/hqdefault.jpg"
-    },
-    {
-      "title": "A Guide to Getting Into Performance Capture | Unreal Fest Stockholm 2025",
-      "video_id": "VuJsFaN8518",
-      "channel_title": "Unreal Engine",
-      "description": "Twelve months ago, Epic's Ben Kidd began his journey with performance capture—and he's learned a lot along the way, thanks to ...",
-      "published_at": "2026-01-13T13:01:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VuJsFaN8518/hqdefault.jpg"
+      "description": "Event Info: Join us for an exciting session where we'll dive deep into the latest Fortnite Creative and Unreal Editor for Fortnite ...",
+      "published_at": "2026-01-20T20:44:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/18c2vDNk_PQ/hqdefault.jpg"
     }
   ]
 }

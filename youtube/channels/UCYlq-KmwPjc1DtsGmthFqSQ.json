@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-01-18T00:33:37.291818",
+  "fetched_at": "2026-01-25T00:34:45.427267",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
-  "count": 22,
+  "count": 10,
   "videos": [
     {
       "title": "Introducing Figure 03",
@@ -83,102 +83,6 @@
       "description": "Introducing BotQ, Figure's new high-volume manufacturing facility for humanoid robots.",
       "published_at": "2025-03-15T14:52:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/yBGlX1CEG14/hqdefault.jpg"
-    },
-    {
-      "title": "Helix Logistics",
-      "video_id": "f6ChFc8eUuo",
-      "channel_title": "Figure",
-      "description": "Introducing a new real-world application for Figure robots: logistics package manipulation and triaging. Here's a detailed report on ...",
-      "published_at": "2025-02-26T16:06:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f6ChFc8eUuo/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Helix",
-      "video_id": "Z3yQHYNXPws",
-      "channel_title": "Figure",
-      "description": "We're introducing Helix, a generalist Vision-Language-Action (VLA) model that unifies perception, language understanding, and ...",
-      "published_at": "2025-02-20T14:10:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z3yQHYNXPws/hqdefault.jpg"
-    },
-    {
-      "title": "Figure Status Update - BMW Use Case",
-      "video_id": "WlUFoZstcWg",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2024-11-19T14:12:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WlUFoZstcWg/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Figure 02",
-      "video_id": "0SRVJaOg9Co",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2024-08-06T11:55:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0SRVJaOg9Co/hqdefault.jpg"
-    },
-    {
-      "title": "Figure 02 Trailer",
-      "video_id": "FZbY9sReu1k",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2024-08-02T15:04:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FZbY9sReu1k/hqdefault.jpg"
-    },
-    {
-      "title": "Figure Status Update - BMW Full Use Case",
-      "video_id": "K1TrbI0BaaU",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2024-07-01T16:24:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K1TrbI0BaaU/hqdefault.jpg"
-    },
-    {
-      "title": "Figure Status Update - OpenAI Speech-to-Speech Reasoning",
-      "video_id": "Sq1QZB5baNw",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2024-03-13T13:59:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Sq1QZB5baNw/hqdefault.jpg"
-    },
-    {
-      "title": "Figure Status Update - Real World Task",
-      "video_id": "gEjXcEU3Bbw",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2024-02-26T18:26:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gEjXcEU3Bbw/hqdefault.jpg"
-    },
-    {
-      "title": "Figure Status Update - AI Trained Coffee Demo",
-      "video_id": "Q5MKo7Idsok",
-      "channel_title": "Figure",
-      "description": "Figure 01 has learned to make coffee.",
-      "published_at": "2024-01-07T13:16:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q5MKo7Idsok/hqdefault.jpg"
-    },
-    {
-      "title": "Figure 01 Dynamic Walking",
-      "video_id": "-4erYt2t7Bs",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2023-10-17T09:31:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-4erYt2t7Bs/hqdefault.jpg"
-    },
-    {
-      "title": "Figure Status Update - Dynamic Walking",
-      "video_id": "jACJruCzUzY",
-      "channel_title": "Figure",
-      "description": "Figure is an AI Robotics company building general purpose humanoid robots. We are excited to officially unveil the Figure 01 ...",
-      "published_at": "2023-10-17T09:32:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jACJruCzUzY/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Figure",
-      "video_id": "b37rQZ4maPo",
-      "channel_title": "Figure",
-      "description": "Figure is an AI Robotics company building an autonomous general purpose humanoid robot.",
-      "published_at": "2023-03-02T00:42:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b37rQZ4maPo/hqdefault.jpg"
     }
   ]
 }

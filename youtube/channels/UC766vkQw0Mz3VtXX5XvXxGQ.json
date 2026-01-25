@@ -1,7 +1,16 @@
 {
-  "fetched_at": "2026-01-18T00:33:05.196284",
+  "fetched_at": "2026-01-25T00:34:12.756612",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 0,
-  "videos": []
+  "count": 1,
+  "videos": [
+    {
+      "title": "Name a better feeling",
+      "video_id": "7GAIfq5HpKs",
+      "channel_title": "Meta Quest ",
+      "description": "",
+      "published_at": "2026-01-22T17:39:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7GAIfq5HpKs/hqdefault.jpg"
+    }
+  ]
 }

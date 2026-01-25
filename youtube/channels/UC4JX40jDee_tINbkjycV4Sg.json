@@ -1,64 +1,64 @@
 {
-  "fetched_at": "2026-01-18T00:33:03.779090",
+  "fetched_at": "2026-01-25T00:34:11.295754",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "Do not write your code like this.",
-      "video_id": "LXu4g0GAcj8",
+      "title": "These are very important for you to learn in Python.",
+      "video_id": "fuS5Hx8byUw",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-17T21:40:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LXu4g0GAcj8/hqdefault.jpg"
+      "published_at": "2026-01-24T20:14:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fuS5Hx8byUw/hqdefault.jpg"
     },
     {
-      "title": "This mistake might be stopping you from getting hired.",
-      "video_id": "USBxTm0ORVs",
+      "title": "Learn Matplotlib in 30 Minutes - Python Matplotlib Tutorial",
+      "video_id": "7Lc2AxiM17o",
+      "channel_title": "Tech With Tim",
+      "description": "To learn for free on Brilliant, go to https://brilliant.org/techwithtim . Brilliant's also given our viewers 20% off an annual Premium ...",
+      "published_at": "2026-01-24T13:04:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7Lc2AxiM17o/hqdefault.jpg"
+    },
+    {
+      "title": "Mutability in Python.",
+      "video_id": "rV1xyw3h43U",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-17T00:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/USBxTm0ORVs/hqdefault.jpg"
+      "published_at": "2026-01-23T22:19:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rV1xyw3h43U/hqdefault.jpg"
     },
     {
-      "title": "The easiest way to make a website in Python.",
-      "video_id": "2UIFF8M0NIw",
+      "title": "If you&#39;re a developer, watch this video!",
+      "video_id": "AzqM-wYO4qU",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-16T20:29:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2UIFF8M0NIw/hqdefault.jpg"
+      "published_at": "2026-01-22T20:55:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AzqM-wYO4qU/hqdefault.jpg"
     },
     {
-      "title": "Learn NumPy in 40 Minutes - Python NumPy Tutorial",
-      "video_id": "zI5ducyfyNc",
+      "title": "AI Has Changed Databases Forever… Here’s How",
+      "video_id": "XEiQV4zRC-U",
       "channel_title": "Tech With Tim",
-      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
-      "published_at": "2026-01-15T21:04:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zI5ducyfyNc/hqdefault.jpg"
+      "description": "Sign Up for TigerData for free: https://tsdb.co/twt-TigerData Checkout the GitHub repo for more information: ...",
+      "published_at": "2026-01-22T12:24:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XEiQV4zRC-U/hqdefault.jpg"
     },
     {
-      "title": "Have you used Flask before?",
-      "video_id": "sc_57a5arRU",
+      "title": "This could be messing up your code...",
+      "video_id": "Kcr2UpWsHRw",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-15T09:13:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sc_57a5arRU/hqdefault.jpg"
+      "published_at": "2026-01-20T21:29:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Kcr2UpWsHRw/hqdefault.jpg"
     },
     {
-      "title": "Lovable vs MeDo, which AI app builder actually works?",
-      "video_id": "lhaGyrp1vfY",
+      "title": "The Only Programming Languages Worth Learning in 2026",
+      "video_id": "zsPD9aohymw",
       "channel_title": "Tech With Tim",
-      "description": "AI app builders are everywhere right now, and everyone's claiming that you can go from an idea to a full product in just minutes.",
-      "published_at": "2026-01-14T11:36:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lhaGyrp1vfY/hqdefault.jpg"
-    },
-    {
-      "title": "Interview Coder Just Leaked Users’ Full Names and Where They Got Offers",
-      "video_id": "YG6odi6VY9g",
-      "channel_title": "Tech With Tim",
-      "description": "In this Interview Coder review, I will show you how they just leaked their customers names and where they got offers. This major ...",
-      "published_at": "2026-01-12T21:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YG6odi6VY9g/hqdefault.jpg"
+      "description": "Start building real Python skills today with DataCamp's Python Programming Fundamentals track (perfect if you're still shaky on ...",
+      "published_at": "2026-01-20T13:06:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zsPD9aohymw/hqdefault.jpg"
     },
     {
       "title": "The only video you need to watch if you want to become a software engineer!",
@@ -69,20 +69,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Haa4Tw6MWUk/hqdefault.jpg"
     },
     {
-      "title": "How I Vibe Coded 3 Apps in 20 Minutes - DeepAgent Demo",
-      "video_id": "0Vx1MWojNaU",
+      "title": "Backend Software Engineer roadmap",
+      "video_id": "FlsrKv_xIyg",
       "channel_title": "Tech With Tim",
-      "description": "I just spent the last hour vibe coding up three apps that are almost ready to go into production. In this video, I'm going to show you ...",
-      "published_at": "2025-08-08T12:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0Vx1MWojNaU/hqdefault.jpg"
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-03-24T21:17:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FlsrKv_xIyg/hqdefault.jpg"
     },
     {
-      "title": "THIS is why you keep getting ghosted by recruiters",
-      "video_id": "fRkxtW12oBI",
+      "title": "Cracking the code to land a job at Google👀",
+      "video_id": "sxSVJAfuiPU",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-07-04T02:52:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fRkxtW12oBI/hqdefault.jpg"
+      "description": "",
+      "published_at": "2024-11-16T21:46:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sxSVJAfuiPU/hqdefault.jpg"
     }
   ]
 }

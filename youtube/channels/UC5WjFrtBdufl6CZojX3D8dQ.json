@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-18T00:33:04.564083",
+  "fetched_at": "2026-01-25T00:34:12.106636",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Camp Mode keeps you cozy",
+      "video_id": "Xui-Ecw872E",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-01-21T15:53:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xui-Ecw872E/hqdefault.jpg"
+    },
     {
       "title": "Tesla to the rescue",
       "video_id": "xwKzJd3_drc",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-12-15T22:35:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bxLgg_FNHj8/hqdefault.jpg"
-    },
-    {
-      "title": "Powering Chile&#39;s Renewable Future | Megapack",
-      "video_id": "_iytMHw6uJY",
-      "channel_title": "Tesla",
-      "description": "25MW / 900MWh of Megapack provides power in Chile's Atacama Desert, considered the driest desert on earth. Megapacks for ...",
-      "published_at": "2025-12-08T20:36:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_iytMHw6uJY/hqdefault.jpg"
     }
   ]
 }

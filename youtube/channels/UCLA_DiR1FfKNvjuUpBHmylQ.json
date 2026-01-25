@@ -1,16 +1,40 @@
 {
-  "fetched_at": "2026-01-18T00:33:23.886566",
+  "fetched_at": "2026-01-25T00:34:31.733433",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 10,
+  "count": 6,
   "videos": [
     {
-      "title": "NASA&#39;s Artemis II Crew Rollout Media Event",
-      "video_id": "tTs799cmxBc",
+      "title": "NASA’s Day of Remembrance 2026",
+      "video_id": "GzWzo0AXmTg",
       "channel_title": "NASA",
-      "description": "NASA Administrator Jared Isaacman and the crew of Artemis II (NASA astronauts Reid Wiseman, Victor Glover, and Christina ...",
-      "published_at": "2026-01-17T14:44:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tTs799cmxBc/hqdefault.jpg"
+      "description": "NASA's annual Day of Remembrance pays tribute to all members of the NASA family who lost their lives in the pursuit of ...",
+      "published_at": "2026-01-22T14:02:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GzWzo0AXmTg/hqdefault.jpg"
+    },
+    {
+      "title": "NASA Artemis II: Counting Down to Our Next Moon Mission",
+      "video_id": "V0oo_Nybo6w",
+      "channel_title": "NASA",
+      "description": "NASA is heading back to the Moon with Artemis II. With available launch windows from February through April, the first crewed ...",
+      "published_at": "2026-01-21T23:34:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V0oo_Nybo6w/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-11 Post-Flight News Conference (Jan. 21, 2026)",
+      "video_id": "glb4RtTwL40",
+      "channel_title": "NASA",
+      "description": "After returning to Earth on Jan. 15, the crew members of NASA's SpaceX Crew-11 mission are at NASA's Johnson Space Center ...",
+      "published_at": "2026-01-21T20:06:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/glb4RtTwL40/hqdefault.jpg"
+    },
+    {
+      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
+      "video_id": "aB1yRz0HhdY",
+      "channel_title": "NASA",
+      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
+      "published_at": "2026-01-20T19:41:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aB1yRz0HhdY/hqdefault_live.jpg"
     },
     {
       "title": "NASA&#39;s Artemis II Live Views from Kennedy Space Center",
@@ -21,68 +45,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nrVnsO_rdew/hqdefault_live.jpg"
     },
     {
-      "title": "NASA’s Artemis II Rollout and Mission Overview News Conference (Jan. 16, 2026)",
-      "video_id": "Pn9lZtMXFxQ",
-      "channel_title": "NASA",
-      "description": "NASA experts give updates on the Artemis II mission before rollout of the Moon rocket and spacecraft to the launch pad at ...",
-      "published_at": "2026-01-16T17:59:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Pn9lZtMXFxQ/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX Crew-11 Post-Splashdown News Conference (Jan. 15, 2026)",
-      "video_id": "QFOVIAxEFng",
-      "channel_title": "NASA",
-      "description": "After the splashdown of NASA's SpaceX Crew-11 mission, agency leaders, including NASA Administrator Jared Isaacman, are ...",
-      "published_at": "2026-01-15T11:21:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QFOVIAxEFng/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX Crew-11 Re-Entry and Splashdown",
-      "video_id": "qRVoblm2Nxw",
-      "channel_title": "NASA",
-      "description": "",
-      "published_at": "2026-01-15T09:45:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qRVoblm2Nxw/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX Crew-11 Undocking",
-      "video_id": "IakRgsTYUDY",
-      "channel_title": "NASA",
-      "description": "The four members of NASA's SpaceX Crew-11 mission — NASA astronauts Zena Cardman and Mike Fincke, JAXA (Japan ...",
-      "published_at": "2026-01-14T22:45:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IakRgsTYUDY/hqdefault.jpg"
-    },
-    {
-      "title": "NASA’s SpaceX Crew-11 Hatch Close",
-      "video_id": "X0398ExPsK8",
-      "channel_title": "NASA",
-      "description": "Watch as NASA astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, ...",
-      "published_at": "2026-01-14T20:54:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X0398ExPsK8/hqdefault.jpg"
-    },
-    {
-      "title": "International Space Station Change of Command Ceremony",
-      "video_id": "cqvpXwHTztY",
-      "channel_title": "NASA",
-      "description": "As Crew-11 prepares to depart from the space station, NASA astronaut Mike Fincke will hand command of Expedition 74 aboard ...",
-      "published_at": "2026-01-12T19:52:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cqvpXwHTztY/hqdefault.jpg"
-    },
-    {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
       "video_id": "FV4Q9DryTG8",
       "channel_title": "NASA",
       "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
       "published_at": "2026-01-12T15:22:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FV4Q9DryTG8/hqdefault_live.jpg"
-    },
-    {
-      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
-      "video_id": "kPLUu3VHPkk",
-      "channel_title": "NASA",
-      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
-      "published_at": "2026-01-12T15:24:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kPLUu3VHPkk/hqdefault_live.jpg"
     }
   ]
 }

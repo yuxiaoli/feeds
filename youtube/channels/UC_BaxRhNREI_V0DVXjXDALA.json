@@ -1,7 +1,16 @@
 {
-  "fetched_at": "2026-01-18T00:33:37.973335",
+  "fetched_at": "2026-01-25T00:34:46.174291",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 0,
-  "videos": []
+  "count": 1,
+  "videos": [
+    {
+      "title": "Different vibe, same energy. #shorts",
+      "video_id": "-OrhAj7HQ7o",
+      "channel_title": "Porsche",
+      "description": "Black cat vs golden retriever energy. ✨  @gt3flow_.",
+      "published_at": "2026-01-22T17:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-OrhAj7HQ7o/hqdefault.jpg"
+    }
+  ]
 }

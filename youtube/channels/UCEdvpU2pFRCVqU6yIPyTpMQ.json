@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-18T00:33:12.162002",
+  "fetched_at": "2026-01-25T00:34:19.780965",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "y’all better get with the movement 😤",
+      "video_id": "i5adPgDiPj0",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-01-18T22:46:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i5adPgDiPj0/hqdefault.jpg"
+    },
     {
       "title": "It’s 2016 and the mannequin challenge is peak internet",
       "video_id": "dFoDaFS_FoE",
@@ -75,14 +83,6 @@
       "description": "Marshmello - Bassline Flexa @JoytimeCollective Presents: Jumpstart Vol. 1 Check out the full compilation here: ...",
       "published_at": "2025-07-04T04:00:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fdE0BivhxTE/hqdefault.jpg"
-    },
-    {
-      "title": "Jumpstart Vol. 1 is the first compilation on my label @JoytimeCollective Drops July 4th",
-      "video_id": "Q0FHPZfOYiQ",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-07-01T19:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q0FHPZfOYiQ/hqdefault.jpg"
     }
   ]
 }

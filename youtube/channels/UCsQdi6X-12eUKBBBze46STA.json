@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-18T00:33:54.743996",
+  "fetched_at": "2026-01-25T00:35:03.217370",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "Put. Clothes. On. Your. Carbs.",
+      "video_id": "CXm4lfZYziI",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-01-24T16:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CXm4lfZYziI/hqdefault.jpg"
+    },
+    {
+      "title": "The science of wearable bacteria 🔬",
+      "video_id": "97TddqL5QcE",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-01-23T15:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/97TddqL5QcE/hqdefault.jpg"
+    },
     {
       "title": "Eat your dinner EARLY!",
       "video_id": "JUtYQW2z8yM",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-12-21T17:01:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/c6KZI8rXdqA/hqdefault.jpg"
-    },
-    {
-      "title": "Your diet = your baby&#39;s brain development",
-      "video_id": "VJUNJdktN3k",
-      "channel_title": "Glucose Revolution",
-      "description": "These are 2 of the many studies on pregnancy nutrition and cognitive measures in babies. I go through many more interesting ...",
-      "published_at": "2025-12-19T15:01:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VJUNJdktN3k/hqdefault.jpg"
-    },
-    {
-      "title": "Your Pregnancy Diet Impacts Your Baby’s Brain: The Latest Science",
-      "video_id": "O4QWDx62qqw",
-      "channel_title": "Glucose Revolution",
-      "description": "Preorder my new book, 9 Months That Count Forever: •⁠ ⁠In the US: ...",
-      "published_at": "2025-12-17T17:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O4QWDx62qqw/hqdefault.jpg"
     }
   ]
 }

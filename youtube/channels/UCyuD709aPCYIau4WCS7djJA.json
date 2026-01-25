@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-18T00:33:58.226417",
+  "fetched_at": "2026-01-25T00:35:06.884980",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Retrograde = when a planet looks like it’s moving backward in the sky 🌍✨",
+      "video_id": "GJmwZ1-tO0w",
+      "channel_title": "Star Walk",
+      "description": "Normally, planets slowly drift one way against the background of stars. But sometimes, as Earth and the planet move around the ...",
+      "published_at": "2026-01-23T07:27:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GJmwZ1-tO0w/hqdefault.jpg"
+    },
+    {
+      "title": "What will aliens know about us? 👽",
+      "video_id": "16xzhAl050g",
+      "channel_title": "Star Walk",
+      "description": "When NASA launched the Voyager 1 & 2 spacecraft in 1977, they sent along one of the most iconic time capsules in human ...",
+      "published_at": "2026-01-19T09:50:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/16xzhAl050g/hqdefault.jpg"
+    },
     {
       "title": "Aurora magic from space! 💚💜",
       "video_id": "i9Y1FZi3BXQ",
@@ -67,22 +83,6 @@
       "description": "Solstices happen twice a year and mark the start of winter or summer — depending on your hemisphere. ❄️ Winter solstice ...",
       "published_at": "2025-12-19T23:00:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/TVthBf12DIU/hqdefault.jpg"
-    },
-    {
-      "title": "Cat constellations 🐈",
-      "video_id": "CpJmd6BDN-s",
-      "channel_title": "Star Walk",
-      "description": "Some constellations roar. Some just quietly purr in the night sky. ✨ Meet the three “cat constellations”: Leo, Leo Minor, and Lynx ...",
-      "published_at": "2025-12-17T08:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CpJmd6BDN-s/hqdefault.jpg"
-    },
-    {
-      "title": "🛰️ Space Junk Overload!",
-      "video_id": "0Ng7Nl3IU3A",
-      "channel_title": "Star Walk",
-      "description": "Did you know that Earth's orbit is becoming more crowded every year? Space junk — also called space debris or orbital waste ...",
-      "published_at": "2025-12-15T08:26:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0Ng7Nl3IU3A/hqdefault.jpg"
     }
   ]
 }

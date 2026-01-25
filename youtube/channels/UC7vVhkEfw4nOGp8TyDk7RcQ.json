@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-18T00:33:06.630966",
+  "fetched_at": "2026-01-25T00:34:14.107930",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Spot Cam 2  | Boston Dynamics",
+      "video_id": "de06_CLqrM0",
+      "channel_title": "Boston Dynamics",
+      "description": "Learn about this latest in Spot, Orbit, and our new 5.1 release at: ...",
+      "published_at": "2026-01-20T14:56:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/de06_CLqrM0/hqdefault.jpg"
+    },
     {
       "title": "That’s a wrap, Atlas!  #ces2026",
       "video_id": "83SQmj5bF9A",
@@ -75,14 +83,6 @@
       "description": "Happy Halloween from all of us at Boston Dynamics!",
       "published_at": "2025-10-31T12:45:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/uLRQFtttlK8/hqdefault.jpg"
-    },
-    {
-      "title": "Inside the Stretch Test Lab | Boston Dynamics",
-      "video_id": "RpvSMqOT7ls",
-      "channel_title": "Boston Dynamics",
-      "description": "At our test warehouse, we recreate our customers' inbound operations, from the dock configuration and conveyors, to the freight ...",
-      "published_at": "2025-10-28T14:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RpvSMqOT7ls/hqdefault.jpg"
     }
   ]
 }

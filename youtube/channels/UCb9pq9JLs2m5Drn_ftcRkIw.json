@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-18T00:33:39.379488",
+  "fetched_at": "2026-01-25T00:34:47.651348",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "جمال القوة",
+      "video_id": "1OXsjcsnf0s",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-01-21T09:03:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1OXsjcsnf0s/hqdefault.jpg"
+    },
+    {
+      "title": "The beauty of strength",
+      "video_id": "5WdC83wEOJU",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-01-18T09:48:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5WdC83wEOJU/hqdefault.jpg"
+    },
     {
       "title": "مافي جاذبية",
       "video_id": "V5bQRb6stcM",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-12-14T09:17:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Pv-8ZUhRX4I/hqdefault.jpg"
-    },
-    {
-      "title": "Before &amp; After",
-      "video_id": "CLOw8_N7wSo",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-12-13T10:30:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CLOw8_N7wSo/hqdefault.jpg"
-    },
-    {
-      "title": "تحكم كامل بالجسم",
-      "video_id": "gXNkoTzfu94",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-11-25T10:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gXNkoTzfu94/hqdefault.jpg"
     }
   ]
 }

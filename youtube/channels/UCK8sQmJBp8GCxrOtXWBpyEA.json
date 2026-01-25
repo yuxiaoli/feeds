@@ -1,56 +1,72 @@
 {
-  "fetched_at": "2026-01-18T00:33:19.750101",
+  "fetched_at": "2026-01-25T00:34:27.539740",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 6,
+  "count": 8,
   "videos": [
     {
-      "title": "Budgeting not one of your strong suits? Get a little help from Search.",
-      "video_id": "owgMScl57Ps",
+      "title": "What’s New in Google Accessibility | Episode 11",
+      "video_id": "OEkPt3jnZTY",
       "channel_title": "Google",
-      "description": "Life adds up fast. Use AI Mode in Search to build a custom budget that actually works for you. #GoogleSearch #AIMode.",
-      "published_at": "2026-01-16T19:01:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/owgMScl57Ps/hqdefault.jpg"
+      "description": "Thanks for tuning into another episode of What's New in Google Accessibility, a series where we share the latest news about our ...",
+      "published_at": "2026-01-23T21:11:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OEkPt3jnZTY/hqdefault.jpg"
     },
     {
-      "title": "Hashem Al-Ghaili on AI Filmmaking with Flow | In the Flow",
-      "video_id": "Bb0oFbZ35qM",
+      "title": "What’s New in Google Accessibility | Episode 11 | American Sign Language",
+      "video_id": "1SLhLQaDOvE",
       "channel_title": "Google",
-      "description": "Continuing our series In the Flow, we sat down with filmmaker https://www.youtube.com/user/hashemalghaili to break down his ...",
-      "published_at": "2026-01-16T00:32:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Bb0oFbZ35qM/hqdefault.jpg"
+      "description": "Thanks for tuning into another episode of What's New in Google Accessibility, a series where we share the latest news about our ...",
+      "published_at": "2026-01-23T21:11:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1SLhLQaDOvE/hqdefault.jpg"
     },
     {
-      "title": "How AI Empowers Artists. Watch the full episode on our channel now.",
-      "video_id": "giZGg6ZWLwo",
+      "title": "How AI Transforms Global Shipping. Watch the full episode on our channel now.",
+      "video_id": "Low6iNjFKsU",
       "channel_title": "Google",
       "description": "This film accompanies Season 5 of the Webby Award-winning podcast Where the Internet Lives, about the unseen world of data ...",
-      "published_at": "2026-01-15T17:36:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/giZGg6ZWLwo/hqdefault.jpg"
+      "published_at": "2026-01-22T20:58:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Low6iNjFKsU/hqdefault.jpg"
     },
     {
-      "title": "Super charging creativity | Where the Internet Lives",
+      "title": "New in Search | Personal Intelligence in AI Mode",
+      "video_id": "8sABhCMxU3c",
+      "channel_title": "Google",
+      "description": "Your favorite Search just got even more helpful with Personal Intelligence in AI Mode. By tapping into your context from Gmail and ...",
+      "published_at": "2026-01-22T16:21:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8sABhCMxU3c/hqdefault.jpg"
+    },
+    {
+      "title": "Meet Personal Intelligence in Google Search",
+      "video_id": "-q0wx8PP2Tk",
+      "channel_title": "Google",
+      "description": "Meet Personal Intelligence in AI Mode in Search. Now, you can securely connect Search to Google apps like Gmail and Google ...",
+      "published_at": "2026-01-22T16:02:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-q0wx8PP2Tk/hqdefault.jpg"
+    },
+    {
+      "title": "Leaps in Logistics | Where the Internet Lives",
+      "video_id": "QdRfaMRjzvw",
+      "channel_title": "Google",
+      "description": "Where the Internet Lives is a Webby Award–winning podcast and mini-documentary series about the fascinating world of data ...",
+      "published_at": "2026-01-21T17:22:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QdRfaMRjzvw/hqdefault.jpg"
+    },
+    {
+      "title": "Niklas Klabunde on Prompts for AI Filmmaking with Flow | In the Flow",
+      "video_id": "hZSDKiM8LvA",
+      "channel_title": "Google",
+      "description": "We sat down with filmmaker Niklas Klabunde as he shares his tips for keeping shots cohesive. Thanks Niklas Klabunde for the ...",
+      "published_at": "2026-01-21T01:10:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hZSDKiM8LvA/hqdefault.jpg"
+    },
+    {
+      "title": "Supercharging Creativity | Where the Internet Lives",
       "video_id": "jiGDzy0sxOI",
       "channel_title": "Google",
       "description": "Where the Internet Lives is a Webby Award–winning podcast and mini-documentary series about the fascinating world of data ...",
       "published_at": "2026-01-14T23:17:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jiGDzy0sxOI/hqdefault.jpg"
-    },
-    {
-      "title": "VP of Gemini Josh Woodward breaks down Personal Intelligence in the Gemini App",
-      "video_id": "va91wTJHFAg",
-      "channel_title": "Google",
-      "description": "Starting today, access is rolling out over the next week to eligible Google AI Pro and AI Ultra subscribers in the U.S. Once enabled, ...",
-      "published_at": "2026-01-14T17:59:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/va91wTJHFAg/hqdefault.jpg"
-    },
-    {
-      "title": "You can axolotl personal questions with Personal Intelligence in Gemini.",
-      "video_id": "ZJ0GLeWAJfA",
-      "channel_title": "Google",
-      "description": "Personal Intelligence draws insights from across your Google apps to provide truly customized responses from Gemini.",
-      "published_at": "2026-01-14T17:32:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZJ0GLeWAJfA/hqdefault.jpg"
     }
   ]
 }
