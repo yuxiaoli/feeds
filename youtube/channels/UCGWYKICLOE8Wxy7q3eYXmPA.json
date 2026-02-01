@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-01-25T00:34:24.096155",
+  "fetched_at": "2026-02-01T00:42:10.747477",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "【分享】肾脏竟然有记忆？ | 细胞智能 | 尼古拉库库什金 | 脑科学 | 进化论 | 真核细胞 | 多细胞生物 | 意识涌现 | 模式识别 | 生物动机 | AI演化趋势 | 单手击掌",
-      "video_id": "syrF9LCWwx4",
+      "title": "【商业】AI应用的黄金时代 | 兰佩尔 | 软件第五次浪潮 | AI原生公司 | 商业模式变革 | 护城河构建 | 专有数据壁垒 | 劳动力替代 | 法律医疗AI | 软件行业范式转移 | 风险投资",
+      "video_id": "SZePy52I9Vc",
       "channel_title": "最佳拍档",
-      "description": "如果我告诉你，你的肾脏也能像大脑一样记住过去，你会感到恐惧还是惊喜？本期视频深度对话分子哲学家尼古拉·库库什金，揭开 ...",
-      "published_at": "2026-01-24T23:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/syrF9LCWwx4/hqdefault.jpg"
+      "description": "软件正在吞噬世界，而AI正在吞噬软件。为什么说现在的AI浪潮不是一次简单的技术迭代，而是软件史上最剧烈的一次推倒重来？",
+      "published_at": "2026-01-31T23:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SZePy52I9Vc/hqdefault.jpg"
     },
     {
-      "title": "【商业】一场百亿美元的豪赌 | 苹果台积电十年盟约 | A系列M系列芯片 | 先进制程 | 3纳米N3 | 晶圆代工 | Fabless | 苹果自研芯片 | CoWoS封装 | AI时代HPC挑战",
-      "video_id": "pZuvLAnwfF4",
+      "title": "【人工智能】语言模型真的到头了吗？| Danijar Hafner | Dreamer核心作者 | Scaling Law | 具身智能 | AGI | 物理规律 | 强化学习 | 视频规模十倍于文本",
+      "video_id": "lv7iLjqANgM",
       "channel_title": "最佳拍档",
-      "description": "你每天使用的iPhone，其性能上限是如何被定义的？这背后，是一场始于十多年前的世纪豪赌。本期视频，我们将揭开苹果与台积电 ...",
-      "published_at": "2026-01-24T09:01:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pZuvLAnwfF4/hqdefault.jpg"
+      "description": "如果AI能在大脑中模拟整个物理世界，人类离AGI还有多远？本期视频带你直击DeepMind核心架构师的深度访谈，揭秘谷歌 ...",
+      "published_at": "2026-01-31T09:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lv7iLjqANgM/hqdefault.jpg"
     },
     {
-      "title": "【分享】为何追求卓越必须极端 | David Senra | 400位企业家传记 | 乔布斯 | 马斯克 | 偏执狂 | 创始人思维 |认知觉醒 | 成功真相 | 极致聚焦 | 财富密码 | 进化论",
-      "video_id": "OR_Tn5rzpDY",
+      "title": "【人工智能】智能的本质 | 马毅教授 | CRATE架构 | 简约性与自洽性 | 编码率降低 | 结构化记忆 | 机器认知相变 | 具身智能 | 智能演化四阶段 | 白盒Transformer",
+      "video_id": "tXZZj3vH1JQ",
       "channel_title": "最佳拍档",
-      "description": "为什么你追求的生活平衡可能正是阻碍你走向卓越的枷锁？本期视频带你走进David Senra的极度偏执世界，看他如何从400本传记中 ...",
-      "published_at": "2026-01-23T23:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OR_Tn5rzpDY/hqdefault.jpg"
+      "description": "机器究竟是拥有了智慧，还是仅仅在进行更高级的概率压缩？本期视频带你对话AI领军人物马毅教授，穿透大模型的喧嚣，触摸智能 ...",
+      "published_at": "2026-01-30T23:01:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tXZZj3vH1JQ/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】AI已入死胡同？| Llion Jones | Scaling Law瓶颈 | CTM架构 | 连续思维机 | 锯齿状智能 | 路径依赖 | 硬件彩票 | Sakana AI | 范式演进",
-      "video_id": "gWR9Axj5fF4",
+      "title": "【人工智能】算力从来不是唯一瓶颈 | PPO之父 | 约翰·舒尔曼 | RLHF架构师 | Thinking Machines | Tinker微调API | 价值函数回归 | 算法巧思 | 强化学习",
+      "video_id": "stx8I31vGJk",
       "channel_title": "最佳拍档",
-      "description": "如果通往AGI的大门从一开始就找错了方向，我们还要在错误的道路上狂奔多久？作为驱动ChatGPT的核心架构Transformer的亲爹之 ...",
-      "published_at": "2026-01-23T09:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gWR9Axj5fF4/hqdefault.jpg"
+      "description": "如果告诉你，两三个人、几台V100 显卡就能搓出GPT-3.5，你还觉得AI是巨头的算力军备竞赛吗？本期视频带你拆解OpenAI灵魂 ...",
+      "published_at": "2026-01-30T09:01:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/stx8I31vGJk/hqdefault.jpg"
     },
     {
-      "title": "【分享】1天重塑整个人生 | Dan Koe | 灵魂挖掘协议 | 认知升级 | 九个进化阶段 | 成功公式 | 身份认同 | 心理失调 | 潜意识 | 深度自省 | 纳瓦尔 | 掌控心智",
-      "video_id": "x-HiHhye2XQ",
+      "title": "【商业】边缘计算决定AI终局 | 高通CEO Cristiano Amon | 本地推理 | 智能眼镜 | 骁龙芯片 | 工业转型 | 算力重构 | 数字化转型 | 芯片革命 | 科技前沿趋势",
+      "video_id": "pfAco3XiwDk",
       "channel_title": "最佳拍档",
-      "description": "为什么你努力办了健身卡、写了创业计划，生活却依旧停滞不前？那是因为你只是在腐烂的地基上建高楼。本期视频带你拆解X 上1.6 ...",
-      "published_at": "2026-01-22T23:01:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x-HiHhye2XQ/hqdefault.jpg"
+      "description": "当智能手机市场趋于饱和，下一个百亿级的增长点在哪里？本期视频带你直击高通CEO阿蒙的达沃斯深度访谈。他预言AI将开启一个 ...",
+      "published_at": "2026-01-29T23:01:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pfAco3XiwDk/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】揭秘GPT5.1推理革命 | 思维链CoT | 多模型智能调度机制 | 记忆功能存储 | 人格化定制 | 主动性Pulse功能 | 普惠AI时代 | 逻辑推理转型 | 后训练技术细节",
-      "video_id": "HUVSgDIlGYs",
+      "title": "【分享】数字人第三弹！大飞的视频好牛啊！",
+      "video_id": "onngUGdWrR8",
       "channel_title": "最佳拍档",
-      "description": "决定AI智商的下个高地在哪？OpenAI内部团队首度揭秘GPT-5.1的研发逻辑，智能不再是单纯的算力堆砌，而是对用户意图、情绪和 ...",
-      "published_at": "2026-01-22T09:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HUVSgDIlGYs/hqdefault.jpg"
+      "description": "这次是自己做的哦！",
+      "published_at": "2026-01-29T15:54:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/onngUGdWrR8/hqdefault.jpg"
     },
     {
-      "title": "【商业】OpenAI收购Pinterest | 特斯拉整合xAI | 持续学习技术突破 | 微软Copilot涨价 | 苹果Siri翻身 | 谷歌广告不拆分 | SSI卖身Meta | 算力需求变化",
-      "video_id": "Hzu-Ot-mB1k",
+      "title": "【人工智能】什么是神经网络 | 轻松入门AI (一) | 手写数字识别 | 权重与偏置 | Sigmoid函数 | 激活值 | 矩阵运算 | 机器学习 | 深度学习原理 | 3Blue1Brown",
+      "video_id": "Mb6TGZOnyfk",
       "channel_title": "最佳拍档",
-      "description": "2026年，硅谷的AI狂飙将进入残酷的大清算与大整合时代。当OpenAI盯上Pinterest的数据家底，当马斯克将xAI强行塞入特斯拉版图 ...",
-      "published_at": "2026-01-21T23:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hzu-Ot-mB1k/hqdefault.jpg"
+      "description": "为什么你的大脑能一眼认出歪歪扭扭的数字3，而传统程序却束手无策？这背后隐藏的，正是神经网络的魔法。本期视频将带你复 ...",
+      "published_at": "2026-01-29T09:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Mb6TGZOnyfk/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】AGI十年预测 | Demis Hassabis | Scaling Law | 世界模型 | Google反击OpenAI | 能源危机解药 | 核聚变控制 | 智能眼镜 | 芯片短缺",
-      "video_id": "EejCqes3MSE",
+      "title": "【人工智能】视觉因果流 | DeepSeek OCR2 | 视觉编码器 | 放弃CLIP | 逻辑重排 | 机器视觉进化 | 语义驱动 | 高效Token压缩 | 攻克复杂报表 | 原生多模态",
+      "video_id": "sfyssVFZvlA",
       "channel_title": "最佳拍档",
-      "description": "当算力堆叠遭遇收益递减，通往AGI的下一块拼图究竟在哪？本期视频带你直击Google AI掌舵人Demis Hassabis的万字深度访谈。",
-      "published_at": "2026-01-21T09:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EejCqes3MSE/hqdefault.jpg"
+      "description": "为什么AI拥有上帝视角却读不懂一张复杂的财务报表？因为它们一直在用像素级扫描的笨办法看世界。本期视频带你 ...",
+      "published_at": "2026-01-28T23:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sfyssVFZvlA/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】死了么APP爆火 | 零代码开发 | 千元成本 | 1.25亿独居人口 | 社交焦虑 | 紧急联系人 | 自动化提醒机制 | ChatGPT | Cursor | 独立开发者 | 苹果榜首",
-      "video_id": "2Q9B9dRsIRk",
+      "title": "【人工智能】xAI的执行密码 | 苏莱曼专访 | 122天建超算 | Cybertruck赌局 | 扁平化组织 | 特斯拉算力 | Grok | MacroHard | AGI的终局 | 3层扁平架构",
+      "video_id": "k4u-VAUOyRM",
       "channel_title": "最佳拍档",
-      "description": "在这个连崩溃都要设置成仅自己可见的时代，你是否担心过，如果意外突然降临，谁能第一个发现你？一款名为死了么的APP在2026 ...",
-      "published_at": "2026-01-21T04:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2Q9B9dRsIRk/hqdefault.jpg"
+      "description": "如何用122天建起一座超级计算机？又如何用一场24小时的赌局，赢走一辆Cybertruck？本期视频，我们将通过xAI核心工程师苏莱曼· ...",
+      "published_at": "2026-01-28T09:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k4u-VAUOyRM/hqdefault.jpg"
     },
     {
-      "title": "【分享】多兴趣者的黄金三年 | Dan Koe | 个人护城河 | 跨界通才 | 跨领域连接力 | 兴趣变现闭环 | 社交媒体杠杆 | 独立创作者经济 | 认知升级 | 第二次文艺复兴 | 认知主权",
-      "video_id": "cJjkj7WLYbs",
+      "title": "【人工智能】Redis之父向AI缴械投降 | Salvatore Sanfilippo | AI Coding的非线性变革 | 不要喝反AI迷魂汤 | 旧人类与半人马 | 拥抱AI",
+      "video_id": "KNNjGSjLRkU",
       "channel_title": "最佳拍档",
-      "description": "你是否因为兴趣太杂、无法专注单一领域而感到焦虑？其实，你正站在人类历史上最好的机会窗口。本期视频带你拆解千万级阅读博 ...",
-      "published_at": "2026-01-20T23:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cJjkj7WLYbs/hqdefault.jpg"
+      "description": "当Redis之父都放下了纯手工写码的执念，转而将代码外包给AI工具，我们是否还在抱着手写代码才是王道的认知，做2026年的清朝 ...",
+      "published_at": "2026-01-27T23:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KNNjGSjLRkU/hqdefault.jpg"
     }
   ]
 }

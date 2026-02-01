@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-25T00:34:28.244281",
+  "fetched_at": "2026-02-01T00:42:14.800817",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Optimize your agent setup (AGENTS.md, custom commands)",
+      "video_id": "g7bG8rzazt8",
+      "channel_title": "Warp",
+      "description": "Already familiar with coding agents in Warp, but want to improve efficiency and quality? This session is for you! We'll cover: ...",
+      "published_at": "2026-01-30T05:48:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g7bG8rzazt8/hqdefault.jpg"
+    },
+    {
+      "title": "Intro to Warp",
+      "video_id": "dpkMXyXKfiY",
+      "channel_title": "Warp",
+      "description": "New to Warp? Join this session to pick of the basics! We'll cover: - ​The essentials of navigating Warp as a terminal - ​How to talk ...",
+      "published_at": "2026-01-29T06:17:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dpkMXyXKfiY/hqdefault.jpg"
+    },
     {
       "title": "Optimize your agent setup - live walkthrough",
       "video_id": "01pAjQryX4c",
@@ -67,22 +83,6 @@
       "description": "Warp now connects with Slack, Linear, and GitHub Actions, letting you assign tasks to the agent directly from the tools your team ...",
       "published_at": "2025-11-20T15:15:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FNefNmbSdmg/hqdefault.jpg"
-    },
-    {
-      "title": "Warp agents can now /plan (Planning Mode)",
-      "video_id": "DawcFWyudV0",
-      "channel_title": "Warp",
-      "description": "How do you keep AI on track? You give it a plan. Warp's new /plan command introduces spec-driven development inside the ...",
-      "published_at": "2025-11-20T15:16:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DawcFWyudV0/hqdefault.jpg"
-    },
-    {
-      "title": "Agents 3.0 — Agents now have Full Terminal Use",
-      "video_id": "gBdehHrtb94",
-      "channel_title": "Warp",
-      "description": "Meet the first AI agent that can actually use the terminal like you do. Warp's Full Terminal Use lets agents interact with REPLs, run ...",
-      "published_at": "2025-11-19T16:43:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gBdehHrtb94/hqdefault.jpg"
     }
   ]
 }

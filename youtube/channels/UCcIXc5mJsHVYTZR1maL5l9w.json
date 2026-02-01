@@ -1,11 +1,43 @@
 {
-  "fetched_at": "2026-01-25T00:34:49.751385",
+  "fetched_at": "2026-02-01T00:42:36.798041",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
-  "count": 10,
+  "count": 25,
   "videos": [
     {
-      "title": "Vertical videos 8",
+      "title": "Talent, immigration, and AI",
+      "video_id": "4LUy_QkFj-M",
+      "channel_title": "DeepLearningAI",
+      "description": "Andrew Ng on why welcoming immigrants has been essential to building strong AI communities, and why attracting global talent ...",
+      "published_at": "2026-01-30T15:06:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4LUy_QkFj-M/hqdefault.jpg"
+    },
+    {
+      "title": "Learn to equip AI agents with reusable skills",
+      "video_id": "qD_5iCe1s1E",
+      "channel_title": "DeepLearningAI",
+      "description": "Enroll now in Agent Skills with Anthropic: https://bit.ly/469a15J In this course, built in collaboration with Anthropic and taught by ...",
+      "published_at": "2026-01-28T13:45:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qD_5iCe1s1E/hqdefault.jpg"
+    },
+    {
+      "title": "Is vibe coding real coding?",
+      "video_id": "w9rF280wlwA",
+      "channel_title": "DeepLearningAI",
+      "description": "Andrew Ng on why openness matters, especially now, as more people build software through vibe coding and AI-assisted ...",
+      "published_at": "2026-01-26T20:03:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w9rF280wlwA/hqdefault.jpg"
+    },
+    {
+      "title": "Unlock data from your files with Agentic Document Extraction",
+      "video_id": "e1uGELOgp2M",
+      "channel_title": "DeepLearningAI",
+      "description": "In our course with LandingAI, \"Document AI: From OCR to Agentic Doc Extraction\", you'll learn to unlock information from files ...",
+      "published_at": "2026-01-26T19:56:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e1uGELOgp2M/hqdefault.jpg"
+    },
+    {
+      "title": "Document AI: How Agents add the brain to OCR&#39;s eyes",
       "video_id": "9B3yvPJVlVw",
       "channel_title": "DeepLearningAI",
       "description": "OCR can process characters but it doesn't understand pixels. OCR has no way to reason about the headers, totals, or checkboxes ...",
@@ -13,7 +45,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9B3yvPJVlVw/hqdefault.jpg"
     },
     {
-      "title": "Andrew Ng on why training LLMs isn’t enough",
+      "title": "&quot;This is not the path to AGI&quot;",
       "video_id": "RzUZUrD7cmY",
       "channel_title": "DeepLearningAI",
       "description": "A lot of what looks like intelligence today was painfully engineered into the data.” Andrew Ng on why training recipes alone won't ...",
@@ -83,6 +115,94 @@
       "description": "What does it take to build a production-ready full-stack agentic application? In this talk by Tyler Slaton, Senior Founding Engineer ...",
       "published_at": "2025-12-05T20:56:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fGSpr8bHxcM/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Tanveer Mittal, Utkarsh Lamba: Building with the Claude Agent SDK",
+      "video_id": "8tg8z-Fi0MU",
+      "channel_title": "DeepLearningAI",
+      "description": "This session, led by Tanveer Mittal and Utkarsh Lamba, members of Technical Staff at Anthropic, explored best practices for ...",
+      "published_at": "2025-12-05T20:53:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8tg8z-Fi0MU/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Stefano Pasquali: Building Trustworthy AI for Finance",
+      "video_id": "EBzqP7njk00",
+      "channel_title": "DeepLearningAI",
+      "description": "This session by Stefano Pasquali, SVP, Head of Financial Services at Domyn introduced Domyn's Sovereign AI architecture, ...",
+      "published_at": "2025-12-05T20:43:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EBzqP7njk00/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Scott Yak: Building MCP Servers That Make Agents More Effective",
+      "video_id": "Xel_mF5CCAo",
+      "channel_title": "DeepLearningAI",
+      "description": "Agents often rely on external tools to help them accomplish their tasks, and external MCP servers are convenient for getting those ...",
+      "published_at": "2025-12-05T20:39:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xel_mF5CCAo/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Scott Hurrey: Scaling Enterprise AI with MCP and A2A",
+      "video_id": "fdt8LfaZlT8",
+      "channel_title": "DeepLearningAI",
+      "description": "Box has evolved enterprise AI integration from custom API code to standardized protocols that eliminate complexity at scale.",
+      "published_at": "2025-12-05T20:33:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fdt8LfaZlT8/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Samraj Moorjani: Accelerate High quality Agent Development with MLflow",
+      "video_id": "qOFKpHEm2zg",
+      "channel_title": "DeepLearningAI",
+      "description": "Building high-quality agents is one of the biggest challenges teams face today, often requiring vibe checks, manual labeling, ...",
+      "published_at": "2025-12-05T20:23:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qOFKpHEm2zg/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Robert Crowe: JAX Made Simple: An Intuitive Guide to Building Fast Neural Networks",
+      "video_id": "FEVFMXvwPuM",
+      "channel_title": "DeepLearningAI",
+      "description": "In this session, Robert Crowe, Product Manager at Google, spoke about Flax NNX, the new, streamlined API for building, ...",
+      "published_at": "2025-12-05T20:08:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FEVFMXvwPuM/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Phillip Snalune: AI Upskilling: A Framework Agnostic Playbook to Scale Adoption",
+      "video_id": "iPu68fiNyBU",
+      "channel_title": "DeepLearningAI",
+      "description": "Industry leaders agree: the missing layer in enterprise AI is hands-on, immersive learning. In this session, Codio founder Phillip ...",
+      "published_at": "2025-12-05T20:04:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iPu68fiNyBU/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Param Singh: Building with Mistral: Open, Powerful, and Ready to Scale",
+      "video_id": "Axlesb8yTro",
+      "channel_title": "DeepLearningAI",
+      "description": "Param Singh, Partner Solution Architect at Mistral AI offered an insightful session on developing and deploying Enterprise AI ...",
+      "published_at": "2025-12-05T19:59:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Axlesb8yTro/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Panel Discussion: Software Development in the Age of AI",
+      "video_id": "bttcJn58J24",
+      "channel_title": "DeepLearningAI",
+      "description": "Artificial intelligence is redefining how software is conceived, built, and maintained. This panel brought together Laurence ...",
+      "published_at": "2025-12-05T19:55:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bttcJn58J24/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Panel: Building Trustworthy AI through Governance, Literacy, and Community",
+      "video_id": "Q_mwaPOQxnc",
+      "channel_title": "DeepLearningAI",
+      "description": "As AI systems move from lab to production, engineers face a new challenge: how to innovate fast while building responsibly.",
+      "published_at": "2025-12-05T19:49:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q_mwaPOQxnc/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 25 x NYC | Panel discussion: Breaking the Limits of AI Growth: from Hardware to Application",
+      "video_id": "e_CR4kN0XE4",
+      "channel_title": "DeepLearningAI",
+      "description": "From large models to real-time applications and product-level tradeoffs, the path to scalable AI is full of hard engineering choices.",
+      "published_at": "2025-12-05T19:43:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e_CR4kN0XE4/hqdefault.jpg"
     }
   ]
 }

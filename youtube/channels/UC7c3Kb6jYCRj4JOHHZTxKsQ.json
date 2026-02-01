@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-01-25T00:34:13.427574",
+  "fetched_at": "2026-02-01T00:42:00.026330",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "How goose helps frustrated coding students",
-      "video_id": "km3OuwyTz3c",
+      "title": "Saving 30 seconds for 180 million developers",
+      "video_id": "XvFVAWEsr0c",
       "channel_title": "GitHub",
-      "description": "Can an AI agent detect when a student is stressed? Angie Jones shares a fascinating project from Leon Noel and Resilient ...",
-      "published_at": "2026-01-24T17:01:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/km3OuwyTz3c/hqdefault.jpg"
+      "description": "How do you make an impact on 180 million developers? Helen Hou-Sandí, Engineering Manager at GitHub, explains the \"Tiny ...",
+      "published_at": "2026-01-31T17:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XvFVAWEsr0c/hqdefault.jpg"
     },
     {
-      "title": "Angie Jones on Goose, MCP, and the future of AI agents | Episode 9 | The GitHub Podcast",
-      "video_id": "ZtpJvs7X3So",
+      "title": "GitHub’s year in review: accessibility, MCP, and tiny wins | Episode 11 | The GitHub Podcast",
+      "video_id": "DW_vw8BkcBU",
       "channel_title": "GitHub",
-      "description": "Abby sits down with Angie Jones, VP of Engineering at Block, live at GitHub Universe to talk about Goose, Block's open source AI ...",
-      "published_at": "2026-01-24T15:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZtpJvs7X3So/hqdefault.jpg"
+      "description": "In this year-in-review episode of The GitHub Podcast, Cassidy and Abby are joined by Helen Hou-Sandí, GitHub's engineering ...",
+      "published_at": "2026-01-31T15:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DW_vw8BkcBU/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Clawdbot 🦀",
-      "video_id": "1iCcUjnAIOM",
+      "title": "Open Source Friday with any-llm library",
+      "video_id": "L9UUCnnTQaM",
       "channel_title": "GitHub",
-      "description": "In this week's Open Source Friday, we sit down with Peter Steinberger to dive into Clawdbot, an open source personal AI assistant ...",
-      "published_at": "2026-01-24T09:29:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1iCcUjnAIOM/hqdefault.jpg"
+      "description": "Join us for Open Source Friday as we welcome Nathan Brake, Senior Machine Learning Engineer at Mozilla.ai and creator of the ...",
+      "published_at": "2026-01-31T07:02:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L9UUCnnTQaM/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Nuxt",
-      "video_id": "UAdUbNEwRjY",
+      "title": "How a designer built an ASCII animation tool with GitHub Copilot",
+      "video_id": "Lxi66vm5hP0",
       "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday featuring Daniel Roe, leader of the Nuxt core team! Discover the latest from the Nuxt project, get ...",
-      "published_at": "2026-01-24T07:14:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UAdUbNEwRjY/hqdefault.jpg"
+      "description": "Designer Cameron Foxly wanted to bring the Copilot mascot to life inside the terminal—so he used GitHub Copilot to help him ...",
+      "published_at": "2026-01-30T23:23:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lxi66vm5hP0/hqdefault.jpg"
     },
     {
-      "title": "Event in Spanish: Open Source Viernes con rOpenSci",
-      "video_id": "Q01Wrp1puP0",
+      "title": "Event in Spanish: Jueves de Quak con Carlos Alarcon y Copilot SDK",
+      "video_id": "nMsuWOkaf9I",
       "channel_title": "GitHub",
-      "description": "Acompáñanos en Open Source Friday para descubrir el Programa de Campeon(a|e)s de rOpenSci, una iniciativa que fortalece ...",
-      "published_at": "2026-01-24T03:58:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q01Wrp1puP0/hqdefault.jpg"
+      "description": "En este episodio de Jueves de Quack nos acompaña @@alarcon7a, un ingeniero increíble y builder de corazón, para meternos ...",
+      "published_at": "2026-01-30T16:55:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nMsuWOkaf9I/hqdefault_live.jpg"
     },
     {
-      "title": "The Download: Cloudflare buys Astro, Copilot in OpenCode, Game Off winners &amp; more",
-      "video_id": "lU9sVU6Arbs",
+      "title": "Building a color palette app with GitHub Copilot SDK",
+      "video_id": "aGDQD3V5mvw",
       "channel_title": "GitHub",
-      "description": "This week on The Download, Christina Warren covers Cloudflare's acquisition of the Astro Technology Company and the winners ...",
-      "published_at": "2026-01-23T18:47:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lU9sVU6Arbs/hqdefault.jpg"
+      "description": "Cassidy Williams has wanted a dedicated color palette manager for years, relying on text files until now. In this Short, she uses the ...",
+      "published_at": "2026-01-30T15:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aGDQD3V5mvw/hqdefault.jpg"
     },
     {
-      "title": "The GitHub Copilot SDK is here! - Rubber Duck Thursdays",
-      "video_id": "6yzGew8wA4A",
+      "title": "Event in Spanish: Jueves de Quack Copilot SDK",
+      "video_id": "aTVwHMrDDls",
       "channel_title": "GitHub",
-      "description": "Come learn about the new GitHub Copilot SDK!",
-      "published_at": "2026-01-23T08:28:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6yzGew8wA4A/hqdefault.jpg"
+      "description": "Vamos a explorar juntos lo ultimo de GitHub!",
+      "published_at": "2026-01-30T12:52:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aTVwHMrDDls/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Let&#39;s build with GitHub Copilot CLI",
-      "video_id": "dGzIEn4MFMQ",
+      "title": "Rubber Duck Thursdays! Let&#39;s build something cool today!",
+      "video_id": "7uzabx0qIC0",
+      "channel_title": "GitHub",
+      "description": "Let's use GitHub to build something sick.",
+      "published_at": "2026-01-30T08:13:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7uzabx0qIC0/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays - Let&#39;s build with GitHub Copilot SDK",
+      "video_id": "IKzfETGGt0E",
       "channel_title": "GitHub",
       "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. This week we'll ...",
-      "published_at": "2026-01-23T00:34:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dGzIEn4MFMQ/hqdefault.jpg"
+      "published_at": "2026-01-30T00:22:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IKzfETGGt0E/hqdefault.jpg"
     },
     {
-      "title": "Add an AI agent to your app with GitHub Copilot SDK",
-      "video_id": "hLzIAWIezBg",
+      "title": "Inside the GitHub Secure Open Source Fund | Episode 10 | The GitHub Podcast",
+      "video_id": "XmCSHr12CO0",
       "channel_title": "GitHub",
-      "description": "The GitHub Copilot SDK is now in technical preview. You can now add an AI agent to any application with just a few lines of code.",
-      "published_at": "2026-01-22T16:01:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hLzIAWIezBg/hqdefault.jpg"
-    },
-    {
-      "title": "Demo: Using GitHub Copilot CLI and yolo mode",
-      "video_id": "UMz8aQ4lOtE",
-      "channel_title": "GitHub",
-      "description": "Tired of approving every single command? @shanselman demonstrates the --yolo command in GitHub Copilot CLI, which allows ...",
-      "published_at": "2026-01-22T00:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UMz8aQ4lOtE/hqdefault.jpg"
+      "description": "In this episode guest host, Greg Cochran, from the GitHub Secure Open Source Fund brings together four maintainers who are ...",
+      "published_at": "2026-01-28T15:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XmCSHr12CO0/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-01-25T00:34:31.733433",
+  "fetched_at": "2026-02-01T00:42:18.572267",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 6,
+  "count": 7,
   "videos": [
+    {
+      "title": "NASA&#39;s SpaceX Crew-12 Flight Crew News Conference (Jan. 30, 2026)",
+      "video_id": "6f-rlnUo5T0",
+      "channel_title": "NASA",
+      "description": "The four members of NASA's SpaceX Crew-12 mission to the International Space Station are talking about their upcoming journey ...",
+      "published_at": "2026-01-30T18:53:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6f-rlnUo5T0/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-12 Mission Overview News Conference (Jan. 30, 2026)",
+      "video_id": "ZTjHB4QipPk",
+      "channel_title": "NASA",
+      "description": "Leaders from NASA and agency partners are holding a news conference at NASA's Johnson Space Center to discuss final ...",
+      "published_at": "2026-01-30T17:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZTjHB4QipPk/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s Artemis II Live Views from Kennedy Space Center",
+      "video_id": "xCrPD7tfcr0",
+      "channel_title": "NASA",
+      "description": "This live feed from our Kennedy Space Center in Florida will provide continuous views of the Artemis II Moon rocket beginning on ...",
+      "published_at": "2026-01-26T21:18:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xCrPD7tfcr0/hqdefault_live.jpg"
+    },
+    {
+      "title": "Share Your #NASAMoonCrew and Get Excited for Artemis II",
+      "video_id": "suUm2fHId8U",
+      "channel_title": "NASA",
+      "description": "NASA will launch the Artemis II mission this year, sending four astronauts on an approximately 10-day journey around the Moon.",
+      "published_at": "2026-01-26T18:24:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/suUm2fHId8U/hqdefault.jpg"
+    },
     {
       "title": "NASA’s Day of Remembrance 2026",
       "video_id": "GzWzo0AXmTg",
@@ -13,36 +45,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/GzWzo0AXmTg/hqdefault.jpg"
     },
     {
-      "title": "NASA Artemis II: Counting Down to Our Next Moon Mission",
-      "video_id": "V0oo_Nybo6w",
-      "channel_title": "NASA",
-      "description": "NASA is heading back to the Moon with Artemis II. With available launch windows from February through April, the first crewed ...",
-      "published_at": "2026-01-21T23:34:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V0oo_Nybo6w/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX Crew-11 Post-Flight News Conference (Jan. 21, 2026)",
-      "video_id": "glb4RtTwL40",
-      "channel_title": "NASA",
-      "description": "After returning to Earth on Jan. 15, the crew members of NASA's SpaceX Crew-11 mission are at NASA's Johnson Space Center ...",
-      "published_at": "2026-01-21T20:06:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/glb4RtTwL40/hqdefault.jpg"
-    },
-    {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
       "video_id": "aB1yRz0HhdY",
       "channel_title": "NASA",
       "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
       "published_at": "2026-01-20T19:41:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/aB1yRz0HhdY/hqdefault_live.jpg"
-    },
-    {
-      "title": "NASA&#39;s Artemis II Live Views from Kennedy Space Center",
-      "video_id": "nrVnsO_rdew",
-      "channel_title": "NASA",
-      "description": "This live feed from our Kennedy Space Center in Florida will provide continuous views of the Artemis II Moon rocket beginning on ...",
-      "published_at": "2026-01-16T19:36:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nrVnsO_rdew/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

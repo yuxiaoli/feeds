@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-01-25T00:34:48.351470",
+  "fetched_at": "2026-02-01T00:42:35.358947",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "Real or AI?",
+      "video_id": "Db6yyXIQYr0",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-01-31T15:11:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Db6yyXIQYr0/hqdefault.jpg"
+    },
+    {
+      "title": "Can we close this trend?",
+      "video_id": "Xmqv4IBKdq8",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-01-26T13:18:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xmqv4IBKdq8/hqdefault.jpg"
+    },
+    {
+      "title": "90+ KG Bodybuilder vs Calisthenics (No Excuses)",
+      "video_id": "Q39xfjAh0hA",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-01-25T16:59:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q39xfjAh0hA/hqdefault.jpg"
+    },
     {
       "title": "Calisthenics vs Circus… Then 2 Guinness Records Fell",
       "video_id": "bKFOoPBnJbw",
@@ -59,30 +83,6 @@
       "description": "Struggling with planche, muscle-ups, or slow progress? Fix it now with my FREE 4-video course: https://www.andrystrong.world ...",
       "published_at": "2026-01-04T13:51:42Z",
       "thumbnail_url": "https://i.ytimg.com/vi/oafJyWm2skg/hqdefault.jpg"
-    },
-    {
-      "title": "New Level Is Coming",
-      "video_id": "RXReoASHwD4",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-12-31T13:45:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RXReoASHwD4/hqdefault.jpg"
-    },
-    {
-      "title": "2026 - New Level Is Coming",
-      "video_id": "OpskXO4pAYE",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-12-26T12:38:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OpskXO4pAYE/hqdefault.jpg"
-    },
-    {
-      "title": "Merry Christmas | Calisthenics version",
-      "video_id": "8sHrYTtew7I",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2025-12-25T03:41:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8sHrYTtew7I/hqdefault.jpg"
     }
   ]
 }

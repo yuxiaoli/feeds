@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-25T00:34:51.888476",
+  "fetched_at": "2026-02-01T00:42:38.981380",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Surrounded by beautiful sound | Bang &amp; Olufsen",
+      "video_id": "6qOcpokoyUw",
+      "channel_title": "Bang & Olufsen",
+      "description": "Come home. Settle in. Hear every detail, placed with precision. Your dream surround sound system starts here.​ #BangOlufsen​",
+      "published_at": "2026-01-27T17:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6qOcpokoyUw/hqdefault.jpg"
+    },
+    {
+      "title": "Surrounded by beautiful sound | Bang &amp; Olufsen",
+      "video_id": "9-ZBmfGFl2k",
+      "channel_title": "Bang & Olufsen",
+      "description": "Come home. Settle in. Hear every detail, placed with precision. Your dream surround sound system starts here.​ #BangOlufsen​",
+      "published_at": "2026-01-27T17:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9-ZBmfGFl2k/hqdefault.jpg"
+    },
     {
       "title": "Surrounded by beautiful sound | Beosound Premiere &amp; Beolab 8",
       "video_id": "bWOTrmVM58U",
@@ -67,22 +83,6 @@
       "description": "Get in, we're going on a journey. Through 100 years of sound. And beyond. #BangOlufsen #SoundElevated.",
       "published_at": "2025-12-27T10:00:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8VUHS0Zs1rU/hqdefault.jpg"
-    },
-    {
-      "title": "Sound. Elevated. | Bang &amp; Olufsen",
-      "video_id": "HjhVXrsU3jY",
-      "channel_title": "Bang & Olufsen",
-      "description": "Get in, we're going on a journey. Through 100 years of sound. And beyond. #BangOlufsen #SoundElevated.",
-      "published_at": "2025-12-27T10:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HjhVXrsU3jY/hqdefault.jpg"
-    },
-    {
-      "title": "Happy Holidays | Bang &amp; Olufsen",
-      "video_id": "O1chhLHKbN4",
-      "channel_title": "Bang & Olufsen",
-      "description": "Happy holidays, to you and yours. Now's the time to unwind, reconnect, and let the music bring you closer. #BangOlufsen.",
-      "published_at": "2025-12-24T09:00:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O1chhLHKbN4/hqdefault.jpg"
     }
   ]
 }

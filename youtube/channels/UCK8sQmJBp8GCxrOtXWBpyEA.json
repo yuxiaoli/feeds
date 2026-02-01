@@ -1,32 +1,56 @@
 {
-  "fetched_at": "2026-01-25T00:34:27.539740",
+  "fetched_at": "2026-02-01T00:42:14.075323",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 8,
+  "count": 7,
   "videos": [
     {
-      "title": "What’s New in Google Accessibility | Episode 11",
-      "video_id": "OEkPt3jnZTY",
+      "title": "Ready for your debut?",
+      "video_id": "rFOY8xiiCm4",
       "channel_title": "Google",
-      "description": "Thanks for tuning into another episode of What's New in Google Accessibility, a series where we share the latest news about our ...",
-      "published_at": "2026-01-23T21:11:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OEkPt3jnZTY/hqdefault.jpg"
+      "description": "Search \"bridgerton\" for a dazzling surprise.",
+      "published_at": "2026-01-31T15:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rFOY8xiiCm4/hqdefault.jpg"
     },
     {
-      "title": "What’s New in Google Accessibility | Episode 11 | American Sign Language",
-      "video_id": "1SLhLQaDOvE",
+      "title": "Project Genie | The Latest in World Models from Google DeepMind",
+      "video_id": "PAU2VeoVplg",
       "channel_title": "Google",
-      "description": "Thanks for tuning into another episode of What's New in Google Accessibility, a series where we share the latest news about our ...",
-      "published_at": "2026-01-23T21:11:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1SLhLQaDOvE/hqdefault.jpg"
+      "description": "In the latest episode of Release Notes from Google, Diego Rivas, Shlomi Fruchter, and Jack Parker-Holder from the Project Genie ...",
+      "published_at": "2026-01-29T23:35:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PAU2VeoVplg/hqdefault.jpg"
     },
     {
-      "title": "How AI Transforms Global Shipping. Watch the full episode on our channel now.",
-      "video_id": "Low6iNjFKsU",
+      "title": "Coding for Good: AI vs Disasters. Watch the full episode on our channel now.",
+      "video_id": "bHL3A84-RwQ",
       "channel_title": "Google",
       "description": "This film accompanies Season 5 of the Webby Award-winning podcast Where the Internet Lives, about the unseen world of data ...",
-      "published_at": "2026-01-22T20:58:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Low6iNjFKsU/hqdefault.jpg"
+      "published_at": "2026-01-29T19:07:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bHL3A84-RwQ/hqdefault.jpg"
+    },
+    {
+      "title": "Coding the future | Where the Internet Lives",
+      "video_id": "vFe-FrZSAKo",
+      "channel_title": "Google",
+      "description": "Technovation is the world's largest accelerator for girls and young women. We journey to North Carolina, where we hear directly ...",
+      "published_at": "2026-01-28T22:33:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vFe-FrZSAKo/hqdefault.jpg"
+    },
+    {
+      "title": "Get more done with 3 new AI features coming to Chrome, broken down by VP Parisa Tabriz",
+      "video_id": "npHUZP36gAI",
+      "channel_title": "Google",
+      "description": "Parisa Tabriz, VP of Chrome, shares 3 ways you can use the powerful new AI features coming to Chrome to get more done, ...",
+      "published_at": "2026-01-28T18:29:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/npHUZP36gAI/hqdefault.jpg"
+    },
+    {
+      "title": "From Discovery to Delivery | New Ways to Shop with Google",
+      "video_id": "1WJLUXbAK9o",
+      "channel_title": "Google",
+      "description": "See how Google helps you go from discovery to decision to delivery. Follow a runner's shopping journey as they use AI Mode in ...",
+      "published_at": "2026-01-27T18:12:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1WJLUXbAK9o/hqdefault.jpg"
     },
     {
       "title": "New in Search | Personal Intelligence in AI Mode",
@@ -35,38 +59,6 @@
       "description": "Your favorite Search just got even more helpful with Personal Intelligence in AI Mode. By tapping into your context from Gmail and ...",
       "published_at": "2026-01-22T16:21:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8sABhCMxU3c/hqdefault.jpg"
-    },
-    {
-      "title": "Meet Personal Intelligence in Google Search",
-      "video_id": "-q0wx8PP2Tk",
-      "channel_title": "Google",
-      "description": "Meet Personal Intelligence in AI Mode in Search. Now, you can securely connect Search to Google apps like Gmail and Google ...",
-      "published_at": "2026-01-22T16:02:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-q0wx8PP2Tk/hqdefault.jpg"
-    },
-    {
-      "title": "Leaps in Logistics | Where the Internet Lives",
-      "video_id": "QdRfaMRjzvw",
-      "channel_title": "Google",
-      "description": "Where the Internet Lives is a Webby Award–winning podcast and mini-documentary series about the fascinating world of data ...",
-      "published_at": "2026-01-21T17:22:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QdRfaMRjzvw/hqdefault.jpg"
-    },
-    {
-      "title": "Niklas Klabunde on Prompts for AI Filmmaking with Flow | In the Flow",
-      "video_id": "hZSDKiM8LvA",
-      "channel_title": "Google",
-      "description": "We sat down with filmmaker Niklas Klabunde as he shares his tips for keeping shots cohesive. Thanks Niklas Klabunde for the ...",
-      "published_at": "2026-01-21T01:10:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hZSDKiM8LvA/hqdefault.jpg"
-    },
-    {
-      "title": "Supercharging Creativity | Where the Internet Lives",
-      "video_id": "jiGDzy0sxOI",
-      "channel_title": "Google",
-      "description": "Where the Internet Lives is a Webby Award–winning podcast and mini-documentary series about the fascinating world of data ...",
-      "published_at": "2026-01-14T23:17:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jiGDzy0sxOI/hqdefault.jpg"
     }
   ]
 }

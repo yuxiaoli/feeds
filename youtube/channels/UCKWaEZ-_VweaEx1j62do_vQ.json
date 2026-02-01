@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-01-25T00:34:30.361387",
+  "fetched_at": "2026-02-01T00:42:17.070408",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
-  "count": 25,
+  "count": 10,
   "videos": [
+    {
+      "title": "What Is Vibe Coding? Agentic AI Meets Prompt Engineering",
+      "video_id": "Y68FF_nUSWE",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-01-31T12:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y68FF_nUSWE/hqdefault.jpg"
+    },
+    {
+      "title": "OpenClaw (Clawdbot): Open-source agents go mainstream",
+      "video_id": "M-i1Uhzb1xA",
+      "channel_title": "IBM Technology",
+      "description": "Play GRAMMY IQ → https://ibm.biz/BdpdYH Explore the podcast→ https://ibm.biz/Bdpdtv Have open-source AI agents finally gone ...",
+      "published_at": "2026-01-30T11:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M-i1Uhzb1xA/hqdefault.jpg"
+    },
+    {
+      "title": "Securing AI for the Quantum Era: A CISOs Cyber Security Guide",
+      "video_id": "gw29HhUoH_I",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified Quantum Computation using Qiskit v2.X Developer? Register now and use code IBMTechYT20 for ...",
+      "published_at": "2026-01-29T12:01:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gw29HhUoH_I/hqdefault.jpg"
+    },
+    {
+      "title": "Build AI Skills and Stay Relevant in the AI Economy",
+      "video_id": "x1hyuvUUR0w",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-01-27T12:01:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x1hyuvUUR0w/hqdefault.jpg"
+    },
     {
       "title": "LLM vs. SLM vs. FM: Choosing the Right AI Model",
       "video_id": "AVQzG2MY858",
@@ -11,46 +43,6 @@
       "description": "Ready to become a certified Certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of ...",
       "published_at": "2026-01-24T12:00:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AVQzG2MY858/hqdefault.jpg"
-    },
-    {
-      "title": "The new AI race: Enterprise innovation in 2026",
-      "video_id": "s3SHPOByMTY",
-      "channel_title": "IBM Technology",
-      "description": "Read the Enterprise 2030 study → https://ibm.biz/BdpcYE Is Claude Code having its ChatGPT moment? This week on Mixture of ...",
-      "published_at": "2026-01-23T11:01:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s3SHPOByMTY/hqdefault.jpg"
-    },
-    {
-      "title": "AI Phishing: The New Threat",
-      "video_id": "7ubj_vQ9BF0",
-      "channel_title": "IBM Technology",
-      "description": "AI-written phishing emails are nearly undetectable. Learn why social engineering is AI's biggest cybersecurity threat and how to ...",
-      "published_at": "2026-01-22T17:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7ubj_vQ9BF0/hqdefault.jpg"
-    },
-    {
-      "title": "Federated Learning &amp; Encrypted AI Agents: Secure Data &amp; AI Made Simple",
-      "video_id": "2P9DOtg4gP4",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Architect - Cloud Pak for Data V4.7? Register now and use code IBMTechYT20 for 20% off of your ...",
-      "published_at": "2026-01-22T12:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2P9DOtg4gP4/hqdefault.jpg"
-    },
-    {
-      "title": "Most cybersecurity training doesn’t work. Can we change that?",
-      "video_id": "l0XwNeGGPnQ",
-      "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/BdbW4u Learn more about the cyber range → https://ibm.biz/BdbW4L AI has changed the ...",
-      "published_at": "2026-01-21T11:01:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l0XwNeGGPnQ/hqdefault.jpg"
-    },
-    {
-      "title": "AI &amp; Education: Generative AI &amp; the Future of Critical Thinking",
-      "video_id": "k7PvscqGD24",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-01-20T12:01:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k7PvscqGD24/hqdefault.jpg"
     },
     {
       "title": "Mistral 3 vs DeepSeek-V3.2",
@@ -91,118 +83,6 @@
       "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
       "published_at": "2025-11-05T10:01:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
-    },
-    {
-      "title": "Can you spot the social engineering trap?",
-      "video_id": "Ys2IjNjdK2E",
-      "channel_title": "IBM Technology",
-      "description": "She spilled coffee on her resume… or was it bait? ☕   Discover how social engineers use human hacking and physical security ...",
-      "published_at": "2025-10-31T16:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ys2IjNjdK2E/hqdefault.jpg"
-    },
-    {
-      "title": "Decode Black Boxes with Explainable AI: Building Transparent AI Agents",
-      "video_id": "4_LIxSjc3H0",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-10-18T11:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4_LIxSjc3H0/hqdefault.jpg"
-    },
-    {
-      "title": "Building Decision Agents with LLMs &amp; Machine Learning Models",
-      "video_id": "mRkJTXDromw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-25T11:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mRkJTXDromw/hqdefault.jpg"
-    },
-    {
-      "title": "AI Agents &amp; Mainframe: Optimized Systems Powered by LLMs",
-      "video_id": "IRa6XmG8QCQ",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Mainframe Modernization Architect? Register now and use code IBMTechYT20 for 20% off ...",
-      "published_at": "2025-09-21T11:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IRa6XmG8QCQ/hqdefault.jpg"
-    },
-    {
-      "title": "Building Trustworthy AI Agents with Hybrid RAG",
-      "video_id": "l9LfC98tE_4",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-16T11:01:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l9LfC98tE_4/hqdefault.jpg"
-    },
-    {
-      "title": "Explainable AI: Demystifying AI Agents Decision-Making",
-      "video_id": "yJkCuEu3K68",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Governance Lifecycle Advisor? Register now and use code IBMTechYT20 for 20% off of ...",
-      "published_at": "2025-08-21T11:01:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yJkCuEu3K68/hqdefault.jpg"
-    },
-    {
-      "title": "The Smart House: Hybrid Cloud &amp; XaaS Transform IT Infrastructure",
-      "video_id": "ctUIpkE9EKA",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified Professional Architect ? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-08-05T11:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ctUIpkE9EKA/hqdefault.jpg"
-    },
-    {
-      "title": "Waymo&#39;s AI Learns to Drive",
-      "video_id": "wd2FAz4v8iw",
-      "channel_title": "IBM Technology",
-      "description": "Listen how Waymo might be using reinforcement learning and generative AI to adapt self-driving cars to local environments, like ...",
-      "published_at": "2025-07-03T17:41:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wd2FAz4v8iw/hqdefault.jpg"
-    },
-    {
-      "title": "IBM Think 2025, OpenAI Windsurf acquisition, reasoning models and hallucinations",
-      "video_id": "5M-VD9F1W7A",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about artificial intelligence → https://ibm.biz/BdnvEu Has AI hallucination gotten out of control? In episode 54 of ...",
-      "published_at": "2025-05-09T10:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5M-VD9F1W7A/hqdefault.jpg"
-    },
-    {
-      "title": "Modern Mainframes: Myths vs Reality",
-      "video_id": "xgPTIBUkumQ",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about what is a mainframe here → https://www.ibm.com/think/topics/mainframe Think mainframes are outdated?",
-      "published_at": "2025-03-18T17:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xgPTIBUkumQ/hqdefault.jpg"
-    },
-    {
-      "title": "Logistic Regression in Machine Learning",
-      "video_id": "_tEAUa4kV9M",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Logistic Regression here → https://ibm.biz/BdGC5C Discover how logistic regression powers binary ...",
-      "published_at": "2025-03-04T20:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_tEAUa4kV9M/hqdefault.jpg"
-    },
-    {
-      "title": "Enterprise Grade Foundation Models",
-      "video_id": "AOc8OKVwOEw",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Enterprise AI here → https://www.ibm.com/think/topics/enterprise-ai Explore how Enterprise Grade Foundation ...",
-      "published_at": "2025-03-01T19:14:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AOc8OKVwOEw/hqdefault.jpg"
-    },
-    {
-      "title": "LangChain RAG: Optimizing AI Models for Accurate Responses",
-      "video_id": "cDn7bf84LsM",
-      "channel_title": "IBM Technology",
-      "description": "Want to try LangChain RAG for yourself? Find the code here → https://ibm.biz/BdGbGR Ready to become a certified Associate ...",
-      "published_at": "2025-02-13T12:01:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cDn7bf84LsM/hqdefault.jpg"
-    },
-    {
-      "title": "DeepSeek: The Future of AI?",
-      "video_id": "-582ycBs5vw",
-      "channel_title": "IBM Technology",
-      "description": "Want to learn how to choose the right Foundation Model? Read the ebook here ...",
-      "published_at": "2025-01-30T21:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-582ycBs5vw/hqdefault.jpg"
     }
   ]
 }

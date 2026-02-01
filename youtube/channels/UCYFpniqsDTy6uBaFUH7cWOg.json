@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-01-25T00:34:44.756023",
+  "fetched_at": "2026-02-01T00:42:31.687324",
   "channel_id": "UCYFpniqsDTy6uBaFUH7cWOg",
   "channel_title": "NS Production",
   "count": 10,
   "videos": [
-    {
-      "title": "Մասիս նկարելուց, նաև նկարում է թե ոնց են կորցրել Մասիսը | Հայկ Ղազարյան",
-      "video_id": "djxLBxCSA6c",
-      "channel_title": "NS Production",
-      "description": "Կյանքի Էջեր հաղորդաշարում Գարիկ Ուրումյանի հյուրերն է ...",
-      "published_at": "2025-12-05T20:30:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/djxLBxCSA6c/hqdefault.jpg"
-    },
     {
       "title": "Khachatryans Move",
       "video_id": "Gt2zr2-lWpw",
@@ -83,6 +75,14 @@
       "description": "With You - Khachatryans Music: Khachatryans Video: NS Production. ☑NS Production ○Social Networks▽ ...",
       "published_at": "2025-08-05T17:00:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1yY7QGlmU0g/hqdefault.jpg"
+    },
+    {
+      "title": "Khachatryans - Where Are You",
+      "video_id": "rEuOZprMH7o",
+      "channel_title": "NS Production",
+      "description": "Where Are You - Khachatryans Music: Khachatryans Video: NS Production. ☑NS Production ○Social Networks▽ ...",
+      "published_at": "2025-08-04T16:15:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rEuOZprMH7o/hqdefault.jpg"
     }
   ]
 }

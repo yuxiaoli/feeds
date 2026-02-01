@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-25T00:34:44.035613",
+  "fetched_at": "2026-02-01T00:42:31.000001",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
-  "count": 25,
+  "count": 10,
   "videos": [
+    {
+      "title": "Introducing Prism, a free workspace for scientists to write and collaborate on research",
+      "video_id": "xnInEsaaj9c",
+      "channel_title": "OpenAI",
+      "description": "As AI begins to meaningfully accelerate scientific discovery, we're taking an early step to reduce friction in day-to-day research ...",
+      "published_at": "2026-01-27T18:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xnInEsaaj9c/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI Town Hall with Sam Altman",
+      "video_id": "Wpxv-8nG8ec",
+      "channel_title": "OpenAI",
+      "description": "Sam Altman answers questions and discusses the future of AI with builders from across the AI ecosystem. 00:00 Introduction ...",
+      "published_at": "2026-01-27T01:06:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wpxv-8nG8ec/hqdefault.jpg"
+    },
     {
       "title": "Build Hour: Apps in ChatGPT",
       "video_id": "mFG-4vUJ0kI",
@@ -67,142 +83,6 @@
       "description": "Liz used ChatGPT throughout her teenage son's cancer treatment to translate reports, prepare questions, and have more informed ...",
       "published_at": "2026-01-08T17:15:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/uZ_BMwB647A/hqdefault.jpg"
-    },
-    {
-      "title": "Personalized nutrition tips with ChatGPT",
-      "video_id": "Aj4Wecpkee8",
-      "channel_title": "OpenAI",
-      "description": "We're introducing ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT's ...",
-      "published_at": "2026-01-07T19:45:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Aj4Wecpkee8/hqdefault.jpg"
-    },
-    {
-      "title": "Securely connecting your information and apps with ChatGPT Health",
-      "video_id": "Z82cxeuCZ_I",
-      "channel_title": "OpenAI",
-      "description": "We're introducing ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT's ...",
-      "published_at": "2026-01-07T19:45:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z82cxeuCZ_I/hqdefault.jpg"
-    },
-    {
-      "title": "Preparing for a doctor’s appointment with ChatGPT",
-      "video_id": "30RRJsIHmbQ",
-      "channel_title": "OpenAI",
-      "description": "We're introducing ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT's ...",
-      "published_at": "2026-01-07T19:45:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/30RRJsIHmbQ/hqdefault.jpg"
-    },
-    {
-      "title": "Understanding your Scan Results | with ChatGPT",
-      "video_id": "rXuKh4e6gw4",
-      "channel_title": "OpenAI",
-      "description": "Burt uses ChatGPT to navigate life with two forms of cancer, supporting him in understanding scans, preparing for appointments, ...",
-      "published_at": "2026-01-07T16:27:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rXuKh4e6gw4/hqdefault.jpg"
-    },
-    {
-      "title": "Understanding Inflammation | with ChatGPT",
-      "video_id": "X4birkVaLas",
-      "channel_title": "OpenAI",
-      "description": "Living with heart failure, Steve uses ChatGPT to carry out his doctor's care plan by tracking his diet, medications, and ...",
-      "published_at": "2026-01-07T00:22:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X4birkVaLas/hqdefault.jpg"
-    },
-    {
-      "title": "Balancing Motherhood | with ChatGPT",
-      "video_id": "IDyHqwyHWGw",
-      "channel_title": "OpenAI",
-      "description": "As a mom of two toddlers, Lauren uses ChatGPT to find time for herself through flexible workouts that fit into the unpredictable ...",
-      "published_at": "2026-01-06T17:40:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IDyHqwyHWGw/hqdefault.jpg"
-    },
-    {
-      "title": "Commonwealth Bank of Australia builds AI fluency at scale",
-      "video_id": "z6h7XYxQpGs",
-      "channel_title": "OpenAI",
-      "description": "By rolling out ChatGPT Enterprise across its workforce, CBA is improving how teams work and deliver better outcomes for ...",
-      "published_at": "2026-01-06T01:05:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z6h7XYxQpGs/hqdefault.jpg"
-    },
-    {
-      "title": "BNY People uses OpenAI",
-      "video_id": "_PI32rbRh_0",
-      "channel_title": "OpenAI",
-      "description": "See how AI literacy scales across the enterprise when learning is built into the work. 20000 BNY employees have created their ...",
-      "published_at": "2026-01-06T00:05:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_PI32rbRh_0/hqdefault.jpg"
-    },
-    {
-      "title": "BNY Sales uses OpenAI",
-      "video_id": "XrEWL98JOIY",
-      "channel_title": "OpenAI",
-      "description": "See how AI gives teams more time for what matters most: BNY's clients. With deep research, advisors can cut planning time by ...",
-      "published_at": "2026-01-05T18:51:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XrEWL98JOIY/hqdefault.jpg"
-    },
-    {
-      "title": "BNY Legal uses OpenAI",
-      "video_id": "t6pyiLyol0Q",
-      "channel_title": "OpenAI",
-      "description": "ChatGPT helps members of BNY's Legal team cut contract review time by up to 75%. Get the full story at ...",
-      "published_at": "2026-01-05T18:28:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t6pyiLyol0Q/hqdefault.jpg"
-    },
-    {
-      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
-      "video_id": "7eB5cXNNG2k",
-      "channel_title": "OpenAI",
-      "description": "Leaders at BNY share how they put AI directly into the hands of employees across the firm, powering Eliza 2.0 and enabling ...",
-      "published_at": "2026-01-05T18:08:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7eB5cXNNG2k/hqdefault.jpg"
-    },
-    {
-      "title": "Navigating Health | with ChatGPT",
-      "video_id": "305lqu-fmbg",
-      "channel_title": "OpenAI",
-      "description": "Every day, millions of people ask ChatGPT about their health – from breaking down medical information, preparing questions for ...",
-      "published_at": "2026-01-05T17:09:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/305lqu-fmbg/hqdefault.jpg"
-    },
-    {
-      "title": "Kirana Store with ChatGPT",
-      "video_id": "6bttVzM1tps",
-      "channel_title": "OpenAI",
-      "description": "Turn your hard work into something big, with ChatGPT. : “Ajib Dastan Hai Yeh” by Lata Mangeshkar [Saregama Music]",
-      "published_at": "2025-12-22T19:44:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6bttVzM1tps/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT Images",
-      "video_id": "DPBtd57p5Mg",
-      "channel_title": "OpenAI",
-      "description": "We're releasing a new version of ChatGPT Images⁠, powered by our new flagship image generation model. Now, whether you're ...",
-      "published_at": "2025-12-16T18:13:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DPBtd57p5Mg/hqdefault.jpg"
-    },
-    {
-      "title": "10 years.",
-      "video_id": "8JXwrVQQ4jw",
-      "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2025-12-11T21:33:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8JXwrVQQ4jw/hqdefault.jpg"
-    },
-    {
-      "title": "What&#39;s New with ChatGPT Voice",
-      "video_id": "4jBcK0cYass",
-      "channel_title": "OpenAI",
-      "description": "You can now use ChatGPT Voice right inside chat — no separate mode needed. You can talk, watch answers appear, review ...",
-      "published_at": "2025-12-05T19:07:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4jBcK0cYass/hqdefault.jpg"
-    },
-    {
-      "title": "Build Hour: Agent Memory Patterns",
-      "video_id": "WsGVXiWzTpI",
-      "channel_title": "OpenAI",
-      "description": "AI agents don't just reason — they remember. In this Build Hour, we deep-dive into context engineering techniques that enable ...",
-      "published_at": "2025-12-04T20:28:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WsGVXiWzTpI/hqdefault.jpg"
     }
   ]
 }

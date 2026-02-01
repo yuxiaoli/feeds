@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-25T00:34:29.673303",
+  "fetched_at": "2026-02-01T00:42:16.298224",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 25,
   "videos": [
+    {
+      "title": "算法选中的“绿色黄金”：抹茶全球爆火背后的商业逆袭史",
+      "video_id": "thUc2wdtUTY",
+      "channel_title": "硅谷101",
+      "description": "2025年，什么资产的涨幅能跑赢英伟达，甚至把黄金甩在身后？答案竟然是——抹茶。 在纽约，一个抹茶冰淇淋卖9美元，月营业额 ...",
+      "published_at": "2026-01-28T06:00:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/thUc2wdtUTY/hqdefault.jpg"
+    },
+    {
+      "title": "CES 2026：探展50个AI项目背后的泡沫、野心与非共识",
+      "video_id": "Hemlsyob1Ng",
+      "channel_title": "硅谷101",
+      "description": "在2026年CES的展馆里，AI已经渗透每个角落，却依然没有等到那个“iPhone时刻”。今年我们跑断了腿，探展了50个AI项目，从人形 ...",
+      "published_at": "2026-01-26T12:39:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Hemlsyob1Ng/hqdefault.jpg"
+    },
     {
       "title": "探展CES 2026：与吉利聊聊开始“读懂”世界的汽车，与Physical AI的“GPT时刻”【赞助】",
       "video_id": "Xj6W71Gt1-w",
@@ -187,22 +203,6 @@
       "description": "AI浪潮之下，一场关于算力的“闪电战”已经打响。当AWS、谷歌云等传统巨头在GPU短缺中挣扎时，一个千亿美元的“新 ...",
       "published_at": "2025-10-23T02:36:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8ndEN6VVlUw/hqdefault.jpg"
-    },
-    {
-      "title": "穿越热潮周期，硬技术公司的生存之道｜侯晓迪硅谷101年度线下大会演讲（全英）｜Alignment 2025",
-      "video_id": "7d2QdCv4qNU",
-      "channel_title": "硅谷101",
-      "description": "侯晓迪是自动驾驶界最有故事的人之一。他是图森未来联合创始人，曾担任图森CTO、董事会主席、总裁及CEO。如今，侯晓迪的新 ...",
-      "published_at": "2025-10-20T01:12:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7d2QdCv4qNU/hqdefault.jpg"
-    },
-    {
-      "title": "AI解决了我的4万封未读邮件｜101 Weekly｜AI应用实验室",
-      "video_id": "ukR7dvFWnIQ",
-      "channel_title": "硅谷101",
-      "description": "【AI应用实验室系列】当AI的焦点从军备竞赛转向日常痛点，我们的电子邮箱正成为下一个被重塑的战场。面对信息过载的收件箱， ...",
-      "published_at": "2025-10-16T23:38:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ukR7dvFWnIQ/hqdefault.jpg"
     }
   ]
 }

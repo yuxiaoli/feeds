@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-25T00:34:06.345545",
+  "fetched_at": "2026-02-01T00:41:52.851099",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
+    {
+      "title": "Instant Access Snapshots for Azure Ultra Disk &amp; Premium SSD v2 | Technical Demo",
+      "video_id": "ujoa7grUD1E",
+      "channel_title": "Microsoft Azure",
+      "description": "Currently in public preview, this demo showcases Instant Access Snapshots for Azure Ultra Disk and Premium SSD v2, enabling ...",
+      "published_at": "2026-01-28T14:56:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ujoa7grUD1E/hqdefault.jpg"
+    },
+    {
+      "title": "Silicon to Systems: What powers Microsoft&#39;s AI Infrastructure",
+      "video_id": "zFqxwv-fiWI",
+      "channel_title": "Microsoft Azure",
+      "description": "What happens the moment you ask Copilot a question or join a Teams call? Behind every AI interaction is an invisible stack of ...",
+      "published_at": "2026-01-27T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zFqxwv-fiWI/hqdefault.jpg"
+    },
     {
       "title": "How to back up on-premises Windows VMs to Azure",
       "video_id": "h8wYYIl03DA",
@@ -11,22 +27,6 @@
       "description": "A visual guide that shows you steps for backing up an on-premises Windows Server virtual machine (VM) with Azure Backup.",
       "published_at": "2026-01-21T17:02:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/h8wYYIl03DA/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft for Consumer Goods: Connect your brands, employees, and consumers",
-      "video_id": "tofBLaZtAXQ",
-      "channel_title": "Microsoft Azure",
-      "description": "With Microsoft for Consumer Goods, learn how you can use AI-powered data and insights to drive brand equity and build brands ...",
-      "published_at": "2026-01-21T16:26:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tofBLaZtAXQ/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Ignite 2025: Veeam and Azure Storage on entering a new era of data security",
-      "video_id": "mhyYiT4m16o",
-      "channel_title": "Microsoft Azure",
-      "description": "At Microsoft Ignite, Lissa Kurnik connected with Johan Huttenga from Veeam to discuss how Veeam and Microsoft Azure work ...",
-      "published_at": "2026-01-21T15:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mhyYiT4m16o/hqdefault.jpg"
     },
     {
       "title": "Dragon Copilot Admin Center",

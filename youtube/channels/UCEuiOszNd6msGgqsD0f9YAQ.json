@@ -1,208 +1,88 @@
 {
-  "fetched_at": "2026-01-25T00:34:21.326032",
+  "fetched_at": "2026-02-01T00:42:07.930525",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
-  "count": 25,
+  "count": 10,
   "videos": [
     {
-      "title": "Cyclone Harry unleashes record waves and flooding across the Mediterranean",
-      "video_id": "nyoy1JqoMOI",
+      "title": "NASA’s Artemis II mission animation",
+      "video_id": "uzZDT0-yT8k",
       "channel_title": "Interesting Engineering",
-      "description": "Severe storms linked to Cyclone Harry battered Sicily, Malta, and southern Spain, bringing torrential rain, destructive winds, and ...",
-      "published_at": "2026-01-23T14:03:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nyoy1JqoMOI/hqdefault.jpg"
+      "description": "NASA has released a new animation showing how the Artemis II mission will launch, fly, and be manually piloted, an essential ...",
+      "published_at": "2026-01-31T17:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uzZDT0-yT8k/hqdefault.jpg"
     },
     {
-      "title": "Elon Musk predicts a robot-majority future in first Davos appearance",
-      "video_id": "GdZMpS3O1BY",
+      "title": "Humanity inches closer to global catastrophe",
+      "video_id": "11_WeIyXFYs",
       "channel_title": "Interesting Engineering",
-      "description": "During his debut at the World Economic Forum in Davos, Elon Musk outlined a future driven by humanoid robots, advanced AI, ...",
-      "published_at": "2026-01-23T11:50:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GdZMpS3O1BY/hqdefault.jpg"
+      "description": "The Doomsday Clock has been moved to just 85 seconds before midnight — its closest ever setting — as scientists warn that ...",
+      "published_at": "2026-01-31T14:30:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/11_WeIyXFYs/hqdefault.jpg"
     },
     {
-      "title": "At Davos 2026, AI’s next phase comes into focus",
-      "video_id": "7qNEbc4QF0U",
+      "title": "Tesla puts basic autosteer behind a paywall",
+      "video_id": "E3jKUIg09RQ",
       "channel_title": "Interesting Engineering",
-      "description": "At Davos 2026, global leaders framed AI as one of the largest infrastructure buildouts the world has ever seen; stretching from ...",
-      "published_at": "2026-01-23T07:03:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7qNEbc4QF0U/hqdefault.jpg"
+      "description": "Tesla no longer includes its lane-centering Autosteer system as standard on new Model 3 and Model Y vehicles in North America, ...",
+      "published_at": "2026-01-31T09:30:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E3jKUIg09RQ/hqdefault.jpg"
     },
     {
-      "title": "Roboticist&#39;s recreate “Thing” from The Addams Family",
-      "video_id": "Uc9JY6CKwOQ",
+      "title": "Has Google just destroyed game development with AI?",
+      "video_id": "5pB0Xzm4_PU",
       "channel_title": "Interesting Engineering",
-      "description": "This robotic hand can detach from its arm, crawl across surfaces, and grab objects on its own, reminding \"Thing\" from The Addams ...",
-      "published_at": "2026-01-22T16:17:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Uc9JY6CKwOQ/hqdefault.jpg"
+      "description": "Google DeepMind's experimental Project Genie can generate and simulate interactive 3D worlds from simple prompts, hinting at ...",
+      "published_at": "2026-01-30T17:01:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5pB0Xzm4_PU/hqdefault.jpg"
     },
     {
-      "title": "World’s first megawatt-class wind power airship takes flight",
-      "video_id": "3eHz6IdlNrM",
+      "title": "Tesla shifts from cars to humanoid robots",
+      "video_id": "RUKi1ZaMjWo",
       "channel_title": "Interesting Engineering",
-      "description": "China has successfully tested a megawatt-scale airborne wind power system, generating electricity while flying more than 6500 ...",
-      "published_at": "2026-01-22T09:07:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3eHz6IdlNrM/hqdefault.jpg"
+      "description": "Tesla is ending Model S and Model X production as it pivots toward mass-producing Optimus humanoid robots, with a long-term ...",
+      "published_at": "2026-01-30T14:30:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RUKi1ZaMjWo/hqdefault.jpg"
     },
     {
-      "title": "Isar Aerospace’s second orbital launch attempt",
-      "video_id": "TSERNNEIzxk",
+      "title": "Waymo robotaxi hits a child, sparking safety debates",
+      "video_id": "KeCDRBUZklM",
       "channel_title": "Interesting Engineering",
-      "description": "Isar Aerospace is preparing for its second orbital launch attempt with the Spectrum rocket from Norway's Andøya Spaceport, ...",
-      "published_at": "2026-01-21T16:22:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TSERNNEIzxk/hqdefault.jpg"
+      "description": "A Waymo robotaxi struck a child near a Santa Monica school, triggering a federal safety investigation and raising broader ...",
+      "published_at": "2026-01-30T09:35:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KeCDRBUZklM/hqdefault.jpg"
     },
     {
-      "title": "Autonomous snowplow robots built by students are battling snow",
-      "video_id": "Xt7sgi928Iw",
+      "title": "This $50,000 humanoid robot has eyebrows",
+      "video_id": "AsKPdQji0vw",
       "channel_title": "Interesting Engineering",
-      "description": "University students built an autonomous snowplow robot capable of navigating icy terrain and clearing snow without human ...",
-      "published_at": "2026-01-20T15:06:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xt7sgi928Iw/hqdefault.jpg"
+      "description": "Designed to work safely and naturally around people, Sprout from Fauna Robotics, is $50000 humanoid robot butler that can ...",
+      "published_at": "2026-01-29T15:31:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AsKPdQji0vw/hqdefault.jpg"
     },
     {
-      "title": "Robot Bartender Takes Over CES 2026",
-      "video_id": "iV0gO_1HJEs",
+      "title": "Another fire at luxury lodge: Courchevel hotel",
+      "video_id": "9UNUkRUUAWs",
       "channel_title": "Interesting Engineering",
-      "description": "Would you order from this robot? The AGIBOT A2 ULTRA is a full size human robot, capable of serving drinks and interacting with ...",
-      "published_at": "2026-01-08T03:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iV0gO_1HJEs/hqdefault.jpg"
+      "description": "A major fire forced the evacuation of around 300 guests and staff from a luxury Courchevel hotel in the French Alps.",
+      "published_at": "2026-01-29T09:11:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9UNUkRUUAWs/hqdefault.jpg"
     },
     {
-      "title": "Unitree Lets People Kick Their Robots at CES 2026",
-      "video_id": "1I7Car9YbNc",
+      "title": "Helix 02: The AI brain that can do dishes",
+      "video_id": "4gMN3iJjNWw",
       "channel_title": "Interesting Engineering",
-      "description": "Unitree have wowed the world with their kickboxing robots, even starring in the world's first robot fighting tournament in China.",
-      "published_at": "2026-01-08T01:30:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1I7Car9YbNc/hqdefault.jpg"
+      "description": "Figure's Helix 02 is an AI control system that acts as the “brain” for its Figure 03 humanoid robot, combining vision, touch sensing, ...",
+      "published_at": "2026-01-28T15:27:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4gMN3iJjNWw/hqdefault.jpg"
     },
     {
-      "title": "World&#39;s First AI Steam Spa",
-      "video_id": "lCSsA9SqWAU",
+      "title": "British Airways A350 lost wheel mid-air in Las Vegas",
+      "video_id": "iJLqU91Wt7U",
       "channel_title": "Interesting Engineering",
-      "description": "AI truly is everywhere if it's made it to your steam spa. The U-Mine BodyJet is the world's first AI-operated steam spa system.",
-      "published_at": "2026-01-07T00:30:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lCSsA9SqWAU/hqdefault.jpg"
-    },
-    {
-      "title": "The Future of Human Space Exploration",
-      "video_id": "3iOW0_eVhRo",
-      "channel_title": "Interesting Engineering",
-      "description": "Humanity is turning its gaze towards the moon once again -- and far beyond. Lockheed Martin designed and built Orion, the only ...",
-      "published_at": "2025-11-10T17:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3iOW0_eVhRo/hqdefault.jpg"
-    },
-    {
-      "title": "NASA Reports Life On Mars",
-      "video_id": "3v5IL3-CEG0",
-      "channel_title": "Interesting Engineering",
-      "description": "Has NASA really found life on Mars? Perseverance just sent back images containing traces of minerals that could've only been ...",
-      "published_at": "2025-09-11T11:18:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3v5IL3-CEG0/hqdefault.jpg"
-    },
-    {
-      "title": "New iPhone Camera Dock Lets You Film Like A Pro",
-      "video_id": "r-EAPOKdLFQ",
-      "channel_title": "Interesting Engineering",
-      "description": "Features like GENLOCK and Timecode in, previously restricted to professional camera equipment, are now at your fingertips, ...",
-      "published_at": "2025-09-10T13:03:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r-EAPOKdLFQ/hqdefault.jpg"
-    },
-    {
-      "title": "How Glassblowing Works",
-      "video_id": "3D4nA8bM2Kw",
-      "channel_title": "Interesting Engineering",
-      "description": "Have you ever wondered how glass making works? Find out the skills needed to accomplish the task... and the dangers people ...",
-      "published_at": "2025-08-29T00:30:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3D4nA8bM2Kw/hqdefault.jpg"
-    },
-    {
-      "title": "Shape Changing Antenna Secures Signal",
-      "video_id": "5GIFQ5CvF2Q",
-      "channel_title": "Interesting Engineering",
-      "description": "MIT researchers have invented a flexible antenna, capable of maintaining a strong signal connection by changing shape!",
-      "published_at": "2025-08-18T23:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5GIFQ5CvF2Q/hqdefault.jpg"
-    },
-    {
-      "title": "ROV SuBastian Livestreams Deep Sea Marine Life",
-      "video_id": "3sGV_KgLvEM",
-      "channel_title": "Interesting Engineering",
-      "description": "One of the biggest underexplored frontiers of the Earth is the bottom of the ocean. But now everyone can take a peek and enjoy as ...",
-      "published_at": "2025-08-07T08:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3sGV_KgLvEM/hqdefault.jpg"
-    },
-    {
-      "title": "You Can Now Feel Touch In VR",
-      "video_id": "cHuCOq3CfeI",
-      "channel_title": "Interesting Engineering",
-      "description": "A new sensation has entered the VR world: the sense of touch. The USC Viterbi School of Engineering have invented a haptic ...",
-      "published_at": "2025-07-31T15:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cHuCOq3CfeI/hqdefault.jpg"
-    },
-    {
-      "title": "Unitree Releases Cheapest Humanoid Robot Yet",
-      "video_id": "fh-mvIxTu1k",
-      "channel_title": "Interesting Engineering",
-      "description": "Chinese company Unitree knocks its competitors out of the park with the most affordable humanoid robot yet. Compared to its ...",
-      "published_at": "2025-07-28T18:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fh-mvIxTu1k/hqdefault.jpg"
-    },
-    {
-      "title": "Robot Vacuums Are Getting Big!",
-      "video_id": "Is7motd4GI8",
-      "channel_title": "Interesting Engineering",
-      "description": "The Roomba might be getting new and powered up competition. The PUDU MT1 VAC is designed to tackle bigger and higher ...",
-      "published_at": "2025-07-17T15:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Is7motd4GI8/hqdefault.jpg"
-    },
-    {
-      "title": "The Mystery of Moldy Mary",
-      "video_id": "9luf4Wa8SSc",
-      "channel_title": "Interesting Engineering",
-      "description": "Everyone knows who Alexander Fleming is. But what nobody knows is that he actually failed to turn his discovery of penicillin into ...",
-      "published_at": "2025-07-04T23:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9luf4Wa8SSc/hqdefault.jpg"
-    },
-    {
-      "title": "What Do Robots See?",
-      "video_id": "xJVjzm7XW-A",
-      "channel_title": "Interesting Engineering",
-      "description": "Have you ever wondered how robots can see? Beyond cameras for eyes, how do they process information? How do they know ...",
-      "published_at": "2025-06-10T18:00:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xJVjzm7XW-A/hqdefault.jpg"
-    },
-    {
-      "title": "The Man Who Invented The Concept of Computers",
-      "video_id": "YlGPfO3dVZg",
-      "channel_title": "Interesting Engineering",
-      "description": "Computers have become so integral to human life in such a short amount of time. Who even made up the idea of a machine that ...",
-      "published_at": "2025-05-23T15:07:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YlGPfO3dVZg/hqdefault.jpg"
-    },
-    {
-      "title": "Commute to the 2028 Olympics - By Air!",
-      "video_id": "xIVAnFFBDzY",
-      "channel_title": "Interesting Engineering",
-      "description": "The LA2028 Olympic committee have announced a partnership with Archer Aviation to bring air taxis to the next Olympic Games.",
-      "published_at": "2025-05-20T15:01:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xIVAnFFBDzY/hqdefault.jpg"
-    },
-    {
-      "title": "The Temple Built In Reverse",
-      "video_id": "8Yf_4t6sqTg",
-      "channel_title": "Interesting Engineering",
-      "description": "Have you ever heard of a building being constructed in reverse? That's not the only thing special about this temple. Watch to find ...",
-      "published_at": "2025-04-25T21:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8Yf_4t6sqTg/hqdefault.jpg"
-    },
-    {
-      "title": "Did You Know that Sunscreen....",
-      "video_id": "4I5XzbkNx7o",
-      "channel_title": "Interesting Engineering",
-      "description": "Sunscreen is such an integral aspect to protecting our skin. But do you know how it REALLY works? Is there really a possibility ...",
-      "published_at": "2025-04-23T17:15:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4I5XzbkNx7o/hqdefault.jpg"
+      "description": "A British Airways Airbus A350-1000 lost a right-rear landing gear wheel shortly after takeoff from Las Vegas' Harry Reid ...",
+      "published_at": "2026-01-28T11:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iJLqU91Wt7U/hqdefault.jpg"
     }
   ]
 }

@@ -1,48 +1,64 @@
 {
-  "fetched_at": "2026-01-25T00:34:17.648596",
+  "fetched_at": "2026-02-01T00:42:04.285054",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 5,
+  "count": 7,
   "videos": [
     {
-      "title": "UE5 Animation Layers: Non-Destructive Camera Shake &amp; Character Tweaks",
-      "video_id": "NDrc3ap2ZAA",
+      "title": "Unreal Engine at CES 2026",
+      "video_id": "PVc-w1MY5aI",
       "channel_title": "Unreal Engine",
-      "description": "MASTERING UE5 ANIMATION LAYERS: Intensity Control (Weight Slider) & Offsets: Discover Animation Layers to organize ...",
-      "published_at": "2026-01-23T19:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NDrc3ap2ZAA/hqdefault.jpg"
+      "description": "From next-generation automotive HMIs to powerful simulators, UE was everywhere at CES 2026. Watch this video for a look at the ...",
+      "published_at": "2026-01-30T16:47:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PVc-w1MY5aI/hqdefault.jpg"
     },
     {
-      "title": "Stylized Comic Ink Material | Unreal Engine Animation Hub",
-      "video_id": "rpmm3PPxJzM",
+      "title": "The Unreal Engine 5 Next-Gen HMI Experience",
+      "video_id": "p8kFmj1dvgc",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video and learn how to add texture maps to generate hatching and crosshatching effects to the stylized material that we ...",
-      "published_at": "2026-01-23T17:01:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rpmm3PPxJzM/hqdefault.jpg"
+      "description": "Watch this video for a look at the Unreal Engine 5 Next-Gen HMI Experience, revealed at CES 2026. Developed in technical ...",
+      "published_at": "2026-01-30T16:46:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p8kFmj1dvgc/hqdefault.jpg"
     },
     {
-      "title": "Avoid Tutorial Hell - Utilizing Resources to Learn Unreal Engine in 2026 | Inside Unreal",
-      "video_id": "IeQpGHTBOkQ",
+      "title": "Mastering the UE5 Tweener Tool: Push Pull &amp; Overshoot Animation",
+      "video_id": "oUPOBsCrWwE",
       "channel_title": "Unreal Engine",
-      "description": "We are joined by a few of our Technical Writers to discuss the best way to utilize tutorials and learning resources; common pitfalls, ...",
-      "published_at": "2026-01-22T21:15:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IeQpGHTBOkQ/hqdefault.jpg"
+      "description": "SECRET UE5 ANIMATION TIPS: Mastering the Tweener Tool (Push/Pull & Overshoot): Explore the various modes of the Tweener ...",
+      "published_at": "2026-01-30T01:27:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oUPOBsCrWwE/hqdefault.jpg"
     },
     {
-      "title": "UE5 Curve Editor SECRETS: Buffer Curves &amp; Smart Snap Keyframe Tricks",
-      "video_id": "9g0K4GOACis",
+      "title": "UE5 Curve Editor 2.0 New Lattice Tool &amp; Curve Scaling HACKS (UE 5.6)",
+      "video_id": "VD_cfVvMs6Y",
       "channel_title": "Unreal Engine",
-      "description": "UE5 CURVE EDITOR SECRETS: Buffer Curves & Mass Keyframe Polishing: Focus on crucial Keyframe Curve Editor tools for safe ...",
-      "published_at": "2026-01-21T19:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9g0K4GOACis/hqdefault.jpg"
+      "description": "UE 5.6 CURVE EDITOR OVERHAUL: Lattice Tool & Smart Snap for Clean Animation: Master the redesigned Unreal Engine ...",
+      "published_at": "2026-01-30T01:27:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VD_cfVvMs6Y/hqdefault.jpg"
     },
     {
-      "title": "UI Updates for UEFN | Creating in Fortnite",
-      "video_id": "18c2vDNk_PQ",
+      "title": "Stylized Comic Material Color and Highlights | Unreal Engine Animation Hub",
+      "video_id": "_HE1I5WyYK8",
       "channel_title": "Unreal Engine",
-      "description": "Event Info: Join us for an exciting session where we'll dive deep into the latest Fortnite Creative and Unreal Editor for Fortnite ...",
-      "published_at": "2026-01-20T20:44:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/18c2vDNk_PQ/hqdefault.jpg"
+      "description": "Watch this video and learn how to take the material created in the previous episodes of this series to the next level by adding in ...",
+      "published_at": "2026-01-29T16:40:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_HE1I5WyYK8/hqdefault.jpg"
+    },
+    {
+      "title": "Yuki’s Revenge | Animating The Lost Chapter",
+      "video_id": "vCGWvC25MWo",
+      "channel_title": "Unreal Engine",
+      "description": "Learn how Epic Games and The Third Floor collaborated to shape the animation approach for The Lost Chapter: Yuki's Revenge ...",
+      "published_at": "2026-01-28T19:13:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vCGWvC25MWo/hqdefault.jpg"
+    },
+    {
+      "title": "Building real time worlds with The Boundary",
+      "video_id": "viTjFK3eYGQ",
+      "channel_title": "Unreal Engine",
+      "description": "Interested in working at a leading creative visualization studio? James Falconer from The Boundary explains how the real estate ...",
+      "published_at": "2026-01-28T14:34:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/viTjFK3eYGQ/hqdefault.jpg"
     }
   ]
 }

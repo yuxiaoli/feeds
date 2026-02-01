@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-25T00:35:03.217370",
+  "fetched_at": "2026-02-01T00:42:50.393592",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "Fruit is NOT natural",
+      "video_id": "etHi5gwwgpo",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-01-26T18:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/etHi5gwwgpo/hqdefault.jpg"
+    },
+    {
+      "title": "Are veggie crisps actually better?",
+      "video_id": "22pOyKkDbiY",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-01-26T16:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/22pOyKkDbiY/hqdefault.jpg"
+    },
     {
       "title": "Put. Clothes. On. Your. Carbs.",
       "video_id": "CXm4lfZYziI",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-12-25T16:01:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/oJ-LuiK4lCk/hqdefault.jpg"
-    },
-    {
-      "title": "Sugar cravings are on purpose? 🍬",
-      "video_id": "kVv6zGD4hH4",
-      "channel_title": "Glucose Revolution",
-      "description": "The last one is totally wild !!!! While animal studies are not enough to know what's going on in humans, it's pretty wild to look at this ...",
-      "published_at": "2025-12-23T16:01:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kVv6zGD4hH4/hqdefault.jpg"
-    },
-    {
-      "title": "The secret to relieving pregnancy nausea?",
-      "video_id": "c6KZI8rXdqA",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-12-21T17:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c6KZI8rXdqA/hqdefault.jpg"
     }
   ]
 }

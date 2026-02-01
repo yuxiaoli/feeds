@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-25T00:34:26.169781",
+  "fetched_at": "2026-02-01T00:42:12.761262",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "This New Pyramid Theory Explains the Missing Evidence",
+      "video_id": "h5kWDOuY2Uo",
+      "channel_title": "DamiLee",
+      "description": "Ready to build a site that looks hand-coded—without hiring a developer? Launch your site for free at Framer and use the code ...",
+      "published_at": "2026-01-29T16:45:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h5kWDOuY2Uo/hqdefault.jpg"
+    },
     {
       "title": "So... Bilbo was kinda Bougie",
       "video_id": "0NhbzgHltpE",
@@ -75,14 +83,6 @@
       "description": "The DMZ is one of the world's most protected borders—and also one of its most vibrant wildlife sanctuaries. As a student, I ...",
       "published_at": "2025-11-30T16:15:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/m03IH-zz7tY/hqdefault.jpg"
-    },
-    {
-      "title": "How do you even begin to say goodbye after 70 years apart?",
-      "video_id": "HmpAPMnRAoI",
-      "channel_title": "DamiLee",
-      "description": "In 2018, separated North and South Korean families were given just 11 hours across three days to see each other for the ...",
-      "published_at": "2025-11-28T16:08:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HmpAPMnRAoI/hqdefault.jpg"
     }
   ]
 }

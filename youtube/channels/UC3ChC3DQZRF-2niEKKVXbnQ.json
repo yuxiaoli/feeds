@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-01-25T00:34:09.165071",
+  "fetched_at": "2026-02-01T00:41:55.717955",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
-  "count": 10,
+  "count": 25,
   "videos": [
+    {
+      "title": "提升明显! Qwen3-Max 正式版 vs Preview版 实测!",
+      "video_id": "CEg_RJb5COI",
+      "channel_title": "Karminski-牙医",
+      "description": "距离 Qwen3-Max-ThinkingPreview 版发布已经过去3个月了, 正式版终于来了! 这次提升有多大? 给大家直接上测试结果! 编程能力 ...",
+      "published_at": "2026-01-29T01:48:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CEg_RJb5COI/hqdefault.jpg"
+    },
+    {
+      "title": "不写prompt改看视频了! Kimi-K2.5 实测!",
+      "video_id": "rO_GNksjnDw",
+      "channel_title": "Karminski-牙医",
+      "description": "月之暗面发布了新模型Kimi-K2.5, 最大的更新是它终于成为统一模型了, 不仅支持文本和图片, 还支持视频输入! 给大家带 ...",
+      "published_at": "2026-01-27T16:13:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rO_GNksjnDw/hqdefault.jpg"
+    },
     {
       "title": "500张图片测试! 一个视频告诉你GLM-Image怎么用!",
       "video_id": "JWvLchYffPw",
@@ -83,6 +99,110 @@
       "description": "给大家带来新的AI邪修教程! 相信有很多朋友在制作视频的时候, 在痛苦的学AE, PR, Blender这些专业工具怎么用. 今天给大家带来新 ...",
       "published_at": "2025-11-28T02:55:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XftxFxi3iDM/hqdefault.jpg"
+    },
+    {
+      "title": "Meta 的新模型 SAM 3 实测!",
+      "video_id": "1rpqFbX3PUQ",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Meta 的SAM 3 大模型实测! 这个大模型有4个功能, 分别是视频内容识别, 图片内容识别, 图片生成3D模型, 图片生成3D人物 ...",
+      "published_at": "2025-11-22T03:43:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1rpqFbX3PUQ/hqdefault.jpg"
+    },
+    {
+      "title": "Gemini 3.0 Pro 实测! SOTA! 不过发现两个重要问题!",
+      "video_id": "E85zAvWEwhM",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Gemini 3.0 Pro preview 的测试结果: 大象牙膏测试直接SOTA, 粒子效果非常牛逼，这个大象牙膏喷发的效果比之前 ...",
+      "published_at": "2025-11-22T00:28:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E85zAvWEwhM/hqdefault.jpg"
+    },
+    {
+      "title": "Kimi-K2-Thinking 实测! 差距继续缩小!",
+      "video_id": "zLZ11k-UpzE",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来kimi k2 thinking 的测试结果: 大象牙膏测试没问题, 感觉物理效果又进步了! 这个粘稠的质感已经越来越象大象牙膏了, 不过 ...",
+      "published_at": "2025-11-06T18:52:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zLZ11k-UpzE/hqdefault.jpg"
+    },
+    {
+      "title": "Qwen3-Max-Thinking 实测! 呃......",
+      "video_id": "Ytx6qu3M4-c",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Qwen3-Max-Thinking-Preview 的测试结果: 大象牙膏测试这个大家看上去黑乎乎的, 实际上是光照有问题, 我给大家拉近了 ...",
+      "published_at": "2025-11-03T06:31:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ytx6qu3M4-c/hqdefault.jpg"
+    },
+    {
+      "title": "Cursor 终于有自己的大模型啦！来看实测！",
+      "video_id": "r34YWGVGZGg",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Cursor-Composer-1 的测试结果: 大象牙膏测试中, 效果一般, 而且输出特别不稳定, 一会效果像下雨, 一会又像泡泡一样飘 ...",
+      "published_at": "2025-10-30T00:28:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r34YWGVGZGg/hqdefault.jpg"
+    },
+    {
+      "title": "Cursor 推出炼蛊模式！一口气能开8个代理！",
+      "video_id": "BB2-NwEP0EI",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Cursor 2.0 更新内容！这个分量的确够得上一个大版本更新。 首先，推出了炼蛊模式，你最多可以开8个Agent 并行运行 ...",
+      "published_at": "2025-10-29T21:44:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BB2-NwEP0EI/hqdefault.jpg"
+    },
+    {
+      "title": "Minimax M2 实测! 你也晚了3个月?",
+      "video_id": "HjrqtfTC3so",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Minimax M2 的测试结果: 同样, 所有的three js 测试, 全都有包引用错误, 也都是我修了一次才能运行的画面. 大象牙膏测试 ...",
+      "published_at": "2025-10-26T01:12:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HjrqtfTC3so/hqdefault.jpg"
+    },
+    {
+      "title": "KAT-Coder-Pro-V1 实测! 早放3个月就好了?",
+      "video_id": "FeOEuKulU1E",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来kat coder pro v1 的测试结果: 首先, 所有的three js 测试, 全都有包引用错误, 你所看到的所有演示都是我修了一次才能运行 ...",
+      "published_at": "2025-10-25T00:20:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FeOEuKulU1E/hqdefault.jpg"
+    },
+    {
+      "title": "claude-haiku-4.5 实测! 便宜大碗?",
+      "video_id": "DewXta5G7a8",
+      "channel_title": "Karminski-牙医",
+      "description": "直接说结论, 这只是个经济型模型, 没什么竞争力. 大象牙膏测试中，三角烧瓶的建模有问题, 然后喷发动画实现有性能问题, 特别卡新增 ...",
+      "published_at": "2025-10-22T01:13:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DewXta5G7a8/hqdefault.jpg"
+    },
+    {
+      "title": "Vibe Coding 不流行了? Spec Coding 教程来啦",
+      "video_id": "oXSp3530q28",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Kiro Spec Coding 小教程! 总计4个场景: 场景A: 15000 行C 代码的项目cJSON 移植到TypeScript, 全程一行代码都没动手 ...",
+      "published_at": "2025-10-22T01:14:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oXSp3530q28/hqdefault.jpg"
+    },
+    {
+      "title": "DeepSeek 竟然是 INTJ, 如果改成 INFP 会怎样?",
+      "video_id": "h5hB8dubc9M",
+      "channel_title": "Karminski-牙医",
+      "description": "猜猜大模型的MBTI 人格类型都是什么? 答案是, 61个头部大模型中, 76% 的模型都是*NTJ 性格, 其中43% 是INTJ, 33% 是ENTJ, 并且.",
+      "published_at": "2025-10-09T23:25:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h5hB8dubc9M/hqdefault.jpg"
+    },
+    {
+      "title": "GLM-4.6 实测! 最近都很流行更新一大截然后版本就增加0.1嘛?",
+      "video_id": "9khjfrLfp-Q",
+      "channel_title": "Karminski-牙医",
+      "description": "直接说结论, 前端能力非常好, 效果甚至达到了炫技的程度, 不过随之而来的是复杂场景可能面临性能问题, 所以需要注意防止模型过度 ...",
+      "published_at": "2025-10-01T11:46:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9khjfrLfp-Q/hqdefault.jpg"
+    },
+    {
+      "title": "Claude-Sonnet-4.5 实测! 口嫌体正直国庆献礼?",
+      "video_id": "DxN4_i27EdY",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Claude-Sonnet-4.5 的测试结果, 直接说结论: 写代码模型SOTA 宝座依然稳坐! 三个测试完成度都非常高, 其中鞭炮连锁 ...",
+      "published_at": "2025-09-30T03:31:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DxN4_i27EdY/hqdefault.jpg"
     }
   ]
 }

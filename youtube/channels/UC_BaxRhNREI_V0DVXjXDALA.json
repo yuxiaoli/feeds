@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2026-01-25T00:34:46.174291",
+  "fetched_at": "2026-02-01T00:42:33.108022",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 1,
+  "count": 2,
   "videos": [
     {
-      "title": "Different vibe, same energy. #shorts",
-      "video_id": "-OrhAj7HQ7o",
+      "title": "Snow days and open roads #shorts",
+      "video_id": "ZZLnBqBe-qU",
       "channel_title": "Porsche",
-      "description": "Black cat vs golden retriever energy. ✨  @gt3flow_.",
-      "published_at": "2026-01-22T17:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-OrhAj7HQ7o/hqdefault.jpg"
+      "description": "Snow day? We've got you sorted.❄️  @matschika.media.",
+      "published_at": "2026-01-29T17:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZZLnBqBe-qU/hqdefault.jpg"
+    },
+    {
+      "title": "Icons of Porsche | A Porsche mountain road trip with sports cars as far as the eye can",
+      "video_id": "qxnwVazR5QA",
+      "channel_title": "Porsche",
+      "description": "Over 200 Porsche cars, with one goal in mind. To head out on a phenomenal Porsche road trip from Dubai up to Jebel Jais – at ...",
+      "published_at": "2026-01-27T16:07:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qxnwVazR5QA/hqdefault.jpg"
     }
   ]
 }

@@ -1,64 +1,72 @@
 {
-  "fetched_at": "2026-01-25T00:34:11.295754",
+  "fetched_at": "2026-02-01T00:41:58.055959",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 10,
+  "count": 11,
   "videos": [
     {
-      "title": "These are very important for you to learn in Python.",
-      "video_id": "fuS5Hx8byUw",
+      "title": "Meta Acquired This AI Agent… And It&#39;s Actually Incredible (Manus AI)",
+      "video_id": "gBMIQ-O1Kcw",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with Manus today for 1000 FREE credits: https://bit.ly/4rlqLPH Meta just acquired Manus, a very popular autonomous ...",
+      "published_at": "2026-01-31T14:14:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gBMIQ-O1Kcw/hqdefault.jpg"
+    },
+    {
+      "title": "This could change the way you code!",
+      "video_id": "Ors6aJgKnHY",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-24T20:14:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fuS5Hx8byUw/hqdefault.jpg"
+      "published_at": "2026-01-30T20:06:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ors6aJgKnHY/hqdefault.jpg"
     },
     {
-      "title": "Learn Matplotlib in 30 Minutes - Python Matplotlib Tutorial",
-      "video_id": "7Lc2AxiM17o",
-      "channel_title": "Tech With Tim",
-      "description": "To learn for free on Brilliant, go to https://brilliant.org/techwithtim . Brilliant's also given our viewers 20% off an annual Premium ...",
-      "published_at": "2026-01-24T13:04:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7Lc2AxiM17o/hqdefault.jpg"
-    },
-    {
-      "title": "Mutability in Python.",
-      "video_id": "rV1xyw3h43U",
+      "title": "This is how AI has simplified my life!",
+      "video_id": "mz2or3e6dzY",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-23T22:19:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rV1xyw3h43U/hqdefault.jpg"
+      "published_at": "2026-01-29T19:40:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mz2or3e6dzY/hqdefault.jpg"
     },
     {
-      "title": "If you&#39;re a developer, watch this video!",
-      "video_id": "AzqM-wYO4qU",
+      "title": "Your Resume Isn&#39;t The Problem...",
+      "video_id": "iUDQFaOU-uY",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-22T20:55:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AzqM-wYO4qU/hqdefault.jpg"
+      "published_at": "2026-01-29T13:01:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iUDQFaOU-uY/hqdefault.jpg"
     },
     {
-      "title": "AI Has Changed Databases Forever… Here’s How",
+      "title": "This is how I&#39;ve been using AI recently.",
+      "video_id": "HOtM7WDgQQw",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2026-01-28T19:49:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HOtM7WDgQQw/hqdefault.jpg"
+    },
+    {
+      "title": "This Open-Source AI Video Model Just Crushed Sora",
+      "video_id": "Xe0YmwcS0O4",
+      "channel_title": "Tech With Tim",
+      "description": "A new AI video generation model just dropped that is free, open source and can be ran on your own machine with as little as ...",
+      "published_at": "2026-01-27T13:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xe0YmwcS0O4/hqdefault.jpg"
+    },
+    {
+      "title": "This is a key feature to learn in Python!",
+      "video_id": "_HKqN0nm0SE",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2026-01-26T20:24:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_HKqN0nm0SE/hqdefault.jpg"
+    },
+    {
+      "title": "Postgres Just Killed Elasticsearch",
       "video_id": "XEiQV4zRC-U",
       "channel_title": "Tech With Tim",
       "description": "Sign Up for TigerData for free: https://tsdb.co/twt-TigerData Checkout the GitHub repo for more information: ...",
       "published_at": "2026-01-22T12:24:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XEiQV4zRC-U/hqdefault.jpg"
-    },
-    {
-      "title": "This could be messing up your code...",
-      "video_id": "Kcr2UpWsHRw",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-20T21:29:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Kcr2UpWsHRw/hqdefault.jpg"
-    },
-    {
-      "title": "The Only Programming Languages Worth Learning in 2026",
-      "video_id": "zsPD9aohymw",
-      "channel_title": "Tech With Tim",
-      "description": "Start building real Python skills today with DataCamp's Python Programming Fundamentals track (perfect if you're still shaky on ...",
-      "published_at": "2026-01-20T13:06:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zsPD9aohymw/hqdefault.jpg"
     },
     {
       "title": "The only video you need to watch if you want to become a software engineer!",

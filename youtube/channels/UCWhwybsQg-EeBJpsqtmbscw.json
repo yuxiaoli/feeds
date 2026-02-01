@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-25T00:34:42.562182",
+  "fetched_at": "2026-02-01T00:42:29.566711",
   "channel_id": "UCWhwybsQg-EeBJpsqtmbscw",
   "channel_title": "JomaClass",
   "count": 25,
   "videos": [
+    {
+      "title": "Valid Parentheses (Leetcode 20) | LeetCode Tutorial",
+      "video_id": "BRoTLPe1DJ4",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-25T16:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BRoTLPe1DJ4/hqdefault.jpg"
+    },
     {
       "title": "Unique Paths (Leetcode 62) | LeetCode Tutorial",
       "video_id": "L3WcBz95GDY",
@@ -195,14 +203,6 @@
       "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
       "published_at": "2026-01-01T16:00:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5DqgU0DZr2E/hqdefault.jpg"
-    },
-    {
-      "title": "N-Queens (Leetcode 51) | LeetCode Tutorial",
-      "video_id": "efUctVbrVNk",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2025-12-31T16:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/efUctVbrVNk/hqdefault.jpg"
     }
   ]
 }

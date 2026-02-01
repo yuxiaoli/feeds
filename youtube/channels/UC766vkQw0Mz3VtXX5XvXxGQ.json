@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2026-01-25T00:34:12.756612",
+  "fetched_at": "2026-02-01T00:41:59.394715",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 1,
+  "count": 2,
   "videos": [
     {
-      "title": "Name a better feeling",
-      "video_id": "7GAIfq5HpKs",
+      "title": "Xbox Game Pass and Meta Quest are the perfect addition to our January plans.",
+      "video_id": "GplXc6iW4kI",
       "channel_title": "Meta Quest ",
       "description": "",
-      "published_at": "2026-01-22T17:39:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7GAIfq5HpKs/hqdefault.jpg"
+      "published_at": "2026-01-30T23:06:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GplXc6iW4kI/hqdefault.jpg"
+    },
+    {
+      "title": "Have your first encounter with #MetaLab Los Angeles 👽",
+      "video_id": "YaZna_ZWXhI",
+      "channel_title": "Meta Quest ",
+      "description": "",
+      "published_at": "2026-01-28T17:01:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YaZna_ZWXhI/hqdefault.jpg"
     }
   ]
 }
