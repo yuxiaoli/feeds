@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2026-02-01T00:42:10.747477",
+  "fetched_at": "2026-02-04T03:40:23.821759",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
-  "count": 10,
+  "count": 25,
   "videos": [
+    {
+      "title": "【人工智能】AI不再只动嘴皮子 | 长程Agent | LangChain CEO | Harness架构 | 内存记忆护城河 | 告别对话框 | 自主规划 | Tracing追踪技术 | 自动化运维",
+      "video_id": "baJ72mP_fKo",
+      "channel_title": "最佳拍档",
+      "description": "2026年，AI将彻底告别只会动嘴皮子的阶段。本期视频深度拆解红杉资本与LangChain创始人哈里森·蔡斯的硬核对话，带你直击AI ...",
+      "published_at": "2026-02-03T23:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/baJ72mP_fKo/hqdefault.jpg"
+    },
+    {
+      "title": "【商业】Big Ideas 2026 | 木头姐Ark Invest  | AI推理成本暴跌 | 融合创新引擎 | 比特币战略储备 | 多组学医疗革命 | 无人驾驶运输 | 伟大加速",
+      "video_id": "NRDWBQWiYeg",
+      "channel_title": "最佳拍档",
+      "description": "如果说过去的十年是铺垫，那么未来五年将是人类历史上最剧烈的财富与技术伟大加速。本期视频为你深度梳理Ark Invest长达百页 ...",
+      "published_at": "2026-02-03T09:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NRDWBQWiYeg/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】Clawdbot爆火 | Moltbot | OpenClaw | 彼得斯坦伯格 | 个人助手 | 智能体革命 | AI自化 | 逆向API | 数据解放 | 生产力革命 | 开发者利器",
+      "video_id": "o4UxAZ5qQ5E",
+      "channel_title": "最佳拍档",
+      "description": "如果App时代即将终结，接管世界的是什么？本期视频带你直击GitHub星标数周内逼近12万的现象级项目Moltbot。曾经将公司以1亿 ...",
+      "published_at": "2026-02-02T23:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o4UxAZ5qQ5E/hqdefault.jpg"
+    },
+    {
+      "title": "【商业】基础模型走向平庸化 | Mistral创始人亚瑟 | 垂直领域专业化 | 开源模型优势 | AI Agent | 软件架构重构 | 主权AI战略 | 工业4.0大脑 | ASML | 长期主义",
+      "video_id": "JXWEDIL8tJk",
+      "channel_title": "最佳拍档",
+      "description": "万亿美金砸向基础模型，可能只是在投资一种注定贬值的资产？本期视频带你直击Mistral创始人亚瑟·门施（Arthur Mensch）的硬核 ...",
+      "published_at": "2026-02-02T09:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JXWEDIL8tJk/hqdefault.jpg"
+    },
+    {
+      "title": "【分享】快速迭代是AI的生命线 | 翁家翌 | RLHF后训练系统 | 强化学习基础设施 | GPT-5研发内幕 | 清华基建狂魔 | 工程思维 | 迭代效率生死线 | 算法工程化 | 时间非线性",
+      "video_id": "k9QVm-TvVbs",
+      "channel_title": "最佳拍档",
+      "description": "他是藏在ChatGPT背后的中国大脑，是拒绝了英伟达、TikTok与DeepSeek，坚定选择在OpenAI卖铲子的基建狂魔。本期视频带你 ...",
+      "published_at": "2026-02-01T23:00:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k9QVm-TvVbs/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】理解梯度下降 | 轻松入门AI (二)  | 神经网络学习核心 | 代价函数 | 微积分优化 | 偏导数 | 反向传播算法 | 机器学习 | 数学原理 | MNIST数据集",
+      "video_id": "HylFtyFLkvU",
+      "channel_title": "最佳拍档",
+      "description": "为什么神经网络能像人类一样通过看来学会识别万物？秘密就藏在梯度下降这个数学魔法里。本期视频将带你进入一个13002维的高 ...",
+      "published_at": "2026-02-01T09:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HylFtyFLkvU/hqdefault.jpg"
+    },
     {
       "title": "【商业】AI应用的黄金时代 | 兰佩尔 | 软件第五次浪潮 | AI原生公司 | 商业模式变革 | 护城河构建 | 专有数据壁垒 | 劳动力替代 | 法律医疗AI | 软件行业范式转移 | 风险投资",
       "video_id": "SZePy52I9Vc",
@@ -29,30 +77,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/tXZZj3vH1JQ/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】算力从来不是唯一瓶颈 | PPO之父 | 约翰·舒尔曼 | RLHF架构师 | Thinking Machines | Tinker微调API | 价值函数回归 | 算法巧思 | 强化学习",
-      "video_id": "stx8I31vGJk",
-      "channel_title": "最佳拍档",
-      "description": "如果告诉你，两三个人、几台V100 显卡就能搓出GPT-3.5，你还觉得AI是巨头的算力军备竞赛吗？本期视频带你拆解OpenAI灵魂 ...",
-      "published_at": "2026-01-30T09:01:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/stx8I31vGJk/hqdefault.jpg"
-    },
-    {
-      "title": "【商业】边缘计算决定AI终局 | 高通CEO Cristiano Amon | 本地推理 | 智能眼镜 | 骁龙芯片 | 工业转型 | 算力重构 | 数字化转型 | 芯片革命 | 科技前沿趋势",
-      "video_id": "pfAco3XiwDk",
-      "channel_title": "最佳拍档",
-      "description": "当智能手机市场趋于饱和，下一个百亿级的增长点在哪里？本期视频带你直击高通CEO阿蒙的达沃斯深度访谈。他预言AI将开启一个 ...",
-      "published_at": "2026-01-29T23:01:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pfAco3XiwDk/hqdefault.jpg"
-    },
-    {
-      "title": "【分享】数字人第三弹！大飞的视频好牛啊！",
-      "video_id": "onngUGdWrR8",
-      "channel_title": "最佳拍档",
-      "description": "这次是自己做的哦！",
-      "published_at": "2026-01-29T15:54:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/onngUGdWrR8/hqdefault.jpg"
-    },
-    {
       "title": "【人工智能】什么是神经网络 | 轻松入门AI (一) | 手写数字识别 | 权重与偏置 | Sigmoid函数 | 激活值 | 矩阵运算 | 机器学习 | 深度学习原理 | 3Blue1Brown",
       "video_id": "Mb6TGZOnyfk",
       "channel_title": "最佳拍档",
@@ -61,28 +85,124 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Mb6TGZOnyfk/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】视觉因果流 | DeepSeek OCR2 | 视觉编码器 | 放弃CLIP | 逻辑重排 | 机器视觉进化 | 语义驱动 | 高效Token压缩 | 攻克复杂报表 | 原生多模态",
-      "video_id": "sfyssVFZvlA",
+      "title": "【人工智能】死了么APP爆火 | 零代码开发 | 千元成本 | 1.25亿独居人口 | 社交焦虑 | 紧急联系人 | 自动化提醒机制 | ChatGPT | Cursor | 独立开发者 | 苹果榜首",
+      "video_id": "2Q9B9dRsIRk",
       "channel_title": "最佳拍档",
-      "description": "为什么AI拥有上帝视角却读不懂一张复杂的财务报表？因为它们一直在用像素级扫描的笨办法看世界。本期视频带你 ...",
-      "published_at": "2026-01-28T23:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sfyssVFZvlA/hqdefault.jpg"
+      "description": "在这个连崩溃都要设置成仅自己可见的时代，你是否担心过，如果意外突然降临，谁能第一个发现你？一款名为死了么的APP在2026 ...",
+      "published_at": "2026-01-21T04:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2Q9B9dRsIRk/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】xAI的执行密码 | 苏莱曼专访 | 122天建超算 | Cybertruck赌局 | 扁平化组织 | 特斯拉算力 | Grok | MacroHard | AGI的终局 | 3层扁平架构",
-      "video_id": "k4u-VAUOyRM",
+      "title": "【商业】电影洗钱内幕｜合法收益伪装术｜黑钱洗白全流程｜资金流转链路｜新兴套路｜洗钱揭秘｜黑钱变合法｜NFT｜虚增成本｜叶问3 | 华尔街之狼",
+      "video_id": "AglceuNrb6g",
       "channel_title": "最佳拍档",
-      "description": "如何用122天建起一座超级计算机？又如何用一场24小时的赌局，赢走一辆Cybertruck？本期视频，我们将通过xAI核心工程师苏莱曼· ...",
-      "published_at": "2026-01-28T09:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k4u-VAUOyRM/hqdefault.jpg"
+      "description": "为啥剧情混乱的烂片总能顺利上线？这部视频将带您深入电影行业的阴影地带，拆解看似光鲜的艺术背后的洗钱真相。从好莱坞经典 ...",
+      "published_at": "2025-12-20T09:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AglceuNrb6g/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】Redis之父向AI缴械投降 | Salvatore Sanfilippo | AI Coding的非线性变革 | 不要喝反AI迷魂汤 | 旧人类与半人马 | 拥抱AI",
-      "video_id": "KNNjGSjLRkU",
+      "title": "【芯片】台积电海外建厂能成功么？| 基于台湾的三种护城河 | 美国亚利桑那 | 日本德国 | WaferTech的失败教训 | 张忠谋 | 地缘政治要求 | 全球科技格局影响",
+      "video_id": "SlNMna-9Hck",
       "channel_title": "最佳拍档",
-      "description": "当Redis之父都放下了纯手工写码的执念，转而将代码外包给AI工具，我们是否还在抱着手写代码才是王道的认知，做2026年的清朝 ...",
-      "published_at": "2026-01-27T23:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KNNjGSjLRkU/hqdefault.jpg"
+      "description": "过去五年，台积电在全球掀起了一场规模空前的海外建厂浪潮，美国亚利桑那、日本熊本、德国德累斯顿，三大海外基地相继落地， ...",
+      "published_at": "2025-12-05T09:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SlNMna-9Hck/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】击败大模型推理的非确定性 | Thinking Machines | 批次不变性缺失 | 浮点数非结合性 | 归约化顺序 | 批次不变内核 | RMSNorm | 矩阵乘法 | 注意力机制",
+      "video_id": "eYq6Zc1M6pU",
+      "channel_title": "最佳拍档",
+      "description": "9月11日当天，Thinking Machines Lab正式推出了他们的研究博客，名字叫Connectionism，翻译过来就是联结主义。而博客的第一 ...",
+      "published_at": "2025-09-12T09:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eYq6Zc1M6pU/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】Meta遭遇AI人才大流失 | 天价挖人失效 | MSI | AI团队重组 | 新员工重回OpenAI | 老员工不满 | 为竞争对手培养人才 | 内部组织架构和文化问题",
+      "video_id": "5UWCU9_ojFw",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts Meta在AI团队最近的磨合重组的过程中，至少有8名骨干员工，包括研究 ...",
+      "published_at": "2025-08-29T10:45:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5UWCU9_ojFw/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】从不被认可走向行业突破 | 吴恩达回忆谷歌经历 | X实验室 | 规模决定性能 | 单一学习算法 | Larry Page | Jeff Dean | Coursera | AI Fund",
+      "video_id": "ql7qed1r7nU",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 8月8日，吴恩达接受了The Moonshot播客的专访，围绕吴恩达的学术生涯 ...",
+      "published_at": "2025-08-24T09:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ql7qed1r7nU/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】推理的本质 | Denny Zhou斯坦福讲座 | 什么是推理 | 思考的必要性 | 思维链提示 | 贪婪解码 | 置信度 | step-by-step | SFT | 验证器",
+      "video_id": "s00fy5RkCHc",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 最近，DeepMind首席科学家兼研究总监丹尼·周，在斯坦福大学做了一场讲座 ...",
+      "published_at": "2025-08-19T09:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s00fy5RkCHc/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】AI革命被严重低估了 | 谷歌前CEO Eric Schmidt | 电力 | 数据中心 | 旧金山共识 | 数字超智能 | AI会缓慢侵蚀人类 | 对就业的影响 | 学习循环",
+      "video_id": "wYz0Sw6101Y",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 谷歌的前CEO埃里克·施密特（Eric Schmidt）最近做客了Moonshots播客， ...",
+      "published_at": "2025-07-25T09:01:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wYz0Sw6101Y/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】AI的万亿美元机会 | 红杉资本2025AI峰会 | 抢夺软件和服务市场 | 应用层是关键 | AI创业公司 | 三大预测 | Agent经济 | 技术挑战 | 三大认知转变",
+      "video_id": "diw1VaUOB9Q",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 最近，红杉资本在旧金山举办了第三届AI峰会，吸引了150位全球顶尖的AI ...",
+      "published_at": "2025-05-12T10:01:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/diw1VaUOB9Q/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】Meta发布Llama 4 | 三款尺寸模型 | 最大2万亿参数 | 1000万token上下文 | 原生多模态 | MoE架构 | 30万亿token训练数据 | SFT/RL/DPO",
+      "video_id": "eCDx00vNjdg",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts 6号凌晨，Meta突然宣布开源了Llama 4系列模型，不仅支持原生多模态， ...",
+      "published_at": "2025-04-07T03:08:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eCDx00vNjdg/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】智能爆炸时刻来临 | Tom Davidson等人 | I. J. Good | 超智能机器 | 反馈循环 | 软件、芯片技术、芯片生产 | 三种智能爆炸 | 有效计算",
+      "video_id": "qj12HBrw1kI",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://www.bestpartners.store 最近硅谷投资人、EverFi的首席执行官兼创始人汤姆·戴维森（Tom ...",
+      "published_at": "2025-03-29T09:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qj12HBrw1kI/hqdefault.jpg"
+    },
+    {
+      "title": "【人物】丹尼尔·卡尼曼人生的最后一个选择 | 尽情享受然后坦然赴死 | 诺贝尔经济学奖 | 《思考快与慢》作者 | 人的决策行为 | 快乐计算公式 | 峰终定律 | 锚定效应 | 临终遗言",
+      "video_id": "6BQF9njPyuA",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://www.bestpartners.store 去年3月27日丹尼尔·卡尼曼去世，当时并没有公开过去世的任何原因。",
+      "published_at": "2025-03-28T09:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6BQF9njPyuA/hqdefault.jpg"
+    },
+    {
+      "title": "【访谈】Snowflake CEO 斯里达尔·拉马斯瓦米20VC访谈 | 如何面对AI挑战 | 软件工程 | 职场管理 | AI竞争 | OpenAI | Databricks | AI泡沫",
+      "video_id": "3-2-w7bPqtk",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店】：https://www.bestpartners.store/ 最近，知名播客20VC主播哈里·斯特宾斯（Harry Stebbings）访谈了Snowflake ...",
+      "published_at": "2025-02-27T09:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3-2-w7bPqtk/hqdefault.jpg"
+    },
+    {
+      "title": "100秒学会卡帕西的大模型评测方法",
+      "video_id": "oe2uRnMHysE",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts.",
+      "published_at": "2025-02-24T05:35:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oe2uRnMHysE/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】通往AGI的路径 | 3-5年实现AGI | DeepMind CEO、诺奖得主德米斯·哈萨比斯 | 三层创造力模型 | AI带来科学突破 | 安全风险 | 欺骗行为 | Agent兴起",
+      "video_id": "E2R8xzU46Hs",
+      "channel_title": "最佳拍档",
+      "description": "1月24日，谷歌DeepMind公司的CEO、诺贝尔奖得主德米斯·哈萨比斯，接受了一次长达一小时的深度专访。在这次访谈中，他就 ...",
+      "published_at": "2025-01-28T09:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E2R8xzU46Hs/hqdefault.jpg"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-02-01T00:42:10.080946",
+  "fetched_at": "2026-02-04T03:40:22.990607",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
-  "count": 25,
+  "count": 10,
   "videos": [
     {
       "title": "Supporting endangered languages",
@@ -11,14 +11,6 @@
       "description": "According to UNESCO's Atlas of the World's Languages in Danger (https://unesdoc.unesco.org/ark:/48223/pf0000187026.)",
       "published_at": "2026-01-30T17:13:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vdwaVHcJKEQ/hqdefault.jpg"
-    },
-    {
-      "title": "What “AI for all” really means",
-      "video_id": "OZEOVQQumv4",
-      "channel_title": "Microsoft",
-      "description": "When AI can seamlessly bridge language gaps at home, it opens the door to deeper cultural understanding, access, and ...",
-      "published_at": "2026-01-29T17:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OZEOVQQumv4/hqdefault.jpg"
     },
     {
       "title": "Why are weather forecasts so hard to get right? | Microsoft Azure and NVIDIA | Catalyst E4",
@@ -91,118 +83,6 @@
       "description": "Indigenous heritage is a source of strength and vision. The Code of Us honors Indigenous employees whose stories and ...",
       "published_at": "2025-11-04T16:59:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4To8jdOv1wU/hqdefault.jpg"
-    },
-    {
-      "title": "AI and automation expert on how leaders use AI agents to get ahead | Pascal Bornet",
-      "video_id": "HXy3J1mGHRE",
-      "channel_title": "Microsoft",
-      "description": "AI agents can become essential team members at any organization if they're deployed thoughtfully in business workflows. In this ...",
-      "published_at": "2025-10-30T15:29:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HXy3J1mGHRE/hqdefault.jpg"
-    },
-    {
-      "title": "Why AI needs 3D data to see the world",
-      "video_id": "f4FiA4L8omQ",
-      "channel_title": "Microsoft",
-      "description": "Global Objects is building the world's largest 3D object library using AI, 3D scanning, and digital twins—powered by Microsoft ...",
-      "published_at": "2025-09-30T15:59:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f4FiA4L8omQ/hqdefault.jpg"
-    },
-    {
-      "title": "Media Briefing August 26th",
-      "video_id": "T6tl7KoIVgA",
-      "channel_title": "Microsoft",
-      "description": "Brad Smith briefs media on the recent demonstrations on Microsoft's Redmond campus. Subscribe to Microsoft on YouTube here: ...",
-      "published_at": "2025-08-26T23:34:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T6tl7KoIVgA/hqdefault.jpg"
-    },
-    {
-      "title": "Minecraft teaches kids to stay safe online",
-      "video_id": "aucW6HBfIWI",
-      "channel_title": "Microsoft",
-      "description": "Minecraft Education is giving schools around the world a creative and powerful way to engage students in critical topics like online ...",
-      "published_at": "2025-07-18T19:57:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aucW6HBfIWI/hqdefault.jpg"
-    },
-    {
-      "title": "Satya Nadella: What will the world look like in 2029?",
-      "video_id": "d-DabbR9ZfY",
-      "channel_title": "Microsoft",
-      "description": "microsoft #satyanadella #ai #futureoftech #techpodcast Microsoft Chairman and CEO Satya Nadella sits down with host of the \"AI ...",
-      "published_at": "2025-07-09T18:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d-DabbR9ZfY/hqdefault.jpg"
-    },
-    {
-      "title": "Why Satya Nadella fell in love with coding and poetry #podcast #satyanadella",
-      "video_id": "NqOTGljoOYU",
-      "channel_title": "Microsoft",
-      "description": "microsoft #microsoftceo #coding #developer #engineers #poetry Satya Nadella shares his journey from his early days playing ...",
-      "published_at": "2025-06-26T17:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NqOTGljoOYU/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Copilot helps Special Olympics coaches spend more time on the ice",
-      "video_id": "ht2fc-DjTo8",
-      "channel_title": "Microsoft",
-      "description": "Microsoft Copilot empowers Special Olympics USA figure skating coaches Heidi Parker and Nicole Fess to spend less time in the ...",
-      "published_at": "2025-06-20T19:59:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ht2fc-DjTo8/hqdefault.jpg"
-    },
-    {
-      "title": "Lead smarter with AI #podcast #harvardbusinessschool",
-      "video_id": "r7lAjjzx4LE",
-      "channel_title": "Microsoft",
-      "description": "techpodcast #microsoft #leadership #ai A core component of every company's value proposition is its unique expertise. “But AI is ...",
-      "published_at": "2025-06-18T15:29:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r7lAjjzx4LE/hqdefault.jpg"
-    },
-    {
-      "title": "Changing how doctors diagnose diseases with AI | Microsoft Azure and NVIDIA | Catalyst E1",
-      "video_id": "yKPu8n42LPs",
-      "channel_title": "Microsoft",
-      "description": "Introducing Catalyst: a new docuseries about the future of AI that follows groundbreaking global companies that are changing the ...",
-      "published_at": "2025-06-17T20:59:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yKPu8n42LPs/hqdefault.jpg"
-    },
-    {
-      "title": "Bringing a skating costume to life with help from Microsoft Copilot",
-      "video_id": "NZeWQCWfRpA",
-      "channel_title": "Microsoft",
-      "description": "When Special Olympic skater, Cori Piels, wanted a new figure skating costume for the 2025 World Winter Games, she turned to a ...",
-      "published_at": "2025-06-10T20:02:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NZeWQCWfRpA/hqdefault.jpg"
-    },
-    {
-      "title": "Students are learning to read with the help of AI-powered Microsoft Reading Coach",
-      "video_id": "W4jOURTL7iA",
-      "channel_title": "Microsoft",
-      "description": "Reading's magical ✨next chapter is on full display in teacher Olivier Dijmans's Belgian classroom. With students from around the ...",
-      "published_at": "2025-05-30T22:59:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W4jOURTL7iA/hqdefault.jpg"
-    },
-    {
-      "title": "AI productivity hack you can use on your commute",
-      "video_id": "w58dl89o1nw",
-      "channel_title": "Microsoft",
-      "description": "What if your morning commute could plan your entire workday? In this clip from the WorkLab podcast, Azeem Azhar—author of the ...",
-      "published_at": "2025-05-29T21:59:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w58dl89o1nw/hqdefault.jpg"
-    },
-    {
-      "title": "Helping Special Olympics skaters shine at the World Winter Games | Microsoft Copilot",
-      "video_id": "64WAc0TQUQ4",
-      "channel_title": "Microsoft",
-      "description": "For the Special Olympics USA figure skating team, the 2025 World Winter Games marked the culmination of years of hard work ...",
-      "published_at": "2025-05-27T16:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/64WAc0TQUQ4/hqdefault.jpg"
-    },
-    {
-      "title": "Highlights from Microsoft Build 2025: Satya Nadella&#39;s Keynote Recap",
-      "video_id": "HF2dVr7tHMI",
-      "channel_title": "Microsoft",
-      "description": "At Microsoft Build 2025, Satya Nadella discussed the agentic web and developer opportunity across the tech stack. Catch up on ...",
-      "published_at": "2025-05-20T14:30:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HF2dVr7tHMI/hqdefault.jpg"
     }
   ]
 }

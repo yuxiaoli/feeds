@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-01T00:42:28.054906",
+  "fetched_at": "2026-02-04T03:40:41.277833",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "tkinter - Building UIs with Python",
+      "video_id": "VmCbkSEyMM0",
+      "channel_title": "Socratica",
+      "description": "Join our Patreon: https://www.patreon.com/cw/socratica Sign up for Socratica Courses: ...",
+      "published_at": "2026-02-02T11:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VmCbkSEyMM0/hqdefault.jpg"
+    },
     {
       "title": "HTTP Requests in Python",
       "video_id": "hEv50bS1_Og",
@@ -75,14 +83,6 @@
       "description": "Connect with us on PATREON https://www.patreon.com/socratica Linear Regression is one of the most ...",
       "published_at": "2025-08-19T10:01:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/t_hVVl5SJyQ/hqdefault.jpg"
-    },
-    {
-      "title": "Payoff Engineering - Using options &amp; stock to customize your strategy - Stock Options Strategies",
-      "video_id": "jssGJnENU1I",
-      "channel_title": "Socratica",
-      "description": "There are 4 key stock option positions: the long call, long put, short call, and short put. And for stock directly, you can either be ...",
-      "published_at": "2025-08-01T10:01:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jssGJnENU1I/hqdefault.jpg"
     }
   ]
 }

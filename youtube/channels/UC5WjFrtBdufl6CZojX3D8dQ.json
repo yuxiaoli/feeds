@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-01T00:41:58.739405",
+  "fetched_at": "2026-02-04T03:40:11.256135",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
-  "count": 25,
+  "count": 10,
   "videos": [
+    {
+      "title": "Model Y AWD is here",
+      "video_id": "g2yofR9OYE0",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-02-04T01:50:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g2yofR9OYE0/hqdefault.jpg"
+    },
     {
       "title": "Introducing Tesla Solar Panels",
       "video_id": "7sxdv5H9uAU",
@@ -75,134 +83,6 @@
       "description": "",
       "published_at": "2026-01-08T17:38:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/X1oyhh5cS30/hqdefault.jpg"
-    },
-    {
-      "title": "Santa Mode 🎅",
-      "video_id": "tqvdJBPmStg",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-12-25T18:44:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tqvdJBPmStg/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Puppytaxi",
-      "video_id": "B-RKSzxbo-k",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-12-23T02:58:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B-RKSzxbo-k/hqdefault.jpg"
-    },
-    {
-      "title": "Charging Passport | Tesla",
-      "video_id": "J_IomhTi7ms",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-12-18T21:41:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J_IomhTi7ms/hqdefault.jpg"
-    },
-    {
-      "title": "Icy to cozy with a tap | Tesla",
-      "video_id": "bxLgg_FNHj8",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-12-15T22:35:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bxLgg_FNHj8/hqdefault.jpg"
-    },
-    {
-      "title": "Powering Chile&#39;s Renewable Future | Megapack",
-      "video_id": "_iytMHw6uJY",
-      "channel_title": "Tesla",
-      "description": "25MW / 900MWh of Megapack provides power in Chile's Atacama Desert, considered the driest desert on earth. Megapacks for ...",
-      "published_at": "2025-12-08T20:36:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_iytMHw6uJY/hqdefault.jpg"
-    },
-    {
-      "title": "Model X opens the door for you",
-      "video_id": "x8c965ezpq8",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-11-24T18:13:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x8c965ezpq8/hqdefault.jpg"
-    },
-    {
-      "title": "Hot wings",
-      "video_id": "FwqPI15nPjc",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-11-19T20:40:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FwqPI15nPjc/hqdefault.jpg"
-    },
-    {
-      "title": "2025 Annual Shareholder Meeting | Tesla",
-      "video_id": "VGPlvmMjPtE",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-11-06T23:32:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VGPlvmMjPtE/hqdefault.jpg"
-    },
-    {
-      "title": "Forming the Future Grid | Tesla Megapack",
-      "video_id": "aN0rctOAEFk",
-      "channel_title": "Tesla",
-      "description": "Megapack grid-forming inverters are key to enabling global grid stability and reliability. Megan Jackson, Tesla Sr Sales ...",
-      "published_at": "2025-11-05T04:36:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aN0rctOAEFk/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Q3 2025 Financial Results and Q&amp;A Webcast",
-      "video_id": "GQ9S7xbkGAY",
-      "channel_title": "Tesla",
-      "description": "Start of call: https://youtu.be/GQ9S7xbkGAY?t=594.",
-      "published_at": "2025-10-22T22:45:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GQ9S7xbkGAY/hqdefault.jpg"
-    },
-    {
-      "title": "Move any Model Y seat without leaving your seat",
-      "video_id": "mJxWpWRK4lw",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-10-22T16:22:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mJxWpWRK4lw/hqdefault.jpg"
-    },
-    {
-      "title": "TRON Mode",
-      "video_id": "L0phoGxEeic",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-10-10T14:37:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L0phoGxEeic/hqdefault.jpg"
-    },
-    {
-      "title": "Change Today for Tomorrow | Megapack",
-      "video_id": "_3QAXxUjpbU",
-      "channel_title": "Tesla",
-      "description": "In Western Australia's South West, 2.2 GWh of Tesla Megapacks are now powering Neoen's Collie Battery 1 and 2.",
-      "published_at": "2025-10-09T19:26:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_3QAXxUjpbU/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Model Y Standard &amp; Model 3 Standard",
-      "video_id": "gQ92igDGBHQ",
-      "channel_title": "Tesla",
-      "description": "Meet our most affordable vehicles – Ultra low cost of ownership, engineered for safety & comes with the best Tesla features you ...",
-      "published_at": "2025-10-07T18:45:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gQ92igDGBHQ/hqdefault.jpg"
-    },
-    {
-      "title": "Optimus’ red carpet debut",
-      "video_id": "0jHCsY8MnmQ",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-10-07T03:11:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0jHCsY8MnmQ/hqdefault.jpg"
-    },
-    {
-      "title": "Vote Your Tesla Shares",
-      "video_id": "6JwClvNwoYw",
-      "channel_title": "Tesla",
-      "description": "Tesla's Annual Meeting is coming up on November 6 & we need your vote! Optimus will show you how. Voting is quick and easy ...",
-      "published_at": "2025-10-06T21:08:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6JwClvNwoYw/hqdefault.jpg"
     }
   ]
 }

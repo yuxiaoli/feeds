@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-01T00:42:18.572267",
+  "fetched_at": "2026-02-04T03:40:31.816563",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 7,
+  "count": 8,
   "videos": [
+    {
+      "title": "NASA&#39;s Artemis II Fueling Test News Conference (Feb. 3, 2026)",
+      "video_id": "ycqk3uN_N6g",
+      "channel_title": "NASA",
+      "description": "Following the conclusion of the Artemis II wet dress rehearsal, tune in as agency leaders provide updates on the test and our ...",
+      "published_at": "2026-02-03T19:04:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ycqk3uN_N6g/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s Artemis II Fueling Test (Official Static Feed)",
+      "video_id": "5zDlM8d4Q7g",
+      "channel_title": "NASA",
+      "description": "Engineers at NASA's Kennedy Space Center are conducting a prelaunch test to fuel the Artemis II Space Launch System—a vital ...",
+      "published_at": "2026-02-03T06:06:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5zDlM8d4Q7g/hqdefault.jpg"
+    },
     {
       "title": "NASA&#39;s SpaceX Crew-12 Flight Crew News Conference (Jan. 30, 2026)",
       "video_id": "6f-rlnUo5T0",
@@ -35,14 +51,6 @@
       "description": "NASA will launch the Artemis II mission this year, sending four astronauts on an approximately 10-day journey around the Moon.",
       "published_at": "2026-01-26T18:24:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/suUm2fHId8U/hqdefault.jpg"
-    },
-    {
-      "title": "NASA’s Day of Remembrance 2026",
-      "video_id": "GzWzo0AXmTg",
-      "channel_title": "NASA",
-      "description": "NASA's annual Day of Remembrance pays tribute to all members of the NASA family who lost their lives in the pursuit of ...",
-      "published_at": "2026-01-22T14:02:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GzWzo0AXmTg/hqdefault.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",

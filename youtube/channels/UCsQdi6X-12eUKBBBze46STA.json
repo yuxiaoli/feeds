@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-01T00:42:50.393592",
+  "fetched_at": "2026-02-04T03:41:03.701623",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "Don’t Make This Pre-Workout Food Mistake",
+      "video_id": "xCessabnVzU",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-02-02T16:07:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xCessabnVzU/hqdefault.jpg"
+    },
     {
       "title": "Fruit is NOT natural",
       "video_id": "etHi5gwwgpo",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-01-12T15:02:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Bzh12k0TlIc/hqdefault.jpg"
-    },
-    {
-      "title": "Those glucose spikes are wild",
-      "video_id": "oJ-LuiK4lCk",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-12-25T16:01:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oJ-LuiK4lCk/hqdefault.jpg"
     }
   ]
 }

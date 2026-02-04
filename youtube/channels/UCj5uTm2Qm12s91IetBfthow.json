@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-01T00:42:43.302388",
+  "fetched_at": "2026-02-04T03:40:56.572857",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
-  "count": 25,
+  "count": 10,
   "videos": [
+    {
+      "title": "2026年1月AI论文分享",
+      "video_id": "0eb30T3Voi8",
+      "channel_title": "Find Interesting AI",
+      "description": "知识库： my.feishu.cn/wiki/TPKwwEiLJibN4ek9fcQcYaZAnDd?",
+      "published_at": "2026-02-01T11:49:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0eb30T3Voi8/hqdefault.jpg"
+    },
     {
       "title": "2026开年Huggingface最火的8个空间",
       "video_id": "9yjQdq-nnJo",
@@ -75,134 +83,6 @@
       "description": "相关项目文档： https://qadso0i11yj.feishu.cn/base/Miw3b5snBaVikEsolMWcCqSvndg?from=from_copylink.",
       "published_at": "2025-09-30T10:00:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dbEpyspZLHE/hqdefault.jpg"
-    },
-    {
-      "title": "9月最新HuggingFace最火的8个项目",
-      "video_id": "jYKt2p3VRmg",
-      "channel_title": "Find Interesting AI",
-      "description": "9月份huggingface最火的八个项目一口气玩个遍https://huggingface.co/",
-      "published_at": "2025-09-21T00:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jYKt2p3VRmg/hqdefault.jpg"
-    },
-    {
-      "title": "8月AI论文精选分享",
-      "video_id": "pNSVAkkHReM",
-      "channel_title": "Find Interesting AI",
-      "description": "8月全部AI论文： https://qadso0i11yj.feishu.cn/base/LplpbJRmQanORbst9CUcqYQDnRc?from=from_copylink.",
-      "published_at": "2025-09-07T00:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pNSVAkkHReM/hqdefault.jpg"
-    },
-    {
-      "title": "8个宝藏项目一口气玩个遍",
-      "video_id": "664CRgyF5SY",
-      "channel_title": "Find Interesting AI",
-      "description": "截止25年8月底，https://huggingface.co/ 最火的8个宝藏项目.",
-      "published_at": "2025-08-24T00:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/664CRgyF5SY/hqdefault.jpg"
-    },
-    {
-      "title": "一口气看完8月最新10个开源项目",
-      "video_id": "UAdV8n6Jm-Q",
-      "channel_title": "Find Interesting AI",
-      "description": "文档及资料： https://qadso0i11yj.feishu.cn/base/RhjWbJeaaaciwHsXvdRcJoEVnPg?from=from_copylink.",
-      "published_at": "2025-08-12T23:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UAdV8n6Jm-Q/hqdefault.jpg"
-    },
-    {
-      "title": "最新7月AI论文总结",
-      "video_id": "QWji_biIaDc",
-      "channel_title": "Find Interesting AI",
-      "description": "7月论文总结文档： https://qadso0i11yj.feishu.cn/base/YuW7bfwgJaGUIpszeXQcHzrAnFb?from=from_copylink.",
-      "published_at": "2025-08-03T12:37:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QWji_biIaDc/hqdefault.jpg"
-    },
-    {
-      "title": "7月最新143个开源项目总结",
-      "video_id": "oSMzhbpL7Lk",
-      "channel_title": "Find Interesting AI",
-      "description": "相关文档： https://qadso0i11yj.feishu.cn/base/TxAqbl1t8a1EpAs2zjWcqhvKn5d?from=from_copylink.",
-      "published_at": "2025-07-16T00:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oSMzhbpL7Lk/hqdefault.jpg"
-    },
-    {
-      "title": "千里挑一，论文分享",
-      "video_id": "IEY5Y3wdoPk",
-      "channel_title": "Find Interesting AI",
-      "description": "6月论文汇总： https://qadso0i11yj.feishu.cn/base/LLumbYdgJaziD2sihWYcyGQQnQe?from=from_copylink.",
-      "published_at": "2025-07-03T23:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IEY5Y3wdoPk/hqdefault.jpg"
-    },
-    {
-      "title": "HuggingFace 6月最火AI一次性总结清楚",
-      "video_id": "UmHl6qJEQcs",
-      "channel_title": "Find Interesting AI",
-      "description": "HuggingFace 6月最火的8个AI项目.",
-      "published_at": "2025-06-22T04:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UmHl6qJEQcs/hqdefault.jpg"
-    },
-    {
-      "title": "最新105个项目总结 有趣项目分享",
-      "video_id": "wZELolxolhQ",
-      "channel_title": "Find Interesting AI",
-      "description": "视频文档： https://qadso0i11yj.feishu.cn/base/C9PAbl4JGaciCxsjxtac9RAVn3e?from=from_copylink.",
-      "published_at": "2025-06-15T09:01:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wZELolxolhQ/hqdefault.jpg"
-    },
-    {
-      "title": "6月趋势总结以及那些有趣的论文",
-      "video_id": "Oh_3o0ai5JM",
-      "channel_title": "Find Interesting AI",
-      "description": "AI论文6月文档https://qadso0i11yj.feishu.cn/base/AROmbHaYsaAIlzsjxV3c1lsRn6c?from=from_copylink.",
-      "published_at": "2025-06-07T10:25:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Oh_3o0ai5JM/hqdefault.jpg"
-    },
-    {
-      "title": "程序员量子计算入门指南",
-      "video_id": "IfVkUokH4gM",
-      "channel_title": "Find Interesting AI",
-      "description": "从双缝干涉到量子纠缠、薛猫再到量子计算机、量子算法最后聊聊量子计算与AI 相关资料： https://github.com/Qiskit/qiskit ...",
-      "published_at": "2025-05-25T03:50:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IfVkUokH4gM/hqdefault.jpg"
-    },
-    {
-      "title": "Github趋势榜5月总结",
-      "video_id": "TGEe1VLNHXU",
-      "channel_title": "Find Interesting AI",
-      "description": "93个项目总结文档https://qadso0i11yj.feishu.cn/base/GF7mbmMM7aww1gs8kHVc2pGonLh?from=from_copylink.",
-      "published_at": "2025-05-10T12:58:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TGEe1VLNHXU/hqdefault.jpg"
-    },
-    {
-      "title": "5月最新AI论文趋势汇总",
-      "video_id": "t2m7yV1TXkY",
-      "channel_title": "Find Interesting AI",
-      "description": "推荐的论文： 2503.23190 使用大型语言模型进行短期和少样本预测的以太坊价格预测2503.23350 面向Web自动化的大模型下 ...",
-      "published_at": "2025-04-30T00:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t2m7yV1TXkY/hqdefault.jpg"
-    },
-    {
-      "title": "本周HuggingFace最火的8个项目",
-      "video_id": "0W_2Qd-e5ag",
-      "channel_title": "Find Interesting AI",
-      "description": "每周最火的huggingface项目，需科学上网https://huggingface.co/spaces/",
-      "published_at": "2025-04-20T04:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0W_2Qd-e5ag/hqdefault.jpg"
-    },
-    {
-      "title": "量化交易基础、工具选择、学习建议",
-      "video_id": "fH4KbFWkTWM",
-      "channel_title": "Find Interesting AI",
-      "description": "相关链接： https://github.com/ranaroussi/yfinance https://github.com/Micro-sheep/efinance https://github.com/vnpy/vnpy ...",
-      "published_at": "2025-04-13T06:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fH4KbFWkTWM/hqdefault.jpg"
-    },
-    {
-      "title": "最新的AI论文研究趋势",
-      "video_id": "w9_gvTTFuh8",
-      "channel_title": "Find Interesting AI",
-      "description": "",
-      "published_at": "2025-04-05T16:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w9_gvTTFuh8/hqdefault.jpg"
     }
   ]
 }

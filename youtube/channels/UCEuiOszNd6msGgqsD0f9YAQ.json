@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-02-01T00:42:07.930525",
+  "fetched_at": "2026-02-04T03:40:20.814733",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Electric hydrofoil ferry sets distance record",
+      "video_id": "AvYtS-LTNgg",
+      "channel_title": "Interesting Engineering",
+      "description": "Candela's P-12 electric hydrofoil ferry completed a 160-nautical-mile trip using fast chargers, cutting energy use 80% and proving ...",
+      "published_at": "2026-02-03T17:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AvYtS-LTNgg/hqdefault.jpg"
+    },
+    {
+      "title": "SpaceX acquires xAI in AI space push",
+      "video_id": "bw9F8zFoDn8",
+      "channel_title": "Interesting Engineering",
+      "description": "SpaceX has acquired xAI in a $1.25T tie-up, aligning Musk's AI ambitions with space infrastructure and a future vision of orbital ...",
+      "published_at": "2026-02-03T11:02:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bw9F8zFoDn8/hqdefault.jpg"
+    },
+    {
+      "title": "THEMIS Gen2.5 Joins Humanoid Robot Race",
+      "video_id": "34pkxb4hUL4",
+      "channel_title": "Interesting Engineering",
+      "description": "Westwood Robotics shows off their new humanoid robot, the THEMIS Gen2.5. What is it capable of? And how does it match ...",
+      "published_at": "2026-02-03T07:30:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/34pkxb4hUL4/hqdefault.jpg"
+    },
+    {
+      "title": "French Tech Giant Sells Subsidiary Exposed With Ties To ICE",
+      "video_id": "jbEBOCDZOZo",
+      "channel_title": "Interesting Engineering",
+      "description": "French tech company Capgemini faced scrutiny after its American subsidiary, Capgemini Government Solutions, was exposed for ...",
+      "published_at": "2026-02-02T17:01:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jbEBOCDZOZo/hqdefault.jpg"
+    },
+    {
+      "title": "Human Feces and Thyme used as Medicine in Ancient Rome",
+      "video_id": "PiZG61MaYCk",
+      "channel_title": "Interesting Engineering",
+      "description": "Would you believe that Ancient Rome used human feces in their medicine? While there have been theories about its use before, ...",
+      "published_at": "2026-02-02T14:30:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PiZG61MaYCk/hqdefault.jpg"
+    },
+    {
+      "title": "Nissan Showcases Solar Car",
+      "video_id": "x8ELNEBWk5A",
+      "channel_title": "Interesting Engineering",
+      "description": "Nissan has showcased a new concept of its Ariya car with sola panels fitted on the hood, roof, and back window. Claiming a range ...",
+      "published_at": "2026-02-01T14:30:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x8ELNEBWk5A/hqdefault.jpg"
+    },
+    {
+      "title": "This Asteroid Could Hit The Moon in 2032",
+      "video_id": "nBf41edITtY",
+      "channel_title": "Interesting Engineering",
+      "description": "There's a 4% chance that Asteroid 2024 YR4 could hit the moon in 2032. What could this do to our moon? And why are scientists ...",
+      "published_at": "2026-02-01T09:30:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nBf41edITtY/hqdefault.jpg"
+    },
     {
       "title": "NASA’s Artemis II mission animation",
       "video_id": "uzZDT0-yT8k",
@@ -13,68 +69,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uzZDT0-yT8k/hqdefault.jpg"
     },
     {
-      "title": "Humanity inches closer to global catastrophe",
-      "video_id": "11_WeIyXFYs",
-      "channel_title": "Interesting Engineering",
-      "description": "The Doomsday Clock has been moved to just 85 seconds before midnight — its closest ever setting — as scientists warn that ...",
-      "published_at": "2026-01-31T14:30:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/11_WeIyXFYs/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla puts basic autosteer behind a paywall",
-      "video_id": "E3jKUIg09RQ",
-      "channel_title": "Interesting Engineering",
-      "description": "Tesla no longer includes its lane-centering Autosteer system as standard on new Model 3 and Model Y vehicles in North America, ...",
-      "published_at": "2026-01-31T09:30:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E3jKUIg09RQ/hqdefault.jpg"
-    },
-    {
-      "title": "Has Google just destroyed game development with AI?",
-      "video_id": "5pB0Xzm4_PU",
-      "channel_title": "Interesting Engineering",
-      "description": "Google DeepMind's experimental Project Genie can generate and simulate interactive 3D worlds from simple prompts, hinting at ...",
-      "published_at": "2026-01-30T17:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5pB0Xzm4_PU/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla shifts from cars to humanoid robots",
-      "video_id": "RUKi1ZaMjWo",
-      "channel_title": "Interesting Engineering",
-      "description": "Tesla is ending Model S and Model X production as it pivots toward mass-producing Optimus humanoid robots, with a long-term ...",
-      "published_at": "2026-01-30T14:30:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RUKi1ZaMjWo/hqdefault.jpg"
-    },
-    {
-      "title": "Waymo robotaxi hits a child, sparking safety debates",
-      "video_id": "KeCDRBUZklM",
-      "channel_title": "Interesting Engineering",
-      "description": "A Waymo robotaxi struck a child near a Santa Monica school, triggering a federal safety investigation and raising broader ...",
-      "published_at": "2026-01-30T09:35:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KeCDRBUZklM/hqdefault.jpg"
-    },
-    {
       "title": "This $50,000 humanoid robot has eyebrows",
       "video_id": "AsKPdQji0vw",
       "channel_title": "Interesting Engineering",
       "description": "Designed to work safely and naturally around people, Sprout from Fauna Robotics, is $50000 humanoid robot butler that can ...",
       "published_at": "2026-01-29T15:31:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AsKPdQji0vw/hqdefault.jpg"
-    },
-    {
-      "title": "Another fire at luxury lodge: Courchevel hotel",
-      "video_id": "9UNUkRUUAWs",
-      "channel_title": "Interesting Engineering",
-      "description": "A major fire forced the evacuation of around 300 guests and staff from a luxury Courchevel hotel in the French Alps.",
-      "published_at": "2026-01-29T09:11:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9UNUkRUUAWs/hqdefault.jpg"
-    },
-    {
-      "title": "Helix 02: The AI brain that can do dishes",
-      "video_id": "4gMN3iJjNWw",
-      "channel_title": "Interesting Engineering",
-      "description": "Figure's Helix 02 is an AI control system that acts as the “brain” for its Figure 03 humanoid robot, combining vision, touch sensing, ...",
-      "published_at": "2026-01-28T15:27:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4gMN3iJjNWw/hqdefault.jpg"
     },
     {
       "title": "British Airways A350 lost wheel mid-air in Las Vegas",

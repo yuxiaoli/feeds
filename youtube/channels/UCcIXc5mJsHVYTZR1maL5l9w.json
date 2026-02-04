@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-01T00:42:36.798041",
+  "fetched_at": "2026-02-04T03:40:50.124457",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
-  "count": 25,
+  "count": 10,
   "videos": [
     {
-      "title": "Talent, immigration, and AI",
+      "title": "Immigration + AI Talent",
       "video_id": "4LUy_QkFj-M",
       "channel_title": "DeepLearningAI",
       "description": "Andrew Ng on why welcoming immigrants has been essential to building strong AI communities, and why attracting global talent ...",
@@ -83,126 +83,6 @@
       "description": "You don't need to know how to code to build apps anymore. Andrew Ng's new course shows how to turn an idea into a working ...",
       "published_at": "2026-01-07T15:13:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Wq634q-uKpA/hqdefault.jpg"
-    },
-    {
-      "title": "Make your AI agents production-ready with Nvidia’s NeMo Toolkit",
-      "video_id": "N72-fAI5V9k",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/48XQSVk Many teams can build an impressive agent demo, but struggle to turn it into a system that's ...",
-      "published_at": "2025-12-17T14:43:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N72-fAI5V9k/hqdefault.jpg"
-    },
-    {
-      "title": "Learn to implement multi-vector retrieval for image data in this new course",
-      "video_id": "5lR0V1PUZ10",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/44b5kHS Our new short course, Multi-Vector Image Retrieval, created in collaboration with Qdrant, is now ...",
-      "published_at": "2025-12-10T14:26:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5lR0V1PUZ10/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Nyah Macklin: How to Structure Context to Make Your Agents Smarter",
-      "video_id": "YdQZzxjIhzE",
-      "channel_title": "DeepLearningAI",
-      "description": "When agents fail at complex tasks, the problem is rarely the model itself— it's the lack of a proper context that is required for ...",
-      "published_at": "2025-12-08T14:27:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YdQZzxjIhzE/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Tyler Slaton: Build User Facing Agentic Applications with AG UI",
-      "video_id": "fGSpr8bHxcM",
-      "channel_title": "DeepLearningAI",
-      "description": "What does it take to build a production-ready full-stack agentic application? In this talk by Tyler Slaton, Senior Founding Engineer ...",
-      "published_at": "2025-12-05T20:56:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fGSpr8bHxcM/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Tanveer Mittal, Utkarsh Lamba: Building with the Claude Agent SDK",
-      "video_id": "8tg8z-Fi0MU",
-      "channel_title": "DeepLearningAI",
-      "description": "This session, led by Tanveer Mittal and Utkarsh Lamba, members of Technical Staff at Anthropic, explored best practices for ...",
-      "published_at": "2025-12-05T20:53:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8tg8z-Fi0MU/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Stefano Pasquali: Building Trustworthy AI for Finance",
-      "video_id": "EBzqP7njk00",
-      "channel_title": "DeepLearningAI",
-      "description": "This session by Stefano Pasquali, SVP, Head of Financial Services at Domyn introduced Domyn's Sovereign AI architecture, ...",
-      "published_at": "2025-12-05T20:43:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EBzqP7njk00/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Scott Yak: Building MCP Servers That Make Agents More Effective",
-      "video_id": "Xel_mF5CCAo",
-      "channel_title": "DeepLearningAI",
-      "description": "Agents often rely on external tools to help them accomplish their tasks, and external MCP servers are convenient for getting those ...",
-      "published_at": "2025-12-05T20:39:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xel_mF5CCAo/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Scott Hurrey: Scaling Enterprise AI with MCP and A2A",
-      "video_id": "fdt8LfaZlT8",
-      "channel_title": "DeepLearningAI",
-      "description": "Box has evolved enterprise AI integration from custom API code to standardized protocols that eliminate complexity at scale.",
-      "published_at": "2025-12-05T20:33:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fdt8LfaZlT8/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Samraj Moorjani: Accelerate High quality Agent Development with MLflow",
-      "video_id": "qOFKpHEm2zg",
-      "channel_title": "DeepLearningAI",
-      "description": "Building high-quality agents is one of the biggest challenges teams face today, often requiring vibe checks, manual labeling, ...",
-      "published_at": "2025-12-05T20:23:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qOFKpHEm2zg/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Robert Crowe: JAX Made Simple: An Intuitive Guide to Building Fast Neural Networks",
-      "video_id": "FEVFMXvwPuM",
-      "channel_title": "DeepLearningAI",
-      "description": "In this session, Robert Crowe, Product Manager at Google, spoke about Flax NNX, the new, streamlined API for building, ...",
-      "published_at": "2025-12-05T20:08:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FEVFMXvwPuM/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Phillip Snalune: AI Upskilling: A Framework Agnostic Playbook to Scale Adoption",
-      "video_id": "iPu68fiNyBU",
-      "channel_title": "DeepLearningAI",
-      "description": "Industry leaders agree: the missing layer in enterprise AI is hands-on, immersive learning. In this session, Codio founder Phillip ...",
-      "published_at": "2025-12-05T20:04:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iPu68fiNyBU/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Param Singh: Building with Mistral: Open, Powerful, and Ready to Scale",
-      "video_id": "Axlesb8yTro",
-      "channel_title": "DeepLearningAI",
-      "description": "Param Singh, Partner Solution Architect at Mistral AI offered an insightful session on developing and deploying Enterprise AI ...",
-      "published_at": "2025-12-05T19:59:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Axlesb8yTro/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Panel Discussion: Software Development in the Age of AI",
-      "video_id": "bttcJn58J24",
-      "channel_title": "DeepLearningAI",
-      "description": "Artificial intelligence is redefining how software is conceived, built, and maintained. This panel brought together Laurence ...",
-      "published_at": "2025-12-05T19:55:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bttcJn58J24/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Panel: Building Trustworthy AI through Governance, Literacy, and Community",
-      "video_id": "Q_mwaPOQxnc",
-      "channel_title": "DeepLearningAI",
-      "description": "As AI systems move from lab to production, engineers face a new challenge: how to innovate fast while building responsibly.",
-      "published_at": "2025-12-05T19:49:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q_mwaPOQxnc/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 25 x NYC | Panel discussion: Breaking the Limits of AI Growth: from Hardware to Application",
-      "video_id": "e_CR4kN0XE4",
-      "channel_title": "DeepLearningAI",
-      "description": "From large models to real-time applications and product-level tradeoffs, the path to scalable AI is full of hard engineering choices.",
-      "published_at": "2025-12-05T19:43:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e_CR4kN0XE4/hqdefault.jpg"
     }
   ]
 }

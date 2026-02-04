@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-01T00:42:38.981380",
+  "fetched_at": "2026-02-04T03:40:52.247377",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Legacy meets legend | Beoplay H100, G-DRAGON Limited Edition",
+      "video_id": "DNIMQ8zEFpE",
+      "channel_title": "Bang & Olufsen",
+      "description": "Legacy meets legend. Beoplay H100, G-DRAGON Limited Edition. Exclusively available in selected regions (APAC.)",
+      "published_at": "2026-02-02T13:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DNIMQ8zEFpE/hqdefault.jpg"
+    },
+    {
+      "title": "Beoplay H100, G-DRAGON Limited Edition",
+      "video_id": "1byzXyWYADE",
+      "channel_title": "Bang & Olufsen",
+      "description": "Legacy meets legend. Exclusively available in selected regions (APAC.) #BangOlufsen​",
+      "published_at": "2026-02-02T13:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1byzXyWYADE/hqdefault.jpg"
+    },
     {
       "title": "Surrounded by beautiful sound | Bang &amp; Olufsen",
       "video_id": "6qOcpokoyUw",
@@ -67,22 +83,6 @@
       "description": "Beosound Premiere. Come closer to spatial sound, like you've never experienced it before. ​ #BangOlufsen ...",
       "published_at": "2026-01-08T11:02:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/woXhQ0ZowHE/hqdefault.jpg"
-    },
-    {
-      "title": "Sound. Elevated. | Bang &amp; Olufsen",
-      "video_id": "reNIA7KDrS0",
-      "channel_title": "Bang & Olufsen",
-      "description": "Spinning you right round. Since 1925. ​ #BangOlufsen #SoundElevated.",
-      "published_at": "2026-01-02T13:01:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/reNIA7KDrS0/hqdefault.jpg"
-    },
-    {
-      "title": "Sound. Elevated. | Bang &amp; Olufsen",
-      "video_id": "8VUHS0Zs1rU",
-      "channel_title": "Bang & Olufsen",
-      "description": "Get in, we're going on a journey. Through 100 years of sound. And beyond. #BangOlufsen #SoundElevated.",
-      "published_at": "2025-12-27T10:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8VUHS0Zs1rU/hqdefault.jpg"
     }
   ]
 }

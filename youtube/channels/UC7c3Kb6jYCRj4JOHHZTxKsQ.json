@@ -1,32 +1,64 @@
 {
-  "fetched_at": "2026-02-01T00:42:00.026330",
+  "fetched_at": "2026-02-04T03:40:12.660322",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 10,
+  "count": 14,
   "videos": [
     {
-      "title": "Saving 30 seconds for 180 million developers",
-      "video_id": "XvFVAWEsr0c",
+      "title": "Open Source Friday with Martin Woodward",
+      "video_id": "zVWT8ZQZYhI",
       "channel_title": "GitHub",
-      "description": "How do you make an impact on 180 million developers? Helen Hou-Sandí, Engineering Manager at GitHub, explains the \"Tiny ...",
-      "published_at": "2026-01-31T17:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XvFVAWEsr0c/hqdefault.jpg"
+      "description": "Join us for an exclusive conversation with Martin Woodward, GitHub's VP of Developer Relations, recorded live at GitHub ...",
+      "published_at": "2026-02-04T00:15:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zVWT8ZQZYhI/hqdefault_live.jpg"
     },
     {
-      "title": "GitHub’s year in review: accessibility, MCP, and tiny wins | Episode 11 | The GitHub Podcast",
-      "video_id": "DW_vw8BkcBU",
+      "title": "Rubber Duck Thursdays | Let&#39;s cowork and code!",
+      "video_id": "GlSN5FmVUqg",
       "channel_title": "GitHub",
-      "description": "In this year-in-review episode of The GitHub Podcast, Cassidy and Abby are joined by Helen Hou-Sandí, GitHub's engineering ...",
-      "published_at": "2026-01-31T15:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DW_vw8BkcBU/hqdefault.jpg"
+      "description": "Chris will be walking through some projects and answering your questions.",
+      "published_at": "2026-02-03T21:09:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GlSN5FmVUqg/hqdefault_live.jpg"
     },
     {
-      "title": "Open Source Friday with any-llm library",
-      "video_id": "L9UUCnnTQaM",
+      "title": "Anders Hejlsberg on the worst programming language for AI",
+      "video_id": "P_gizaPKgPY",
       "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday as we welcome Nathan Brake, Senior Machine Learning Engineer at Mozilla.ai and creator of the ...",
-      "published_at": "2026-01-31T07:02:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L9UUCnnTQaM/hqdefault.jpg"
+      "description": "Why don't we just design the perfect programming language for AI? Anders Hejlsberg explains the paradox: a \"perfect\" new ...",
+      "published_at": "2026-02-03T17:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/P_gizaPKgPY/hqdefault.jpg"
+    },
+    {
+      "title": "Configuring model context protocol in the GitHub Copilot CLI | demo",
+      "video_id": "O73egpvWcpY",
+      "channel_title": "GitHub",
+      "description": "The Model Context Protocol (MCP) is like a USB port for your AI, allowing you to plug in external tools and documentation.",
+      "published_at": "2026-02-03T15:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O73egpvWcpY/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday with Rio Terminal",
+      "video_id": "c8mcMNn0f5s",
+      "channel_title": "GitHub",
+      "description": "In this Open Source Friday session, we're joined by Raphael Amorim (@raphamorim) Software Developer at Charm and ...",
+      "published_at": "2026-02-02T20:48:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c8mcMNn0f5s/hqdefault_live.jpg"
+    },
+    {
+      "title": "How to use the /share command in GitHub Copilot CLI | Demo",
+      "video_id": "E17SXyL53w4",
+      "channel_title": "GitHub",
+      "description": "Did you know you can share your GitHub Copilot CLI sessions with your team? In this demo, @shanselman explores the /share ...",
+      "published_at": "2026-02-02T15:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E17SXyL53w4/hqdefault.jpg"
+    },
+    {
+      "title": "Switching models in GitHub Copilot CLI | demo",
+      "video_id": "dpxODnbIQgg",
+      "channel_title": "GitHub",
+      "description": "shanselman demonstrates the power of choice in the GitHub Copilot CLI. In this video, he shows how to switch between 14 ...",
+      "published_at": "2026-02-01T15:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dpxODnbIQgg/hqdefault.jpg"
     },
     {
       "title": "How a designer built an ASCII animation tool with GitHub Copilot",
@@ -37,14 +69,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Lxi66vm5hP0/hqdefault.jpg"
     },
     {
-      "title": "Event in Spanish: Jueves de Quak con Carlos Alarcon y Copilot SDK",
-      "video_id": "nMsuWOkaf9I",
-      "channel_title": "GitHub",
-      "description": "En este episodio de Jueves de Quack nos acompaña @@alarcon7a, un ingeniero increíble y builder de corazón, para meternos ...",
-      "published_at": "2026-01-30T16:55:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nMsuWOkaf9I/hqdefault_live.jpg"
-    },
-    {
       "title": "Building a color palette app with GitHub Copilot SDK",
       "video_id": "aGDQD3V5mvw",
       "channel_title": "GitHub",
@@ -53,36 +77,44 @@
       "thumbnail_url": "https://i.ytimg.com/vi/aGDQD3V5mvw/hqdefault.jpg"
     },
     {
-      "title": "Event in Spanish: Jueves de Quack Copilot SDK",
-      "video_id": "aTVwHMrDDls",
+      "title": "The history of C# and TypeScript with Anders Hejlsberg | GitHub",
+      "video_id": "uMqx8NNT4xY",
       "channel_title": "GitHub",
-      "description": "Vamos a explorar juntos lo ultimo de GitHub!",
-      "published_at": "2026-01-30T12:52:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aTVwHMrDDls/hqdefault.jpg"
+      "description": "Anders Hejlsberg is one of the most influential language designers of our time, having created Turbo Pascal, Delphi, C#, and ...",
+      "published_at": "2026-01-27T17:01:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uMqx8NNT4xY/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays! Let&#39;s build something cool today!",
-      "video_id": "7uzabx0qIC0",
+      "title": "Open Source Friday with Copilot SDK",
+      "video_id": "LO7nf-dbURE",
       "channel_title": "GitHub",
-      "description": "Let's use GitHub to build something sick.",
-      "published_at": "2026-01-30T08:13:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7uzabx0qIC0/hqdefault.jpg"
+      "description": "Join us for Open Source Friday with Patrick Nikoletich, where we'll explore the Copilot SDK (`github/copilot-sdk`) and how it can ...",
+      "published_at": "2026-01-25T20:45:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LO7nf-dbURE/hqdefault_live.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays - Let&#39;s build with GitHub Copilot SDK",
-      "video_id": "IKzfETGGt0E",
+      "title": "GitHub Code &amp; Community Live Stream: Arm Cloud Migration Agent",
+      "video_id": "nQKggqaVMvc",
       "channel_title": "GitHub",
-      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. This week we'll ...",
-      "published_at": "2026-01-30T00:22:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IKzfETGGt0E/hqdefault.jpg"
+      "description": "Arm built a custom agent for GitHub Copilot that helps you migrate workloads to Arm-based cloud infrastructure. In this stream, we ...",
+      "published_at": "2026-01-25T20:21:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nQKggqaVMvc/hqdefault_live.jpg"
     },
     {
-      "title": "Inside the GitHub Secure Open Source Fund | Episode 10 | The GitHub Podcast",
-      "video_id": "XmCSHr12CO0",
+      "title": "Open Source Friday with Handy",
+      "video_id": "rWreWlS61gE",
       "channel_title": "GitHub",
-      "description": "In this episode guest host, Greg Cochran, from the GitHub Secure Open Source Fund brings together four maintainers who are ...",
-      "published_at": "2026-01-28T15:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XmCSHr12CO0/hqdefault.jpg"
+      "description": "Join us for Open Source Friday as we spotlight Handy, a free, open source, and extensible speech-to-text application that runs ...",
+      "published_at": "2026-01-21T16:44:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rWreWlS61gE/hqdefault_live.jpg"
+    },
+    {
+      "title": "The Joy of Developer Education with @codetv-dev | Episode 2 | The GitHub Podcast",
+      "video_id": "YnqJOJ9FzvE",
+      "channel_title": "GitHub",
+      "description": "In this episode of the GitHub Podcast, Cassidy, Abby, and Andrea are joined by developer advocate, educator, and creator of ...",
+      "published_at": "2025-10-21T14:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YnqJOJ9FzvE/hqdefault.jpg"
     }
   ]
 }

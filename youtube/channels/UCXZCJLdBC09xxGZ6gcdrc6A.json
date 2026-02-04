@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-02-01T00:42:31.000001",
+  "fetched_at": "2026-02-04T03:40:44.135135",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Automate tasks with the Codex app",
+      "video_id": "xHnlzAPD9QI",
+      "channel_title": "OpenAI",
+      "description": "Andrew from the Codex engineering team shows how he uses automations in the Codex app to take care of the least fun parts of ...",
+      "published_at": "2026-02-03T18:04:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xHnlzAPD9QI/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing the Codex app",
+      "video_id": "HFM3se4lNiw",
+      "channel_title": "OpenAI",
+      "description": "The Codex app is a powerful command center for building with agents. • Multitask effortlessly: Work with multiple agents in parallel ...",
+      "published_at": "2026-02-02T22:16:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HFM3se4lNiw/hqdefault.jpg"
+    },
+    {
+      "title": "Accelerating science with Prism",
+      "video_id": "NAcdcunPfJg",
+      "channel_title": "OpenAI",
+      "description": "When you look at scientific tooling, a lot of it hasn't changed in decades. That's why we recently launched Prism: a free, AI-native ...",
+      "published_at": "2026-02-02T21:09:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NAcdcunPfJg/hqdefault.jpg"
+    },
+    {
+      "title": "A first look at the Codex app",
+      "video_id": "0e-Brv-gS9Q",
+      "channel_title": "OpenAI",
+      "description": "Introducing the Codex app—now available on macOS The Codex app is a powerful command center for building with agents.",
+      "published_at": "2026-02-02T18:03:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0e-Brv-gS9Q/hqdefault.jpg"
+    },
     {
       "title": "Introducing Prism, a free workspace for scientists to write and collaborate on research",
       "video_id": "xnInEsaaj9c",
@@ -51,38 +83,6 @@
       "description": "Starting today, ChatGPT Go is rolling out everywhere ChatGPT is available. In the US, Go is available for $8* per month. ChatGPT ...",
       "published_at": "2026-01-16T18:06:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/RXJ8zqblP5M/hqdefault.jpg"
-    },
-    {
-      "title": "Helping you choose the right insurance plan for you with ChatGPT",
-      "video_id": "g4MTiidxp8I",
-      "channel_title": "OpenAI",
-      "description": "We're introducing ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT's ...",
-      "published_at": "2026-01-12T17:13:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g4MTiidxp8I/hqdefault.jpg"
-    },
-    {
-      "title": "Getting started with Codex",
-      "video_id": "px7XlbYgk7I",
-      "channel_title": "OpenAI",
-      "description": "Get started with Codex, OpenAI's coding agent, in this step-by-step onboarding walkthrough. You'll learn how to install Codex, set ...",
-      "published_at": "2026-01-12T16:11:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/px7XlbYgk7I/hqdefault.jpg"
-    },
-    {
-      "title": "This Year with ChatGPT",
-      "video_id": "cjveRUfE7dc",
-      "channel_title": "OpenAI",
-      "description": "Set goals and stick to them all year with ChatGPT. Music: \"Les Fleurs\" by Minnie Riperton.",
-      "published_at": "2026-01-09T16:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cjveRUfE7dc/hqdefault.jpg"
-    },
-    {
-      "title": "Preparing for Appointments | with ChatGPT",
-      "video_id": "uZ_BMwB647A",
-      "channel_title": "OpenAI",
-      "description": "Liz used ChatGPT throughout her teenage son's cancer treatment to translate reports, prepare questions, and have more informed ...",
-      "published_at": "2026-01-08T17:15:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uZ_BMwB647A/hqdefault.jpg"
     }
   ]
 }

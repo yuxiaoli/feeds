@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-02-01T00:42:04.285054",
+  "fetched_at": "2026-02-04T03:40:16.943385",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 7,
   "videos": [
+    {
+      "title": "A Deep Look into StateTree | Inside Unreal",
+      "video_id": "X4-PFAb3th0",
+      "channel_title": "Unreal Engine",
+      "description": "A deep look into StateTree showing how the underlying tech works as well as some best practices and use cases for the tech!",
+      "published_at": "2026-02-03T18:56:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X4-PFAb3th0/hqdefault_live.jpg"
+    },
+    {
+      "title": "Valor Mortis | Developer Interview | Unreal Engine",
+      "video_id": "d-dsT4nmnMA",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video to explore the impact UE5 had on the development of 'Valor Mortis': an innovative, original title set in an alternate ...",
+      "published_at": "2026-02-03T16:59:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d-dsT4nmnMA/hqdefault.jpg"
+    },
+    {
+      "title": "News and Community Spotlight | February 2nd, 2026",
+      "video_id": "e_-LMHlqJbo",
+      "channel_title": "Unreal Engine",
+      "description": "News Get your tickets for Unreal Fest Chicago 2026 | https://www.unrealengine.com/en-US/events/unreal-fest-chicago-2026 Fab ...",
+      "published_at": "2026-02-02T15:10:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e_-LMHlqJbo/hqdefault.jpg"
+    },
+    {
+      "title": "Engineering Digital Twins for Milano Cortina 2026 Winter Olympics | Unreal Fest Stockholm 2025",
+      "video_id": "xAhIf-ADvls",
+      "channel_title": "Unreal Engine",
+      "description": "SIMICO is pioneering the future of sustainable infrastructure for the Milano Cortina 2026 Winter Olympics through SimicoTwin, ...",
+      "published_at": "2026-02-02T10:16:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xAhIf-ADvls/hqdefault.jpg"
+    },
     {
       "title": "Unreal Engine at CES 2026",
       "video_id": "PVc-w1MY5aI",
@@ -21,44 +53,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/p8kFmj1dvgc/hqdefault.jpg"
     },
     {
-      "title": "Mastering the UE5 Tweener Tool: Push Pull &amp; Overshoot Animation",
-      "video_id": "oUPOBsCrWwE",
-      "channel_title": "Unreal Engine",
-      "description": "SECRET UE5 ANIMATION TIPS: Mastering the Tweener Tool (Push/Pull & Overshoot): Explore the various modes of the Tweener ...",
-      "published_at": "2026-01-30T01:27:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oUPOBsCrWwE/hqdefault.jpg"
-    },
-    {
       "title": "UE5 Curve Editor 2.0 New Lattice Tool &amp; Curve Scaling HACKS (UE 5.6)",
       "video_id": "VD_cfVvMs6Y",
       "channel_title": "Unreal Engine",
       "description": "UE 5.6 CURVE EDITOR OVERHAUL: Lattice Tool & Smart Snap for Clean Animation: Master the redesigned Unreal Engine ...",
       "published_at": "2026-01-30T01:27:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/VD_cfVvMs6Y/hqdefault.jpg"
-    },
-    {
-      "title": "Stylized Comic Material Color and Highlights | Unreal Engine Animation Hub",
-      "video_id": "_HE1I5WyYK8",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video and learn how to take the material created in the previous episodes of this series to the next level by adding in ...",
-      "published_at": "2026-01-29T16:40:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_HE1I5WyYK8/hqdefault.jpg"
-    },
-    {
-      "title": "Yuki’s Revenge | Animating The Lost Chapter",
-      "video_id": "vCGWvC25MWo",
-      "channel_title": "Unreal Engine",
-      "description": "Learn how Epic Games and The Third Floor collaborated to shape the animation approach for The Lost Chapter: Yuki's Revenge ...",
-      "published_at": "2026-01-28T19:13:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vCGWvC25MWo/hqdefault.jpg"
-    },
-    {
-      "title": "Building real time worlds with The Boundary",
-      "video_id": "viTjFK3eYGQ",
-      "channel_title": "Unreal Engine",
-      "description": "Interested in working at a leading creative visualization studio? James Falconer from The Boundary explains how the real estate ...",
-      "published_at": "2026-01-28T14:34:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/viTjFK3eYGQ/hqdefault.jpg"
     }
   ]
 }

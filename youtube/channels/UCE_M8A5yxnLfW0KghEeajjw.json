@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-01T00:42:05.697571",
+  "fetched_at": "2026-02-04T03:40:18.409163",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Get everyone in frame with Camera Remote on Apple Watch. Tip from Nathan at the Apple Store. #Shorts",
+      "video_id": "G7k3H5Or160",
+      "channel_title": "Apple",
+      "description": "iPhone #AppleWatch #CameraRemote #AppleStore.",
+      "published_at": "2026-02-03T17:11:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G7k3H5Or160/hqdefault.jpg"
+    },
     {
       "title": "Shot on iPhone 17 Pro | Chinese New Year - Glad I Met You: Backstage with Ke Ming | Apple",
       "video_id": "J2OGTd8Zgow",
@@ -75,14 +83,6 @@
       "description": "Capturing video in the ProRes RAW format allows you to grade with incredible flexibility, extending your ability to adjust color, ...",
       "published_at": "2026-01-21T17:01:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/TCvCBTl5WZ0/hqdefault.jpg"
-    },
-    {
-      "title": "Control your Apple Watch with a flick of the wrist. Tip from Piper at the Apple Store. #Shorts",
-      "video_id": "VUr7Me2Sd0U",
-      "channel_title": "Apple",
-      "description": "AppleWatch #AppleWatchTips #ControlWithGestures #AppleStore.",
-      "published_at": "2026-01-20T17:04:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VUr7Me2Sd0U/hqdefault.jpg"
     }
   ]
 }
