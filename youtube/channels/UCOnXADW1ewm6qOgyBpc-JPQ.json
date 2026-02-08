@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-04T03:40:36.216745",
+  "fetched_at": "2026-02-08T00:47:07.432090",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "There is no gravity in this gym #calisthenics #motivation #gymmotivation #streetworkout streetwo",
+      "video_id": "to8OShH3-Mw",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2026-02-07T15:01:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/to8OShH3-Mw/hqdefault.jpg"
+    },
     {
       "title": "pullups looking ai generated #calisthenics #shorts",
       "video_id": "UtWNP5zWfpQ",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-31T15:00:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5bTltHR2Li8/hqdefault.jpg"
-    },
-    {
-      "title": "vertically speedrunning pullups #calisthenics",
-      "video_id": "_scSHgzsvC4",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-08-24T15:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_scSHgzsvC4/hqdefault.jpg"
     }
   ]
 }

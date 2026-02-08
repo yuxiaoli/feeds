@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-04T03:40:26.760601",
+  "fetched_at": "2026-02-08T00:46:56.907063",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "【python】自从用了它，我的程序动不动就死锁！",
+      "video_id": "xJSTbtE9nBo",
+      "channel_title": "码农高天",
+      "description": "这期视频给大家介绍一下危险的__del__，讲讲它是怎么在我们的项目中造成死锁的，以及你应该如何规避这种情况的发生。",
+      "published_at": "2026-02-06T10:30:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xJSTbtE9nBo/hqdefault.jpg"
+    },
     {
       "title": "PyConTW来了！在台湾最完美的句号，还有神秘嘉宾哦！",
       "video_id": "lMDcxjBRBoM",
@@ -75,14 +83,6 @@
       "description": "Python3.14发布啦，我们这期视频聊一下3.14里我觉得最重要的一些特性。不管是free threaded，JIT还是multi interpreter，我们都 ...",
       "published_at": "2025-10-08T11:06:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/aHGZghUGWyQ/hqdefault.jpg"
-    },
-    {
-      "title": "在多文化交融的马六甲金句频出！这太适合一日游了！",
-      "video_id": "E3T_D1l96E4",
-      "channel_title": "码农高天",
-      "description": "在马六甲做了一个一日游，不得不说这个城市太适合一日游了！在步行范围内你可以感受到好多种不同的文化对一个城市的影响， ...",
-      "published_at": "2025-09-21T03:30:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E3T_D1l96E4/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-04T03:40:11.934512",
+  "fetched_at": "2026-02-08T00:46:40.883292",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 1,
+  "count": 3,
   "videos": [
+    {
+      "title": "Meta Quest Heals All",
+      "video_id": "l-Sdl0AO9Xk",
+      "channel_title": "Meta Quest ",
+      "description": "",
+      "published_at": "2026-02-06T23:02:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l-Sdl0AO9Xk/hqdefault.jpg"
+    },
+    {
+      "title": "Beat Saber | Bad Bunny: Me Porto Bonito (feat. Chencho Corleone) | Meta Quest Platform",
+      "video_id": "dCs1s1-VrLc",
+      "channel_title": "Meta Quest ",
+      "description": "Global superstar Bad Bunny brings his hit \"Me Porto Bonito (feat. Chencho Corleone)\" to Beat Saber! Don't miss the 4-year ...",
+      "published_at": "2026-02-05T23:59:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dCs1s1-VrLc/hqdefault.jpg"
+    },
     {
       "title": "UnLoop | “More Time To Spy” 1.1.0 Update Trailer | Meta Quest Platform",
       "video_id": "C5K-xzslPyU",

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-02-04T03:40:31.816563",
+  "fetched_at": "2026-02-08T00:47:02.604150",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
   "count": 8,
   "videos": [
+    {
+      "title": "Restoring NASA’s Core Competencies",
+      "video_id": "3R2H0rcP2vg",
+      "channel_title": "NASA",
+      "description": "NASA Administrator Jared Isaacman speaks about a workforce directive being issued to rebuild internal talent, strengthen ...",
+      "published_at": "2026-02-06T17:20:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3R2H0rcP2vg/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-12 Launch",
+      "video_id": "zCM-Kwq91cc",
+      "channel_title": "NASA",
+      "description": "Watch live as four explorers from three space agencies lift off for a scientific mission to the International Space Station.",
+      "published_at": "2026-02-05T19:07:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zCM-Kwq91cc/hqdefault_live.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-12 Prelaunch News Conference (Feb. 9, 2026)",
+      "video_id": "I12pFrHAuQI",
+      "channel_title": "NASA",
+      "description": "NASA and the agency's partners preview the launch of our SpaceX Crew-12 mission. Participants include: - Steve Stich, manager, ...",
+      "published_at": "2026-02-04T18:36:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I12pFrHAuQI/hqdefault_live.jpg"
+    },
     {
       "title": "NASA&#39;s Artemis II Fueling Test News Conference (Feb. 3, 2026)",
       "video_id": "ycqk3uN_N6g",
@@ -21,36 +45,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/5zDlM8d4Q7g/hqdefault.jpg"
     },
     {
-      "title": "NASA&#39;s SpaceX Crew-12 Flight Crew News Conference (Jan. 30, 2026)",
-      "video_id": "6f-rlnUo5T0",
-      "channel_title": "NASA",
-      "description": "The four members of NASA's SpaceX Crew-12 mission to the International Space Station are talking about their upcoming journey ...",
-      "published_at": "2026-01-30T18:53:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6f-rlnUo5T0/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX Crew-12 Mission Overview News Conference (Jan. 30, 2026)",
-      "video_id": "ZTjHB4QipPk",
-      "channel_title": "NASA",
-      "description": "Leaders from NASA and agency partners are holding a news conference at NASA's Johnson Space Center to discuss final ...",
-      "published_at": "2026-01-30T17:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZTjHB4QipPk/hqdefault.jpg"
-    },
-    {
       "title": "NASA&#39;s Artemis II Live Views from Kennedy Space Center",
       "video_id": "xCrPD7tfcr0",
       "channel_title": "NASA",
       "description": "This live feed from our Kennedy Space Center in Florida will provide continuous views of the Artemis II Moon rocket beginning on ...",
       "published_at": "2026-01-26T21:18:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xCrPD7tfcr0/hqdefault_live.jpg"
-    },
-    {
-      "title": "Share Your #NASAMoonCrew and Get Excited for Artemis II",
-      "video_id": "suUm2fHId8U",
-      "channel_title": "NASA",
-      "description": "NASA will launch the Artemis II mission this year, sending four astronauts on an approximately 10-day journey around the Moon.",
-      "published_at": "2026-01-26T18:24:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/suUm2fHId8U/hqdefault.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",

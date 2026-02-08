@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-02-04T03:40:28.177781",
+  "fetched_at": "2026-02-08T00:46:58.578977",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
-  "count": 25,
+  "count": 10,
   "videos": [
     {
       "title": "Optimize your agent setup (AGENTS.md, custom commands)",
@@ -83,126 +83,6 @@
       "description": "Warp now connects with Slack, Linear, and GitHub Actions, letting you assign tasks to the agent directly from the tools your team ...",
       "published_at": "2025-11-20T15:15:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FNefNmbSdmg/hqdefault.jpg"
-    },
-    {
-      "title": "Warp agents can now /plan (Planning Mode)",
-      "video_id": "DawcFWyudV0",
-      "channel_title": "Warp",
-      "description": "How do you keep AI on track? You give it a plan. Warp's new /plan command introduces spec-driven development inside the ...",
-      "published_at": "2025-11-20T15:16:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DawcFWyudV0/hqdefault.jpg"
-    },
-    {
-      "title": "Agents 3.0 — Agents now have Full Terminal Use",
-      "video_id": "gBdehHrtb94",
-      "channel_title": "Warp",
-      "description": "Meet the first AI agent that can actually use the terminal like you do. Warp's Full Terminal Use lets agents interact with REPLs, run ...",
-      "published_at": "2025-11-19T16:43:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gBdehHrtb94/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Agents 3.0 — Full Terminal Use, /plan, and more",
-      "video_id": "igxPtzCImxM",
-      "channel_title": "Warp",
-      "description": "Warp's new features expand what agents can do and how you can interact with them: • Full Terminal Use lets the agent use the ...",
-      "published_at": "2025-11-19T15:44:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/igxPtzCImxM/hqdefault.jpg"
-    },
-    {
-      "title": "Dylan Field and Lenny Ratchinsky on Warp and how Figma tackles blockers!",
-      "video_id": "jaYC3tuo9MY",
-      "channel_title": "Warp",
-      "description": "Dylan Field and Lenny Ratchinsky discuss Warp and how Figma tackles blockers!",
-      "published_at": "2025-11-15T18:57:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jaYC3tuo9MY/hqdefault.jpg"
-    },
-    {
-      "title": "Does re-writing from the ground-up make sense?",
-      "video_id": "vC6Dr-tnhoA",
-      "channel_title": "Warp",
-      "description": "Does re-writing from the ground-up make sense? For founders, probably not!",
-      "published_at": "2025-11-14T21:04:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vC6Dr-tnhoA/hqdefault.jpg"
-    },
-    {
-      "title": "How sustainable is vibe-coding in the long-term?",
-      "video_id": "dvTnbbdEvnE",
-      "channel_title": "Warp",
-      "description": "How sustainable is vibe-coding in the long term? Not very sustainable.",
-      "published_at": "2025-11-14T18:56:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dvTnbbdEvnE/hqdefault.jpg"
-    },
-    {
-      "title": "Will Agents replace Engineers?",
-      "video_id": "D4IlguV2WTg",
-      "channel_title": "Warp",
-      "description": "Are Agents replacing engineers? Not necessarily.",
-      "published_at": "2025-11-13T23:00:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D4IlguV2WTg/hqdefault.jpg"
-    },
-    {
-      "title": "The Future of Coding",
-      "video_id": "WqcUGLJXpL4",
-      "channel_title": "Warp",
-      "description": "Development by hand? ❌ Development by prompt ... with Zach and the No Priors Show!",
-      "published_at": "2025-11-13T21:30:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WqcUGLJXpL4/hqdefault.jpg"
-    },
-    {
-      "title": "Growth inflection point",
-      "video_id": "4BzWg9tpJj4",
-      "channel_title": "Warp",
-      "description": "Zach's founder take on hypergrowth for startups on The Room Podcast.",
-      "published_at": "2025-10-24T17:26:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4BzWg9tpJj4/hqdefault.jpg"
-    },
-    {
-      "title": "Vlad Kachur - Non technical founders",
-      "video_id": "5ZIBnrMaf2s",
-      "channel_title": "Warp",
-      "description": "Can you really vibe-code complex apps like Figma, Notion, or Slack? Zach says stay tuned. #vibecoding #zerotohero.",
-      "published_at": "2025-10-24T17:17:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5ZIBnrMaf2s/hqdefault.jpg"
-    },
-    {
-      "title": "Warp Sharpshooter",
-      "video_id": "o3rW4iwCKU0",
-      "channel_title": "Warp",
-      "description": "Warp's agents solve your problems with sharpshooter precision #agents #debugging.",
-      "published_at": "2025-10-20T20:59:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o3rW4iwCKU0/hqdefault.jpg"
-    },
-    {
-      "title": "Warp Vlad Kachur",
-      "video_id": "M0PP61NxUMc",
-      "channel_title": "Warp",
-      "description": "Warp Terminal? Warp ADE! Zach sits down with @VladKachur to discuss Warp's positioning! #coding.",
-      "published_at": "2025-10-20T20:55:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M0PP61NxUMc/hqdefault.jpg"
-    },
-    {
-      "title": "Bug Fixed #warp #code #tech #ai #devtools #softwaredevelopment",
-      "video_id": "kT3dj6p4LHs",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-16T16:25:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kT3dj6p4LHs/hqdefault.jpg"
-    },
-    {
-      "title": "What is an Agentic Development Environment? #ai #code #prompt #openai #development #warp #coding",
-      "video_id": "_NP6fT5LinE",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2025-10-15T18:13:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_NP6fT5LinE/hqdefault.jpg"
-    },
-    {
-      "title": "8 Warp Updates: Improved Voice Recording &amp; AI Copy Functionality",
-      "video_id": "8jLe9NX3W1A",
-      "channel_title": "Warp",
-      "description": "Welcome back to another Fix-it Friday video, where we have 8 new updates that are shipped (or soon to be shipped).",
-      "published_at": "2025-10-14T17:47:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8jLe9NX3W1A/hqdefault.jpg"
     }
   ]
 }

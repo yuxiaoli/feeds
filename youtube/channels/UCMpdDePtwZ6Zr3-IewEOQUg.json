@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-04T03:40:33.990383",
+  "fetched_at": "2026-02-08T00:47:05.037978",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "黃金的金色為何高貴？因為它是宇宙留給人類的一封億萬年的密信",
+      "video_id": "5QUlwHsMEXA",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2026-02-05T13:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5QUlwHsMEXA/hqdefault.jpg"
+    },
     {
       "title": "沒有人的時候月亮是什麼樣子？愛因斯坦與玻爾的世紀大辯論",
       "video_id": "UOw7L0ooj58",
@@ -75,14 +83,6 @@
       "description": "從一杯被打翻的熱茶，到宇宙最終走向熱寂，時間似乎永遠只朝一個方向流動。為什麼我們只能記得過去，而不能預知未來？「時間 ...",
       "published_at": "2025-10-28T17:02:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/QehTYd9R-yk/hqdefault.jpg"
-    },
-    {
-      "title": "不裝了，他就是飛船：彗發散去之後的真面目",
-      "video_id": "dp3wJ-MhM6Y",
-      "channel_title": "科學漫聊",
-      "description": "成為此頻道的會員並沒有福利，純屬用愛發電。如果你確實有能力又想支持一下也可以加入： ...",
-      "published_at": "2025-10-26T13:15:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dp3wJ-MhM6Y/hqdefault.jpg"
     }
   ]
 }

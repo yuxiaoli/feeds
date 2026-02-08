@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-02-04T03:40:44.135135",
+  "fetched_at": "2026-02-08T00:47:16.406002",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Multitasking with the Codex app",
+      "video_id": "9ohXlkbXiM4",
+      "channel_title": "OpenAI",
+      "description": "Joey demonstrates multitasking with Codex worktrees: delegate a drag-and-drop feature in one worktree while continuing local ...",
+      "published_at": "2026-02-06T23:08:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9ohXlkbXiM4/hqdefault.jpg"
+    },
+    {
+      "title": "Cricket Academy with ChatGPT",
+      "video_id": "4l_w08gcBFk",
+      "channel_title": "OpenAI",
+      "description": "Build something that matters with ChatGPT. Director : Bharat Sikka Music : “Ek Din Bik Jayega\" by Mukesh, Poornima, Lata ...",
+      "published_at": "2026-02-06T20:06:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4l_w08gcBFk/hqdefault.jpg"
+    },
+    {
+      "title": "City Selections with ChatGPT",
+      "video_id": "SkSlUt63V6Y",
+      "channel_title": "OpenAI",
+      "description": "Work on your form and technique with ChatGPT. Director : Bharat Sikka Music : “Aanewala Pal Janewala Hai\" by Kishore Kumar ...",
+      "published_at": "2026-02-06T20:05:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SkSlUt63V6Y/hqdefault.jpg"
+    },
+    {
+      "title": "Modernizing an 86-year-old salvage yard | with ChatGPT",
+      "video_id": "W6c7XcB6HwM",
+      "channel_title": "OpenAI",
+      "description": "No matter what you are building, ChatGPT can help. In Reno, Richard Lane uses ChatGPT to evolve an 86-year-old salvage yard ...",
+      "published_at": "2026-02-05T10:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W6c7XcB6HwM/hqdefault.jpg"
+    },
+    {
+      "title": "Generations of farming | with ChatGPT",
+      "video_id": "4rzeW4dbvlQ",
+      "channel_title": "OpenAI",
+      "description": "Millions of people daily use ChatGPT to build the things that matter to them. In South Carolina, the Sharps rely on ChatGPT to help ...",
+      "published_at": "2026-02-05T10:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4rzeW4dbvlQ/hqdefault.jpg"
+    },
+    {
+      "title": "Growing a family tamale shop | with ChatGPT",
+      "video_id": "iupsBLiNznU",
+      "channel_title": "OpenAI",
+      "description": "Across the US, people are using ChatGPT to do more. As the Ortega's family-run tamale shop in Los Angeles expands, ChatGPT ...",
+      "published_at": "2026-02-05T10:01:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iupsBLiNznU/hqdefault.jpg"
+    },
+    {
+      "title": "How designers prototype using the Codex app",
+      "video_id": "P7HXxl14dCA",
+      "channel_title": "OpenAI",
+      "description": "Ed Bayes from the Codex team shows how the Codex app pairs with Figma out of the box: prompt with a Figma link and have a ...",
+      "published_at": "2026-02-04T18:29:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/P7HXxl14dCA/hqdefault.jpg"
+    },
     {
       "title": "Automate tasks with the Codex app",
       "video_id": "xHnlzAPD9QI",
@@ -27,62 +83,6 @@
       "description": "When you look at scientific tooling, a lot of it hasn't changed in decades. That's why we recently launched Prism: a free, AI-native ...",
       "published_at": "2026-02-02T21:09:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NAcdcunPfJg/hqdefault.jpg"
-    },
-    {
-      "title": "A first look at the Codex app",
-      "video_id": "0e-Brv-gS9Q",
-      "channel_title": "OpenAI",
-      "description": "Introducing the Codex app—now available on macOS The Codex app is a powerful command center for building with agents.",
-      "published_at": "2026-02-02T18:03:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0e-Brv-gS9Q/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Prism, a free workspace for scientists to write and collaborate on research",
-      "video_id": "xnInEsaaj9c",
-      "channel_title": "OpenAI",
-      "description": "As AI begins to meaningfully accelerate scientific discovery, we're taking an early step to reduce friction in day-to-day research ...",
-      "published_at": "2026-01-27T18:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xnInEsaaj9c/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI Town Hall with Sam Altman",
-      "video_id": "Wpxv-8nG8ec",
-      "channel_title": "OpenAI",
-      "description": "Sam Altman answers questions and discusses the future of AI with builders from across the AI ecosystem. 00:00 Introduction ...",
-      "published_at": "2026-01-27T01:06:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wpxv-8nG8ec/hqdefault.jpg"
-    },
-    {
-      "title": "Build Hour: Apps in ChatGPT",
-      "video_id": "mFG-4vUJ0kI",
-      "channel_title": "OpenAI",
-      "description": "Build a new generation of apps you can chat with right inside ChatGPT using Codex. In this Build Hour, we walkthrough how to ...",
-      "published_at": "2026-01-23T19:34:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mFG-4vUJ0kI/hqdefault.jpg"
-    },
-    {
-      "title": "Codex in JetBrains IDEs",
-      "video_id": "1XkVsE9-ZK4",
-      "channel_title": "OpenAI",
-      "description": "Codex now works in JetBrains IDEs. In this quick tour with Gleb Melnikov from JetBrains, we use Codex on a real Kotlin ...",
-      "published_at": "2026-01-22T18:12:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1XkVsE9-ZK4/hqdefault.jpg"
-    },
-    {
-      "title": "State of the AI Industry — the OpenAI Podcast Ep. 12",
-      "video_id": "Z3D2UmAesN4",
-      "channel_title": "OpenAI",
-      "description": "OpenAI CFO Sarah Friar and Khosla Ventures founder Vinod Khosla argue the greatest challenges in AI right now are keeping up ...",
-      "published_at": "2026-01-19T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z3D2UmAesN4/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT Go is rolling out everywhere ChatGPT is available.",
-      "video_id": "RXJ8zqblP5M",
-      "channel_title": "OpenAI",
-      "description": "Starting today, ChatGPT Go is rolling out everywhere ChatGPT is available. In the US, Go is available for $8* per month. ChatGPT ...",
-      "published_at": "2026-01-16T18:06:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RXJ8zqblP5M/hqdefault.jpg"
     }
   ]
 }

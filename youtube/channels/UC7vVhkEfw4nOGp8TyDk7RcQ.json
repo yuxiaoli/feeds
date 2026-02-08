@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-04T03:40:13.386906",
+  "fetched_at": "2026-02-08T00:46:42.450017",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Atlas Airborne | Boston Dynamics &amp; @rai-inst",
+      "video_id": "UNorxwlZlFk",
+      "channel_title": "Boston Dynamics",
+      "description": "Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...",
+      "published_at": "2026-02-07T14:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UNorxwlZlFk/hqdefault.jpg"
+    },
     {
       "title": "Spot Cam 2  | Boston Dynamics",
       "video_id": "de06_CLqrM0",
@@ -75,14 +83,6 @@
       "description": "Humanoid robots have long captured our imagination. Interest has skyrocketed along with the perception that robots are getting ...",
       "published_at": "2025-11-18T17:51:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/laexcnaTrDM/hqdefault.jpg"
-    },
-    {
-      "title": "Happy Halloween | Boston Dynamics",
-      "video_id": "uLRQFtttlK8",
-      "channel_title": "Boston Dynamics",
-      "description": "Happy Halloween from all of us at Boston Dynamics!",
-      "published_at": "2025-10-31T12:45:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uLRQFtttlK8/hqdefault.jpg"
     }
   ]
 }

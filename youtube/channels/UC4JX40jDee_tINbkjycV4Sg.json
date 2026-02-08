@@ -1,24 +1,48 @@
 {
-  "fetched_at": "2026-02-04T03:40:10.539486",
+  "fetched_at": "2026-02-08T00:46:39.281108",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 10,
+  "count": 9,
   "videos": [
     {
-      "title": "Underrated tool to simplify your life.",
-      "video_id": "XcyirBrRCGk",
+      "title": "ClawdBot Full Tutorial for Beginners: SECURE Setup Guide",
+      "video_id": "tnsrnsy_Lus",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-02-03T20:28:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XcyirBrRCGk/hqdefault.jpg"
+      "description": "Setup your VPS with Hostinger and use the code TECHWITHTIM for a 10% discount on annual plans: ...",
+      "published_at": "2026-02-07T17:42:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tnsrnsy_Lus/hqdefault.jpg"
     },
     {
-      "title": "Have you used flow before? let me know in the comments",
-      "video_id": "Gx9VJyk03UU",
+      "title": "You need to understand this in Python!",
+      "video_id": "JadzYp0sRvM",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-02-02T19:25:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gx9VJyk03UU/hqdefault.jpg"
+      "published_at": "2026-02-06T20:11:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JadzYp0sRvM/hqdefault.jpg"
+    },
+    {
+      "title": "The truth about great software engineers.",
+      "video_id": "esCRMxVwUy4",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2026-02-05T19:15:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/esCRMxVwUy4/hqdefault.jpg"
+    },
+    {
+      "title": "How to get a software engineer remote job - Full Roadmap",
+      "video_id": "xgXLbaTPG2Q",
+      "channel_title": "Tech With Tim",
+      "description": "To pick course to learn Python and become a software engineer - Associate Python Developer Career Track: ...",
+      "published_at": "2026-02-05T16:07:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xgXLbaTPG2Q/hqdefault.jpg"
+    },
+    {
+      "title": "You need to understand this before learning a new skill.",
+      "video_id": "cPZyqnxnT9g",
+      "channel_title": "Tech With Tim",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
+      "published_at": "2026-02-04T20:48:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cPZyqnxnT9g/hqdefault.jpg"
     },
     {
       "title": "Learning to code has changed",
@@ -29,60 +53,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/eZJtpSVYDIY/hqdefault.jpg"
     },
     {
-      "title": "Have you heard about this code?",
-      "video_id": "X_torVxpH8c",
+      "title": "The only video you need to watch if you want to become a software engineer!",
+      "video_id": "Haa4Tw6MWUk",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-02-02T00:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X_torVxpH8c/hqdefault.jpg"
+      "published_at": "2025-09-12T16:04:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Haa4Tw6MWUk/hqdefault.jpg"
     },
     {
-      "title": "Did you know about this Python feature?",
-      "video_id": "SV-b_siv2Us",
+      "title": "Backend Software Engineer roadmap",
+      "video_id": "FlsrKv_xIyg",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-02-01T19:31:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SV-b_siv2Us/hqdefault.jpg"
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-03-24T21:17:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FlsrKv_xIyg/hqdefault.jpg"
     },
     {
-      "title": "I Tested 3 Interview Prep Methods So You Don&#39;t Have To",
-      "video_id": "ITEMM_iQkYE",
+      "title": "Cracking the code to land a job at Google👀",
+      "video_id": "sxSVJAfuiPU",
       "channel_title": "Tech With Tim",
-      "description": "I recommend AlgoExpert - https://www.algoexpert.io - for preparing for coding interviews. It has 200 curated practice problems, ...",
-      "published_at": "2026-02-01T16:52:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ITEMM_iQkYE/hqdefault.jpg"
-    },
-    {
-      "title": "Meta Acquired This AI Agent… And It&#39;s Actually Incredible (Manus AI)",
-      "video_id": "gBMIQ-O1Kcw",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with Manus today for 1000 FREE credits: https://bit.ly/4rlqLPH Meta just acquired Manus, a very popular autonomous ...",
-      "published_at": "2026-01-31T14:14:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gBMIQ-O1Kcw/hqdefault.jpg"
-    },
-    {
-      "title": "This could change the way you code!",
-      "video_id": "Ors6aJgKnHY",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-30T20:06:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ors6aJgKnHY/hqdefault.jpg"
-    },
-    {
-      "title": "Your Resume Isn&#39;t The Problem...",
-      "video_id": "iUDQFaOU-uY",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-01-29T13:01:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iUDQFaOU-uY/hqdefault.jpg"
-    },
-    {
-      "title": "This Open-Source AI Video Model Just Crushed Sora",
-      "video_id": "Xe0YmwcS0O4",
-      "channel_title": "Tech With Tim",
-      "description": "A new AI video generation model just dropped that is free, open source and can be ran on your own machine with as little as ...",
-      "published_at": "2026-01-27T13:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xe0YmwcS0O4/hqdefault.jpg"
+      "description": "",
+      "published_at": "2024-11-16T21:46:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sxSVJAfuiPU/hqdefault.jpg"
     }
   ]
 }

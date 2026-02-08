@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-02-04T03:40:50.124457",
+  "fetched_at": "2026-02-08T00:47:22.660351",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Why Your AI Team Is Slow",
+      "video_id": "7zppmPvenB8",
+      "channel_title": "DeepLearningAI",
+      "description": "Most AI teams don't fail because of bad models. They fail because no one agrees on what “winning” means. If you try to optimize ...",
+      "published_at": "2026-02-07T13:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7zppmPvenB8/hqdefault.jpg"
+    },
+    {
+      "title": "The Biggest Mistake AI Beginners Make",
+      "video_id": "UJq5KuX15sM",
+      "channel_title": "DeepLearningAI",
+      "description": "Most people fail at AI projects before they write a single line of code. If you're asking “What model should I use?” you're already ...",
+      "published_at": "2026-02-06T13:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UJq5KuX15sM/hqdefault.jpg"
+    },
+    {
+      "title": "The Boring Way to Learn AI (That Actually Works)",
+      "video_id": "wTUk2JoOOag",
+      "channel_title": "DeepLearningAI",
+      "description": "Most people don't fail at AI because it's hard. They fail because they start too big. Tiny projects build momentum. Momentum ...",
+      "published_at": "2026-02-05T19:12:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wTUk2JoOOag/hqdefault.jpg"
+    },
     {
       "title": "Immigration + AI Talent",
       "video_id": "4LUy_QkFj-M",
@@ -59,30 +83,6 @@
       "description": "Learn more: https://bit.ly/4qJapAx Join this new short course on Gemini CLI, taught by Jack Wotherspoon, Developer Advocate at ...",
       "published_at": "2026-01-21T14:35:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/BQf0ASq573A/hqdefault.jpg"
-    },
-    {
-      "title": "One of the best ways to improve the apps you build is to share them early: Andrew Ng",
-      "video_id": "50uLstQ0TN8",
-      "channel_title": "DeepLearningAI",
-      "description": "One of the best ways to improve the apps you build is to share them early. In the beginner-friendly \"Build with Andrew\" course, ...",
-      "published_at": "2026-01-15T20:51:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/50uLstQ0TN8/hqdefault.jpg"
-    },
-    {
-      "title": "New course! Document AI: From OCR to Agentic Doc Extraction",
-      "video_id": "ltxsE1rhSfI",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4bsaJP0 Join this new short course on Document AI, built with LandingAI and taught by David Park, ...",
-      "published_at": "2026-01-14T14:27:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ltxsE1rhSfI/hqdefault.jpg"
-    },
-    {
-      "title": "Build your first app with AI. No coding background required",
-      "video_id": "Wq634q-uKpA",
-      "channel_title": "DeepLearningAI",
-      "description": "You don't need to know how to code to build apps anymore. Andrew Ng's new course shows how to turn an idea into a working ...",
-      "published_at": "2026-01-07T15:13:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wq634q-uKpA/hqdefault.jpg"
     }
   ]
 }

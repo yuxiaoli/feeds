@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-04T03:41:03.701623",
+  "fetched_at": "2026-02-08T00:47:37.742842",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "Bad Sleep Can Double Your Glucose Spike",
+      "video_id": "ouLFSBN_9_c",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-02-04T16:48:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ouLFSBN_9_c/hqdefault.jpg"
+    },
     {
       "title": "Don’t Make This Pre-Workout Food Mistake",
       "video_id": "xCessabnVzU",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-01-13T17:01:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/w8iytxiz-wQ/hqdefault.jpg"
-    },
-    {
-      "title": "How to build your baby&#39;s brain",
-      "video_id": "Bzh12k0TlIc",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-01-12T15:02:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Bzh12k0TlIc/hqdefault.jpg"
     }
   ]
 }

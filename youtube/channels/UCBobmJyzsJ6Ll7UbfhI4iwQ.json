@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-02-04T03:40:16.943385",
+  "fetched_at": "2026-02-08T00:46:46.488911",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 7,
+  "count": 6,
   "videos": [
     {
       "title": "A Deep Look into StateTree | Inside Unreal",
       "video_id": "X4-PFAb3th0",
       "channel_title": "Unreal Engine",
       "description": "A deep look into StateTree showing how the underlying tech works as well as some best practices and use cases for the tech!",
-      "published_at": "2026-02-03T18:56:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X4-PFAb3th0/hqdefault_live.jpg"
+      "published_at": "2026-02-05T21:09:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X4-PFAb3th0/hqdefault.jpg"
+    },
+    {
+      "title": "A First Look at Procedural Content Generation in Unreal Engine 5.7",
+      "video_id": "bgxVHKSdL4M",
+      "channel_title": "Unreal Engine",
+      "description": "Procedural Content Generation (PCG) in Unreal Engine has taken a major leap forward in versions 5.6 and 5.7, officially reaching ...",
+      "published_at": "2026-02-05T17:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bgxVHKSdL4M/hqdefault.jpg"
+    },
+    {
+      "title": "What does a career in real-time production actually look like? 🧐",
+      "video_id": "8pfQpOYVrI8",
+      "channel_title": "Unreal Engine",
+      "description": "Aaron Gordon, Co-Founder of Synapse Virtual Production, shares what students need to know if they're considering a career in ...",
+      "published_at": "2026-02-05T15:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8pfQpOYVrI8/hqdefault.jpg"
     },
     {
       "title": "Valor Mortis | Developer Interview | Unreal Engine",
@@ -32,33 +48,9 @@
       "title": "Engineering Digital Twins for Milano Cortina 2026 Winter Olympics | Unreal Fest Stockholm 2025",
       "video_id": "xAhIf-ADvls",
       "channel_title": "Unreal Engine",
-      "description": "SIMICO is pioneering the future of sustainable infrastructure for the Milano Cortina 2026 Winter Olympics through SimicoTwin, ...",
+      "description": "SIMICO is pioneering the future of sustainable infrastructure for the Milano Cortina 2026 Winter Olympics through SimicoTwin, an ...",
       "published_at": "2026-02-02T10:16:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xAhIf-ADvls/hqdefault.jpg"
-    },
-    {
-      "title": "Unreal Engine at CES 2026",
-      "video_id": "PVc-w1MY5aI",
-      "channel_title": "Unreal Engine",
-      "description": "From next-generation automotive HMIs to powerful simulators, UE was everywhere at CES 2026. Watch this video for a look at the ...",
-      "published_at": "2026-01-30T16:47:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PVc-w1MY5aI/hqdefault.jpg"
-    },
-    {
-      "title": "The Unreal Engine 5 Next-Gen HMI Experience",
-      "video_id": "p8kFmj1dvgc",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video for a look at the Unreal Engine 5 Next-Gen HMI Experience, revealed at CES 2026. Developed in technical ...",
-      "published_at": "2026-01-30T16:46:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p8kFmj1dvgc/hqdefault.jpg"
-    },
-    {
-      "title": "UE5 Curve Editor 2.0 New Lattice Tool &amp; Curve Scaling HACKS (UE 5.6)",
-      "video_id": "VD_cfVvMs6Y",
-      "channel_title": "Unreal Engine",
-      "description": "UE 5.6 CURVE EDITOR OVERHAUL: Lattice Tool & Smart Snap for Clean Animation: Master the redesigned Unreal Engine ...",
-      "published_at": "2026-01-30T01:27:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VD_cfVvMs6Y/hqdefault.jpg"
     }
   ]
 }

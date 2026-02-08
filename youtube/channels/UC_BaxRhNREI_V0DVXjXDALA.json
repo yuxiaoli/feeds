@@ -1,7 +1,16 @@
 {
-  "fetched_at": "2026-02-04T03:40:46.322273",
+  "fetched_at": "2026-02-08T00:47:18.707182",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 0,
-  "videos": []
+  "count": 1,
+  "videos": [
+    {
+      "title": "Designed to be admired from every angle #shorts",
+      "video_id": "myQvzhM-fjg",
+      "channel_title": "Porsche",
+      "description": "That feeling when something is watching you. @wakframes.",
+      "published_at": "2026-02-04T17:01:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/myQvzhM-fjg/hqdefault.jpg"
+    }
+  ]
 }

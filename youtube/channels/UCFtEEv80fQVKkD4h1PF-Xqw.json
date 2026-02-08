@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-04T03:40:22.990607",
+  "fetched_at": "2026-02-08T00:46:52.856274",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
+    {
+      "title": "Reimagining AI education and supporting the next generation of learners",
+      "video_id": "koAtdkoNpJ0",
+      "channel_title": "Microsoft",
+      "description": "Discover how Founderz is reimagining education and upskilling through AI-powered learning experiences, and how Microsoft ...",
+      "published_at": "2026-02-05T17:17:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/koAtdkoNpJ0/hqdefault.jpg"
+    },
+    {
+      "title": "Black and African American voices shape today. Their impact builds tomorrow.",
+      "video_id": "Kqai-VfVLOQ",
+      "channel_title": "Microsoft",
+      "description": "Microsoft employees answer thoughtful questions hidden inside colorful balloons, each pop revealing a fresh perspective and an ...",
+      "published_at": "2026-02-04T16:06:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Kqai-VfVLOQ/hqdefault.jpg"
+    },
     {
       "title": "Supporting endangered languages",
       "video_id": "vdwaVHcJKEQ",
@@ -11,14 +27,6 @@
       "description": "According to UNESCO's Atlas of the World's Languages in Danger (https://unesdoc.unesco.org/ark:/48223/pf0000187026.)",
       "published_at": "2026-01-30T17:13:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vdwaVHcJKEQ/hqdefault.jpg"
-    },
-    {
-      "title": "Why are weather forecasts so hard to get right? | Microsoft Azure and NVIDIA | Catalyst E4",
-      "video_id": "-tbRz33WANo",
-      "channel_title": "Microsoft",
-      "description": "Episode 4 follows Tomorrow.io and its journey to leverage reinvent weather forecasting. Tomorrow.io builds advanced weather ...",
-      "published_at": "2026-01-28T17:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-tbRz33WANo/hqdefault.jpg"
     },
     {
       "title": "Transforming driverless technology with Wayve and Microsoft",
@@ -75,14 +83,6 @@
       "description": "microsoft #excel #microsoftexcel As the Excel World Championship takes place in Las Vegas, Satya Nadella tries his hand at the ...",
       "published_at": "2025-12-04T18:55:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gBcwQaNoP5A/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft celebrates Indigenous History Month",
-      "video_id": "4To8jdOv1wU",
-      "channel_title": "Microsoft",
-      "description": "Indigenous heritage is a source of strength and vision. The Code of Us honors Indigenous employees whose stories and ...",
-      "published_at": "2025-11-04T16:59:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4To8jdOv1wU/hqdefault.jpg"
     }
   ]
 }
