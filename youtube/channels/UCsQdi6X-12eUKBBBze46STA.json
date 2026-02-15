@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-08T00:47:37.742842",
+  "fetched_at": "2026-02-15T00:40:39.996301",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "The Pasta Color Myth",
+      "video_id": "5KaReuFrEtc",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-02-10T19:06:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5KaReuFrEtc/hqdefault.jpg"
+    },
+    {
+      "title": "Lemons Matter More Than You Think",
+      "video_id": "mKvyaBXJqos",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-02-08T18:05:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mKvyaBXJqos/hqdefault.jpg"
+    },
     {
       "title": "Bad Sleep Can Double Your Glucose Spike",
       "video_id": "ouLFSBN_9_c",
@@ -67,22 +83,6 @@
       "description": "And more in my new book 9 Months That Count Forever.",
       "published_at": "2026-01-15T16:00:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JcxP3nrI7Xg/hqdefault.jpg"
-    },
-    {
-      "title": "Gestational Diabetes: Why It Happens &amp; What You Can Do",
-      "video_id": "KnTHQBfp90M",
-      "channel_title": "Glucose Revolution",
-      "description": "Preorder my new book, 9 Months That Count Forever: •⁠ ⁠In the US: ...",
-      "published_at": "2026-01-14T17:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KnTHQBfp90M/hqdefault.jpg"
-    },
-    {
-      "title": "Why you should eat more protein",
-      "video_id": "w8iytxiz-wQ",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-01-13T17:01:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w8iytxiz-wQ/hqdefault.jpg"
     }
   ]
 }

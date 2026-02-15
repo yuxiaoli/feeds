@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2026-02-08T00:46:39.281108",
+  "fetched_at": "2026-02-15T00:39:46.143569",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 9,
+  "count": 10,
   "videos": [
+    {
+      "title": "Have you used Rust as a back end language?",
+      "video_id": "1ROTLQjaUZc",
+      "channel_title": "Tech With Tim",
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "published_at": "2026-02-14T22:47:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1ROTLQjaUZc/hqdefault.jpg"
+    },
+    {
+      "title": "Which backend language is the best for you?",
+      "video_id": "VYAU0jkySsw",
+      "channel_title": "Tech With Tim",
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "published_at": "2026-02-13T21:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VYAU0jkySsw/hqdefault.jpg"
+    },
+    {
+      "title": "Is C# the best back end language for you to learn?",
+      "video_id": "Ol2CYsNU-yk",
+      "channel_title": "Tech With Tim",
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "published_at": "2026-02-12T21:03:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ol2CYsNU-yk/hqdefault.jpg"
+    },
+    {
+      "title": "Go Programming - Full Course",
+      "video_id": "V-lI7AmusGs",
+      "channel_title": "Tech With Tim",
+      "description": "Welcome to this Go Programing Course. In this course you will learn all about the Go Programing language, starting at the basic ...",
+      "published_at": "2026-02-12T18:18:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V-lI7AmusGs/hqdefault.jpg"
+    },
+    {
+      "title": "Which language should you learn?",
+      "video_id": "X6md0Sk6Puk",
+      "channel_title": "Tech With Tim",
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "published_at": "2026-02-11T21:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X6md0Sk6Puk/hqdefault.jpg"
+    },
+    {
+      "title": "This is very important to understand.",
+      "video_id": "3d7mj6pvIIk",
+      "channel_title": "Tech With Tim",
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "published_at": "2026-02-10T20:44:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3d7mj6pvIIk/hqdefault.jpg"
+    },
+    {
+      "title": "The Only AI Coding Tools Worth Learning in 2026",
+      "video_id": "-VTiqivKOB8",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with Elementor One and use my code: TechWithTim5One for 5% off all Elementor One Annual Plans: ...",
+      "published_at": "2026-02-10T19:05:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-VTiqivKOB8/hqdefault.jpg"
+    },
+    {
+      "title": "How to Not Fail a Technical Interview",
+      "video_id": "oifG86B7fP8",
+      "channel_title": "Tech With Tim",
+      "description": "Get AlgoExpert today for just $119 (all products included — normally $600+): https://algoexpert.io Join 200000+ engineers who've ...",
+      "published_at": "2026-02-09T13:30:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oifG86B7fP8/hqdefault.jpg"
+    },
     {
       "title": "ClawdBot Full Tutorial for Beginners: SECURE Setup Guide",
       "video_id": "tnsrnsy_Lus",
@@ -13,68 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/tnsrnsy_Lus/hqdefault.jpg"
     },
     {
-      "title": "You need to understand this in Python!",
-      "video_id": "JadzYp0sRvM",
+      "title": "Meta Acquired This AI Agent… And It&#39;s Actually Incredible (Manus AI)",
+      "video_id": "gBMIQ-O1Kcw",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-02-06T20:11:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JadzYp0sRvM/hqdefault.jpg"
-    },
-    {
-      "title": "The truth about great software engineers.",
-      "video_id": "esCRMxVwUy4",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-02-05T19:15:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/esCRMxVwUy4/hqdefault.jpg"
-    },
-    {
-      "title": "How to get a software engineer remote job - Full Roadmap",
-      "video_id": "xgXLbaTPG2Q",
-      "channel_title": "Tech With Tim",
-      "description": "To pick course to learn Python and become a software engineer - Associate Python Developer Career Track: ...",
-      "published_at": "2026-02-05T16:07:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xgXLbaTPG2Q/hqdefault.jpg"
-    },
-    {
-      "title": "You need to understand this before learning a new skill.",
-      "video_id": "cPZyqnxnT9g",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2026-02-04T20:48:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cPZyqnxnT9g/hqdefault.jpg"
-    },
-    {
-      "title": "Learning to code has changed",
-      "video_id": "eZJtpSVYDIY",
-      "channel_title": "Tech With Tim",
-      "description": "To learn for free on Brilliant, go to https://brilliant.org/techwithtim . Brilliant's also given our viewers 20% off an annual Premium ...",
-      "published_at": "2026-02-02T18:27:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eZJtpSVYDIY/hqdefault.jpg"
-    },
-    {
-      "title": "The only video you need to watch if you want to become a software engineer!",
-      "video_id": "Haa4Tw6MWUk",
-      "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-09-12T16:04:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Haa4Tw6MWUk/hqdefault.jpg"
-    },
-    {
-      "title": "Backend Software Engineer roadmap",
-      "video_id": "FlsrKv_xIyg",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-24T21:17:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FlsrKv_xIyg/hqdefault.jpg"
-    },
-    {
-      "title": "Cracking the code to land a job at Google👀",
-      "video_id": "sxSVJAfuiPU",
-      "channel_title": "Tech With Tim",
-      "description": "",
-      "published_at": "2024-11-16T21:46:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sxSVJAfuiPU/hqdefault.jpg"
+      "description": "Get started with Manus today for 1000 FREE credits: https://bit.ly/4rlqLPH Meta just acquired Manus, a very popular autonomous ...",
+      "published_at": "2026-01-31T14:14:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gBMIQ-O1Kcw/hqdefault.jpg"
     }
   ]
 }

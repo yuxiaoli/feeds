@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-02-08T00:47:02.604150",
+  "fetched_at": "2026-02-15T00:40:07.189927",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 8,
+  "count": 9,
   "videos": [
+    {
+      "title": "NASA’s SpaceX Crew-12 Arrival &amp; Welcome Remarks",
+      "video_id": "v25BJu_QNys",
+      "channel_title": "NASA",
+      "description": "Watch as the next four explorers arrive at the International Space Station. After lifting off from Cape Canaveral Space Force Station ...",
+      "published_at": "2026-02-14T22:56:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v25BJu_QNys/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-12 Postlaunch News Conference (Feb. 13, 2026)",
+      "video_id": "bw7KDYTfdmM",
+      "channel_title": "NASA",
+      "description": "After the successful launch of NASA's SpaceX Crew-12 mission, leadership discuss the mission and answer questions from media ...",
+      "published_at": "2026-02-13T12:24:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bw7KDYTfdmM/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-12 Launch",
+      "video_id": "zCM-Kwq91cc",
+      "channel_title": "NASA",
+      "description": "Watch live as four explorers from three space agencies lift off for a scientific mission to the International Space Station. NASA ...",
+      "published_at": "2026-02-13T11:00:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zCM-Kwq91cc/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-12 Mission to the International Space Station (Official NASA Trailer)",
+      "video_id": "Jli6WLemTUc",
+      "channel_title": "NASA",
+      "description": "Four crew members are preparing to launch to the International Space Station as part of NASA's SpaceX Crew-12 mission to ...",
+      "published_at": "2026-02-12T14:54:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Jli6WLemTUc/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-12 Prelaunch News Conference (Feb. 9, 2026)",
+      "video_id": "I12pFrHAuQI",
+      "channel_title": "NASA",
+      "description": "NASA and the agency's partners preview the launch of our SpaceX Crew-12 mission. Participants include: - Steve Stich, manager, ...",
+      "published_at": "2026-02-09T17:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I12pFrHAuQI/hqdefault.jpg"
+    },
     {
       "title": "Restoring NASA’s Core Competencies",
       "video_id": "3R2H0rcP2vg",
@@ -11,38 +51,6 @@
       "description": "NASA Administrator Jared Isaacman speaks about a workforce directive being issued to rebuild internal talent, strengthen ...",
       "published_at": "2026-02-06T17:20:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3R2H0rcP2vg/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX Crew-12 Launch",
-      "video_id": "zCM-Kwq91cc",
-      "channel_title": "NASA",
-      "description": "Watch live as four explorers from three space agencies lift off for a scientific mission to the International Space Station.",
-      "published_at": "2026-02-05T19:07:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zCM-Kwq91cc/hqdefault_live.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX Crew-12 Prelaunch News Conference (Feb. 9, 2026)",
-      "video_id": "I12pFrHAuQI",
-      "channel_title": "NASA",
-      "description": "NASA and the agency's partners preview the launch of our SpaceX Crew-12 mission. Participants include: - Steve Stich, manager, ...",
-      "published_at": "2026-02-04T18:36:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I12pFrHAuQI/hqdefault_live.jpg"
-    },
-    {
-      "title": "NASA&#39;s Artemis II Fueling Test News Conference (Feb. 3, 2026)",
-      "video_id": "ycqk3uN_N6g",
-      "channel_title": "NASA",
-      "description": "Following the conclusion of the Artemis II wet dress rehearsal, tune in as agency leaders provide updates on the test and our ...",
-      "published_at": "2026-02-03T19:04:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ycqk3uN_N6g/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s Artemis II Fueling Test (Official Static Feed)",
-      "video_id": "5zDlM8d4Q7g",
-      "channel_title": "NASA",
-      "description": "Engineers at NASA's Kennedy Space Center are conducting a prelaunch test to fuel the Artemis II Space Launch System—a vital ...",
-      "published_at": "2026-02-03T06:06:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5zDlM8d4Q7g/hqdefault.jpg"
     },
     {
       "title": "NASA&#39;s Artemis II Live Views from Kennedy Space Center",

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-08T00:46:42.450017",
+  "fetched_at": "2026-02-15T00:39:49.113581",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Spot at Cargill | Customer Testimonial Excerpt",
+      "video_id": "G8WDv2gm4R8",
+      "channel_title": "Boston Dynamics",
+      "description": "Cargill's Amsterdam Multiseed facility enlists Spot and Orbit to inspect machinery and perform visual checks, enhanced by all-new ...",
+      "published_at": "2026-02-10T16:30:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G8WDv2gm4R8/hqdefault.jpg"
+    },
     {
       "title": "Atlas Airborne | Boston Dynamics &amp; @rai-inst",
       "video_id": "UNorxwlZlFk",
@@ -75,14 +83,6 @@
       "description": "Atlas moves like a contortionist, but it's not just showing off. One of our software engineers explains how this behavior helps Atlas ...",
       "published_at": "2025-12-09T16:35:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7MXQG-f9jtk/hqdefault.jpg"
-    },
-    {
-      "title": "Why Humanoids Are the Future of Manufacturing | Boston Dynamics Webinar",
-      "video_id": "laexcnaTrDM",
-      "channel_title": "Boston Dynamics",
-      "description": "Humanoid robots have long captured our imagination. Interest has skyrocketed along with the perception that robots are getting ...",
-      "published_at": "2025-11-18T17:51:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/laexcnaTrDM/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-08T00:46:56.907063",
+  "fetched_at": "2026-02-15T00:40:02.064468",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "《恭喜恭喜》，但是python字幕",
+      "video_id": "OKvEi_AHC2A",
+      "channel_title": "码农高天",
+      "description": "值此新春佳节，给大家献上一首我亲自担任翻译并制作字幕的《恭喜恭喜》，希望大家新的一年可以过得开心！",
+      "published_at": "2026-02-14T10:30:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OKvEi_AHC2A/hqdefault.jpg"
+    },
     {
       "title": "【python】自从用了它，我的程序动不动就死锁！",
       "video_id": "xJSTbtE9nBo",
@@ -75,14 +83,6 @@
       "description": "这个视频把新加坡三天合到一起放出来（当然不是因为新加坡其实没啥意思了）。我们去了大部分游客该去的点，还见了一些朋友 ...",
       "published_at": "2025-10-13T10:30:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Cyfyx6-WcG0/hqdefault.jpg"
-    },
-    {
-      "title": "Python3.14发布了！来聊聊重要的新特性吧",
-      "video_id": "aHGZghUGWyQ",
-      "channel_title": "码农高天",
-      "description": "Python3.14发布啦，我们这期视频聊一下3.14里我觉得最重要的一些特性。不管是free threaded，JIT还是multi interpreter，我们都 ...",
-      "published_at": "2025-10-08T11:06:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aHGZghUGWyQ/hqdefault.jpg"
     }
   ]
 }

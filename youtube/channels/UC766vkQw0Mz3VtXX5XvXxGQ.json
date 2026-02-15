@@ -1,32 +1,40 @@
 {
-  "fetched_at": "2026-02-08T00:46:40.883292",
+  "fetched_at": "2026-02-15T00:39:47.588977",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 3,
+  "count": 4,
   "videos": [
     {
-      "title": "Meta Quest Heals All",
-      "video_id": "l-Sdl0AO9Xk",
+      "title": "Happy Valentine’s Day, from Gorilla Tag to you 💗🦍",
+      "video_id": "NKBmUCTlfSs",
       "channel_title": "Meta Quest ",
       "description": "",
-      "published_at": "2026-02-06T23:02:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l-Sdl0AO9Xk/hqdefault.jpg"
+      "published_at": "2026-02-14T18:58:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NKBmUCTlfSs/hqdefault.jpg"
     },
     {
-      "title": "Beat Saber | Bad Bunny: Me Porto Bonito (feat. Chencho Corleone) | Meta Quest Platform",
-      "video_id": "dCs1s1-VrLc",
+      "title": "Crossings | Multiplayer Launch Trailer l Meta Quest 3 &amp; 3S",
+      "video_id": "_QqKqAIiUOU",
       "channel_title": "Meta Quest ",
-      "description": "Global superstar Bad Bunny brings his hit \"Me Porto Bonito (feat. Chencho Corleone)\" to Beat Saber! Don't miss the 4-year ...",
-      "published_at": "2026-02-05T23:59:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dCs1s1-VrLc/hqdefault.jpg"
+      "description": "Multiplayer has been added to Crossings! Now play seamlessly in ambient co-op or friend connect. Check out Crossings on Meta ...",
+      "published_at": "2026-02-12T22:09:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_QqKqAIiUOU/hqdefault.jpg"
     },
     {
-      "title": "UnLoop | “More Time To Spy” 1.1.0 Update Trailer | Meta Quest Platform",
-      "video_id": "C5K-xzslPyU",
+      "title": "Blizzard survival checklist: Food ✅ Water ✅ Meta Quest ✅",
+      "video_id": "VTmFSao8Ezk",
       "channel_title": "Meta Quest ",
-      "description": "Major Update 1.1.0 for UnLoop, titled “More Time To Spy” is available now for Meta Quest platform (2/3/3S/Pro): ...",
-      "published_at": "2026-02-03T21:06:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/C5K-xzslPyU/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-02-11T17:03:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VTmFSao8Ezk/hqdefault.jpg"
+    },
+    {
+      "title": "Color-A-Cube &amp; Friends | Event Trailer | Meta Quest Platform",
+      "video_id": "4PxnXEM7Auk",
+      "channel_title": "Meta Quest ",
+      "description": "Dive into a relaxing, color-filled escape with Color-A-Cube. This free immersive coloring experience lets you bring voxel models to ...",
+      "published_at": "2026-02-10T18:42:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4PxnXEM7Auk/hqdefault.jpg"
     }
   ]
 }

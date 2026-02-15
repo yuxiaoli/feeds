@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-08T00:47:24.986604",
+  "fetched_at": "2026-02-15T00:40:28.237588",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Surrounded by beautiful sound | Beosound Premiere &amp; Beosound Emerge",
+      "video_id": "kq4UgB97wSM",
+      "channel_title": "Bang & Olufsen",
+      "description": "Press play on beautiful sound. With Beosound Premiere (now also available in Gold Tone) at its centre, this surround sound ...",
+      "published_at": "2026-02-12T13:01:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kq4UgB97wSM/hqdefault.jpg"
+    },
+    {
+      "title": "Surrounded by beautiful sound | Beosound Premiere &amp; Beosound Emerge",
+      "video_id": "4hbXL4h4gno",
+      "channel_title": "Bang & Olufsen",
+      "description": "Press play on beautiful sound. With Beosound Premiere (now also available in Gold Tone) at its centre, this surround sound ...",
+      "published_at": "2026-02-12T13:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4hbXL4h4gno/hqdefault.jpg"
+    },
     {
       "title": "Legacy meets legend | Beoplay H100, G-DRAGON Limited Edition",
       "video_id": "DNIMQ8zEFpE",
@@ -67,22 +83,6 @@
       "description": "Light. Sound. Action. Your music, played with illuminating detail. ​ ​ #BangOlufsen #BeosoundPremiere.",
       "published_at": "2026-01-12T14:00:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KEakPSr3_n0/hqdefault.jpg"
-    },
-    {
-      "title": "Come closer | Beosound Premiere | Bang &amp; Olufsen",
-      "video_id": "Lf1VQWemCgE",
-      "channel_title": "Bang & Olufsen",
-      "description": "Beosound Premiere. Come closer to spatial sound, like you've never experienced it before. ​ #BangOlufsen ...",
-      "published_at": "2026-01-08T11:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Lf1VQWemCgE/hqdefault.jpg"
-    },
-    {
-      "title": "Come closer | Beosound Premiere",
-      "video_id": "woXhQ0ZowHE",
-      "channel_title": "Bang & Olufsen",
-      "description": "Beosound Premiere. Come closer to spatial sound, like you've never experienced it before. ​ #BangOlufsen ...",
-      "published_at": "2026-01-08T11:02:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/woXhQ0ZowHE/hqdefault.jpg"
     }
   ]
 }

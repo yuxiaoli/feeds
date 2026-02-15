@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-08T00:47:20.289965",
+  "fetched_at": "2026-02-15T00:40:23.790270",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "Enjoying the sunset",
+      "video_id": "0jSt8RXPBe8",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-02-14T09:03:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0jSt8RXPBe8/hqdefault.jpg"
+    },
     {
       "title": "جمال القوة",
       "video_id": "1OXsjcsnf0s",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-12-17T18:25:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/S4mJ9Orr8ec/hqdefault.jpg"
-    },
-    {
-      "title": "افضل مكمل لقوة و صحة المفاصل من ​⁠@VitalProteins-MENA",
-      "video_id": "Pv-8ZUhRX4I",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2025-12-14T09:17:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Pv-8ZUhRX4I/hqdefault.jpg"
     }
   ]
 }

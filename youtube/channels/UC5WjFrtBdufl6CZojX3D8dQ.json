@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-08T00:46:40.099575",
+  "fetched_at": "2026-02-15T00:39:46.907921",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Model Y Achieves 5-Stars in Every Category",
+      "video_id": "nUVAY8IwU88",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-02-10T20:20:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nUVAY8IwU88/hqdefault.jpg"
+    },
+    {
+      "title": "Sleep flat with CyberTent",
+      "video_id": "wZ1QDXeYb6M",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-02-09T18:31:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wZ1QDXeYb6M/hqdefault.jpg"
+    },
     {
       "title": "Tesla is now in Africa | Morocco launch",
       "video_id": "wqATgTmPA8M",
@@ -11,14 +27,6 @@
       "description": "",
       "published_at": "2026-02-06T19:50:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wqATgTmPA8M/hqdefault.jpg"
-    },
-    {
-      "title": "Cyber skijoring",
-      "video_id": "uEv9OHv3pnw",
-      "channel_title": "Tesla",
-      "description": "Trained professionals – Don't try this at home)",
-      "published_at": "2026-02-05T18:21:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uEv9OHv3pnw/hqdefault.jpg"
     },
     {
       "title": "Introducing Tesla Solar Panels",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-01-16T22:14:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xwKzJd3_drc/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Lithium Refinery",
-      "video_id": "rxYTx6aj96k",
-      "channel_title": "Tesla",
-      "description": "Our Lithium Refinery ushers in energy independence for North America Regionalized access to critical battery minerals brings ...",
-      "published_at": "2026-01-14T19:29:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rxYTx6aj96k/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-08T00:46:48.109483",
+  "fetched_at": "2026-02-15T00:39:54.247741",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Add an extra layer of protection by locking apps. Tip from Sibele at the Apple Store. #Shorts",
+      "video_id": "W4Lsueiknl4",
+      "channel_title": "Apple",
+      "description": "iPhone #iPhoneTips #LockApps #AppleStore.",
+      "published_at": "2026-02-13T17:01:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W4Lsueiknl4/hqdefault.jpg"
+    },
+    {
+      "title": "Block out the noise with Voice Isolation. Tip from Eden at the Apple Store. #Shorts",
+      "video_id": "8n_SQFZnugw",
+      "channel_title": "Apple",
+      "description": "iPhone #iPhoneTips #VoiceIsolation #AppleStore.",
+      "published_at": "2026-02-10T17:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8n_SQFZnugw/hqdefault.jpg"
+    },
     {
       "title": "iPhone 17 Pro: Smart Group Selfies",
       "video_id": "er7MJvQCdsM",
@@ -67,22 +83,6 @@
       "description": "ErikTollefsrud shares some great tips to use in Messages, making your chats a breeze. Here's how he does it ⬇️ • Tap and hold ...",
       "published_at": "2026-01-28T18:12:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fJM27mAEnCI/hqdefault.jpg"
-    },
-    {
-      "title": "Translate text with Apple Intelligence. Tip from Piper at the Apple Store. #Shorts",
-      "video_id": "iHULL6iy9Vg",
-      "channel_title": "Apple",
-      "description": "iPhone #iPhoneTips #TranslateText #AppleIntelligence #AppleStore.",
-      "published_at": "2026-01-27T17:01:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iHULL6iy9Vg/hqdefault.jpg"
-    },
-    {
-      "title": "Keep your streak and close your rings. Tip from Nathan at the Apple Store. #Shorts",
-      "video_id": "FXktTE2UYoA",
-      "channel_title": "Apple",
-      "description": "AppleWatch #AppleWatchTips #CloseYourRings #AppleStore.",
-      "published_at": "2026-01-23T17:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FXktTE2UYoA/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-08T00:46:54.441871",
+  "fetched_at": "2026-02-15T00:39:59.919412",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Fappy Valentines Day - Full Aussie Podcast",
+      "video_id": "2dKronjKgHM",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "",
+      "published_at": "2026-02-14T13:40:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2dKronjKgHM/hqdefault.jpg"
+    },
+    {
+      "title": "Into The Chappa&#39;ai | Foothold &amp; Pretense Discussion",
+      "video_id": "54dOz4d0Dv8",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "",
+      "published_at": "2026-02-12T23:45:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/54dOz4d0Dv8/hqdefault.jpg"
+    },
     {
       "title": "Big Boy&#39;s Birthday Bash - Full Aussie Podcast",
       "video_id": "0ynk1Q5k9Tk",
@@ -67,22 +83,6 @@
       "description": "Meet The Crew: MrGrantGregory YouTube: / @mrgrantgregory MrGrantGregory Twitter: / mrgrantgregory MrGrantGregory ...",
       "published_at": "2026-01-17T13:58:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/auY0HDIs-Qc/hqdefault.jpg"
-    },
-    {
-      "title": "Into The Chappa&#39;ai | Point of view &amp; Dead Man Switch - Stargate SG1 Discussion",
-      "video_id": "lnY2qKOt4U0",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "Season 3 Discussion + Games.",
-      "published_at": "2026-01-15T12:33:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lnY2qKOt4U0/hqdefault.jpg"
-    },
-    {
-      "title": "Kenzo’s half way to 90 FAP celebration #TFA #FAP",
-      "video_id": "9Ys9KG8dTbY",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "Meet The Crew: MrGrantGregory YouTube: / @mrgrantgregory MrGrantGregory Twitter: / mrgrantgregory MrGrantGregory ...",
-      "published_at": "2026-01-10T13:35:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9Ys9KG8dTbY/hqdefault.jpg"
     }
   ]
 }

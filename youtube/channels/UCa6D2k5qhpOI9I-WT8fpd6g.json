@@ -1,14 +1,30 @@
 {
-  "fetched_at": "2026-02-08T00:47:19.489897",
+  "fetched_at": "2026-02-15T00:40:23.006810",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
     {
+      "title": "AI能剪视频了？ 用Skills自动把课本例题转成科普动画",
+      "video_id": "TjXu8m-F5m8",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 AI编程工具搭配Skills ，已经具备了制作完整动画视频的能力。比如这些 ...",
+      "published_at": "2026-02-14T13:28:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TjXu8m-F5m8/hqdefault.jpg"
+    },
+    {
+      "title": "解构华为云AI Token服务: 可能是最好的DeepSeek大模型推理服务平台",
+      "video_id": "qavZbGbRy2A",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 #人工智能#ai #大模型#华为云#科技#计算机市面上有很多大模型API ...",
+      "published_at": "2026-02-09T03:36:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qavZbGbRy2A/hqdefault.jpg"
+    },
+    {
       "title": "OpenClaw(Clawdbot) 海量全玩法攻略，本地部署，国内网络使用方法",
       "video_id": "657wlbtrzG8",
       "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Clawdbot 一夜爆火，这是一个运行在本地电脑的开源AI 助理。短短几天 ...",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 引言01:47 本地部署04:08 基础玩法06:57 国产友好09:15 Skills ...",
       "published_at": "2026-01-31T16:06:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/657wlbtrzG8/hqdefault.jpg"
     },
@@ -67,22 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 本周最火的玩法就是AI Studio上花式生成好玩的应用。 不过有个问题是， ...",
       "published_at": "2025-11-27T11:52:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1joStDlw9lg/hqdefault.jpg"
-    },
-    {
-      "title": "Gemini 3.0 API对接编程实战，是夯还是拉？",
-      "video_id": "NBVv3f6JwbU",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Gemini 3 终于来了，本期视频我们来看一下Gemini 3 更新了哪些东西， ...",
-      "published_at": "2025-11-19T14:54:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NBVv3f6JwbU/hqdefault.jpg"
-    },
-    {
-      "title": "Obsidian邪修用法，免费云同步，AI，手机端，还有进阶技巧",
-      "video_id": "IlNOhNeWGgY",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 这两年我换了N 个笔记工具，最终我还是选择了Obsidian。 我有三个必须 ...",
-      "published_at": "2025-11-15T12:11:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IlNOhNeWGgY/hqdefault.jpg"
     }
   ]
 }

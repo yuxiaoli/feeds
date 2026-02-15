@@ -1,56 +1,88 @@
 {
-  "fetched_at": "2026-02-08T00:46:46.488911",
+  "fetched_at": "2026-02-15T00:39:52.744957",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 6,
+  "count": 10,
   "videos": [
     {
-      "title": "A Deep Look into StateTree | Inside Unreal",
-      "video_id": "X4-PFAb3th0",
+      "title": "UE5 Constraints Are EASY! Parent Constraint Workflow for Animators",
+      "video_id": "LHK3J5m_43c",
       "channel_title": "Unreal Engine",
-      "description": "A deep look into StateTree showing how the underlying tech works as well as some best practices and use cases for the tech!",
-      "published_at": "2026-02-05T21:09:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X4-PFAb3th0/hqdefault.jpg"
+      "description": "UE5 Constraints Are EASY! Parent Constraint Workflow for Animators: Learn how to easily implement Parent Constraints in ...",
+      "published_at": "2026-02-13T19:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LHK3J5m_43c/hqdefault.jpg"
     },
     {
-      "title": "A First Look at Procedural Content Generation in Unreal Engine 5.7",
-      "video_id": "bgxVHKSdL4M",
+      "title": "What happens when physical props meet real-time VFX?",
+      "video_id": "IG1pelJRi60",
       "channel_title": "Unreal Engine",
-      "description": "Procedural Content Generation (PCG) in Unreal Engine has taken a major leap forward in versions 5.6 and 5.7, officially reaching ...",
-      "published_at": "2026-02-05T17:01:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bgxVHKSdL4M/hqdefault.jpg"
+      "description": "This deep dive looks at Muzzle Report, custom hardware that connects directly to Unreal Engine—giving actors something real to ...",
+      "published_at": "2026-02-13T17:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IG1pelJRi60/hqdefault.jpg"
     },
     {
-      "title": "What does a career in real-time production actually look like? 🧐",
-      "video_id": "8pfQpOYVrI8",
+      "title": "Yuki’s Revenge | Building the Muzzle Report",
+      "video_id": "S3likSaeZSI",
       "channel_title": "Unreal Engine",
-      "description": "Aaron Gordon, Co-Founder of Synapse Virtual Production, shares what students need to know if they're considering a career in ...",
-      "published_at": "2026-02-05T15:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8pfQpOYVrI8/hqdefault.jpg"
+      "description": "In this deep dive, we explore Muzzle Report, a custom hardware solution that connects physical props to Unreal Engine in real ...",
+      "published_at": "2026-02-13T16:55:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S3likSaeZSI/hqdefault.jpg"
     },
     {
-      "title": "Valor Mortis | Developer Interview | Unreal Engine",
-      "video_id": "d-dsT4nmnMA",
+      "title": "A Masterclass on Mutable Character Customization Workflows | Inside Unreal",
+      "video_id": "NMfjZp0oKqs",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to explore the impact UE5 had on the development of 'Valor Mortis': an innovative, original title set in an alternate ...",
-      "published_at": "2026-02-03T16:59:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d-dsT4nmnMA/hqdefault.jpg"
+      "description": "Join lead Mutable developers for a technical two-hour masterclass on Mutable workflows, features, and best practices.",
+      "published_at": "2026-02-12T21:08:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NMfjZp0oKqs/hqdefault.jpg"
     },
     {
-      "title": "News and Community Spotlight | February 2nd, 2026",
-      "video_id": "e_-LMHlqJbo",
+      "title": "Sharpening your visual eye: arch viz insights with SHoP Architects",
+      "video_id": "NkvyTi3WUmk",
       "channel_title": "Unreal Engine",
-      "description": "News Get your tickets for Unreal Fest Chicago 2026 | https://www.unrealengine.com/en-US/events/unreal-fest-chicago-2026 Fab ...",
-      "published_at": "2026-02-02T15:10:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e_-LMHlqJbo/hqdefault.jpg"
+      "description": "In a world where architecture, gaming technology, and virtual production intersect, the future belongs to versatile storytellers.",
+      "published_at": "2026-02-12T19:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NkvyTi3WUmk/hqdefault.jpg"
     },
     {
-      "title": "Engineering Digital Twins for Milano Cortina 2026 Winter Olympics | Unreal Fest Stockholm 2025",
-      "video_id": "xAhIf-ADvls",
+      "title": "Designing for live performance with Silent Partners Studios",
+      "video_id": "-aFJC1U-EKM",
       "channel_title": "Unreal Engine",
-      "description": "SIMICO is pioneering the future of sustainable infrastructure for the Milano Cortina 2026 Winter Olympics through SimicoTwin, an ...",
-      "published_at": "2026-02-02T10:16:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xAhIf-ADvls/hqdefault.jpg"
+      "description": "Behind every jaw-dropping live show is a powerful real-time team driving the visuals. In this episode of Career Connections, ...",
+      "published_at": "2026-02-12T19:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-aFJC1U-EKM/hqdefault.jpg"
+    },
+    {
+      "title": "NEW UE5 Motion Trails 2.0: Heat Map &amp; Camera Space Stabilization",
+      "video_id": "erHPJ8eoXyY",
+      "channel_title": "Unreal Engine",
+      "description": "NEW UE 5.6 MOTION TRAILS 2.0: Heat Map & Camera Space Stabilization: Discover the power of the rewritten Motion Trails 2.0 ...",
+      "published_at": "2026-02-11T19:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/erHPJ8eoXyY/hqdefault.jpg"
+    },
+    {
+      "title": "Valor Mortis and Nanite in Unreal Engine 5",
+      "video_id": "TMLQblHuK6Q",
+      "channel_title": "Unreal Engine",
+      "description": "Unreal Engine 5's toolset was a strong contributor to helping Valor Mortis' otherworldly 19th-century Europe. Nanite, in particular ...",
+      "published_at": "2026-02-11T15:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TMLQblHuK6Q/hqdefault.jpg"
+    },
+    {
+      "title": "The Technical Journey of Clair Obscur: Expedition 33 | Unreal Fest Stockholm 2025",
+      "video_id": "t1CrbTx6O6w",
+      "channel_title": "Unreal Engine",
+      "description": "In this session recorded at Unreal Fest Stockholm, Sandfall Interactive shares their experience of shipping their first game, 'Clair ...",
+      "published_at": "2026-02-11T14:08:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t1CrbTx6O6w/hqdefault.jpg"
+    },
+    {
+      "title": "Pose Library ADDITIVE MODE: Layer Animation Poses in Unreal Engine",
+      "video_id": "YSrYqx19_Y0",
+      "channel_title": "Unreal Engine",
+      "description": "UE5 POSE LIBRARY SECRETS: Layer Poses Non-Destructively with ADDITIVE MODE: Learn to utilize the Pose Library tool to ...",
+      "published_at": "2026-02-11T11:53:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YSrYqx19_Y0/hqdefault.jpg"
     }
   ]
 }
