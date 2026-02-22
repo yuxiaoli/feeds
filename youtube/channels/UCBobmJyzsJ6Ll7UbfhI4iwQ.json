@@ -1,88 +1,72 @@
 {
-  "fetched_at": "2026-02-15T00:39:52.744957",
+  "fetched_at": "2026-02-22T00:37:36.327807",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 10,
+  "count": 8,
   "videos": [
     {
-      "title": "UE5 Constraints Are EASY! Parent Constraint Workflow for Animators",
-      "video_id": "LHK3J5m_43c",
+      "title": "Training Creative Generalists with ROTU Entertainment",
+      "video_id": "RJlNhKrs3-0",
       "channel_title": "Unreal Engine",
-      "description": "UE5 Constraints Are EASY! Parent Constraint Workflow for Animators: Learn how to easily implement Parent Constraints in ...",
-      "published_at": "2026-02-13T19:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LHK3J5m_43c/hqdefault.jpg"
+      "description": "From VR games to films, advertising, architecture, and beyond- ROTU Entertainment is building entire worlds inside Unreal ...",
+      "published_at": "2026-02-21T18:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RJlNhKrs3-0/hqdefault.jpg"
     },
     {
-      "title": "What happens when physical props meet real-time VFX?",
-      "video_id": "IG1pelJRi60",
+      "title": "Slow Motion SECRETS! How to Time Warp Animation in Unreal Engine",
+      "video_id": "d-_hv7IXjkM",
       "channel_title": "Unreal Engine",
-      "description": "This deep dive looks at Muzzle Report, custom hardware that connects directly to Unreal Engine—giving actors something real to ...",
-      "published_at": "2026-02-13T17:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IG1pelJRi60/hqdefault.jpg"
+      "description": "QUICK Slo-Mo HACKS in UE5! Time Warp Tracks & Play Rate Curves: Learn how to quickly add global slow-motion effects using ...",
+      "published_at": "2026-02-20T19:00:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d-_hv7IXjkM/hqdefault.jpg"
     },
     {
-      "title": "Yuki’s Revenge | Building the Muzzle Report",
-      "video_id": "S3likSaeZSI",
+      "title": "Game Animation Sample Project Update | Unreal Engine 5.7",
+      "video_id": "kmXaVIANa-c",
       "channel_title": "Unreal Engine",
-      "description": "In this deep dive, we explore Muzzle Report, a custom hardware solution that connects physical props to Unreal Engine in real ...",
-      "published_at": "2026-02-13T16:55:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S3likSaeZSI/hqdefault.jpg"
+      "description": "The Game Animation Sample Pack is now updated for 5.7, packed with new features and over 500 game-ready animations to ...",
+      "published_at": "2026-02-20T16:55:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kmXaVIANa-c/hqdefault.jpg"
     },
     {
-      "title": "A Masterclass on Mutable Character Customization Workflows | Inside Unreal",
-      "video_id": "NMfjZp0oKqs",
+      "title": "POV: You’re the one behind the visuals at a sold-out show. 🏟️✨",
+      "video_id": "7kl6-5f1LCQ",
       "channel_title": "Unreal Engine",
-      "description": "Join lead Mutable developers for a technical two-hour masterclass on Mutable workflows, features, and best practices.",
-      "published_at": "2026-02-12T21:08:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NMfjZp0oKqs/hqdefault.jpg"
+      "description": "Ever wonder who's driving those massive, immersive screens at live concerts and theater? It's real-time teams using Unreal ...",
+      "published_at": "2026-02-19T19:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7kl6-5f1LCQ/hqdefault.jpg"
     },
     {
-      "title": "Sharpening your visual eye: arch viz insights with SHoP Architects",
-      "video_id": "NkvyTi3WUmk",
+      "title": "Cartoony Animation! UE5 GPU Deformers (Sculpt &amp; Lattice)",
+      "video_id": "zsdmj-bF5kM",
       "channel_title": "Unreal Engine",
-      "description": "In a world where architecture, gaming technology, and virtual production intersect, the future belongs to versatile storytellers.",
-      "published_at": "2026-02-12T19:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NkvyTi3WUmk/hqdefault.jpg"
+      "description": "GPU DEFORMERS UE5: Cartoony Squash & Stretch Effects (Sculpt & Lattice): Explore Unreal Engine's powerful and fast GPU ...",
+      "published_at": "2026-02-18T21:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zsdmj-bF5kM/hqdefault.jpg"
     },
     {
-      "title": "Designing for live performance with Silent Partners Studios",
-      "video_id": "-aFJC1U-EKM",
+      "title": "Fireside Chat: Inside Sinners with Michael Ralla and Pepe Valencia",
+      "video_id": "lUKR7lZoFYI",
       "channel_title": "Unreal Engine",
-      "description": "Behind every jaw-dropping live show is a powerful real-time team driving the visuals. In this episode of Career Connections, ...",
-      "published_at": "2026-02-12T19:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-aFJC1U-EKM/hqdefault.jpg"
+      "description": "Watch Academy Award-nominated VFX Supervisor Michael Ralla and Emmy Award–winning Visualization Supervisor Pepe ...",
+      "published_at": "2026-02-18T18:10:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lUKR7lZoFYI/hqdefault.jpg"
     },
     {
-      "title": "NEW UE5 Motion Trails 2.0: Heat Map &amp; Camera Space Stabilization",
-      "video_id": "erHPJ8eoXyY",
+      "title": "Qualcomm Technologies&#39; 2026 Snapdragon Cockpit Elite Powered by Unreal Engine 5",
+      "video_id": "dCqmK5o45jc",
       "channel_title": "Unreal Engine",
-      "description": "NEW UE 5.6 MOTION TRAILS 2.0: Heat Map & Camera Space Stabilization: Discover the power of the rewritten Motion Trails 2.0 ...",
-      "published_at": "2026-02-11T19:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/erHPJ8eoXyY/hqdefault.jpg"
+      "description": "Watch this video for a glimpse at experiences built on Qualcomm Technologies' Snapdragon Cockpit Elite and Snapdragon Ride ...",
+      "published_at": "2026-02-18T14:55:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dCqmK5o45jc/hqdefault.jpg"
     },
     {
-      "title": "Valor Mortis and Nanite in Unreal Engine 5",
-      "video_id": "TMLQblHuK6Q",
+      "title": "Introduction to Substrate Materials | Unreal Engine 5.7",
+      "video_id": "d1ncs8M6Lkg",
       "channel_title": "Unreal Engine",
-      "description": "Unreal Engine 5's toolset was a strong contributor to helping Valor Mortis' otherworldly 19th-century Europe. Nanite, in particular ...",
-      "published_at": "2026-02-11T15:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TMLQblHuK6Q/hqdefault.jpg"
-    },
-    {
-      "title": "The Technical Journey of Clair Obscur: Expedition 33 | Unreal Fest Stockholm 2025",
-      "video_id": "t1CrbTx6O6w",
-      "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Stockholm, Sandfall Interactive shares their experience of shipping their first game, 'Clair ...",
-      "published_at": "2026-02-11T14:08:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t1CrbTx6O6w/hqdefault.jpg"
-    },
-    {
-      "title": "Pose Library ADDITIVE MODE: Layer Animation Poses in Unreal Engine",
-      "video_id": "YSrYqx19_Y0",
-      "channel_title": "Unreal Engine",
-      "description": "UE5 POSE LIBRARY SECRETS: Layer Poses Non-Destructively with ADDITIVE MODE: Learn to utilize the Pose Library tool to ...",
-      "published_at": "2026-02-11T11:53:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YSrYqx19_Y0/hqdefault.jpg"
+      "description": "Take a look at Substrate, Unreal Engine's state-of-the-art modular material authoring and rendering framework that offers inherent ...",
+      "published_at": "2026-02-16T16:45:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d1ncs8M6Lkg/hqdefault.jpg"
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-02-15T00:39:59.205800",
+  "fetched_at": "2026-02-22T00:37:42.880231",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "【人工智能】AMD如何靠豪赌逆风翻盘 | CTO马克 | Zen架构 | Chiplet小芯片 | Infinity Fabric | 收购ZT Systems | 机架级优化 | AI原生设计",
-      "video_id": "uAzsgbRdGkM",
+      "title": "【人工智能】数据中心能源告急 | Contrary 350页报告解读 | 算力能源 | 中国核电 | DeepSeek | 自动驾驶 | Waymo | GLP1 | Neuralink | 计算理论",
+      "video_id": "X6G7vVJGc9Y",
       "channel_title": "最佳拍档",
-      "description": "从2016年服务器市场份额几乎归零，到如今成为AI时代不可或缺的算力引擎，AMD这十年究竟经历了什么？本期视频深度拆解AMD ...",
-      "published_at": "2026-02-14T23:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uAzsgbRdGkM/hqdefault.jpg"
+      "description": "当全世界都在谈论AI规模，顶级风投Contrary却在担心2026 年即将爆发的能源大逃杀。本期视频带你拆解350页科技趋势报告， ...",
+      "published_at": "2026-02-21T23:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X6G7vVJGc9Y/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】人形机器人是无限刷钱外挂 | 马斯克三小时访谈 | 太空数据中心 | 电力瓶颈 | 太阳能 | SpaceX | Grok | Optimus | 中国制造 | 管理哲学 | 美国机会",
-      "video_id": "TicW9gQNdII",
+      "title": "【人工智能】AI的乱纪元 | 科学家会被AI取代吗 | AI for Science | 范式转移 | 感受质 | 主体间性 | AlphaFold 3 | 科学共识构建",
+      "video_id": "UEvhegxgxTI",
       "channel_title": "最佳拍档",
-      "description": "前几天，埃隆·马斯克 Elon Musk 接受了一场长达3小时的深度对话，对话的另一方是Stripe的联合创始人约翰·科里森，与知名科技博 ...",
-      "published_at": "2026-02-14T11:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TicW9gQNdII/hqdefault.jpg"
+      "description": "如果AI 解决了所有的科学难题，人类科学家还有存在的意义吗？当AlphaFold 3 以前所未有的精度预测蛋白质结构时，一种算法终结 ...",
+      "published_at": "2026-02-21T09:00:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UEvhegxgxTI/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】Token级数据过滤 | 尼尔拉西 | 亚历克拉德福德 | 预训练清洗 | 稀疏自编码器SAE | 损失屏蔽技术 | 彻底取代机器遗忘 | 解决对抗微调攻击 | 大模型本质安全路径",
-      "video_id": "prqLINm_Ufw",
+      "title": "【人工智能】数学天才入局AI | 陶哲轩 | Sair基金会 | 形式化验证 | Lean语言 | 逻辑证明 | 大语言模型LLM | 科学工作流 | 形式化代码 | 机器学习 | 严谨科学",
+      "video_id": "Fz1wvDS8_NQ",
       "channel_title": "最佳拍档",
-      "description": "如果大模型从出生那一刻起就天生无害，世界会怎样？本期视频带你直击AI安全的最前沿，Token级数据过滤。为什么即便最先进的 ...",
-      "published_at": "2026-02-14T09:01:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/prqLINm_Ufw/hqdefault.jpg"
+      "description": "当数学界的莫扎特陶哲轩决定为 AI 立规矩，科学界的范式革命正式开启。为什么顶尖科学家对 AI 编造的文献嗤之以鼻，却又坚信它 ...",
+      "published_at": "2026-02-20T23:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fz1wvDS8_NQ/hqdefault.jpg"
     },
     {
-      "title": "【分享】别让AI替你思考 | 五维思维 | Dan Koe | AI时代竞争力 | 独立思考 | 跨学科学习 | 马斯克第一性原理 | 乔布斯 | 贝索斯 | 职场进阶 | 终身学习 | 个人成长",
-      "video_id": "3naXxGtPhyE",
+      "title": "【人工智能】谷歌发布Gemini 3.1 Pro | 重回全球王座 | AGI成绩超3.0 Pro两倍 | 编码能力提升 | 成本更低 | 全平台部署 | 分档定价 | 实际应用效果",
+      "video_id": "zdTJ9zXcLHo",
       "channel_title": "最佳拍档",
-      "description": "你是在独立思考，还是在外包你的大脑？在AI已经能高效处理已知问题的今天，平庸的线性思维正让你失去核心竞争力。本期视频带 ...",
-      "published_at": "2026-02-13T23:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3naXxGtPhyE/hqdefault.jpg"
+      "description": "继上周完成Gemini 3 Deep Think的重大更新后，谷歌今天正式推出了升级版核心智能模型Gemini 3.1 Pro，这款模型不仅在核心推理 ...",
+      "published_at": "2026-02-20T09:01:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zdTJ9zXcLHo/hqdefault.jpg"
     },
     {
-      "title": "【商业】黄仁勋酒后暴论 | 编程只是打字 | AI工厂 | 数字劳动力 | 隐式编程 | 算力一百万倍 | 提问能力 | 商业逻辑重构 | NVIDIA | 物理AI | 智能时代生存 | 软件终结",
-      "video_id": "LCdi1TE0rXo",
+      "title": "【人工智能】Anthropic会反超OpenAI吗？ | SemiAnalysis | 营收爆发 | 微软护城河瓦解 | 十五万亿市场洗牌 | 程序员危机 | 自动办公Agent | 算力成本坍塌",
+      "video_id": "oD-C1KSGg4o",
       "channel_title": "最佳拍档",
-      "description": "编程真的要消失了吗？黄仁勋在五杯酒后，撕下了科技行业的最后体面。本期视频直击英伟达CEO最真实的思维世界，拆解他口中 ...",
-      "published_at": "2026-02-13T09:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LCdi1TE0rXo/hqdefault.jpg"
+      "description": "15 万亿美元的市场正在经历一场前所未有的大清洗。当Claude Code在13个月内实现4万倍增长时，传统软件业的护城河已形同虚设 ...",
+      "published_at": "2026-02-19T23:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oD-C1KSGg4o/hqdefault.jpg"
     },
     {
-      "title": "【芯片】内存市场正在经历超级周期 | 四十年一遇 | DRAM | AI | SemiAnalysis | 历史四次周期｜缩放停滞 | 商品化 | 资本密集行业 | 供应与需求 | HBM | EUV",
-      "video_id": "u1MzYYvsIRo",
+      "title": "【人工智能】Claude Sonnet 4.6发布 | 计算机操作能力 | 1M上下文压缩 | 智能体规划 | 全能型助手 | Excel插件 | 极致性价比 | 自动办公Agent",
+      "video_id": "cNRRvmPiCpY",
       "channel_title": "最佳拍档",
-      "description": "当下，整个内存行业正在被一场前所未有的狂潮所席卷。内存价格再度翻倍，市场陷入四十年一遇的短缺，而更值得关注的是，这场 ...",
-      "published_at": "2026-02-13T04:04:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u1MzYYvsIRo/hqdefault.jpg"
+      "description": "如果一个价格只有五分之一的模型，性能却全面超越了去年的顶级旗舰，你会怎么选？本期视频带你直击Anthropic 的降维打击之作 ...",
+      "published_at": "2026-02-19T09:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cNRRvmPiCpY/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】DeepMind的基因解码器 | AlphaGenome | 谷歌AI | 非编码DNA | 98%暗物质 | 统一序列模型 | 罕见病 | 癌症 | AlphaFold | 生命科学革命",
-      "video_id": "JTeK1kDTf9Q",
+      "title": "【人工智能】大事正在发生 | 马特·舒默 | AI从业者们的焦虑 | AI自我进化 | GPT-5.3 Codex | Claude Opus 4.6 | AI浪潮的冲击 | 未来已来",
+      "video_id": "gH9ux3XDMrg",
       "channel_title": "最佳拍档",
-      "description": "如果生命是一本用三十亿个碱基写成的天书，而我们过去只读懂了其中的2%，将会发生什么？本期视频将为你揭晓谷歌DeepMind的 ...",
-      "published_at": "2026-02-12T09:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JTeK1kDTf9Q/hqdefault.jpg"
+      "description": "一件大事正在发生...... https://shumer.dev/something-big-is-happening.",
+      "published_at": "2026-02-19T04:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gH9ux3XDMrg/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】大模型会集体变疯吗？ | Anthropic助理轴理论 | 神经网络激活值 | 人格漂移 | 激活上限技术 | AI安全防线 | 幻觉产生 | 深度学习 | LLM | 身份认同危机",
-      "video_id": "eznudFc-Z3s",
+      "title": "【分享】AI时代人类唯一道德 | 布莱恩约翰逊 | 蓝图计划 | 逆转生物年龄 | 睡眠意志力 | 晨勃健康指标 | 拟态战争 | 夺回代理权 | 高压氧舱疗法 | 红外干桑拿 | 对抗熵增",
+      "video_id": "a_eLQBNllqs",
       "channel_title": "最佳拍档",
-      "description": "你以为每天和你聊天的AI助手真的是那个温顺理性的人吗？其实，它只是一个入戏太深的百变演员。本期视频带你潜入大模型的大脑 ...",
-      "published_at": "2026-02-11T23:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eznudFc-Z3s/hqdefault.jpg"
+      "description": "当AI可以创造无穷财富时，人类最后的护城河是什么？本期视频带你走进布莱恩·约翰逊极致的人体实验与生存哲学。为什么他认为 ...",
+      "published_at": "2026-02-18T23:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a_eLQBNllqs/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】浏览器要变天了 | Chrome接入Gemini 3 | 自动浏览技术 | 侧边栏生产力 | 谷歌全家桶生态集成 | 自动浏览黑科技 | AI助理 | 告别手动操作 | 效率提升",
-      "video_id": "uDd8nFtraXQ",
+      "title": "【人工智能】语言不是智能第一动力 | 李飞飞 | Marble世界模型 | World Labs | 3D生成式 | 物理感知 | 机器视觉 | 触觉进化 | 导航互动一致性 | 像素生成误区",
+      "video_id": "kLLOxiUsZx4",
       "channel_title": "最佳拍档",
-      "description": "你手中的浏览器，刚刚进化成了超级智能体。谷歌正式亮出底牌，Gemini 3全面接管Chrome，这场变革将重塑全球38亿人的上网 ...",
-      "published_at": "2026-02-11T09:01:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uDd8nFtraXQ/hqdefault.jpg"
+      "description": "如果说过去的AI赢在会聊天，那么未来的AI将赢在懂物理。本期视频直击李飞飞教授2026年最新对话，拆解空间智能模型Marble如何 ...",
+      "published_at": "2026-02-18T09:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kLLOxiUsZx4/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】虚拟宇宙梦想成真| Project Genie团队访谈 | 世界模型 | 3D实时交互 | 2D转3D | 机器人模拟器 | 具身智能训练 | 谷歌DeepMind | 医疗记忆疗愈",
-      "video_id": "8uDxq0HISE0",
+      "title": "【人工智能】大模型长上下文的谎言 | 姚顺雨 | CL-BENCH | 揭秘上下文税 | 大模型Agent落地卡点 | 检索不等于应用 | GPT-5.1 | 混元团队论文 | 显式记忆架构",
+      "video_id": "9BeSsdpqzuc",
       "channel_title": "最佳拍档",
-      "description": "如果视频不再是用来看的，而是用来进的，世界会怎样？谷歌DeepMind正式向公众开放Project Genie 3，这不仅仅是一次技术更新 ...",
-      "published_at": "2026-02-10T23:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8uDxq0HISE0/hqdefault.jpg"
+      "description": "为什么拥有百万token窗口的大模型，在处理复杂任务时依然会间歇性失忆？本期视频深度拆解腾讯首席AI科学家姚顺雨的最新论文， ...",
+      "published_at": "2026-02-17T23:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9BeSsdpqzuc/hqdefault.jpg"
     }
   ]
 }

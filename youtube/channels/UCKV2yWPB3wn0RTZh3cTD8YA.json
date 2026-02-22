@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-02-15T00:40:05.011583",
+  "fetched_at": "2026-02-22T00:37:48.833107",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
-  "count": 25,
+  "count": 10,
   "videos": [
+    {
+      "title": "揭秘春晚小品机器人：与松延动力聊对戏、空翻、仿生背后的技术进化",
+      "video_id": "ZDXIUO7CRzo",
+      "channel_title": "硅谷101",
+      "description": "今年的央视春晚上，机器人不再只是跳舞、扭秧歌，而是首次走上了小品舞台，与人类演员同台对戏。台上与蔡明老师搭戏的“电子 ...",
+      "published_at": "2026-02-21T05:48:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZDXIUO7CRzo/hqdefault.jpg"
+    },
+    {
+      "title": "AI双巨头时代：Anthropic会超越OpenAI吗？",
+      "video_id": "1fIAie1uLac",
+      "channel_title": "硅谷101",
+      "description": "Anthropic G轮融资落地，估值狂飙至3800亿。更疯狂的是，三年来Anthropic每年营收增长都超过10倍，增速是OpenAI的4倍多。",
+      "published_at": "2026-02-21T00:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1fIAie1uLac/hqdefault.jpg"
+    },
+    {
+      "title": "Seedance 2.0：AI视频进入工业化时代",
+      "video_id": "JXkvqMQ1tck",
+      "channel_title": "硅谷101",
+      "description": "Seedance 2.0爆火海内外，正凭借电影级质感与多镜头叙事，完成从“玩具”到“生产力工具”的本质跨越。也许视频生成行业将进入字 ...",
+      "published_at": "2026-02-20T00:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JXkvqMQ1tck/hqdefault.jpg"
+    },
+    {
+      "title": "AppLovin撕开巨头裂缝的1000天：AI审判、被做空与Underdog的“弱者之心”【硅谷101专访】",
+      "video_id": "18qSqzTdnbs",
+      "channel_title": "硅谷101",
+      "description": "在谷歌与Meta双头垄断的数字广告领域，一家公司撕开市场裂缝，两年时间股价暴涨25倍，跻身千亿美元俱乐部。这家公司 ...",
+      "published_at": "2026-02-15T02:25:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/18qSqzTdnbs/hqdefault.jpg"
+    },
     {
       "title": "3000亿美元灰飞烟灭，AI正在肢解SaaS帝国",
       "video_id": "W6TrLYfMSew",
@@ -51,158 +83,6 @@
       "description": "在2026年CES的展馆里，AI已经渗透每个角落，却依然没有等到那个“iPhone时刻”。今年我们跑断了腿，探展了50个AI项目，从人形 ...",
       "published_at": "2026-01-26T12:39:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Hemlsyob1Ng/hqdefault.jpg"
-    },
-    {
-      "title": "探展CES 2026：与吉利聊聊开始“读懂”世界的汽车，与Physical AI的“GPT时刻”【赞助】",
-      "video_id": "Xj6W71Gt1-w",
-      "channel_title": "硅谷101",
-      "description": "【本视频由吉利赞助播出】在2026年CES的聚光灯下，汽车已不再是单纯的交通工具，而是正在进化的“出行智慧生命体”。Physical ...",
-      "published_at": "2026-01-20T00:00:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xj6W71Gt1-w/hqdefault.jpg"
-    },
-    {
-      "title": "机器人“大脑”60年进化史：基础模型的五代进化与三大闭源流派｜机器人系列",
-      "video_id": "g5hw1HZfwTc",
-      "channel_title": "硅谷101",
-      "description": "2025年，机器人突然变得“聪明”了。它们开始叠衣服、准备早餐、在真实环境中持续工作，而这一切的背后，不再只是机械结构的 ...",
-      "published_at": "2026-01-13T01:01:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g5hw1HZfwTc/hqdefault.jpg"
-    },
-    {
-      "title": "脑机接口大盘点：从科幻到现实，谁在引领这场“读心术”革命?",
-      "video_id": "bO6xBjIx9JQ",
-      "channel_title": "硅谷101",
-      "description": "1月1日，马斯克突然在X上宣布：Neuralink的脑机接口设备将于今年大规模量产。想象一下：人类用意念操控机器，思想直接变成 ...",
-      "published_at": "2026-01-10T00:30:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bO6xBjIx9JQ/hqdefault.jpg"
-    },
-    {
-      "title": "专访Bryan Johnson：“换血富豪”的“不死”抗衰实验与商业版图",
-      "video_id": "dOlQZnjMriI",
-      "channel_title": "硅谷101",
-      "description": "Bryan Johnson是硅谷最具争议的抗衰实践者，也是“世界上最被精密量化的人”。他曾受肥胖、抑郁困扰，如今却声称将自己的生物 ...",
-      "published_at": "2026-01-05T04:14:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dOlQZnjMriI/hqdefault.jpg"
-    },
-    {
-      "title": "2026年科技行业前瞻：AI、自动驾驶、机器人、世界模型、美股...",
-      "video_id": "lAy9RKQSi2U",
-      "channel_title": "硅谷101",
-      "description": "硅谷101的三小时新年直播来啦，聚焦聊聊2026年大家最关心的几个科技赛道展望～ 视频时间轴： 环节一：AI的2025与2026：技术 ...",
-      "published_at": "2026-01-04T07:25:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lAy9RKQSi2U/hqdefault.jpg"
-    },
-    {
-      "title": "2025年，人形机器人走到哪一步了？｜机器人系列｜具身智能年度盘点",
-      "video_id": "qs0ovkaacls",
-      "channel_title": "硅谷101",
-      "description": "这是一期机器人系列的2025年综述，详细的算法、开闭源派、数据、硬件等单集很快上线～ 2025年，具身智能行业经历了一场从“ ...",
-      "published_at": "2025-12-24T00:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qs0ovkaacls/hqdefault.jpg"
-    },
-    {
-      "title": "派拉蒙百年兴衰史：80亿卖身甲骨文背后的传媒帝国大洗牌｜传媒巨头系列",
-      "video_id": "f41vPIkpYh4",
-      "channel_title": "硅谷101",
-      "description": "2025年，好莱坞迎来地震级变革：甲骨文创始人之子David Ellison以80亿美元收购百年巨头派拉蒙，成为史上最年轻的大制片 ...",
-      "published_at": "2025-12-19T02:17:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f41vPIkpYh4/hqdefault.jpg"
-    },
-    {
-      "title": "阿里千问与“AI Layer”崛起：一场重塑互联网的“操作系统”生态战",
-      "video_id": "hfiI8taHQcg",
-      "channel_title": "硅谷101",
-      "description": "这是一期合作视频，阿里想和大家聊聊：他们如何去押注互联网的下一步。 互联网的兴衰，本质是一部交互方式的迭代史。从鼠标 ...",
-      "published_at": "2025-12-17T04:12:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hfiI8taHQcg/hqdefault.jpg"
-    },
-    {
-      "title": "AI云端狂想曲：亚马逊云科技的算力突围、Agent重构与卓越运营",
-      "video_id": "-_JDc0XYsB4",
-      "channel_title": "硅谷101",
-      "description": "AI已经能“上天下海”了？在今年的亚马逊云科技re:Invent大会现场，我们看到了用AI设计的“月球吸尘器”、优化海洋清理工作，甚至连 ...",
-      "published_at": "2025-12-16T00:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-_JDc0XYsB4/hqdefault.jpg"
-    },
-    {
-      "title": "Swatch危机：瑞士钟表的昔日骄傲与美国“野蛮人”",
-      "video_id": "ChYacMSR-yk",
-      "channel_title": "硅谷101",
-      "description": "曾经Swatch集团凭借一块色彩斑斓的塑料表，将瑞士钟表业从“石英危机”的死亡线上拉回，不仅缔造了流行文化，更打造了全球最大 ...",
-      "published_at": "2025-12-09T00:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ChYacMSR-yk/hqdefault.jpg"
-    },
-    {
-      "title": "硅谷教育颠覆者发出警告：AI将淘汰不愿改革的学校｜硅谷101年度线下大会（全英）",
-      "video_id": "vZ1kAuU_ogw",
-      "channel_title": "硅谷101",
-      "description": "在人工智能席卷各行各业的今天，教育正站在变革的十字路口。这是一场汇聚了“硅谷教母”、密涅瓦大学创始人以及斯坦福加速学习 ...",
-      "published_at": "2025-12-03T23:34:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vZ1kAuU_ogw/hqdefault.jpg"
-    },
-    {
-      "title": "AI最烧钱的战场：数据中心的真实账单",
-      "video_id": "reCHpD4yDfQ",
-      "channel_title": "硅谷101",
-      "description": "5000亿美元，是NASA预估让人类登陆火星的预算，却只够OpenAI建一座“星际之门”数据中心。而这，仅仅是开始。随着Meta、xAI ...",
-      "published_at": "2025-12-01T23:06:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/reCHpD4yDfQ/hqdefault.jpg"
-    },
-    {
-      "title": "“人造肉”千亿赛道的坍塌：资本的幻想与精英主义的泡沫",
-      "video_id": "2TV2jMaIcak",
-      "channel_title": "硅谷101",
-      "description": "这是一个曾被比尔·盖茨、李嘉诚、小李子押注的千亿赛道，如今却沦为华尔街的笑话。2019年，Beyond Meat上市首日暴涨163%， ...",
-      "published_at": "2025-11-26T01:17:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2TV2jMaIcak/hqdefault.jpg"
-    },
-    {
-      "title": "直播解析谷歌Gemini 3：“AI 全模态”时代与Scaling Law的极致执行【101 Live】",
-      "video_id": "1pgCnlJRuxE",
-      "channel_title": "硅谷101",
-      "description": "在AI 领域的最新风暴中，Google 最新推出的Gemini 3 被多家媒体和开发者视为“里程碑式”的突破：它不仅在多模态能力（文字、 ...",
-      "published_at": "2025-11-21T05:35:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1pgCnlJRuxE/hqdefault.jpg"
-    },
-    {
-      "title": "AI的下一步：强化学习是正确的AGI解法吗？｜硅谷101年度线下大会｜Alignment 2025",
-      "video_id": "bnIHrenhFpc",
-      "channel_title": "硅谷101",
-      "description": "【硅谷101年度线下大会回放】2016年，AlphaGo击败围棋世界冠军，让强化学习一战成名。如今，从推荐算法到自动驾驶，强化 ...",
-      "published_at": "2025-11-20T03:56:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bnIHrenhFpc/hqdefault.jpg"
-    },
-    {
-      "title": "硅谷101首场直播：万亿基建市场还是AI投资泡沫？",
-      "video_id": "_AdW48HjadE",
-      "channel_title": "硅谷101",
-      "description": "2025 年的科技市场再次进入狂热时刻。英伟达、微软、亚马逊、谷歌、Meta 等科技巨头纷纷上调AI 基础设施的资本开支（CapEx） ...",
-      "published_at": "2025-11-15T18:05:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_AdW48HjadE/hqdefault.jpg"
-    },
-    {
-      "title": "专访前FAIR研究总监田渊栋：Meta裁员之后，对AI的一些遗憾与思考【对话】",
-      "video_id": "EsaUQNx59vA",
-      "channel_title": "硅谷101",
-      "description": "2025年10月底，Meta在AI部门进行大规模裁员约600人，前FAIR研究总监田渊栋是这次风波的核心人物之一。我们在上个视频中聊 ...",
-      "published_at": "2025-11-11T00:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EsaUQNx59vA/hqdefault.jpg"
-    },
-    {
-      "title": "失衡的乌托邦：Meta的开源AI路线是如何遭遇滑铁卢的",
-      "video_id": "0mrko3cYqBs",
-      "channel_title": "硅谷101",
-      "description": "2025年10月底，Meta AI部门宣布裁员600个职位，甚至核心部门的研究总监，同时掌管AI业务的高管纷纷离职、被边缘化，就连图灵 ...",
-      "published_at": "2025-11-09T00:03:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0mrko3cYqBs/hqdefault.jpg"
-    },
-    {
-      "title": "给AI一个“身体”：3D数字人是具身智能的解法？｜机器人系列",
-      "video_id": "zR9tvIE_P-w",
-      "channel_title": "硅谷101",
-      "description": "3D数字人为什么是具身智能的解法？AI视频生成模型Sora 2的发布，再次点燃了人们对AI内容的想象。然而，它终究是“被观看”的2D ...",
-      "published_at": "2025-11-07T23:38:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zR9tvIE_P-w/hqdefault.jpg"
     }
   ]
 }

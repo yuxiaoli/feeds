@@ -1,72 +1,88 @@
 {
-  "fetched_at": "2026-02-15T00:39:48.298596",
+  "fetched_at": "2026-02-22T00:37:31.930487",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 8,
+  "count": 10,
   "videos": [
-    {
-      "title": "How TypeScript&#39;s creator uses AI",
-      "video_id": "2djTIalOr1M",
-      "channel_title": "GitHub",
-      "description": "\"In the ideal world, AI helps us get rid of all the toil.\" Anders Hejlsberg explains how the TypeScript team uses AI to handle the ...",
-      "published_at": "2026-02-14T17:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2djTIalOr1M/hqdefault.jpg"
-    },
-    {
-      "title": "Open Source Friday with Caracal - a runtime execution authority layer for AI agents in production",
-      "video_id": "tZ4FdO-zjeE",
-      "channel_title": "GitHub",
-      "description": "Join us on Open Source Friday to explore Caracal - a runtime execution authority layer for AI agents in production. Caracal is ...",
-      "published_at": "2026-02-14T07:03:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tZ4FdO-zjeE/hqdefault.jpg"
-    },
-    {
-      "title": "Open Source Friday with Martin Woodward",
-      "video_id": "zVWT8ZQZYhI",
-      "channel_title": "GitHub",
-      "description": "Join us for an exclusive conversation with Martin Woodward, GitHub's VP of Developer Relations, recorded live at GitHub ...",
-      "published_at": "2026-02-14T01:23:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zVWT8ZQZYhI/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing GitHub Agentic Workflows | intent-driven repository automation",
-      "video_id": "3_i03fGXs9U",
-      "channel_title": "GitHub",
-      "description": "We asked the question: what does repository automation look like in the era of AI coding agents, and how can this be made safe ...",
-      "published_at": "2026-02-13T14:03:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3_i03fGXs9U/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays | Let&#39;s cowork and code!",
-      "video_id": "4r33WnvLeCw",
-      "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2026-02-13T08:41:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4r33WnvLeCw/hqdefault.jpg"
-    },
-    {
-      "title": "Event in Spanish: Jueves de Quak con Carlos Alarcon y Copilot SDK",
-      "video_id": "nMsuWOkaf9I",
-      "channel_title": "GitHub",
-      "description": "En este episodio de Jueves de Quack nos acompaña @@alarcon7a, un ingeniero increíble y builder de corazón, para meternos ...",
-      "published_at": "2026-02-13T05:19:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nMsuWOkaf9I/hqdefault.jpg"
-    },
     {
       "title": "Open Source Friday with Mitchell Hashimoto",
       "video_id": "0npMvuh7qNc",
       "channel_title": "GitHub",
       "description": "Mitchell Hashimoto joins Open Source Friday to demo vouch, a trust management system for open source. We'll talk about why ...",
-      "published_at": "2026-02-12T16:51:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0npMvuh7qNc/hqdefault_live.jpg"
+      "published_at": "2026-02-21T09:09:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0npMvuh7qNc/hqdefault.jpg"
     },
     {
-      "title": "How global tech talent is advancing with GitHub Copilot | GitHub x Andela",
-      "video_id": "iuGAfugNahs",
+      "title": "Open Source Friday with Prompts.chat",
+      "video_id": "T1Ay91zvkok",
       "channel_title": "GitHub",
-      "description": "\"If you do not learn, you get left behind.\" See how the Andela network is using GitHub Copilot certifications to stay ahead in a ...",
-      "published_at": "2026-02-11T19:15:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iuGAfugNahs/hqdefault.jpg"
+      "description": "Open Source Friday is back. This week we're live with Fatih Kadir Akın (@f), the maintainer behind prompts.chat. prompts.chat is ...",
+      "published_at": "2026-02-21T07:01:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/T1Ay91zvkok/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday with Learn to Cloud 📱",
+      "video_id": "vL-hq1KYopc",
+      "channel_title": "GitHub",
+      "description": "This OSF join @rishabincloud and @madebygps creators of Learn to Cloud. A beginner friendly, community driven roadmap for ...",
+      "published_at": "2026-02-21T02:21:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vL-hq1KYopc/hqdefault_live.jpg"
+    },
+    {
+      "title": "Open Source Friday with Learn to Cloud",
+      "video_id": "BmKCFt01ja4",
+      "channel_title": "GitHub",
+      "description": "This OSF join @rishabincloud and @madebygps creators of Learn to Cloud. A beginner friendly, community driven roadmap for ...",
+      "published_at": "2026-02-21T02:21:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BmKCFt01ja4/hqdefault_live.jpg"
+    },
+    {
+      "title": "Open Source Friday with Honcho",
+      "video_id": "lihrin9a3pE",
+      "channel_title": "GitHub",
+      "description": "This Open Source Friday, we'll learn about Honcho, an open source project exploring a more thoughtful approach to agent ...",
+      "published_at": "2026-02-21T01:20:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lihrin9a3pE/hqdefault_live.jpg"
+    },
+    {
+      "title": "Open Source Friday with GitHub Secure OSS Fund",
+      "video_id": "l8gSLQIBdjE",
+      "channel_title": "GitHub",
+      "description": "Recorded live from GitHub Universe 2025, this episode features Kevin Crosby (GitHub) on the GitHub Secure Open Source Fund ...",
+      "published_at": "2026-02-21T01:17:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l8gSLQIBdjE/hqdefault.jpg"
+    },
+    {
+      "title": "The Download: Agentic Workflows, new AI models, OpenClaw news &amp; more",
+      "video_id": "f6F7yQUd8rs",
+      "channel_title": "GitHub",
+      "description": "This week on The Download, Andrea covers the massive wave of new AI models, including GPT-5.3-Codex, Claude Opus 4.6, ...",
+      "published_at": "2026-02-20T15:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f6F7yQUd8rs/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays | Let&#39;s talk about GitHub Agentic Workflows!",
+      "video_id": "Dw2S-VQDvhs",
+      "channel_title": "GitHub",
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2026-02-20T08:13:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Dw2S-VQDvhs/hqdefault.jpg"
+    },
+    {
+      "title": "Jueves en Quack con El Bruno",
+      "video_id": "dnjGeWuqtGg",
+      "channel_title": "GitHub",
+      "description": "En este stream estaré con @elbruno explorando los modelos más recientes OSS de NVIDIA y qué significan para nosotros como ...",
+      "published_at": "2026-02-20T04:08:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dnjGeWuqtGg/hqdefault.jpg"
+    },
+    {
+      "title": "VS Code Live: Agent Sessions Day",
+      "video_id": "Osvu53c0yYg",
+      "channel_title": "GitHub",
+      "description": "Join us for VS Code Live: Agent Sessions Day on Feb 19th: a global virtual event celebrating how Visual Studio Code continues ...",
+      "published_at": "2026-02-19T20:28:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Osvu53c0yYg/hqdefault.jpg"
     }
   ]
 }

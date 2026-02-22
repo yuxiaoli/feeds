@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-15T00:39:54.940992",
+  "fetched_at": "2026-02-22T00:37:38.534653",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "Been in the studio too much, had to step outside",
+      "video_id": "EPxdbohqr3Y",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-02-17T23:49:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EPxdbohqr3Y/hqdefault.jpg"
+    },
     {
       "title": "y’all better get with the movement 😤",
       "video_id": "i5adPgDiPj0",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-07-07T17:46:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iWraO07JAqo/hqdefault.jpg"
-    },
-    {
-      "title": "Marshmello - Bassline Flexa [@JoytimeCollective  Presents: Jumpstart Vol. 1]",
-      "video_id": "fdE0BivhxTE",
-      "channel_title": "Marshmello",
-      "description": "Marshmello - Bassline Flexa @JoytimeCollective Presents: Jumpstart Vol. 1 Check out the full compilation here: ...",
-      "published_at": "2025-07-04T04:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fdE0BivhxTE/hqdefault.jpg"
     }
   ]
 }

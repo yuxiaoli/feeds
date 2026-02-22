@@ -1,24 +1,64 @@
 {
-  "fetched_at": "2026-02-15T00:39:40.953600",
+  "fetched_at": "2026-02-22T00:37:24.593386",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 25,
   "videos": [
     {
-      "title": "Foundry IQ: unlock ubiquitous knowledge for agents",
-      "video_id": "9vf-BJyvx-Q",
+      "title": "End-to-End Agentic Workflow: Campaign Creation to Localized Video",
+      "video_id": "f7aWmxQ7l0w",
       "channel_title": "Microsoft Azure",
-      "description": "Foundry IQ provides a context engineering platform for Microsoft's intelligence layer, unlocking knowledge for your agents, ...",
-      "published_at": "2026-02-13T18:24:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9vf-BJyvx-Q/hqdefault.jpg"
+      "description": "Human intent sets direction, AI agents handle execution. See a multi-agent workflow orchestrate video analysis, clip creation, QC, ...",
+      "published_at": "2026-02-20T21:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f7aWmxQ7l0w/hqdefault.jpg"
     },
     {
-      "title": "Azure gives fans Premier League data on demand",
-      "video_id": "kU4QGkQ0BwE",
+      "title": "Create a Purpose-Built Agent for Creative Teams",
+      "video_id": "7347na30AB4",
       "channel_title": "Microsoft Azure",
-      "description": "Passion is personal in the Premier League—and it runs deep. To cultivate that, the Premier League Companion app, backed by ...",
-      "published_at": "2026-02-12T17:30:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kU4QGkQ0BwE/hqdefault.jpg"
+      "description": "Watch how a creative production team builds a script development assistant: an AI agent designed to stay aligned to the project, ...",
+      "published_at": "2026-02-20T19:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7347na30AB4/hqdefault.jpg"
+    },
+    {
+      "title": "Drive Media Transformations with Copilot + Agents",
+      "video_id": "s6eS3LFvEOU",
+      "channel_title": "Microsoft Azure",
+      "description": "Media teams are under pressure to create more content, faster across platforms while protecting IP and privacy. See how ...",
+      "published_at": "2026-02-20T17:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s6eS3LFvEOU/hqdefault.jpg"
+    },
+    {
+      "title": "How Snowflake scales with Azure IaaS",
+      "video_id": "xxHyuInmjPk",
+      "channel_title": "Microsoft Azure",
+      "description": "Snowflake and Microsoft Azure partner to deliver a secure, scalable data and AI platform that helps organizations modernize ...",
+      "published_at": "2026-02-19T19:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xxHyuInmjPk/hqdefault.jpg"
+    },
+    {
+      "title": "Scaling cyber resiliency in Azure with Illumio",
+      "video_id": "c7Tj5qWJu8M",
+      "channel_title": "Microsoft Azure",
+      "description": "Illumio builds cyber resiliency on Microsoft Azure, using Azure infrastructure and cloud‑native services to enable Zero Trust ...",
+      "published_at": "2026-02-19T17:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c7Tj5qWJu8M/hqdefault.jpg"
+    },
+    {
+      "title": "30 seasons of Premier League data is in your hands",
+      "video_id": "jsxF314qV4k",
+      "channel_title": "Microsoft Azure",
+      "description": "Go era to era in seconds. Azure AI powers the Premier League Companion—compare across seasons, dive into moments, and ...",
+      "published_at": "2026-02-19T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jsxF314qV4k/hqdefault.jpg"
+    },
+    {
+      "title": "Iconic Premier League debates, powered by Azure",
+      "video_id": "PqPAP_BCS8w",
+      "channel_title": "Microsoft Azure",
+      "description": "With Azure AI, the Premier League Companion app gives fans decades of personalized stats to win debates—or start new ones.",
+      "published_at": "2026-02-19T01:07:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PqPAP_BCS8w/hqdefault.jpg"
     },
     {
       "title": "Instant Access Snapshots for Azure Ultra Disk &amp; Premium SSD v2 | Technical Demo",
@@ -163,46 +203,6 @@
       "description": "Catch up on the highlights from Satya Nadella's Microsoft Build keynote, tailored for software companies. Read about the latest ...",
       "published_at": "2025-05-29T14:01:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/f7POcnSsGzY/hqdefault.jpg"
-    },
-    {
-      "title": "Software development is an act of empathy | Kilimo",
-      "video_id": "c7R6auLG6fg",
-      "channel_title": "Microsoft Azure",
-      "description": "Water is fundamental to our existence, but only a tiny fraction of fresh water on Earth is available to sustain life. How can we ...",
-      "published_at": "2025-05-28T16:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c7R6auLG6fg/hqdefault.jpg"
-    },
-    {
-      "title": "Carvana builds efficient, seamless customer experience with agent on Azure",
-      "video_id": "obcYLjzSX6E",
-      "channel_title": "Microsoft Azure",
-      "description": "Carvana built an AI-powered conversation analysis engine to enhance visibility and continuously improve every customer ...",
-      "published_at": "2025-05-19T16:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/obcYLjzSX6E/hqdefault.jpg"
-    },
-    {
-      "title": "AI templates in Azure AI Foundry",
-      "video_id": "xbRrAmy0ChA",
-      "channel_title": "Microsoft Azure",
-      "description": "Azure AI Foundry offers AI templates designed for the most common, high-value use cases and technical patterns – as designated ...",
-      "published_at": "2025-05-19T16:01:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xbRrAmy0ChA/hqdefault.jpg"
-    },
-    {
-      "title": "Hear how T&amp;Pm, a WPP company, uses Sora in Azure OpenAI",
-      "video_id": "IkF2HwCmoJM",
-      "channel_title": "Microsoft Azure",
-      "description": "T&Pm, a WPP company, uses Sora in Azure OpenAI to bring their media solutions to the next level Learn more: ...",
-      "published_at": "2025-05-19T16:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IkF2HwCmoJM/hqdefault.jpg"
-    },
-    {
-      "title": "Can AI make the world of art more accessible? | Art Basel",
-      "video_id": "NFCeG-pSuho",
-      "channel_title": "Microsoft Azure",
-      "description": "From cave painters to digital creators, artists continually discover new ways to express themselves and connect. That connection ...",
-      "published_at": "2025-05-13T19:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NFCeG-pSuho/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-15T00:39:43.878587",
+  "fetched_at": "2026-02-22T00:37:27.659525",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "Gemini-3.1-pro 实测! 更新了个寂寞?",
+      "video_id": "4yhQFrPEB-A",
+      "channel_title": "Karminski-牙医",
+      "description": "光速给大家带来 Gemini-3.1-pro 实测! 指令遵循: 洛希极限测试中部分指令遵循率 93.5% (3.0-pro 为 90.6%), 加权总分从 6.8 提升到 ...",
+      "published_at": "2026-02-20T03:12:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4yhQFrPEB-A/hqdefault.jpg"
+    },
+    {
+      "title": "Qwen3.5实测!来看贺岁档大模型的实力!",
+      "video_id": "lkji2RZKRHM",
+      "channel_title": "Karminski-牙医",
+      "description": "贺岁档大模型来啦! Qwen3.5 这次支持了文本、图片、视频多模态输入, 本次准备了全新的后端能力测试! 以及照例带来前端 ...",
+      "published_at": "2026-02-17T13:29:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lkji2RZKRHM/hqdefault.jpg"
+    },
     {
       "title": "啊?一个月一个版本? MiniMax-M2.5 4000万 token 实测!",
       "video_id": "jHvg1aE55ko",
@@ -67,22 +83,6 @@
       "description": "本次测试覆盖了GLM-4.7的编程能力, Agent/ToolCall能力, 长上下文召回能力, 给大家带来刚发布的GLM 4.7 的测试结果: 考验Agent ...",
       "published_at": "2025-12-23T10:15:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/UYbVUMltPrE/hqdefault.jpg"
-    },
-    {
-      "title": "现在都流行大模型月更吗? MiniMax-M2.1 实测!",
-      "video_id": "4US_ic5jpWM",
-      "channel_title": "Karminski-牙医",
-      "description": "申请MiniMax-M2.1 内测通过了, 火速开测! 给大家带来MiniMax M2.1 的测试结果: 本次测试较MiniMax-M2 从编程, Agent能力, ...",
-      "published_at": "2025-12-22T12:52:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4US_ic5jpWM/hqdefault.jpg"
-    },
-    {
-      "title": "让AI送外卖? 来看字节跳动刚刚发布的 doubao-seed-1.8 Agent 能力评测!",
-      "video_id": "iDvFypXBrQ4",
-      "channel_title": "Karminski-牙医",
-      "description": "大家经常看到我的评测都是让大模型写代码, 今天咱们整个新活, 如果让大模型送外卖, 看看大模型能赚多少钱? 为了这个测试我写了个 ...",
-      "published_at": "2025-12-18T08:07:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iDvFypXBrQ4/hqdefault.jpg"
     }
   ]
 }

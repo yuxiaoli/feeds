@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-15T00:40:09.382095",
+  "fetched_at": "2026-02-22T00:37:53.201844",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "2025 科学漫聊合订本：宇宙—生命—技术（8小时深度版）",
+      "video_id": "xrVxEWfUUiI",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2026-02-20T12:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xrVxEWfUUiI/hqdefault.jpg"
+    },
     {
       "title": "黄金滤镜效应：相对论在颜色中的具象体现",
       "video_id": "OObg-5eqcbQ",
@@ -75,14 +83,6 @@
       "description": "加入頻道會員，第一時間觀看新內容，你的支持將直接幫助我持續創作！ 立即 ...",
       "published_at": "2025-11-21T13:01:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mb_qoK5DJqQ/hqdefault.jpg"
-    },
-    {
-      "title": "核聚變火箭、雷射帆與中繼站：星際旅行的現實攻略",
-      "video_id": "8dJx1MINT5E",
-      "channel_title": "科學漫聊",
-      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
-      "published_at": "2025-11-11T13:15:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8dJx1MINT5E/hqdefault.jpg"
     }
   ]
 }

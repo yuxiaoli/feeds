@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-15T00:40:19.969907",
+  "fetched_at": "2026-02-22T00:38:03.772466",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The Codex app enables massively parallel work",
+      "video_id": "GWBHH4LXwOY",
+      "channel_title": "OpenAI",
+      "description": "\"The Codex app lets you go further, do more in parallel, and go deeper on the problems you care about.\" -gdb.",
+      "published_at": "2026-02-19T17:26:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GWBHH4LXwOY/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: Prompt Caching",
+      "video_id": "tECAkJAI_Vk",
+      "channel_title": "OpenAI",
+      "description": "Build faster, cheaper, and with lower latency using prompt caching. This Build Hour breaks down how prompt caching works and ...",
+      "published_at": "2026-02-18T21:25:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tECAkJAI_Vk/hqdefault.jpg"
+    },
     {
       "title": "Start It With ChatGPT",
       "video_id": "B2GMI0UgN_U",
@@ -27,14 +43,6 @@
       "description": "Javi walks through a logging refactor and shows why Codex's self-verification is a step change: the model runs the app, finds the ...",
       "published_at": "2026-02-11T19:08:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dHCNpcNyoFM/hqdefault.jpg"
-    },
-    {
-      "title": "Updates to deep research in ChatGPT",
-      "video_id": "2gCqVb2lBwk",
-      "channel_title": "OpenAI",
-      "description": "Deep research in ChatGPT is now powered by GPT-5.2. Now in deep research you can: - Connect to apps in ChatGPT and ...",
-      "published_at": "2026-02-10T19:30:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2gCqVb2lBwk/hqdefault.jpg"
     },
     {
       "title": "How PMs use the Codex app",
@@ -75,14 +83,6 @@
       "description": "Build something that matters with ChatGPT. Director : Bharat Sikka Music : “Ek Din Bik Jayega\" by Mukesh, Poornima, Lata ...",
       "published_at": "2026-02-06T20:06:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4l_w08gcBFk/hqdefault.jpg"
-    },
-    {
-      "title": "City Selections with ChatGPT",
-      "video_id": "SkSlUt63V6Y",
-      "channel_title": "OpenAI",
-      "description": "Work on your form and technique with ChatGPT. Director : Bharat Sikka Music : “Aanewala Pal Janewala Hai\" by Kishore Kumar ...",
-      "published_at": "2026-02-06T20:05:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SkSlUt63V6Y/hqdefault.jpg"
     }
   ]
 }

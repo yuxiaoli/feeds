@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-15T00:39:59.919412",
+  "fetched_at": "2026-02-22T00:37:43.599337",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The FAP incarcerates (Former) Prince Andy",
+      "video_id": "mIIDr1S6vbc",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "Duel stream from the Full Aussie youtube channel.",
+      "published_at": "2026-02-21T13:24:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mIIDr1S6vbc/hqdefault.jpg"
+    },
+    {
+      "title": "Into The Chappa&#39;ai - Urgo &amp; A Hundred Days | Stargate SG1",
+      "video_id": "w3Nz-c4Xkqk",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "Join us as we discuss Stargate SG 1 and play games.",
+      "published_at": "2026-02-19T12:36:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w3Nz-c4Xkqk/hqdefault.jpg"
+    },
     {
       "title": "Fappy Valentines Day - Full Aussie Podcast",
       "video_id": "2dKronjKgHM",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-01-23T00:34:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qjksAlMhVPA/hqdefault.jpg"
-    },
-    {
-      "title": "We Talk | Murderbot - All Systems Red- Chapters 1-4",
-      "video_id": "7knq8Y2iLa8",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "Duel stream from Miss Jays Reviews Channel: https://www.youtube.com/watch?v=ocx1HcFyKao Hosted by Jay and Myself, we ...",
-      "published_at": "2026-01-21T12:24:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7knq8Y2iLa8/hqdefault.jpg"
-    },
-    {
-      "title": "FAP Crew locked up for hate speech #TFA #FAP",
-      "video_id": "auY0HDIs-Qc",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "Meet The Crew: MrGrantGregory YouTube: / @mrgrantgregory MrGrantGregory Twitter: / mrgrantgregory MrGrantGregory ...",
-      "published_at": "2026-01-17T13:58:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/auY0HDIs-Qc/hqdefault.jpg"
     }
   ]
 }

@@ -1,16 +1,40 @@
 {
-  "fetched_at": "2026-02-15T00:40:26.015095",
+  "fetched_at": "2026-02-22T00:38:09.690692",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
     {
-      "title": "Why Betting Against Open Source is a &quot;Bad Bet&quot;",
-      "video_id": "_VthVzlkDkQ",
+      "title": "Why Everyone Needs AI Skills",
+      "video_id": "pv5g4-sEtwo",
       "channel_title": "DeepLearningAI",
-      "description": "A moment of candor from an Amazon (AWS) executive: proprietary attempts to kill open source historically fail. Why betting against ...",
-      "published_at": "2026-02-14T18:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_VthVzlkDkQ/hqdefault.jpg"
+      "description": "Like reading in the past, AI literacy will spread to everyone, not just engineers. Start learning AI today.",
+      "published_at": "2026-02-18T13:01:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pv5g4-sEtwo/hqdefault.jpg"
+    },
+    {
+      "title": "Validate Your AI Idea in 48 Hours",
+      "video_id": "coqS0W2AApA",
+      "channel_title": "DeepLearningAI",
+      "description": "You don't need weeks to test an AI idea. Use the 48-hour rule: pick one user, one job, build the smallest loop, and watch real ...",
+      "published_at": "2026-02-17T13:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/coqS0W2AApA/hqdefault.jpg"
+    },
+    {
+      "title": "Feeling Lost Learning AI? Watch This",
+      "video_id": "nOSBnGvU_Uo",
+      "channel_title": "DeepLearningAI",
+      "description": "Every AI expert once Googled simple questions. Every beginner felt lost. If you're learning and trying, you belong in the AI ...",
+      "published_at": "2026-02-16T13:01:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nOSBnGvU_Uo/hqdefault.jpg"
+    },
+    {
+      "title": "My Haircut is so Simple, It&#39;s AI-Ready 🤷‍♂️",
+      "video_id": "Hwkj2CarqLc",
+      "channel_title": "DeepLearningAI",
+      "description": "Andrew Ng shares why his haircut might be the only one a robot could actually pull off. A fun look at the lighter side of AI ...",
+      "published_at": "2026-02-15T17:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Hwkj2CarqLc/hqdefault.jpg"
     },
     {
       "title": "Is EU losing the AI race?",
@@ -59,30 +83,6 @@
       "description": "Most AI teams don't fail because of bad models. They fail because no one agrees on what “winning” means. If you try to optimize ...",
       "published_at": "2026-02-07T13:00:14Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7zppmPvenB8/hqdefault.jpg"
-    },
-    {
-      "title": "The Biggest Mistake AI Beginners Make",
-      "video_id": "UJq5KuX15sM",
-      "channel_title": "DeepLearningAI",
-      "description": "Most people fail at AI projects before they write a single line of code. If you're asking “What model should I use?” you're already ...",
-      "published_at": "2026-02-06T13:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UJq5KuX15sM/hqdefault.jpg"
-    },
-    {
-      "title": "The Boring Way to Learn AI (That Actually Works)",
-      "video_id": "wTUk2JoOOag",
-      "channel_title": "DeepLearningAI",
-      "description": "Most people don't fail at AI because it's hard. They fail because they start too big. Tiny projects build momentum. Momentum ...",
-      "published_at": "2026-02-05T19:12:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wTUk2JoOOag/hqdefault.jpg"
-    },
-    {
-      "title": "Immigration + AI Talent",
-      "video_id": "4LUy_QkFj-M",
-      "channel_title": "DeepLearningAI",
-      "description": "Andrew Ng on why welcoming immigrants has been essential to building strong AI communities, and why attracting global talent ...",
-      "published_at": "2026-01-30T15:06:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4LUy_QkFj-M/hqdefault.jpg"
     }
   ]
 }

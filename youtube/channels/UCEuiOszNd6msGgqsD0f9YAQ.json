@@ -1,25 +1,9 @@
 {
-  "fetched_at": "2026-02-15T00:39:56.333991",
+  "fetched_at": "2026-02-22T00:37:40.088126",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
-    {
-      "title": "Chinese Perform Vertical Rocket Splashdown",
-      "video_id": "___O7XejmtE",
-      "channel_title": "Interesting Engineering",
-      "description": "BREAKING: China archives vertical splashdown of rocket, Long March-10, the next-generation crewed lunar exploration systems.",
-      "published_at": "2026-02-11T19:29:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/___O7XejmtE/hqdefault.jpg"
-    },
-    {
-      "title": "China bans hidden car door handles",
-      "video_id": "R5AIahfxWME",
-      "channel_title": "Interesting Engineering",
-      "description": "China will ban hidden or retractable car door handles starting in 2027, requiring mechanical releases inside and outside vehicles ...",
-      "published_at": "2026-02-05T09:30:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R5AIahfxWME/hqdefault.jpg"
-    },
     {
       "title": "NASA’s Artemis II mission animation",
       "video_id": "uzZDT0-yT8k",
@@ -83,6 +67,22 @@
       "description": "Features like GENLOCK and Timecode in, previously restricted to professional camera equipment, are now at your fingertips, ...",
       "published_at": "2025-09-10T13:03:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/r-EAPOKdLFQ/hqdefault.jpg"
+    },
+    {
+      "title": "Shape Changing Antenna Secures Signal",
+      "video_id": "5GIFQ5CvF2Q",
+      "channel_title": "Interesting Engineering",
+      "description": "MIT researchers have invented a flexible antenna, capable of maintaining a strong signal connection by changing shape!",
+      "published_at": "2025-08-18T23:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5GIFQ5CvF2Q/hqdefault.jpg"
+    },
+    {
+      "title": "ROV SuBastian Livestreams Deep Sea Marine Life",
+      "video_id": "3sGV_KgLvEM",
+      "channel_title": "Interesting Engineering",
+      "description": "One of the biggest underexplored frontiers of the Earth is the bottom of the ocean. But now everyone can take a peek and enjoy as ...",
+      "published_at": "2025-08-07T08:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3sGV_KgLvEM/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-15T00:40:23.006810",
+  "fetched_at": "2026-02-22T00:38:06.560106",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "阿里除夕开源千问3.5，原生多模态，全网第一手实测",
+      "video_id": "6LCf5tMO3-c",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》",
+      "published_at": "2026-02-16T16:23:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6LCf5tMO3-c/hqdefault.jpg"
+    },
     {
       "title": "AI能剪视频了？ 用Skills自动把课本例题转成科普动画",
       "video_id": "TjXu8m-F5m8",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 上期视频我们把Gemini3 生成的炫酷应用免费部署成了自己的网站。",
       "published_at": "2025-12-04T11:52:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FK8-9JEWNHM/hqdefault.jpg"
-    },
-    {
-      "title": "把Gemini3生成的应用，免费部署成自己的网站，别只会在AI Studio里玩了",
-      "video_id": "1joStDlw9lg",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 本周最火的玩法就是AI Studio上花式生成好玩的应用。 不过有个问题是， ...",
-      "published_at": "2025-11-27T11:52:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1joStDlw9lg/hqdefault.jpg"
     }
   ]
 }

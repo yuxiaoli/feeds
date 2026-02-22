@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-02-15T00:40:39.996301",
+  "fetched_at": "2026-02-22T00:38:24.001830",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "Most pregnant women DON’T know this about glucose",
+      "video_id": "m5jnLRA2ZwI",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-02-19T18:41:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m5jnLRA2ZwI/hqdefault.jpg"
+    },
+    {
+      "title": "Why You Feel Hungrier Before Your Period",
+      "video_id": "VXwYvfG-MG0",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-02-17T19:07:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VXwYvfG-MG0/hqdefault.jpg"
+    },
+    {
+      "title": "This Is the Worst Milk for Glucose",
+      "video_id": "FKQL7tU11eE",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-02-15T15:49:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FKQL7tU11eE/hqdefault.jpg"
+    },
     {
       "title": "The Pasta Color Myth",
       "video_id": "5KaReuFrEtc",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-01-24T16:00:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CXm4lfZYziI/hqdefault.jpg"
-    },
-    {
-      "title": "The science of wearable bacteria 🔬",
-      "video_id": "97TddqL5QcE",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-01-23T15:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/97TddqL5QcE/hqdefault.jpg"
-    },
-    {
-      "title": "Eat your dinner EARLY!",
-      "video_id": "JUtYQW2z8yM",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-01-16T16:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JUtYQW2z8yM/hqdefault.jpg"
-    },
-    {
-      "title": "Pregnancy myths... BUSTED!",
-      "video_id": "JcxP3nrI7Xg",
-      "channel_title": "Glucose Revolution",
-      "description": "And more in my new book 9 Months That Count Forever.",
-      "published_at": "2026-01-15T16:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JcxP3nrI7Xg/hqdefault.jpg"
     }
   ]
 }

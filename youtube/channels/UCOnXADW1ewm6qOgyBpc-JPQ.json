@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-15T00:40:11.660959",
+  "fetched_at": "2026-02-22T00:37:55.507265",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "The Art of Calisthenics #calisthenics #motivation #gymmotivation",
+      "video_id": "u88_2w6WB0c",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2026-02-15T16:01:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u88_2w6WB0c/hqdefault.jpg"
+    },
     {
       "title": "There is no gravity in this gym #calisthenics #motivation #gymmotivation #streetworkout streetwo",
       "video_id": "to8OShH3-Mw",
@@ -75,14 +83,6 @@
       "description": "with @Maxefrt . . . . . . . . . #calisthenics #streetworkout #gymtok #gym #motivation #gymmotivation #pushups #pullups #pushup ...",
       "published_at": "2025-09-13T17:19:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qvf4cBUh40g/hqdefault.jpg"
-    },
-    {
-      "title": "weightless with calisthenics #shorts #calisthenics #motivation",
-      "video_id": "5bTltHR2Li8",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-08-31T15:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5bTltHR2Li8/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-15T00:40:16.896547",
+  "fetched_at": "2026-02-22T00:38:00.795105",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "Stock Options Survival Guide - Introduction to Risk",
+      "video_id": "VeCRV8MP7xA",
+      "channel_title": "Socratica",
+      "description": "STOCK OPTIONS COURSE: https://www.socratica.com/courses/stock-options Stock options can amplify gains, but ...",
+      "published_at": "2026-02-17T11:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VeCRV8MP7xA/hqdefault.jpg"
+    },
     {
       "title": "tkinter - Building UIs with Python",
       "video_id": "VmCbkSEyMM0",
@@ -75,14 +83,6 @@
       "description": "Connect with us on PATREON https://www.patreon.com/socratica We've discussed the one-dimensional ...",
       "published_at": "2025-09-03T10:00:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JOhoWfGWIk8/hqdefault.jpg"
-    },
-    {
-      "title": "Linear Regression - Key Tool in Data Analysis",
-      "video_id": "t_hVVl5SJyQ",
-      "channel_title": "Socratica",
-      "description": "Connect with us on PATREON https://www.patreon.com/socratica Linear Regression is one of the most ...",
-      "published_at": "2025-08-19T10:01:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t_hVVl5SJyQ/hqdefault.jpg"
     }
   ]
 }

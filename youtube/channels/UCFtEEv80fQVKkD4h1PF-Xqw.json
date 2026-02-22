@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-02-15T00:39:58.510173",
+  "fetched_at": "2026-02-22T00:37:42.184230",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "AI for Science | On Second Thought",
-      "video_id": "eMAhM_SjpPg",
+      "title": "Black and African American employees share stories inside Microsoft",
+      "video_id": "P6cUKX-sLu8",
       "channel_title": "Microsoft",
-      "description": "What if the next Nobel-scale breakthrough begins with AI? In Episode 3 of On Second Thought, Sinead visits a quantum lab with ...",
-      "published_at": "2026-02-11T18:03:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eMAhM_SjpPg/hqdefault.jpg"
+      "description": "Explore stories of creativity, identity, and impact from colleagues across Microsoft teams and time zones, and share them to keep ...",
+      "published_at": "2026-02-20T17:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/P6cUKX-sLu8/hqdefault.jpg"
+    },
+    {
+      "title": "Investing in an AI-Driven World | His Excellency Khaldoon Al Mubarak",
+      "video_id": "5qGGfnMUPn8",
+      "channel_title": "Microsoft",
+      "description": "From the collapse of the pearl trade to becoming a global powerhouse in oil and gas, the UAE has repeatedly reinvented itself ...",
+      "published_at": "2026-02-19T17:02:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5qGGfnMUPn8/hqdefault.jpg"
+    },
+    {
+      "title": "The AI app transforming how Kenya’s small businesses grow",
+      "video_id": "be_LYViMr2k",
+      "channel_title": "Microsoft",
+      "description": "Discover how a Nairobi startup is helping small business owners turn simple mobile‑money statements into powerful insights.",
+      "published_at": "2026-02-17T19:38:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/be_LYViMr2k/hqdefault.jpg"
     },
     {
       "title": "Supporting endangered languages",
@@ -67,22 +83,6 @@
       "description": "Swiggy is one of India's leading on-demand convenience platforms. Powered by Microsoft Fabric Real-Time Intelligence, Swiggy ...",
       "published_at": "2025-12-12T04:54:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/z32sE3194wg/hqdefault.jpg"
-    },
-    {
-      "title": "Satya Nadella completes the Microsoft 365 Copilot Challenge",
-      "video_id": "gBcwQaNoP5A",
-      "channel_title": "Microsoft",
-      "description": "microsoft #excel #microsoftexcel As the Excel World Championship takes place in Las Vegas, Satya Nadella tries his hand at the ...",
-      "published_at": "2025-12-04T18:55:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gBcwQaNoP5A/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft celebrates Indigenous History Month",
-      "video_id": "4To8jdOv1wU",
-      "channel_title": "Microsoft",
-      "description": "Indigenous heritage is a source of strength and vision. The Code of Us honors Indigenous employees whose stories and ...",
-      "published_at": "2025-11-04T16:59:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4To8jdOv1wU/hqdefault.jpg"
     }
   ]
 }
