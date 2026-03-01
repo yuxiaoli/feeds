@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-02-22T00:37:47.381724",
+  "fetched_at": "2026-03-01T00:41:49.993684",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Do you need a backlog with agents?",
+      "video_id": "_Jqj-tkRBCE",
+      "channel_title": "Warp",
+      "description": "Do you need a backlog with agents? Level 1: Label an issue with @oz-agent and let it take a shot. It reads the issue, writes the fix, ...",
+      "published_at": "2026-02-27T14:05:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_Jqj-tkRBCE/hqdefault.jpg"
+    },
+    {
+      "title": "Oz Github Action",
+      "video_id": "9AK0B9QE8EI",
+      "channel_title": "Warp",
+      "description": "Oz Agent Action lets you run Warp's Oz coding agent directly inside GitHub Actions. You give it a prompt (or a skill), and it runs as ...",
+      "published_at": "2026-02-26T14:05:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9AK0B9QE8EI/hqdefault.jpg"
+    },
+    {
+      "title": "What&#39;s an Agent Skill?",
+      "video_id": "XpAWQtM7yTw",
+      "channel_title": "Warp",
+      "description": "What's an Agent Skill? Agent Skills are reusable markdown files that teach Warp's agents how to perform specific tasks in your ...",
+      "published_at": "2026-02-25T14:05:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XpAWQtM7yTw/hqdefault.jpg"
+    },
+    {
+      "title": "What is Oz?",
+      "video_id": "6v1UAMaZB5c",
+      "channel_title": "Warp",
+      "description": "Oz is the orchestration platform for cloud agents.",
+      "published_at": "2026-02-24T14:05:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6v1UAMaZB5c/hqdefault.jpg"
+    },
     {
       "title": "Oz Live Workshop: Build Your First Cloud Agent",
       "video_id": "o4Ib_cvbjtc",
@@ -51,38 +83,6 @@
       "description": "Watch Roland (product engineer) generate a fix to our platform across our server and client repositories in a single prompt... all ...",
       "published_at": "2026-02-10T15:45:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4FgOm-0D1hE/hqdefault.jpg"
-    },
-    {
-      "title": "Analyzing user data with Oz",
-      "video_id": "3IcwJP6pScM",
-      "channel_title": "Warp",
-      "description": "Watch Ian (data scientist) use Oz to monitor customer data using BigQuery to send a scheduled insight summary to his team on ...",
-      "published_at": "2026-02-10T15:45:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3IcwJP6pScM/hqdefault.jpg"
-    },
-    {
-      "title": "Optimize your agent setup (AGENTS.md, custom commands)",
-      "video_id": "g7bG8rzazt8",
-      "channel_title": "Warp",
-      "description": "Already familiar with coding agents in Warp, but want to improve efficiency and quality? This session is for you! We'll cover: ...",
-      "published_at": "2026-01-30T05:48:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g7bG8rzazt8/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Warp",
-      "video_id": "dpkMXyXKfiY",
-      "channel_title": "Warp",
-      "description": "New to Warp? Join this session to pick of the basics! We'll cover: - ​The essentials of navigating Warp as a terminal - ​How to talk ...",
-      "published_at": "2026-01-29T06:17:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dpkMXyXKfiY/hqdefault.jpg"
-    },
-    {
-      "title": "Optimize your agent setup - live walkthrough",
-      "video_id": "01pAjQryX4c",
-      "channel_title": "Warp",
-      "description": "Download Warp: warp.dev Clone the starter repository: https://github.com/warpdotdev/onboarding-demo-github-issue-triage-201.",
-      "published_at": "2026-01-16T06:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/01pAjQryX4c/hqdefault.jpg"
     }
   ]
 }

@@ -1,48 +1,56 @@
 {
-  "fetched_at": "2026-02-22T00:37:49.532306",
+  "fetched_at": "2026-03-01T00:41:52.174417",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Understanding AI Agent Security: Safeguard LLM Systems Effectively",
-      "video_id": "SAYmsKxNDF4",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-02-21T12:00:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SAYmsKxNDF4/hqdefault.jpg"
-    },
-    {
-      "title": "India&#39;s USD $200B AI hub &amp; Claude builds C compiler",
-      "video_id": "3Wb6cA4CBIQ",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/BdpsYq Do AI agents still need humans? This week ...",
-      "published_at": "2026-02-20T11:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3Wb6cA4CBIQ/hqdefault.jpg"
-    },
-    {
-      "title": "Guide to Architect Secure AI Agents: Best Practices for Safety",
-      "video_id": "UMYtqHptYvA",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-02-19T12:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UMYtqHptYvA/hqdefault.jpg"
-    },
-    {
-      "title": "You Asked About AI: Agents, Hacking &amp; LLMs",
-      "video_id": "ekrOZf_eOJM",
-      "channel_title": "IBM Technology",
-      "description": "Today we're diving headfirst into the wild world of AI — and answering your questions from the comments! David Levy explores AI ...",
-      "published_at": "2026-02-17T12:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ekrOZf_eOJM/hqdefault.jpg"
-    },
-    {
-      "title": "What is Multimodal RAG? Unlocking LLMs with Vector Databases",
-      "video_id": "anLahYrEFiQ",
+      "title": "Spec-Driven Development: AI Assisted Coding Explained",
+      "video_id": "mViFYTwWvcM",
       "channel_title": "IBM Technology",
       "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-02-16T13:51:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/anLahYrEFiQ/hqdefault.jpg"
+      "published_at": "2026-02-28T12:01:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mViFYTwWvcM/hqdefault.jpg"
+    },
+    {
+      "title": "Mainframe modernization explained: COBOL and AI",
+      "video_id": "9mJhBzjugQg",
+      "channel_title": "IBM Technology",
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/BdpZc5 Where does AI actually fit into the mainframe ...",
+      "published_at": "2026-02-27T11:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9mJhBzjugQg/hqdefault.jpg"
+    },
+    {
+      "title": "2026 Threat Intelligence Index: Ransomware, AI, &amp; Emerging TTP Risks",
+      "video_id": "RKeW4Xd9V9E",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
+      "published_at": "2026-02-26T12:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RKeW4Xd9V9E/hqdefault.jpg"
+    },
+    {
+      "title": "Exploits of public-facing apps are surging. Why?",
+      "video_id": "vcS02Vl6IU0",
+      "channel_title": "IBM Technology",
+      "description": "Explore the Threat Intelligence Index 2026 → https://ibm.biz/Bdpi6d For years, stolen credentials were king—the hacker's attack ...",
+      "published_at": "2026-02-25T11:01:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vcS02Vl6IU0/hqdefault.jpg"
+    },
+    {
+      "title": "Synthetic Data Generation for Smarter AI Workflows",
+      "video_id": "4L-CB0lMq_I",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-02-24T12:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4L-CB0lMq_I/hqdefault.jpg"
+    },
+    {
+      "title": "What Is NeuroSymbolic AI? Bridging Reasoning &amp; Neural Networks",
+      "video_id": "ZfWDVO3rzeA",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-02-23T12:01:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZfWDVO3rzeA/hqdefault.jpg"
     },
     {
       "title": "Mistral 3 vs DeepSeek-V3.2",
@@ -75,14 +83,6 @@
       "description": "She spilled coffee on her resume… or was it bait? ☕   Discover how social engineers use human hacking and physical security ...",
       "published_at": "2025-10-31T16:00:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Ys2IjNjdK2E/hqdefault.jpg"
-    },
-    {
-      "title": "Building Decision Agents with LLMs &amp; Machine Learning Models",
-      "video_id": "mRkJTXDromw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-25T11:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mRkJTXDromw/hqdefault.jpg"
     }
   ]
 }

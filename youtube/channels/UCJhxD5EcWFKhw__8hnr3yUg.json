@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-22T00:37:45.885922",
+  "fetched_at": "2026-03-01T00:41:48.561674",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "圣家堂的美是镜头展示不出来的",
+      "video_id": "l6Nn6-gJcz4",
+      "channel_title": "码农高天",
+      "description": "欧洲之旅的vlog开始啦！第一站，巴塞罗那。巴塞罗那的核心当然是建筑了。圣家堂的美是真的很难用镜头拍出来，圣保罗医院也很 ...",
+      "published_at": "2026-02-28T10:30:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l6Nn6-gJcz4/hqdefault.jpg"
+    },
     {
       "title": "《恭喜恭喜》，但是python字幕",
       "video_id": "OKvEi_AHC2A",
@@ -75,14 +83,6 @@
       "description": "终于到了心心念念的台湾啦，中正纪念堂，龙山寺，迪化街，大稻埕，吃吃喝喝，然后“站”高铁去台南了！",
       "published_at": "2025-11-02T06:30:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/og0-YfhULds/hqdefault.jpg"
-    },
-    {
-      "title": "三天速通新加坡，全在这一个视频里了！",
-      "video_id": "Cyfyx6-WcG0",
-      "channel_title": "码农高天",
-      "description": "这个视频把新加坡三天合到一起放出来（当然不是因为新加坡其实没啥意思了）。我们去了大部分游客该去的点，还见了一些朋友 ...",
-      "published_at": "2025-10-13T10:30:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Cyfyx6-WcG0/hqdefault.jpg"
     }
   ]
 }

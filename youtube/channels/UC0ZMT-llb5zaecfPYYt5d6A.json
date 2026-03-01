@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-22T00:37:23.762700",
+  "fetched_at": "2026-03-01T00:41:26.312517",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "A little George Straight🫡 #thecastellows #cover #georgestrait #countrymusic #sisters",
+      "video_id": "zCR2rtSZRPk",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2026-02-25T15:20:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zCR2rtSZRPk/hqdefault.jpg"
+    },
     {
       "title": "Have y’all watched the music video yet? 🥹 #newmusic #thecastellows #countrymusic #sisters",
       "video_id": "PLU-TIWVgmc",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-01-31T15:00:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/16H-44DiVqU/hqdefault.jpg"
-    },
-    {
-      "title": "just in time for Valentine’s Day;) #newmusic #unreleased #thecastellows #countrymusic #songwriter",
-      "video_id": "XkWessobciM",
-      "channel_title": "The Castellows",
-      "description": "",
-      "published_at": "2026-01-30T15:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XkWessobciM/hqdefault.jpg"
     }
   ]
 }

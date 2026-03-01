@@ -1,72 +1,56 @@
 {
-  "fetched_at": "2026-02-22T00:37:24.593386",
+  "fetched_at": "2026-03-01T00:41:27.066013",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
-  "count": 25,
+  "count": 10,
   "videos": [
     {
-      "title": "End-to-End Agentic Workflow: Campaign Creation to Localized Video",
-      "video_id": "f7aWmxQ7l0w",
+      "title": "Modernize Creative Ops with AI: From Intake to Approval",
+      "video_id": "jy92XvqVEnA",
       "channel_title": "Microsoft Azure",
-      "description": "Human intent sets direction, AI agents handle execution. See a multi-agent workflow orchestrate video analysis, clip creation, QC, ...",
-      "published_at": "2026-02-20T21:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f7aWmxQ7l0w/hqdefault.jpg"
+      "description": "Streamline creative operations with AI-assisted workflows. Reduce manual handoffs, accelerate reviews, and keep teams focused ...",
+      "published_at": "2026-02-27T21:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jy92XvqVEnA/hqdefault.jpg"
     },
     {
-      "title": "Create a Purpose-Built Agent for Creative Teams",
-      "video_id": "7347na30AB4",
+      "title": "Orchestrate Smarter Customer Journeys with Adobe + Microsoft AI",
+      "video_id": "cPbw0r9gbLM",
       "channel_title": "Microsoft Azure",
-      "description": "Watch how a creative production team builds a script development assistant: an AI agent designed to stay aligned to the project, ...",
-      "published_at": "2026-02-20T19:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7347na30AB4/hqdefault.jpg"
+      "description": "A quick look at how journey orchestration can be enhanced with AI — connecting data, decisions, and experiences to deliver ...",
+      "published_at": "2026-02-27T19:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cPbw0r9gbLM/hqdefault.jpg"
     },
     {
-      "title": "Drive Media Transformations with Copilot + Agents",
-      "video_id": "s6eS3LFvEOU",
+      "title": "Fans can access deep Premier League stats anytime",
+      "video_id": "4RNoOGExAPc",
       "channel_title": "Microsoft Azure",
-      "description": "Media teams are under pressure to create more content, faster across platforms while protecting IP and privacy. See how ...",
-      "published_at": "2026-02-20T17:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s6eS3LFvEOU/hqdefault.jpg"
+      "description": "Azure AI turns data into fan‑centric experiences in the Premier League Companion app. Proof that what works for fans can work ...",
+      "published_at": "2026-02-27T17:19:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4RNoOGExAPc/hqdefault.jpg"
     },
     {
-      "title": "How Snowflake scales with Azure IaaS",
-      "video_id": "xxHyuInmjPk",
+      "title": "Game On: How a top gaming company runs mission-critical Oracle workloads in Azure",
+      "video_id": "OyBcCVGMmiQ",
       "channel_title": "Microsoft Azure",
-      "description": "Snowflake and Microsoft Azure partner to deliver a secure, scalable data and AI platform that helps organizations modernize ...",
-      "published_at": "2026-02-19T19:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xxHyuInmjPk/hqdefault.jpg"
+      "description": "Cloud is the invisible backbone of modern gaming. Learn how Activision Blizzard successfully modernized its mission-critical ...",
+      "published_at": "2026-02-27T17:17:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OyBcCVGMmiQ/hqdefault.jpg"
     },
     {
-      "title": "Scaling cyber resiliency in Azure with Illumio",
-      "video_id": "c7Tj5qWJu8M",
+      "title": "Create High-Quality Video in Minutes with Sora 2 in Microsoft Foundry",
+      "video_id": "0TgNNU7sYFw",
       "channel_title": "Microsoft Azure",
-      "description": "Illumio builds cyber resiliency on Microsoft Azure, using Azure infrastructure and cloud‑native services to enable Zero Trust ...",
-      "published_at": "2026-02-19T17:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c7Tj5qWJu8M/hqdefault.jpg"
+      "description": "Explore a dedicated video playground powered by Sora 2 on Azure OpenAI inside Microsoft Foundry. Iterate on prompts ...",
+      "published_at": "2026-02-27T17:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0TgNNU7sYFw/hqdefault.jpg"
     },
     {
-      "title": "30 seasons of Premier League data is in your hands",
-      "video_id": "jsxF314qV4k",
+      "title": "End-to-end capabilities from Microsoft to build AI solutions",
+      "video_id": "Djo5nc9x9RQ",
       "channel_title": "Microsoft Azure",
-      "description": "Go era to era in seconds. Azure AI powers the Premier League Companion—compare across seasons, dive into moments, and ...",
-      "published_at": "2026-02-19T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jsxF314qV4k/hqdefault.jpg"
-    },
-    {
-      "title": "Iconic Premier League debates, powered by Azure",
-      "video_id": "PqPAP_BCS8w",
-      "channel_title": "Microsoft Azure",
-      "description": "With Azure AI, the Premier League Companion app gives fans decades of personalized stats to win debates—or start new ones.",
-      "published_at": "2026-02-19T01:07:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PqPAP_BCS8w/hqdefault.jpg"
-    },
-    {
-      "title": "Instant Access Snapshots for Azure Ultra Disk &amp; Premium SSD v2 | Technical Demo",
-      "video_id": "ujoa7grUD1E",
-      "channel_title": "Microsoft Azure",
-      "description": "Currently in public preview, this demo showcases Instant Access Snapshots for Azure Ultra Disk and Premium SSD v2, enabling ...",
-      "published_at": "2026-01-28T14:56:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ujoa7grUD1E/hqdefault.jpg"
+      "description": "In this partner conversation, Microsoft partners discuss how they collaborate with Microsoft to build AI apps and agents for ...",
+      "published_at": "2026-02-26T17:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Djo5nc9x9RQ/hqdefault.jpg"
     },
     {
       "title": "How to back up on-premises Windows VMs to Azure",
@@ -99,110 +83,6 @@
       "description": "SK Telecom uses Microsoft Foundry to orchestrate multi-agent workflows to deliver personalized, scalable, and compliant digital ...",
       "published_at": "2025-12-01T22:41:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6RHsxWn_Dws/hqdefault.jpg"
-    },
-    {
-      "title": "Future of Cloud: Language of Nature",
-      "video_id": "iWi8M5qsKAk",
-      "channel_title": "Microsoft Azure",
-      "description": "In this episode of Future of Cloud: Language of Nature, we trace how the logic of living systems is shaping the next era of ...",
-      "published_at": "2025-11-24T16:01:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iWi8M5qsKAk/hqdefault.jpg"
-    },
-    {
-      "title": "Designing Proteins with AI at UW With Microsoft Foundry",
-      "video_id": "zjwIw_dHsEo",
-      "channel_title": "Microsoft Azure",
-      "description": "See how University of Washington uses Microsoft Foundry to design new proteins for medicine, technology, and sustainability.",
-      "published_at": "2025-11-22T02:47:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zjwIw_dHsEo/hqdefault.jpg"
-    },
-    {
-      "title": "Azure Copilot and GitHub Copilot application modernization",
-      "video_id": "D-_wynwy_LI",
-      "channel_title": "Microsoft Azure",
-      "description": "Use Azure Copilot for application discovery, business case and assessments and interoperate with GitHub Copilot for application ...",
-      "published_at": "2025-11-18T19:28:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D-_wynwy_LI/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Azure Copilot",
-      "video_id": "4AI9Oswnrko",
-      "channel_title": "Microsoft Azure",
-      "description": "Azure Copilot is the new agentic interface for Azure that orchestrates specialized agents across the entire cloud management ...",
-      "published_at": "2025-11-18T16:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4AI9Oswnrko/hqdefault.jpg"
-    },
-    {
-      "title": "How MSC Uses Microsoft SQL Server 2025 to Power Global Trade",
-      "video_id": "0aMWYClF_ss",
-      "channel_title": "Microsoft Azure",
-      "description": "MSC, the world's largest container shipping operator, moves cargo across the globe with over 900 vessels. To keep global ...",
-      "published_at": "2025-11-18T15:46:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0aMWYClF_ss/hqdefault.jpg"
-    },
-    {
-      "title": "Azure Migrate application aware e2e migration",
-      "video_id": "FYS4fnX8Ljs",
-      "channel_title": "Microsoft Azure",
-      "description": "Use Azure Migrate end-to-end platform capabilities including application awareness to migrate and modernize entire application ...",
-      "published_at": "2025-11-18T15:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FYS4fnX8Ljs/hqdefault.jpg"
-    },
-    {
-      "title": "Building Confidential Inferencing (and other SaaS) on Azure - Confidential Computing Summit 2025",
-      "video_id": "qPaqwO_6Wbs",
-      "channel_title": "Microsoft Azure",
-      "description": "Join Antoine Delignat-Lavaud, researcher at Microsoft, as he dives into the technical and practical challenges of building ...",
-      "published_at": "2025-11-13T07:30:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qPaqwO_6Wbs/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Microsoft Azure Face Liveness",
-      "video_id": "3ysxiX49oxw",
-      "channel_title": "Microsoft Azure",
-      "description": "Discover how Azure Face Liveness brings enterprise-grade security and effortless user experiences together. - Instant proof of ...",
-      "published_at": "2025-08-20T17:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3ysxiX49oxw/hqdefault.jpg"
-    },
-    {
-      "title": "GPT-5 in Azure AI Foundry featuring model router",
-      "video_id": "xgdz-KCFpFI",
-      "channel_title": "Microsoft Azure",
-      "description": "Welcome to the Model Router in Azure AI Foundry. In this video, we introduce you to the Model Router that doesn't just switch ...",
-      "published_at": "2025-08-07T17:05:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xgdz-KCFpFI/hqdefault.jpg"
-    },
-    {
-      "title": "Make-A-Wish brings more joy, hope, and strength to children through Microsoft technology",
-      "video_id": "cH1Y0xTomwM",
-      "channel_title": "Microsoft Azure",
-      "description": "Make-A-Wish works to provide a life-changing experience of their dreams to every eligible child with a critical illness.",
-      "published_at": "2025-06-17T14:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cH1Y0xTomwM/hqdefault.jpg"
-    },
-    {
-      "title": "Granular RBAC in Azure Monitor Log Analytics",
-      "video_id": "8WhOA0LCgU0",
-      "channel_title": "Microsoft Azure",
-      "description": "Granular role-based access control (RBAC) in Azure Monitor Log Analytics allows you to filter workspace data that each user can ...",
-      "published_at": "2025-06-16T15:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8WhOA0LCgU0/hqdefault.jpg"
-    },
-    {
-      "title": "OC3 2025 | OpenHCL: the new open source paravisor by Chris Oo",
-      "video_id": "oJFEKuHGCzA",
-      "channel_title": "Microsoft Azure",
-      "description": "Join Chris Oo as he discusses Microsoft's development of the first industry “paravisor” that enables existing VM workloads to ...",
-      "published_at": "2025-06-03T14:01:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oJFEKuHGCzA/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Build 2025 | Software Development Company Highlights",
-      "video_id": "f7POcnSsGzY",
-      "channel_title": "Microsoft Azure",
-      "description": "Catch up on the highlights from Satya Nadella's Microsoft Build keynote, tailored for software companies. Read about the latest ...",
-      "published_at": "2025-05-29T14:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f7POcnSsGzY/hqdefault.jpg"
     }
   ]
 }

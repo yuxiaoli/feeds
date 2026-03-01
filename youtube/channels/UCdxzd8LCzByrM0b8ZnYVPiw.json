@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-22T00:38:11.851669",
+  "fetched_at": "2026-03-01T00:42:14.145584",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Surrounded by Beautiful Sound | Bang &amp; Olufsen",
+      "video_id": "iBQyWGN_wec",
+      "channel_title": "Bang & Olufsen",
+      "description": "Where precision meets power. Feel every film, every album – closer than ever – with a surround sound system for those who know ...",
+      "published_at": "2026-02-23T11:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iBQyWGN_wec/hqdefault.jpg"
+    },
+    {
+      "title": "Surrounded by Beautiful Sound | Bang &amp; Olufsen",
+      "video_id": "AsWUXz9tN20",
+      "channel_title": "Bang & Olufsen",
+      "description": "Where precision meets power. Feel every film, every album – closer than ever – with a surround sound system for those who know ...",
+      "published_at": "2026-02-23T11:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AsWUXz9tN20/hqdefault.jpg"
+    },
     {
       "title": "Surrounded by beautiful sound | Beosound Premiere &amp; Beosound Emerge",
       "video_id": "kq4UgB97wSM",
@@ -67,22 +83,6 @@
       "description": "Whatever your space, there's a Bang & Olufsen surround sound system that will sound right at home. ​ For the best experience, ...",
       "published_at": "2026-01-20T10:00:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZN2c9X8Cupw/hqdefault.jpg"
-    },
-    {
-      "title": "Come closer | Beosound Premiere",
-      "video_id": "Oe78Plji1TU",
-      "channel_title": "Bang & Olufsen",
-      "description": "Light. Sound. Action. Your music, played with illuminating detail. ​ ​ #BangOlufsen #BeosoundPremiere.",
-      "published_at": "2026-01-12T14:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Oe78Plji1TU/hqdefault.jpg"
-    },
-    {
-      "title": "Come closer | Beosound Premiere",
-      "video_id": "KEakPSr3_n0",
-      "channel_title": "Bang & Olufsen",
-      "description": "Light. Sound. Action. Your music, played with illuminating detail. ​ ​ #BangOlufsen #BeosoundPremiere.",
-      "published_at": "2026-01-12T14:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KEakPSr3_n0/hqdefault.jpg"
     }
   ]
 }

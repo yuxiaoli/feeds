@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-02-22T00:37:31.930487",
+  "fetched_at": "2026-03-01T00:41:34.322803",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Open Source Friday with Mitchell Hashimoto",
-      "video_id": "0npMvuh7qNc",
+      "title": "Anders Hejlsberg on the joy of open source",
+      "video_id": "k_qunlhXyys",
       "channel_title": "GitHub",
-      "description": "Mitchell Hashimoto joins Open Source Friday to demo vouch, a trust management system for open source. We'll talk about why ...",
-      "published_at": "2026-02-21T09:09:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0npMvuh7qNc/hqdefault.jpg"
-    },
-    {
-      "title": "Open Source Friday with Prompts.chat",
-      "video_id": "T1Ay91zvkok",
-      "channel_title": "GitHub",
-      "description": "Open Source Friday is back. This week we're live with Fatih Kadir Akın (@f), the maintainer behind prompts.chat. prompts.chat is ...",
-      "published_at": "2026-02-21T07:01:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T1Ay91zvkok/hqdefault.jpg"
-    },
-    {
-      "title": "Open Source Friday with Learn to Cloud 📱",
-      "video_id": "vL-hq1KYopc",
-      "channel_title": "GitHub",
-      "description": "This OSF join @rishabincloud and @madebygps creators of Learn to Cloud. A beginner friendly, community driven roadmap for ...",
-      "published_at": "2026-02-21T02:21:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vL-hq1KYopc/hqdefault_live.jpg"
-    },
-    {
-      "title": "Open Source Friday with Learn to Cloud",
-      "video_id": "BmKCFt01ja4",
-      "channel_title": "GitHub",
-      "description": "This OSF join @rishabincloud and @madebygps creators of Learn to Cloud. A beginner friendly, community driven roadmap for ...",
-      "published_at": "2026-02-21T02:21:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BmKCFt01ja4/hqdefault_live.jpg"
+      "description": "Anders Hejlsberg shares why he is a \"deep believer\" in open source. In this clip, he contrasts the old way of software development ...",
+      "published_at": "2026-02-28T15:01:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k_qunlhXyys/hqdefault.jpg"
     },
     {
       "title": "Open Source Friday with Honcho",
       "video_id": "lihrin9a3pE",
       "channel_title": "GitHub",
       "description": "This Open Source Friday, we'll learn about Honcho, an open source project exploring a more thoughtful approach to agent ...",
-      "published_at": "2026-02-21T01:20:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lihrin9a3pE/hqdefault_live.jpg"
+      "published_at": "2026-02-28T07:07:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lihrin9a3pE/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with GitHub Secure OSS Fund",
-      "video_id": "l8gSLQIBdjE",
+      "title": "Open Source Friday with Learn to Cloud",
+      "video_id": "BmKCFt01ja4",
       "channel_title": "GitHub",
-      "description": "Recorded live from GitHub Universe 2025, this episode features Kevin Crosby (GitHub) on the GitHub Secure Open Source Fund ...",
-      "published_at": "2026-02-21T01:17:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l8gSLQIBdjE/hqdefault.jpg"
+      "description": "This OSF join @rishabincloud and @madebygps creators of Learn to Cloud. A beginner friendly, community driven roadmap for ...",
+      "published_at": "2026-02-28T04:29:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BmKCFt01ja4/hqdefault.jpg"
     },
     {
-      "title": "The Download: Agentic Workflows, new AI models, OpenClaw news &amp; more",
-      "video_id": "f6F7yQUd8rs",
+      "title": "Get daily GitHub updates from the Changelog",
+      "video_id": "N035cFR3YiY",
       "channel_title": "GitHub",
-      "description": "This week on The Download, Andrea covers the massive wave of new AI models, including GPT-5.3-Codex, Claude Opus 4.6, ...",
-      "published_at": "2026-02-20T15:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f6F7yQUd8rs/hqdefault.jpg"
+      "description": "The Changelog provides GitHub updates every single day, sometime multiple times per day. Change is constant. GitHub keeps ...",
+      "published_at": "2026-02-27T17:15:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N035cFR3YiY/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays | Let&#39;s talk about GitHub Agentic Workflows!",
-      "video_id": "Dw2S-VQDvhs",
+      "title": "Rubber Duck Thursday | Come code and hang out with us!",
+      "video_id": "7QljM3-IzSQ",
       "channel_title": "GitHub",
       "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2026-02-20T08:13:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Dw2S-VQDvhs/hqdefault.jpg"
+      "published_at": "2026-02-27T08:25:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7QljM3-IzSQ/hqdefault.jpg"
     },
     {
-      "title": "Jueves en Quack con El Bruno",
-      "video_id": "dnjGeWuqtGg",
+      "title": "🐤 Jueves de Quack - Intro al Copilot CLI 🐤",
+      "video_id": "vkMLCIaoADI",
       "channel_title": "GitHub",
-      "description": "En este stream estaré con @elbruno explorando los modelos más recientes OSS de NVIDIA y qué significan para nosotros como ...",
-      "published_at": "2026-02-20T04:08:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dnjGeWuqtGg/hqdefault.jpg"
+      "description": "GitHub Copilot ya no vive solo en el editor. También está en la terminal. En este stream vamos a empezar desde cero con el ...",
+      "published_at": "2026-02-27T04:27:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vkMLCIaoADI/hqdefault.jpg"
     },
     {
-      "title": "VS Code Live: Agent Sessions Day",
-      "video_id": "Osvu53c0yYg",
+      "title": "Code &amp; Community with Copilot CLI",
+      "video_id": "bRtK041JFFE",
       "channel_title": "GitHub",
-      "description": "Join us for VS Code Live: Agent Sessions Day on Feb 19th: a global virtual event celebrating how Visual Studio Code continues ...",
-      "published_at": "2026-02-19T20:28:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Osvu53c0yYg/hqdefault.jpg"
+      "description": "GitHub Copilot CLI just went generally available, and we are going live to break it down with Ryan Hecht. This is not just \"ask AI to ...",
+      "published_at": "2026-02-26T19:53:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bRtK041JFFE/hqdefault_live.jpg"
+    },
+    {
+      "title": "GitHub for Beginners is back!",
+      "video_id": "Dypm17qVYQk",
+      "channel_title": "GitHub",
+      "description": "We're back with Season 3 of GitHub for Beginners, here to answer all your questions from how to start with GitHub issues to what ...",
+      "published_at": "2026-02-26T18:54:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Dypm17qVYQk/hqdefault.jpg"
+    },
+    {
+      "title": "How I built an AI Python tutor with the GitHub Copilot SDK",
+      "video_id": "N3my6W_Rdwg",
+      "channel_title": "GitHub",
+      "description": "April teaches Python on livestream, but what happens when viewers get stuck on practice exercises offline? To solve this, she ...",
+      "published_at": "2026-02-26T17:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N3my6W_Rdwg/hqdefault.jpg"
+    },
+    {
+      "title": "GitHub introduces agentic workflows",
+      "video_id": "eHN3w3fRb_M",
+      "channel_title": "GitHub",
+      "description": "GitHub has introduced agentic workflows, users can describe tasks in a markdown file, which compiles into a GitHub Actions ...",
+      "published_at": "2026-02-25T17:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eHN3w3fRb_M/hqdefault.jpg"
     }
   ]
 }

@@ -1,32 +1,24 @@
 {
-  "fetched_at": "2026-02-22T00:37:31.275988",
+  "fetched_at": "2026-03-01T00:41:33.676792",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 3,
+  "count": 2,
   "videos": [
     {
-      "title": "February 19, 2026",
-      "video_id": "5Vm_QXVQsno",
+      "title": "Step off the streets and into the future at #MetaLab NYC.",
+      "video_id": "R3j05F_uPBM",
       "channel_title": "Meta Quest ",
-      "description": "Don't miss a minute of NBCUniversal's coverage of The Winter Olympics streaming on Peacock with Meta Quest, now through ...",
-      "published_at": "2026-02-19T21:38:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5Vm_QXVQsno/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-02-26T23:05:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R3j05F_uPBM/hqdefault.jpg"
     },
     {
-      "title": "February 19, 2026",
-      "video_id": "DUxPVqeYxuM",
+      "title": "Immerse yourself in your favorite videos with Meta Horizon TV",
+      "video_id": "tpG5N25ifvo",
       "channel_title": "Meta Quest ",
-      "description": "Here are some quick tips for finding new games to check out on your Meta Quest headsets: Marvel's Deadpool VR, Blade and ...",
-      "published_at": "2026-02-19T18:11:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DUxPVqeYxuM/hqdefault.jpg"
-    },
-    {
-      "title": "Spatial Ops | Blueprint Combat Update | Meta Quest Platform",
-      "video_id": "gMfMGnRodAI",
-      "channel_title": "Meta Quest ",
-      "description": "Step into fast-paced, competitive and cooperative battles with friends in Spatial Ops. Compete in co-located matches with up to 8 ...",
-      "published_at": "2026-02-18T21:48:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gMfMGnRodAI/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-02-24T20:08:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tpG5N25ifvo/hqdefault.jpg"
     }
   ]
 }

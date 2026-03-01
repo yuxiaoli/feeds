@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-22T00:37:50.877863",
+  "fetched_at": "2026-03-01T00:41:53.568655",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 7,
+  "count": 4,
   "videos": [
+    {
+      "title": "Artemis Update (Feb. 27, 2026)",
+      "video_id": "eCbQtyUopOM",
+      "channel_title": "NASA",
+      "description": "Following the rollback of the Artemis II SLS (Space Launch System) rocket and Orion spacecraft on Wednesday, Feb. 25, experts ...",
+      "published_at": "2026-02-27T16:03:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eCbQtyUopOM/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX 33rd Commercial Resupply Services Undocking",
+      "video_id": "hgt3Hnj4Xr8",
+      "channel_title": "NASA",
+      "description": "Watch a SpaceX Dragon spacecraft undock and depart from the International Space Station. The spacecraft is scheduled to ...",
+      "published_at": "2026-02-26T17:31:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hgt3Hnj4Xr8/hqdefault.jpg"
+    },
     {
       "title": "NASA&#39;s Artemis II Fueling Test News Conference (Feb. 20, 2026)",
       "video_id": "rayK1pwhzEs",
@@ -11,46 +27,6 @@
       "description": "Agency leaders give updates on Artemis II after the second fueling test for the mission around the Moon. Participants include: ...",
       "published_at": "2026-02-20T17:08:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/rayK1pwhzEs/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s Artemis II Fueling Test (Official Feed)",
-      "video_id": "-KYhqePsm38",
-      "channel_title": "NASA",
-      "description": "Engineers at NASA's Kennedy Space Center are conducting a prelaunch test to fuel the Artemis II Space Launch System—a vital ...",
-      "published_at": "2026-02-20T04:02:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-KYhqePsm38/hqdefault.jpg"
-    },
-    {
-      "title": "Space Operations Update (Feb. 19, 2026)",
-      "video_id": "geneWmI9ZMY",
-      "channel_title": "NASA",
-      "description": "Agency leaders are discussing the findings of investigations into the 2024 crewed test flight of Boeing Starliner to the International ...",
-      "published_at": "2026-02-19T19:59:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/geneWmI9ZMY/hqdefault.jpg"
-    },
-    {
-      "title": "NASA’s SpaceX Crew-12 Arrival &amp; Welcome Remarks",
-      "video_id": "v25BJu_QNys",
-      "channel_title": "NASA",
-      "description": "Watch as the next four explorers arrive at the International Space Station. After lifting off from Cape Canaveral Space Force Station ...",
-      "published_at": "2026-02-14T22:56:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v25BJu_QNys/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s Artemis II Live Views from Kennedy Space Center",
-      "video_id": "xCrPD7tfcr0",
-      "channel_title": "NASA",
-      "description": "This live feed from our Kennedy Space Center in Florida will provide continuous views of the Artemis II Moon rocket beginning on ...",
-      "published_at": "2026-01-26T21:18:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xCrPD7tfcr0/hqdefault_live.jpg"
-    },
-    {
-      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
-      "video_id": "aB1yRz0HhdY",
-      "channel_title": "NASA",
-      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
-      "published_at": "2026-01-20T19:41:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aB1yRz0HhdY/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

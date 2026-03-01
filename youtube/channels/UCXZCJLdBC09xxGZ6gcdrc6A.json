@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-02-22T00:38:03.772466",
+  "fetched_at": "2026-03-01T00:42:06.034685",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Peter Steinberger on the team that built OpenClaw",
+      "video_id": "Rp4Q2lZ_RIQ",
+      "channel_title": "OpenAI",
+      "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
+      "published_at": "2026-02-24T17:59:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Rp4Q2lZ_RIQ/hqdefault.jpg"
+    },
+    {
+      "title": "OpenClaw Creator Peter Steinberger&#39;s advice for developers",
+      "video_id": "-RDPAPjDnp8",
+      "channel_title": "OpenAI",
+      "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
+      "published_at": "2026-02-24T18:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-RDPAPjDnp8/hqdefault.jpg"
+    },
+    {
+      "title": "Peter Steinberger on the excitement around OpenClaw",
+      "video_id": "mR8Lz3Bc1rA",
+      "channel_title": "OpenAI",
+      "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
+      "published_at": "2026-02-24T17:55:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mR8Lz3Bc1rA/hqdefault.jpg"
+    },
+    {
+      "title": "Builders Unscripted: Ep. 1 - Peter Steinberger, Creator of OpenClaw",
+      "video_id": "9jgcT0Fqt7U",
+      "channel_title": "OpenAI",
+      "description": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things.",
+      "published_at": "2026-02-24T17:03:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9jgcT0Fqt7U/hqdefault.jpg"
+    },
     {
       "title": "The Codex app enables massively parallel work",
       "video_id": "GWBHH4LXwOY",
@@ -51,38 +83,6 @@
       "description": "Alexander Embiricos (a Product Manager on the Codex team) shows how he uses Codex skills to make a small product change, ...",
       "published_at": "2026-02-09T21:48:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6OiE0jIY93c/hqdefault.jpg"
-    },
-    {
-      "title": "Episode 13 - The Thinking Behind Ads in ChatGPT",
-      "video_id": "2agJo3Jf_O4",
-      "channel_title": "OpenAI",
-      "description": "How should advertising work in an AI product? Asad Awan, one of the ad leads at OpenAI, walks through how the company is ...",
-      "published_at": "2026-02-09T19:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2agJo3Jf_O4/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI Super Bowl 2026 | Codex | You Can Just Build Things",
-      "video_id": "aCN9iCXNJqQ",
-      "channel_title": "OpenAI",
-      "description": "We build the tools. You build the future. Start building with Codex. https://openai.com/codex/",
-      "published_at": "2026-02-09T00:03:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aCN9iCXNJqQ/hqdefault.jpg"
-    },
-    {
-      "title": "Multitasking with the Codex app",
-      "video_id": "9ohXlkbXiM4",
-      "channel_title": "OpenAI",
-      "description": "Joey demonstrates multitasking with Codex worktrees: delegate a drag-and-drop feature in one worktree while continuing local ...",
-      "published_at": "2026-02-06T23:08:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9ohXlkbXiM4/hqdefault.jpg"
-    },
-    {
-      "title": "Cricket Academy with ChatGPT",
-      "video_id": "4l_w08gcBFk",
-      "channel_title": "OpenAI",
-      "description": "Build something that matters with ChatGPT. Director : Bharat Sikka Music : “Ek Din Bik Jayega\" by Mukesh, Poornima, Lata ...",
-      "published_at": "2026-02-06T20:06:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4l_w08gcBFk/hqdefault.jpg"
     }
   ]
 }

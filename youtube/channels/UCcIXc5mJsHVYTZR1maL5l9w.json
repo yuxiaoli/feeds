@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-02-22T00:38:09.690692",
+  "fetched_at": "2026-03-01T00:42:12.041688",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The Most Expensive Mistake AI Beginners Make",
+      "video_id": "qD8-A5psCIk",
+      "channel_title": "DeepLearningAI",
+      "description": "The most expensive mistake AI beginners make is spending months in tutorial mode watching, planning, and preparing without ...",
+      "published_at": "2026-02-28T01:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qD8-A5psCIk/hqdefault.jpg"
+    },
+    {
+      "title": "Generative Adversarial Networks (GANs) Specialization",
+      "video_id": "W-EPzOh-6E4",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/ The DeepLearning.",
+      "published_at": "2026-02-25T21:24:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W-EPzOh-6E4/hqdefault.jpg"
+    },
+    {
+      "title": "TensorFlow: Advanced Techniques Specialization",
+      "video_id": "kCSsp-4wDog",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://www.deeplearning.ai/courses/tensorflow-advanced-techniques-specialization/ The DeepLearning.",
+      "published_at": "2026-02-25T21:22:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kCSsp-4wDog/hqdefault.jpg"
+    },
+    {
+      "title": "TensorFlow: Data and Deployment Specialization",
+      "video_id": "77qwwH9MhSs",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://www.deeplearning.ai/courses/tensorflow-data-and-deployment-specialization/ Continue developing your skills ...",
+      "published_at": "2026-02-25T21:19:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/77qwwH9MhSs/hqdefault.jpg"
+    },
     {
       "title": "Why Everyone Needs AI Skills",
       "video_id": "pv5g4-sEtwo",
@@ -51,38 +83,6 @@
       "description": "Your AI idea sounds perfect on paper. Then real users show up. The fastest way to improve your AI project is to let people break it ...",
       "published_at": "2026-02-12T13:00:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/BASVwoqCPPc/hqdefault.jpg"
-    },
-    {
-      "title": "This is why you NEED technical debt",
-      "video_id": "oUampNx324w",
-      "channel_title": "DeepLearningAI",
-      "description": "Malte Ubl, CTO of Vercel shares the importance of technical debt. These are the kind of insights that are shared at AI Dev. Join us ...",
-      "published_at": "2026-02-11T23:55:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oUampNx324w/hqdefault.jpg"
-    },
-    {
-      "title": "Use A2A to connect agents across different frameworks and teams",
-      "video_id": "4gYm0Rp7VHc",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4anVtk6 Announcing a new short course, A2A: The Agent2Agent Protocol, built in collaboration with ...",
-      "published_at": "2026-02-11T14:15:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4gYm0Rp7VHc/hqdefault.jpg"
-    },
-    {
-      "title": "Are Data Centers the Problem or the Scapegoat?",
-      "video_id": "oeTuWr6WLrE",
-      "channel_title": "DeepLearningAI",
-      "description": "They power the compute we already rely on and they do it more efficiently than the alternatives.",
-      "published_at": "2026-02-08T13:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oeTuWr6WLrE/hqdefault.jpg"
-    },
-    {
-      "title": "Why Your AI Team Is Slow",
-      "video_id": "7zppmPvenB8",
-      "channel_title": "DeepLearningAI",
-      "description": "Most AI teams don't fail because of bad models. They fail because no one agrees on what “winning” means. If you try to optimize ...",
-      "published_at": "2026-02-07T13:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7zppmPvenB8/hqdefault.jpg"
     }
   ]
 }

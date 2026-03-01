@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-22T00:37:53.201844",
+  "fetched_at": "2026-03-01T00:41:55.630815",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "春節有沒有「三十」是誰定的？農曆陽曆哪個準？曆法的真相裡藏著宇宙的小脾氣",
+      "video_id": "4ycjTJAXVx4",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2026-02-24T13:15:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4ycjTJAXVx4/hqdefault.jpg"
+    },
     {
       "title": "2025 科学漫聊合订本：宇宙—生命—技术（8小时深度版）",
       "video_id": "xrVxEWfUUiI",
@@ -75,14 +83,6 @@
       "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
       "published_at": "2025-12-02T10:39:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KoP6HM3dQ88/hqdefault.jpg"
-    },
-    {
-      "title": "如果宇宙是一個模擬程式，我們能發現它嗎？",
-      "video_id": "mb_qoK5DJqQ",
-      "channel_title": "科學漫聊",
-      "description": "加入頻道會員，第一時間觀看新內容，你的支持將直接幫助我持續創作！ 立即 ...",
-      "published_at": "2025-11-21T13:01:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mb_qoK5DJqQ/hqdefault.jpg"
     }
   ]
 }

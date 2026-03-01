@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-02-22T00:37:23.005681",
+  "fetched_at": "2026-03-01T00:41:25.489796",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Boz &amp; Barstool Sports at Meta House",
+      "video_id": "b0aWXH8UdjE",
+      "channel_title": "Meta",
+      "description": "Pardon My Take's PFT Commenter and Hank Lockwood (and Max) stopped by Meta House to talk ball with Boz. From Sam ...",
+      "published_at": "2026-02-26T17:43:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b0aWXH8UdjE/hqdefault.jpg"
+    },
+    {
+      "title": "Cowboy Up with Oakley Meta",
+      "video_id": "7Qp9BK2nOQU",
+      "channel_title": "Meta",
+      "description": "Get ready to take the reins.",
+      "published_at": "2026-02-25T16:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7Qp9BK2nOQU/hqdefault.jpg"
+    },
+    {
+      "title": "Hitting the Slopes with Oakley Meta",
+      "video_id": "aqG3DWVB0l8",
+      "channel_title": "Meta",
+      "description": "work smarter not harder with @oakleymeta.",
+      "published_at": "2026-02-23T17:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aqG3DWVB0l8/hqdefault.jpg"
+    },
     {
       "title": "20 Second Tip: Nail the Job Interview",
       "video_id": "T9atKMPXswE",
@@ -59,30 +83,6 @@
       "description": "feta is betta with Meta AI.",
       "published_at": "2026-02-12T17:00:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LOw3ls8WDfA/hqdefault.jpg"
-    },
-    {
-      "title": "@thefastfoodie.tv&#39;s Toast is our Jam",
-      "video_id": "NHuNQQlTtPc",
-      "channel_title": "Meta",
-      "description": "Catherine, AKA @thefastfoodie.tv, is all about making food fun and creating recipes that everyone can try in minutes, “without the ...",
-      "published_at": "2026-02-11T17:02:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NHuNQQlTtPc/hqdefault.jpg"
-    },
-    {
-      "title": "Meta&#39;s Early Detection and Disruption Work",
-      "video_id": "MRCbOl-V5eQ",
-      "channel_title": "Meta",
-      "description": "Learn more about Emily Vacher, a former FBI agent on Meta's law enforcement outreach team, and the work Meta is leading ...",
-      "published_at": "2026-02-10T19:45:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MRCbOl-V5eQ/hqdefault.jpg"
-    },
-    {
-      "title": "Curling Explainer with Meta AI",
-      "video_id": "FGjFnwAPlTs",
-      "channel_title": "Meta",
-      "description": "Meta AI's settling this puck vs. rock debate once and for all.",
-      "published_at": "2026-02-10T16:44:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FGjFnwAPlTs/hqdefault.jpg"
     }
   ]
 }

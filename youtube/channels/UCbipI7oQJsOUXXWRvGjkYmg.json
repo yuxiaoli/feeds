@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-22T00:38:08.103857",
+  "fetched_at": "2026-03-01T00:42:10.579666",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "Impossible Jump",
+      "video_id": "3t50qWWOsI4",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-02-26T16:53:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3t50qWWOsI4/hqdefault.jpg"
+    },
+    {
+      "title": "Planche Tutorial | Beginner Guide 2026",
+      "video_id": "LgPG0MZPI84",
+      "channel_title": "Andry Strong",
+      "description": "Ready to learn how to planche from zero? This complete planche tutorial for beginners will guide you step-by-step through the ...",
+      "published_at": "2026-02-22T16:10:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LgPG0MZPI84/hqdefault.jpg"
+    },
     {
       "title": "How to Handstand Push Up? It&#39;s Easier Than You Think",
       "video_id": "KEfazWGOUok",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-01-25T16:59:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Q39xfjAh0hA/hqdefault.jpg"
-    },
-    {
-      "title": "Calisthenics vs Circus… Then 2 Guinness Records Fell",
-      "video_id": "bKFOoPBnJbw",
-      "channel_title": "Andry Strong",
-      "description": "Today, I challenged two of the strongest circus performers in the world, elite acrobatic artists with unbelievable strength, control, ...",
-      "published_at": "2026-01-19T12:35:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bKFOoPBnJbw/hqdefault.jpg"
-    },
-    {
-      "title": "I just destroyed the hardest challenge ever.",
-      "video_id": "j_O_2rtTjco",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2026-01-18T19:22:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j_O_2rtTjco/hqdefault.jpg"
     }
   ]
 }

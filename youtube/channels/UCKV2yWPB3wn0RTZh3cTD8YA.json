@@ -1,11 +1,35 @@
 {
-  "fetched_at": "2026-02-22T00:37:48.833107",
+  "fetched_at": "2026-03-01T00:41:51.451122",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
     {
-      "title": "揭秘春晚小品机器人：与松延动力聊对戏、空翻、仿生背后的技术进化",
+      "title": "“AI末日论”：华尔街的恐慌会成真吗？",
+      "video_id": "ePUZouf_3vQ",
+      "channel_title": "硅谷101",
+      "description": "2月末，一份来自财经机构Citrini Research的报告《2028全球智能危机》引发了美股恐慌性抛售。之后，华尔街正就“AI末日论”激烈 ...",
+      "published_at": "2026-02-28T07:50:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ePUZouf_3vQ/hqdefault.jpg"
+    },
+    {
+      "title": "AI免疫股：华尔街疯抢的“免死金牌”？",
+      "video_id": "8XbNlEBCUMo",
+      "channel_title": "硅谷101",
+      "description": "华尔街正被“AI焦虑症”席卷，曾经风光的软件巨头暴跌，而麦当劳、拖拉机巨头迪尔等传统企业，却因“重资产、低淘汰风险”的特性， ...",
+      "published_at": "2026-02-26T16:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8XbNlEBCUMo/hqdefault.jpg"
+    },
+    {
+      "title": "都2026年了，为什么ASML还在研究“上一代”DUV？",
+      "video_id": "EwxEwpGvjpY",
+      "channel_title": "硅谷101",
+      "description": "都2026年了，光刻巨头ASML竟然还在研发上一代的DUV技术？这并非技术路径的保守，因为目前在先进芯片生产中，DUV的占比 ...",
+      "published_at": "2026-02-25T02:11:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EwxEwpGvjpY/hqdefault.jpg"
+    },
+    {
+      "title": "揭秘春晚小品机器人：与松延动力聊对戏、空翻、仿生背后的技术进化｜机器人系列",
       "video_id": "ZDXIUO7CRzo",
       "channel_title": "硅谷101",
       "description": "今年的央视春晚上，机器人不再只是跳舞、扭秧歌，而是首次走上了小品舞台，与人类演员同台对戏。台上与蔡明老师搭戏的“电子 ...",
@@ -59,30 +83,6 @@
       "description": "Clawdbot作为2026年AI Agent的第一个“神作”，一经发布便全球爆火，背后的原因是什么？它解决了什么困扰行业已久的难题？",
       "published_at": "2026-02-09T11:26:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/x1gXrA5-y8E/hqdefault.jpg"
-    },
-    {
-      "title": "数据中心上太空？新的泡沫，还是下一个金矿？",
-      "video_id": "VJgIENvy14k",
-      "channel_title": "硅谷101",
-      "description": "下一代的“算力工厂”，可能根本不在地球上？   从马斯克预言“太空将是部署AI成本最低之地”、到贝佐斯秘密组建轨道AI数据中心的 ...",
-      "published_at": "2026-02-07T00:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VJgIENvy14k/hqdefault.jpg"
-    },
-    {
-      "title": "算法选中的“绿色黄金”：抹茶全球爆火背后的商业逆袭史",
-      "video_id": "thUc2wdtUTY",
-      "channel_title": "硅谷101",
-      "description": "2025年，什么资产的涨幅能跑赢英伟达，甚至把黄金甩在身后？答案竟然是——抹茶。 在纽约，一个抹茶冰淇淋卖9美元，月营业额 ...",
-      "published_at": "2026-01-28T06:00:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/thUc2wdtUTY/hqdefault.jpg"
-    },
-    {
-      "title": "CES 2026：探展50个AI项目背后的泡沫、野心与非共识",
-      "video_id": "Hemlsyob1Ng",
-      "channel_title": "硅谷101",
-      "description": "在2026年CES的展馆里，AI已经渗透每个角落，却依然没有等到那个“iPhone时刻”。今年我们跑断了腿，探展了50个AI项目，从人形 ...",
-      "published_at": "2026-01-26T12:39:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hemlsyob1Ng/hqdefault.jpg"
     }
   ]
 }

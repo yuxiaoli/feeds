@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-22T00:37:57.816524",
+  "fetched_at": "2026-03-01T00:42:00.141811",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 25,
   "videos": [
+    {
+      "title": "Join our monthly online challenges!",
+      "video_id": "z5Ckq_fhJk0",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-02-28T03:52:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z5Ckq_fhJk0/hqdefault.jpg"
+    },
     {
       "title": "50+ Python Projects for Beginners | Wall of Inspiration",
       "video_id": "J2cthi6oDok",
@@ -195,14 +203,6 @@
       "description": "Unbelievable Python Trick - Inverted Pyramid Pattern in 1 min #shorts Construct an inverted pyramid of symbols, numbers, and ...",
       "published_at": "2023-02-24T10:15:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/e5BRrMMHNEY/hqdefault.jpg"
-    },
-    {
-      "title": "Most Asked Python Interview Question part 2 (Don&#39;t Skip !!😮) #shorts",
-      "video_id": "BOJcoHsbSGI",
-      "channel_title": "Programiz",
-      "description": "Most Asked Python Interview Question part 2 (Don't Skip !!  ) #shortsvideo Are you ready to put your coding skills to the test?",
-      "published_at": "2023-02-17T10:15:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BOJcoHsbSGI/hqdefault.jpg"
     }
   ]
 }

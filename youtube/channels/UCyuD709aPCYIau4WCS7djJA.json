@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-22T00:38:27.779037",
+  "fetched_at": "2026-03-01T00:42:29.437721",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Feb 28, 2026: Six Planets… But Here’s the Reality 🪐",
+      "video_id": "eCe_UQzzZlE",
+      "channel_title": "Star Walk",
+      "description": "On Feb 28, 2026, a “six-planet alignment” will be happening — but here's what you can realistically see. Most people will easily ...",
+      "published_at": "2026-02-26T10:33:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eCe_UQzzZlE/hqdefault.jpg"
+    },
     {
       "title": "✨ Feb 19, 2026: Mercury at its best!",
       "video_id": "MaTESFyJ0JA",
@@ -75,14 +83,6 @@
       "description": "In 2006, Pluto was officially stripped of its planet status. It's 2026 now, and somehow people are still thinking about it. Share ...",
       "published_at": "2026-02-09T08:39:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GTQTkR5NbUA/hqdefault.jpg"
-    },
-    {
-      "title": "The stars of Gemini stay where they are.⁠ Jupiter doesn’t!⁠",
-      "video_id": "LlZGo7Sok_U",
-      "channel_title": "Star Walk",
-      "description": "This is how a planet slowly passes through a constellation.⁠",
-      "published_at": "2026-02-09T08:36:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LlZGo7Sok_U/hqdefault.jpg"
     }
   ]
 }

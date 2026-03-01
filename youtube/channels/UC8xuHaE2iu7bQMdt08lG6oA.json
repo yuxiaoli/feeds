@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-02-22T00:37:34.139824",
+  "fetched_at": "2026-03-01T00:41:36.486471",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "Making an RC look like a Top Gun Movie Scene",
+      "video_id": "VjQZEcrNCTQ",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-02-27T22:34:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VjQZEcrNCTQ/hqdefault.jpg"
+    },
     {
       "title": "1969 Mustang Mach 1 Burning Rubber @adriennejanic",
       "video_id": "qaXGE4DTIN0",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-07-16T06:32:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/q4Jy_4Tdk-U/hqdefault.jpg"
-    },
-    {
-      "title": "She fuels up like she’s got a city to outrun. #catwoman #bmw #videography",
-      "video_id": "5Mcy8qNkOUk",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-07-11T23:14:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5Mcy8qNkOUk/hqdefault.jpg"
     }
   ]
 }

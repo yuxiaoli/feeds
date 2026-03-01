@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-02-22T00:38:01.591205",
+  "fetched_at": "2026-03-01T00:42:03.749242",
   "channel_id": "UCWWm_KhoUZ7lFKhSUVd9Kmg",
   "channel_title": "Redline Underground Cars",
   "count": 10,
   "videos": [
+    {
+      "title": "Italian Lambo versus Toyota, Supra ￼",
+      "video_id": "UoC2P2xmeqU",
+      "channel_title": "Redline Underground Cars",
+      "description": "",
+      "published_at": "2026-02-26T01:24:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UoC2P2xmeqU/hqdefault.jpg"
+    },
+    {
+      "title": "This Big turbo￼ Supra is out of control ￼",
+      "video_id": "5xwJkpcIUqA",
+      "channel_title": "Redline Underground Cars",
+      "description": "",
+      "published_at": "2026-02-26T00:43:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5xwJkpcIUqA/hqdefault.jpg"
+    },
     {
       "title": "Who’s the driver? 😨🤯",
       "video_id": "TTDz-x9bf5M",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-02-08T18:10:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3Ws5go2JDpA/hqdefault.jpg"
-    },
-    {
-      "title": "Lamborghini versus Ferrari ￼",
-      "video_id": "EN2pJrwT5rM",
-      "channel_title": "Redline Underground Cars",
-      "description": "",
-      "published_at": "2026-02-08T02:40:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EN2pJrwT5rM/hqdefault.jpg"
-    },
-    {
-      "title": "We have a serious problem in Miami ￼",
-      "video_id": "UfUX6-AtFV8",
-      "channel_title": "Redline Underground Cars",
-      "description": "",
-      "published_at": "2026-02-05T06:01:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UfUX6-AtFV8/hqdefault.jpg"
     }
   ]
 }
