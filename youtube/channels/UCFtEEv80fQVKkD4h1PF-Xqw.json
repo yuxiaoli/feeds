@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2026-03-01T00:41:44.792297",
+  "fetched_at": "2026-03-08T00:37:33.178631",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "The future of work: navigating the AI shift | On Second Thought",
-      "video_id": "KFsu0Hyf1XM",
+      "title": "Become the CEO of your role",
+      "video_id": "OhDcrcYaJ3c",
       "channel_title": "Microsoft",
-      "description": "AI is no longer a future concept, it's reshaping how we work right now. Explore how AI is rewriting the rules of work, leadership, ...",
-      "published_at": "2026-02-23T17:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KFsu0Hyf1XM/hqdefault.jpg"
+      "description": "AI is reshaping the way that we do work and it poses both questions and uncertainty. Sinead Bovell explores why curiosity is ...",
+      "published_at": "2026-03-06T17:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OhDcrcYaJ3c/hqdefault.jpg"
+    },
+    {
+      "title": "Cement made with seaweed? | Discovered at Microsoft Ep. 2",
+      "video_id": "7a96_Wtl9xw",
+      "channel_title": "Microsoft",
+      "description": "Researchers at the University of Washington and Microsoft developed a low‑carbon cement by mixing dried, powdered seaweed ...",
+      "published_at": "2026-03-05T17:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7a96_Wtl9xw/hqdefault.jpg"
     },
     {
       "title": "Investing in an AI-Driven World | His Excellency Khaldoon Al Mubarak",
@@ -75,14 +83,6 @@
       "description": "Deforestation and human activity are threatening Colombia's Middle Magdalena Valley, an endangered wildlife and ecosystem in ...",
       "published_at": "2025-12-19T17:31:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8XgoIths87Y/hqdefault.jpg"
-    },
-    {
-      "title": "Swiggy: using Microsoft Fabric Real-Time Intelligence to deliver millions of orders daily",
-      "video_id": "z32sE3194wg",
-      "channel_title": "Microsoft",
-      "description": "Swiggy is one of India's leading on-demand convenience platforms. Powered by Microsoft Fabric Real-Time Intelligence, Swiggy ...",
-      "published_at": "2025-12-12T04:54:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z32sE3194wg/hqdefault.jpg"
     }
   ]
 }

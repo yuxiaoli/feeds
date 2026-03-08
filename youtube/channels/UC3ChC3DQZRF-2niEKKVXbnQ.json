@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-01T00:41:30.014927",
+  "fetched_at": "2026-03-08T00:37:18.528133",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "Agent 能力有多强? 来看豆包Seed2.0实测!",
+      "video_id": "Kr4dv32IS7k",
+      "channel_title": "Karminski-牙医",
+      "description": "这次给大家用字节跳动新推出的豆包Seed-2.0-Pro 大模型做了一个能连接RPGMaker 的AI Agent 框架, 只需要把小说粘贴进去, 就能 ...",
+      "published_at": "2026-03-05T00:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Kr4dv32IS7k/hqdefault.jpg"
+    },
+    {
+      "title": "inclusionAI Ling&amp;Ring  2.5-1T大模型实测!",
+      "video_id": "ixhd_SjCI88",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来蚂蚁集团inclusionAI 团队的Ring-2.5-1T & Ling-2.5-1T 大模型实测! 最近很多小伙伴问我是怎么第一时间知道大模型发布 ...",
+      "published_at": "2026-03-01T14:25:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ixhd_SjCI88/hqdefault.jpg"
+    },
     {
       "title": "Gemini-3.1-pro 实测! 更新了个寂寞?",
       "video_id": "4yhQFrPEB-A",
@@ -67,22 +83,6 @@
       "description": "给大家带来GLM-Image 实测! 我这次设计了两个极限测试, 来测试这个大模型的能力, 首先是模型的画面控制力, 怎样能让模型把对应的 ...",
       "published_at": "2026-01-16T16:00:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JWvLchYffPw/hqdefault.jpg"
-    },
-    {
-      "title": "2025年全球大模型厂商下载量排行榜",
-      "video_id": "pxymiCGzwQo",
-      "channel_title": "Karminski-牙医",
-      "description": "终于爆肝了一个元旦假期弄完了, 给大家带来2025年全球大模型厂商开放权重模型下载量排行榜. 数据更多代表国内以外的区域的下载 ...",
-      "published_at": "2026-01-04T16:42:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pxymiCGzwQo/hqdefault.jpg"
-    },
-    {
-      "title": "抱歉我们只有超大杯! GLM-4.7实测!",
-      "video_id": "UYbVUMltPrE",
-      "channel_title": "Karminski-牙医",
-      "description": "本次测试覆盖了GLM-4.7的编程能力, Agent/ToolCall能力, 长上下文召回能力, 给大家带来刚发布的GLM 4.7 的测试结果: 考验Agent ...",
-      "published_at": "2025-12-23T10:15:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UYbVUMltPrE/hqdefault.jpg"
     }
   ]
 }

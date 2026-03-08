@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-01T00:42:18.435548",
+  "fetched_at": "2026-03-08T00:38:06.584472",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "2026二月精品AI论文分享",
+      "video_id": "MprHT4AFrXQ",
+      "channel_title": "Find Interesting AI",
+      "description": "论文知识库： https://my.feishu.cn/wiki/V9XmwzykGiDVVEkhjyXc4DZtn8b.",
+      "published_at": "2026-03-07T10:26:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MprHT4AFrXQ/hqdefault.jpg"
+    },
     {
       "title": "低成本搭建出海saas喂饭教程",
       "video_id": "CPXEb1MICf4",
@@ -75,14 +83,6 @@
       "description": "文档链接： https://qadso0i11yj.feishu.cn/base/AkPvbevrDaoSyusM5h7cThuwnCe?from=from_copylink.",
       "published_at": "2025-11-02T23:30:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/G4kUQDbMKxY/hqdefault.jpg"
-    },
-    {
-      "title": "HuggingFace最新8个项目玩个遍",
-      "video_id": "UC7STcfo28k",
-      "channel_title": "Find Interesting AI",
-      "description": "huggingface本月最火8个项目一口气玩个遍.",
-      "published_at": "2025-10-26T00:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UC7STcfo28k/hqdefault.jpg"
     }
   ]
 }

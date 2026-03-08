@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-03-01T00:42:00.141811",
+  "fetched_at": "2026-03-08T00:37:48.186558",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 25,
   "videos": [
+    {
+      "title": "Many start with Python and JavaScript  because they are widely used programming languages.",
+      "video_id": "LJxI4ji0HU0",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-03-06T15:36:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LJxI4ji0HU0/hqdefault.jpg"
+    },
+    {
+      "title": "4 March 2026",
+      "video_id": "ac3LAMpHPdY",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-03-04T15:40:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ac3LAMpHPdY/hqdefault.jpg"
+    },
+    {
+      "title": "The best way to learn coding is by building projects!",
+      "video_id": "eyb8w_aN7Hs",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-03-03T15:12:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eyb8w_aN7Hs/hqdefault.jpg"
+    },
     {
       "title": "Join our monthly online challenges!",
       "video_id": "z5Ckq_fhJk0",
@@ -179,30 +203,6 @@
       "description": "Are You a True Python Pro? Take This Quiz and Find Out! #shorts Are you preparing for a Python interview and want to test ...",
       "published_at": "2023-03-17T10:15:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IpGgXcDeqnU/hqdefault.jpg"
-    },
-    {
-      "title": "Only JavaScript Masters Can Solve These Quizzes!😮 #shorts",
-      "video_id": "nb14SJTbBLU",
-      "channel_title": "Programiz",
-      "description": "Only JavaScript Masters Can Solve These Quizzes!   #shortsvideo Are you a JavaScript Master? Test your JS skills with these fun ...",
-      "published_at": "2023-03-10T10:15:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nb14SJTbBLU/hqdefault.jpg"
-    },
-    {
-      "title": "Python Challenge: Create a Full Pyramid in 30 seconds #shorts",
-      "video_id": "c0pCUwG5nSg",
-      "channel_title": "Programiz",
-      "description": "Python Challenge: Create a Full Pyramid in 30 seconds #shorts Get ready to put your Python skills to the test with this exciting ...",
-      "published_at": "2023-03-03T10:15:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c0pCUwG5nSg/hqdefault.jpg"
-    },
-    {
-      "title": "😲 Unbelievable Python Trick - Inverted Pyramid Pattern in 1 min #shorts",
-      "video_id": "e5BRrMMHNEY",
-      "channel_title": "Programiz",
-      "description": "Unbelievable Python Trick - Inverted Pyramid Pattern in 1 min #shorts Construct an inverted pyramid of symbols, numbers, and ...",
-      "published_at": "2023-02-24T10:15:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e5BRrMMHNEY/hqdefault.jpg"
     }
   ]
 }

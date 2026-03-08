@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-01T00:42:29.437721",
+  "fetched_at": "2026-03-08T00:38:17.365451",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Find your Hubble Birthday photo! 🌠",
+      "video_id": "8fRwt3PFdLM",
+      "channel_title": "Star Walk",
+      "description": "What did you get? Tell us in the comments! #Hubble #HubbleTelescope #NASA #Space #Astronomy #Universe #Cosmos ...",
+      "published_at": "2026-03-07T23:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8fRwt3PFdLM/hqdefault.jpg"
+    },
+    {
+      "title": "Turn your sound on. You’re about to hear Uranus.",
+      "video_id": "ml5LuSzeaeo",
+      "channel_title": "Star Walk",
+      "description": "NASA took real astronomical data and turned it into audio, so yes — Uranus now has a soundtrack. (It's called “sonification”, btw.)",
+      "published_at": "2026-03-02T07:43:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ml5LuSzeaeo/hqdefault.jpg"
+    },
     {
       "title": "Feb 28, 2026: Six Planets… But Here’s the Reality 🪐",
       "video_id": "eCe_UQzzZlE",
@@ -67,22 +83,6 @@
       "description": "Skip the stress. Do something simple, cozy, and unforgettable: a night under the stars – no binoculars required. Here's the plan ...",
       "published_at": "2026-02-10T12:37:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/69P_7FMnhqI/hqdefault.jpg"
-    },
-    {
-      "title": "What does a solar storm look like from the inside? ⚡☀️",
-      "video_id": "iUAHsGCW-1M",
-      "channel_title": "Star Walk",
-      "description": "This isn't sci-fi, it's real footage from the heart of the storm! In September 2022, NASA's Parker Solar Probe, during a daring dive, ...",
-      "published_at": "2026-02-09T10:23:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iUAHsGCW-1M/hqdefault.jpg"
-    },
-    {
-      "title": "Desperate times call for desperate rituals 😈",
-      "video_id": "GTQTkR5NbUA",
-      "channel_title": "Star Walk",
-      "description": "In 2006, Pluto was officially stripped of its planet status. It's 2026 now, and somehow people are still thinking about it. Share ...",
-      "published_at": "2026-02-09T08:39:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GTQTkR5NbUA/hqdefault.jpg"
     }
   ]
 }

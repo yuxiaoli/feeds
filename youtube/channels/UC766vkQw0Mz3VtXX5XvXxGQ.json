@@ -1,24 +1,16 @@
 {
-  "fetched_at": "2026-03-01T00:41:33.676792",
+  "fetched_at": "2026-03-08T00:37:22.172294",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 2,
+  "count": 1,
   "videos": [
     {
-      "title": "Step off the streets and into the future at #MetaLab NYC.",
-      "video_id": "R3j05F_uPBM",
+      "title": "Start shredding and schedule a demo at #MetaLab Los Angeles.",
+      "video_id": "iNjm-l4T8wY",
       "channel_title": "Meta Quest ",
       "description": "",
-      "published_at": "2026-02-26T23:05:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R3j05F_uPBM/hqdefault.jpg"
-    },
-    {
-      "title": "Immerse yourself in your favorite videos with Meta Horizon TV",
-      "video_id": "tpG5N25ifvo",
-      "channel_title": "Meta Quest ",
-      "description": "",
-      "published_at": "2026-02-24T20:08:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tpG5N25ifvo/hqdefault.jpg"
+      "published_at": "2026-03-05T17:34:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iNjm-l4T8wY/hqdefault.jpg"
     }
   ]
 }

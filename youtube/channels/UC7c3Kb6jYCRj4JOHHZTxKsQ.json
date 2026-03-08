@@ -1,88 +1,80 @@
 {
-  "fetched_at": "2026-03-01T00:41:34.322803",
+  "fetched_at": "2026-03-08T00:37:22.898982",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 10,
+  "count": 9,
   "videos": [
     {
-      "title": "Anders Hejlsberg on the joy of open source",
-      "video_id": "k_qunlhXyys",
+      "title": "The story behind npmx and its massive community growth",
+      "video_id": "D944tiUHQzk",
       "channel_title": "GitHub",
-      "description": "Anders Hejlsberg shares why he is a \"deep believer\" in open source. In this clip, he contrasts the old way of software development ...",
-      "published_at": "2026-02-28T15:01:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k_qunlhXyys/hqdefault.jpg"
+      "description": "Have you checked out npmx.dev yet? It started as a late-night idea from Daniel Roe and quickly turned into a massive community ...",
+      "published_at": "2026-03-07T15:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D944tiUHQzk/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Honcho",
-      "video_id": "lihrin9a3pE",
+      "title": "Open Source Friday Special with Flox",
+      "video_id": "LJaT41higmo",
       "channel_title": "GitHub",
-      "description": "This Open Source Friday, we'll learn about Honcho, an open source project exploring a more thoughtful approach to agent ...",
-      "published_at": "2026-02-28T07:07:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lihrin9a3pE/hqdefault.jpg"
+      "description": "At GitHub Universe, Andrea talks with Ron Efroni (Flox/NixOS Foundation) and Rob Ferguson (Former Microsoft for Startups) ...",
+      "published_at": "2026-03-07T08:43:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LJaT41higmo/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Learn to Cloud",
-      "video_id": "BmKCFt01ja4",
+      "title": "Open Source Friday with Vuetify!",
+      "video_id": "Q_Ef-JMdAG0",
       "channel_title": "GitHub",
-      "description": "This OSF join @rishabincloud and @madebygps creators of Learn to Cloud. A beginner friendly, community driven roadmap for ...",
-      "published_at": "2026-02-28T04:29:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BmKCFt01ja4/hqdefault.jpg"
+      "description": "John Leider, the creator of Vuetify, joins us to talk about his incredible journey as an open source maintainer and show us how to ...",
+      "published_at": "2026-03-07T07:03:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q_Ef-JMdAG0/hqdefault.jpg"
     },
     {
-      "title": "Get daily GitHub updates from the Changelog",
-      "video_id": "N035cFR3YiY",
+      "title": "The Download: Copilot CLI goes GA, new repo dashboard, npmx and more",
+      "video_id": "1iG8kumbRcs",
       "channel_title": "GitHub",
-      "description": "The Changelog provides GitHub updates every single day, sometime multiple times per day. Change is constant. GitHub keeps ...",
-      "published_at": "2026-02-27T17:15:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N035cFR3YiY/hqdefault.jpg"
+      "description": "This week on The Download, Cassidy covers the general availability of the GitHub Copilot CLI, now packed with agentic features ...",
+      "published_at": "2026-03-06T17:34:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1iG8kumbRcs/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursday | Come code and hang out with us!",
-      "video_id": "7QljM3-IzSQ",
+      "title": "It&#39;s Rubber Duck Thursday! Come learn and cowork and chat with us!",
+      "video_id": "FJglBH_N9hA",
       "channel_title": "GitHub",
       "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2026-02-27T08:25:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7QljM3-IzSQ/hqdefault.jpg"
-    },
-    {
-      "title": "🐤 Jueves de Quack - Intro al Copilot CLI 🐤",
-      "video_id": "vkMLCIaoADI",
-      "channel_title": "GitHub",
-      "description": "GitHub Copilot ya no vive solo en el editor. También está en la terminal. En este stream vamos a empezar desde cero con el ...",
-      "published_at": "2026-02-27T04:27:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vkMLCIaoADI/hqdefault.jpg"
+      "published_at": "2026-03-06T08:05:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FJglBH_N9hA/hqdefault.jpg"
     },
     {
       "title": "Code &amp; Community with Copilot CLI",
       "video_id": "bRtK041JFFE",
       "channel_title": "GitHub",
       "description": "GitHub Copilot CLI just went generally available, and we are going live to break it down with Ryan Hecht. This is not just \"ask AI to ...",
-      "published_at": "2026-02-26T19:53:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bRtK041JFFE/hqdefault_live.jpg"
+      "published_at": "2026-03-05T10:41:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bRtK041JFFE/hqdefault.jpg"
     },
     {
-      "title": "GitHub for Beginners is back!",
-      "video_id": "Dypm17qVYQk",
+      "title": "How to use agentic workflows for your repos | GitHub Checkout",
+      "video_id": "XisVQoz5grw",
       "channel_title": "GitHub",
-      "description": "We're back with Season 3 of GitHub for Beginners, here to answer all your questions from how to start with GitHub issues to what ...",
-      "published_at": "2026-02-26T18:54:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Dypm17qVYQk/hqdefault.jpg"
+      "description": "Welcome to another episode of GitHub Checkout! This time, Andrea is joined by Idan to explore the brand-new agentic workflows.",
+      "published_at": "2026-03-04T17:14:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XisVQoz5grw/hqdefault.jpg"
     },
     {
-      "title": "How I built an AI Python tutor with the GitHub Copilot SDK",
-      "video_id": "N3my6W_Rdwg",
+      "title": "How to use GitHub issues and projects | GitHub for Beginners",
+      "video_id": "c67GaAkf1BE",
       "channel_title": "GitHub",
-      "description": "April teaches Python on livestream, but what happens when viewers get stuck on practice exercises offline? To solve this, she ...",
-      "published_at": "2026-02-26T17:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N3my6W_Rdwg/hqdefault.jpg"
+      "description": "Welcome back to the GitHub for Beginners series! In this season, we are taking you back to the basics. Learn how to stay ...",
+      "published_at": "2026-03-02T17:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c67GaAkf1BE/hqdefault.jpg"
     },
     {
-      "title": "GitHub introduces agentic workflows",
-      "video_id": "eHN3w3fRb_M",
+      "title": "Tim Rogers on the future of Copilot and AI agents | Octoverse 2025",
+      "video_id": "THyiJxOpbJY",
       "channel_title": "GitHub",
-      "description": "GitHub has introduced agentic workflows, users can describe tasks in a markdown file, which compiles into a GitHub Actions ...",
-      "published_at": "2026-02-25T17:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eHN3w3fRb_M/hqdefault.jpg"
+      "description": "Join Tim Rogers, Principal Product Manager for GitHub Copilot, as he reacts to the findings in the 2025 Octoverse report.",
+      "published_at": "2026-03-01T15:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/THyiJxOpbJY/hqdefault.jpg"
     }
   ]
 }

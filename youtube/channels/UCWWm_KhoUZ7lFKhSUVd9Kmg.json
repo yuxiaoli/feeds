@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-01T00:42:03.749242",
+  "fetched_at": "2026-03-08T00:37:51.994760",
   "channel_id": "UCWWm_KhoUZ7lFKhSUVd9Kmg",
   "channel_title": "Redline Underground Cars",
   "count": 10,
   "videos": [
+    {
+      "title": "Rolls-Royce Spectre Mansory",
+      "video_id": "xAgFdlXiV8U",
+      "channel_title": "Redline Underground Cars",
+      "description": "",
+      "published_at": "2026-03-05T18:31:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xAgFdlXiV8U/hqdefault.jpg"
+    },
     {
       "title": "Italian Lambo versus Toyota, Supra ￼",
       "video_id": "UoC2P2xmeqU",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-02-11T03:17:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/s80Deqx3Uqg/hqdefault.jpg"
-    },
-    {
-      "title": "The drinks 😨🤦🏼‍♂️",
-      "video_id": "3Ws5go2JDpA",
-      "channel_title": "Redline Underground Cars",
-      "description": "",
-      "published_at": "2026-02-08T18:10:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3Ws5go2JDpA/hqdefault.jpg"
     }
   ]
 }

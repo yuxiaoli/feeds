@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-01T00:41:35.049473",
+  "fetched_at": "2026-03-08T00:37:23.650612",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "What&#39;s your favorite classic Boston Dynamics robot? #bostondynamics #robot",
+      "video_id": "U18EHTnvFd4",
+      "channel_title": "Boston Dynamics",
+      "description": "Two of our product managers share why they love Sandflea and BigDog, and the legacy of innovation inspiring the next wave of ...",
+      "published_at": "2026-03-03T16:15:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U18EHTnvFd4/hqdefault.jpg"
+    },
     {
       "title": "ST Engineering MRAS | Boston Dynamics",
       "video_id": "mH4NLGI64MM",
@@ -75,14 +83,6 @@
       "description": "Happy Holidays from Boston Dynamics! Atlas and Spot are being teleoperated in this vintage holiday vignette. #happyholidays ...",
       "published_at": "2025-12-22T15:09:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vbLd_nq0_7A/hqdefault.jpg"
-    },
-    {
-      "title": "The Humanoid Mission in Manufacturing | Boston Dynamics Tech Talk",
-      "video_id": "SRZ9E48B6aM",
-      "channel_title": "Boston Dynamics",
-      "description": "In this conversation, Zack Jackowski, General Manager and Vice President, Atlas and Alberto Rodriguez, Director of Robot ...",
-      "published_at": "2025-12-17T18:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SRZ9E48B6aM/hqdefault.jpg"
     }
   ]
 }

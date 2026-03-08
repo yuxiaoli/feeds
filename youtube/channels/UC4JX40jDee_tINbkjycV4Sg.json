@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2026-03-01T00:41:32.239732",
+  "fetched_at": "2026-03-08T00:37:20.716211",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 6,
+  "count": 10,
   "videos": [
+    {
+      "title": "Do you know the answer? Comment below👇",
+      "video_id": "7E4xYNAVtp8",
+      "channel_title": "Tech With Tim",
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "published_at": "2026-03-07T18:53:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7E4xYNAVtp8/hqdefault.jpg"
+    },
+    {
+      "title": "Blitzy Is The Best Coding Platform I&#39;ve Ever Used - Full Walkthrough &amp; Results",
+      "video_id": "r65lJG83D4k",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with Blitzy for free: https://blitzy.com/?utm_source=YouTube&utm_medium=Social&utm_campaign=Tech+with+Tim ...",
+      "published_at": "2026-03-07T13:01:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r65lJG83D4k/hqdefault.jpg"
+    },
+    {
+      "title": "Comment your answers below👇",
+      "video_id": "h9WjnhNMcqE",
+      "channel_title": "Tech With Tim",
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "published_at": "2026-03-06T22:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h9WjnhNMcqE/hqdefault.jpg"
+    },
+    {
+      "title": "One of the best ways to make money as a developer.",
+      "video_id": "gdHicBONzZg",
+      "channel_title": "Tech With Tim",
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "published_at": "2026-03-06T18:23:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gdHicBONzZg/hqdefault.jpg"
+    },
+    {
+      "title": "Is this the easiest way to make money coding?",
+      "video_id": "yNhx7zR1Mck",
+      "channel_title": "Tech With Tim",
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "published_at": "2026-03-05T18:26:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yNhx7zR1Mck/hqdefault.jpg"
+    },
+    {
+      "title": "My Honest Thoughts on AI and the Job Market in 2026 (No Hype)",
+      "video_id": "PEFso88LkC4",
+      "channel_title": "Tech With Tim",
+      "description": "Try Flow Pro free for 14 days + get an extra month free with my code TECHWITHTIM! Start here: ...",
+      "published_at": "2026-03-05T13:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PEFso88LkC4/hqdefault.jpg"
+    },
+    {
+      "title": "Comment &quot;openclaw&quot; below👇",
+      "video_id": "llpJdviHzAQ",
+      "channel_title": "Tech With Tim",
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "published_at": "2026-03-03T19:40:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/llpJdviHzAQ/hqdefault.jpg"
+    },
+    {
+      "title": "4 AI Prompt Patterns You NEED To Know (in Genspark)",
+      "video_id": "mib1r_UuGEs",
+      "channel_title": "Tech With Tim",
+      "description": "Genspark is offering unlimited usage of the AI Chat and AI Image features for all of 2026, register here to get free computer credits: ...",
+      "published_at": "2026-03-02T12:16:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mib1r_UuGEs/hqdefault.jpg"
+    },
     {
       "title": "Claude Code - Full Tutorial for Beginners",
       "video_id": "ntDIxaeo3Wg",
@@ -13,44 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ntDIxaeo3Wg/hqdefault.jpg"
     },
     {
-      "title": "10 Python one liners you’ll actually use",
-      "video_id": "rmenKCClYUs",
-      "channel_title": "Tech With Tim",
-      "description": "Save the date for Python Unplugged – a free online conference on March 4: https://jb.gg/pytv2026 In this video, you'll learn ten ...",
-      "published_at": "2026-02-26T10:21:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rmenKCClYUs/hqdefault.jpg"
-    },
-    {
-      "title": "How I Setup My OpenClaw as a Professional Developer (Insanely Powerful)",
-      "video_id": "NO-bOryZoTE",
-      "channel_title": "Tech With Tim",
-      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
-      "published_at": "2026-02-23T13:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NO-bOryZoTE/hqdefault.jpg"
-    },
-    {
       "title": "The only video you need to watch if you want to become a software engineer!",
       "video_id": "Haa4Tw6MWUk",
       "channel_title": "Tech With Tim",
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
       "published_at": "2025-09-12T16:04:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Haa4Tw6MWUk/hqdefault.jpg"
-    },
-    {
-      "title": "Backend Software Engineer roadmap",
-      "video_id": "FlsrKv_xIyg",
-      "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-24T21:17:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FlsrKv_xIyg/hqdefault.jpg"
-    },
-    {
-      "title": "Cracking the code to land a job at Google👀",
-      "video_id": "sxSVJAfuiPU",
-      "channel_title": "Tech With Tim",
-      "description": "",
-      "published_at": "2024-11-16T21:46:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sxSVJAfuiPU/hqdefault.jpg"
     }
   ]
 }

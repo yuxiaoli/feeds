@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-01T00:42:09.043958",
+  "fetched_at": "2026-03-08T00:37:57.093088",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "一期视频精通OpenClaw变高手，从中级到高级完整教程",
+      "video_id": "4LZEWPlDmsU",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 本期视频再带来一个进阶教程。 分别从：记忆系统，网络搜索，云服务器 ...",
+      "published_at": "2026-03-07T12:47:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4LZEWPlDmsU/hqdefault.jpg"
+    },
     {
       "title": "阿里除夕开源千问3.5，原生多模态，全网第一手实测",
       "video_id": "6LCf5tMO3-c",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 前几天爆出的React生态的严重漏洞， CVE-2025-55182， CSVSS评级 ...",
       "published_at": "2025-12-08T12:27:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bMiOYsDtpGM/hqdefault.jpg"
-    },
-    {
-      "title": "把Gemini3生成的网页应用，打包成手机APP，手把手教程，混合APP开发入门      #ai #科技 #人工智能 #计算机 #手机",
-      "video_id": "FK8-9JEWNHM",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 上期视频我们把Gemini3 生成的炫酷应用免费部署成了自己的网站。",
-      "published_at": "2025-12-04T11:52:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FK8-9JEWNHM/hqdefault.jpg"
     }
   ]
 }

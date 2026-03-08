@@ -1,72 +1,32 @@
 {
-  "fetched_at": "2026-03-01T00:41:38.692542",
+  "fetched_at": "2026-03-08T00:37:27.250978",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 8,
+  "count": 3,
   "videos": [
     {
-      "title": "KPop Demon Hunters brought big cinematic moments into real-time previs",
-      "video_id": "tCsf9O70X_k",
+      "title": "‘Max &amp; the Midknights’: Nickelodeon creates a stop-motion look with UE5",
+      "video_id": "AcRUKiwbBp4",
       "channel_title": "Unreal Engine",
-      "description": "From demon-filled bathhouses to stadium-scale concerts, KPop Demon Hunters brought big cinematic moments into real-time ...",
-      "published_at": "2026-02-27T18:09:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tCsf9O70X_k/hqdefault.jpg"
+      "description": "Watch this video to discover how 'Max & the Midknights' reinvented TV animation with a cinematic, stop-motion-inspired world ...",
+      "published_at": "2026-03-06T19:40:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AcRUKiwbBp4/hqdefault.jpg"
     },
     {
-      "title": "Reimagining Previs and Layout for KPop Demon Hunters with Unreal Engine",
-      "video_id": "Zz-24bTI8ZQ",
+      "title": "For Sinners, Michael Ralla and Pepe Valencia brought a steam train to their ideal filming location",
+      "video_id": "o0DvlwkODc0",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to find out what happens when real-time technology meets a global pop phenomenon. Discover how Unreal ...",
-      "published_at": "2026-02-27T17:59:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Zz-24bTI8ZQ/hqdefault.jpg"
+      "description": "For Sinners, Michael Ralla and Pepe Valencia brought a steam train to their ideal filming location — without moving production ...",
+      "published_at": "2026-03-06T19:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o0DvlwkODc0/hqdefault.jpg"
     },
     {
-      "title": "Automotive Substrate Materials: Free on Fab",
-      "video_id": "sINPU1KDy1U",
+      "title": "ARC Raiders | Game Profile | Unreal Engine",
+      "video_id": "uumyjE6vfdk",
       "channel_title": "Unreal Engine",
-      "description": "Built entirely on Substrate, Unreal Engine's next-generation material system, this pack provides a physically accurate, ...",
-      "published_at": "2026-02-27T15:55:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sINPU1KDy1U/hqdefault.jpg"
-    },
-    {
-      "title": "Exploring TechAudioTools Content | Inside Unreal",
-      "video_id": "Xlwnu0FtCvY",
-      "channel_title": "Unreal Engine",
-      "description": "Come join Eric and Dan from the Tech Audio team at Epic Games as they walk through powerful new resources for sound and ...",
-      "published_at": "2026-02-26T21:43:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xlwnu0FtCvY/hqdefault.jpg"
-    },
-    {
-      "title": "Access to Fab Marketplace &amp; Quixel Megascans from within Unreal Engine made VFX on Sinners faster!",
-      "video_id": "2GbX-tLA2m4",
-      "channel_title": "Unreal Engine",
-      "description": "Find out how academy award nominated VFX Supervisor Michael Ralla and Emmy award winning Visualization Supervisor Pepe ...",
-      "published_at": "2026-02-26T19:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2GbX-tLA2m4/hqdefault.jpg"
-    },
-    {
-      "title": "Sony Honda Mobility&#39;s 2026 AFEELA 1 Digital Cockpit Powered by Unreal Engine 5",
-      "video_id": "b0qtzs4JA6g",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video for a look at the powerful next-gen HMI capabilities of the AFEELA 1—Sony Honda Mobility's first ever model.",
-      "published_at": "2026-02-26T07:45:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b0qtzs4JA6g/hqdefault.jpg"
-    },
-    {
-      "title": "New UEFN Workflows | Creating in Fortnite",
-      "video_id": "KDS8uT5YWCA",
-      "channel_title": "Unreal Engine",
-      "description": "Dive into the newest UEFN workflow upgrades, demonstrated in the Alpha Tycoon environment, featuring drag-and-drop and ...",
-      "published_at": "2026-02-24T20:42:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KDS8uT5YWCA/hqdefault.jpg"
-    },
-    {
-      "title": "Samson | Game Profile | Unreal Engine",
-      "video_id": "hNi62ughNkU",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video to explore how Liquid Swords is using Unreal Engine to develop gritty, open-world action game 'Samson'.",
-      "published_at": "2026-02-24T15:03:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hNi62ughNkU/hqdefault.jpg"
+      "description": "Watch this video to discover how Embark Studios leveraged Unreal Engine to craft the expansive open world and gameplay of ...",
+      "published_at": "2026-03-03T16:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uumyjE6vfdk/hqdefault.jpg"
     }
   ]
 }

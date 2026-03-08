@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-01T00:41:36.486471",
+  "fetched_at": "2026-03-08T00:37:25.128047",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "67 Ruffian Mustang Burns Out hard",
+      "video_id": "ZXvYLRaM5LY",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-03-06T18:45:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZXvYLRaM5LY/hqdefault.jpg"
+    },
+    {
+      "title": "R35 crazy sound",
+      "video_id": "0AHmgNVg4jQ",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-03-03T22:19:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0AHmgNVg4jQ/hqdefault.jpg"
+    },
     {
       "title": "Making an RC look like a Top Gun Movie Scene",
       "video_id": "VjQZEcrNCTQ",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-08-09T04:30:42Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-r64O5W5fIc/hqdefault.jpg"
-    },
-    {
-      "title": "The Joker lights up the streets #joker #srt #viper",
-      "video_id": "d0ZYtJZX7hM",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-08-07T17:37:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d0ZYtJZX7hM/hqdefault.jpg"
-    },
-    {
-      "title": "Dodge Made a Monster",
-      "video_id": "q4Jy_4Tdk-U",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-07-16T06:32:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q4Jy_4Tdk-U/hqdefault.jpg"
     }
   ]
 }

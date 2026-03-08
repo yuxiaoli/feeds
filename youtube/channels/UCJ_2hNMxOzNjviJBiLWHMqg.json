@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-01T00:41:47.782375",
+  "fetched_at": "2026-03-08T00:37:36.131542",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Does Coruscant Need 5,000 Levels?",
+      "video_id": "MNlTU_nWZR4",
+      "channel_title": "DamiLee",
+      "description": "An architect in the 1960s calculated how many people Earth could support if cities covered the planet. When density, nature, and ...",
+      "published_at": "2026-03-02T16:30:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MNlTU_nWZR4/hqdefault.jpg"
+    },
     {
       "title": "Trantor vs Coruscant",
       "video_id": "hdNuEyDM1vA",
@@ -75,14 +83,6 @@
       "description": "Tolkien shaped the Shire from childhood memory, earth-built homes, and a quiet fear of loss. His world carries a rare kind of ...",
       "published_at": "2026-01-13T01:22:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mC7r6Q0zwkc/hqdefault.jpg"
-    },
-    {
-      "title": "Have you used a construction drone?",
-      "video_id": "ulLH8TUr7dE",
-      "channel_title": "DamiLee",
-      "description": "Check this link for more info about the Matrice 4D: ...",
-      "published_at": "2025-12-27T16:30:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ulLH8TUr7dE/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-03-01T00:41:52.174417",
+  "fetched_at": "2026-03-08T00:37:40.309467",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
+    {
+      "title": "OWASP&#39;s Top 10 Ways to Attack LLMs: AI Vulnerabilities Exposed",
+      "video_id": "gUNXZMcd2jU",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-03-07T12:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gUNXZMcd2jU/hqdefault.jpg"
+    },
+    {
+      "title": "Inside Perplexity Computer’s agent platform",
+      "video_id": "iXAgtR-DO3I",
+      "channel_title": "IBM Technology",
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/Bdp2fD Is Perplexity still focused on search?",
+      "published_at": "2026-03-06T11:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iXAgtR-DO3I/hqdefault.jpg"
+    },
+    {
+      "title": "What Is Agentic Storage? Solving AI’s Limits with LLMs &amp; MCP",
+      "video_id": "TjvT9sI5mLE",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-03-05T12:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TjvT9sI5mLE/hqdefault.jpg"
+    },
+    {
+      "title": "A2A vs MCP: AI Agent Communication Explained",
+      "video_id": "BMDFPOyezH4",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Register now and use code IBMTechYT20 for 20% ...",
+      "published_at": "2026-03-02T12:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BMDFPOyezH4/hqdefault.jpg"
+    },
+    {
+      "title": "Best Language for AI: What You Need to Know",
+      "video_id": "g9UIamT4Pgc",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-03-01T12:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g9UIamT4Pgc/hqdefault.jpg"
+    },
     {
       "title": "Spec-Driven Development: AI Assisted Coding Explained",
       "video_id": "mViFYTwWvcM",
@@ -13,52 +53,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/mViFYTwWvcM/hqdefault.jpg"
     },
     {
-      "title": "Mainframe modernization explained: COBOL and AI",
-      "video_id": "9mJhBzjugQg",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/BdpZc5 Where does AI actually fit into the mainframe ...",
-      "published_at": "2026-02-27T11:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9mJhBzjugQg/hqdefault.jpg"
-    },
-    {
       "title": "2026 Threat Intelligence Index: Ransomware, AI, &amp; Emerging TTP Risks",
       "video_id": "RKeW4Xd9V9E",
       "channel_title": "IBM Technology",
       "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
       "published_at": "2026-02-26T12:00:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/RKeW4Xd9V9E/hqdefault.jpg"
-    },
-    {
-      "title": "Exploits of public-facing apps are surging. Why?",
-      "video_id": "vcS02Vl6IU0",
-      "channel_title": "IBM Technology",
-      "description": "Explore the Threat Intelligence Index 2026 → https://ibm.biz/Bdpi6d For years, stolen credentials were king—the hacker's attack ...",
-      "published_at": "2026-02-25T11:01:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vcS02Vl6IU0/hqdefault.jpg"
-    },
-    {
-      "title": "Synthetic Data Generation for Smarter AI Workflows",
-      "video_id": "4L-CB0lMq_I",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-02-24T12:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4L-CB0lMq_I/hqdefault.jpg"
-    },
-    {
-      "title": "What Is NeuroSymbolic AI? Bridging Reasoning &amp; Neural Networks",
-      "video_id": "ZfWDVO3rzeA",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-02-23T12:01:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZfWDVO3rzeA/hqdefault.jpg"
-    },
-    {
-      "title": "Mistral 3 vs DeepSeek-V3.2",
-      "video_id": "0JXOFoucK78",
-      "channel_title": "IBM Technology",
-      "description": "Does open source AI win? Mistral 3 and DeepSeek-V3.2 make the case. Different paths, same result: AI efficiency. Watch the ...",
-      "published_at": "2025-12-09T17:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0JXOFoucK78/hqdefault.jpg"
     },
     {
       "title": "AI agents in 2025: Why agentic commerce isn&#39;t ready for Black Friday yet",
@@ -77,12 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
     },
     {
-      "title": "Can you spot the social engineering trap?",
-      "video_id": "Ys2IjNjdK2E",
+      "title": "Building Decision Agents with LLMs &amp; Machine Learning Models",
+      "video_id": "mRkJTXDromw",
       "channel_title": "IBM Technology",
-      "description": "She spilled coffee on her resume… or was it bait? ☕   Discover how social engineers use human hacking and physical security ...",
-      "published_at": "2025-10-31T16:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ys2IjNjdK2E/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-09-25T11:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mRkJTXDromw/hqdefault.jpg"
     }
   ]
 }

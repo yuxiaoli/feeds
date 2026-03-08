@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-01T00:42:10.579666",
+  "fetched_at": "2026-03-08T00:37:58.549827",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "Just one tip to improve your Front lever",
+      "video_id": "8kDopYT9PfI",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-03-06T13:39:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8kDopYT9PfI/hqdefault.jpg"
+    },
+    {
+      "title": "Only High Pull Up Tutorial You Need it.",
+      "video_id": "imvQmon-KAA",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-03-05T12:20:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/imvQmon-KAA/hqdefault.jpg"
+    },
     {
       "title": "Impossible Jump",
       "video_id": "3t50qWWOsI4",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-01-31T15:11:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Db6yyXIQYr0/hqdefault.jpg"
-    },
-    {
-      "title": "Can we close this trend?",
-      "video_id": "Xmqv4IBKdq8",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2026-01-26T13:18:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xmqv4IBKdq8/hqdefault.jpg"
-    },
-    {
-      "title": "90+ KG Bodybuilder vs Calisthenics (No Excuses)",
-      "video_id": "Q39xfjAh0hA",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2026-01-25T16:59:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q39xfjAh0hA/hqdefault.jpg"
     }
   ]
 }

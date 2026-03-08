@@ -1,48 +1,80 @@
 {
-  "fetched_at": "2026-03-01T00:41:27.066013",
+  "fetched_at": "2026-03-08T00:37:15.547329",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Modernize Creative Ops with AI: From Intake to Approval",
-      "video_id": "jy92XvqVEnA",
+      "title": "A Day in the Life of a Creative Production Manager with Microsoft Copilot",
+      "video_id": "ENN-XUm2kGY",
       "channel_title": "Microsoft Azure",
-      "description": "Streamline creative operations with AI-assisted workflows. Reduce manual handoffs, accelerate reviews, and keep teams focused ...",
-      "published_at": "2026-02-27T21:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jy92XvqVEnA/hqdefault.jpg"
+      "description": "Meet Elizabeth, a creative production manager bringing global stories to life on tight timelines. From planning shoots and ...",
+      "published_at": "2026-03-06T21:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ENN-XUm2kGY/hqdefault.jpg"
     },
     {
-      "title": "Orchestrate Smarter Customer Journeys with Adobe + Microsoft AI",
-      "video_id": "cPbw0r9gbLM",
+      "title": "Unify Your Data Platform to Power Trusted AI",
+      "video_id": "tlvwHM97Egk",
       "channel_title": "Microsoft Azure",
-      "description": "A quick look at how journey orchestration can be enhanced with AI — connecting data, decisions, and experiences to deliver ...",
-      "published_at": "2026-02-27T19:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cPbw0r9gbLM/hqdefault.jpg"
+      "description": "Bring data together into a governed foundation that makes analytics and AI more actionable enabling faster decisions and more ...",
+      "published_at": "2026-03-06T19:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tlvwHM97Egk/hqdefault.jpg"
     },
     {
-      "title": "Fans can access deep Premier League stats anytime",
-      "video_id": "4RNoOGExAPc",
+      "title": "Protect Content and Operations with Security Copilot (Media)",
+      "video_id": "bKOAlczRci4",
       "channel_title": "Microsoft Azure",
-      "description": "Azure AI turns data into fan‑centric experiences in the Premier League Companion app. Proof that what works for fans can work ...",
-      "published_at": "2026-02-27T17:19:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4RNoOGExAPc/hqdefault.jpg"
+      "description": "See how AI can support security teams by speeding investigation and response times. Security teams can use AI to help protect ...",
+      "published_at": "2026-03-06T17:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bKOAlczRci4/hqdefault.jpg"
     },
     {
-      "title": "Game On: How a top gaming company runs mission-critical Oracle workloads in Azure",
-      "video_id": "OyBcCVGMmiQ",
+      "title": "Partner value: How Microsoft’s data solutions accelerate partner growth",
+      "video_id": "xEZqRygB3Og",
       "channel_title": "Microsoft Azure",
-      "description": "Cloud is the invisible backbone of modern gaming. Learn how Activision Blizzard successfully modernized its mission-critical ...",
-      "published_at": "2026-02-27T17:17:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OyBcCVGMmiQ/hqdefault.jpg"
+      "description": "Hear about the customer inflection point where AI and the democratization of data enable you as a Microsoft partner to bring ...",
+      "published_at": "2026-03-04T23:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xEZqRygB3Og/hqdefault.jpg"
     },
     {
-      "title": "Create High-Quality Video in Minutes with Sora 2 in Microsoft Foundry",
-      "video_id": "0TgNNU7sYFw",
+      "title": "Azure IaaS: Build, run, and optimize infrastructure",
+      "video_id": "geqPD94S2GQ",
       "channel_title": "Microsoft Azure",
-      "description": "Explore a dedicated video playground powered by Sora 2 on Azure OpenAI inside Microsoft Foundry. Iterate on prompts ...",
-      "published_at": "2026-02-27T17:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0TgNNU7sYFw/hqdefault.jpg"
+      "description": "Modern infrastructure works best when performance, reliability, security, scalability, and cost efficiency are designed to work ...",
+      "published_at": "2026-03-03T19:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/geqPD94S2GQ/hqdefault.jpg"
+    },
+    {
+      "title": "Reduce Azure Networking Costs: Smart Routing, Locality &amp; Efficient Connectivity",
+      "video_id": "KiF_Cn5PdfU",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover how to cut Azure networking spend by minimizing egress, optimizing routing, using Private Link and NAT Gateway, and ...",
+      "published_at": "2026-03-03T04:11:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KiF_Cn5PdfU/hqdefault.jpg"
+    },
+    {
+      "title": "Optimize Azure Compute Costs: Maximize Savings with Right‑Sizing &amp; Smart Scaling",
+      "video_id": "n5yqsjOIUfU",
+      "channel_title": "Microsoft Azure",
+      "description": "Learn practical strategies to cut Azure Compute costs—right‑size VMs, use autoscale, Spot VMs, reservations, savings plans, and ...",
+      "published_at": "2026-03-03T04:10:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/n5yqsjOIUfU/hqdefault.jpg"
+    },
+    {
+      "title": "Azure Cobalt 100 VMs: Arm Performance Breakthroughs for Cloud‑Native Workloads",
+      "video_id": "O5kPJAORTcc",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover how Azure Cobalt 100 Arm‑powered VMs deliver higher throughput, lower latency, and better price‑performance for ...",
+      "published_at": "2026-03-03T04:08:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O5kPJAORTcc/hqdefault.jpg"
+    },
+    {
+      "title": "Azure Security Deep Dive: Defense-in-Depth for Cloud &amp; AI Workloads",
+      "video_id": "V18s-1taIUQ",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover how Azure secures compute, data, and networks with defense‑in‑depth, confidential computing, and real‑time threat ...",
+      "published_at": "2026-03-03T04:07:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V18s-1taIUQ/hqdefault.jpg"
     },
     {
       "title": "End-to-end capabilities from Microsoft to build AI solutions",
@@ -51,38 +83,6 @@
       "description": "In this partner conversation, Microsoft partners discuss how they collaborate with Microsoft to build AI apps and agents for ...",
       "published_at": "2026-02-26T17:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Djo5nc9x9RQ/hqdefault.jpg"
-    },
-    {
-      "title": "How to back up on-premises Windows VMs to Azure",
-      "video_id": "h8wYYIl03DA",
-      "channel_title": "Microsoft Azure",
-      "description": "A visual guide that shows you steps for backing up an on-premises Windows Server virtual machine (VM) with Azure Backup.",
-      "published_at": "2026-01-21T17:02:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h8wYYIl03DA/hqdefault.jpg"
-    },
-    {
-      "title": "Dragon Copilot Admin Center",
-      "video_id": "36WbakEVlmE",
-      "channel_title": "Microsoft Azure",
-      "description": "With the Dragon Copilot admin center, a centralized destination for managing licensing, billing and organizational lifecycle ...",
-      "published_at": "2025-12-10T17:40:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/36WbakEVlmE/hqdefault.jpg"
-    },
-    {
-      "title": "Recap from the ground: Microsoft Azure at Ignite 2025",
-      "video_id": "yVwDJBnw__Q",
-      "channel_title": "Microsoft Azure",
-      "description": "See how the technical community responded to the latest news across Microsoft cloud and AI platforms, including Microsoft Azure, ...",
-      "published_at": "2025-12-10T16:34:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yVwDJBnw__Q/hqdefault.jpg"
-    },
-    {
-      "title": "SK Telecom deepens customer connections with agentic workflows in Microsoft Foundry",
-      "video_id": "6RHsxWn_Dws",
-      "channel_title": "Microsoft Azure",
-      "description": "SK Telecom uses Microsoft Foundry to orchestrate multi-agent workflows to deliver personalized, scalable, and compliant digital ...",
-      "published_at": "2025-12-01T22:41:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6RHsxWn_Dws/hqdefault.jpg"
     }
   ]
 }

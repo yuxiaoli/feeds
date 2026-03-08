@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-01T00:41:41.143402",
+  "fetched_at": "2026-03-08T00:37:29.463819",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "I know this one got leaked but here it is official. “We Don&#39;t Get Along” with @JuiceWRLD out now.",
+      "video_id": "691ascob_aU",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-03-06T18:08:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/691ascob_aU/hqdefault.jpg"
+    },
     {
       "title": "New vibes",
       "video_id": "oA-O_kb_Sik",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-19T19:41:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DoW2l6JamXg/hqdefault.jpg"
-    },
-    {
-      "title": "“Holy Water” with my brother @JellyRoll dropping 8/8",
-      "video_id": "Y4KECNyb44I",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-08-05T20:14:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y4KECNyb44I/hqdefault.jpg"
     }
   ]
 }

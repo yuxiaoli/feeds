@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-03-01T00:41:25.489796",
+  "fetched_at": "2026-03-08T00:37:14.079591",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Paintings Inside Eggshells",
+      "video_id": "Gr2JMkd9K1M",
+      "channel_title": "Meta",
+      "description": "SureyyaNoyan has been making art in eggshells for the last decade, which she says came “from a deep curiosity to experiment ...",
+      "published_at": "2026-03-06T19:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gr2JMkd9K1M/hqdefault.jpg"
+    },
+    {
+      "title": "Headphone Swap",
+      "video_id": "PY67m3ACumw",
+      "channel_title": "Meta",
+      "description": "hey, learn something new every day with Meta AI.",
+      "published_at": "2026-03-05T16:00:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PY67m3ACumw/hqdefault.jpg"
+    },
+    {
+      "title": "Meet Dennis",
+      "video_id": "b21WLHG1rH8",
+      "channel_title": "Meta",
+      "description": "What do you think we should name him? Dennis? He looks like a Dennis. Prompt the Meta AI app to create your own furry (or ...",
+      "published_at": "2026-03-03T16:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b21WLHG1rH8/hqdefault.jpg"
+    },
     {
       "title": "Boz &amp; Barstool Sports at Meta House",
       "video_id": "b0aWXH8UdjE",
@@ -59,30 +83,6 @@
       "description": "Nailed it.",
       "published_at": "2026-02-16T17:01:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/U2iTZBIaNNs/hqdefault.jpg"
-    },
-    {
-      "title": "Pro Dunker meets Oakley Metas",
-      "video_id": "AGm-QR28W9c",
-      "channel_title": "Meta",
-      "description": "you miss 100% of the shots you don't film with @oakleymeta glasses.",
-      "published_at": "2026-02-14T18:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AGm-QR28W9c/hqdefault.jpg"
-    },
-    {
-      "title": "Make a Move",
-      "video_id": "ugg35V3ZC9c",
-      "channel_title": "Meta",
-      "description": "Make a move with @oakleymeta HSTNs - they're here for true athletes (and Ray)",
-      "published_at": "2026-02-13T17:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ugg35V3ZC9c/hqdefault.jpg"
-    },
-    {
-      "title": "Feta Through the Eyes of Ray-Ban Meta",
-      "video_id": "LOw3ls8WDfA",
-      "channel_title": "Meta",
-      "description": "feta is betta with Meta AI.",
-      "published_at": "2026-02-12T17:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LOw3ls8WDfA/hqdefault.jpg"
     }
   ]
 }

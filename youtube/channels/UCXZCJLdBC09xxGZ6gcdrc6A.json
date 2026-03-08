@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-03-01T00:42:06.034685",
+  "fetched_at": "2026-03-08T00:37:54.206342",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The Codex app is now on Windows",
+      "video_id": "8hNcRChDrNk",
+      "channel_title": "OpenAI",
+      "description": "The Codex app is now on Windows. Get the full Codex app experience on Windows with a native agent sandbox and support for ...",
+      "published_at": "2026-03-05T20:55:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8hNcRChDrNk/hqdefault.jpg"
+    },
+    {
+      "title": "Interrupting and Adding Details in GPT-5.4 Thinking",
+      "video_id": "qSHMlduU6Lw",
+      "channel_title": "OpenAI",
+      "description": "In ChatGPT, GPT‑5.4 Thinking can now provide an upfront plan of its thinking, so you can adjust course mid-response while it's ...",
+      "published_at": "2026-03-05T18:20:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qSHMlduU6Lw/hqdefault.jpg"
+    },
+    {
+      "title": "Computer Use &amp; Frontend UI with GPT-5.4 Thinking",
+      "video_id": "YICiHiU2GBU",
+      "channel_title": "OpenAI",
+      "description": "OpenAI researcher SQ Mah explains how GPT-5.4 Thinking brings even more powerful capabilities to Codex — with more ...",
+      "published_at": "2026-03-05T18:18:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YICiHiU2GBU/hqdefault.jpg"
+    },
+    {
+      "title": "Improving Web Search Results in GPT-5.3 Instant",
+      "video_id": "0pmnDimaXnQ",
+      "channel_title": "OpenAI",
+      "description": "OpenAI researcher Josh McGrath explains how GPT-5.3 Instant's responses when using web search are more contextual, ...",
+      "published_at": "2026-03-03T17:57:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0pmnDimaXnQ/hqdefault.jpg"
+    },
+    {
+      "title": "Reducing Overcaveating in GPT-5.3 Instant",
+      "video_id": "DvKutXclQoc",
+      "channel_title": "OpenAI",
+      "description": "OpenAI researcher Blair Chen explains how GPT-5.3 Instant reduces unnecessary disclaimers, making ChatGPT more directly ...",
+      "published_at": "2026-03-03T17:57:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DvKutXclQoc/hqdefault.jpg"
+    },
     {
       "title": "Peter Steinberger on the team that built OpenClaw",
       "video_id": "Rp4Q2lZ_RIQ",
@@ -43,46 +83,6 @@
       "description": "\"The Codex app lets you go further, do more in parallel, and go deeper on the problems you care about.\" -gdb.",
       "published_at": "2026-02-19T17:26:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GWBHH4LXwOY/hqdefault.jpg"
-    },
-    {
-      "title": "Build Hour: Prompt Caching",
-      "video_id": "tECAkJAI_Vk",
-      "channel_title": "OpenAI",
-      "description": "Build faster, cheaper, and with lower latency using prompt caching. This Build Hour breaks down how prompt caching works and ...",
-      "published_at": "2026-02-18T21:25:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tECAkJAI_Vk/hqdefault.jpg"
-    },
-    {
-      "title": "Start It With ChatGPT",
-      "video_id": "B2GMI0UgN_U",
-      "channel_title": "OpenAI",
-      "description": "Make that idea happen, no matter how wild it seems, with ChatGPT : The Letter Live at The Fillmore by Joe Cocker.",
-      "published_at": "2026-02-13T23:43:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B2GMI0UgN_U/hqdefault.jpg"
-    },
-    {
-      "title": "Fix With ChatGPT",
-      "video_id": "PHKpsVIdAcc",
-      "channel_title": "OpenAI",
-      "description": "Sharpen your skills and hit the road with ChatGPT. : Brain by The Action.",
-      "published_at": "2026-02-13T23:43:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PHKpsVIdAcc/hqdefault.jpg"
-    },
-    {
-      "title": "Codex checks its work for you",
-      "video_id": "dHCNpcNyoFM",
-      "channel_title": "OpenAI",
-      "description": "Javi walks through a logging refactor and shows why Codex's self-verification is a step change: the model runs the app, finds the ...",
-      "published_at": "2026-02-11T19:08:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dHCNpcNyoFM/hqdefault.jpg"
-    },
-    {
-      "title": "How PMs use the Codex app",
-      "video_id": "6OiE0jIY93c",
-      "channel_title": "OpenAI",
-      "description": "Alexander Embiricos (a Product Manager on the Codex team) shows how he uses Codex skills to make a small product change, ...",
-      "published_at": "2026-02-09T21:48:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6OiE0jIY93c/hqdefault.jpg"
     }
   ]
 }

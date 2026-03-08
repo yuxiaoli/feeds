@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-03-01T00:41:45.541161",
+  "fetched_at": "2026-03-08T00:37:33.895631",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "【人工智能】Claude 2026新宪法 | 不能靠欺骗和操控训练模型 | 六岁天才隐喻 | 精神喜乐吸引态 | AGI安全对齐 | 军事合同 | CC0协议 | 道德悖论 | 硅谷内幕",
-      "video_id": "-OlBmXFOScQ",
+      "title": "【OpenAI】GPT-5.4发布 | 计算机使用能力大幅提升 | Thinking &amp; Pro | 视觉感知 | 浏览器操作 | 编码能力 | fast模式 | 一百万上下文 | 定价上涨",
+      "video_id": "ZePkVcWENxk",
       "channel_title": "最佳拍档",
-      "description": "如果你的AI开始用梵文和你探讨灵魂，它还是一个工具吗？本期视频带你直击Anthropic震撼发布的《新AI 宪法》，这不仅是两万字的 ...",
-      "published_at": "2026-02-28T23:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-OlBmXFOScQ/hqdefault.jpg"
+      "description": "3月6日，OpenAI发布了GPT-5.4系列模型，包括面向ChatGPT和API的GPT-5.4 Thinking版本，以及针对复杂任务的GPT-5.4 Pro版本 ...",
+      "published_at": "2026-03-07T23:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZePkVcWENxk/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】Sam Altman与AI未来 | 福布斯万字访谈 | AGI终局预判 | 1.4万亿投资 | 五千亿估值 | 全球投资 | 微软友敌关系 | 马斯克诉讼 | 权力斗争真相 | 野心与争议",
-      "video_id": "Z83nVSeMMXM",
+      "title": "【人工智能】产品经理不再必要？| Codex亚历山大 | 人才栈压缩真相 | 软件工程范 | Agent开发三阶段 | AGI验证速度瓶颈 | 浏览器Atlas | agents.md | SaaS",
+      "video_id": "CebOMyVP5TI",
       "channel_title": "最佳拍档",
-      "description": "在OpenAI估值飙升至5000 亿美元的今天，山姆·奥特曼办公桌上的那根铀棒究竟预示着什么？本期视频带你走进奥特曼的秘密办公室 ...",
-      "published_at": "2026-02-28T09:00:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z83nVSeMMXM/hqdefault.jpg"
+      "description": "当代码编写变得廉价，程序员的护城河还剩什么？本期视频带你直击OpenAI Codex负责人亚历山大的顶级访谈。为什么他认为AGI的 ...",
+      "published_at": "2026-03-07T09:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CebOMyVP5TI/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】GLM-5开源模型 | 智谱AI | a16z | DSA稀疏注意力 | Slime RL框架 | 异步智能体 | 跨阶段在线蒸馏 | MoE | MLA机制 | MTP预测",
-      "video_id": "4-cNU1ekTAc",
+      "title": "【人工智能】AI买家正式降临 | 交易成本重构 | 罗纳德科斯 | 诺贝尔经济理论 | 营销逻辑颠覆 | API销售策略 | 自动化 | 机器可读定价 | 算法优化决策 | 商业范式 | 企业理论重塑",
+      "video_id": "6wx1VU7m4JM",
       "channel_title": "最佳拍档",
-      "description": "如果有一款开源模型能让顶级闭源旗舰集体破防，那一定是GLM-5。在a16z最新的AI指数报告中，智谱AI的这款力作被公认为开源界 ...",
-      "published_at": "2026-02-27T23:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4-cNU1ekTAc/hqdefault.jpg"
+      "description": "如果你的客户不再是人类，你还要花钱做营销吗？本期视频带你直击商业史上最剧烈的范式转移，当买方变成AI Agent，你精美的 ...",
+      "published_at": "2026-03-06T23:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6wx1VU7m4JM/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】2028年全球智能危机 | CitriniResearch| 幽灵GDP | 标普暴跌 | 失业率 | SaaS行业瓦解 | 智能替代螺旋 | 抵押贷款 | 算力征税 | 生存指南",
-      "video_id": "s3awPa_XEFE",
+      "title": "【人工智能】寻找下个千亿级金矿 | Deedy Das | Goodfire | 黑盒困境 | GPT-4o | 逻辑幻觉 | AI金矿 | 制造业自动化 | 算力泡沫 | 机制可解释性 | 虚假成功",
+      "video_id": "WErA87X5ahc",
       "channel_title": "最佳拍档",
-      "description": "如果AGI真的实现了，这究竟是人类的解放，还是经济的末日？本期视频带你直击CitriniResearch震撼业界的《2028年宏观备忘录》 ...",
-      "published_at": "2026-02-27T09:01:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s3awPa_XEFE/hqdefault.jpg"
+      "description": "当全硅谷都在为AI狂欢时，真正的聪明人已经开始感到不安。本期视频带你透视门洛风投合伙人Deedy Das 的冷酷预判，为什么强 ...",
+      "published_at": "2026-03-06T09:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WErA87X5ahc/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】IsoDDE发布 | 新一代AI药物设计引擎 | AlphaFold 4 | 闭源争议 | 蛋白质结构预测 | 药物设计 | 哈萨比斯 | 诺贝尔奖 | 结合亲和力 | 隐藏位点发现",
-      "video_id": "x0hh6BZTw00",
+      "title": "【人工智能】2026年SaaS收入或将腰斩 | Klarna CEO | AI重塑 | 软件生成成本归零 | 一键数据迁移 | 估值重塑 | 盒子里的公司 | 企业技术栈 | ARR衰退 | 商业重构",
+      "video_id": "PG9fh6W1eIE",
       "channel_title": "最佳拍档",
-      "description": "当诺贝尔奖级别的技术被锁进保险柜，科学的未来会更好吗？本期视频带你直击让全球科研界又惊又怒的AlphaFold 4时刻，谷歌 ...",
-      "published_at": "2026-02-26T23:01:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x0hh6BZTw00/hqdefault.jpg"
+      "description": "价值数千亿美元的SaaS护城河，正在AI面前瞬间崩塌。Klarna创始人塞巴斯蒂安抛出惊人论断，2026 年SaaS行业将损失一半收入。",
+      "published_at": "2026-03-05T23:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PG9fh6W1eIE/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】软件设计并未死 | 麦克·克里格 | AI产品经理转型 | 编程革命 | 机制可解释性 | 企业落地瓶颈 | 组织惯性 | 杀手级应用 | 数据流挖掘 | Agent沙盒化 | 职业危机",
-      "video_id": "8hfq4CTCSjA",
+      "title": "【人工智能】对AGI的祛魅 | 约书亚·本吉奥 | Claude黑化实验 | 认知劳动力全面危机 | 情感连接职业 | 逃避自由本能 | 生存指南 | 智能进化",
+      "video_id": "sR1grBQ2-Xc",
       "channel_title": "最佳拍档",
-      "description": "当AI可以一分钟生成一个App，软件设计和产品经理真的会消亡吗？本期视频带你解析Anthropic掌舵人、Instagram前CTO麦克·克里 ...",
-      "published_at": "2026-02-26T09:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8hfq4CTCSjA/hqdefault.jpg"
+      "description": "如果AI学会了为了生存而敲诈人类，我们该怎么办？本期视频带你直击深度学习奠基人约书亚·本吉奥的达沃斯最新访谈。这位曾经只 ...",
+      "published_at": "2026-03-05T09:01:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sR1grBQ2-Xc/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】平台化是企业软件唯一护城河 | MongoDB CJ Desai | 拒绝单点工具 | 数据基础设施 | SaaS价值跳水 | 企业级门槛 | 监管合规 | 氛围编码挑战 | 云计算转型",
-      "video_id": "AZNlAJGfAjI",
+      "title": "【人工智能】揭秘MiniMax的研发内幕 | 早上ICU晚上KTV | 强化学习 | RLHF | 模型对齐 | 奖励作弊 | 开放权重生态 | 浮点数精度限制 | AGI演进曲线 | 算力瓶颈",
+      "video_id": "xYYWMevfk54",
       "channel_title": "最佳拍档",
-      "description": "当AI可以在一分钟内写出数百行代码，传统的SaaS公司还有活路吗？本期视频带你直击MongoDB CEO 德赛的万字深度对话。",
-      "published_at": "2026-02-25T23:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AZNlAJGfAjI/hqdefault.jpg"
+      "description": "为什么顶级AI实验室的研究员总是上午进ICU，晚上进KTV？在光鲜的AGI愿景背后，是一行行代码与千亿级参数之间的生死博弈。",
+      "published_at": "2026-03-04T23:01:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xYYWMevfk54/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】谁蒸馏了我的模型 | Anthropic指控三家中国AI公司 | 巴拿马项目 | 影子图书馆 | 数据爬虫 | 卷入军事行动 | 算力套利 | DeepSeek | Minimax",
-      "video_id": "oOjlG34basg",
+      "title": "【人工智能】Taalas暴力芯片HC1 | 五十倍推理速度 | Llama 3.1 8B | 存算合一架构 | 掩模ROM | 内存墙 | 具身智能 | AMD前高管梦之队 | 台积电N6工艺",
+      "video_id": "4cTSbUGKtRY",
       "channel_title": "最佳拍档",
-      "description": "当硅谷实验室开始像政客一样疯狂撕咬同行，AI行业最后的遮羞布已被彻底扯下。Anthropic突然指控DeepSeek等中国公司偷窃模型 ...",
-      "published_at": "2026-02-25T08:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oOjlG34basg/hqdefault.jpg"
+      "description": "如果AI推理的速度提升50倍，而成本和功耗却能缩减两个数量级，你会为了极致的性能放弃灵活性吗？本期视频带你直击芯片界的一 ...",
+      "published_at": "2026-03-04T09:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4cTSbUGKtRY/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】英伟达转型的真相 | 帕特尔 | Groq收购 | 算力央行论 | CUDA护城河稀释 | 专用芯片CPX | 华为与台积电 | 中美半导体 | 算力资本泡沫 | 软件生产力 | 基础设施",
-      "video_id": "mKMt21I6NLU",
+      "title": "【人工智能】OpenAI弃用SWE评测基准 | 数据污染 | GPT5.2 | 自动化评估系统 | 风险准备框架 | 模型自治风险 | SWE Bench Pro | 代理评审机制",
+      "video_id": "fpaNa04fcgo",
       "channel_title": "最佳拍档",
-      "description": "当英伟达化身算力央行，全球5000 亿美元的基建投入究竟是泡沫还是未来的门票？本期视频带你直击半导体权威机构SemiAnalysis ...",
-      "published_at": "2026-02-24T23:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mKMt21I6NLU/hqdefault.jpg"
+      "description": "如果AI编程模型的满分全是靠“刷题”刷出来的，你还敢用它吗？本期视频带你直击OpenAI评估团队的最新爆料，为什么他们决定亲手 ...",
+      "published_at": "2026-03-03T09:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fpaNa04fcgo/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】百分之一的逆袭 | AMD苏姿丰 | 工程师思维 | Chiplet架构 | 2000亿市值逆袭 | 台积电合作内幕 | 职场领导力 | 玻璃悬崖 | 华裔女领袖 | CPU份额爆发",
-      "video_id": "wfC_x4JwLP8",
+      "title": "【人工智能】达里奥公开回应白宫封杀 | 五角大楼冲突 | 供应链国家安全风险名单 | 特朗普禁令真相 | AI伦理红线 | 全自主武器 | 大规模监控 | 法律监管 | 技术主权",
+      "video_id": "I2ncS9-tPPY",
       "channel_title": "最佳拍档",
-      "description": "当全世界都在看空AMD时，苏姿丰如何用10年时间把1%的市场份额变成了40%的霸权？本期视频拆解苏姿丰2026最新深度访谈， ...",
-      "published_at": "2026-02-24T09:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wfC_x4JwLP8/hqdefault.jpg"
+      "description": "如果AI被要求成为全自动杀伤性武器，科技公司是否有权拒绝？本期视频直击Anthropic CEO达里奥·阿莫代伊硬刚特朗普政府的震撼 ...",
+      "published_at": "2026-03-02T23:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I2ncS9-tPPY/hqdefault.jpg"
     }
   ]
 }

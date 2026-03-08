@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-03-01T00:41:51.451122",
+  "fetched_at": "2026-03-08T00:37:39.624252",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "全面解析“世界模型”：定义、路线、实践与AGI的更近一步",
+      "video_id": "SYuSZIIYOfI",
+      "channel_title": "硅谷101",
+      "description": "2026年，全球顶尖AI实验室和科技巨头们都在押注研发一个新算法路径：世界模型。随着大语言模型（LLM）的Scaling Law面临 ...",
+      "published_at": "2026-03-06T06:39:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SYuSZIIYOfI/hqdefault.jpg"
+    },
+    {
+      "title": "AI进攻型裁员：白领阶层的“卢德时刻”",
+      "video_id": "HvKpMVwKQs0",
+      "channel_title": "硅谷101",
+      "description": "200年前，纺织工打碎机器抵抗工业革命；2026年，白领阶层正面临着AI的“卢德时刻”降临。推特创始人Jack Dorsey对旗下Block ...",
+      "published_at": "2026-03-04T04:29:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HvKpMVwKQs0/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI千亿融资背后的阴影与焦虑",
+      "video_id": "WCOotC3Es2Y",
+      "channel_title": "硅谷101",
+      "description": "1100亿美元融资、7300亿估值，OpenAI再次刷新私募融资记录。但无论是新入场的亚马逊，还是继续押注的英伟达或软银，都选择 ...",
+      "published_at": "2026-03-03T02:41:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WCOotC3Es2Y/hqdefault.jpg"
+    },
     {
       "title": "“AI末日论”：华尔街的恐慌会成真吗？",
       "video_id": "ePUZouf_3vQ",
@@ -59,30 +83,6 @@
       "description": "在谷歌与Meta双头垄断的数字广告领域，一家公司撕开市场裂缝，两年时间股价暴涨25倍，跻身千亿美元俱乐部。这家公司 ...",
       "published_at": "2026-02-15T02:25:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/18qSqzTdnbs/hqdefault.jpg"
-    },
-    {
-      "title": "3000亿美元灰飞烟灭，AI正在肢解SaaS帝国",
-      "video_id": "W6TrLYfMSew",
-      "channel_title": "硅谷101",
-      "description": "2月5日，全球SaaS软件市值蒸发3000亿美元，如果把时间线拉长到那一周，这个数字是恐怖的8300亿美元，相当于半个Meta、 ...",
-      "published_at": "2026-02-11T00:30:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W6TrLYfMSew/hqdefault.jpg"
-    },
-    {
-      "title": "好莱坞的诅咒与Netflix的十年征服史，深扒华纳兄弟收购案始末｜传媒巨头系列",
-      "video_id": "j13RPyHHCWk",
-      "channel_title": "硅谷101",
-      "description": "硅谷科技巨头正在以最不“好莱坞”的方式，攻占好莱坞的心脏：Netflix以827亿美元突然发起对百年影业华纳兄弟的收购，一场横跨 ...",
-      "published_at": "2026-02-11T00:00:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j13RPyHHCWk/hqdefault.jpg"
-    },
-    {
-      "title": "2026开年“王炸”：让Mac mini卖断货，Clawdbot凭什么？",
-      "video_id": "x1gXrA5-y8E",
-      "channel_title": "硅谷101",
-      "description": "Clawdbot作为2026年AI Agent的第一个“神作”，一经发布便全球爆火，背后的原因是什么？它解决了什么困扰行业已久的难题？",
-      "published_at": "2026-02-09T11:26:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x1gXrA5-y8E/hqdefault.jpg"
     }
   ]
 }

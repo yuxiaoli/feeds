@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-03-01T00:42:09.839144",
+  "fetched_at": "2026-03-08T00:37:57.834721",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "كيف تجيب العدة الثانية من تمرين المصل اب",
+      "video_id": "bNU-I1ERxmc",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-03-04T17:09:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bNU-I1ERxmc/hqdefault.jpg"
+    },
+    {
+      "title": "Handstand width variations أنواع المسافة بين اليدين في الهاندستاند",
+      "video_id": "3L74NFSh8Zs",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-03-02T17:27:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3L74NFSh8Zs/hqdefault.jpg"
+    },
+    {
+      "title": "حل مشكلة النزول في تمرين الStraight bar dip",
+      "video_id": "-_YLWRdFXsc",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-03-01T16:35:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-_YLWRdFXsc/hqdefault.jpg"
+    },
     {
       "title": "احد الحلول لمشكلة السقوط في الهاندستاند بوش اب",
       "video_id": "FDPUqOtHH_k",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-02-19T16:36:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-0GYjk4oeHI/hqdefault.jpg"
-    },
-    {
-      "title": "How to Russian push-up كيف تسوي الروشان بوش اب",
-      "video_id": "hW2Xf0SzoWI",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-02-18T18:09:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hW2Xf0SzoWI/hqdefault.jpg"
-    },
-    {
-      "title": "التمرين اللي مستحيل نتخلى عنه",
-      "video_id": "VyN4rHixAJI",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-02-15T10:22:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VyN4rHixAJI/hqdefault.jpg"
-    },
-    {
-      "title": "Enjoying the sunset",
-      "video_id": "0jSt8RXPBe8",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-02-14T09:03:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0jSt8RXPBe8/hqdefault.jpg"
     }
   ]
 }
