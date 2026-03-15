@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-08T00:37:39.624252",
+  "fetched_at": "2026-03-15T00:43:02.068928",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "“最虐运动”HYROX火爆全球：中产的荷尔蒙与上亿美元生意经",
+      "video_id": "9mpazu2K3qU",
+      "channel_title": "硅谷101",
+      "description": "有一个健身赛事，正在取代CrossFit和斯巴达勇士赛成为白领精英们的新宠（门票瞬间售罄、参赛还得抽签的那种）：去年全球60万 ...",
+      "published_at": "2026-03-13T01:09:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9mpazu2K3qU/hqdefault.jpg"
+    },
+    {
+      "title": "当“老钱”开始玩DeFi：BlackRock如何切入68万亿链上新市场？",
+      "video_id": "CsB4ZYYgHrs",
+      "channel_title": "硅谷101",
+      "description": "本视频由币安赞助播出** 2025年12月，DTCC获准推出真实资产代币化服务，标志着支撑全球金融体系的基石资产正式迈入“链上 ...",
+      "published_at": "2026-03-09T23:42:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CsB4ZYYgHrs/hqdefault.jpg"
+    },
     {
       "title": "全面解析“世界模型”：定义、路线、实践与AGI的更近一步",
       "video_id": "SYuSZIIYOfI",
@@ -67,22 +83,6 @@
       "description": "Anthropic G轮融资落地，估值狂飙至3800亿。更疯狂的是，三年来Anthropic每年营收增长都超过10倍，增速是OpenAI的4倍多。",
       "published_at": "2026-02-21T00:00:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1fIAie1uLac/hqdefault.jpg"
-    },
-    {
-      "title": "Seedance 2.0：AI视频进入工业化时代",
-      "video_id": "JXkvqMQ1tck",
-      "channel_title": "硅谷101",
-      "description": "Seedance 2.0爆火海内外，正凭借电影级质感与多镜头叙事，完成从“玩具”到“生产力工具”的本质跨越。也许视频生成行业将进入字 ...",
-      "published_at": "2026-02-20T00:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JXkvqMQ1tck/hqdefault.jpg"
-    },
-    {
-      "title": "AppLovin撕开巨头裂缝的1000天：AI审判、被做空与Underdog的“弱者之心”【硅谷101专访】",
-      "video_id": "18qSqzTdnbs",
-      "channel_title": "硅谷101",
-      "description": "在谷歌与Meta双头垄断的数字广告领域，一家公司撕开市场裂缝，两年时间股价暴涨25倍，跻身千亿美元俱乐部。这家公司 ...",
-      "published_at": "2026-02-15T02:25:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/18qSqzTdnbs/hqdefault.jpg"
     }
   ]
 }

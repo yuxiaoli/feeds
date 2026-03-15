@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-08T00:37:25.128047",
+  "fetched_at": "2026-03-15T00:42:48.357845",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "Her Lamborghini Makes a lot of Noise #lambo",
+      "video_id": "DUU6EpBdD6w",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-03-14T17:23:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DUU6EpBdD6w/hqdefault.jpg"
+    },
     {
       "title": "67 Ruffian Mustang Burns Out hard",
       "video_id": "ZXvYLRaM5LY",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-09T17:01:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vWJrBBQq89s/hqdefault.jpg"
-    },
-    {
-      "title": "August 8, 2025",
-      "video_id": "-r64O5W5fIc",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-08-09T04:30:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-r64O5W5fIc/hqdefault.jpg"
     }
   ]
 }

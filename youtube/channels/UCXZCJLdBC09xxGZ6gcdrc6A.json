@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-03-08T00:37:54.206342",
+  "fetched_at": "2026-03-15T00:43:16.032136",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "ChatGPT skills in beta for ChatGPT Business &amp; Enterprise",
+      "video_id": "qh93rLRPw80",
+      "channel_title": "OpenAI",
+      "description": "We're introducing Skills in beta for ChatGPT Business and Enterprise. Skills are reusable, shareable workflows that tell ChatGPT ...",
+      "published_at": "2026-03-13T20:08:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qh93rLRPw80/hqdefault.jpg"
+    },
+    {
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "video_id": "gZQQR_tDGuM",
+      "channel_title": "OpenAI",
+      "description": "Rakuten operates one of the world's largest digital ecosystems across e-commerce, fintech, and mobile services. Shipping fast ...",
+      "published_at": "2026-03-11T20:11:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gZQQR_tDGuM/hqdefault.jpg"
+    },
+    {
+      "title": "Rakuten x Codex: Recovery Time Reduced by 50%",
+      "video_id": "fyQHPEAFJG8",
+      "channel_title": "OpenAI",
+      "description": "We sat down with Yusuke Kaji, General Manager of AI for Business at Rakuten, to hear how Codex is empowering his engineers, ...",
+      "published_at": "2026-03-11T19:57:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fyQHPEAFJG8/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: API &amp; Codex",
+      "video_id": "rhsSqr0jdFw",
+      "channel_title": "OpenAI",
+      "description": "Build agent-powered workflows for real engineering work with Codex and OpenAI APIs. In this Build Hour, you'll learn how teams ...",
+      "published_at": "2026-03-10T17:42:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rhsSqr0jdFw/hqdefault.jpg"
+    },
     {
       "title": "The Codex app is now on Windows",
       "video_id": "8hNcRChDrNk",
@@ -51,38 +83,6 @@
       "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
       "published_at": "2026-02-24T17:59:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Rp4Q2lZ_RIQ/hqdefault.jpg"
-    },
-    {
-      "title": "OpenClaw Creator Peter Steinberger&#39;s advice for developers",
-      "video_id": "-RDPAPjDnp8",
-      "channel_title": "OpenAI",
-      "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
-      "published_at": "2026-02-24T18:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-RDPAPjDnp8/hqdefault.jpg"
-    },
-    {
-      "title": "Peter Steinberger on the excitement around OpenClaw",
-      "video_id": "mR8Lz3Bc1rA",
-      "channel_title": "OpenAI",
-      "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
-      "published_at": "2026-02-24T17:55:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mR8Lz3Bc1rA/hqdefault.jpg"
-    },
-    {
-      "title": "Builders Unscripted: Ep. 1 - Peter Steinberger, Creator of OpenClaw",
-      "video_id": "9jgcT0Fqt7U",
-      "channel_title": "OpenAI",
-      "description": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things.",
-      "published_at": "2026-02-24T17:03:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9jgcT0Fqt7U/hqdefault.jpg"
-    },
-    {
-      "title": "The Codex app enables massively parallel work",
-      "video_id": "GWBHH4LXwOY",
-      "channel_title": "OpenAI",
-      "description": "\"The Codex app lets you go further, do more in parallel, and go deeper on the problems you care about.\" -gdb.",
-      "published_at": "2026-02-19T17:26:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GWBHH4LXwOY/hqdefault.jpg"
     }
   ]
 }

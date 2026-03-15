@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-08T00:37:36.131542",
+  "fetched_at": "2026-03-15T00:42:58.651448",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Cool Cities, Hot Truth",
+      "video_id": "MbBFRUGRML0",
+      "channel_title": "DamiLee",
+      "description": "A multi-level city like Coruscant would generate mind-bending waste heat-from bodies, dense infrastructure, and massive power ...",
+      "published_at": "2026-03-09T15:31:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MbBFRUGRML0/hqdefault.jpg"
+    },
     {
       "title": "Does Coruscant Need 5,000 Levels?",
       "video_id": "MNlTU_nWZR4",
@@ -75,14 +83,6 @@
       "description": "Middle-earth architecture isn't just aesthetic—it reflects how each race relates to the world around them. Tolkien focused less on ...",
       "published_at": "2026-01-14T16:28:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bG63R2r7cZU/hqdefault.jpg"
-    },
-    {
-      "title": "Tolkien’s Lost Paradise",
-      "video_id": "mC7r6Q0zwkc",
-      "channel_title": "DamiLee",
-      "description": "Tolkien shaped the Shire from childhood memory, earth-built homes, and a quiet fear of loss. His world carries a rare kind of ...",
-      "published_at": "2026-01-13T01:22:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mC7r6Q0zwkc/hqdefault.jpg"
     }
   ]
 }

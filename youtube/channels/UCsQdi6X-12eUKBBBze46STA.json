@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-08T00:38:13.755188",
+  "fetched_at": "2026-03-15T00:43:34.775992",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "The Hidden Protein Needs of Pregnancy (Every Mom Should Know This)",
+      "video_id": "kFKVuR4zq4U",
+      "channel_title": "Glucose Revolution",
+      "description": "Preorder my new book, 9 Months That Count Forever: •⁠ ⁠In the US: ...",
+      "published_at": "2026-03-11T17:01:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kFKVuR4zq4U/hqdefault.jpg"
+    },
+    {
+      "title": "Pregnancy’s Overlooked Problem",
+      "video_id": "5L6R-aqrb9U",
+      "channel_title": "Glucose Revolution",
+      "description": "Here's what the research shows we should eat during pregnancy: First trimester: 1.22g of protein per kg (pre-pregnancy weight) ...",
+      "published_at": "2026-03-10T19:38:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5L6R-aqrb9U/hqdefault.jpg"
+    },
     {
       "title": "Don’t quit sugar… Reorder it!",
       "video_id": "9IHN0KiGLd4",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-02-15T15:49:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FKQL7tU11eE/hqdefault.jpg"
-    },
-    {
-      "title": "The Pasta Color Myth",
-      "video_id": "5KaReuFrEtc",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-02-10T19:06:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5KaReuFrEtc/hqdefault.jpg"
-    },
-    {
-      "title": "Lemons Matter More Than You Think",
-      "video_id": "mKvyaBXJqos",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-02-08T18:05:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mKvyaBXJqos/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-08T00:38:02.159919",
+  "fetched_at": "2026-03-15T00:43:23.621335",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Bang &amp; Olufsen | MATTER and SHAPE | Paris",
+      "video_id": "iuz733KYLgE",
+      "channel_title": "Bang & Olufsen",
+      "description": "From the first hand-blown curve to a fully fledged listening lounge, Bang & Olufsen and Home in Heven look back with pride at ...",
+      "published_at": "2026-03-10T12:01:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iuz733KYLgE/hqdefault.jpg"
+    },
     {
       "title": "Surrounded by Beautiful Sound | Bang &amp; Olufsen",
       "video_id": "iBQyWGN_wec",
@@ -75,14 +83,6 @@
       "description": "Whatever your space, there's a Bang & Olufsen surround sound system that will sound right at home. ​ For the best experience, ...",
       "published_at": "2026-01-20T10:00:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bWOTrmVM58U/hqdefault.jpg"
-    },
-    {
-      "title": "Surrounded by beautiful sound | Beosound Premiere &amp; Beolab 8 surround sound system",
-      "video_id": "ZN2c9X8Cupw",
-      "channel_title": "Bang & Olufsen",
-      "description": "Whatever your space, there's a Bang & Olufsen surround sound system that will sound right at home. ​ For the best experience, ...",
-      "published_at": "2026-01-20T10:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZN2c9X8Cupw/hqdefault.jpg"
     }
   ]
 }

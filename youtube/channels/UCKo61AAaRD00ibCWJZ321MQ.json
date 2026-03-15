@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-08T00:37:40.978571",
+  "fetched_at": "2026-03-15T00:43:03.435876",
   "channel_id": "UCKo61AAaRD00ibCWJZ321MQ",
   "channel_title": "SoKrispyMedia",
   "count": 10,
   "videos": [
+    {
+      "title": "MrBeast Has Robots Editing his Videos",
+      "video_id": "Ufk5dVuwj8c",
+      "channel_title": "SoKrispyMedia",
+      "description": "MrBeast was showing us around his studio and we learned how they make so many viral videos...",
+      "published_at": "2026-03-08T02:30:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ufk5dVuwj8c/hqdefault.jpg"
+    },
     {
       "title": "Making this Fart Gun was a huge Mistake...",
       "video_id": "ZF0r2Mm6w8U",
@@ -75,14 +83,6 @@
       "description": "Before and after the visual effects of our previous short!",
       "published_at": "2025-04-21T01:30:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qTcaR1vdkCg/hqdefault.jpg"
-    },
-    {
-      "title": "What happens when you enter a videogame",
-      "video_id": "t-2iVCQql7E",
-      "channel_title": "SoKrispyMedia",
-      "description": "We gotta stop getting trapped inside these video games… FragPunk is now LIVE and free to play on PC! Jump in now to claim ...",
-      "published_at": "2025-04-12T14:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t-2iVCQql7E/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-08T00:37:14.079591",
+  "fetched_at": "2026-03-15T00:42:37.751379",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "20 Sec Tip: Refining Your Feed",
+      "video_id": "Ekq-_2_GTng",
+      "channel_title": "Meta",
+      "description": "See and control your Instagram algorithm to enjoy more of what you love and less of what you don't.",
+      "published_at": "2026-03-13T15:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ekq-_2_GTng/hqdefault.jpg"
+    },
+    {
+      "title": "Après Meeting",
+      "video_id": "WGa_Zt3bKX8",
+      "channel_title": "Meta",
+      "description": "Cozy is a state of mind ☕ Create your own little lodge with Meta AI! Go to your stories and find the \"Snow\" option in Restyle to ...",
+      "published_at": "2026-03-09T15:02:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WGa_Zt3bKX8/hqdefault.jpg"
+    },
     {
       "title": "Paintings Inside Eggshells",
       "video_id": "Gr2JMkd9K1M",
@@ -67,22 +83,6 @@
       "description": "Check out Meta AI: https://go.fb.me/Meta_AI_App.",
       "published_at": "2026-02-19T17:02:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eeA7rbi86BM/hqdefault.jpg"
-    },
-    {
-      "title": "Rock Climbing with Oakley Meta",
-      "video_id": "4UFCDN-slIQ",
-      "channel_title": "Meta",
-      "description": "climb to new heights - @oakleymeta is here to capture every step of the journey.",
-      "published_at": "2026-02-18T17:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4UFCDN-slIQ/hqdefault.jpg"
-    },
-    {
-      "title": "🤯 Trying Teleprompter for Ray-Ban Meta Displays",
-      "video_id": "U2iTZBIaNNs",
-      "channel_title": "Meta",
-      "description": "Nailed it.",
-      "published_at": "2026-02-16T17:01:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U2iTZBIaNNs/hqdefault.jpg"
     }
   ]
 }

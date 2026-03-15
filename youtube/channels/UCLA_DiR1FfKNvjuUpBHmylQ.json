@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-03-08T00:37:41.659901",
+  "fetched_at": "2026-03-15T00:43:04.132356",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
   "count": 5,
   "videos": [
+    {
+      "title": "NASA&#39;s Artemis II Flight Readiness News Conference (March 12, 2026)",
+      "video_id": "SpMMAdqMGWA",
+      "channel_title": "NASA",
+      "description": "Following the conclusion of the Artemis II Flight Readiness Review, agency leaders share the latest updates on the mission ...",
+      "published_at": "2026-03-12T20:03:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SpMMAdqMGWA/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s Northrop Grumman Commercial Resupply Services 23 Departure",
+      "video_id": "THfwzi1rJ00",
+      "channel_title": "NASA",
+      "description": "Watch with us as Northrop Grumman's Cygnus XL cargo spacecraft departs from the International Space Station. Northrop ...",
+      "published_at": "2026-03-12T11:42:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/THfwzi1rJ00/hqdefault.jpg"
+    },
+    {
+      "title": "U.S. Spacewalk Preview News Conference (Monday, March 16)",
+      "video_id": "lcB43W_SZfk",
+      "channel_title": "NASA",
+      "description": "As we prepare for two upcoming spacewalks outside the International Space Station, tune in as we share what we'll be doing and ...",
+      "published_at": "2026-03-10T20:19:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lcB43W_SZfk/hqdefault_live.jpg"
+    },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
       "video_id": "sWasdbDVNvc",
@@ -13,36 +37,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sWasdbDVNvc/hqdefault_live.jpg"
     },
     {
-      "title": "Moonbound Episode II: For All Humanity (Official NASA Trailer)",
-      "video_id": "F9C3tc-ws7M",
-      "channel_title": "NASA",
-      "description": "Four astronauts. One historic journey. Moonbound: For All Humanity follows the paths of the Artemis II crew as they prepare to ...",
-      "published_at": "2026-03-06T18:30:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F9C3tc-ws7M/hqdefault.jpg"
-    },
-    {
-      "title": "JAXA HTV-X1 Cargo Departure",
-      "video_id": "iUNm9iv7sAg",
-      "channel_title": "NASA",
-      "description": "Tune in for live coverage as JAXA's (Japan Aerospace Exploration Agency) uncrewed HTV-X1 cargo spacecraft departs from the ...",
-      "published_at": "2026-03-06T17:53:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iUNm9iv7sAg/hqdefault.jpg"
-    },
-    {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
       "video_id": "zPH5KtjJFaQ",
       "channel_title": "NASA",
       "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
       "published_at": "2026-03-02T14:23:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zPH5KtjJFaQ/hqdefault_live.jpg"
-    },
-    {
-      "title": "Artemis Update (Feb. 27, 2026)",
-      "video_id": "eCbQtyUopOM",
-      "channel_title": "NASA",
-      "description": "Following the rollback of the Artemis II SLS (Space Launch System) rocket and Orion spacecraft on Wednesday, Feb. 25, experts ...",
-      "published_at": "2026-02-27T16:03:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eCbQtyUopOM/hqdefault.jpg"
     }
   ]
 }

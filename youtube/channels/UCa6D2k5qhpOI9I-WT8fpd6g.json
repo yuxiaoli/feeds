@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-08T00:37:57.093088",
+  "fetched_at": "2026-03-15T00:43:18.656863",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "飞书官方插件一出，龙虾(OpenClaw)的玩法彻底变了",
+      "video_id": "3u9gYM7digA",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 官方插件使用指南： ...",
+      "published_at": "2026-03-14T02:54:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3u9gYM7digA/hqdefault.jpg"
+    },
     {
       "title": "一期视频精通OpenClaw变高手，从中级到高级完整教程",
       "video_id": "4LZEWPlDmsU",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Agent Skills最近非常的火，起初它还只是Claude中一个小功能模块，就在 ...",
       "published_at": "2026-01-07T07:03:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DNF0FJ9l7wo/hqdefault.jpg"
-    },
-    {
-      "title": "为什么React的漏洞能攻破服务器？NextJs与RSC入门基础",
-      "video_id": "bMiOYsDtpGM",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 前几天爆出的React生态的严重漏洞， CVE-2025-55182， CSVSS评级 ...",
-      "published_at": "2025-12-08T12:27:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bMiOYsDtpGM/hqdefault.jpg"
     }
   ]
 }

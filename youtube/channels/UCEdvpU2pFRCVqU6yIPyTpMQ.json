@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-08T00:37:29.463819",
+  "fetched_at": "2026-03-15T00:42:52.482543",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "Official lyric video for “We Don’t Get Along” with @JuiceWRLD",
+      "video_id": "ChXXQFZ3TTU",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-03-12T17:49:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ChXXQFZ3TTU/hqdefault.jpg"
+    },
     {
       "title": "I know this one got leaked but here it is official. “We Don&#39;t Get Along” with @JuiceWRLD out now.",
       "video_id": "691ascob_aU",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-09-23T20:34:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/aqy8E3AUszc/hqdefault.jpg"
-    },
-    {
-      "title": "Putting some miles on this one@KaneBrown",
-      "video_id": "DoW2l6JamXg",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-08-19T19:41:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DoW2l6JamXg/hqdefault.jpg"
     }
   ]
 }

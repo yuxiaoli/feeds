@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-08T00:37:55.682095",
+  "fetched_at": "2026-03-15T00:43:17.338989",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "Helix 02 Living Room Tidy",
+      "video_id": "CAdTjePDBfc",
+      "channel_title": "Figure",
+      "description": "A little over a month ago we released Helix 02, a single neural system that controls the full body directly from pixels, enabling ...",
+      "published_at": "2026-03-09T15:58:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CAdTjePDBfc/hqdefault.jpg"
+    },
     {
       "title": "Introducing Helix 02",
       "video_id": "lQsvTrRTBRs",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-03-31T14:00:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WoXCHr1IaTM/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Natural Walking",
-      "video_id": "z6KiwXT_yAM",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2025-03-25T14:01:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z6KiwXT_yAM/hqdefault.jpg"
     }
   ]
 }

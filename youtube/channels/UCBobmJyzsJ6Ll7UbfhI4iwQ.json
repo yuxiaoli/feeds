@@ -1,32 +1,72 @@
 {
-  "fetched_at": "2026-03-08T00:37:27.250978",
+  "fetched_at": "2026-03-15T00:42:50.379558",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 3,
+  "count": 8,
   "videos": [
     {
-      "title": "‘Max &amp; the Midknights’: Nickelodeon creates a stop-motion look with UE5",
-      "video_id": "AcRUKiwbBp4",
+      "title": "Performance drives character",
+      "video_id": "5FWx1bY8zhY",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to discover how 'Max & the Midknights' reinvented TV animation with a cinematic, stop-motion-inspired world ...",
-      "published_at": "2026-03-06T19:40:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AcRUKiwbBp4/hqdefault.jpg"
+      "description": "Go behind the scenes of The Lost Chapter: Yuki's Revenge to see how the team captured, visualized, and refined a stylized ...",
+      "published_at": "2026-03-14T19:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5FWx1bY8zhY/hqdefault.jpg"
     },
     {
-      "title": "For Sinners, Michael Ralla and Pepe Valencia brought a steam train to their ideal filming location",
-      "video_id": "o0DvlwkODc0",
+      "title": "What happens when you build an entire CG world first, then film inside it like live action?",
+      "video_id": "uZ1iWCkVJjw",
       "channel_title": "Unreal Engine",
-      "description": "For Sinners, Michael Ralla and Pepe Valencia brought a steam train to their ideal filming location — without moving production ...",
-      "published_at": "2026-03-06T19:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o0DvlwkODc0/hqdefault.jpg"
+      "description": "Discover how Nickelodeon series Max & the Midknights reinvented TV animation with a cinematic, stop-motion-inspired world ...",
+      "published_at": "2026-03-14T17:01:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uZ1iWCkVJjw/hqdefault.jpg"
     },
     {
-      "title": "ARC Raiders | Game Profile | Unreal Engine",
-      "video_id": "uumyjE6vfdk",
+      "title": "Hundreds of lights were animated for KPop Demon Hunters’ concert scene",
+      "video_id": "IIdHav3urc8",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to discover how Embark Studios leveraged Unreal Engine to craft the expansive open world and gameplay of ...",
-      "published_at": "2026-03-03T16:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uumyjE6vfdk/hqdefault.jpg"
+      "description": "For KPop Demon Hunters' concert scene, Sony Pictures Imageworks were able to animate hundreds of lights and easily export ...",
+      "published_at": "2026-03-13T18:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IIdHav3urc8/hqdefault.jpg"
+    },
+    {
+      "title": "Driving Real-Time Visualization with Rotor Studios",
+      "video_id": "ePaer_lMcCA",
+      "channel_title": "Unreal Engine",
+      "description": "Step into the world of high-end automotive marketing with Rotor Studios. Scott Bradley and Luke Sanford share how they've ...",
+      "published_at": "2026-03-12T20:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ePaer_lMcCA/hqdefault.jpg"
+    },
+    {
+      "title": "Epic MegaJam 2025 Winners Announcement | Inside Unreal",
+      "video_id": "SsR4mzX9-4o",
+      "channel_title": "Unreal Engine",
+      "description": "Join us as we announce the official winners of the 2025 Epic MegaJam! A HUGE thank you to everyone who participated!",
+      "published_at": "2026-03-12T19:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SsR4mzX9-4o/hqdefault.jpg"
+    },
+    {
+      "title": "Brunswick Corporation’s UE5-Powered Future Helm and Fliteboard eFoil Simulators",
+      "video_id": "iJhrmrRcLtY",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video for a look at Brunswick Corporation's powerful eFoiling simulator powered by Flite, and the Future Helm ...",
+      "published_at": "2026-03-12T15:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iJhrmrRcLtY/hqdefault.jpg"
+    },
+    {
+      "title": "Virtual Twin Onboard | Unreal Fest Stockholm 2025",
+      "video_id": "urBd9lYLr0Q",
+      "channel_title": "Unreal Engine",
+      "description": "The 3DEXCITE team begins by exploring the potential of ACCESS on top of SHOW and CREATE, and how it can improve the way ...",
+      "published_at": "2026-03-12T11:06:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/urBd9lYLr0Q/hqdefault.jpg"
+    },
+    {
+      "title": "Yuki’s Revenge | MetaHuman character workflow",
+      "video_id": "_CAgmB-U3Fk",
+      "channel_title": "Unreal Engine",
+      "description": "Discover how The Lost Chapter: Yuki's Revenge pushed real-time character performance in Unreal Engine. The team captured ...",
+      "published_at": "2026-03-10T16:55:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_CAgmB-U3Fk/hqdefault.jpg"
     }
   ]
 }

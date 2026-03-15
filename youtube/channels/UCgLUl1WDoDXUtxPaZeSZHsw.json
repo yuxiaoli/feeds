@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-08T00:38:04.426124",
+  "fetched_at": "2026-03-15T00:43:25.674597",
   "channel_id": "UCgLUl1WDoDXUtxPaZeSZHsw",
   "channel_title": "李自然说",
   "count": 10,
   "videos": [
+    {
+      "title": "炸裂！杀疯了！后背发麻！受够了AI新闻标题党？给你这两个信息源",
+      "video_id": "0DgYqhNnMjQ",
+      "channel_title": "李自然说",
+      "description": "受够了\"炸裂\"\"杀疯了\"的AI新闻？我自己做了两个站，春节期间vibe coding 出来的，本来私用，现在公开。 AI资讯速览：从20+英文 ...",
+      "published_at": "2026-03-12T05:29:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0DgYqhNnMjQ/hqdefault.jpg"
+    },
     {
       "title": "ChatGPT、Claude、Gemini 什么任务该交给谁？每月600刀经验总结",
       "video_id": "i1PNhN5Y2Fg",
@@ -75,14 +83,6 @@
       "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
       "published_at": "2025-05-09T11:20:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/a0noSgyBJMI/hqdefault.jpg"
-    },
-    {
-      "title": "我们终将见证绘画艺术的衰亡",
-      "video_id": "MEu25V2ou6o",
-      "channel_title": "李自然说",
-      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
-      "published_at": "2025-04-02T07:22:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MEu25V2ou6o/hqdefault.jpg"
     }
   ]
 }

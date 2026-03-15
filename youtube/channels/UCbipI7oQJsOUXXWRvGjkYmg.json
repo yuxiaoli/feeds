@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-08T00:37:58.549827",
+  "fetched_at": "2026-03-15T00:43:20.161491",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "Only one person can do this!",
+      "video_id": "shA2tAS0Ftk",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-03-11T16:10:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/shA2tAS0Ftk/hqdefault.jpg"
+    },
     {
       "title": "Just one tip to improve your Front lever",
       "video_id": "8kDopYT9PfI",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-02-01T16:06:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/rYJUOe3gktk/hqdefault.jpg"
-    },
-    {
-      "title": "Real or AI?",
-      "video_id": "Db6yyXIQYr0",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2026-01-31T15:11:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Db6yyXIQYr0/hqdefault.jpg"
     }
   ]
 }
