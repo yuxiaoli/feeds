@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-03-15T00:43:20.161491",
+  "fetched_at": "2026-03-22T00:40:26.370888",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
     {
-      "title": "Only one person can do this!",
-      "video_id": "shA2tAS0Ftk",
+      "title": "No one expected this",
+      "video_id": "1hpERvh1-Os",
       "channel_title": "Andry Strong",
       "description": "",
-      "published_at": "2026-03-11T16:10:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/shA2tAS0Ftk/hqdefault.jpg"
+      "published_at": "2026-03-21T20:53:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1hpERvh1-Os/hqdefault.jpg"
+    },
+    {
+      "title": "They say “Calisthenics is boring”",
+      "video_id": "ZYATR0ObWOY",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-03-19T23:16:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZYATR0ObWOY/hqdefault.jpg"
+    },
+    {
+      "title": "I Taught a Random Guy at the Gym How to Do a Planche | Beginner Guide",
+      "video_id": "ZGZOXqdGixI",
+      "channel_title": "Andry Strong",
+      "description": "In this video, I taught a random guy at the gym how to start planche training step by step using 3 steps that every beginner should ...",
+      "published_at": "2026-03-15T14:55:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZGZOXqdGixI/hqdefault.jpg"
     },
     {
       "title": "Just one tip to improve your Front lever",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-02-07T19:02:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wdXfnOpdnDI/hqdefault.jpg"
-    },
-    {
-      "title": "I overestimated people’s strength",
-      "video_id": "XDavma3T2N4",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2026-02-03T12:57:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XDavma3T2N4/hqdefault.jpg"
-    },
-    {
-      "title": "We all start somewhere | Trust the Process",
-      "video_id": "rYJUOe3gktk",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2026-02-01T16:06:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rYJUOe3gktk/hqdefault.jpg"
     }
   ]
 }

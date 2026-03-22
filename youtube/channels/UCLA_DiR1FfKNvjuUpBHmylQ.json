@@ -1,32 +1,48 @@
 {
-  "fetched_at": "2026-03-15T00:43:04.132356",
+  "fetched_at": "2026-03-22T00:40:09.920821",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 5,
+  "count": 7,
   "videos": [
     {
-      "title": "NASA&#39;s Artemis II Flight Readiness News Conference (March 12, 2026)",
-      "video_id": "SpMMAdqMGWA",
+      "title": "Moon Rocket on the Move",
+      "video_id": "o4ILV1xYBRk",
       "channel_title": "NASA",
-      "description": "Following the conclusion of the Artemis II Flight Readiness Review, agency leaders share the latest updates on the mission ...",
-      "published_at": "2026-03-12T20:03:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SpMMAdqMGWA/hqdefault.jpg"
+      "description": "Blink and you'll miss it: 11 hours of rolling out our Moon rocket in less than 60 seconds. At 11:21 a.m. EDT, our @NASAArtemis II ...",
+      "published_at": "2026-03-20T21:58:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o4ILV1xYBRk/hqdefault.jpg"
     },
     {
-      "title": "NASA&#39;s Northrop Grumman Commercial Resupply Services 23 Departure",
-      "video_id": "THfwzi1rJ00",
+      "title": "U.S. Spacewalk 94",
+      "video_id": "VlB_ZtDLAOQ",
       "channel_title": "NASA",
-      "description": "Watch with us as Northrop Grumman's Cygnus XL cargo spacecraft departs from the International Space Station. Northrop ...",
-      "published_at": "2026-03-12T11:42:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/THfwzi1rJ00/hqdefault.jpg"
+      "description": "Watch as NASA astronauts Chris Williams and Jessica Meir go on a spacewalk outside of the International Space Station.",
+      "published_at": "2026-03-18T21:03:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VlB_ZtDLAOQ/hqdefault.jpg"
+    },
+    {
+      "title": "Progress 94 Cargo Ship Launch",
+      "video_id": "O1OaCfLTPnw",
+      "channel_title": "NASA",
+      "description": "A Roscosmos cargo spacecraft, delivering approximately three tons of food, fuel, and supplies to the International Space Station, ...",
+      "published_at": "2026-03-17T18:01:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O1OaCfLTPnw/hqdefault_live.jpg"
     },
     {
       "title": "U.S. Spacewalk Preview News Conference (Monday, March 16)",
       "video_id": "lcB43W_SZfk",
       "channel_title": "NASA",
       "description": "As we prepare for two upcoming spacewalks outside the International Space Station, tune in as we share what we'll be doing and ...",
-      "published_at": "2026-03-10T20:19:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lcB43W_SZfk/hqdefault_live.jpg"
+      "published_at": "2026-03-16T18:39:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lcB43W_SZfk/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s Artemis II Live Views from Kennedy Space Center",
+      "video_id": "ED2nbfb3NbE",
+      "channel_title": "NASA",
+      "description": "This live feed from our Kennedy Space Center in Florida will provide continuous views of the Artemis II Moon rocket beginning on ...",
+      "published_at": "2026-03-11T20:02:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ED2nbfb3NbE/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

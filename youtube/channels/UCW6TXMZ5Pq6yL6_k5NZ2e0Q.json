@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-03-15T00:43:13.284755",
+  "fetched_at": "2026-03-22T00:40:19.251998",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
     {
-      "title": "What are Discrete Distributions? A lesson in Probability",
-      "video_id": "5pGWJUcSAX4",
+      "title": "SciPy - A Scientific Extension of NumPy | Python",
+      "video_id": "wuIrxCrXIyc",
       "channel_title": "Socratica",
-      "description": "SIGN UP for tastefully infrequent updates about our upcoming Probability & Statistics course.",
-      "published_at": "2026-03-12T10:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5pGWJUcSAX4/hqdefault.jpg"
+      "description": "SciPy is a collection of specialized modules built on top of NumPy for more advanced scientific computations. We show how SciPy ...",
+      "published_at": "2026-03-19T07:46:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wuIrxCrXIyc/hqdefault.jpg"
     },
     {
       "title": "Numpy Arrays - Fast Linear Algebra in Python",

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-15T00:43:21.596352",
+  "fetched_at": "2026-03-22T00:40:27.824451",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Meet the Oracle team at AI Dev 26 x San Francisco! #ai #deeplearning",
+      "video_id": "-zx4SAmcDdM",
+      "channel_title": "DeepLearningAI",
+      "description": "Meet Oracle on the AI Dev x SF show floor or join their workshop to explore the latest thinking on agent memory and what it takes ...",
+      "published_at": "2026-03-20T16:49:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-zx4SAmcDdM/hqdefault.jpg"
+    },
+    {
+      "title": "🎧 LoFi Beats for Coding &amp; Focus: Calm Beats to Study, Build, and Think",
+      "video_id": "omGyNyMNeGM",
+      "channel_title": "DeepLearningAI",
+      "description": "A calm playlist for coding, studying, or focused work. Whether you're debugging, reading, or building exciting new things after ...",
+      "published_at": "2026-03-19T16:22:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/omGyNyMNeGM/hqdefault.jpg"
+    },
     {
       "title": "CEOs are wasting millions on AI. Here&#39;s why. 💸",
       "video_id": "qtSruHgnn20",
@@ -67,22 +83,6 @@
       "description": "Your phone unlocked with your face. Your inbox filtered itself. Your work commute route was chosen for you. You've been using AI ...",
       "published_at": "2026-03-01T01:00:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_Z3SC2ebJBA/hqdefault.jpg"
-    },
-    {
-      "title": "The Most Expensive Mistake AI Beginners Make",
-      "video_id": "qD8-A5psCIk",
-      "channel_title": "DeepLearningAI",
-      "description": "The most expensive mistake AI beginners make is spending months in tutorial mode watching, planning, and preparing without ...",
-      "published_at": "2026-02-28T01:01:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qD8-A5psCIk/hqdefault.jpg"
-    },
-    {
-      "title": "Generative Adversarial Networks (GANs) Specialization",
-      "video_id": "W-EPzOh-6E4",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/ The DeepLearning.",
-      "published_at": "2026-02-25T21:24:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W-EPzOh-6E4/hqdefault.jpg"
     }
   ]
 }

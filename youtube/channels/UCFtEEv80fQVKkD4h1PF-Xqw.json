@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-03-15T00:42:55.908060",
+  "fetched_at": "2026-03-22T00:40:01.403665",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
-    {
-      "title": "How technology is helping prevent wildfires from spreading",
-      "video_id": "2c4THSONxWk",
-      "channel_title": "Microsoft",
-      "description": "Wildfires devastate communities, ecosystems, and lives and they're getting harder to stop. But what if firefighters could spot a ...",
-      "published_at": "2026-03-12T16:02:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2c4THSONxWk/hqdefault.jpg"
-    },
     {
       "title": "Cement made with seaweed? | Discovered at Microsoft Ep. 2",
       "video_id": "7a96_Wtl9xw",
@@ -83,6 +75,14 @@
       "description": "Deforestation and human activity are threatening Colombia's Middle Magdalena Valley, an endangered wildlife and ecosystem in ...",
       "published_at": "2025-12-19T17:31:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8XgoIths87Y/hqdefault.jpg"
+    },
+    {
+      "title": "Swiggy: using Microsoft Fabric Real-Time Intelligence to deliver millions of orders daily",
+      "video_id": "z32sE3194wg",
+      "channel_title": "Microsoft",
+      "description": "Swiggy is one of India's leading on-demand convenience platforms. Powered by Microsoft Fabric Real-Time Intelligence, Swiggy ...",
+      "published_at": "2025-12-12T04:54:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z32sE3194wg/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-15T00:42:52.482543",
+  "fetched_at": "2026-03-22T00:39:57.760860",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "Summer of 2016 vibes with @Portugal.TheMan",
+      "video_id": "j85b9lFliLU",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-03-21T17:40:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j85b9lFliLU/hqdefault.jpg"
+    },
+    {
+      "title": "Thank you, Mexico ❤️",
+      "video_id": "bAEiwOc-vkg",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-03-17T16:59:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bAEiwOc-vkg/hqdefault.jpg"
+    },
     {
       "title": "Official lyric video for “We Don’t Get Along” with @JuiceWRLD",
       "video_id": "ChXXQFZ3TTU",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2025-10-24T16:03:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zSpu0oQMklI/hqdefault.jpg"
-    },
-    {
-      "title": "Loss teaches what presence could never say. Holy Water music video out now.",
-      "video_id": "87QMqHNhBr4",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-10-17T14:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/87QMqHNhBr4/hqdefault.jpg"
-    },
-    {
-      "title": "This song came to me at the right time. “Better Man Than me” out on 9/26",
-      "video_id": "aqy8E3AUszc",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-09-23T20:34:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aqy8E3AUszc/hqdefault.jpg"
     }
   ]
 }

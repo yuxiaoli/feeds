@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2026-03-15T00:42:53.227328",
+  "fetched_at": "2026-03-22T00:39:58.456784",
   "channel_id": "UCEtckLYWcFq5uMW1K2zyjLA",
   "channel_title": "Africa Travel Channel",
   "count": 10,
   "videos": [
+    {
+      "title": "Lions Marching 🦁🦁🦁 #lion #wildlife #animals",
+      "video_id": "v_CiDzPY53Q",
+      "channel_title": "Africa Travel Channel",
+      "description": "",
+      "published_at": "2026-03-21T18:00:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v_CiDzPY53Q/hqdefault.jpg"
+    },
+    {
+      "title": "It’s a Kori Bustard! 🦤 #birds #wildlife #bird",
+      "video_id": "W0zwat5h0Y4",
+      "channel_title": "Africa Travel Channel",
+      "description": "",
+      "published_at": "2026-03-21T13:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W0zwat5h0Y4/hqdefault.jpg"
+    },
+    {
+      "title": "Hundreds of Impala 🦌 Gather to Drink Water 💦 #wildlife #animals #wow",
+      "video_id": "okE28Jk8yL0",
+      "channel_title": "Africa Travel Channel",
+      "description": "",
+      "published_at": "2026-03-21T08:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/okE28Jk8yL0/hqdefault.jpg"
+    },
+    {
+      "title": "Harrier Hawk 🦅 Cracks Open a Tree 🌳 to Catch a Lizard 🦎 #wow #africa #birds",
+      "video_id": "sJPAjA2_CME",
+      "channel_title": "Africa Travel Channel",
+      "description": "",
+      "published_at": "2026-03-20T16:30:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sJPAjA2_CME/hqdefault.jpg"
+    },
+    {
+      "title": "🐘🐘🐘🐘🐘🐘",
+      "video_id": "HeR0JbZr9Nc",
+      "channel_title": "Africa Travel Channel",
+      "description": "Elephants have a chill afternoon at the river.",
+      "published_at": "2026-03-20T14:30:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HeR0JbZr9Nc/hqdefault.jpg"
+    },
+    {
+      "title": "Giraffe Zebra Impala 🦒🦌🦓#wildlife",
+      "video_id": "AnPP3dEMd_Q",
+      "channel_title": "Africa Travel Channel",
+      "description": "",
+      "published_at": "2026-03-19T09:06:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AnPP3dEMd_Q/hqdefault.jpg"
+    },
     {
       "title": "Huge African Python 🐍",
       "video_id": "Dg0w2yhyfAU",
@@ -35,54 +83,6 @@
       "description": "",
       "published_at": "2025-07-24T17:47:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Wt3-R1HMqMg/hqdefault.jpg"
-    },
-    {
-      "title": "🦁🦁 #lion #shorts #wildlife",
-      "video_id": "t_UzDzh1jng",
-      "channel_title": "Africa Travel Channel",
-      "description": "",
-      "published_at": "2025-07-16T05:18:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t_UzDzh1jng/hqdefault.jpg"
-    },
-    {
-      "title": "❤️🐘🐘🐘🐘",
-      "video_id": "smvveUeOMdY",
-      "channel_title": "Africa Travel Channel",
-      "description": "",
-      "published_at": "2025-07-09T06:16:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/smvveUeOMdY/hqdefault.jpg"
-    },
-    {
-      "title": "Eternal Enemies: Lions Meet 1000 Buffalo",
-      "video_id": "XfIxkwNvtM0",
-      "channel_title": "Africa Travel Channel",
-      "description": "",
-      "published_at": "2025-07-07T06:01:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XfIxkwNvtM0/hqdefault.jpg"
-    },
-    {
-      "title": "Leopard Meets Ducky",
-      "video_id": "HEjIdOWzL40",
-      "channel_title": "Africa Travel Channel",
-      "description": "What a wonderful world wouldn't it be!",
-      "published_at": "2025-07-03T19:25:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HEjIdOWzL40/hqdefault.jpg"
-    },
-    {
-      "title": "Wonderful Gathering Of Wildlife",
-      "video_id": "6YZGfuRkU8A",
-      "channel_title": "Africa Travel Channel",
-      "description": "Wildlife gathers at a waterhole in Kruger National Park #wildlife #animals #nature.",
-      "published_at": "2025-06-29T11:56:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6YZGfuRkU8A/hqdefault.jpg"
-    },
-    {
-      "title": "Wildebeest On The Run",
-      "video_id": "05-fVJS6klQ",
-      "channel_title": "Africa Travel Channel",
-      "description": "Watch Wildebeest On The Run! #animals #nature #wildlife.",
-      "published_at": "2024-08-07T06:22:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/05-fVJS6klQ/hqdefault.jpg"
     }
   ]
 }

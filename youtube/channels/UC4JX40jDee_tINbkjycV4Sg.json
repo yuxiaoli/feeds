@@ -1,80 +1,56 @@
 {
-  "fetched_at": "2026-03-15T00:42:44.172574",
+  "fetched_at": "2026-03-22T00:39:49.326734",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 10,
+  "count": 9,
   "videos": [
     {
-      "title": "Can Chat GPT actually teach you how to code?🤔",
-      "video_id": "xwm2dVJ4Dxg",
+      "title": "How to Become an AI Engineer Fast",
+      "video_id": "Zk9LxO_dB64",
+      "channel_title": "Tech With Tim",
+      "description": "DataCamp AI Engineer Learning Track - https://datacamp.pxf.io/en1M7j DataCamp AI Engineer Certification Program ...",
+      "published_at": "2026-03-20T14:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Zk9LxO_dB64/hqdefault.jpg"
+    },
+    {
+      "title": "The truth about coding with Chat GPT.",
+      "video_id": "VWz38pCjhuU",
       "channel_title": "Tech With Tim",
       "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-03-14T20:34:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xwm2dVJ4Dxg/hqdefault.jpg"
+      "published_at": "2026-03-19T16:26:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VWz38pCjhuU/hqdefault.jpg"
     },
     {
-      "title": "The truth about Chat GPT...",
-      "video_id": "n55ZLhMAZik",
+      "title": "The Fastest Way to Pivot Into AI in 2026 (From Beginner to Job-Ready)",
+      "video_id": "trj6JxD8AqI",
+      "channel_title": "Tech With Tim",
+      "description": "Start you tech career today with Simplilearn: https://bit.ly/AgenticAI-Program-SL Everyone keeps saying just pivot into AI like it's ...",
+      "published_at": "2026-03-19T13:01:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/trj6JxD8AqI/hqdefault.jpg"
+    },
+    {
+      "title": "Watch this before applying for jobs as a developer.",
+      "video_id": "JG3WZmpn0PM",
       "channel_title": "Tech With Tim",
       "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-03-13T20:08:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/n55ZLhMAZik/hqdefault.jpg"
+      "published_at": "2026-03-19T00:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JG3WZmpn0PM/hqdefault.jpg"
     },
     {
-      "title": "OpenClaw Optimization &amp; Cost Savings Tutorial - Save 97% on Cost",
-      "video_id": "lTXFv1Z0qfI",
-      "channel_title": "Tech With Tim",
-      "description": "Setup your VPS with Hostinger and use the code TECHWITHTIM for a 10% discount on annual plans: ...",
-      "published_at": "2026-03-13T14:52:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lTXFv1Z0qfI/hqdefault.jpg"
-    },
-    {
-      "title": "This could be holding you back massively as a developer.",
-      "video_id": "PqDwM9wXmRM",
+      "title": "Improve your chances of getting hired by doing this!",
+      "video_id": "Lg7rRezC53A",
       "channel_title": "Tech With Tim",
       "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-03-12T19:51:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PqDwM9wXmRM/hqdefault.jpg"
+      "published_at": "2026-03-18T19:30:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lg7rRezC53A/hqdefault.jpg"
     },
     {
-      "title": "This is a huge mistake developers make",
-      "video_id": "Ch76gr6DcN0",
+      "title": "The Postgres Performance Trap Every Developer Falls Into",
+      "video_id": "BharE_Kc9sQ",
       "channel_title": "Tech With Tim",
-      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-03-12T00:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ch76gr6DcN0/hqdefault.jpg"
-    },
-    {
-      "title": "Using grants to make money as a developer.",
-      "video_id": "UA0p2RRTQVQ",
-      "channel_title": "Tech With Tim",
-      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-03-11T21:43:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UA0p2RRTQVQ/hqdefault.jpg"
-    },
-    {
-      "title": "Prompt Engineering Full Course ",
-      "video_id": "2BpCk4d2Cc0",
-      "channel_title": "Tech With Tim",
-      "description": "Try Flow Pro free for 14 days + get an extra month free with my code TECHWITHTIM! Start here: ...",
-      "published_at": "2026-03-11T14:50:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2BpCk4d2Cc0/hqdefault.jpg"
-    },
-    {
-      "title": "OnSpace.AI Full-Stack App Development Tutorial - Mobile Apps with AI",
-      "video_id": "AqUpzZRZAyA",
-      "channel_title": "Tech With Tim",
-      "description": "Create AI Apps in minutes with OnSpace AI, No Code & No API Key Needed - https://www.onspace.ai/?via=yt_techwithtim If you ...",
-      "published_at": "2026-03-10T13:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AqUpzZRZAyA/hqdefault.jpg"
-    },
-    {
-      "title": "My Honest Thoughts on AI and the Job Market in 2026 (No Hype)",
-      "video_id": "PEFso88LkC4",
-      "channel_title": "Tech With Tim",
-      "description": "Try Flow Pro free for 14 days + get an extra month free with my code TECHWITHTIM! Start here: ...",
-      "published_at": "2026-03-05T13:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PEFso88LkC4/hqdefault.jpg"
+      "description": "Sign Up for TigerData for free: https://tsdb.co/twt-TigerData So your Postgres database is getting slower. Your queries used to take ...",
+      "published_at": "2026-03-17T12:30:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BharE_Kc9sQ/hqdefault.jpg"
     },
     {
       "title": "The only video you need to watch if you want to become a software engineer!",
@@ -83,6 +59,22 @@
       "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
       "published_at": "2025-09-12T16:04:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Haa4Tw6MWUk/hqdefault.jpg"
+    },
+    {
+      "title": "Backend Software Engineer roadmap",
+      "video_id": "FlsrKv_xIyg",
+      "channel_title": "Tech With Tim",
+      "description": "My Software Development Program: ...",
+      "published_at": "2025-03-24T21:17:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FlsrKv_xIyg/hqdefault.jpg"
+    },
+    {
+      "title": "Cracking the code to land a job at Google👀",
+      "video_id": "sxSVJAfuiPU",
+      "channel_title": "Tech With Tim",
+      "description": "",
+      "published_at": "2024-11-16T21:46:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sxSVJAfuiPU/hqdefault.jpg"
     }
   ]
 }

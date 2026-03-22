@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-15T00:42:46.902497",
+  "fetched_at": "2026-03-22T00:39:52.048376",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Form &amp; Function of Enterprise Humanoid Design | Boston Dynamics Tech Talk | Atlas",
+      "video_id": "wL0-Pu_8F0U",
+      "channel_title": "Boston Dynamics",
+      "description": "The production version of Atlas is a departure from the typical humanoid form factor, favoring industrial utility over human likeness.",
+      "published_at": "2026-03-18T20:06:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wL0-Pu_8F0U/hqdefault.jpg"
+    },
     {
       "title": "What&#39;s your favorite classic Boston Dynamics robot? #bostondynamics #robot",
       "video_id": "U18EHTnvFd4",
@@ -75,14 +83,6 @@
       "description": "We're proud to help Gap Inc. deliver the season with our high-tech holiday magic, putting Stretch to work to get gifts out the door in ...",
       "published_at": "2025-12-22T15:08:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cXYMlGsG7cg/hqdefault.jpg"
-    },
-    {
-      "title": "Happy Holidays from Boston Dynamics | 2025",
-      "video_id": "vbLd_nq0_7A",
-      "channel_title": "Boston Dynamics",
-      "description": "Happy Holidays from Boston Dynamics! Atlas and Spot are being teleoperated in this vintage holiday vignette. #happyholidays ...",
-      "published_at": "2025-12-22T15:09:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vbLd_nq0_7A/hqdefault.jpg"
     }
   ]
 }

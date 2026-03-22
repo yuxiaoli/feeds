@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-15T00:43:00.707445",
+  "fetched_at": "2026-03-22T00:40:06.461269",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
-  "count": 25,
+  "count": 10,
   "videos": [
+    {
+      "title": "Intro to Warp and Oz",
+      "video_id": "RJWBXe9XO0s",
+      "channel_title": "Warp",
+      "description": "Follow along with our starter repository, or just watch and ask questions as we go: ...",
+      "published_at": "2026-03-20T21:18:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RJWBXe9XO0s/hqdefault_live.jpg"
+    },
+    {
+      "title": "Intro to Warp and Oz",
+      "video_id": "hZUodhuVPWc",
+      "channel_title": "Warp",
+      "description": "Follow along with our starter repository, or just watch and ask questions as we go: ...",
+      "published_at": "2026-03-20T07:09:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hZUodhuVPWc/hqdefault.jpg"
+    },
     {
       "title": "Accessibility Audit with Warp",
       "video_id": "gLXsYdByEJw",
@@ -67,142 +83,6 @@
       "description": "Oz Cloud Agents run in sandboxed environments Not everyone's comfortable letting an agent take over their machine. And that's ...",
       "published_at": "2026-03-03T15:00:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Yojq4ruRYcQ/hqdefault.jpg"
-    },
-    {
-      "title": "How do you better interact with agents?",
-      "video_id": "NvGHAPnasU8",
-      "channel_title": "Warp",
-      "description": "How do you better interact with agents? Stop askins agents to guess what you want. One line that will instantly improve every ...",
-      "published_at": "2026-03-02T15:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NvGHAPnasU8/hqdefault.jpg"
-    },
-    {
-      "title": "Do you need a backlog with agents?",
-      "video_id": "_Jqj-tkRBCE",
-      "channel_title": "Warp",
-      "description": "Do you need a backlog with agents? Level 1: Label an issue with @oz-agent and let it take a shot. It reads the issue, writes the fix, ...",
-      "published_at": "2026-02-27T14:05:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_Jqj-tkRBCE/hqdefault.jpg"
-    },
-    {
-      "title": "Oz Github Action",
-      "video_id": "9AK0B9QE8EI",
-      "channel_title": "Warp",
-      "description": "Oz Agent Action lets you run Warp's Oz coding agent directly inside GitHub Actions. You give it a prompt (or a skill), and it runs as ...",
-      "published_at": "2026-02-26T14:05:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9AK0B9QE8EI/hqdefault.jpg"
-    },
-    {
-      "title": "What&#39;s an Agent Skill?",
-      "video_id": "XpAWQtM7yTw",
-      "channel_title": "Warp",
-      "description": "What's an Agent Skill? Agent Skills are reusable markdown files that teach Warp's agents how to perform specific tasks in your ...",
-      "published_at": "2026-02-25T14:05:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XpAWQtM7yTw/hqdefault.jpg"
-    },
-    {
-      "title": "What is Oz?",
-      "video_id": "6v1UAMaZB5c",
-      "channel_title": "Warp",
-      "description": "Oz is the orchestration platform for cloud agents.",
-      "published_at": "2026-02-24T14:05:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6v1UAMaZB5c/hqdefault.jpg"
-    },
-    {
-      "title": "Oz Live Workshop: Build Your First Cloud Agent",
-      "video_id": "o4Ib_cvbjtc",
-      "channel_title": "Warp",
-      "description": "We recently introduced Oz, Warp's programmable agent platform for orchestrating coding agents at scale. Deploy agents that run ...",
-      "published_at": "2026-02-12T17:57:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o4Ib_cvbjtc/hqdefault.jpg"
-    },
-    {
-      "title": "Building Oz: how, why, and what",
-      "video_id": "m85KKRmiris",
-      "channel_title": "Warp",
-      "description": "A roundtable discussion with the team who built Oz. Hear how the Warp team uses Oz internally, the problem they were trying to ...",
-      "published_at": "2026-02-10T22:35:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m85KKRmiris/hqdefault.jpg"
-    },
-    {
-      "title": "Doing an accessibility audit with Oz",
-      "video_id": "_1I62kMN-_U",
-      "channel_title": "Warp",
-      "description": "Watch Dave (product designer) audit his web application for accessibility using our built-in auditor Skill.",
-      "published_at": "2026-02-10T15:46:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_1I62kMN-_U/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Oz: the orchestration platform for cloud agents",
-      "video_id": "aBTG59a7Bcs",
-      "channel_title": "Warp",
-      "description": "Oz is an orchestration platform for cloud agents. Developers are running more agents than their laptops can handle, and than they ...",
-      "published_at": "2026-02-10T15:44:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aBTG59a7Bcs/hqdefault.jpg"
-    },
-    {
-      "title": "Proactively fixing bugs with Oz",
-      "video_id": "2n-riqR5CUw",
-      "channel_title": "Warp",
-      "description": "Watch Ben (lead DevRel) build a Sentry alert monitor to proactively fix bugs using Oz + the TypeScript SDK.",
-      "published_at": "2026-02-10T15:45:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2n-riqR5CUw/hqdefault.jpg"
-    },
-    {
-      "title": "Making a multi-repo platform fix with Oz",
-      "video_id": "4FgOm-0D1hE",
-      "channel_title": "Warp",
-      "description": "Watch Roland (product engineer) generate a fix to our platform across our server and client repositories in a single prompt... all ...",
-      "published_at": "2026-02-10T15:45:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4FgOm-0D1hE/hqdefault.jpg"
-    },
-    {
-      "title": "Analyzing user data with Oz",
-      "video_id": "3IcwJP6pScM",
-      "channel_title": "Warp",
-      "description": "Watch Ian (data scientist) use Oz to monitor customer data using BigQuery to send a scheduled insight summary to his team on ...",
-      "published_at": "2026-02-10T15:45:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3IcwJP6pScM/hqdefault.jpg"
-    },
-    {
-      "title": "Optimize your agent setup (AGENTS.md, custom commands)",
-      "video_id": "g7bG8rzazt8",
-      "channel_title": "Warp",
-      "description": "Already familiar with coding agents in Warp, but want to improve efficiency and quality? This session is for you! We'll cover: ...",
-      "published_at": "2026-01-30T05:48:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g7bG8rzazt8/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Warp",
-      "video_id": "dpkMXyXKfiY",
-      "channel_title": "Warp",
-      "description": "New to Warp? Join this session to pick of the basics! We'll cover: - ​The essentials of navigating Warp as a terminal - ​How to talk ...",
-      "published_at": "2026-01-29T06:17:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dpkMXyXKfiY/hqdefault.jpg"
-    },
-    {
-      "title": "Optimize your agent setup - live walkthrough",
-      "video_id": "01pAjQryX4c",
-      "channel_title": "Warp",
-      "description": "Download Warp: warp.dev Clone the starter repository: https://github.com/warpdotdev/onboarding-demo-github-issue-triage-201.",
-      "published_at": "2026-01-16T06:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/01pAjQryX4c/hqdefault.jpg"
-    },
-    {
-      "title": "Start using coding agents - live walkthrough",
-      "video_id": "311g6x4Q8pw",
-      "channel_title": "Warp",
-      "description": "Download Warp: https://warp.dev Clone the starter project: ...",
-      "published_at": "2026-01-15T06:26:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/311g6x4Q8pw/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing the Warp Platform Beta",
-      "video_id": "qTMOJoga9do",
-      "channel_title": "Warp",
-      "description": "Learn about our agents platform and session sharing: ...",
-      "published_at": "2025-12-19T19:46:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qTMOJoga9do/hqdefault.jpg"
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-03-15T00:42:46.236612",
+  "fetched_at": "2026-03-22T00:39:51.373948",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Giving a robot dog a personality using GitHub Copilot",
-      "video_id": "rUxB9M69e_Y",
+      "title": "Perplexity just announced an AI personal computer",
+      "video_id": "gaDKGrStr3E",
       "channel_title": "GitHub",
-      "description": "In this video, we experiment with GitHub Copilot to see if it can program a robot dog to act like a real pup. Watch as we build a ...",
-      "published_at": "2026-03-14T15:01:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rUxB9M69e_Y/hqdefault.jpg"
+      "description": "Have you heard about the new Perplexity personal computer? They are taking a standard Mac mini and integrating their AI ...",
+      "published_at": "2026-03-21T14:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gaDKGrStr3E/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Piscina",
-      "video_id": "Gi3-4jYmos4",
+      "title": "Open Source Friday with Mastra",
+      "video_id": "Heb4z4j-8bE",
       "channel_title": "GitHub",
-      "description": "Come learn about Piscina! A fast, efficient Node.js Worker Thread Pool implementation.",
-      "published_at": "2026-03-14T05:43:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gi3-4jYmos4/hqdefault.jpg"
+      "description": "This week on Open Source Friday, we're talking with Abhi Aiyer, CTO at Mastra, about building AI applications with TypeScript.",
+      "published_at": "2026-03-21T06:28:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Heb4z4j-8bE/hqdefault.jpg"
     },
     {
-      "title": "How Microsoft and Java had to play nice",
-      "video_id": "etxDqah7Ipg",
+      "title": "The Download: MCP funeral, Perplexity computer, and Doom on a badge",
+      "video_id": "da8cSPcO7Lw",
       "channel_title": "GitHub",
-      "description": "\"Users don't care whether this is a language feature or a platform feature.\" Anders explains why the user experience must come ...",
-      "published_at": "2026-03-13T15:01:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/etxDqah7Ipg/hqdefault.jpg"
+      "description": "This week on The Download, GPS dives into the social media debate over whether MCP is dead and why FastMCP is hosting a ...",
+      "published_at": "2026-03-20T18:57:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/da8cSPcO7Lw/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays!",
-      "video_id": "kn6EvYsyE_g",
+      "title": "Rubber Duck Thursday!",
+      "video_id": "jFaHrHnGmtI",
       "channel_title": "GitHub",
-      "description": "Come hang with us!",
-      "published_at": "2026-03-13T06:56:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kn6EvYsyE_g/hqdefault.jpg"
+      "description": "Come hang and hack with us!",
+      "published_at": "2026-03-20T07:13:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jFaHrHnGmtI/hqdefault.jpg"
     },
     {
-      "title": "Jueves de Quack con @Karobot",
-      "video_id": "PQl8v1Uu9oE",
+      "title": "Jueves de Quack",
+      "video_id": "rtGs98ihne8",
       "channel_title": "GitHub",
-      "description": "Esta semana hablamos con el equipo de Fundación Átoma — una organización sin ánimo de lucro que usa educación y ...",
-      "published_at": "2026-03-13T03:14:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PQl8v1Uu9oE/hqdefault.jpg"
+      "description": "Jueves de Quack en modo coworking. Vamos a trabajar en nuestras cosas y de paso hablar de las mejores herramientas ...",
+      "published_at": "2026-03-20T03:55:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rtGs98ihne8/hqdefault.jpg"
     },
     {
-      "title": "Interactive vs non-interactive modes | Copilot CLI for beginners",
-      "video_id": "bdIJkGr2NV0",
+      "title": "Jueves de Quack con Gis Torres",
+      "video_id": "VMPap6uuErU",
       "channel_title": "GitHub",
-      "description": "Want to know the fastest way to prompt GitHub Copilot from your terminal? In this beginner tutorial, we explore the two main ...",
-      "published_at": "2026-03-12T18:50:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bdIJkGr2NV0/hqdefault.jpg"
+      "description": "Este Jueves de Quack no va del futuro… Va de lo que ya está pasando. Coding agents como: Copilot · Claude · Codex ...",
+      "published_at": "2026-03-20T00:51:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VMPap6uuErU/hqdefault_live.jpg"
     },
     {
-      "title": "Anders Hejlsberg: learning to let go",
-      "video_id": "PxXBIhnPgqw",
+      "title": "Eliminate tech debt with the GitHub Copilot coding agent",
+      "video_id": "fiq-pNjOb3U",
       "channel_title": "GitHub",
-      "description": "\"You have to accept that things get done in a different way.\" Anders Hejlsberg, creator of TypeScript, shares the lessons he ...",
-      "published_at": "2026-03-12T16:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PxXBIhnPgqw/hqdefault.jpg"
+      "description": "Stop letting tech debt slow down your engineering team. The GitHub Copilot coding agent is always available to take on the ...",
+      "published_at": "2026-03-19T17:37:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fiq-pNjOb3U/hqdefault.jpg"
     },
     {
-      "title": "Jueves de Quack con Nerdearla",
-      "video_id": "StWXcesvGj4",
+      "title": "How to query your Copilot CLI session history | Advanced tips &amp; tricks",
+      "video_id": "XHTc6XF0gdk",
       "channel_title": "GitHub",
-      "description": "Este Jueves de Quack tengo un invitado muy especial: Ariel Jolo de Sysarmy, uno de los organizadores de Nerdearla. Vamos a ...",
-      "published_at": "2026-03-12T02:18:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/StWXcesvGj4/hqdefault_live.jpg"
+      "description": "Evan Boyle from the GitHub Copilot CLI team shares advanced tips to level up your terminal workflow. Learn how to query your ...",
+      "published_at": "2026-03-18T15:01:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XHTc6XF0gdk/hqdefault.jpg"
     },
     {
-      "title": "How to use the fleet command in Copilot CLI | GitHub demo",
-      "video_id": "BviR6Me36gI",
+      "title": "How to get a multi-agent code review in Copilot CLI",
+      "video_id": "qRXztN1hi1M",
       "channel_title": "GitHub",
-      "description": "Open source maintenance doesn't have to drain your time or mental energy. In this quick tutorial, we demonstrate how to use the ...",
-      "published_at": "2026-03-10T18:08:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BviR6Me36gI/hqdefault.jpg"
+      "description": "Evan Boyle from the Copilot CLI team shares an advanced tip to improve your code quality before you even open a pull request.",
+      "published_at": "2026-03-17T15:01:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qRXztN1hi1M/hqdefault.jpg"
     },
     {
-      "title": "Getting started with GitHub Copilot CLI | Tutorial for beginners",
-      "video_id": "BDxRhhs36ns",
+      "title": "How to use GitHub Actions | GitHub for Beginners",
+      "video_id": "BQrohJ3PT7I",
       "channel_title": "GitHub",
-      "description": "In this video, we'll cover the essentials of getting started with your new terminal-based AI coding assistant: the GitHub Copilot CLI.",
-      "published_at": "2026-03-09T16:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BDxRhhs36ns/hqdefault.jpg"
+      "description": "Welcome back to GitHub for Beginners! In this episode, Kedasha and Glenda teach you everything you need to know to get ...",
+      "published_at": "2026-03-16T15:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BQrohJ3PT7I/hqdefault.jpg"
     }
   ]
 }

@@ -1,56 +1,64 @@
 {
-  "fetched_at": "2026-03-15T00:42:39.119528",
+  "fetched_at": "2026-03-22T00:39:44.161856",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "The Frontier of Media &amp; Entertainment Starts with Microsoft",
-      "video_id": "ej0pKsBnjDo",
+      "title": "Azure Firewall integration with Microsoft Sentinel and Defender XDR",
+      "video_id": "N5xPKtvBKuI",
       "channel_title": "Microsoft Azure",
-      "description": "Media is evolving beyond screens into adaptive, global, AI‑powered experiences. At the frontier of cloud, data, and AI, Microsoft ...",
-      "published_at": "2026-03-13T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ej0pKsBnjDo/hqdefault.jpg"
+      "description": "This video demonstrates how Azure Firewall network telemetry drives Microsoft Sentinel detections and automated response, ...",
+      "published_at": "2026-03-20T18:11:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N5xPKtvBKuI/hqdefault.jpg"
     },
     {
-      "title": "GitHub Copilot new agentic modernization capabilities",
-      "video_id": "_smnykCgx3k",
+      "title": "Grow Beyond Connectivity",
+      "video_id": "nt7II5sSzfQ",
       "channel_title": "Microsoft Azure",
-      "description": "GitHub Copilot modernization capabilities also add to your modernization team with agents to transform legacy applications to ...",
-      "published_at": "2026-03-13T04:52:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_smnykCgx3k/hqdefault.jpg"
+      "description": "Learn how telecom providers unlock new growth beyond connectivity by monetizing data, networks, and AI‑powered services.",
+      "published_at": "2026-03-19T14:30:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nt7II5sSzfQ/hqdefault.jpg"
     },
     {
-      "title": "GitHub Copilot new agentic modernization capabilities DEMO",
-      "video_id": "NQi7ZV3BD9o",
+      "title": "Optimize with Autonomous Networks",
+      "video_id": "bDUqfoaqmmc",
       "channel_title": "Microsoft Azure",
-      "description": "GitHub Copilot modernization capabilities also add to your modernization team with agents to transform legacy applications to ...",
-      "published_at": "2026-03-11T17:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NQi7ZV3BD9o/hqdefault.jpg"
+      "description": "Explore how AI enables more autonomous network operations through real‑time insights and intelligent automation. The video ...",
+      "published_at": "2026-03-19T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bDUqfoaqmmc/hqdefault.jpg"
     },
     {
-      "title": "Reduce Azure networking service costs: smart routing, locality, and efficient connectivity",
-      "video_id": "KiF_Cn5PdfU",
+      "title": "Personalize Customer Experiences",
+      "video_id": "gaEgp-nEB9g",
       "channel_title": "Microsoft Azure",
-      "description": "Discover how to cut Azure networking spend by minimizing egress, optimizing routing, using Private Link and NAT Gateway, and ...",
-      "published_at": "2026-03-03T04:11:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KiF_Cn5PdfU/hqdefault.jpg"
+      "description": "This video shows how AI uses real‑time data and intent to personalize customer interactions across sales and service. See how ...",
+      "published_at": "2026-03-19T13:30:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gaEgp-nEB9g/hqdefault.jpg"
     },
     {
-      "title": "Optimize Azure Storage costs: smart tier, automation, and Azure Reservations",
-      "video_id": "QOcCdyL1lLY",
+      "title": "Secure &amp; Automate Business Operations",
+      "video_id": "N6P06zAiztk",
       "channel_title": "Microsoft Azure",
-      "description": "Learn how to cut Azure storage costs using tiering, lifecycle automation, reservations, flexible provisioning, and insights from ...",
-      "published_at": "2026-03-03T04:11:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QOcCdyL1lLY/hqdefault.jpg"
+      "description": "See how AI helps telecom providers automate core business operations while embedding security and governance by design.",
+      "published_at": "2026-03-19T13:15:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N6P06zAiztk/hqdefault.jpg"
     },
     {
-      "title": "Azure IaaS mission-critical performance with Azure Boost and Ultra Disk",
-      "video_id": "1MQj-UK2rrY",
+      "title": "Microsoft at MWC: The Return on Intelligence for the Telecom Industry",
+      "video_id": "3MuC-2dAgLs",
       "channel_title": "Microsoft Azure",
-      "description": "Explore how Azure IaaS delivers high‑performance compute, networking, and storage—powered by Azure Boost, Premium SSD ...",
-      "published_at": "2026-03-03T04:09:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1MQj-UK2rrY/hqdefault.jpg"
+      "description": "Experience Microsoft at Mobile World Congress—where the Return on Intelligence comes to life for telecom. This video captures ...",
+      "published_at": "2026-03-19T13:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3MuC-2dAgLs/hqdefault.jpg"
+    },
+    {
+      "title": "Foundry Agent Service: Build, Host, and Scale Intelligent Agent Systems at Scale",
+      "video_id": "f14urPQyYsk",
+      "channel_title": "Microsoft Azure",
+      "description": "This video provides an overview of Microsoft Foundry Agents and how teams can design, deploy, and operate AI agents in ...",
+      "published_at": "2026-03-16T20:15:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f14urPQyYsk/hqdefault.jpg"
     },
     {
       "title": "Azure Boost and Cobalt 100 VMs: Arm performance breakthroughs for cloud-native workloads",
@@ -59,14 +67,6 @@
       "description": "Discover how Azure Cobalt 100 Arm‑powered VMs deliver higher throughput, lower latency, and better price‑performance for ...",
       "published_at": "2026-03-03T04:08:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/O5kPJAORTcc/hqdefault.jpg"
-    },
-    {
-      "title": "Azure Boost performance: unlocking peak performance across compute, storage, and networking",
-      "video_id": "HnlWIEz8u7k",
-      "channel_title": "Microsoft Azure",
-      "description": "See how Azure Boost accelerates networking, storage, and VM provisioning to deliver higher throughput, lower latency, and more ...",
-      "published_at": "2026-03-03T04:08:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HnlWIEz8u7k/hqdefault.jpg"
     },
     {
       "title": "End-to-end capabilities from Microsoft to build AI solutions",

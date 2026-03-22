@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-15T00:42:42.013553",
+  "fetched_at": "2026-03-22T00:39:47.112469",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "龙虾专用大模型? GLM-5-Turbo 实测!",
+      "video_id": "wjjK5UHa3ww",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来刚发布的GLM-5-Turbo 大模型实测, 官方说这是一个加强了tool call/Agent 能力的大模型, 于是我使用它搭建了一个可以帮 ...",
+      "published_at": "2026-03-17T06:03:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wjjK5UHa3ww/hqdefault.jpg"
+    },
     {
       "title": "Agent 能力有多强? 来看豆包Seed2.0实测!",
       "video_id": "Kr4dv32IS7k",
@@ -75,14 +83,6 @@
       "description": "月之暗面发布了新模型Kimi-K2.5, 最大的更新是它终于成为统一模型了, 不仅支持文本和图片, 还支持视频输入! 给大家带 ...",
       "published_at": "2026-01-27T16:13:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/rO_GNksjnDw/hqdefault.jpg"
-    },
-    {
-      "title": "500张图片测试! 一个视频告诉你GLM-Image怎么用!",
-      "video_id": "JWvLchYffPw",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来GLM-Image 实测! 我这次设计了两个极限测试, 来测试这个大模型的能力, 首先是模型的画面控制力, 怎样能让模型把对应的 ...",
-      "published_at": "2026-01-16T16:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JWvLchYffPw/hqdefault.jpg"
     }
   ]
 }

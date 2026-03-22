@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-15T00:42:58.651448",
+  "fetched_at": "2026-03-22T00:40:04.376408",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "The Shawda Supply Chain",
+      "video_id": "8WTMQ6fjpkw",
+      "channel_title": "DamiLee",
+      "description": "Running a kitchen on a planet-wide city like Coruscant means mastering interplanetary supply chains. Cold-chain storage, water ...",
+      "published_at": "2026-03-16T15:30:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8WTMQ6fjpkw/hqdefault.jpg"
+    },
     {
       "title": "Cool Cities, Hot Truth",
       "video_id": "MbBFRUGRML0",
@@ -75,14 +83,6 @@
       "description": "Hobbit holes feel comforting because they align with how the human brain seeks safety, warmth, and refuge. Circular forms, earth ...",
       "published_at": "2026-01-18T16:30:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XsjWZuAJg7I/hqdefault.jpg"
-    },
-    {
-      "title": "Why LOTR Feels So Real",
-      "video_id": "bG63R2r7cZU",
-      "channel_title": "DamiLee",
-      "description": "Middle-earth architecture isn't just aesthetic—it reflects how each race relates to the world around them. Tolkien focused less on ...",
-      "published_at": "2026-01-14T16:28:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bG63R2r7cZU/hqdefault.jpg"
     }
   ]
 }

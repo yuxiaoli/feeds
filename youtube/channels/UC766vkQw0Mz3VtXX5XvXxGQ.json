@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2026-03-15T00:42:45.539525",
+  "fetched_at": "2026-03-22T00:39:50.672392",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 1,
+  "count": 2,
   "videos": [
     {
-      "title": "Synth Riders | Level UP Progression System Trailer | Meta Quest 2 + Meta Quest 3",
-      "video_id": "tM0FKEADvds",
+      "title": "CHOOSE YOUR HERO",
+      "video_id": "3zw1E9VFfMc",
       "channel_title": "Meta Quest ",
-      "description": "https://www.meta.com/en-gb/experiences/synth-riders/2436558143118760/ Level UP with Synth Riders: Progression System ...",
-      "published_at": "2026-03-12T21:58:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tM0FKEADvds/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-03-20T22:09:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3zw1E9VFfMc/hqdefault.jpg"
+    },
+    {
+      "title": "This one’s for the pilots 🫡🛫",
+      "video_id": "N6C7bxfvm-w",
+      "channel_title": "Meta Quest ",
+      "description": "",
+      "published_at": "2026-03-20T18:11:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N6C7bxfvm-w/hqdefault.jpg"
     }
   ]
 }

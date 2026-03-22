@@ -1,11 +1,19 @@
 {
-  "fetched_at": "2026-03-15T00:43:25.674597",
+  "fetched_at": "2026-03-22T00:40:32.055039",
   "channel_id": "UCgLUl1WDoDXUtxPaZeSZHsw",
   "channel_title": "李自然说",
   "count": 10,
   "videos": [
     {
-      "title": "炸裂！杀疯了！后背发麻！受够了AI新闻标题党？给你这两个信息源",
+      "title": "Vibe Coding实战复盘：做玩具容易，做产品难",
+      "video_id": "1qv3S6CrcDo",
+      "channel_title": "李自然说",
+      "description": "很多人问我上期视频中的两个AI资讯站是怎么做的。上期视频：https://youtu.be/0DgYqhNnMjQ?si=qb086PxEO60iJspK 这期聊 ...",
+      "published_at": "2026-03-20T03:31:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1qv3S6CrcDo/hqdefault.jpg"
+    },
+    {
+      "title": "Vibe coding一周，给大家一份不加味精的AI资讯",
       "video_id": "0DgYqhNnMjQ",
       "channel_title": "李自然说",
       "description": "受够了\"炸裂\"\"杀疯了\"的AI新闻？我自己做了两个站，春节期间vibe coding 出来的，本来私用，现在公开。 AI资讯速览：从20+英文 ...",
@@ -75,14 +83,6 @@
       "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
       "published_at": "2025-05-19T10:04:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lFVvIXa6Jzc/hqdefault.jpg"
-    },
-    {
-      "title": "【长江商学院】AI落地之道：从技术创新到商业价值",
-      "video_id": "a0noSgyBJMI",
-      "channel_title": "李自然说",
-      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
-      "published_at": "2025-05-09T11:20:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a0noSgyBJMI/hqdefault.jpg"
     }
   ]
 }

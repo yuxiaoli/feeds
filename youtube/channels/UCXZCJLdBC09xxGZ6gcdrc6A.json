@@ -1,16 +1,40 @@
 {
-  "fetched_at": "2026-03-15T00:43:16.032136",
+  "fetched_at": "2026-03-22T00:40:22.130519",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
-  "count": 10,
+  "count": 25,
   "videos": [
     {
-      "title": "ChatGPT skills in beta for ChatGPT Business &amp; Enterprise",
-      "video_id": "qh93rLRPw80",
+      "title": "From your kitchen to customers | with ChatGPT",
+      "video_id": "ApOVfOGWTJU",
       "channel_title": "OpenAI",
-      "description": "We're introducing Skills in beta for ChatGPT Business and Enterprise. Skills are reusable, shareable workflows that tell ChatGPT ...",
-      "published_at": "2026-03-13T20:08:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qh93rLRPw80/hqdefault.jpg"
+      "description": "Millions of people use ChatGPT daily to build the things that matter to them. For many home based business women, the gap ...",
+      "published_at": "2026-03-20T16:16:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ApOVfOGWTJU/hqdefault.jpg"
+    },
+    {
+      "title": "Building a small business with ChatGPT",
+      "video_id": "p2GKhlPMVO0",
+      "channel_title": "OpenAI",
+      "description": "Identifying a gap in the market was the first step - building a business to fill it was the challenge. To navigate the complexities of ...",
+      "published_at": "2026-03-20T16:14:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p2GKhlPMVO0/hqdefault.jpg"
+    },
+    {
+      "title": "Rakuten x Codex: AI can empower you",
+      "video_id": "uobQ5nOkPZ4",
+      "channel_title": "OpenAI",
+      "description": "Yusuke Kaji, GM of AI for Business at Rakuten, shares how Codex is enabling his team. Check out the full video: ...",
+      "published_at": "2026-03-17T21:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uobQ5nOkPZ4/hqdefault.jpg"
+    },
+    {
+      "title": "Building AI for better healthcare — the OpenAI Podcast Ep. 14",
+      "video_id": "VAzryGwnJW8",
+      "channel_title": "OpenAI",
+      "description": "Healthcare systems around the world are under strain, and both patients and clinicians are feeling the impact. OpenAI's Head of ...",
+      "published_at": "2026-03-16T17:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VAzryGwnJW8/hqdefault.jpg"
     },
     {
       "title": "Rakuten fixes issues twice as fast with Codex",
@@ -83,6 +107,102 @@
       "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
       "published_at": "2026-02-24T17:59:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Rp4Q2lZ_RIQ/hqdefault.jpg"
+    },
+    {
+      "title": "OpenClaw Creator Peter Steinberger&#39;s advice for developers",
+      "video_id": "-RDPAPjDnp8",
+      "channel_title": "OpenAI",
+      "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
+      "published_at": "2026-02-24T18:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-RDPAPjDnp8/hqdefault.jpg"
+    },
+    {
+      "title": "Peter Steinberger on the excitement around OpenClaw",
+      "video_id": "mR8Lz3Bc1rA",
+      "channel_title": "OpenAI",
+      "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
+      "published_at": "2026-02-24T17:55:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mR8Lz3Bc1rA/hqdefault.jpg"
+    },
+    {
+      "title": "Builders Unscripted: Ep. 1 - Peter Steinberger, Creator of OpenClaw",
+      "video_id": "9jgcT0Fqt7U",
+      "channel_title": "OpenAI",
+      "description": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things.",
+      "published_at": "2026-02-24T17:03:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9jgcT0Fqt7U/hqdefault.jpg"
+    },
+    {
+      "title": "The Codex app enables massively parallel work",
+      "video_id": "GWBHH4LXwOY",
+      "channel_title": "OpenAI",
+      "description": "\"The Codex app lets you go further, do more in parallel, and go deeper on the problems you care about.\" -gdb.",
+      "published_at": "2026-02-19T17:26:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GWBHH4LXwOY/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: Prompt Caching",
+      "video_id": "tECAkJAI_Vk",
+      "channel_title": "OpenAI",
+      "description": "Build faster, cheaper, and with lower latency using prompt caching. This Build Hour breaks down how prompt caching works and ...",
+      "published_at": "2026-02-18T21:25:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tECAkJAI_Vk/hqdefault.jpg"
+    },
+    {
+      "title": "Start It With ChatGPT",
+      "video_id": "B2GMI0UgN_U",
+      "channel_title": "OpenAI",
+      "description": "Make that idea happen, no matter how wild it seems, with ChatGPT : The Letter Live at The Fillmore by Joe Cocker.",
+      "published_at": "2026-02-13T23:43:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B2GMI0UgN_U/hqdefault.jpg"
+    },
+    {
+      "title": "Fix With ChatGPT",
+      "video_id": "PHKpsVIdAcc",
+      "channel_title": "OpenAI",
+      "description": "Sharpen your skills and hit the road with ChatGPT. : Brain by The Action.",
+      "published_at": "2026-02-13T23:43:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PHKpsVIdAcc/hqdefault.jpg"
+    },
+    {
+      "title": "Codex checks its work for you",
+      "video_id": "dHCNpcNyoFM",
+      "channel_title": "OpenAI",
+      "description": "Javi walks through a logging refactor and shows why Codex's self-verification is a step change: the model runs the app, finds the ...",
+      "published_at": "2026-02-11T19:08:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dHCNpcNyoFM/hqdefault.jpg"
+    },
+    {
+      "title": "How PMs use the Codex app",
+      "video_id": "6OiE0jIY93c",
+      "channel_title": "OpenAI",
+      "description": "Alexander Embiricos (a Product Manager on the Codex team) shows how he uses Codex skills to make a small product change, ...",
+      "published_at": "2026-02-09T21:48:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6OiE0jIY93c/hqdefault.jpg"
+    },
+    {
+      "title": "Episode 13 - The Thinking Behind Ads in ChatGPT",
+      "video_id": "2agJo3Jf_O4",
+      "channel_title": "OpenAI",
+      "description": "How should advertising work in an AI product? Asad Awan, one of the ad leads at OpenAI, walks through how the company is ...",
+      "published_at": "2026-02-09T19:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2agJo3Jf_O4/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI Super Bowl 2026 | Codex | You Can Just Build Things",
+      "video_id": "aCN9iCXNJqQ",
+      "channel_title": "OpenAI",
+      "description": "We build the tools. You build the future. Start building with Codex. https://openai.com/codex/",
+      "published_at": "2026-02-09T00:03:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aCN9iCXNJqQ/hqdefault.jpg"
+    },
+    {
+      "title": "Multitasking with the Codex app",
+      "video_id": "9ohXlkbXiM4",
+      "channel_title": "OpenAI",
+      "description": "Joey demonstrates multitasking with Codex worktrees: delegate a drag-and-drop feature in one worktree while continuing local ...",
+      "published_at": "2026-02-06T23:08:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9ohXlkbXiM4/hqdefault.jpg"
     }
   ]
 }

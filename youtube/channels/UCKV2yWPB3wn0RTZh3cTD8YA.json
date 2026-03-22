@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-03-15T00:43:02.068928",
+  "fetched_at": "2026-03-22T00:40:07.864511",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "英伟达GTC上，迪士尼“复活了”雪宝机器人【101 Shorts】",
+      "video_id": "HjopX519nXg",
+      "channel_title": "硅谷101",
+      "description": "在2026年的英伟达GTC上，我们在现场见到了黄仁勋keynote压轴上场的雪宝机器人，它也成为了硅谷101有史以来最可爱的嘉宾！",
+      "published_at": "2026-03-19T17:37:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HjopX519nXg/hqdefault.jpg"
+    },
+    {
+      "title": "黄仁勋的“AI生存法则”：“三不要”理论",
+      "video_id": "GLLF6THlWnU",
+      "channel_title": "硅谷101",
+      "description": "AI时代瞬息万变，普通人该如何避免被时代的车轮抛下？在英伟达GTC闭门媒体会上，黄仁勋首次给出了他的“三个不要”理论。此外 ...",
+      "published_at": "2026-03-19T06:40:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GLLF6THlWnU/hqdefault.jpg"
+    },
+    {
+      "title": "滑雪金融化困局：“天才商业模式”通票的变革与反噬",
+      "video_id": "jnYWv_0MzBw",
+      "channel_title": "硅谷101",
+      "description": "今年雪季，大家有没有发现滑雪越来越贵了？在美国，热门雪场的单日票价甚至已经超过了300美元，但为什么雪场巨头Vail的股价却 ...",
+      "published_at": "2026-03-18T03:37:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jnYWv_0MzBw/hqdefault.jpg"
+    },
     {
       "title": "“最虐运动”HYROX火爆全球：中产的荷尔蒙与上亿美元生意经",
       "video_id": "9mpazu2K3qU",
@@ -59,30 +83,6 @@
       "description": "华尔街正被“AI焦虑症”席卷，曾经风光的软件巨头暴跌，而麦当劳、拖拉机巨头迪尔等传统企业，却因“重资产、低淘汰风险”的特性， ...",
       "published_at": "2026-02-26T16:00:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8XbNlEBCUMo/hqdefault.jpg"
-    },
-    {
-      "title": "都2026年了，为什么ASML还在研究“上一代”DUV？",
-      "video_id": "EwxEwpGvjpY",
-      "channel_title": "硅谷101",
-      "description": "都2026年了，光刻巨头ASML竟然还在研发上一代的DUV技术？这并非技术路径的保守，因为目前在先进芯片生产中，DUV的占比 ...",
-      "published_at": "2026-02-25T02:11:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EwxEwpGvjpY/hqdefault.jpg"
-    },
-    {
-      "title": "揭秘春晚小品机器人：与松延动力聊对戏、空翻、仿生背后的技术进化｜机器人系列",
-      "video_id": "ZDXIUO7CRzo",
-      "channel_title": "硅谷101",
-      "description": "今年的央视春晚上，机器人不再只是跳舞、扭秧歌，而是首次走上了小品舞台，与人类演员同台对戏。台上与蔡明老师搭戏的“电子 ...",
-      "published_at": "2026-02-21T05:48:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZDXIUO7CRzo/hqdefault.jpg"
-    },
-    {
-      "title": "AI双巨头时代：Anthropic会超越OpenAI吗？",
-      "video_id": "1fIAie1uLac",
-      "channel_title": "硅谷101",
-      "description": "Anthropic G轮融资落地，估值狂飙至3800亿。更疯狂的是，三年来Anthropic每年营收增长都超过10倍，增速是OpenAI的4倍多。",
-      "published_at": "2026-02-21T00:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1fIAie1uLac/hqdefault.jpg"
     }
   ]
 }
