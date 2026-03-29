@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-22T00:39:50.004988",
+  "fetched_at": "2026-03-29T00:43:49.096905",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "TERAFAB",
+      "video_id": "HcxEGykMZc4",
+      "channel_title": "Tesla",
+      "description": "Join Us: http://terafab.ai TERAFAB: the next step to becoming a galactic civilization Together with SpaceX & xAI, we're building the ...",
+      "published_at": "2026-03-22T03:15:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HcxEGykMZc4/hqdefault.jpg"
+    },
     {
       "title": "Push to start (literally)",
       "video_id": "xplLMHeO-W0",
@@ -75,14 +83,6 @@
       "description": "New Tesla Solar Panels & Tesla Panel Mount now available - https://www.tesla.com/solarpanels Solar Panel: – 420W – Uses ...",
       "published_at": "2026-01-31T00:06:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7sxdv5H9uAU/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Q4 and full year 2025 Financial Results and Q&amp;A Webcast",
-      "video_id": "oK0UZEE9GPo",
-      "channel_title": "Tesla",
-      "description": "Start of call: https://youtu.be/oK0UZEE9GPo?t=299.",
-      "published_at": "2026-01-28T23:36:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oK0UZEE9GPo/hqdefault.jpg"
     }
   ]
 }

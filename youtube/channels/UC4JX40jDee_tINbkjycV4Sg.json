@@ -1,80 +1,80 @@
 {
-  "fetched_at": "2026-03-22T00:39:49.326734",
+  "fetched_at": "2026-03-29T00:43:48.357562",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 9,
   "videos": [
     {
-      "title": "How to Become an AI Engineer Fast",
-      "video_id": "Zk9LxO_dB64",
+      "title": "Famous Computer Science Algorithms - Full Course",
+      "video_id": "fKcfaAPyPUQ",
       "channel_title": "Tech With Tim",
-      "description": "DataCamp AI Engineer Learning Track - https://datacamp.pxf.io/en1M7j DataCamp AI Engineer Certification Program ...",
-      "published_at": "2026-03-20T14:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Zk9LxO_dB64/hqdefault.jpg"
+      "description": "Welcome to this course on famous computer science algorithms. In this video, I'll explain six key types of algorithms that you need ...",
+      "published_at": "2026-03-28T14:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fKcfaAPyPUQ/hqdefault.jpg"
     },
     {
-      "title": "The truth about coding with Chat GPT.",
-      "video_id": "VWz38pCjhuU",
+      "title": "This is WHY you need a mentor.",
+      "video_id": "nFD7etd3fgw",
       "channel_title": "Tech With Tim",
       "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-03-19T16:26:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VWz38pCjhuU/hqdefault.jpg"
+      "published_at": "2026-03-28T11:40:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nFD7etd3fgw/hqdefault.jpg"
     },
     {
-      "title": "The Fastest Way to Pivot Into AI in 2026 (From Beginner to Job-Ready)",
-      "video_id": "trj6JxD8AqI",
-      "channel_title": "Tech With Tim",
-      "description": "Start you tech career today with Simplilearn: https://bit.ly/AgenticAI-Program-SL Everyone keeps saying just pivot into AI like it's ...",
-      "published_at": "2026-03-19T13:01:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/trj6JxD8AqI/hqdefault.jpg"
-    },
-    {
-      "title": "Watch this before applying for jobs as a developer.",
-      "video_id": "JG3WZmpn0PM",
+      "title": "You need to hear this!",
+      "video_id": "rsSQNPxmu5A",
       "channel_title": "Tech With Tim",
       "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-03-19T00:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JG3WZmpn0PM/hqdefault.jpg"
+      "published_at": "2026-03-27T17:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rsSQNPxmu5A/hqdefault.jpg"
     },
     {
-      "title": "Improve your chances of getting hired by doing this!",
-      "video_id": "Lg7rRezC53A",
+      "title": "What Happens When You Ask 5 AIs the Same Question? (The Results Are Wild)",
+      "video_id": "2mSCfK8TgkM",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with BrightData for free: https://brdta.com/techwithtim_llm I asked five different AI models the same question: what are ...",
+      "published_at": "2026-03-26T14:11:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2mSCfK8TgkM/hqdefault.jpg"
+    },
+    {
+      "title": "This is why you&#39;re not getting a JOB...",
+      "video_id": "DPWTHmq7pgQ",
       "channel_title": "Tech With Tim",
       "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-03-18T19:30:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Lg7rRezC53A/hqdefault.jpg"
+      "published_at": "2026-03-26T08:25:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DPWTHmq7pgQ/hqdefault.jpg"
     },
     {
-      "title": "The Postgres Performance Trap Every Developer Falls Into",
-      "video_id": "BharE_Kc9sQ",
+      "title": "Are you making this mistake with code?",
+      "video_id": "SK6-hMIiiDY",
       "channel_title": "Tech With Tim",
-      "description": "Sign Up for TigerData for free: https://tsdb.co/twt-TigerData So your Postgres database is getting slower. Your queries used to take ...",
-      "published_at": "2026-03-17T12:30:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BharE_Kc9sQ/hqdefault.jpg"
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "published_at": "2026-03-26T00:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SK6-hMIiiDY/hqdefault.jpg"
     },
     {
-      "title": "The only video you need to watch if you want to become a software engineer!",
-      "video_id": "Haa4Tw6MWUk",
+      "title": "NEVER write code like this.",
+      "video_id": "khI_PKJh_eM",
       "channel_title": "Tech With Tim",
-      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and ...",
-      "published_at": "2025-09-12T16:04:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Haa4Tw6MWUk/hqdefault.jpg"
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "published_at": "2026-03-25T19:32:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/khI_PKJh_eM/hqdefault.jpg"
     },
     {
-      "title": "Backend Software Engineer roadmap",
-      "video_id": "FlsrKv_xIyg",
+      "title": "How NOT to Become an AI Engineer",
+      "video_id": "nvc7xi6vZWw",
       "channel_title": "Tech With Tim",
-      "description": "My Software Development Program: ...",
-      "published_at": "2025-03-24T21:17:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FlsrKv_xIyg/hqdefault.jpg"
+      "description": "DataCamp AI Engineer Learning Track - https://datacamp.pxf.io/oN43d9 DataCamp AI Engineer Certification Program ...",
+      "published_at": "2026-03-25T12:54:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nvc7xi6vZWw/hqdefault.jpg"
     },
     {
-      "title": "Cracking the code to land a job at Google👀",
-      "video_id": "sxSVJAfuiPU",
+      "title": "AI Made Coding Worse...",
+      "video_id": "91utXFqgSok",
       "channel_title": "Tech With Tim",
-      "description": "",
-      "published_at": "2024-11-16T21:46:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sxSVJAfuiPU/hqdefault.jpg"
+      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
+      "published_at": "2026-03-23T15:48:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/91utXFqgSok/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-03-22T00:40:27.824451",
+  "fetched_at": "2026-03-29T00:44:26.372227",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Your AI Agent Has a Memory Problem",
+      "video_id": "7zFqo1_Pr_4",
+      "channel_title": "DeepLearningAI",
+      "description": "Most AI agents start from zero every single session. DeepLearning.AI's new course with Oracle, \"Agent Memory: Building ...",
+      "published_at": "2026-03-25T22:19:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7zFqo1_Pr_4/hqdefault.jpg"
+    },
+    {
+      "title": "TensorFlow Developer Professional Certificate",
+      "video_id": "lzKmZzmy29Y",
+      "channel_title": "DeepLearningAI",
+      "description": "Get started now: https://learn.deeplearning.ai/specializations/tensorflow-developer-professional-certificate The TensorFlow ...",
+      "published_at": "2026-03-23T22:01:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lzKmZzmy29Y/hqdefault.jpg"
+    },
+    {
+      "title": "Natural Language Processing Specialization by DeepLearning.AI",
+      "video_id": "QRTtS3zElmE",
+      "channel_title": "DeepLearningAI",
+      "description": "Get started now: https://learn.deeplearning.ai/specializations/natural-language-processing Natural language processing is a ...",
+      "published_at": "2026-03-23T21:59:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QRTtS3zElmE/hqdefault.jpg"
+    },
+    {
+      "title": "AI for Everyone by Andrew Ng",
+      "video_id": "JPcx9qHzzgk",
+      "channel_title": "DeepLearningAI",
+      "description": "Get started: https://learn.deeplearning.ai/courses/ai-for-everyone AI is not only for engineers. “AI for Everyone”, a non-technical ...",
+      "published_at": "2026-03-23T21:55:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JPcx9qHzzgk/hqdefault.jpg"
+    },
     {
       "title": "Meet the Oracle team at AI Dev 26 x San Francisco! #ai #deeplearning",
       "video_id": "-zx4SAmcDdM",
@@ -51,38 +83,6 @@
       "description": "Learn more: https://bit.ly/4rce49q Introducing Build and Train an LLM with JAX, a short course built in partnership with Google and ...",
       "published_at": "2026-03-04T14:34:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0JqHCxn_A-U/hqdefault.jpg"
-    },
-    {
-      "title": "What should you learn next? #AI #deeplearning",
-      "video_id": "MY8YRsMzGKw",
-      "channel_title": "DeepLearningAI",
-      "description": "It's obvious that we should all learn more about AI, but how do you know what to focus on? To answer this question, ...",
-      "published_at": "2026-03-03T19:37:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MY8YRsMzGKw/hqdefault.jpg"
-    },
-    {
-      "title": "This Mindset Wins in the AI Era",
-      "video_id": "1s3nm1TjyXM",
-      "channel_title": "DeepLearningAI",
-      "description": "AI isn't your competition. It's your leverage, if you know how to use it. The workers falling behind aren't losing to AI. They're losing ...",
-      "published_at": "2026-03-03T01:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1s3nm1TjyXM/hqdefault.jpg"
-    },
-    {
-      "title": "Is AI Really Coming For Your Job? (Not What You Think)",
-      "video_id": "azrYpsMoMf8",
-      "channel_title": "DeepLearningAI",
-      "description": "A doctor still makes the call. A teacher still runs the room. A therapist still holds the space. But behind all of them? AI is quietly ...",
-      "published_at": "2026-03-02T01:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/azrYpsMoMf8/hqdefault.jpg"
-    },
-    {
-      "title": "You Use AI Every Day… Without Knowing It",
-      "video_id": "_Z3SC2ebJBA",
-      "channel_title": "DeepLearningAI",
-      "description": "Your phone unlocked with your face. Your inbox filtered itself. Your work commute route was chosen for you. You've been using AI ...",
-      "published_at": "2026-03-01T01:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_Z3SC2ebJBA/hqdefault.jpg"
     }
   ]
 }

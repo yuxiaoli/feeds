@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-22T00:40:19.251998",
+  "fetched_at": "2026-03-29T00:44:17.779420",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "The Language of Probability",
+      "video_id": "SYyXzHSo_I0",
+      "channel_title": "Socratica",
+      "description": "SIGN UP for tastefully infrequent updates about our upcoming Probability & Statistics course.",
+      "published_at": "2026-03-25T10:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SYyXzHSo_I0/hqdefault.jpg"
+    },
     {
       "title": "SciPy - A Scientific Extension of NumPy | Python",
       "video_id": "wuIrxCrXIyc",
@@ -75,14 +83,6 @@
       "description": "STOCK OPTIONS COURSE: Our first finance course is NOW LIVE! Aspiring quants should use this link to enroll: ...",
       "published_at": "2025-10-23T11:01:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/veS8qhTDBxA/hqdefault.jpg"
-    },
-    {
-      "title": "Implied Volatility &amp; Volatility Surfaces 📉 Quantitative Finance",
-      "video_id": "F_qh827iXFQ",
-      "channel_title": "Socratica",
-      "description": "STOCK OPTIONS COURSE: Our first finance course is NOW LIVE! Aspiring quants should use this link to enroll: ...",
-      "published_at": "2025-09-30T10:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F_qh827iXFQ/hqdefault.jpg"
     }
   ]
 }

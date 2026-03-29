@@ -1,88 +1,64 @@
 {
-  "fetched_at": "2026-03-22T00:39:51.373948",
+  "fetched_at": "2026-03-29T00:43:50.496736",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 10,
+  "count": 7,
   "videos": [
     {
-      "title": "Perplexity just announced an AI personal computer",
-      "video_id": "gaDKGrStr3E",
+      "title": "Open Source Friday with Unity-MCP",
+      "video_id": "Ng5ltWrSG0M",
       "channel_title": "GitHub",
-      "description": "Have you heard about the new Perplexity personal computer? They are taking a standard Mac mini and integrating their AI ...",
-      "published_at": "2026-03-21T14:00:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gaDKGrStr3E/hqdefault.jpg"
+      "description": "AI inside Unity is getting real, and MCP is a big part of what makes it practical. In this Open Source Friday, we're joined by Andy ...",
+      "published_at": "2026-03-28T05:53:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ng5ltWrSG0M/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Mastra",
-      "video_id": "Heb4z4j-8bE",
+      "title": "Automate your repo with GitHub agentic workflows",
+      "video_id": "XH8oKA-ZYbU",
       "channel_title": "GitHub",
-      "description": "This week on Open Source Friday, we're talking with Abhi Aiyer, CTO at Mastra, about building AI applications with TypeScript.",
-      "published_at": "2026-03-21T06:28:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Heb4z4j-8bE/hqdefault.jpg"
+      "description": "Have you tried GitHub agentic workflows yet? This new feature allows you to author intent-driven repository workflows using plain ...",
+      "published_at": "2026-03-27T15:31:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XH8oKA-ZYbU/hqdefault.jpg"
     },
     {
-      "title": "The Download: MCP funeral, Perplexity computer, and Doom on a badge",
-      "video_id": "da8cSPcO7Lw",
+      "title": "Rubber Duck Thursdays! | Come hack, cowork, and chat!",
+      "video_id": "UWSRShwE4Eo",
       "channel_title": "GitHub",
-      "description": "This week on The Download, GPS dives into the social media debate over whether MCP is dead and why FastMCP is hosting a ...",
-      "published_at": "2026-03-20T18:57:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/da8cSPcO7Lw/hqdefault.jpg"
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ See the VS Code theme we built: https://marketplace.visualstudio.com/items?",
+      "published_at": "2026-03-27T07:43:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UWSRShwE4Eo/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursday!",
-      "video_id": "jFaHrHnGmtI",
+      "title": "Jueves de Quack con Nerdearla",
+      "video_id": "StWXcesvGj4",
       "channel_title": "GitHub",
-      "description": "Come hang and hack with us!",
-      "published_at": "2026-03-20T07:13:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jFaHrHnGmtI/hqdefault.jpg"
+      "description": "Este Jueves de Quack tengo un invitado muy especial: Ariel Jolo de Sysarmy, uno de los organizadores de Nerdearla. Vamos a ...",
+      "published_at": "2026-03-27T03:03:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/StWXcesvGj4/hqdefault.jpg"
     },
     {
-      "title": "Jueves de Quack",
-      "video_id": "rtGs98ihne8",
+      "title": "Rubber Duck Thursdays!",
+      "video_id": "zN4vLMQqo1c",
       "channel_title": "GitHub",
-      "description": "Jueves de Quack en modo coworking. Vamos a trabajar en nuestras cosas y de paso hablar de las mejores herramientas ...",
-      "published_at": "2026-03-20T03:55:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rtGs98ihne8/hqdefault.jpg"
+      "description": "Let's hang, and talk about GitHub Copilot.",
+      "published_at": "2026-03-26T23:46:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zN4vLMQqo1c/hqdefault.jpg"
     },
     {
-      "title": "Jueves de Quack con Gis Torres",
-      "video_id": "VMPap6uuErU",
+      "title": "What is MCP and how does it work with AI?",
+      "video_id": "lFQz1hugvHo",
       "channel_title": "GitHub",
-      "description": "Este Jueves de Quack no va del futuro… Va de lo que ya está pasando. Coding agents como: Copilot · Claude · Codex ...",
-      "published_at": "2026-03-20T00:51:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VMPap6uuErU/hqdefault_live.jpg"
+      "description": "Curious about how AI agents interact with the outside world? In this highlight from GitHub Universe 2025, we break down the ...",
+      "published_at": "2026-03-25T19:06:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lFQz1hugvHo/hqdefault.jpg"
     },
     {
-      "title": "Eliminate tech debt with the GitHub Copilot coding agent",
-      "video_id": "fiq-pNjOb3U",
+      "title": "A beginner&#39;s guide to Copilot CLI slash commands",
+      "video_id": "-Yavis20B4Q",
       "channel_title": "GitHub",
-      "description": "Stop letting tech debt slow down your engineering team. The GitHub Copilot coding agent is always available to take on the ...",
-      "published_at": "2026-03-19T17:37:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fiq-pNjOb3U/hqdefault.jpg"
-    },
-    {
-      "title": "How to query your Copilot CLI session history | Advanced tips &amp; tricks",
-      "video_id": "XHTc6XF0gdk",
-      "channel_title": "GitHub",
-      "description": "Evan Boyle from the GitHub Copilot CLI team shares advanced tips to level up your terminal workflow. Learn how to query your ...",
-      "published_at": "2026-03-18T15:01:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XHTc6XF0gdk/hqdefault.jpg"
-    },
-    {
-      "title": "How to get a multi-agent code review in Copilot CLI",
-      "video_id": "qRXztN1hi1M",
-      "channel_title": "GitHub",
-      "description": "Evan Boyle from the Copilot CLI team shares an advanced tip to improve your code quality before you even open a pull request.",
-      "published_at": "2026-03-17T15:01:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qRXztN1hi1M/hqdefault.jpg"
-    },
-    {
-      "title": "How to use GitHub Actions | GitHub for Beginners",
-      "video_id": "BQrohJ3PT7I",
-      "channel_title": "GitHub",
-      "description": "Welcome back to GitHub for Beginners! In this episode, Kedasha and Glenda teach you everything you need to know to get ...",
-      "published_at": "2026-03-16T15:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BQrohJ3PT7I/hqdefault.jpg"
+      "description": "Welcome to episode 3 of the GitHub Copilot CLI for beginners series! In this video, we explore how to use slash commands to ...",
+      "published_at": "2026-03-23T15:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-Yavis20B4Q/hqdefault.jpg"
     }
   ]
 }

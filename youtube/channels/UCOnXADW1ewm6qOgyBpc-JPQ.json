@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-22T00:40:14.203681",
+  "fetched_at": "2026-03-29T00:44:12.754930",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "Throwing around my bodyweight #calisthenics #gymmotivation",
+      "video_id": "r5rix0AxC4I",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2026-03-22T14:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r5rix0AxC4I/hqdefault.jpg"
+    },
     {
       "title": "balancing the earth with one arm #calisthenics #gymmotivation",
       "video_id": "oSbhJLUGSu0",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-10-05T15:01:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fmxR1UhXAQ8/hqdefault.jpg"
-    },
-    {
-      "title": "Pulling up faster than I can fall #calisthenics",
-      "video_id": "6MEkghFpWJM",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-09-28T15:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6MEkghFpWJM/hqdefault.jpg"
     }
   ]
 }

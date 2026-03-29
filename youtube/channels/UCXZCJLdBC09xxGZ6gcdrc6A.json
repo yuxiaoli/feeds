@@ -1,9 +1,89 @@
 {
-  "fetched_at": "2026-03-22T00:40:22.130519",
+  "fetched_at": "2026-03-29T00:44:20.605617",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 25,
   "videos": [
+    {
+      "title": "Find the perfect gift by shopping with ChatGPT",
+      "video_id": "th8u0bqYsQk",
+      "channel_title": "OpenAI",
+      "description": "ChatGPT can help you find the perfect gift based on your budget, preferences, and constraints—and surface products that fit.",
+      "published_at": "2026-03-27T20:55:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/th8u0bqYsQk/hqdefault.jpg"
+    },
+    {
+      "title": "Design your dream room by shopping with ChatGPT",
+      "video_id": "jM1oSEXssOE",
+      "channel_title": "OpenAI",
+      "description": "Upload your design inspiration to ChatGPT and find inspiration for similar items. Make shopping easier than ever with our visually ...",
+      "published_at": "2026-03-27T17:27:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jM1oSEXssOE/hqdefault.jpg"
+    },
+    {
+      "title": "Shopping in ChatGPT just got a whole lot more helpful",
+      "video_id": "7IB1KBVm7HE",
+      "channel_title": "OpenAI",
+      "description": "",
+      "published_at": "2026-03-27T17:12:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7IB1KBVm7HE/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT Shopping | Research and compare products without all the tabs.",
+      "video_id": "fFboNpWweyE",
+      "channel_title": "OpenAI",
+      "description": "",
+      "published_at": "2026-03-26T20:31:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fFboNpWweyE/hqdefault.jpg"
+    },
+    {
+      "title": "What Codex Unlocks for Ryan Hendler, dev at me&amp;u",
+      "video_id": "yUjfp2DlfCA",
+      "channel_title": "OpenAI",
+      "description": "With Codex, Ryan Hendler, a developer at me&u in Melbourne Australia, ships while he sleeps and does work that wasn't ...",
+      "published_at": "2026-03-26T17:18:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yUjfp2DlfCA/hqdefault.jpg"
+    },
+    {
+      "title": "What Codex Unlocks for Ryan Hendler, dev at me&amp;u",
+      "video_id": "4_P7R8Fjrg8",
+      "channel_title": "OpenAI",
+      "description": "With Codex, Ryan Hendler, a developer at me&u in Melbourne Australia, ships while he sleeps and does work that wasn't ...",
+      "published_at": "2026-03-26T17:07:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4_P7R8Fjrg8/hqdefault.jpg"
+    },
+    {
+      "title": "Episode 15 - Inside the Model Spec",
+      "video_id": "H8GMRxG8suw",
+      "channel_title": "OpenAI",
+      "description": "The more AI can do, the more we need to ask what it should and shouldn't do. In this episode, OpenAI researcher Jason Wolfe ...",
+      "published_at": "2026-03-25T16:55:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H8GMRxG8suw/hqdefault.jpg"
+    },
+    {
+      "title": "What Codex Unlocks for Notion",
+      "video_id": "qHEUIXGSxxg",
+      "channel_title": "OpenAI",
+      "description": "Hey Ryan Nystrom (Notion), what has Codex unlocked for you? “The fact that I can build this feature solo while still supporting my ...",
+      "published_at": "2026-03-24T17:21:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qHEUIXGSxxg/hqdefault.jpg"
+    },
+    {
+      "title": "What Codex Unlocks for Notion",
+      "video_id": "bxJkxBUFeEE",
+      "channel_title": "OpenAI",
+      "description": "Hey Ryan Nystrom @ Notion, what has Codex unlocked for you? “The fact that I can build this feature solo while still supporting ...",
+      "published_at": "2026-03-24T17:01:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bxJkxBUFeEE/hqdefault.jpg"
+    },
+    {
+      "title": "An updated shopping experience in ChatGPT",
+      "video_id": "qF4QRh2u7FE",
+      "channel_title": "OpenAI",
+      "description": "Shopping in ChatGPT just got an upgrade. Now, you can browse products visually, compare options side-by-side, and get ...",
+      "published_at": "2026-03-24T16:16:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qF4QRh2u7FE/hqdefault.jpg"
+    },
     {
       "title": "From your kitchen to customers | with ChatGPT",
       "video_id": "ApOVfOGWTJU",
@@ -123,86 +203,6 @@
       "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
       "published_at": "2026-02-24T17:55:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mR8Lz3Bc1rA/hqdefault.jpg"
-    },
-    {
-      "title": "Builders Unscripted: Ep. 1 - Peter Steinberger, Creator of OpenClaw",
-      "video_id": "9jgcT0Fqt7U",
-      "channel_title": "OpenAI",
-      "description": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things.",
-      "published_at": "2026-02-24T17:03:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9jgcT0Fqt7U/hqdefault.jpg"
-    },
-    {
-      "title": "The Codex app enables massively parallel work",
-      "video_id": "GWBHH4LXwOY",
-      "channel_title": "OpenAI",
-      "description": "\"The Codex app lets you go further, do more in parallel, and go deeper on the problems you care about.\" -gdb.",
-      "published_at": "2026-02-19T17:26:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GWBHH4LXwOY/hqdefault.jpg"
-    },
-    {
-      "title": "Build Hour: Prompt Caching",
-      "video_id": "tECAkJAI_Vk",
-      "channel_title": "OpenAI",
-      "description": "Build faster, cheaper, and with lower latency using prompt caching. This Build Hour breaks down how prompt caching works and ...",
-      "published_at": "2026-02-18T21:25:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tECAkJAI_Vk/hqdefault.jpg"
-    },
-    {
-      "title": "Start It With ChatGPT",
-      "video_id": "B2GMI0UgN_U",
-      "channel_title": "OpenAI",
-      "description": "Make that idea happen, no matter how wild it seems, with ChatGPT : The Letter Live at The Fillmore by Joe Cocker.",
-      "published_at": "2026-02-13T23:43:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B2GMI0UgN_U/hqdefault.jpg"
-    },
-    {
-      "title": "Fix With ChatGPT",
-      "video_id": "PHKpsVIdAcc",
-      "channel_title": "OpenAI",
-      "description": "Sharpen your skills and hit the road with ChatGPT. : Brain by The Action.",
-      "published_at": "2026-02-13T23:43:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PHKpsVIdAcc/hqdefault.jpg"
-    },
-    {
-      "title": "Codex checks its work for you",
-      "video_id": "dHCNpcNyoFM",
-      "channel_title": "OpenAI",
-      "description": "Javi walks through a logging refactor and shows why Codex's self-verification is a step change: the model runs the app, finds the ...",
-      "published_at": "2026-02-11T19:08:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dHCNpcNyoFM/hqdefault.jpg"
-    },
-    {
-      "title": "How PMs use the Codex app",
-      "video_id": "6OiE0jIY93c",
-      "channel_title": "OpenAI",
-      "description": "Alexander Embiricos (a Product Manager on the Codex team) shows how he uses Codex skills to make a small product change, ...",
-      "published_at": "2026-02-09T21:48:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6OiE0jIY93c/hqdefault.jpg"
-    },
-    {
-      "title": "Episode 13 - The Thinking Behind Ads in ChatGPT",
-      "video_id": "2agJo3Jf_O4",
-      "channel_title": "OpenAI",
-      "description": "How should advertising work in an AI product? Asad Awan, one of the ad leads at OpenAI, walks through how the company is ...",
-      "published_at": "2026-02-09T19:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2agJo3Jf_O4/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI Super Bowl 2026 | Codex | You Can Just Build Things",
-      "video_id": "aCN9iCXNJqQ",
-      "channel_title": "OpenAI",
-      "description": "We build the tools. You build the future. Start building with Codex. https://openai.com/codex/",
-      "published_at": "2026-02-09T00:03:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aCN9iCXNJqQ/hqdefault.jpg"
-    },
-    {
-      "title": "Multitasking with the Codex app",
-      "video_id": "9ohXlkbXiM4",
-      "channel_title": "OpenAI",
-      "description": "Joey demonstrates multitasking with Codex worktrees: delegate a drag-and-drop feature in one worktree while continuing local ...",
-      "published_at": "2026-02-06T23:08:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9ohXlkbXiM4/hqdefault.jpg"
     }
   ]
 }

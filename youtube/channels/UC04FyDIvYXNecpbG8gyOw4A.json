@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-22T00:39:42.684075",
+  "fetched_at": "2026-03-29T00:43:42.056121",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Vibe of The Week: @sugarinspired",
+      "video_id": "z199LqbpfTQ",
+      "channel_title": "Meta",
+      "description": "check out Erin's wild cake creations on @sugarinspired and see how she brings them to life with @AIatMeta.",
+      "published_at": "2026-03-27T13:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z199LqbpfTQ/hqdefault.jpg"
+    },
     {
       "title": "Green Screen Fakeout",
       "video_id": "_yKYHJ64zRM",
@@ -75,14 +83,6 @@
       "description": "What do you think we should name him? Dennis? He looks like a Dennis. Prompt the Meta AI app to create your own furry (or ...",
       "published_at": "2026-03-03T16:00:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/b21WLHG1rH8/hqdefault.jpg"
-    },
-    {
-      "title": "Boz &amp; Barstool Sports at Meta House",
-      "video_id": "b0aWXH8UdjE",
-      "channel_title": "Meta",
-      "description": "Pardon My Take's PFT Commenter and Hank Lockwood (and Max) stopped by Meta House to talk ball with Boz. From Sam ...",
-      "published_at": "2026-02-26T17:43:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b0aWXH8UdjE/hqdefault.jpg"
     }
   ]
 }

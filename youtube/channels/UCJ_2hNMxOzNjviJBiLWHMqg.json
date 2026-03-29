@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-22T00:40:04.376408",
+  "fetched_at": "2026-03-29T00:44:03.164023",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Can Humans REALLY Leave Earth? [Interstellar Spaceship]",
+      "video_id": "BBb2gC0lByk",
+      "channel_title": "DamiLee",
+      "description": "If you want to know more about the @HP ZBook Ultra G1a Powered by an @AMD Ryzen™ AI MAX Pro 300 Series Processor, ...",
+      "published_at": "2026-03-28T15:30:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BBb2gC0lByk/hqdefault.jpg"
+    },
+    {
+      "title": "Planet-Wide Waste System",
+      "video_id": "DWNDp3F9VQc",
+      "channel_title": "DamiLee",
+      "description": "On Coruscant, a trillion tons of garbage per hour isn't just a problem - it's an engineered system. With over 5000 massive garbage ...",
+      "published_at": "2026-03-23T15:31:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DWNDp3F9VQc/hqdefault.jpg"
+    },
     {
       "title": "The Shawda Supply Chain",
       "video_id": "8WTMQ6fjpkw",
@@ -67,22 +83,6 @@
       "description": "Ready to build a site that looks hand-coded—without hiring a developer? Launch your site for free at Framer and use the code ...",
       "published_at": "2026-01-29T16:45:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/h5kWDOuY2Uo/hqdefault.jpg"
-    },
-    {
-      "title": "So... Bilbo was kinda Bougie",
-      "video_id": "0NhbzgHltpE",
-      "channel_title": "DamiLee",
-      "description": "Bag End isn't just a hobbit hole, it's a country estate disguised as simplicity. From handcrafted woodwork to its impractical but ...",
-      "published_at": "2026-01-21T16:30:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0NhbzgHltpE/hqdefault.jpg"
-    },
-    {
-      "title": "The Emotional Power of a Good Hole",
-      "video_id": "XsjWZuAJg7I",
-      "channel_title": "DamiLee",
-      "description": "Hobbit holes feel comforting because they align with how the human brain seeks safety, warmth, and refuge. Circular forms, earth ...",
-      "published_at": "2026-01-18T16:30:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XsjWZuAJg7I/hqdefault.jpg"
     }
   ]
 }

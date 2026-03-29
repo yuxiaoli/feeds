@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-22T00:40:07.864511",
+  "fetched_at": "2026-03-29T00:44:06.596068",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "机器人开源革命：“免费大脑”背后的四派力量与博弈【机器人系列】",
+      "video_id": "kjqOsLdvSFg",
+      "channel_title": "硅谷101",
+      "description": "谷歌、英伟达、宇树、蚂蚁、小米…为什么科技巨头们争相把机器人“大脑”免费开放给全世界？开源究竟是做慈善，还是精心设计的 ...",
+      "published_at": "2026-03-27T01:19:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kjqOsLdvSFg/hqdefault.jpg"
+    },
+    {
+      "title": "深度解析2026 GTC：英伟达万亿订单背后的AI大爆发、Token经济学与失衡供应链",
+      "video_id": "B3wJuvYjLu0",
+      "channel_title": "硅谷101",
+      "description": "1万亿美元，这是接下来21个月，英伟达GPU订单的收入预期。今年的英伟达GTC大会，黄仁勋的叙事彻底变了。他不再像往年一样 ...",
+      "published_at": "2026-03-24T13:02:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B3wJuvYjLu0/hqdefault.jpg"
+    },
     {
       "title": "英伟达GTC上，迪士尼“复活了”雪宝机器人【101 Shorts】",
       "video_id": "HjopX519nXg",
@@ -67,22 +83,6 @@
       "description": "1100亿美元融资、7300亿估值，OpenAI再次刷新私募融资记录。但无论是新入场的亚马逊，还是继续押注的英伟达或软银，都选择 ...",
       "published_at": "2026-03-03T02:41:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WCOotC3Es2Y/hqdefault.jpg"
-    },
-    {
-      "title": "“AI末日论”：华尔街的恐慌会成真吗？",
-      "video_id": "ePUZouf_3vQ",
-      "channel_title": "硅谷101",
-      "description": "2月末，一份来自财经机构Citrini Research的报告《2028全球智能危机》引发了美股恐慌性抛售。之后，华尔街正就“AI末日论”激烈 ...",
-      "published_at": "2026-02-28T07:50:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ePUZouf_3vQ/hqdefault.jpg"
-    },
-    {
-      "title": "AI免疫股：华尔街疯抢的“免死金牌”？",
-      "video_id": "8XbNlEBCUMo",
-      "channel_title": "硅谷101",
-      "description": "华尔街正被“AI焦虑症”席卷，曾经风光的软件巨头暴跌，而麦当劳、拖拉机巨头迪尔等传统企业，却因“重资产、低淘汰风险”的特性， ...",
-      "published_at": "2026-02-26T16:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8XbNlEBCUMo/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-03-22T00:40:41.379329",
+  "fetched_at": "2026-03-29T00:44:39.710747",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "Healthy fruit… or glucose spike?",
+      "video_id": "bkDB3YMr_A4",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-03-27T14:19:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bkDB3YMr_A4/hqdefault.jpg"
+    },
+    {
+      "title": "Don’t Make This Pregnancy Mistake",
+      "video_id": "NuNc5g9mQTU",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-03-25T15:21:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NuNc5g9mQTU/hqdefault.jpg"
+    },
+    {
+      "title": "You’re Underestimating Vinegar",
+      "video_id": "2xyPSiyEdzQ",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-03-22T17:52:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2xyPSiyEdzQ/hqdefault.jpg"
+    },
     {
       "title": "90% of pregnant women miss THIS",
       "video_id": "PYDL4eQcIzA",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-03-06T17:42:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9IHN0KiGLd4/hqdefault.jpg"
-    },
-    {
-      "title": "The Ozempic Hidden Problem",
-      "video_id": "NmZ9r_IyAqA",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-03-05T19:42:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NmZ9r_IyAqA/hqdefault.jpg"
-    },
-    {
-      "title": "Trick your brain and train harder!",
-      "video_id": "nc6lw0UanfM",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-03-03T19:35:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nc6lw0UanfM/hqdefault.jpg"
-    },
-    {
-      "title": "Modern fruits is not natural",
-      "video_id": "XxEJU12FXBU",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-02-27T16:08:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XxEJU12FXBU/hqdefault.jpg"
     }
   ]
 }

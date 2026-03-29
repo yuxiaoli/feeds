@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-03-22T00:39:57.760860",
+  "fetched_at": "2026-03-29T00:43:56.837639",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
     {
-      "title": "Summer of 2016 vibes with @Portugal.TheMan",
-      "video_id": "j85b9lFliLU",
+      "title": "Phoenix with @Portugal.TheMan out now",
+      "video_id": "h04Db2TroF0",
       "channel_title": "Marshmello",
       "description": "",
-      "published_at": "2026-03-21T17:40:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j85b9lFliLU/hqdefault.jpg"
+      "published_at": "2026-03-27T16:42:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h04Db2TroF0/hqdefault.jpg"
+    },
+    {
+      "title": "Marshmello x Portugal. The Man - Phoenix (Official Visualizer)",
+      "video_id": "i2DLoCbOhyc",
+      "channel_title": "Marshmello",
+      "description": "Stream/download Phoenix with @Portugal.TheMan: https://marshmello.ffm.to/phoenix Official Marshmello Merch ...",
+      "published_at": "2026-03-27T04:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i2DLoCbOhyc/hqdefault.jpg"
+    },
+    {
+      "title": "We tried to get rid of this song but it rose from the ashes. Phoenix w @Portugal.TheMan this Friday.",
+      "video_id": "6p1TWlO-Ecs",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-03-23T17:25:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6p1TWlO-Ecs/hqdefault.jpg"
     },
     {
       "title": "Thank you, Mexico ❤️",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-01-15T21:24:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dFoDaFS_FoE/hqdefault.jpg"
-    },
-    {
-      "title": "Marshmello, INJI - Kissin My Friends (Official Audio)",
-      "video_id": "oO2N2kak064",
-      "channel_title": "Marshmello",
-      "description": "Marshmello, INJI - Kissin My Friends (Official Audio) Stream/Download: https://ffm.to/kissinmyfriends Official Marshmello Merch ...",
-      "published_at": "2025-12-05T05:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oO2N2kak064/hqdefault.jpg"
-    },
-    {
-      "title": "First Mello b2b @MartinGarrix",
-      "video_id": "zSpu0oQMklI",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2025-10-24T16:03:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zSpu0oQMklI/hqdefault.jpg"
     }
   ]
 }

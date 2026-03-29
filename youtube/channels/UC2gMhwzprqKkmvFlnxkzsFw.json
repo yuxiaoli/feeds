@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-22T00:39:46.320910",
+  "fetched_at": "2026-03-29T00:43:45.530917",
   "channel_id": "UC2gMhwzprqKkmvFlnxkzsFw",
   "channel_title": "Cool Free",
   "count": 10,
   "videos": [
+    {
+      "title": "old footage power plant",
+      "video_id": "mGnRIBpkhjg",
+      "channel_title": "Cool Free",
+      "description": "Thank you for watching! Please Subscribe My Channel and Don't Forget Click The (BELL) Icon To Get Notification For The ...",
+      "published_at": "2017-11-30T07:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mGnRIBpkhjg/hqdefault.jpg"
+    },
     {
       "title": "people walking in nyc",
       "video_id": "hNxUJpdxJ0U",
@@ -75,14 +83,6 @@
       "description": "Thank you for watching! Please Subscribe My Channel and Don't Forget Click The (BELL) Icon To Get Notification For The ...",
       "published_at": "2017-11-30T04:30:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HEwCGy7khto/hqdefault.jpg"
-    },
-    {
-      "title": "rotating wet white roses",
-      "video_id": "Sgp8Xhj3aUM",
-      "channel_title": "Cool Free",
-      "description": "Thank you for watching! Please Subscribe My Channel and Don't Forget Click The (BELL) Icon To Get Notification For The ...",
-      "published_at": "2017-11-30T04:30:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Sgp8Xhj3aUM/hqdefault.jpg"
     }
   ]
 }

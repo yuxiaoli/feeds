@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-22T00:39:47.112469",
+  "fetched_at": "2026-03-29T00:43:46.189464",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "如何做一个生产级SKILL? 用MiniMax-M2.7给龙虾写SKILL的保姆教程",
+      "video_id": "gtL8VgvPQZs",
+      "channel_title": "Karminski-牙医",
+      "description": "有好多同学不知道如何写SKILL, 以及写了SKILL运行总是不稳定, 这次教大家使用MiniMax-M2.7 给龙虾(openclaw)写一个\"生产级\" ...",
+      "published_at": "2026-03-27T23:06:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gtL8VgvPQZs/hqdefault.jpg"
+    },
     {
       "title": "龙虾专用大模型? GLM-5-Turbo 实测!",
       "video_id": "wjjK5UHa3ww",
@@ -75,14 +83,6 @@
       "description": "距离Qwen3-Max-ThinkingPreview 版发布已经过去3个月了, 正式版终于来了! 这次提升有多大? 给大家直接上测试结果! 编程能力 ...",
       "published_at": "2026-01-29T01:48:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CEg_RJb5COI/hqdefault.jpg"
-    },
-    {
-      "title": "不写prompt改看视频了! Kimi-K2.5 实测!",
-      "video_id": "rO_GNksjnDw",
-      "channel_title": "Karminski-牙医",
-      "description": "月之暗面发布了新模型Kimi-K2.5, 最大的更新是它终于成为统一模型了, 不仅支持文本和图片, 还支持视频输入! 给大家带 ...",
-      "published_at": "2026-01-27T16:13:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rO_GNksjnDw/hqdefault.jpg"
     }
   ]
 }

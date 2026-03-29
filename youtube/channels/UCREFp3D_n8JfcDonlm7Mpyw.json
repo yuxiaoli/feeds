@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-03-22T00:40:16.328530",
+  "fetched_at": "2026-03-29T00:44:14.932779",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
-  "count": 25,
+  "count": 10,
   "videos": [
+    {
+      "title": "You’re not just building coding skills with our challenges, you’re building confidence too! 💪",
+      "video_id": "3m-Ece2hO8g",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-03-27T14:33:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3m-Ece2hO8g/hqdefault.jpg"
+    },
+    {
+      "title": "I use all that muscle to type my code! 💪",
+      "video_id": "ju6lCMBIryA",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-03-25T14:02:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ju6lCMBIryA/hqdefault.jpg"
+    },
+    {
+      "title": "If you’re a visual learner, you’re going to love Code Visualizer!",
+      "video_id": "cuSjnP6dQ24",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-03-24T12:50:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cuSjnP6dQ24/hqdefault.jpg"
+    },
     {
       "title": "Build real-world projects in Playground as you learn to code and sharpen your skills!",
       "video_id": "cM0wELLHeSk",
@@ -59,150 +83,6 @@
       "description": "",
       "published_at": "2026-03-10T15:35:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HoJ7i6SQ9uU/hqdefault.jpg"
-    },
-    {
-      "title": "Many start with Python and JavaScript  because they are widely used programming languages.",
-      "video_id": "LJxI4ji0HU0",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-03-06T15:36:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LJxI4ji0HU0/hqdefault.jpg"
-    },
-    {
-      "title": "4 March 2026",
-      "video_id": "ac3LAMpHPdY",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-03-04T15:40:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ac3LAMpHPdY/hqdefault.jpg"
-    },
-    {
-      "title": "The best way to learn coding is by building projects!",
-      "video_id": "eyb8w_aN7Hs",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-03-03T15:12:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eyb8w_aN7Hs/hqdefault.jpg"
-    },
-    {
-      "title": "Join our monthly online challenges!",
-      "video_id": "z5Ckq_fhJk0",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-02-28T03:52:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z5Ckq_fhJk0/hqdefault.jpg"
-    },
-    {
-      "title": "50+ Python Projects for Beginners | Wall of Inspiration",
-      "video_id": "J2cthi6oDok",
-      "channel_title": "Programiz",
-      "description": "Remember your first “Hello, World!”? It felt like magic. But after the basics variables, loops, functions — the real question is: what ...",
-      "published_at": "2025-09-05T10:15:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J2cthi6oDok/hqdefault.jpg"
-    },
-    {
-      "title": "Episode 1: Coding in a post-genAI world | Programiz After Hours",
-      "video_id": "foiV6ttYTLo",
-      "channel_title": "Programiz",
-      "description": "Will AI replace coding? At Programiz, we believe the answer isn't that simple. That's why we built Code Visualizer — a visual-first ...",
-      "published_at": "2025-08-28T10:15:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/foiV6ttYTLo/hqdefault.jpg"
-    },
-    {
-      "title": "Learn to think like a Developer | Programiz Projects",
-      "video_id": "9PXg2xNrmMg",
-      "channel_title": "Programiz",
-      "description": "Introducing Programiz Projects: guided, hands-on coding projects to help you break free from tutorial hell. Build real games like ...",
-      "published_at": "2025-08-14T10:15:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9PXg2xNrmMg/hqdefault.jpg"
-    },
-    {
-      "title": "Guided Projects: Learn by Building, Not Just Watching",
-      "video_id": "aASIg5KIROg",
-      "channel_title": "Programiz",
-      "description": "Most tutorials teach you what to code, but not how to think like a developer. That's where Guided Projects come in. We help you ...",
-      "published_at": "2025-07-28T03:15:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aASIg5KIROg/hqdefault.jpg"
-    },
-    {
-      "title": "Wish You Had This When You First Learned to Code?",
-      "video_id": "F9WJySgwCXM",
-      "channel_title": "Programiz",
-      "description": "Sana used to map out code on her whiteboard. Now she uses the Code Visualizer from Programiz PRO. See what your code does ...",
-      "published_at": "2025-07-24T08:37:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F9WJySgwCXM/hqdefault.jpg"
-    },
-    {
-      "title": "Can AI really help you code better?",
-      "video_id": "qWYk1RjUKc4",
-      "channel_title": "Programiz",
-      "description": "AI can help you write code fast. But making it work? That's where things get tricky. Abhishek has been experimenting with how AI ...",
-      "published_at": "2025-07-15T11:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qWYk1RjUKc4/hqdefault.jpg"
-    },
-    {
-      "title": "Why Your Code “Works” But You Still Don’t Get It",
-      "video_id": "rxVTlNACr0c",
-      "channel_title": "Programiz",
-      "description": "You pressed run. It worked. But did you understand what actually happened? Watch your code execute line by line. See variables ...",
-      "published_at": "2025-07-10T10:15:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rxVTlNACr0c/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Code Visualizer: Learn to Code with Visuals",
-      "video_id": "c6nr9T7aoP0",
-      "channel_title": "Programiz",
-      "description": "Ever written code that should work... but doesn't? With Code Visualizer, you can watch your code run line by line and see exactly ...",
-      "published_at": "2025-06-26T12:15:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c6nr9T7aoP0/hqdefault.jpg"
-    },
-    {
-      "title": "Why use Ask Programiz instead of AI? #shorts",
-      "video_id": "PBm5d07HY_k",
-      "channel_title": "Programiz",
-      "description": "Stuck on a concept while learning to code? You're not alone — and you don't have to figure it out alone either. With Ask ...",
-      "published_at": "2025-06-12T12:15:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PBm5d07HY_k/hqdefault.jpg"
-    },
-    {
-      "title": "Tired of Errors? Start Coding in Seconds! #shorts",
-      "video_id": "2GfhUs1g3kI",
-      "channel_title": "Programiz",
-      "description": "Struggling to get started with coding? Let's fix that! You've probably been there — you're ready to learn to code, open your laptop, ...",
-      "published_at": "2025-05-22T11:15:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2GfhUs1g3kI/hqdefault.jpg"
-    },
-    {
-      "title": "Stuck in Tutorial Hell? (Do this instead) #shorts",
-      "video_id": "rczNFVfIcbs",
-      "channel_title": "Programiz",
-      "description": "\"I watched hours of coding tutorials and still felt lost.\" If that sounds familiar, you're not alone. Most courses teach you to watch, not ...",
-      "published_at": "2025-05-07T12:15:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rczNFVfIcbs/hqdefault.jpg"
-    },
-    {
-      "title": "&quot;I passed my C++ exam with Programiz PRO.” -  Landon | Learner story",
-      "video_id": "cwp0JmX8HoA",
-      "channel_title": "Programiz",
-      "description": "I was lucky to come across Programiz PRO because it instantly changed my experience of learning to code. Programiz PRO has ...",
-      "published_at": "2025-04-30T11:15:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cwp0JmX8HoA/hqdefault.jpg"
-    },
-    {
-      "title": "Is learning to code worth it in 2025? #shorts",
-      "video_id": "WTfn7dIddt8",
-      "channel_title": "Programiz",
-      "description": "Is learning to code still worth it in 2025? Without a doubt. Learning coding is not just about programming; it's about becoming a ...",
-      "published_at": "2025-04-21T12:15:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WTfn7dIddt8/hqdefault.jpg"
-    },
-    {
-      "title": "How to Hide Passwords &amp; Credit Card Numbers (with Python) #shorts",
-      "video_id": "WLQVdpbVJJs",
-      "channel_title": "Programiz",
-      "description": "Ever wondered how websites hide your passwords and credit card numbers with asterisks (****)? In just 3 lines of Python, you'll ...",
-      "published_at": "2025-02-14T10:24:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WLQVdpbVJJs/hqdefault.jpg"
     }
   ]
 }

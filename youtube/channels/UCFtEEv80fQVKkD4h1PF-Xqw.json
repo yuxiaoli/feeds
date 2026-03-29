@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-03-22T00:40:01.403665",
+  "fetched_at": "2026-03-29T00:44:00.420033",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "Cement made with seaweed? | Discovered at Microsoft Ep. 2",
-      "video_id": "7a96_Wtl9xw",
+      "title": "Answer ALS speeds progress toward treatments and cures through Microsoft Azure",
+      "video_id": "cKV4KSIhhbI",
       "channel_title": "Microsoft",
-      "description": "Researchers at the University of Washington and Microsoft developed a low‑carbon cement by mixing dried, powdered seaweed ...",
-      "published_at": "2026-03-05T17:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7a96_Wtl9xw/hqdefault.jpg"
+      "description": "Answer ALS and ALS Therapy Development Institute both work to improve the quality of life for people living with the ...",
+      "published_at": "2026-03-26T15:59:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cKV4KSIhhbI/hqdefault.jpg"
     },
     {
       "title": "Investing in an AI-Driven World | His Excellency Khaldoon Al Mubarak",
@@ -69,20 +69,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7xhg_PCUJIo/hqdefault.jpg"
     },
     {
-      "title": "Protecting Colombia’s endangered wildlife with Project SPARROW",
-      "video_id": "8XgoIths87Y",
-      "channel_title": "Microsoft",
-      "description": "Deforestation and human activity are threatening Colombia's Middle Magdalena Valley, an endangered wildlife and ecosystem in ...",
-      "published_at": "2025-12-19T17:31:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8XgoIths87Y/hqdefault.jpg"
-    },
-    {
       "title": "Swiggy: using Microsoft Fabric Real-Time Intelligence to deliver millions of orders daily",
       "video_id": "z32sE3194wg",
       "channel_title": "Microsoft",
       "description": "Swiggy is one of India's leading on-demand convenience platforms. Powered by Microsoft Fabric Real-Time Intelligence, Swiggy ...",
       "published_at": "2025-12-12T04:54:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/z32sE3194wg/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft celebrates Indigenous History Month",
+      "video_id": "4To8jdOv1wU",
+      "channel_title": "Microsoft",
+      "description": "Indigenous heritage is a source of strength and vision. The Code of Us honors Indigenous employees whose stories and ...",
+      "published_at": "2025-11-04T16:59:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4To8jdOv1wU/hqdefault.jpg"
     }
   ]
 }

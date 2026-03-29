@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-03-22T00:40:02.124155",
+  "fetched_at": "2026-03-29T00:44:01.108205",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "【人工智能】AI时代“人的尺度” | Ivan Zhao访谈 | 700个Agent协同 | 文明的新材料 | 判断力与品位 | SaaS成功转型 | 人类价值会让渡给技术效率吗",
-      "video_id": "JqFUbl-OVzc",
+      "title": "AI时代工程师的底牌是什么 | Michael Bolin | 前Meta E9 | 底层架构重构 | Meta Buck | 晋升教训 | Codex的诞生 | 工程师的核心价值",
+      "video_id": "w_XtnRX4mO0",
       "channel_title": "最佳拍档",
-      "description": "当AI 可以接管99% 的执行流程，人类剩下的1% 价值究竟是什么？本期视频带你走进Notion 创始人Ivan Zhao 的深度思考。从2015 ...",
-      "published_at": "2026-03-21T23:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JqFUbl-OVzc/hqdefault.jpg"
+      "description": "从GitHub Copilot到Claude Code，AI写代码的速度和效率越来越高，这让很多身处行业内的工程师感到焦虑，甚至有刚入行的年轻 ...",
+      "published_at": "2026-03-28T23:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w_XtnRX4mO0/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】持续自我提升式AI | 斯坦福杨紫童博士答辩 | 合成引导预训练SBP | 实体图数据生成 | 模型自举 | 算法演化 | 跨文档相关性 | 自动化AI研究员 | 下代GPT架构探索",
-      "video_id": "aKG7_3bkrvg",
+      "title": "为什么说Vibe Coding是反人类的 | Kaggle大佬Jeremy Howard | 三阶段架构 | 微调 | 控制的幻觉 | 心智模型 | 代码黑盒 | AI的终极风险",
+      "video_id": "JqYmFYZ03A8",
       "channel_title": "最佳拍档",
-      "description": "当人类数据被耗尽，AI的进化是否会停滞？斯坦福博士杨紫童的这场“神仙阵容”答辩给出了令人震撼的答案。本期视频带你拆解《持续 ...",
-      "published_at": "2026-03-21T09:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aKG7_3bkrvg/hqdefault.jpg"
+      "description": "从2025年安德烈·卡帕西提出Vibe Coding这个概念，到现在不过一年时间，整个科技圈似乎都陷入了一种狂热。当所有人都在为这种 ...",
+      "published_at": "2026-03-28T09:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JqYmFYZ03A8/hqdefault.jpg"
     },
     {
-      "title": "雷军又出雷人言论，车对车碰撞，60+60=120",
-      "video_id": "izLikg5T_AQ",
+      "title": "颐和园白松鼠",
+      "video_id": "QjkLT7s2dGI",
       "channel_title": "最佳拍档",
       "description": "",
-      "published_at": "2026-03-21T05:16:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/izLikg5T_AQ/hqdefault.jpg"
+      "published_at": "2026-03-28T04:53:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QjkLT7s2dGI/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】AI时代什么不贬值 | 埃里克霍维茨 | 微软内部报告 | 深度伪造防攻 | C2PA标准 | 职场规划建议 | 癌症攻克预测 | 智能Agent经济 | 人机协作边界 | 长期投资逻辑",
-      "video_id": "m9j3pGsXM2Q",
+      "title": "AI和脑科学正在大合流 | Max Hodak | 脑机接口 | Prima | 重获视觉 | 大脑可塑性 | Vessel | ECMO | 神经表征 | 2035年迷雾墙",
+      "video_id": "qLCE6ceZA-g",
       "channel_title": "最佳拍档",
-      "description": "如果把AI比作第二次文艺复兴，我们正身处哪一个历史坐标？本期视频带你拆解微软首席科学官霍维茨长达40年的思考结晶。从微软 ...",
-      "published_at": "2026-03-20T23:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m9j3pGsXM2Q/hqdefault.jpg"
+      "description": "如今，脑机接口发展到了哪一步呢？Neuralink的联合创始人麦克斯·霍达克应该最清楚的人之一了，由他创办的Science Corporation ...",
+      "published_at": "2026-03-27T23:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qLCE6ceZA-g/hqdefault.jpg"
     },
     {
-      "title": "【精选必看】AI五大底层范式 | 哥白尼式认知革命 | 权重冻结与即时学习 | 无限注意力技术 | 社会性智能 | 心智理论测试 | 谷歌研究实验室 | AI未来终极判断 | 人类地位危机 | AGI",
-      "video_id": "IRhhzGAcEjo",
+      "title": "TurboQuant为何造成全球内存市场大跌 | FOMO情绪下的又一次乌龙 | 谷歌研究院 | KV Cache降低6倍 | 向量量化压缩 | 仅推理阶段 | 美光财报",
+      "video_id": "IqWXCtDj_FA",
       "channel_title": "最佳拍档",
-      "description": "如果AI 不仅仅是一个好用的工具，而是一场颠覆人类两千年宇宙观的“日心说”革命，你会感到恐惧还是兴奋？本期视频直击谷歌AI ...",
-      "published_at": "2026-03-20T09:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IRhhzGAcEjo/hqdefault.jpg"
+      "description": "2026年3月25日，全球内存芯片巨头的股价集体重挫，而这一切的导火索，竟然是谷歌研究院发布的一篇关于全新压缩算法的博客。",
+      "published_at": "2026-03-27T09:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IqWXCtDj_FA/hqdefault.jpg"
     },
     {
-      "title": "20260320直播，聊聊身边大厂朋友的一些真实AI使用情况",
-      "video_id": "jeG8_kC3pFA",
+      "title": "数学正在经历分工变革 | 陶哲轩 &amp; Mark Chen | AI的进步 | 局限性 | 埃尔德什问题 | 形式化验证 | 全新的理论框架 | AI不是神谕机",
+      "video_id": "48lLiHkBfNg",
       "channel_title": "最佳拍档",
-      "description": "",
-      "published_at": "2026-03-20T04:19:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jeG8_kC3pFA/hqdefault.jpg"
+      "description": "https://youtu.be/ddTvK9nlquM?si=UaMo3r8YHRcz84iZ.",
+      "published_at": "2026-03-26T23:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/48lLiHkBfNg/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】你调用的是真的API吗 | 影子API审计 | CISPA研究报告 | GPT Gemini接口造假 | 模型替换 | 学术论文中招 | 数据安全 | 经济欺骗 | LLMmap",
-      "video_id": "zyRKFw0EO3M",
+      "title": "暴雪游戏Blizzard为何从伟大走向平庸 | Jeff Kaplan | 职业起点 | 无尽的任务 | 魔兽世界 | Team Two | Titan项目失败 | 守望先锋 | 加州传说",
+      "video_id": "lwaFjcFuhZA",
       "channel_title": "最佳拍档",
-      "description": "你以为在用GPT-4，其实背后是百元级别的开源小模型？本期视频带你拆解一份震惊AI圈的审计报告，直击影子API低价背后的惊人 ...",
-      "published_at": "2026-03-19T23:01:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zyRKFw0EO3M/hqdefault.jpg"
+      "description": "https://youtu.be/H9rF1CSSh-w?si=2JDSHsQhhRn7nVCG.",
+      "published_at": "2026-03-26T09:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lwaFjcFuhZA/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】UBI真的能实现么  | Andrew Yang | 全民基本收入 | AI失业潮 | Moonshots播客 | 马斯克UHI | 社会契约正在崩塌 | AGI失业潮",
-      "video_id": "J3ozcmiIp8A",
+      "title": "Sora再见 | OpenAI关停服务 | 兴衰历程 | 危机涌现 | 版权之争 | Disney | 企业级市场竞争 | Grok | 技术走向商业落地",
+      "video_id": "PnwOldwLuVM",
       "channel_title": "最佳拍档",
-      "description": "如果明天你就被AI Agent替代，谁来支付你的下一份工资？当马斯克在描绘全民高收入的丰饶乌托邦时，安德烈·杨却指出了一个脊背 ...",
-      "published_at": "2026-03-19T09:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J3ozcmiIp8A/hqdefault.jpg"
+      "description": "https://x.com/soraofficialapp/status/2036546752535470382.",
+      "published_at": "2026-03-26T04:12:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PnwOldwLuVM/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】英伟达GTC 2026 | 黄仁勋1万亿预言 | Vera Rubin发布 | Token工厂时代 | OpenClaw登场 | Agent时代 | 机器人 | 自动驾驶",
-      "video_id": "BGaepdtpJTY",
+      "title": "软件工程行业迈向多Agent时代 | Steve Yegg | 苦涩的教训 | 不可逆转的洪流 | 吸血鬼效应 | 拥抱变化",
+      "video_id": "qvjVQJHrQ-M",
       "channel_title": "最佳拍档",
-      "description": "2026年，英伟达再次震撼世界！黄仁勋在GTC现场直言，到2027年，全球算力需求将飙升至1万亿美元。这不仅是一场硬件发布会， ...",
-      "published_at": "2026-03-18T23:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BGaepdtpJTY/hqdefault.jpg"
+      "description": "https://youtu.be/aFsAOu2bgFk?si=uYoeQCaleMUyY23L.",
+      "published_at": "2026-03-25T23:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qvjVQJHrQ-M/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】AI开启算法自我演化 | AlphaEvolve | 多智能体强化学习 | 自主进化算法 | VAD CFR | SHOR PSRO | 反直觉机制 | 超越人类 | MARL突破",
-      "video_id": "Ua7DZv0qGHQ",
+      "title": "SaaS的生死逻辑 | Atlassian CEO Mike | SaaS末日 | 为“无能”买单 | 比较优势理论 | 人机信任",
+      "video_id": "7x8vu0EGxMY",
       "channel_title": "最佳拍档",
-      "description": "如果AI开始自己改进自己的底层算法，人类的直觉还够用吗？DeepMind最近发布的一篇论文直接推开了AGI时代的大门，他们开发 ...",
-      "published_at": "2026-03-18T10:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ua7DZv0qGHQ/hqdefault.jpg"
+      "description": "https://youtu.be/0lzo2tFBFy8?si=CoUGAisY_krMDNIi.",
+      "published_at": "2026-03-25T09:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7x8vu0EGxMY/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-22T00:40:44.977428",
+  "fetched_at": "2026-03-29T00:44:43.167125",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Truly happens to the best of us 😭🌌",
+      "video_id": "Xy7A8lX7xSo",
+      "channel_title": "Star Walk",
+      "description": "For some reason, the best astronomy events always seem to happen when you're exhausted… or when the sky decides to be ...",
+      "published_at": "2026-03-23T10:29:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xy7A8lX7xSo/hqdefault.jpg"
+    },
     {
       "title": "Tonight is the equinox! 🌸🍂",
       "video_id": "uJ-lSATZ8AY",
@@ -75,14 +83,6 @@
       "description": "On Feb 28, 2026, a “six-planet alignment” will be happening — but here's what you can realistically see. Most people will easily ...",
       "published_at": "2026-02-26T10:33:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eCe_UQzzZlE/hqdefault.jpg"
-    },
-    {
-      "title": "✨ Feb 19, 2026: Mercury at its best!",
-      "video_id": "MaTESFyJ0JA",
-      "channel_title": "Star Walk",
-      "description": "On Feb 19 at 16:59 GMT, Mercury (mag -0.4) reaches greatest eastern elongation — 18°07′ east of the Sun — making it one of ...",
-      "published_at": "2026-02-19T10:59:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MaTESFyJ0JA/hqdefault.jpg"
     }
   ]
 }

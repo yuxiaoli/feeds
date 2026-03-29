@@ -1,24 +1,40 @@
 {
-  "fetched_at": "2026-03-22T00:40:08.544207",
+  "fetched_at": "2026-03-29T00:44:07.310820",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Personal VPNs: Encryption Myths and Data Security Explained",
-      "video_id": "2fCTrjmDqyg",
+      "title": "AI agent adoption: From scientists to CFOs",
+      "video_id": "OMpD6x5FSfs",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
-      "published_at": "2026-03-21T11:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2fCTrjmDqyg/hqdefault.jpg"
+      "description": "Unlock new value with trusted, autonomous AI, talk with your rep for attendance options Think 2026 – May 4-7 in Boston ...",
+      "published_at": "2026-03-27T10:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OMpD6x5FSfs/hqdefault.jpg"
     },
     {
-      "title": "NVIDIA NemoClaw, OpenAI’s pivot and Shopify agents",
-      "video_id": "Ce_p69dV1jw",
+      "title": "How to Pass Context in an Agentic AI Flow",
+      "video_id": "UC4vDpSJCkM",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/Bdpf3D NVIDIA announces NemoClaw. This week ...",
-      "published_at": "2026-03-20T10:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ce_p69dV1jw/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-03-26T11:00:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UC4vDpSJCkM/hqdefault.jpg"
+    },
+    {
+      "title": "AI Models as a Service: Powering Agentic AI, Privacy, &amp; RAG",
+      "video_id": "81FbpXpfxTc",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-03-24T11:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/81FbpXpfxTc/hqdefault.jpg"
+    },
+    {
+      "title": "Top 10 Security Risks in AI Agents Explained",
+      "video_id": "soFWS8NBcSU",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-03-23T11:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/soFWS8NBcSU/hqdefault.jpg"
     },
     {
       "title": "How Linear Algebra Powers Machine Learning (ML)",
@@ -27,22 +43,6 @@
       "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
       "published_at": "2026-03-19T11:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-KKxtHwxKhE/hqdefault.jpg"
-    },
-    {
-      "title": "What is Human In The Loop with AI? How HITL Shapes AI Systems",
-      "video_id": "9iS-YYLIXiw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-03-17T11:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9iS-YYLIXiw/hqdefault.jpg"
-    },
-    {
-      "title": "What Is Llama.cpp? The LLM Inference Engine for Local AI",
-      "video_id": "P8m5eHAyrFM",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-03-16T11:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/P8m5eHAyrFM/hqdefault.jpg"
     },
     {
       "title": "Why AI Agents Need A Human in the Loop Now",
