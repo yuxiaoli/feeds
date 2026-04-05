@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-29T00:43:42.056121",
+  "fetched_at": "2026-04-05T00:43:44.812523",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "20 Second AI Tip: FOA Tools",
+      "video_id": "AWtGqOkDIHA",
+      "channel_title": "Meta",
+      "description": "there are so many ways @meta.ai has improved our apps, it's almost too much to fit in one reel (sorry, Ray)",
+      "published_at": "2026-03-31T12:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AWtGqOkDIHA/hqdefault.jpg"
+    },
     {
       "title": "Vibe of The Week: @sugarinspired",
       "video_id": "z199LqbpfTQ",
@@ -75,14 +83,6 @@
       "description": "hey, learn something new every day with Meta AI.",
       "published_at": "2026-03-05T16:00:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PY67m3ACumw/hqdefault.jpg"
-    },
-    {
-      "title": "Meet Dennis",
-      "video_id": "b21WLHG1rH8",
-      "channel_title": "Meta",
-      "description": "What do you think we should name him? Dennis? He looks like a Dennis. Prompt the Meta AI app to create your own furry (or ...",
-      "published_at": "2026-03-03T16:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b21WLHG1rH8/hqdefault.jpg"
     }
   ]
 }

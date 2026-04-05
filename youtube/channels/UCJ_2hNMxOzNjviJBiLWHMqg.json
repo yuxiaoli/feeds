@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-29T00:44:03.164023",
+  "fetched_at": "2026-04-05T00:44:06.854330",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Architecture of Darkness",
+      "video_id": "tHNeu_DIOac",
+      "channel_title": "DamiLee",
+      "description": "Moria's colonnades repeat like a hypnotic rhythm, pulling deeper into the mountain where the rock is the structure. Unlike Art Deco ...",
+      "published_at": "2026-03-30T22:31:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tHNeu_DIOac/hqdefault.jpg"
+    },
+    {
+      "title": "Your Whole AI Studio, No Wi-Fi Needed",
+      "video_id": "SB3dQC1Ol1o",
+      "channel_title": "DamiLee",
+      "description": "ad Creative workflows are evolving as local AI and portable workstations make research, writing, and design possible anywhere.",
+      "published_at": "2026-03-29T15:30:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SB3dQC1Ol1o/hqdefault.jpg"
+    },
     {
       "title": "Can Humans REALLY Leave Earth? [Interstellar Spaceship]",
       "video_id": "BBb2gC0lByk",
@@ -67,22 +83,6 @@
       "description": "In a planet-wide city, daily life depends on human walking distance, not just megastructures. Architect Constantinos Doxiadis ...",
       "published_at": "2026-02-14T16:30:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/w1ULX-krPU0/hqdefault.jpg"
-    },
-    {
-      "title": "Where would you choose to live on Coruscant?",
-      "video_id": "nIs61b2t920",
-      "channel_title": "DamiLee",
-      "description": "Coruscant is a planet-wide city with 1–2 trillion people living across thousands of vertical layers, where every square kilometer is ...",
-      "published_at": "2026-02-11T16:30:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nIs61b2t920/hqdefault.jpg"
-    },
-    {
-      "title": "This New Pyramid Theory Explains the Missing Evidence",
-      "video_id": "h5kWDOuY2Uo",
-      "channel_title": "DamiLee",
-      "description": "Ready to build a site that looks hand-coded—without hiring a developer? Launch your site for free at Framer and use the code ...",
-      "published_at": "2026-01-29T16:45:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h5kWDOuY2Uo/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-29T00:44:06.596068",
+  "fetched_at": "2026-04-05T00:44:10.323902",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "开源模型王座之争，Reflection AI能成为美国DeepSeek吗？",
+      "video_id": "0YmQC3szhI8",
+      "channel_title": "硅谷101",
+      "description": "从5亿到200亿美元，一年估值翻37倍，Reflection AI凭什么？Meta开源模型失去榜首后，硅谷急需一个新的开源模型标杆，这家由两 ...",
+      "published_at": "2026-04-03T03:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0YmQC3szhI8/hqdefault.jpg"
+    },
+    {
+      "title": "聊聊崛起的千亿美元AI保险生意",
+      "video_id": "cd8azgYNtKg",
+      "channel_title": "硅谷101",
+      "description": "AI Agent开始替人类打电话、签合同、下订单，但如果它出错了，损失谁来赔？有人把这个问题，做成了一门可能价值5000亿美元的 ...",
+      "published_at": "2026-03-31T03:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cd8azgYNtKg/hqdefault.jpg"
+    },
     {
       "title": "机器人开源革命：“免费大脑”背后的四派力量与博弈【机器人系列】",
       "video_id": "kjqOsLdvSFg",
@@ -67,22 +83,6 @@
       "description": "2026年，全球顶尖AI实验室和科技巨头们都在押注研发一个新算法路径：世界模型。随着大语言模型（LLM）的Scaling Law面临 ...",
       "published_at": "2026-03-06T06:39:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SYuSZIIYOfI/hqdefault.jpg"
-    },
-    {
-      "title": "AI进攻型裁员：白领阶层的“卢德时刻”",
-      "video_id": "HvKpMVwKQs0",
-      "channel_title": "硅谷101",
-      "description": "200年前，纺织工打碎机器抵抗工业革命；2026年，白领阶层正面临着AI的“卢德时刻”降临。推特创始人Jack Dorsey对旗下Block ...",
-      "published_at": "2026-03-04T04:29:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HvKpMVwKQs0/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI千亿融资背后的阴影与焦虑",
-      "video_id": "WCOotC3Es2Y",
-      "channel_title": "硅谷101",
-      "description": "1100亿美元融资、7300亿估值，OpenAI再次刷新私募融资记录。但无论是新入场的亚马逊，还是继续押注的英伟达或软银，都选择 ...",
-      "published_at": "2026-03-03T02:41:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WCOotC3Es2Y/hqdefault.jpg"
     }
   ]
 }

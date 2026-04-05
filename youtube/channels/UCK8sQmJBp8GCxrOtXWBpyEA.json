@@ -1,40 +1,56 @@
 {
-  "fetched_at": "2026-03-29T00:44:04.571122",
+  "fetched_at": "2026-04-05T00:44:08.240096",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 4,
+  "count": 6,
   "videos": [
     {
-      "title": "Gemini Instant Replay | New Fit",
-      "video_id": "euiGMQURy0U",
+      "title": "What is Vibe Coding?",
+      "video_id": "tYhgWRJeYzs",
       "channel_title": "Google",
-      "description": "Try anything on with unlimited free image uploads in Google Gemini. Snap a pic, add screenshots of clothes, and ask to see how ...",
-      "published_at": "2026-03-27T13:26:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/euiGMQURy0U/hqdefault.jpg"
+      "description": "We're diving into vibe coding, where natural language and creativity combine with the power of AI to turn ideas into tangible tools.",
+      "published_at": "2026-04-02T21:25:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tYhgWRJeYzs/hqdefault.jpg"
     },
     {
-      "title": "How to Vibe Code a Website in 10 Minutes",
+      "title": "A Behind the Scenes Tour of a NASA Complex",
+      "video_id": "BodGtkvX3FY",
+      "channel_title": "Google",
+      "description": "Have a look behind-the-scenes of our visit to @NASA. We got all your top-searched Artemis II questions answered, and we swear ...",
+      "published_at": "2026-04-02T16:56:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BodGtkvX3FY/hqdefault.jpg"
+    },
+    {
+      "title": "3, 2, 1… Artemis II is ready for liftoff #GoogleDoodle",
+      "video_id": "P8cfYd7XsU4",
+      "channel_title": "Google",
+      "description": "Today's #GoogleDoodle celebrates the launch of Artemis II, the NASA mission that will send astronauts around the moon and ...",
+      "published_at": "2026-04-01T21:59:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/P8cfYd7XsU4/hqdefault.jpg"
+    },
+    {
+      "title": "Is the moon just the beginning? NASA answers all your top searched Artemis II questions.",
+      "video_id": "U-HnWcXvLVI",
+      "channel_title": "Google",
+      "description": "We teamed up with @NASA to give you a behind-the-scenes look at their test facilities, and get all your top Artemis II questions ...",
+      "published_at": "2026-03-31T21:01:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U-HnWcXvLVI/hqdefault.jpg"
+    },
+    {
+      "title": "Change your Google Account username in a few simple steps",
+      "video_id": "bF3RqqV4xzI",
+      "channel_title": "Google",
+      "description": "You asked, we delivered. If you're a U.S. Google user, you can now change your account username to log in to tools like Gmail, ...",
+      "published_at": "2026-03-31T16:25:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bF3RqqV4xzI/hqdefault.jpg"
+    },
+    {
+      "title": "How to Vibe Code a Website",
       "video_id": "xCkIxdJZ8fU",
       "channel_title": "Google",
       "description": "Learn how to build a professional website in 10 minutes using Google AI Studio. From mood boards to a live site, see how easy ...",
       "published_at": "2026-03-26T18:39:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xCkIxdJZ8fU/hqdefault.jpg"
-    },
-    {
-      "title": "Search Live is global 🌍 Talk to Search with voice and video in your language",
-      "video_id": "lr6Cw5uc5Bw",
-      "channel_title": "Google",
-      "description": "Search Live is global! Now in 200+ countries and territories, you can use voice & video to talk with Search in your preferred ...",
-      "published_at": "2026-03-26T16:07:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lr6Cw5uc5Bw/hqdefault.jpg"
-    },
-    {
-      "title": "Visualizing World Models with Project Genie | Vibe Coding with Gemini",
-      "video_id": "0DRDJ01COqo",
-      "channel_title": "Google",
-      "description": "How do you visualize the concept of a world model? Coders Kaloyan Kolev and Arden Schager share how they used Google AI ...",
-      "published_at": "2026-03-25T16:01:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0DRDJ01COqo/hqdefault.jpg"
     }
   ]
 }

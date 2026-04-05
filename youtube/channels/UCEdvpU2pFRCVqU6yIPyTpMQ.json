@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-29T00:43:56.837639",
+  "fetched_at": "2026-04-05T00:44:00.222287",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "Where We Go with @thomasrhettmusic",
+      "video_id": "pBABvmxMdzE",
+      "channel_title": "Marshmello",
+      "description": "https://marshmello.ffm.to/wherewego.",
+      "published_at": "2026-04-02T19:28:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pBABvmxMdzE/hqdefault.jpg"
+    },
     {
       "title": "Phoenix with @Portugal.TheMan out now",
       "video_id": "h04Db2TroF0",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-01-18T22:46:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/i5adPgDiPj0/hqdefault.jpg"
-    },
-    {
-      "title": "It’s 2016 and the mannequin challenge is peak internet",
-      "video_id": "dFoDaFS_FoE",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2026-01-15T21:24:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dFoDaFS_FoE/hqdefault.jpg"
     }
   ]
 }

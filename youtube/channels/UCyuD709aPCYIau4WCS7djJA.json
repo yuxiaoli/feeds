@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-29T00:44:43.167125",
+  "fetched_at": "2026-04-05T00:44:48.046200",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Two missions. Two eras. Same destination.",
+      "video_id": "bzAbrzEf9Yc",
+      "channel_title": "Star Walk",
+      "description": "As Artemis 2 heads toward the Moon, let's rewind to the last time humans went beyond low Earth orbit — the legendary Apollo 17 ...",
+      "published_at": "2026-04-03T14:02:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bzAbrzEf9Yc/hqdefault.jpg"
+    },
+    {
+      "title": "The Solar System is far stranger than most pictures make it seem 🌞🪐",
+      "video_id": "jMfIyM1nGfQ",
+      "channel_title": "Star Walk",
+      "description": "Most images don't show the true relative sizes of the planets or their true relative distances from one another. If you show the Solar ...",
+      "published_at": "2026-04-02T10:18:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jMfIyM1nGfQ/hqdefault.jpg"
+    },
     {
       "title": "Truly happens to the best of us 😭🌌",
       "video_id": "Xy7A8lX7xSo",
@@ -67,22 +83,6 @@
       "description": "What did you get? Tell us in the comments! #Hubble #HubbleTelescope #NASA #Space #Astronomy #Universe #Cosmos ...",
       "published_at": "2026-03-07T23:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8fRwt3PFdLM/hqdefault.jpg"
-    },
-    {
-      "title": "Turn your sound on. You’re about to hear Uranus.",
-      "video_id": "ml5LuSzeaeo",
-      "channel_title": "Star Walk",
-      "description": "NASA took real astronomical data and turned it into audio, so yes — Uranus now has a soundtrack. (It's called “sonification”, btw.)",
-      "published_at": "2026-03-02T07:43:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ml5LuSzeaeo/hqdefault.jpg"
-    },
-    {
-      "title": "Feb 28, 2026: Six Planets… But Here’s the Reality 🪐",
-      "video_id": "eCe_UQzzZlE",
-      "channel_title": "Star Walk",
-      "description": "On Feb 28, 2026, a “six-planet alignment” will be happening — but here's what you can realistically see. Most people will easily ...",
-      "published_at": "2026-02-26T10:33:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eCe_UQzzZlE/hqdefault.jpg"
     }
   ]
 }

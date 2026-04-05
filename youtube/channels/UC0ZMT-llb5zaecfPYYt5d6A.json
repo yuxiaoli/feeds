@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-29T00:43:42.792693",
+  "fetched_at": "2026-04-05T00:43:45.579254",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "Love is just a game… #countrymusic #concert #newmusic #thecastellows #livemusic",
+      "video_id": "DHff8xJ45WY",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2026-03-31T18:51:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DHff8xJ45WY/hqdefault.jpg"
+    },
+    {
+      "title": "this is gonna be the old way one day #countrymusic #thecastellows #sisters #singersongwriter",
+      "video_id": "15AGCGCoXoQ",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2026-03-29T23:28:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/15AGCGCoXoQ/hqdefault.jpg"
+    },
     {
       "title": "Australia you have our hearts forever🇦🇺 #thecastellows #cmcrocks2026 #countrymusic #newmusic",
       "video_id": "eoFvlLgAqlg",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-02-20T16:00:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PLU-TIWVgmc/hqdefault.jpg"
-    },
-    {
-      "title": "How are y’all liking Love Is A Game? 🩵  #newmusic #countrymusic #thecastellows #singersongwriter",
-      "video_id": "yz1tIZXTbo0",
-      "channel_title": "The Castellows",
-      "description": "",
-      "published_at": "2026-02-20T06:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yz1tIZXTbo0/hqdefault.jpg"
-    },
-    {
-      "title": "The Castellows - Love Is A Game (Official Music Video)",
-      "video_id": "F89tKUJPWvc",
-      "channel_title": "The Castellows",
-      "description": "The Castellows - Love Is A Game (Official Music Video) Listen to the EP Playlist: ...",
-      "published_at": "2026-02-13T16:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F89tKUJPWvc/hqdefault.jpg"
     }
   ]
 }

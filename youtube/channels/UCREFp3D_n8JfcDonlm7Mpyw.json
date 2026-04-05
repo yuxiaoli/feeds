@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-03-29T00:44:14.932779",
+  "fetched_at": "2026-04-05T00:44:18.967708",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Don’t let anyone tell you otherwise!",
+      "video_id": "MFmM0rvA1Kk",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-04-03T14:47:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MFmM0rvA1Kk/hqdefault.jpg"
+    },
+    {
+      "title": "Why does my back hurt? 😞",
+      "video_id": "GI_81Srhdr8",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-04-02T16:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GI_81Srhdr8/hqdefault.jpg"
+    },
+    {
+      "title": "Happy building guys! 💗 Btw, I had that egg for breakfast.",
+      "video_id": "lEylDi8kpvY",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-04-01T18:12:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lEylDi8kpvY/hqdefault.jpg"
+    },
+    {
+      "title": "Not every productive day looks like hustle😌",
+      "video_id": "BAto69NzZYo",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-03-30T14:53:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BAto69NzZYo/hqdefault.jpg"
+    },
     {
       "title": "You’re not just building coding skills with our challenges, you’re building confidence too! 💪",
       "video_id": "3m-Ece2hO8g",
@@ -51,38 +83,6 @@
       "description": "",
       "published_at": "2026-03-17T13:25:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nYEl7PB96dg/hqdefault.jpg"
-    },
-    {
-      "title": "These are all guided projects that you can build in your own!",
-      "video_id": "8OC1tuhG7Fw",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-03-16T12:56:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8OC1tuhG7Fw/hqdefault.jpg"
-    },
-    {
-      "title": "In Programiz PRO, you can learn DSA visually and watch how the code changes line by line😎",
-      "video_id": "MU6sudsjr2Y",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-03-13T15:20:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MU6sudsjr2Y/hqdefault.jpg"
-    },
-    {
-      "title": "We built sensAI so you don’t have to break your learning flow anymore!",
-      "video_id": "3pYqjw4QjbY",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-03-11T17:25:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3pYqjw4QjbY/hqdefault.jpg"
-    },
-    {
-      "title": "Get guided in the right direction and create portfolio-ready projects with confidence😎",
-      "video_id": "HoJ7i6SQ9uU",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-03-10T15:35:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HoJ7i6SQ9uU/hqdefault.jpg"
     }
   ]
 }

@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2026-03-29T00:44:20.605617",
+  "fetched_at": "2026-04-05T00:44:24.710283",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
-  "count": 25,
+  "count": 10,
   "videos": [
     {
-      "title": "Find the perfect gift by shopping with ChatGPT",
-      "video_id": "th8u0bqYsQk",
+      "title": "OpenAl x Gradient Labs Founder Spotlight",
+      "video_id": "yNNTLllVbiE",
       "channel_title": "OpenAI",
-      "description": "ChatGPT can help you find the perfect gift based on your budget, preferences, and constraints—and surface products that fit.",
-      "published_at": "2026-03-27T20:55:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/th8u0bqYsQk/hqdefault.jpg"
+      "description": "Gradient Labs is giving every bank customer an AI account manager, with CSAT up to 98% and over 50% resolution on day one.",
+      "published_at": "2026-04-01T21:12:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yNNTLllVbiE/hqdefault.jpg"
+    },
+    {
+      "title": "What Codex Unlocks for Ramp",
+      "video_id": "ZXEAuZOSLs0",
+      "channel_title": "OpenAI",
+      "description": "\"Codex code review is industry gold standard.\" We checked in with Ramp to hear how the AI Dev X team is leveraging Codex to ...",
+      "published_at": "2026-04-01T20:21:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZXEAuZOSLs0/hqdefault.jpg"
     },
     {
       "title": "Design your dream room by shopping with ChatGPT",
@@ -75,134 +83,6 @@
       "description": "Hey Ryan Nystrom @ Notion, what has Codex unlocked for you? “The fact that I can build this feature solo while still supporting ...",
       "published_at": "2026-03-24T17:01:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bxJkxBUFeEE/hqdefault.jpg"
-    },
-    {
-      "title": "An updated shopping experience in ChatGPT",
-      "video_id": "qF4QRh2u7FE",
-      "channel_title": "OpenAI",
-      "description": "Shopping in ChatGPT just got an upgrade. Now, you can browse products visually, compare options side-by-side, and get ...",
-      "published_at": "2026-03-24T16:16:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qF4QRh2u7FE/hqdefault.jpg"
-    },
-    {
-      "title": "From your kitchen to customers | with ChatGPT",
-      "video_id": "ApOVfOGWTJU",
-      "channel_title": "OpenAI",
-      "description": "Millions of people use ChatGPT daily to build the things that matter to them. For many home based business women, the gap ...",
-      "published_at": "2026-03-20T16:16:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ApOVfOGWTJU/hqdefault.jpg"
-    },
-    {
-      "title": "Building a small business with ChatGPT",
-      "video_id": "p2GKhlPMVO0",
-      "channel_title": "OpenAI",
-      "description": "Identifying a gap in the market was the first step - building a business to fill it was the challenge. To navigate the complexities of ...",
-      "published_at": "2026-03-20T16:14:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p2GKhlPMVO0/hqdefault.jpg"
-    },
-    {
-      "title": "Rakuten x Codex: AI can empower you",
-      "video_id": "uobQ5nOkPZ4",
-      "channel_title": "OpenAI",
-      "description": "Yusuke Kaji, GM of AI for Business at Rakuten, shares how Codex is enabling his team. Check out the full video: ...",
-      "published_at": "2026-03-17T21:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uobQ5nOkPZ4/hqdefault.jpg"
-    },
-    {
-      "title": "Building AI for better healthcare — the OpenAI Podcast Ep. 14",
-      "video_id": "VAzryGwnJW8",
-      "channel_title": "OpenAI",
-      "description": "Healthcare systems around the world are under strain, and both patients and clinicians are feeling the impact. OpenAI's Head of ...",
-      "published_at": "2026-03-16T17:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VAzryGwnJW8/hqdefault.jpg"
-    },
-    {
-      "title": "Rakuten fixes issues twice as fast with Codex",
-      "video_id": "gZQQR_tDGuM",
-      "channel_title": "OpenAI",
-      "description": "Rakuten operates one of the world's largest digital ecosystems across e-commerce, fintech, and mobile services. Shipping fast ...",
-      "published_at": "2026-03-11T20:11:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gZQQR_tDGuM/hqdefault.jpg"
-    },
-    {
-      "title": "Rakuten x Codex: Recovery Time Reduced by 50%",
-      "video_id": "fyQHPEAFJG8",
-      "channel_title": "OpenAI",
-      "description": "We sat down with Yusuke Kaji, General Manager of AI for Business at Rakuten, to hear how Codex is empowering his engineers, ...",
-      "published_at": "2026-03-11T19:57:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fyQHPEAFJG8/hqdefault.jpg"
-    },
-    {
-      "title": "Build Hour: API &amp; Codex",
-      "video_id": "rhsSqr0jdFw",
-      "channel_title": "OpenAI",
-      "description": "Build agent-powered workflows for real engineering work with Codex and OpenAI APIs. In this Build Hour, you'll learn how teams ...",
-      "published_at": "2026-03-10T17:42:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rhsSqr0jdFw/hqdefault.jpg"
-    },
-    {
-      "title": "The Codex app is now on Windows",
-      "video_id": "8hNcRChDrNk",
-      "channel_title": "OpenAI",
-      "description": "The Codex app is now on Windows. Get the full Codex app experience on Windows with a native agent sandbox and support for ...",
-      "published_at": "2026-03-05T20:55:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8hNcRChDrNk/hqdefault.jpg"
-    },
-    {
-      "title": "Interrupting and Adding Details in GPT-5.4 Thinking",
-      "video_id": "qSHMlduU6Lw",
-      "channel_title": "OpenAI",
-      "description": "In ChatGPT, GPT‑5.4 Thinking can now provide an upfront plan of its thinking, so you can adjust course mid-response while it's ...",
-      "published_at": "2026-03-05T18:20:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qSHMlduU6Lw/hqdefault.jpg"
-    },
-    {
-      "title": "Computer Use &amp; Frontend UI with GPT-5.4 Thinking",
-      "video_id": "YICiHiU2GBU",
-      "channel_title": "OpenAI",
-      "description": "OpenAI researcher SQ Mah explains how GPT-5.4 Thinking brings even more powerful capabilities to Codex — with more ...",
-      "published_at": "2026-03-05T18:18:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YICiHiU2GBU/hqdefault.jpg"
-    },
-    {
-      "title": "Improving Web Search Results in GPT-5.3 Instant",
-      "video_id": "0pmnDimaXnQ",
-      "channel_title": "OpenAI",
-      "description": "OpenAI researcher Josh McGrath explains how GPT-5.3 Instant's responses when using web search are more contextual, ...",
-      "published_at": "2026-03-03T17:57:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0pmnDimaXnQ/hqdefault.jpg"
-    },
-    {
-      "title": "Reducing Overcaveating in GPT-5.3 Instant",
-      "video_id": "DvKutXclQoc",
-      "channel_title": "OpenAI",
-      "description": "OpenAI researcher Blair Chen explains how GPT-5.3 Instant reduces unnecessary disclaimers, making ChatGPT more directly ...",
-      "published_at": "2026-03-03T17:57:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DvKutXclQoc/hqdefault.jpg"
-    },
-    {
-      "title": "Peter Steinberger on the team that built OpenClaw",
-      "video_id": "Rp4Q2lZ_RIQ",
-      "channel_title": "OpenAI",
-      "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
-      "published_at": "2026-02-24T17:59:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Rp4Q2lZ_RIQ/hqdefault.jpg"
-    },
-    {
-      "title": "OpenClaw Creator Peter Steinberger&#39;s advice for developers",
-      "video_id": "-RDPAPjDnp8",
-      "channel_title": "OpenAI",
-      "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
-      "published_at": "2026-02-24T18:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-RDPAPjDnp8/hqdefault.jpg"
-    },
-    {
-      "title": "Peter Steinberger on the excitement around OpenClaw",
-      "video_id": "mR8Lz3Bc1rA",
-      "channel_title": "OpenAI",
-      "description": "Watch the full episode: https://www.youtube.com/watch?v=9jgcT0Fqt7U.",
-      "published_at": "2026-02-24T17:55:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mR8Lz3Bc1rA/hqdefault.jpg"
     }
   ]
 }

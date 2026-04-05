@@ -1,64 +1,88 @@
 {
-  "fetched_at": "2026-03-29T00:43:50.496736",
+  "fetched_at": "2026-04-05T00:43:53.627687",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 7,
+  "count": 10,
   "videos": [
     {
-      "title": "Open Source Friday with Unity-MCP",
-      "video_id": "Ng5ltWrSG0M",
+      "title": "Open Source Friday with Serena",
+      "video_id": "QiB5B7DaF4M",
       "channel_title": "GitHub",
-      "description": "AI inside Unity is getting real, and MCP is a big part of what makes it practical. In this Open Source Friday, we're joined by Andy ...",
-      "published_at": "2026-03-28T05:53:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ng5ltWrSG0M/hqdefault.jpg"
+      "description": "Serena is a free, open-source coding agent toolkit that turns your AI assistant into a fully-featured IDE-powered dev partner.",
+      "published_at": "2026-04-04T06:37:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QiB5B7DaF4M/hqdefault.jpg"
     },
     {
-      "title": "Automate your repo with GitHub agentic workflows",
-      "video_id": "XH8oKA-ZYbU",
+      "title": "Not sure where to start with the GitHub Copilot SDK?",
+      "video_id": "R5ouLL_UA3o",
       "channel_title": "GitHub",
-      "description": "Have you tried GitHub agentic workflows yet? This new feature allows you to author intent-driven repository workflows using plain ...",
-      "published_at": "2026-03-27T15:31:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XH8oKA-ZYbU/hqdefault.jpg"
+      "description": "Here's a meal planning app our advocate Olivia Guzzardo was able to build as some inspiration :sparkles: It's now in public ...",
+      "published_at": "2026-04-03T17:34:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R5ouLL_UA3o/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays! | Come hack, cowork, and chat!",
-      "video_id": "UWSRShwE4Eo",
+      "title": "The Download: LiteLLM hacked, Pretext layout engine, OpenAI news &amp; more",
+      "video_id": "nGqm-em5bIY",
       "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ See the VS Code theme we built: https://marketplace.visualstudio.com/items?",
-      "published_at": "2026-03-27T07:43:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UWSRShwE4Eo/hqdefault.jpg"
+      "description": "Welcome back to The Download! This week, we cover the serious supply chain attack on the LiteLLM Python package and ...",
+      "published_at": "2026-04-03T15:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nGqm-em5bIY/hqdefault.jpg"
     },
     {
-      "title": "Jueves de Quack con Nerdearla",
-      "video_id": "StWXcesvGj4",
+      "title": "Rubber Duck Thursday!",
+      "video_id": "5Kld9gpugFw",
       "channel_title": "GitHub",
-      "description": "Este Jueves de Quack tengo un invitado muy especial: Ariel Jolo de Sysarmy, uno de los organizadores de Nerdearla. Vamos a ...",
-      "published_at": "2026-03-27T03:03:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/StWXcesvGj4/hqdefault.jpg"
+      "description": "Come cowork with me!",
+      "published_at": "2026-04-03T07:34:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5Kld9gpugFw/hqdefault.jpg"
     },
     {
       "title": "Rubber Duck Thursdays!",
-      "video_id": "zN4vLMQqo1c",
+      "video_id": "8zpEBRW-99U",
       "channel_title": "GitHub",
-      "description": "Let's hang, and talk about GitHub Copilot.",
-      "published_at": "2026-03-26T23:46:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zN4vLMQqo1c/hqdefault.jpg"
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2026-04-02T23:28:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8zpEBRW-99U/hqdefault.jpg"
     },
     {
-      "title": "What is MCP and how does it work with AI?",
-      "video_id": "lFQz1hugvHo",
+      "title": "Open Source Friday - Welcome to Maintainer Month 2026",
+      "video_id": "Ro_VMXWbLt8",
       "channel_title": "GitHub",
-      "description": "Curious about how AI agents interact with the outside world? In this highlight from GitHub Universe 2025, we break down the ...",
-      "published_at": "2026-03-25T19:06:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lFQz1hugvHo/hqdefault.jpg"
+      "description": "It's Maintainer Month and we're kicking things off with Nicholas Tindle, maintainer of AutoGPT. Nicholas shares how his team ...",
+      "published_at": "2026-04-02T23:06:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ro_VMXWbLt8/hqdefault_live.jpg"
     },
     {
-      "title": "A beginner&#39;s guide to Copilot CLI slash commands",
-      "video_id": "-Yavis20B4Q",
+      "title": "Build a Planning App with the GitHub Copilot SDK | demo",
+      "video_id": "ylPjZVaLJYI",
       "channel_title": "GitHub",
-      "description": "Welcome to episode 3 of the GitHub Copilot CLI for beginners series! In this video, we explore how to use slash commands to ...",
-      "published_at": "2026-03-23T15:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-Yavis20B4Q/hqdefault.jpg"
+      "description": "What if your personal planning app could actually think with you? In this video, we walk through how to use the GitHub Copilot ...",
+      "published_at": "2026-04-02T21:33:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ylPjZVaLJYI/hqdefault.jpg"
+    },
+    {
+      "title": "How GitHub secret scanning saves your code",
+      "video_id": "wYmTs1LSvTw",
+      "channel_title": "GitHub",
+      "description": "Accidentally pushing an API key or token to your repository can be terrifying. Luckily, GitHub secret scanning automatically checks ...",
+      "published_at": "2026-04-02T18:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wYmTs1LSvTw/hqdefault.jpg"
+    },
+    {
+      "title": "Copilot CLI for beginners: Plan, delegate, and review",
+      "video_id": "v8dr7QcIiLU",
+      "channel_title": "GitHub",
+      "description": "Did you know you can have GitHub Copilot CLI build features for you in the background? We explore how to use the plan and ...",
+      "published_at": "2026-04-02T15:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v8dr7QcIiLU/hqdefault.jpg"
+    },
+    {
+      "title": "Put GitHub Copilot cloud agent to work - Research, plan and code",
+      "video_id": "pn5x1CamKVY",
+      "channel_title": "GitHub",
+      "description": "GitHub Copilot cloud agent on github.com just got a lot more flexible. You can now it use it to research, plan, and make code ...",
+      "published_at": "2026-04-01T15:39:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pn5x1CamKVY/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-03-29T00:44:23.461121",
+  "fetched_at": "2026-04-05T00:44:27.578037",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "为什么巨头都在做CLI(命令行界面)？比起MCP有哪些优势？ #AI #CLI #Agent #科技 #计算机",
+      "video_id": "5rAIU0GBjII",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 CLI这个计算机世界里最古老的交互方式，正在迎来一次新的爆发。最近越 ...",
+      "published_at": "2026-04-01T13:59:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5rAIU0GBjII/hqdefault.jpg"
+    },
     {
       "title": "飞书官方插件一出，龙虾(OpenClaw)的玩法彻底变了",
       "video_id": "3u9gYM7digA",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 OpenCode 是近期热度最高的AI编程工具。 它的最大优势是有开箱即用的 ...",
       "published_at": "2026-01-17T13:30:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JYVTUU9ClUA/hqdefault.jpg"
-    },
-    {
-      "title": "Agent Skills (Claude Skills) 详细攻略，一期视频精通",
-      "video_id": "DNF0FJ9l7wo",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Agent Skills最近非常的火，起初它还只是Claude中一个小功能模块，就在 ...",
-      "published_at": "2026-01-07T07:03:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DNF0FJ9l7wo/hqdefault.jpg"
     }
   ]
 }

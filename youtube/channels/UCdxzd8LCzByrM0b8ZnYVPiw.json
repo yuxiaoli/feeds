@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-03-29T00:44:28.459490",
+  "fetched_at": "2026-04-05T00:44:32.571535",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Beolab 90 Titan Edition",
+      "video_id": "-99Taw1KJ-M",
+      "channel_title": "Bang & Olufsen",
+      "description": "Feel a century of craft at your fingertips. Hear 100 years of innovation. Beolab 90 Titan Edition. Beolab 90 is reimagined in five ...",
+      "published_at": "2026-04-02T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-99Taw1KJ-M/hqdefault.jpg"
+    },
+    {
+      "title": "Beolab 90 Titan Edition",
+      "video_id": "7zj8pNacjYQ",
+      "channel_title": "Bang & Olufsen",
+      "description": "Feel a century of craft at your fingertips. Hear 100 years of innovation. Beolab 90 Titan Edition. Beolab 90 is reimagined in five ...",
+      "published_at": "2026-04-02T16:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7zj8pNacjYQ/hqdefault.jpg"
+    },
     {
       "title": "Bang &amp; Olufsen | MATTER and SHAPE | Paris",
       "video_id": "iuz733KYLgE",
@@ -67,22 +83,6 @@
       "description": "Come home. Settle in. Hear every detail, placed with precision. Your dream surround sound system starts here.​ #BangOlufsen​",
       "published_at": "2026-01-27T17:00:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6qOcpokoyUw/hqdefault.jpg"
-    },
-    {
-      "title": "Surrounded by beautiful sound | Bang &amp; Olufsen",
-      "video_id": "9-ZBmfGFl2k",
-      "channel_title": "Bang & Olufsen",
-      "description": "Come home. Settle in. Hear every detail, placed with precision. Your dream surround sound system starts here.​ #BangOlufsen​",
-      "published_at": "2026-01-27T17:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9-ZBmfGFl2k/hqdefault.jpg"
-    },
-    {
-      "title": "Surrounded by beautiful sound | Beosound Premiere &amp; Beolab 8",
-      "video_id": "bWOTrmVM58U",
-      "channel_title": "Bang & Olufsen",
-      "description": "Whatever your space, there's a Bang & Olufsen surround sound system that will sound right at home. ​ For the best experience, ...",
-      "published_at": "2026-01-20T10:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bWOTrmVM58U/hqdefault.jpg"
     }
   ]
 }

@@ -1,24 +1,40 @@
 {
-  "fetched_at": "2026-03-29T00:43:54.684721",
+  "fetched_at": "2026-04-05T00:43:57.982481",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 2,
+  "count": 4,
   "videos": [
+    {
+      "title": "Creating Live Events with UEFN | UEFN Build Along",
+      "video_id": "kSF4ZSExXbg",
+      "channel_title": "Unreal Engine",
+      "description": "Join us as we dive into creating Live Events with Unreal Editor for Fortnite!",
+      "published_at": "2026-04-03T16:41:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kSF4ZSExXbg/hqdefault_live.jpg"
+    },
+    {
+      "title": "A UE5-powered virtual factory to optimize Cadbury Creme Egg production",
+      "video_id": "Mg1JWGUeDvs",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video to find out how PurpleSector combined UE5 with photogrammetry and machine vision technology to build a ...",
+      "published_at": "2026-04-02T14:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Mg1JWGUeDvs/hqdefault.jpg"
+    },
+    {
+      "title": "Meet the studios using Unreal Engine to create the new wave of kids’ animation",
+      "video_id": "BYcDNHMFChU",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video to discover how Unreal Engine is becoming the preferred tool for kids' animation, enabling fast iteration, rapid ...",
+      "published_at": "2026-04-01T16:29:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BYcDNHMFChU/hqdefault.jpg"
+    },
     {
       "title": "Star Wars™ Toolset | Creating in Fortnite",
       "video_id": "BzVrJWY4ylE",
       "channel_title": "Unreal Engine",
       "description": "Join us as we dive into the exciting new Star War™ Toolset for Unreal Editor for Fortnite!",
-      "published_at": "2026-03-27T15:43:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BzVrJWY4ylE/hqdefault_live.jpg"
-    },
-    {
-      "title": "Automated Performance Profiling for Local Workflows | Inside Unreal",
-      "video_id": "bfkbwXVMtn8",
-      "channel_title": "Unreal Engine",
-      "description": "Join us as we discuss Automated Performance Profiling for Local Workflows with our guest Nitish Victor.",
-      "published_at": "2026-03-26T19:57:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bfkbwXVMtn8/hqdefault.jpg"
+      "published_at": "2026-03-31T19:54:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BzVrJWY4ylE/hqdefault.jpg"
     }
   ]
 }

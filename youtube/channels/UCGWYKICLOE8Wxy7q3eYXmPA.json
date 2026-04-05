@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-03-29T00:44:01.108205",
+  "fetched_at": "2026-04-05T00:44:04.504600",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "AI时代工程师的底牌是什么 | Michael Bolin | 前Meta E9 | 底层架构重构 | Meta Buck | 晋升教训 | Codex的诞生 | 工程师的核心价值",
-      "video_id": "w_XtnRX4mO0",
+      "title": "创作垃圾作品的究竟是人类还是AI | 图灵测试 | AI创作的本质 | 人类对创作的逆向工程 | 视觉艺术 | 陈词滥调 | 类型文学 | 原创性 | 鹦鹉逻辑 | 通用图灵机 | 回忆录",
+      "video_id": "hm62_lQzBCY",
       "channel_title": "最佳拍档",
-      "description": "从GitHub Copilot到Claude Code，AI写代码的速度和效率越来越高，这让很多身处行业内的工程师感到焦虑，甚至有刚入行的年轻 ...",
-      "published_at": "2026-03-28T23:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w_XtnRX4mO0/hqdefault.jpg"
+      "description": "在AI能写诗歌、写小说、甚至写剧本的时代，人类的创造性到底还有什么不可替代的价值呢？当Claude能够在几秒内写出符合格律的 ...",
+      "published_at": "2026-04-04T09:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hm62_lQzBCY/hqdefault.jpg"
     },
     {
-      "title": "为什么说Vibe Coding是反人类的 | Kaggle大佬Jeremy Howard | 三阶段架构 | 微调 | 控制的幻觉 | 心智模型 | 代码黑盒 | AI的终极风险",
-      "video_id": "JqYmFYZ03A8",
+      "title": "AI搞得我精神错乱 | Andrej Kapathy | Token焦虑 | OpenClaw | 家庭自动化 | 自动研究 | 锯齿状能力 | 大模型物种分化 | 软件工程 | 开源与闭源",
+      "video_id": "JSMUrVjHjuo",
       "channel_title": "最佳拍档",
-      "description": "从2025年安德烈·卡帕西提出Vibe Coding这个概念，到现在不过一年时间，整个科技圈似乎都陷入了一种狂热。当所有人都在为这种 ...",
-      "published_at": "2026-03-28T09:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JqYmFYZ03A8/hqdefault.jpg"
+      "description": "作为OpenAI的前联合创始人、AI领域的顶尖大牛，安德烈·卡帕西在最新的一期播客节目中，不仅自曝因为AI的飞速发展，陷入了某种 ...",
+      "published_at": "2026-04-03T09:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JSMUrVjHjuo/hqdefault.jpg"
     },
     {
-      "title": "颐和园白松鼠",
-      "video_id": "QjkLT7s2dGI",
+      "title": "AlphaGo十年回顾 | DeepMind播客 | 为何选择围棋 | 快思与慢想 | 李世石 | 第37手 | 神之一手 | AlphaZero | 直觉+搜索 | 哈萨比斯 | AlphaFold",
+      "video_id": "UKPARZZGxqk",
       "channel_title": "最佳拍档",
-      "description": "",
-      "published_at": "2026-03-28T04:53:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QjkLT7s2dGI/hqdefault.jpg"
+      "description": "十年前，当谷歌DeepMind的AlphaGo，以4:1的比分战胜围棋传奇李世石时，没有人能完全预见，这一场棋盘上的胜负，会成为人工 ...",
+      "published_at": "2026-04-02T09:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UKPARZZGxqk/hqdefault.jpg"
     },
     {
-      "title": "AI和脑科学正在大合流 | Max Hodak | 脑机接口 | Prima | 重获视觉 | 大脑可塑性 | Vessel | ECMO | 神经表征 | 2035年迷雾墙",
-      "video_id": "qLCE6ceZA-g",
+      "title": "Claude Code 51万行源代码意外泄露 | 员工操作失误 | 瞬间被克隆 | Chaofan Shou | Sigrid Jin | KAIROS | Buddy | Auto Dream",
+      "video_id": "kz5T7J-F53M",
       "channel_title": "最佳拍档",
-      "description": "如今，脑机接口发展到了哪一步呢？Neuralink的联合创始人麦克斯·霍达克应该最清楚的人之一了，由他创办的Science Corporation ...",
-      "published_at": "2026-03-27T23:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qLCE6ceZA-g/hqdefault.jpg"
+      "description": "昨天3月31号，可以说是迎来了一次足以撼动整个AI行业的重磅事件，Anthropic旗下的Claude Code，以一种极其戏剧性的方式完成 ...",
+      "published_at": "2026-04-01T10:16:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kz5T7J-F53M/hqdefault.jpg"
     },
     {
-      "title": "TurboQuant为何造成全球内存市场大跌 | FOMO情绪下的又一次乌龙 | 谷歌研究院 | KV Cache降低6倍 | 向量量化压缩 | 仅推理阶段 | 美光财报",
-      "video_id": "IqWXCtDj_FA",
+      "title": "所有人都将通往世界模型 | 谢赛宁6小时访谈 | AMI Labs | 逃离硅谷 | 表征学习 | Rich Sutton | Yann Lecun | 两次拒绝Ilya | 语言是毒药 | 人文关怀",
+      "video_id": "vuhHraEhVeo",
       "channel_title": "最佳拍档",
-      "description": "2026年3月25日，全球内存芯片巨头的股价集体重挫，而这一切的导火索，竟然是谷歌研究院发布的一篇关于全新压缩算法的博客。",
-      "published_at": "2026-03-27T09:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IqWXCtDj_FA/hqdefault.jpg"
+      "description": "由杨立昆和谢赛宁创立的AMI Labs，仅凭25人的团队、在没有推出任何产品的情况下，就完成了10.3亿美元的种子轮融资，投前估值 ...",
+      "published_at": "2026-03-30T09:00:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vuhHraEhVeo/hqdefault.jpg"
     },
     {
-      "title": "数学正在经历分工变革 | 陶哲轩 &amp; Mark Chen | AI的进步 | 局限性 | 埃尔德什问题 | 形式化验证 | 全新的理论框架 | AI不是神谕机",
-      "video_id": "48lLiHkBfNg",
+      "title": "生成式AI消费应用Top 100 | 第六版 | A16Z | ChatGPT | 默认AI | 生态竞争 | 地域分化 | 创意工具 | AI Agent崛起 | 新的统计方式",
+      "video_id": "6mw17yxQ4wg",
       "channel_title": "最佳拍档",
-      "description": "https://youtu.be/ddTvK9nlquM?si=UaMo3r8YHRcz84iZ.",
-      "published_at": "2026-03-26T23:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/48lLiHkBfNg/hqdefault.jpg"
+      "description": "全球顶级风投机构a16z在2026年3月9日发布了一份《生成式AI消费应用百强榜第六版》报告，这份由奥利维娅·穆尔撰写的报告， ...",
+      "published_at": "2026-03-29T23:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6mw17yxQ4wg/hqdefault.jpg"
     },
     {
-      "title": "暴雪游戏Blizzard为何从伟大走向平庸 | Jeff Kaplan | 职业起点 | 无尽的任务 | 魔兽世界 | Team Two | Titan项目失败 | 守望先锋 | 加州传说",
-      "video_id": "lwaFjcFuhZA",
+      "title": "【人工智能】AI未来发展的核心支柱 | 钢铁、服务器、能源 | David Cahn红杉美国合伙人 | 数据中心 | 基建效率 | 现金牛 | 房地产 | 资产负债表外融资",
+      "video_id": "5gDrGItwDg4",
       "channel_title": "最佳拍档",
-      "description": "https://youtu.be/H9rF1CSSh-w?si=2JDSHsQhhRn7nVCG.",
-      "published_at": "2026-03-26T09:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lwaFjcFuhZA/hqdefault.jpg"
+      "description": "今天我们来分享一个20VC推出的播客节目，在这档节目中，投资人大卫·卡恩David Cahn与播客主持人哈里·斯特宾斯Harry ...",
+      "published_at": "2024-08-15T09:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5gDrGItwDg4/hqdefault.jpg"
     },
     {
-      "title": "Sora再见 | OpenAI关停服务 | 兴衰历程 | 危机涌现 | 版权之争 | Disney | 企业级市场竞争 | Grok | 技术走向商业落地",
-      "video_id": "PnwOldwLuVM",
+      "title": "【商业】创业公司如何找到产品市场契合点PMF | 红杉资本Arc活动分享 |  产品与客户之间的三种关系 | 如何选择路径 | 燃眉之急 | 铁的事实 | 未来愿景",
+      "video_id": "nJIVpB05eKY",
       "channel_title": "最佳拍档",
-      "description": "https://x.com/soraofficialapp/status/2036546752535470382.",
-      "published_at": "2026-03-26T04:12:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PnwOldwLuVM/hqdefault.jpg"
+      "description": "今天这是一期科技创业者必看的视频。对于所有初创公司来说，核心任务就是寻找产品与市场的契合点，也就是所谓 ...",
+      "published_at": "2024-05-01T10:06:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nJIVpB05eKY/hqdefault.jpg"
     },
     {
-      "title": "软件工程行业迈向多Agent时代 | Steve Yegg | 苦涩的教训 | 不可逆转的洪流 | 吸血鬼效应 | 拥抱变化",
-      "video_id": "qvjVQJHrQ-M",
+      "title": "关于中美企业异国发展蔡崇信给出了一些务实建议",
+      "video_id": "_EckgvG2mAI",
       "channel_title": "最佳拍档",
-      "description": "https://youtu.be/aFsAOu2bgFk?si=uYoeQCaleMUyY23L.",
-      "published_at": "2026-03-25T23:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qvjVQJHrQ-M/hqdefault.jpg"
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts.",
+      "published_at": "2024-04-07T05:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_EckgvG2mAI/hqdefault.jpg"
     },
     {
-      "title": "SaaS的生死逻辑 | Atlassian CEO Mike | SaaS末日 | 为“无能”买单 | 比较优势理论 | 人机信任",
-      "video_id": "7x8vu0EGxMY",
+      "title": "OpenAI为何能坚持AGI道路 #openai #人工智能",
+      "video_id": "U0DFLWtAGO4",
       "channel_title": "最佳拍档",
-      "description": "https://youtu.be/0lzo2tFBFy8?si=CoUGAisY_krMDNIi.",
-      "published_at": "2026-03-25T09:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7x8vu0EGxMY/hqdefault.jpg"
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts.",
+      "published_at": "2024-03-04T00:08:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U0DFLWtAGO4/hqdefault.jpg"
     }
   ]
 }

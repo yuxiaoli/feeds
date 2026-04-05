@@ -1,48 +1,24 @@
 {
-  "fetched_at": "2026-03-29T00:43:43.463556",
+  "fetched_at": "2026-04-05T00:43:46.302010",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Microsoft Sovereign Cloud Core Customer Scenarios: Sovereign AI Data Processing",
-      "video_id": "5IG2lM_1NMI",
+      "title": "Is context engineering the new RAG?",
+      "video_id": "wGpJdn8frYE",
       "channel_title": "Microsoft Azure",
-      "description": "AI can create new sovereignty risk: where data is processed, what is retained, and who can access it. This video explains the ...",
-      "published_at": "2026-03-26T00:56:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5IG2lM_1NMI/hqdefault.jpg"
+      "description": "In this episode of The Shift, members of the Microsoft Foundry team, Allison, Pamela and Matt explore a question from you, our ...",
+      "published_at": "2026-03-31T19:14:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wGpJdn8frYE/hqdefault.jpg"
     },
     {
-      "title": "Microsoft Sovereign Cloud Core Customer Scenarios: No Cloud Operator Access",
-      "video_id": "VAq-iDODtfI",
+      "title": "AI at Scale: The Return on Intelligence | Microsoft at MWC",
+      "video_id": "AxYXYSqRkdY",
       "channel_title": "Microsoft Azure",
-      "description": "For the most sensitive workloads, customers want control over every access path. This video covers the No Cloud Operator ...",
-      "published_at": "2026-03-26T00:52:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VAq-iDODtfI/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Sovereign Cloud Core Customer Scenarios: Data Residency",
-      "video_id": "u9kvCbqQP5U",
-      "channel_title": "Microsoft Azure",
-      "description": "Data flows are no longer simple, and residency rules vary by country, data type, and workload. This video unpacks the Data ...",
-      "published_at": "2026-03-26T00:53:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u9kvCbqQP5U/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Sovereign Cloud Core Customer Scenarios: Regulatory Requirements",
-      "video_id": "BROJqkmxlE4",
-      "channel_title": "Microsoft Azure",
-      "description": "Regulations are evolving fast, and proving compliance can feel impossible. This video breaks down the Regulatory Requirements ...",
-      "published_at": "2026-03-26T00:53:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BROJqkmxlE4/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Sovereign Cloud Core Customer Scenarios: Business Continuity",
-      "video_id": "zQHKnpsutZU",
-      "channel_title": "Microsoft Azure",
-      "description": "Disruption is not just outages. It can be connectivity loss, regional segregation requirements, cyber incidents, or geopolitical ...",
-      "published_at": "2026-03-26T00:53:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zQHKnpsutZU/hqdefault.jpg"
+      "description": "At MWC 2026, Microsoft is focused on one thing: moving telcos from AI experimentation to measurable outcomes—what we call ...",
+      "published_at": "2026-03-30T06:48:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AxYXYSqRkdY/hqdefault.jpg"
     },
     {
       "title": "Azure Boost and Cobalt 100 VMs: Arm performance breakthroughs for cloud-native workloads",
@@ -83,6 +59,30 @@
       "description": "See how the technical community responded to the latest news across Microsoft cloud and AI platforms, including Microsoft Azure, ...",
       "published_at": "2025-12-10T16:34:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/yVwDJBnw__Q/hqdefault.jpg"
+    },
+    {
+      "title": "SK Telecom deepens customer connections with agentic workflows in Microsoft Foundry",
+      "video_id": "6RHsxWn_Dws",
+      "channel_title": "Microsoft Azure",
+      "description": "SK Telecom uses Microsoft Foundry to orchestrate multi-agent workflows to deliver personalized, scalable, and compliant digital ...",
+      "published_at": "2025-12-01T22:41:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6RHsxWn_Dws/hqdefault.jpg"
+    },
+    {
+      "title": "Future of Cloud: Language of Nature",
+      "video_id": "iWi8M5qsKAk",
+      "channel_title": "Microsoft Azure",
+      "description": "In this episode of Future of Cloud: Language of Nature, we trace how the logic of living systems is shaping the next era of ...",
+      "published_at": "2025-11-24T16:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iWi8M5qsKAk/hqdefault.jpg"
+    },
+    {
+      "title": "Designing Proteins with AI at UW With Microsoft Foundry",
+      "video_id": "zjwIw_dHsEo",
+      "channel_title": "Microsoft Azure",
+      "description": "See how University of Washington uses Microsoft Foundry to design new proteins for medicine, technology, and sustainability.",
+      "published_at": "2025-11-22T02:47:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zjwIw_dHsEo/hqdefault.jpg"
     }
   ]
 }
