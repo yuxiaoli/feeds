@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-05T00:44:18.967708",
+  "fetched_at": "2026-04-12T00:46:32.808703",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "What has been holding you back from building your first website?🫣",
+      "video_id": "noNb2-mC3HM",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-04-08T15:47:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/noNb2-mC3HM/hqdefault.jpg"
+    },
+    {
+      "title": "6 April 2026",
+      "video_id": "JwU_Nal3FXM",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-04-06T15:15:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JwU_Nal3FXM/hqdefault.jpg"
+    },
     {
       "title": "Don’t let anyone tell you otherwise!",
       "video_id": "MFmM0rvA1Kk",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-03-20T15:43:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cM0wELLHeSk/hqdefault.jpg"
-    },
-    {
-      "title": "Has this miracle happened to you as well? 🪄",
-      "video_id": "anVYLDv5F2Y",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-03-18T15:46:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/anVYLDv5F2Y/hqdefault.jpg"
-    },
-    {
-      "title": "Do check out our new courses! 🙌",
-      "video_id": "nYEl7PB96dg",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-03-17T13:25:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nYEl7PB96dg/hqdefault.jpg"
     }
   ]
 }

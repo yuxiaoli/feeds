@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-04-05T00:44:00.931285",
+  "fetched_at": "2026-04-12T00:46:13.896150",
   "channel_id": "UCEtckLYWcFq5uMW1K2zyjLA",
   "channel_title": "Africa Travel Channel",
   "count": 10,
   "videos": [
-    {
-      "title": "Thirsty Giraffe Drinking Water 💦🦒 #wildlife",
-      "video_id": "2C-rcc6vR8Y",
-      "channel_title": "Africa Travel Channel",
-      "description": "",
-      "published_at": "2026-04-04T11:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2C-rcc6vR8Y/hqdefault.jpg"
-    },
     {
       "title": "Huge African Python 🐍",
       "video_id": "Dg0w2yhyfAU",
@@ -83,6 +75,14 @@
       "description": "Wildlife gathers at a waterhole in Kruger National Park #wildlife #animals #nature.",
       "published_at": "2025-06-29T11:56:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6YZGfuRkU8A/hqdefault.jpg"
+    },
+    {
+      "title": "Wildebeest On The Run",
+      "video_id": "05-fVJS6klQ",
+      "channel_title": "Africa Travel Channel",
+      "description": "Watch Wildebeest On The Run! #animals #nature #wildlife.",
+      "published_at": "2024-08-07T06:22:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/05-fVJS6klQ/hqdefault.jpg"
     }
   ]
 }

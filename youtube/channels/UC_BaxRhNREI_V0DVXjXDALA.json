@@ -1,24 +1,32 @@
 {
-  "fetched_at": "2026-04-05T00:44:26.781333",
+  "fetched_at": "2026-04-12T00:46:41.091184",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 2,
+  "count": 3,
   "videos": [
     {
-      "title": "Diving into the details #shorts",
-      "video_id": "VXFfgTplXGU",
+      "title": "In the blink of an eye #shorts",
+      "video_id": "NkS6HW53EA4",
       "channel_title": "Porsche",
-      "description": "Nothing excites us more than these detail shots. @marzellamedia.",
-      "published_at": "2026-04-02T17:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VXFfgTplXGU/hqdefault.jpg"
+      "description": "We've got this sound on repeat. @mondi.",
+      "published_at": "2026-04-11T16:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NkS6HW53EA4/hqdefault.jpg"
     },
     {
-      "title": "Exploring Slovenia in the Porsche Taycan: A Driver&#39;s Deep Dive",
-      "video_id": "ODZLQlFlvp8",
+      "title": "Green with envy #shorts",
+      "video_id": "JWdz0wLFH1E",
       "channel_title": "Porsche",
-      "description": "New roads, new energy.​ Andres Vidoza takes the Porsche Taycan through Slovenia and dives deep into what electric ...",
-      "published_at": "2025-12-14T14:02:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ODZLQlFlvp8/hqdefault.jpg"
+      "description": "The battle of the green machines. @ryanfriedmanmotorcars.",
+      "published_at": "2026-04-09T16:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JWdz0wLFH1E/hqdefault.jpg"
+    },
+    {
+      "title": "The world premiere of a new 911 – open to what matters | Watch it on 14 April 2026",
+      "video_id": "sBQIN3DK6io",
+      "channel_title": "Porsche",
+      "description": "Our ambition was to create nothing less than one of the most exhilarating driver's cars imaginable. Join two renowned automotive ...",
+      "published_at": "2026-03-26T15:20:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sBQIN3DK6io/hqdefault_live.jpg"
     }
   ]
 }

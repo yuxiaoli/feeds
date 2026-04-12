@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-05T00:44:28.249434",
+  "fetched_at": "2026-04-12T00:46:42.606312",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "متعة الكالسثنكس",
+      "video_id": "JEpQzp8zuqk",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-04-09T12:41:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JEpQzp8zuqk/hqdefault.jpg"
+    },
+    {
+      "title": "ما بتعرف قيمة الكالسثنكس الا اذا جربتها",
+      "video_id": "nS10qXwpzSM",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-04-06T10:48:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nS10qXwpzSM/hqdefault.jpg"
+    },
     {
       "title": "اصعب هاندستاند بوش اب",
       "video_id": "vBrrDX6Kjkc",
@@ -67,22 +83,6 @@
       "description": "رابط متجر HERU : https://herucalisthenics.com.",
       "published_at": "2026-03-18T22:47:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/F_zLL_yH-B8/hqdefault.jpg"
-    },
-    {
-      "title": "كيف تسوي مهارة الوقوف على المرفقين .. How to Elbowstand",
-      "video_id": "sdYaS1RlDWk",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-03-17T17:54:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sdYaS1RlDWk/hqdefault.jpg"
-    },
-    {
-      "title": "كيف تحافظ على الرياضة و تستمتع في السفر .. ڤلوق تايلاند",
-      "video_id": "fGjB-T6kKxM",
-      "channel_title": "Hemo Calisthenics",
-      "description": "حاب تبدأ رياضة الكاليسثينكس ؟ ‏أول شي تشوف هذا الفيديو عشان تتعرف على رياضة الكاليسثينكس https://youtu.be/iNIFmVe9mkk ...",
-      "published_at": "2026-03-16T17:15:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fGjB-T6kKxM/hqdefault.jpg"
     }
   ]
 }

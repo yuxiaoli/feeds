@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-04-05T00:44:10.323902",
+  "fetched_at": "2026-04-12T00:46:23.701182",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "存储芯片“超级周期”还能持续多久？",
+      "video_id": "eoBhOpqIweQ",
+      "channel_title": "硅谷101",
+      "description": "全球存储芯片，正在经历四十年来最严重的供需失衡。2026年已全部售罄，2027年大概率也卖光。更值得关注的是，AI正在把存储从 ...",
+      "published_at": "2026-04-12T00:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eoBhOpqIweQ/hqdefault.jpg"
+    },
+    {
+      "title": "AI救活了一家马桶公司，也点燃了存储芯片超级周期",
+      "video_id": "tzEWYNQmnmc",
+      "channel_title": "硅谷101",
+      "description": "AI正在制造一场四十年一遇的存储芯片短缺。三星、SK海力士、美光、闪迪，这些存储行业的重要玩家，光一年的股价都涨了几倍到 ...",
+      "published_at": "2026-04-10T02:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tzEWYNQmnmc/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI Sora的失败与重生",
+      "video_id": "9yvP7PAunYs",
+      "channel_title": "硅谷101",
+      "description": "Sora2下架了。这个曾被Sam Altman称为又一个“ChatGPT时刻”的产品，上线仅六个月就被砍掉。原因很简单：每天烧掉百万美元， ...",
+      "published_at": "2026-04-07T07:25:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9yvP7PAunYs/hqdefault.jpg"
+    },
     {
       "title": "开源模型王座之争，Reflection AI能成为美国DeepSeek吗？",
       "video_id": "0YmQC3szhI8",
@@ -21,7 +45,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cd8azgYNtKg/hqdefault.jpg"
     },
     {
-      "title": "机器人开源革命：“免费大脑”背后的四派力量与博弈【机器人系列】",
+      "title": "Physical Intelligence与机器人开源革命：“免费大脑”背后的四派力量与博弈【机器人系列】",
       "video_id": "kjqOsLdvSFg",
       "channel_title": "硅谷101",
       "description": "谷歌、英伟达、宇树、蚂蚁、小米…为什么科技巨头们争相把机器人“大脑”免费开放给全世界？开源究竟是做慈善，还是精心设计的 ...",
@@ -59,30 +83,6 @@
       "description": "今年雪季，大家有没有发现滑雪越来越贵了？在美国，热门雪场的单日票价甚至已经超过了300美元，但为什么雪场巨头Vail的股价却 ...",
       "published_at": "2026-03-18T03:37:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jnYWv_0MzBw/hqdefault.jpg"
-    },
-    {
-      "title": "“最虐运动”HYROX火爆全球：中产的荷尔蒙与上亿美元生意经",
-      "video_id": "9mpazu2K3qU",
-      "channel_title": "硅谷101",
-      "description": "有一个健身赛事，正在取代CrossFit和斯巴达勇士赛成为白领精英们的新宠（门票瞬间售罄、参赛还得抽签的那种）：去年全球60万 ...",
-      "published_at": "2026-03-13T01:09:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9mpazu2K3qU/hqdefault.jpg"
-    },
-    {
-      "title": "当“老钱”开始玩DeFi：BlackRock如何切入68万亿链上新市场？",
-      "video_id": "CsB4ZYYgHrs",
-      "channel_title": "硅谷101",
-      "description": "本视频由币安赞助播出** 2025年12月，DTCC获准推出真实资产代币化服务，标志着支撑全球金融体系的基石资产正式迈入“链上 ...",
-      "published_at": "2026-03-09T23:42:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CsB4ZYYgHrs/hqdefault.jpg"
-    },
-    {
-      "title": "全面解析“世界模型”：定义、路线、实践与AGI的更近一步",
-      "video_id": "SYuSZIIYOfI",
-      "channel_title": "硅谷101",
-      "description": "2026年，全球顶尖AI实验室和科技巨头们都在押注研发一个新算法路径：世界模型。随着大语言模型（LLM）的Scaling Law面临 ...",
-      "published_at": "2026-03-06T06:39:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SYuSZIIYOfI/hqdefault.jpg"
     }
   ]
 }

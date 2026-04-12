@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-05T00:44:08.921318",
+  "fetched_at": "2026-04-12T00:46:22.052167",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Intro to Warp and Oz",
+      "video_id": "orYkXlHjboE",
+      "channel_title": "Warp",
+      "description": "Follow along with our starter repository, or just watch and ask questions as we go: ...",
+      "published_at": "2026-04-10T07:08:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/orYkXlHjboE/hqdefault.jpg"
+    },
+    {
+      "title": "Everything is a CLI now (and it&#39;s awesome)",
+      "video_id": "14ulZBS6rUw",
+      "channel_title": "Warp",
+      "description": "Resources from this video: - Google Workspace CLI - https://github.com/googleworkspace/cli - Obsidian CLI ...",
+      "published_at": "2026-04-06T17:59:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/14ulZBS6rUw/hqdefault.jpg"
+    },
     {
       "title": "Intro to Warp and Oz",
       "video_id": "GBIP_xVbJ6Q",
@@ -19,14 +35,6 @@
       "description": "References from the video: - Environment variables: ...",
       "published_at": "2026-03-30T18:04:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xhkoXsE9Wqc/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Warp and Oz",
-      "video_id": "orYkXlHjboE",
-      "channel_title": "Warp",
-      "description": "Follow along with our starter repository, or just watch and ask questions as we go: ...",
-      "published_at": "2026-03-29T19:14:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/orYkXlHjboE/hqdefault_live.jpg"
     },
     {
       "title": "Intro to Warp and Oz",
@@ -75,14 +83,6 @@
       "description": "New to Warp? Join this session to learn everything you can do! We'll cover: - ​The essentials of navigating Warp as a terminal ...",
       "published_at": "2026-03-06T08:08:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/S96lHbaQMWU/hqdefault.jpg"
-    },
-    {
-      "title": "Cloud agent one-shots a feature",
-      "video_id": "OqFP_zeT00c",
-      "channel_title": "Warp",
-      "description": "Watch Roland, an engineer on the Warp team use Warp to... build Warp!",
-      "published_at": "2026-03-05T17:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OqFP_zeT00c/hqdefault.jpg"
     }
   ]
 }

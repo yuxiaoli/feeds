@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-05T00:44:16.770795",
+  "fetched_at": "2026-04-12T00:46:30.554771",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "Highest Jumping Muscleup? #calisthenics #motivation #gymmotivation",
+      "video_id": "T8PXqCJMmK4",
+      "channel_title": "Leo Wang",
+      "description": "trying out some new muscleup variations   1 on 1 coaching available in bio.",
+      "published_at": "2026-04-05T14:55:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/T8PXqCJMmK4/hqdefault.jpg"
+    },
     {
       "title": "calisthenics + weights= #gymmotivation #calisthenics #motivation",
       "video_id": "pKinzSUzuKo",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-10-26T15:01:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xx1XvodBgps/hqdefault.jpg"
-    },
-    {
-      "title": "Why you should train calisthenics #shorts #calisthenics",
-      "video_id": "SM-JZZQBY60",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-10-12T15:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SM-JZZQBY60/hqdefault.jpg"
     }
   ]
 }

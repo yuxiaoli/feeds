@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-05T00:44:47.336145",
+  "fetched_at": "2026-04-12T00:47:02.022825",
   "channel_id": "UCy7T8DVITdnblEm68Vv3_ig",
   "channel_title": "UNlimited",
   "count": 10,
   "videos": [
+    {
+      "title": "Faroe Islands: Europe’s Wildest Scenery",
+      "video_id": "1kbKcJ_X8zg",
+      "channel_title": "UNlimited",
+      "description": "The Faroe Islands, an autonomous Danish archipelago in the North Atlantic, offer some of Europe's most rugged and untouched ...",
+      "published_at": "2026-04-11T04:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1kbKcJ_X8zg/hqdefault.jpg"
+    },
+    {
+      "title": "Spring in Japan 🌸 | Cherry Blossom Season",
+      "video_id": "Q0TZfHSV3R8",
+      "channel_title": "UNlimited",
+      "description": "Japan's cherry blossom (sakura) season typically occurs from late March to early April in major cities like Tokyo and Kyoto, with ...",
+      "published_at": "2026-04-08T03:30:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q0TZfHSV3R8/hqdefault.jpg"
+    },
     {
       "title": "Sagrada Família: World&#39;s Tallest Church",
       "video_id": "cKtRHP85s8A",
@@ -67,22 +83,6 @@
       "description": "Construction of the Sagrada Família in Barcelona began on March 19, 1882, originally designed by Francisco de Paula del Villar ...",
       "published_at": "2026-03-13T04:30:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Lluy_r1OTnI/hqdefault.jpg"
-    },
-    {
-      "title": "The Most Incredible Hidden Sanctuary in Italy",
-      "video_id": "9UHxwbSBl2M",
-      "channel_title": "UNlimited",
-      "description": "Madonna della Corona is a stunning, 16th-century Catholic sanctuary in Spiazzi (Verona), Italy, built directly into the Monte Baldo ...",
-      "published_at": "2026-03-11T04:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9UHxwbSBl2M/hqdefault.jpg"
-    },
-    {
-      "title": "Schloss Lichtenstein: Germany&#39;s Fairy Tale Castle of Württemberg",
-      "video_id": "8xZ9lco_Cgk",
-      "channel_title": "UNlimited",
-      "description": "Lichtenstein Castle (Schloss Lichtenstein) is a 19th-century Neo-Gothic fairy tale castle in Baden-Württemberg, Germany, built ...",
-      "published_at": "2026-03-10T04:30:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8xZ9lco_Cgk/hqdefault.jpg"
     }
   ]
 }

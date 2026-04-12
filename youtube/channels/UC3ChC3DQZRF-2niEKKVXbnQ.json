@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-05T00:43:49.268201",
+  "fetched_at": "2026-04-12T00:46:01.597692",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "AI能帮我拍照了? Qwen3.5-Omni实测!",
+      "video_id": "LlOhnGiqsvs",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Qwen3.5-Omni-Plus 全模态大模型实测! 这个模型同时支持文本, 音频, 图片, 视频输入, 并且支持文本和语音输出. 非常适合 ...",
+      "published_at": "2026-04-10T07:42:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LlOhnGiqsvs/hqdefault.jpg"
+    },
     {
       "title": "从国产SOTA走向世界SOTA? GLM-5.1 实测!",
       "video_id": "kwcHb2WmzuM",
@@ -75,14 +83,6 @@
       "description": "GLM-4.7 才发布一个月, 智谱又掏出了GLM-5, 这迭代速度属实离谱. 照例给大家带来编程、Agent、长上下文能力全面测试! 本次编程 ...",
       "published_at": "2026-02-11T14:02:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Od3N9GNRkGo/hqdefault.jpg"
-    },
-    {
-      "title": "不是说好了年前不发吗? DeepSeek 你个大猪蹄子",
-      "video_id": "zP8stc-NPS4",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来DeepSeek 刚刚发布还不知道名称的模型的实测, 由于是速报哈, 所以只测了大象牙膏这一个case. 但是能看出来很多东西, ...",
-      "published_at": "2026-02-11T12:43:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zP8stc-NPS4/hqdefault.jpg"
     }
   ]
 }

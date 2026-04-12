@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-04-05T00:44:00.222287",
+  "fetched_at": "2026-04-12T00:46:13.126673",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "Where We Go with @thomasrhettmusic is everywhere now",
+      "video_id": "KSaGOOX3Fuo",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-04-10T20:41:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KSaGOOX3Fuo/hqdefault.jpg"
+    },
+    {
+      "title": "A little “would you rather” with @thomasrhettmusic",
+      "video_id": "gFOgyjWeZug",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-04-09T21:37:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gFOgyjWeZug/hqdefault.jpg"
+    },
+    {
+      "title": "Where We Go w @thomasrhettmusic available everywhere Friday ​⁠",
+      "video_id": "gvt_87ttB_Q",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-04-06T17:31:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gvt_87ttB_Q/hqdefault.jpg"
+    },
     {
       "title": "Where We Go with @thomasrhettmusic",
       "video_id": "pBABvmxMdzE",
@@ -24,7 +48,7 @@
       "title": "Marshmello x Portugal. The Man - Phoenix (Official Visualizer)",
       "video_id": "i2DLoCbOhyc",
       "channel_title": "Marshmello",
-      "description": "Stream/download Phoenix with @Portugal.TheMan: https://marshmello.ffm.to/phoenix Official Marshmello Merch ...",
+      "description": "Marshmello x Portugal. The Man - Phoenix (Official Visualizer) Stream/download Phoenix with @Portugal.TheMan: ...",
       "published_at": "2026-03-27T04:00:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/i2DLoCbOhyc/hqdefault.jpg"
     },
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-03-06T18:08:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/691ascob_aU/hqdefault.jpg"
-    },
-    {
-      "title": "New vibes",
-      "video_id": "oA-O_kb_Sik",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2026-02-26T22:25:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oA-O_kb_Sik/hqdefault.jpg"
-    },
-    {
-      "title": "Been in the studio too much, had to step outside",
-      "video_id": "EPxdbohqr3Y",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2026-02-17T23:49:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EPxdbohqr3Y/hqdefault.jpg"
-    },
-    {
-      "title": "y’all better get with the movement 😤",
-      "video_id": "i5adPgDiPj0",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2026-01-18T22:46:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i5adPgDiPj0/hqdefault.jpg"
     }
   ]
 }

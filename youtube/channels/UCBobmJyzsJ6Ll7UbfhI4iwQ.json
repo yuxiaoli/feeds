@@ -1,40 +1,56 @@
 {
-  "fetched_at": "2026-04-05T00:43:57.982481",
+  "fetched_at": "2026-04-12T00:46:10.861595",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 4,
+  "count": 6,
   "videos": [
+    {
+      "title": "Exploring the New Cascadeur Update with Unreal Live Link | Inside Unreal",
+      "video_id": "jhXtL3CB4Bo",
+      "channel_title": "Unreal Engine",
+      "description": "Join us as we meet with the team behind the Cascadeur animation suite and their newly released version 2026.1, including ...",
+      "published_at": "2026-04-09T20:34:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jhXtL3CB4Bo/hqdefault.jpg"
+    },
     {
       "title": "Creating Live Events with UEFN | UEFN Build Along",
       "video_id": "kSF4ZSExXbg",
       "channel_title": "Unreal Engine",
       "description": "Join us as we dive into creating Live Events with Unreal Editor for Fortnite!",
-      "published_at": "2026-04-03T16:41:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kSF4ZSExXbg/hqdefault_live.jpg"
+      "published_at": "2026-04-07T20:21:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kSF4ZSExXbg/hqdefault.jpg"
     },
     {
-      "title": "A UE5-powered virtual factory to optimize Cadbury Creme Egg production",
-      "video_id": "Mg1JWGUeDvs",
+      "title": "Playing Featured Fortnite Islands w/ Special Guest: Brian Grayson | Indie Games Week 2026",
+      "video_id": "vfn9zoZhYhE",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to find out how PurpleSector combined UE5 with photogrammetry and machine vision technology to build a ...",
-      "published_at": "2026-04-02T14:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Mg1JWGUeDvs/hqdefault.jpg"
+      "description": "Join us for Indie Games Week as we explore featured UEFN islands from this year's showcase, with special guest Brian ...",
+      "published_at": "2026-04-01T16:17:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vfn9zoZhYhE/hqdefault_live.jpg"
     },
     {
-      "title": "Meet the studios using Unreal Engine to create the new wave of kids’ animation",
-      "video_id": "BYcDNHMFChU",
+      "title": "Creating High-Fidelity Digital Humans on a Small Budget w/ MetaHuman | Indie Games Week 2026",
+      "video_id": "Oig-vdPd9ak",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to discover how Unreal Engine is becoming the preferred tool for kids' animation, enabling fast iteration, rapid ...",
-      "published_at": "2026-04-01T16:29:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BYcDNHMFChU/hqdefault.jpg"
+      "description": "Join the MetaHuman product team and Sir Wade from Sir Wade Animation, who will guide you through practical, time-saving ...",
+      "published_at": "2026-03-04T22:30:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Oig-vdPd9ak/hqdefault_live.jpg"
     },
     {
-      "title": "Star Wars™ Toolset | Creating in Fortnite",
-      "video_id": "BzVrJWY4ylE",
+      "title": "Timberline Studio on the making of Beastro | Inside Unreal | Indie Games Week 2026",
+      "video_id": "1YN3GRv1o1g",
       "channel_title": "Unreal Engine",
-      "description": "Join us as we dive into the exciting new Star War™ Toolset for Unreal Editor for Fortnite!",
-      "published_at": "2026-03-31T19:54:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BzVrJWY4ylE/hqdefault.jpg"
+      "description": "Join us for Indie Games Week as we explore Beastro with Timberline, the team behind this UE5-powered adventure title, and ...",
+      "published_at": "2026-03-04T22:29:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1YN3GRv1o1g/hqdefault_live.jpg"
+    },
+    {
+      "title": "Abiotic Factor &amp; Midnight Ghost Hunt: Online Systems w/ Epic Online Services | Indie Games Week 2026",
+      "video_id": "3fqLZCNl3GU",
+      "channel_title": "Unreal Engine",
+      "description": "Join us as we go behind the scenes with Deep Field Games (Abiotic Factor) and Vaulted Sky Games (Midnight Ghost ...",
+      "published_at": "2026-03-04T22:24:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3fqLZCNl3GU/hqdefault_live.jpg"
     }
   ]
 }

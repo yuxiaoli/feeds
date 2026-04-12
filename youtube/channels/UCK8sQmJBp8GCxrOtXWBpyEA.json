@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-04-05T00:44:08.240096",
+  "fetched_at": "2026-04-12T00:46:21.344331",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 6,
+  "count": 5,
   "videos": [
+    {
+      "title": "Could @GiannisAntetokounmpo dunk on the moon? 🌖",
+      "video_id": "Bm_ny8y8WkQ",
+      "channel_title": "Google",
+      "description": "Have a wild matchup in mind? Use Search with AI Mode to run your own simulations and see who would win.",
+      "published_at": "2026-04-10T21:39:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Bm_ny8y8WkQ/hqdefault.jpg"
+    },
+    {
+      "title": "How to Vibe Code an App From a Drawing",
+      "video_id": "b1Pvt072wKQ",
+      "channel_title": "Google",
+      "description": "With vibe coding, you can build an app by just describing it. In this video, we show you how to turn a vision and a hand-drawn ...",
+      "published_at": "2026-04-09T19:03:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b1Pvt072wKQ/hqdefault.jpg"
+    },
+    {
+      "title": "Want a peek at @KarolG plans for@Coachella? It starts with Google Search",
+      "video_id": "i2kXouPuNxk",
+      "channel_title": "Google",
+      "description": "Ready to see @KarolG make @Coachella history? Watch for performance hints Subscribe to our Channel: ...",
+      "published_at": "2026-04-08T15:59:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i2kXouPuNxk/hqdefault.jpg"
+    },
+    {
+      "title": "Best friends don’t let each other go to @Coachella without checking Google 🤝 #Sponsored",
+      "video_id": "jqHpMup3St8",
+      "channel_title": "Google",
+      "description": "",
+      "published_at": "2026-04-07T18:37:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jqHpMup3St8/hqdefault.jpg"
+    },
     {
       "title": "What is Vibe Coding?",
       "video_id": "tYhgWRJeYzs",
@@ -11,46 +43,6 @@
       "description": "We're diving into vibe coding, where natural language and creativity combine with the power of AI to turn ideas into tangible tools.",
       "published_at": "2026-04-02T21:25:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tYhgWRJeYzs/hqdefault.jpg"
-    },
-    {
-      "title": "A Behind the Scenes Tour of a NASA Complex",
-      "video_id": "BodGtkvX3FY",
-      "channel_title": "Google",
-      "description": "Have a look behind-the-scenes of our visit to @NASA. We got all your top-searched Artemis II questions answered, and we swear ...",
-      "published_at": "2026-04-02T16:56:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BodGtkvX3FY/hqdefault.jpg"
-    },
-    {
-      "title": "3, 2, 1… Artemis II is ready for liftoff #GoogleDoodle",
-      "video_id": "P8cfYd7XsU4",
-      "channel_title": "Google",
-      "description": "Today's #GoogleDoodle celebrates the launch of Artemis II, the NASA mission that will send astronauts around the moon and ...",
-      "published_at": "2026-04-01T21:59:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/P8cfYd7XsU4/hqdefault.jpg"
-    },
-    {
-      "title": "Is the moon just the beginning? NASA answers all your top searched Artemis II questions.",
-      "video_id": "U-HnWcXvLVI",
-      "channel_title": "Google",
-      "description": "We teamed up with @NASA to give you a behind-the-scenes look at their test facilities, and get all your top Artemis II questions ...",
-      "published_at": "2026-03-31T21:01:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U-HnWcXvLVI/hqdefault.jpg"
-    },
-    {
-      "title": "Change your Google Account username in a few simple steps",
-      "video_id": "bF3RqqV4xzI",
-      "channel_title": "Google",
-      "description": "You asked, we delivered. If you're a U.S. Google user, you can now change your account username to log in to tools like Gmail, ...",
-      "published_at": "2026-03-31T16:25:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bF3RqqV4xzI/hqdefault.jpg"
-    },
-    {
-      "title": "How to Vibe Code a Website",
-      "video_id": "xCkIxdJZ8fU",
-      "channel_title": "Google",
-      "description": "Learn how to build a professional website in 10 minutes using Google AI Studio. From mood boards to a live site, see how easy ...",
-      "published_at": "2026-03-26T18:39:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xCkIxdJZ8fU/hqdefault.jpg"
     }
   ]
 }

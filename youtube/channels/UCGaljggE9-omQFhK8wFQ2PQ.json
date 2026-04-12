@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-05T00:44:05.242146",
+  "fetched_at": "2026-04-12T00:46:18.439665",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The Full Aussie Splash Landing",
+      "video_id": "MzsFnEWtgE0",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "Duel stream from the Full Aussie youtube channel Join us for some WYR, Weird Stories, people getting hurt and more. Rumble: ...",
+      "published_at": "2026-04-11T14:51:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MzsFnEWtgE0/hqdefault.jpg"
+    },
     {
       "title": "Easter Mayhem w/ The Full Aussie Podcast",
       "video_id": "923RffbyaV4",
@@ -75,14 +83,6 @@
       "description": "Join us as we discuss Stargate SG 1 and play games. We're talking about the last episode of Season 3 and the 1st of season 4 ...",
       "published_at": "2026-03-19T23:47:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DawdFDWbQXQ/hqdefault.jpg"
-    },
-    {
-      "title": "FAP - Flogging Ya Fuel",
-      "video_id": "vPpbZ0ce9bo",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "Duel stream from the Full Aussie youtube channel Rumble: ...",
-      "published_at": "2026-03-14T13:35:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vPpbZ0ce9bo/hqdefault.jpg"
     }
   ]
 }

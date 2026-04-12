@@ -1,32 +1,56 @@
 {
-  "fetched_at": "2026-04-05T00:44:10.966613",
+  "fetched_at": "2026-04-12T00:46:24.371202",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Agentic Trust: Securing AI Interactions with Tokens &amp; Delegation",
-      "video_id": "lUQ2NKkCW_Q",
+      "title": "What is AI Technical Debt? Key Risks for Machine Learning Projects",
+      "video_id": "DgXV8QSlI4U",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-04-04T11:01:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lUQ2NKkCW_Q/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-04-11T11:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DgXV8QSlI4U/hqdefault.jpg"
     },
     {
-      "title": "SpaceX IPO &amp; AI data centers in space",
-      "video_id": "DW0jRLG3beU",
+      "title": "Claude Mythos, Project Glasswing and AI cybersecurity risks",
+      "video_id": "Yae74guiqq8",
       "channel_title": "IBM Technology",
-      "description": "Read more about data centers in space → https://ibm.biz/Bdpv5G Is AI infrastructure moving to space? This week on Mixture of ...",
-      "published_at": "2026-04-03T10:15:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DW0jRLG3beU/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/BdpKdN Is your infrastructure safe from the next ...",
+      "published_at": "2026-04-10T12:30:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Yae74guiqq8/hqdefault.jpg"
     },
     {
-      "title": "Crypto Beyond Dark Web Myths",
-      "video_id": "dnHo5hSkpR4",
+      "title": "You Are on the Dark Web: How Phishing Leads to Data Breaches",
+      "video_id": "97DmVYRxiN0",
       "channel_title": "IBM Technology",
-      "description": "Crypto faces blame for cybercrimes and ransomware—but is the technology itself the problem? Watch the latest episode of the ...",
-      "published_at": "2026-04-02T16:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dnHo5hSkpR4/hqdefault.jpg"
+      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
+      "published_at": "2026-04-09T11:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/97DmVYRxiN0/hqdefault.jpg"
+    },
+    {
+      "title": "The Claude Code source code leak: Takeaways for cybersecurity pros",
+      "video_id": "qtFtECYOzZE",
+      "channel_title": "IBM Technology",
+      "description": "Visit the Security Intelligence the podcast page → https://ibm.biz/BdpmAn What happens when one of the world's most popular AI ...",
+      "published_at": "2026-04-08T10:16:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qtFtECYOzZE/hqdefault.jpg"
+    },
+    {
+      "title": "Code Risk Intelligence: Securing AI Coding at Scale in Real Time",
+      "video_id": "lYDkcC9DDaM",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about AI Code-Generation here → https://ibm.biz/BdpZqb ⚠️ Is AI code generation putting your software at risk?",
+      "published_at": "2026-04-07T11:01:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lYDkcC9DDaM/hqdefault.jpg"
+    },
+    {
+      "title": "What is Multimodal AI? How LLMs Process Text, Images, and More",
+      "video_id": "J51oZYcNvP8",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-04-06T11:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J51oZYcNvP8/hqdefault.jpg"
     },
     {
       "title": "How Smart Organizations Will Use AI: Jevons Paradox &amp; Workforce Impact",
@@ -45,22 +69,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0nPkGvNS0n8/hqdefault.jpg"
     },
     {
-      "title": "LLM Compression Explained: Build Faster, Efficient AI Models",
-      "video_id": "wIXr22QTEHg",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-03-31T11:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wIXr22QTEHg/hqdefault.jpg"
-    },
-    {
-      "title": "Are Your AI Agents Flying Blind? The Truth About AgentOps",
-      "video_id": "jWDCnJKouhw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-03-30T11:00:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jWDCnJKouhw/hqdefault.jpg"
-    },
-    {
       "title": "Why AI Agents Need A Human in the Loop Now",
       "video_id": "cmEJ-5zYKHA",
       "channel_title": "IBM Technology",
@@ -75,14 +83,6 @@
       "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
       "published_at": "2026-02-26T12:00:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/RKeW4Xd9V9E/hqdefault.jpg"
-    },
-    {
-      "title": "AI agents in 2025: Why agentic commerce isn&#39;t ready for Black Friday yet",
-      "video_id": "SdNRWJ-oqjY",
-      "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/BdbJ6K Will Black Friday 2025 be the breakout moment for agentic commerce? This week ...",
-      "published_at": "2025-11-28T11:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/hqdefault.jpg"
     }
   ]
 }

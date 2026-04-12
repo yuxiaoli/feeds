@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-05T00:44:06.854330",
+  "fetched_at": "2026-04-12T00:46:19.946720",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Would you ever visit the Underworld?",
+      "video_id": "719Go8AYrU0",
+      "channel_title": "DamiLee",
+      "description": "A compliance analyst living in the mid-levels of Coruscant shares a glimpse into daily life - airspeeder traffic, holographic ...",
+      "published_at": "2026-04-06T15:40:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/719Go8AYrU0/hqdefault.jpg"
+    },
     {
       "title": "Architecture of Darkness",
       "video_id": "tHNeu_DIOac",
@@ -75,14 +83,6 @@
       "description": "An ecumenopolis is a planet completely covered in urban civilization, imagined in science fiction and studied by real urban ...",
       "published_at": "2026-02-16T16:31:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ksxgtnHnF84/hqdefault.jpg"
-    },
-    {
-      "title": "How far would you walk for food on Coruscant?",
-      "video_id": "w1ULX-krPU0",
-      "channel_title": "DamiLee",
-      "description": "In a planet-wide city, daily life depends on human walking distance, not just megastructures. Architect Constantinos Doxiadis ...",
-      "published_at": "2026-02-14T16:30:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w1ULX-krPU0/hqdefault.jpg"
     }
   ]
 }

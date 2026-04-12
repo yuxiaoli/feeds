@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-05T00:44:03.779255",
+  "fetched_at": "2026-04-12T00:46:16.901740",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
+    {
+      "title": "Families power who we are at Microsoft",
+      "video_id": "15XjZQeW43s",
+      "channel_title": "Microsoft",
+      "description": "Microsoft coworkers swapped stories about family to write powerful poetry. Now, they'll hear what the other person wrote for the ...",
+      "published_at": "2026-04-08T19:34:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/15XjZQeW43s/hqdefault.jpg"
+    },
     {
       "title": "Cement made with seaweed? | Discovered at Microsoft Ep. 2",
       "video_id": "7a96_Wtl9xw",
@@ -75,14 +83,6 @@
       "description": "Swiggy is one of India's leading on-demand convenience platforms. Powered by Microsoft Fabric Real-Time Intelligence, Swiggy ...",
       "published_at": "2025-12-12T04:54:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/z32sE3194wg/hqdefault.jpg"
-    },
-    {
-      "title": "Satya Nadella completes the Microsoft 365 Copilot Challenge",
-      "video_id": "gBcwQaNoP5A",
-      "channel_title": "Microsoft",
-      "description": "microsoft #excel #microsoftexcel As the Excel World Championship takes place in Las Vegas, Satya Nadella tries his hand at the ...",
-      "published_at": "2025-12-04T18:55:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gBcwQaNoP5A/hqdefault.jpg"
     }
   ]
 }

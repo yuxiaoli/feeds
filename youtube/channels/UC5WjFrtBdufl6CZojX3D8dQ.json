@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-05T00:43:52.203573",
+  "fetched_at": "2026-04-12T00:46:04.697630",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "TERAFAB | The Largest Chip Manufacturing Facility Ever",
+      "video_id": "Txt3Wodav1o",
+      "channel_title": "Tesla",
+      "description": "Tesla, SpaceX, and xAI are launching the most epic chip-building effort ever - combining logic, memory and advanced packaging ...",
+      "published_at": "2026-04-06T18:58:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Txt3Wodav1o/hqdefault.jpg"
+    },
     {
       "title": "TERAFAB",
       "video_id": "HcxEGykMZc4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-02-04T01:50:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/g2yofR9OYE0/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Tesla Solar Panels",
-      "video_id": "7sxdv5H9uAU",
-      "channel_title": "Tesla",
-      "description": "New Tesla Solar Panels & Tesla Panel Mount now available - https://www.tesla.com/solarpanels Solar Panel: – 420W – Uses ...",
-      "published_at": "2026-01-31T00:06:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7sxdv5H9uAU/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-04-05T00:44:24.710283",
+  "fetched_at": "2026-04-12T00:46:38.866285",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Builders Unscripted: Ep. 2 - Ashe Magalhaes, Founder of Hearth AI",
+      "video_id": "flweA_I-VKE",
+      "channel_title": "OpenAI",
+      "description": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things.",
+      "published_at": "2026-04-10T17:30:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/flweA_I-VKE/hqdefault.jpg"
+    },
+    {
+      "title": "Design your dream room by shopping with ChatGPT",
+      "video_id": "1PiLUnxd1b8",
+      "channel_title": "OpenAI",
+      "description": "Upload your design inspiration to ChatGPT and find inspiration for similar items. Make shopping easier than ever with our visually ...",
+      "published_at": "2026-04-09T23:35:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1PiLUnxd1b8/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT and Cancer: How a Tech Founder Rewrote His Treatment Plan",
+      "video_id": "OAlHiQLsYQM",
+      "channel_title": "OpenAI",
+      "description": "When GitLab co-founder Sid Sijbrandij was diagnosed with a rare and aggressive cancer, he approached it like an engineering ...",
+      "published_at": "2026-04-09T22:44:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OAlHiQLsYQM/hqdefault.jpg"
+    },
+    {
+      "title": "What Codex Unlocks for Braintrust",
+      "video_id": "AIZ_v_Xfb2k",
+      "channel_title": "OpenAI",
+      "description": "The really cool thing with Codex is that we get to iterate and ideate on feature requests with the customer in real time.” Ankur ...",
+      "published_at": "2026-04-09T17:09:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AIZ_v_Xfb2k/hqdefault.jpg"
+    },
+    {
+      "title": "What Codex Unlocks for Braintrust",
+      "video_id": "pLyVlqhaieI",
+      "channel_title": "OpenAI",
+      "description": "\"The really cool thing with Codex, is that we get to iterate and ideate on feature requests with the customer in real time.” Ankur ...",
+      "published_at": "2026-04-09T17:04:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pLyVlqhaieI/hqdefault.jpg"
+    },
+    {
+      "title": "Sam Altman on Building the Future of AI",
+      "video_id": "ZpUKNYcgM-E",
+      "channel_title": "OpenAI",
+      "description": "AI is advancing faster than most people realize. In this OpenAI Forum conversation, Sam Altman joins Josh Achiam and Adrien ...",
+      "published_at": "2026-04-07T20:36:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZpUKNYcgM-E/hqdefault.jpg"
+    },
+    {
+      "title": "LG Uplus Creates Next Gen AICC",
+      "video_id": "2g1e1QUiY8s",
+      "channel_title": "OpenAI",
+      "description": "OpenAI and LG Uplus engineers collaborated to create a next-generation AICC, “Agentic AICC,” which is positioned to become a ...",
+      "published_at": "2026-04-06T15:19:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2g1e1QUiY8s/hqdefault.jpg"
+    },
     {
       "title": "OpenAl x Gradient Labs Founder Spotlight",
       "video_id": "yNNTLllVbiE",
@@ -21,68 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ZXEAuZOSLs0/hqdefault.jpg"
     },
     {
-      "title": "Design your dream room by shopping with ChatGPT",
+      "title": "Research and compare products with ChatGPT",
       "video_id": "jM1oSEXssOE",
       "channel_title": "OpenAI",
-      "description": "Upload your design inspiration to ChatGPT and find inspiration for similar items. Make shopping easier than ever with our visually ...",
+      "description": "From “just looking” to actually finding what you want. Browse, compare, and narrow down products right inside ChatGPT.",
       "published_at": "2026-03-27T17:27:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jM1oSEXssOE/hqdefault.jpg"
-    },
-    {
-      "title": "Shopping in ChatGPT just got a whole lot more helpful",
-      "video_id": "7IB1KBVm7HE",
-      "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2026-03-27T17:12:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7IB1KBVm7HE/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT Shopping | Research and compare products without all the tabs.",
-      "video_id": "fFboNpWweyE",
-      "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2026-03-26T20:31:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fFboNpWweyE/hqdefault.jpg"
-    },
-    {
-      "title": "What Codex Unlocks for Ryan Hendler, dev at me&amp;u",
-      "video_id": "yUjfp2DlfCA",
-      "channel_title": "OpenAI",
-      "description": "With Codex, Ryan Hendler, a developer at me&u in Melbourne Australia, ships while he sleeps and does work that wasn't ...",
-      "published_at": "2026-03-26T17:18:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yUjfp2DlfCA/hqdefault.jpg"
-    },
-    {
-      "title": "What Codex Unlocks for Ryan Hendler, dev at me&amp;u",
-      "video_id": "4_P7R8Fjrg8",
-      "channel_title": "OpenAI",
-      "description": "With Codex, Ryan Hendler, a developer at me&u in Melbourne Australia, ships while he sleeps and does work that wasn't ...",
-      "published_at": "2026-03-26T17:07:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4_P7R8Fjrg8/hqdefault.jpg"
-    },
-    {
-      "title": "Episode 15 - Inside the Model Spec",
-      "video_id": "H8GMRxG8suw",
-      "channel_title": "OpenAI",
-      "description": "The more AI can do, the more we need to ask what it should and shouldn't do. In this episode, OpenAI researcher Jason Wolfe ...",
-      "published_at": "2026-03-25T16:55:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H8GMRxG8suw/hqdefault.jpg"
-    },
-    {
-      "title": "What Codex Unlocks for Notion",
-      "video_id": "qHEUIXGSxxg",
-      "channel_title": "OpenAI",
-      "description": "Hey Ryan Nystrom (Notion), what has Codex unlocked for you? “The fact that I can build this feature solo while still supporting my ...",
-      "published_at": "2026-03-24T17:21:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qHEUIXGSxxg/hqdefault.jpg"
-    },
-    {
-      "title": "What Codex Unlocks for Notion",
-      "video_id": "bxJkxBUFeEE",
-      "channel_title": "OpenAI",
-      "description": "Hey Ryan Nystrom @ Notion, what has Codex unlocked for you? “The fact that I can build this feature solo while still supporting ...",
-      "published_at": "2026-03-24T17:01:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bxJkxBUFeEE/hqdefault.jpg"
     }
   ]
 }

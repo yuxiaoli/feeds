@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-04-05T00:44:04.504600",
+  "fetched_at": "2026-04-12T00:46:17.675478",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "创作垃圾作品的究竟是人类还是AI | 图灵测试 | AI创作的本质 | 人类对创作的逆向工程 | 视觉艺术 | 陈词滥调 | 类型文学 | 原创性 | 鹦鹉逻辑 | 通用图灵机 | 回忆录",
-      "video_id": "hm62_lQzBCY",
+      "title": "突破RLHF的规模化瓶颈 | DeepMind团队论文 | 数据利用效率极低 | 四种RLHF算法 | off-policy | 在线RLHF | 认知神经网络ENN | 信息导向探索 | 肯定性微调",
+      "video_id": "8K9ITsYPRcc",
       "channel_title": "最佳拍档",
-      "description": "在AI能写诗歌、写小说、甚至写剧本的时代，人类的创造性到底还有什么不可替代的价值呢？当Claude能够在几秒内写出符合格律的 ...",
-      "published_at": "2026-04-04T09:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hm62_lQzBCY/hqdefault.jpg"
+      "description": "2026年3月，Google DeepMind的Efficient Agent团队在arXiv上发布的一篇题为《Efficient Exploration at Scale》的论文，直接给出 ...",
+      "published_at": "2026-04-11T23:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8K9ITsYPRcc/hqdefault.jpg"
     },
     {
-      "title": "AI搞得我精神错乱 | Andrej Kapathy | Token焦虑 | OpenClaw | 家庭自动化 | 自动研究 | 锯齿状能力 | 大模型物种分化 | 软件工程 | 开源与闭源",
-      "video_id": "JSMUrVjHjuo",
+      "title": "AI正在加速起飞 | Greg Brockman | AGI已实现70% | 大一统技术架构 | 新模型Spud | 停用Sora | 超级应用 | 易用性 | 自动化AI研究员",
+      "video_id": "8FHWEALi_OY",
       "channel_title": "最佳拍档",
-      "description": "作为OpenAI的前联合创始人、AI领域的顶尖大牛，安德烈·卡帕西在最新的一期播客节目中，不仅自曝因为AI的飞速发展，陷入了某种 ...",
-      "published_at": "2026-04-03T09:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JSMUrVjHjuo/hqdefault.jpg"
+      "description": "在最新的专访中，OpenAI 联合创始人兼总裁Greg Brockman，抛出了一系列令人震撼的言论。他说，人类通往AGI的路程已经完成 ...",
+      "published_at": "2026-04-11T09:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8FHWEALi_OY/hqdefault.jpg"
     },
     {
-      "title": "AlphaGo十年回顾 | DeepMind播客 | 为何选择围棋 | 快思与慢想 | 李世石 | 第37手 | 神之一手 | AlphaZero | 直觉+搜索 | 哈萨比斯 | AlphaFold",
-      "video_id": "UKPARZZGxqk",
+      "title": "Claude Mythos的7个彩蛋 | 244页系统卡报告 | 反复发送hi | 情绪轨迹 | 最喜欢的任务 | 真实临床精神评估 | 权衡实验 | 创意写作 | 宪法AI | 强大而危险的向导",
+      "video_id": "gfynFwycc7o",
       "channel_title": "最佳拍档",
-      "description": "十年前，当谷歌DeepMind的AlphaGo，以4:1的比分战胜围棋传奇李世石时，没有人能完全预见，这一场棋盘上的胜负，会成为人工 ...",
-      "published_at": "2026-04-02T09:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UKPARZZGxqk/hqdefault.jpg"
+      "description": "Claude Mythos的系统卡报告，里面有很多非常有意思的实验和小故事。比如，研究团队反复只给模型发一个词Hi，观察它的反应。",
+      "published_at": "2026-04-10T23:00:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gfynFwycc7o/hqdefault.jpg"
     },
     {
-      "title": "Claude Code 51万行源代码意外泄露 | 员工操作失误 | 瞬间被克隆 | Chaofan Shou | Sigrid Jin | KAIROS | Buddy | Auto Dream",
-      "video_id": "kz5T7J-F53M",
+      "title": "大语言模型的自我进化 | 罗伯特·兰格 | Shinka Evolve | AlphaEvolve | 样本效率大幅提升 | 《伟大无法被规划》| POET | PowerPlay | UCB老虎机",
+      "video_id": "m17jqrqBZSc",
       "channel_title": "最佳拍档",
-      "description": "昨天3月31号，可以说是迎来了一次足以撼动整个AI行业的重磅事件，Anthropic旗下的Claude Code，以一种极其戏剧性的方式完成 ...",
-      "published_at": "2026-04-01T10:16:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kz5T7J-F53M/hqdefault.jpg"
+      "description": "大语言模型能否实现自我进化吗？最近，日本AI初创企业Sakana AI开源了一个Shinka Evolve框架。这个框架将大语言模型与进化 ...",
+      "published_at": "2026-04-10T09:01:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m17jqrqBZSc/hqdefault.jpg"
     },
     {
-      "title": "所有人都将通往世界模型 | 谢赛宁6小时访谈 | AMI Labs | 逃离硅谷 | 表征学习 | Rich Sutton | Yann Lecun | 两次拒绝Ilya | 语言是毒药 | 人文关怀",
-      "video_id": "vuhHraEhVeo",
+      "title": "Intel的遗憾 | 帕特·基辛格 | 童年生活 | 进入英特尔 | VMware | 重回英特尔 | 芯片战争 | 美国半导体产业 | 五年重塑愿景 | 家庭与信仰 | 科技领袖的责任",
+      "video_id": "yprCM0o670I",
       "channel_title": "最佳拍档",
-      "description": "由杨立昆和谢赛宁创立的AMI Labs，仅凭25人的团队、在没有推出任何产品的情况下，就完成了10.3亿美元的种子轮融资，投前估值 ...",
-      "published_at": "2026-03-30T09:00:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vuhHraEhVeo/hqdefault.jpg"
+      "description": "今天，我们透过帕特·基辛格在《a bit personal》的最新访谈，聊聊半导体产业的竞争逻辑，也聊聊科技领袖的领导力内核，更聊聊 ...",
+      "published_at": "2026-04-09T23:01:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yprCM0o670I/hqdefault.jpg"
     },
     {
-      "title": "生成式AI消费应用Top 100 | 第六版 | A16Z | ChatGPT | 默认AI | 生态竞争 | 地域分化 | 创意工具 | AI Agent崛起 | 新的统计方式",
-      "video_id": "6mw17yxQ4wg",
+      "title": "AI帝国背后的真相 | Karen Hao | 吹哨人 | 人工智能的起源 | AGI定义不清 | 帝国式运作 | 媒体管控 | 叙事陷阱 | 数据标注工人 | 技术的代价",
+      "video_id": "wP-CXUzcLGs",
       "channel_title": "最佳拍档",
-      "description": "全球顶级风投机构a16z在2026年3月9日发布了一份《生成式AI消费应用百强榜第六版》报告，这份由奥利维娅·穆尔撰写的报告， ...",
-      "published_at": "2026-03-29T23:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6mw17yxQ4wg/hqdefault.jpg"
+      "description": "当ChatGPT成为全球现象，当奥特曼站在国会山畅谈AGI的未来，当各大科技公司砸下千亿美金争夺AI赛道，我们看到的永远是技术 ...",
+      "published_at": "2026-04-09T09:01:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wP-CXUzcLGs/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】AI未来发展的核心支柱 | 钢铁、服务器、能源 | David Cahn红杉美国合伙人 | 数据中心 | 基建效率 | 现金牛 | 房地产 | 资产负债表外融资",
-      "video_id": "5gDrGItwDg4",
+      "title": "最强模型Claude Mythos出炉 | Anthropic | 暂不对公众开放 | 玻璃之翼计划 | 编程能力跃升 | HLE轻松第一 | token消耗20% | 网络攻击风险加剧",
+      "video_id": "8n_3eWmcu0w",
       "channel_title": "最佳拍档",
-      "description": "今天我们来分享一个20VC推出的播客节目，在这档节目中，投资人大卫·卡恩David Cahn与播客主持人哈里·斯特宾斯Harry ...",
-      "published_at": "2024-08-15T09:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5gDrGItwDg4/hqdefault.jpg"
+      "description": "Anthropic的最强模型Claude Mythos正式出炉，这个模型强到什么程度呢？它一夜之间找到了隐藏27年的系统漏洞，在所有公开的大 ...",
+      "published_at": "2026-04-08T23:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8n_3eWmcu0w/hqdefault.jpg"
     },
     {
-      "title": "【商业】创业公司如何找到产品市场契合点PMF | 红杉资本Arc活动分享 |  产品与客户之间的三种关系 | 如何选择路径 | 燃眉之急 | 铁的事实 | 未来愿景",
-      "video_id": "nJIVpB05eKY",
+      "title": "数学的认知革命 | 陶哲轩 | 开普勒 | 第谷 | 哥白尼革命 | 科学研究范式转变 | 科学的传播方式 | 数学的实验时代 | 科研生产力 | 黎曼猜想 | 高斯",
+      "video_id": "-caLZ9oiOBk",
       "channel_title": "最佳拍档",
-      "description": "今天这是一期科技创业者必看的视频。对于所有初创公司来说，核心任务就是寻找产品与市场的契合点，也就是所谓 ...",
-      "published_at": "2024-05-01T10:06:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nJIVpB05eKY/hqdefault.jpg"
+      "description": "菲尔兹奖得主陶哲轩，在与德瓦克什·帕特尔的最新播客对谈中，抛出了一个重磅观点，AI已经把思想生成的成本压低到几乎为零， ...",
+      "published_at": "2026-04-08T09:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-caLZ9oiOBk/hqdefault.jpg"
     },
     {
-      "title": "关于中美企业异国发展蔡崇信给出了一些务实建议",
-      "video_id": "_EckgvG2mAI",
+      "title": "Arm 发布AGI CPU | 1.2 亿个需求 | 性能、规模和效率 | Neoverse V3 | 低延迟 | 3nm工艺 | 一等公民 | Meta迁移案例 | x86竞争 | 万亿规模",
+      "video_id": "j0a4_l55nbs",
       "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts.",
-      "published_at": "2024-04-07T05:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_EckgvG2mAI/hqdefault.jpg"
+      "description": "在AI行业的讨论中，GPU似乎一直是过去几年的绝对主角，从大模型训练到推理，从云数据中心到边缘端，几乎所有的AI算力话题都 ...",
+      "published_at": "2026-04-08T00:00:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j0a4_l55nbs/hqdefault.jpg"
     },
     {
-      "title": "OpenAI为何能坚持AGI道路 #openai #人工智能",
-      "video_id": "U0DFLWtAGO4",
+      "title": "计算的终途在星辰大海 | StarCloud Philip Johnston | 太空数据中心 | SpaceX | 散热和辐射难题 | 太空的Equinix | 太空房产 | 费米悖论 | 大过滤器",
+      "video_id": "Cs1GwBWDsL4",
       "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts.",
-      "published_at": "2024-03-04T00:08:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U0DFLWtAGO4/hqdefault.jpg"
+      "description": "Starcloud的创始人兼CEO菲利普·约翰斯顿（Philip Johnston），在红杉资本的播客中提出了一个极其大胆且深刻的观点，计算的 ...",
+      "published_at": "2026-04-06T09:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cs1GwBWDsL4/hqdefault.jpg"
     }
   ]
 }

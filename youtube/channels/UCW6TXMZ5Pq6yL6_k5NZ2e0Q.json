@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-05T00:44:21.859566",
+  "fetched_at": "2026-04-12T00:46:35.848308",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "What are Continuous Random Variables? → Probability &amp; Statistics",
+      "video_id": "ajrFIsv0bNI",
+      "channel_title": "Socratica",
+      "description": "SIGN UP for tastefully infrequent updates about our upcoming Probability & Statistics course.",
+      "published_at": "2026-04-09T10:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ajrFIsv0bNI/hqdefault.jpg"
+    },
     {
       "title": "The Language of Probability",
       "video_id": "SYyXzHSo_I0",
@@ -75,14 +83,6 @@
       "description": "STOCK OPTIONS COURSE: Our first finance course, Stock Options, is NOW LIVE! Aspiring quants should use ...",
       "published_at": "2025-11-20T11:01:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mkgD2OcYMCE/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Spreads with Stock Options — Finance Lessons for Quants",
-      "video_id": "veS8qhTDBxA",
-      "channel_title": "Socratica",
-      "description": "STOCK OPTIONS COURSE: Our first finance course is NOW LIVE! Aspiring quants should use this link to enroll: ...",
-      "published_at": "2025-10-23T11:01:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/veS8qhTDBxA/hqdefault.jpg"
     }
   ]
 }

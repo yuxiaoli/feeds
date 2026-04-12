@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-05T00:44:36.908780",
+  "fetched_at": "2026-04-12T00:46:51.580279",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "程序员这行还能干多久？",
+      "video_id": "IHpim5tDnoM",
+      "channel_title": "Find Interesting AI",
+      "description": "程序员这行还能挺多久？ 同样是程序员，为什么AI对于有的人就是替代，有的就是增强对于刚毕业的新人，程序员这行还能入吗？",
+      "published_at": "2026-04-06T12:58:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IHpim5tDnoM/hqdefault.jpg"
+    },
     {
       "title": "一文搞清楚智能体沙箱选型+实战",
       "video_id": "0ow5UHWSPE4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-11-30T00:01:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zffYlZDQuoM/hqdefault.jpg"
-    },
-    {
-      "title": "11月最新AI精选论文分享",
-      "video_id": "6BsBKbLF5sg",
-      "channel_title": "Find Interesting AI",
-      "description": "相关资料： https://qadso0i11yj.feishu.cn/base/Wc7RbftB2aluwasAzijcpq2Znob?from=from_copylink.",
-      "published_at": "2025-11-15T23:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6BsBKbLF5sg/hqdefault.jpg"
     }
   ]
 }

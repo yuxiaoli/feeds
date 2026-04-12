@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-05T00:43:55.784171",
+  "fetched_at": "2026-04-12T00:46:08.582333",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "Making an RC truck look real #rctruck #truck #videography",
+      "video_id": "z7chtHgMuX0",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-04-10T18:30:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z7chtHgMuX0/hqdefault.jpg"
+    },
     {
       "title": "1963 Chevy Cowboy Truck Drives hard #chevy #cowboy",
       "video_id": "0rl_pL7AB3s",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-11-11T20:35:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/TMmQ2lc8ZA4/hqdefault.jpg"
-    },
-    {
-      "title": "1975 Ford Falcon Screams in the streets #madmax #ford #videography",
-      "video_id": "GUputRCpNnA",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-11-11T20:11:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GUputRCpNnA/hqdefault.jpg"
     }
   ]
 }

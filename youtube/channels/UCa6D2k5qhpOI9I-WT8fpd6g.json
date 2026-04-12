@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-05T00:44:27.578037",
+  "fetched_at": "2026-04-12T00:46:41.807857",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "告别一切重复枯燥任务，CLI+Skill搭建AI浏览器自动化框架",
+      "video_id": "nlK7-zuYDcs",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 这套流程可以让AI自动操作浏览器，代替你完成一切机械重复性工作。",
+      "published_at": "2026-04-11T14:31:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nlK7-zuYDcs/hqdefault.jpg"
+    },
     {
       "title": "为什么巨头都在做CLI(命令行界面)？比起MCP有哪些优势？ #AI #CLI #Agent #科技 #计算机",
       "video_id": "5rAIU0GBjII",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 2026 年初，AI 领域爆火关键词就是Skills。Skills是给AI Agent的一个\"专业 ...",
       "published_at": "2026-01-22T06:58:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3nm_hDALBmY/hqdefault.jpg"
-    },
-    {
-      "title": "OpenCode详细攻略，开源版Claude Code，免费模型与神级插件  #ai #科技 #计算机 #编程 #coding",
-      "video_id": "JYVTUU9ClUA",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 OpenCode 是近期热度最高的AI编程工具。 它的最大优势是有开箱即用的 ...",
-      "published_at": "2026-01-17T13:30:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JYVTUU9ClUA/hqdefault.jpg"
     }
   ]
 }
