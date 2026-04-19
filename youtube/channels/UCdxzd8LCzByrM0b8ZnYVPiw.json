@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-12T00:46:47.104887",
+  "fetched_at": "2026-04-19T00:48:35.158892",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Summer of Sport | Bang &amp; Olufsen",
+      "video_id": "xvVpt5fqVAI",
+      "channel_title": "Bang & Olufsen",
+      "description": "Experience an arena of sound. Every serve, swing and shot. Every sprint, swell and surge. Elevated by BeovisionTheatre's ...",
+      "published_at": "2026-04-13T13:31:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xvVpt5fqVAI/hqdefault.jpg"
+    },
+    {
+      "title": "Summer of Sport | Bang &amp; Olufsen",
+      "video_id": "_6RrcvlTERQ",
+      "channel_title": "Bang & Olufsen",
+      "description": "Experience an arena of sound. Every serve, swing and shot. Every sprint, swell and surge. Elevated by BeovisionTheatre's ...",
+      "published_at": "2026-04-13T13:00:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_6RrcvlTERQ/hqdefault.jpg"
+    },
     {
       "title": "Beolab 90 Titan Edition",
       "video_id": "-99Taw1KJ-M",
@@ -67,22 +83,6 @@
       "description": "Legacy meets legend. Beoplay H100, G-DRAGON Limited Edition. Exclusively available in selected regions (APAC.)",
       "published_at": "2026-02-02T13:00:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DNIMQ8zEFpE/hqdefault.jpg"
-    },
-    {
-      "title": "Beoplay H100, G-DRAGON Limited Edition",
-      "video_id": "1byzXyWYADE",
-      "channel_title": "Bang & Olufsen",
-      "description": "Legacy meets legend. Exclusively available in selected regions (APAC.) #BangOlufsen​",
-      "published_at": "2026-02-02T13:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1byzXyWYADE/hqdefault.jpg"
-    },
-    {
-      "title": "Surrounded by beautiful sound | Bang &amp; Olufsen",
-      "video_id": "6qOcpokoyUw",
-      "channel_title": "Bang & Olufsen",
-      "description": "Come home. Settle in. Hear every detail, placed with precision. Your dream surround sound system starts here.​ #BangOlufsen​",
-      "published_at": "2026-01-27T17:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6qOcpokoyUw/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-12T00:46:36.657614",
+  "fetched_at": "2026-04-19T00:48:25.125631",
   "channel_id": "UCWWm_KhoUZ7lFKhSUVd9Kmg",
   "channel_title": "Redline Underground Cars",
   "count": 10,
   "videos": [
+    {
+      "title": "What kind of disrespect is this? 😳",
+      "video_id": "2pfAvqoHfdE",
+      "channel_title": "Redline Underground Cars",
+      "description": "",
+      "published_at": "2026-04-12T18:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2pfAvqoHfdE/hqdefault.jpg"
+    },
     {
       "title": "Rolls-Royce Spectre Mansory",
       "video_id": "xAgFdlXiV8U",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-02-12T02:43:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IecDG24N6lo/hqdefault.jpg"
-    },
-    {
-      "title": "He was found with a gunshot wound to the head inside a car.",
-      "video_id": "s80Deqx3Uqg",
-      "channel_title": "Redline Underground Cars",
-      "description": "",
-      "published_at": "2026-02-11T03:17:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s80Deqx3Uqg/hqdefault.jpg"
     }
   ]
 }

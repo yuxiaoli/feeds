@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-12T00:46:44.898835",
+  "fetched_at": "2026-04-19T00:48:33.124275",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "New course! Spec-Driven Development",
+      "video_id": "bJ8F43j1Fqw",
+      "channel_title": "DeepLearningAI",
+      "description": "Enroll for free: https://bit.ly/4toWsIY Learn spec-driven development in this short course built in partnership with JetBrains, taught ...",
+      "published_at": "2026-04-15T14:35:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bJ8F43j1Fqw/hqdefault.jpg"
+    },
     {
       "title": "AI Dev 26 x San Francisco is almost here",
       "video_id": "sTMBV5I33mY",
@@ -75,14 +83,6 @@
       "description": "CEOs are pouring millions into AI, but simply swapping a human for an AI agent in the middle of a broken process won't change ...",
       "published_at": "2026-03-06T02:19:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qtSruHgnn20/hqdefault.jpg"
-    },
-    {
-      "title": "The #1 Skill Employers Want in 2026",
-      "video_id": "hwUacQ50ZlU",
-      "channel_title": "DeepLearningAI",
-      "description": "The job market is shifting, and the #1 skill employers are looking for right now isn't a specific programming language—it's ...",
-      "published_at": "2026-03-05T18:29:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hwUacQ50ZlU/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-04-12T00:46:41.091184",
+  "fetched_at": "2026-04-19T00:48:29.489432",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 3,
+  "count": 6,
   "videos": [
+    {
+      "title": "Beyond the World Premiere: The 911 GT3 S/C up close",
+      "video_id": "TdNWXdwN2Ws",
+      "channel_title": "Porsche",
+      "description": "911 GT3 S/C (WLTP, preliminary values): Fuel consumption combined: 13.7 l/100 km; CO₂ emissions combined: 310 g/km; CO₂ ...",
+      "published_at": "2026-04-18T13:59:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TdNWXdwN2Ws/hqdefault.jpg"
+    },
+    {
+      "title": "Main character moments #shorts",
+      "video_id": "gl2XIq2LeIs",
+      "channel_title": "Porsche",
+      "description": "We take golden hour very seriously. @crossroad.",
+      "published_at": "2026-04-17T18:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gl2XIq2LeIs/hqdefault.jpg"
+    },
+    {
+      "title": "Onboard video of the 911 GT3 RS with Manthey Kit at the Nordschleife",
+      "video_id": "CybxE4V1iAk",
+      "channel_title": "Porsche",
+      "description": "Jörg Bergmeister lapped the 20.8 km long Green Hell in astonishing 6:45389 minutes. Take a seat and watch Jörg Bergmeister fly ...",
+      "published_at": "2026-04-17T08:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CybxE4V1iAk/hqdefault.jpg"
+    },
+    {
+      "title": "The new Porsche 911 GT3 S/C | world premiere | open to what matters",
+      "video_id": "sBQIN3DK6io",
+      "channel_title": "Porsche",
+      "description": "911 GT3 S/C (WLTP, preliminary values): Fuel consumption combined: 13.8 – 13.7 l/100 km; CO₂ emissions combined: 312 ...",
+      "published_at": "2026-04-14T14:17:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sBQIN3DK6io/hqdefault.jpg"
+    },
+    {
+      "title": "When the horizon pulls you in",
+      "video_id": "5RQ2omzJRKQ",
+      "channel_title": "Porsche",
+      "description": "With the sky above and the engine just behind you, the 911 GT3 S/C turns every journey into a moment worth paying attention to.",
+      "published_at": "2026-04-14T14:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5RQ2omzJRKQ/hqdefault.jpg"
+    },
     {
       "title": "In the blink of an eye #shorts",
       "video_id": "NkS6HW53EA4",
@@ -11,22 +51,6 @@
       "description": "We've got this sound on repeat. @mondi.",
       "published_at": "2026-04-11T16:00:42Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NkS6HW53EA4/hqdefault.jpg"
-    },
-    {
-      "title": "Green with envy #shorts",
-      "video_id": "JWdz0wLFH1E",
-      "channel_title": "Porsche",
-      "description": "The battle of the green machines. @ryanfriedmanmotorcars.",
-      "published_at": "2026-04-09T16:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JWdz0wLFH1E/hqdefault.jpg"
-    },
-    {
-      "title": "The world premiere of a new 911 – open to what matters | Watch it on 14 April 2026",
-      "video_id": "sBQIN3DK6io",
-      "channel_title": "Porsche",
-      "description": "Our ambition was to create nothing less than one of the most exhilarating driver's cars imaginable. Join two renowned automotive ...",
-      "published_at": "2026-03-26T15:20:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sBQIN3DK6io/hqdefault_live.jpg"
     }
   ]
 }

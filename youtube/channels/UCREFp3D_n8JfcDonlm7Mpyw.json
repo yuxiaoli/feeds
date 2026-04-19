@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-12T00:46:32.808703",
+  "fetched_at": "2026-04-19T00:48:21.645183",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Did I get it all right or am I missing something?🤔",
+      "video_id": "9LXg3Ciklpk",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-04-16T10:58:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9LXg3Ciklpk/hqdefault.jpg"
+    },
     {
       "title": "What has been holding you back from building your first website?🫣",
       "video_id": "noNb2-mC3HM",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-03-24T12:50:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cuSjnP6dQ24/hqdefault.jpg"
-    },
-    {
-      "title": "Build real-world projects in Playground as you learn to code and sharpen your skills!",
-      "video_id": "cM0wELLHeSk",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-03-20T15:43:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cM0wELLHeSk/hqdefault.jpg"
     }
   ]
 }

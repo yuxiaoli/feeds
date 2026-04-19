@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-04-12T00:47:02.709148",
+  "fetched_at": "2026-04-19T00:48:49.581657",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
     {
-      "title": "The Oort Cloud is like the Solar System’s mysterious outer shell ❄️☄️",
-      "video_id": "Fp2Y0u3dbfs",
+      "title": "The Unsettling Face of the Sun 🌞",
+      "video_id": "RHJuz4dFTCs",
       "channel_title": "Star Walk",
-      "description": "It's a huge, theoretical cloud of icy objects far beyond Neptune — stretching up to 100000 AU from the Sun. We've never seen it ...",
-      "published_at": "2026-04-08T09:56:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Fp2Y0u3dbfs/hqdefault.jpg"
+      "description": "Not the warm light we're used to — but a restless, violent surface, scarred by giant sunspots and bursting with solar flares. Credit: ...",
+      "published_at": "2026-04-17T08:13:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RHJuz4dFTCs/hqdefault.jpg"
     },
     {
       "title": "Earth satellites",
@@ -19,14 +19,6 @@
       "description": "This is what Earth orbit looks like when you map all — or almost all — satellites circling our planet 🛰️   Satellites from different ...",
       "published_at": "2026-04-07T15:11:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KPSKbkNKDEc/hqdefault.jpg"
-    },
-    {
-      "title": "It’s been more than 50 years 🌍",
-      "video_id": "SLAJFg8xA-A",
-      "channel_title": "Star Walk",
-      "description": "This is Earth — our home — seen from space. In the Apollo-era image, about 3.8 billion people lived on this planet. In the Artemis ...",
-      "published_at": "2026-04-06T11:27:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SLAJFg8xA-A/hqdefault.jpg"
     },
     {
       "title": "Two missions. Two eras. Same destination.",
@@ -83,6 +75,14 @@
       "description": "About a hundred years ago, astronomers discovered that the Milky Way's stars rotate around its centre. Since the 1950s, we've ...",
       "published_at": "2026-03-17T13:11:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/K6avtwH9ckk/hqdefault.jpg"
+    },
+    {
+      "title": "Gravity wins",
+      "video_id": "6N3aLnWWkWQ",
+      "channel_title": "Star Walk",
+      "description": "Astronaut Tom Marshburn once went viral for a funny moment after returning to Earth: during an interview, he dropped a cup and ...",
+      "published_at": "2026-03-17T13:08:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6N3aLnWWkWQ/hqdefault.jpg"
     }
   ]
 }

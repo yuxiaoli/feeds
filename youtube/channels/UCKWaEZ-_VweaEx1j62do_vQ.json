@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2026-04-12T00:46:24.371202",
+  "fetched_at": "2026-04-19T00:48:13.851005",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
+    {
+      "title": "How AI, RAG, and Agents Transform Mainframe Operations",
+      "video_id": "RNYdP6CYrOw",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-04-18T11:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RNYdP6CYrOw/hqdefault.jpg"
+    },
+    {
+      "title": "Claude Opus 4.7, Apple’s AI glasses and Allbirds AI pivot",
+      "video_id": "Z_L5KO_GW4o",
+      "channel_title": "IBM Technology",
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~NSAAWAkss Anthropic dropped Claude Opus 4.7, ...",
+      "published_at": "2026-04-17T10:01:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z_L5KO_GW4o/hqdefault.jpg"
+    },
+    {
+      "title": "GPT-5.4-Cyber: What you need to know",
+      "video_id": "xbvI5G-8q4o",
+      "channel_title": "IBM Technology",
+      "description": "Follow the Security Intelligence podcast on your preferred platform → https://ibm.biz/~fiqs0lXcX Earlier this week, OpenAI dropped ...",
+      "published_at": "2026-04-16T16:01:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xbvI5G-8q4o/hqdefault.jpg"
+    },
+    {
+      "title": "Post‑Quantum Security: How Lattice Cryptography Keeps Data Safe",
+      "video_id": "ZRpcYSghGr8",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-04-16T11:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZRpcYSghGr8/hqdefault.jpg"
+    },
+    {
+      "title": "Claude Mythos: Marketing hype or the end of cybersecurity?",
+      "video_id": "x_fBn7lto4Q",
+      "channel_title": "IBM Technology",
+      "description": "Read more about AI raising cybersecurity stakes → https://ibm.biz/~ftmuvbGVK Anthropic says its newest AI model, Claude ...",
+      "published_at": "2026-04-15T10:01:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x_fBn7lto4Q/hqdefault.jpg"
+    },
+    {
+      "title": "The 7 Skills You Need to Build AI Agents",
+      "video_id": "mtiOK2QG9Q0",
+      "channel_title": "IBM Technology",
+      "description": "As AI agents become more capable, the skills needed for AI jobs are shifting. Bri Kopecki breaks down the 7 skills you need to ...",
+      "published_at": "2026-04-14T11:01:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mtiOK2QG9Q0/hqdefault.jpg"
+    },
     {
       "title": "What is AI Technical Debt? Key Risks for Machine Learning Projects",
       "video_id": "DgXV8QSlI4U",
@@ -11,54 +59,6 @@
       "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
       "published_at": "2026-04-11T11:00:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DgXV8QSlI4U/hqdefault.jpg"
-    },
-    {
-      "title": "Claude Mythos, Project Glasswing and AI cybersecurity risks",
-      "video_id": "Yae74guiqq8",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/BdpKdN Is your infrastructure safe from the next ...",
-      "published_at": "2026-04-10T12:30:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Yae74guiqq8/hqdefault.jpg"
-    },
-    {
-      "title": "You Are on the Dark Web: How Phishing Leads to Data Breaches",
-      "video_id": "97DmVYRxiN0",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
-      "published_at": "2026-04-09T11:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/97DmVYRxiN0/hqdefault.jpg"
-    },
-    {
-      "title": "The Claude Code source code leak: Takeaways for cybersecurity pros",
-      "video_id": "qtFtECYOzZE",
-      "channel_title": "IBM Technology",
-      "description": "Visit the Security Intelligence the podcast page → https://ibm.biz/BdpmAn What happens when one of the world's most popular AI ...",
-      "published_at": "2026-04-08T10:16:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qtFtECYOzZE/hqdefault.jpg"
-    },
-    {
-      "title": "Code Risk Intelligence: Securing AI Coding at Scale in Real Time",
-      "video_id": "lYDkcC9DDaM",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI Code-Generation here → https://ibm.biz/BdpZqb ⚠️ Is AI code generation putting your software at risk?",
-      "published_at": "2026-04-07T11:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lYDkcC9DDaM/hqdefault.jpg"
-    },
-    {
-      "title": "What is Multimodal AI? How LLMs Process Text, Images, and More",
-      "video_id": "J51oZYcNvP8",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-04-06T11:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J51oZYcNvP8/hqdefault.jpg"
-    },
-    {
-      "title": "How Smart Organizations Will Use AI: Jevons Paradox &amp; Workforce Impact",
-      "video_id": "XVNH8MPRgVY",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-04-02T11:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XVNH8MPRgVY/hqdefault.jpg"
     },
     {
       "title": "RSA recap, the LiteLLM breach, and the quest to fix AI agent security",

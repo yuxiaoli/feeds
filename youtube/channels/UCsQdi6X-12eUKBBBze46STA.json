@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-04-12T00:46:59.047476",
+  "fetched_at": "2026-04-19T00:48:46.208229",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "The right way to eat dessert",
+      "video_id": "nHS0RSj7ut4",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-04-17T17:45:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nHS0RSj7ut4/hqdefault.jpg"
+    },
+    {
+      "title": "A Mother’s Diet Shapes a Life",
+      "video_id": "fHCIKJRZ1LA",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-04-15T17:57:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fHCIKJRZ1LA/hqdefault.jpg"
+    },
+    {
+      "title": "Not all calories are the same",
+      "video_id": "Z_k1G_s7Gew",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-04-12T15:03:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z_k1G_s7Gew/hqdefault.jpg"
+    },
     {
       "title": "“No added sugar” is a scam",
       "video_id": "MxNxf_X1Eg4",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-03-27T14:19:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bkDB3YMr_A4/hqdefault.jpg"
-    },
-    {
-      "title": "Don’t Make This Pregnancy Mistake",
-      "video_id": "NuNc5g9mQTU",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-03-25T15:21:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NuNc5g9mQTU/hqdefault.jpg"
-    },
-    {
-      "title": "You’re Underestimating Vinegar",
-      "video_id": "2xyPSiyEdzQ",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-03-22T17:52:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2xyPSiyEdzQ/hqdefault.jpg"
-    },
-    {
-      "title": "90% of pregnant women miss THIS",
-      "video_id": "PYDL4eQcIzA",
-      "channel_title": "Glucose Revolution",
-      "description": "Watch the full episode on @DhruPurohit's YouTube channel.",
-      "published_at": "2026-03-20T16:42:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PYDL4eQcIzA/hqdefault.jpg"
     }
   ]
 }

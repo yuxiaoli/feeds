@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-04-12T00:46:22.052167",
+  "fetched_at": "2026-04-19T00:48:11.878577",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Warp for Data &amp; Analytics Teams: building self-serve data workflows",
+      "video_id": "WyMTjXSplRU",
+      "channel_title": "Warp",
+      "description": "Warp helps data and analytics teams do more than answer questions. It can also support the workflows behind the data, from ...",
+      "published_at": "2026-04-17T04:44:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WyMTjXSplRU/hqdefault.jpg"
+    },
+    {
+      "title": "Using Warp with coding agents (Claude Code, Codex, etc)",
+      "video_id": "Fw4wBzmSX_8",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2026-04-14T18:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fw4wBzmSX_8/hqdefault.jpg"
+    },
+    {
+      "title": "Universal agent support: level up Claude Code, Codex, OpenCode, Gemini CLI in Warp",
+      "video_id": "UuT4u4m84K0",
+      "channel_title": "Warp",
+      "description": "Warp is an Agentic Development Environment, born out of the terminal. Today, we're introducing a set of new features that make ...",
+      "published_at": "2026-04-14T13:45:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UuT4u4m84K0/hqdefault.jpg"
+    },
     {
       "title": "Intro to Warp and Oz",
       "video_id": "orYkXlHjboE",
@@ -59,30 +83,6 @@
       "description": "Dave, a product designer at Warp does a full accessibility audit using Warp.",
       "published_at": "2026-03-10T14:00:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gLXsYdByEJw/hqdefault.jpg"
-    },
-    {
-      "title": "Engineer launches feature with Oz Cloud Agents",
-      "video_id": "pCgVS9cEDnk",
-      "channel_title": "Warp",
-      "description": "Roland, an engineer at Warp fixes a feature with Oz cloud agents.",
-      "published_at": "2026-03-09T21:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pCgVS9cEDnk/hqdefault.jpg"
-    },
-    {
-      "title": "Review PRs made by Oz agents",
-      "video_id": "oT38KymEB00",
-      "channel_title": "Warp",
-      "description": "Roland, an engineer on the Warp team reviews a PR made by Oz agents.",
-      "published_at": "2026-03-06T18:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oT38KymEB00/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Warp and Oz",
-      "video_id": "S96lHbaQMWU",
-      "channel_title": "Warp",
-      "description": "New to Warp? Join this session to learn everything you can do! We'll cover: - ​The essentials of navigating Warp as a terminal ...",
-      "published_at": "2026-03-06T08:08:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S96lHbaQMWU/hqdefault.jpg"
     }
   ]
 }

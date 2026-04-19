@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-12T00:46:13.126673",
+  "fetched_at": "2026-04-19T00:48:03.475520",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "A day in Singapore",
+      "video_id": "FzNAUbTPoxo",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-04-15T20:01:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FzNAUbTPoxo/hqdefault.jpg"
+    },
     {
       "title": "Where We Go with @thomasrhettmusic is everywhere now",
       "video_id": "KSaGOOX3Fuo",
@@ -11,14 +19,6 @@
       "description": "",
       "published_at": "2026-04-10T20:41:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KSaGOOX3Fuo/hqdefault.jpg"
-    },
-    {
-      "title": "A little “would you rather” with @thomasrhettmusic",
-      "video_id": "gFOgyjWeZug",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2026-04-09T21:37:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gFOgyjWeZug/hqdefault.jpg"
     },
     {
       "title": "Where We Go w @thomasrhettmusic available everywhere Friday ​⁠",

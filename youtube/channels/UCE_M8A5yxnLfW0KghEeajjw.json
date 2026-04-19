@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-12T00:46:12.409494",
+  "fetched_at": "2026-04-19T00:48:02.783830",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Apple Education: Ready for every learning opportunity",
+      "video_id": "qUfVSh4eaDE",
+      "channel_title": "Apple",
+      "description": "Apple devices are designed to support all the delightful teachable moments that can happen in any classroom with every kind of ...",
+      "published_at": "2026-04-15T16:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qUfVSh4eaDE/hqdefault.jpg"
+    },
     {
       "title": "dear diary… #shorts",
       "video_id": "dAqo0pib06M",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-03-31T16:13:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/sRAzMxMCLcc/hqdefault.jpg"
-    },
-    {
-      "title": "doesn’t matter how many screenshots you take, the desktop will keep it cute #shorts",
-      "video_id": "PmDvvobNLwc",
-      "channel_title": "Apple",
-      "description": "",
-      "published_at": "2026-03-30T19:35:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PmDvvobNLwc/hqdefault.jpg"
     }
   ]
 }

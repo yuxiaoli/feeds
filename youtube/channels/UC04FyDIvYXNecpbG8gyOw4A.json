@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-04-12T00:45:56.897719",
+  "fetched_at": "2026-04-19T00:47:49.138173",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Impact Stories: Snake Yoga",
+      "video_id": "cWshICtbaY8",
+      "channel_title": "Meta",
+      "description": "what do snakes and yoga have in common? a lot according to Dru, who brought an entire community together with @instagram ...",
+      "published_at": "2026-04-17T19:42:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cWshICtbaY8/hqdefault.jpg"
+    },
+    {
+      "title": "ROTW: @theresabutlerinteriors",
+      "video_id": "YfHvBwmD7Ko",
+      "channel_title": "Meta",
+      "description": "Theresa, @theresabutlerinteriors, is an interior designer who has been doing DIY projects for years without ever documenting ...",
+      "published_at": "2026-04-16T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YfHvBwmD7Ko/hqdefault.jpg"
+    },
+    {
+      "title": "What You Were Like In The 90s?",
+      "video_id": "qwKAKvcjT64",
+      "channel_title": "Meta",
+      "description": "talk about a glow up.",
+      "published_at": "2026-04-14T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qwKAKvcjT64/hqdefault.jpg"
+    },
     {
       "title": "Font Glow-Up",
       "video_id": "FVZhdtSke0o",
@@ -59,30 +83,6 @@
       "description": "Some people are just here for the skatepark... but there's lots to explore at Meta Lab. You can visit one of our five retail spaces to ...",
       "published_at": "2026-03-16T14:01:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iTrW-v5xO5w/hqdefault.jpg"
-    },
-    {
-      "title": "&quot;Hey Meta&quot; with Keltie Knight",
-      "video_id": "J6i0cUc9u1M",
-      "channel_title": "Meta",
-      "description": "answers to all of your burning questions on and off the red carpet @raybanmeta.",
-      "published_at": "2026-03-15T16:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J6i0cUc9u1M/hqdefault.jpg"
-    },
-    {
-      "title": "20 Sec Tip: Refining Your Feed",
-      "video_id": "Ekq-_2_GTng",
-      "channel_title": "Meta",
-      "description": "See and control your Instagram algorithm to enjoy more of what you love and less of what you don't.",
-      "published_at": "2026-03-13T15:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ekq-_2_GTng/hqdefault.jpg"
-    },
-    {
-      "title": "Après Meeting",
-      "video_id": "WGa_Zt3bKX8",
-      "channel_title": "Meta",
-      "description": "Cozy is a state of mind ☕ Create your own little lodge with Meta AI! Go to your stories and find the \"Snow\" option in Restyle to ...",
-      "published_at": "2026-03-09T15:02:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WGa_Zt3bKX8/hqdefault.jpg"
     }
   ]
 }

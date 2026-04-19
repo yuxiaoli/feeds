@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-12T00:46:19.946720",
+  "fetched_at": "2026-04-19T00:48:09.746031",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Why So Many Levels?",
+      "video_id": "GZ-NWKioBEY",
+      "channel_title": "DamiLee",
+      "description": "Coruscant wasn't built as a planet-wide city overnight - it likely evolved from an already urbanized world sitting at the nexus of ...",
+      "published_at": "2026-04-13T15:31:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GZ-NWKioBEY/hqdefault.jpg"
+    },
     {
       "title": "Would you ever visit the Underworld?",
       "video_id": "719Go8AYrU0",
@@ -75,14 +83,6 @@
       "description": "Trantor and Coruscant are both ecumenopolises, but they grow in opposite directions—one digs downward beneath a fixed ...",
       "published_at": "2026-02-18T16:31:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hdNuEyDM1vA/hqdefault.jpg"
-    },
-    {
-      "title": "When Cities Become Worlds",
-      "video_id": "ksxgtnHnF84",
-      "channel_title": "DamiLee",
-      "description": "An ecumenopolis is a planet completely covered in urban civilization, imagined in science fiction and studied by real urban ...",
-      "published_at": "2026-02-16T16:31:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ksxgtnHnF84/hqdefault.jpg"
     }
   ]
 }

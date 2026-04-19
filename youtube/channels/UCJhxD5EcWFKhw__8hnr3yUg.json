@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-12T00:46:20.706721",
+  "fetched_at": "2026-04-19T00:48:10.404056",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "程序员提升必经之路，改bug之外的工作",
+      "video_id": "WLzhdp478cY",
+      "channel_title": "码农高天",
+      "description": "我们在遇到bug的时候，经常只是把bug修完就结束了。但是实际上我们还有非常多的事情可以做，这些事无论对项目还是我们本人， ...",
+      "published_at": "2026-04-18T04:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WLzhdp478cY/hqdefault.jpg"
+    },
     {
       "title": "【python】终于有人讲怎么用overload了",
       "video_id": "njFDgzSBM0Q",
@@ -75,14 +83,6 @@
       "description": "台南第二天，逛了安平，又去了渔光岛。这期视频里可能会有一些相对尖锐的观点，但是我还是决定剪出来。我觉得每个观点都是 ...",
       "published_at": "2025-12-01T10:30:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/f0dIZDkKXqQ/hqdefault.jpg"
-    },
-    {
-      "title": "台南市内一日游，在夜市见到台南市长了？",
-      "video_id": "oP0slj5Qd-I",
-      "channel_title": "码农高天",
-      "description": "台湾视频拍的太细了，台南一天就20分钟的视频！在台南市内逛了各种知名的点，很多古色古香的建筑和庙宇。最后在夜市大快朵颐 ...",
-      "published_at": "2025-11-21T10:30:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oP0slj5Qd-I/hqdefault.jpg"
     }
   ]
 }

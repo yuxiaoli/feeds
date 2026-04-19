@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-04-12T00:46:06.959461",
+  "fetched_at": "2026-04-19T00:47:58.398728",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "New friends. 💛",
+      "video_id": "mITkQVSLw8U",
+      "channel_title": "Boston Dynamics",
+      "description": "Spot makes a new friend!",
+      "published_at": "2026-04-15T14:11:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mITkQVSLw8U/hqdefault.jpg"
+    },
+    {
+      "title": "Smarter Inspections Powered by Google Gemini Robotics | Boston Dynamics",
+      "video_id": "kBwxmlI2yHQ",
+      "channel_title": "Boston Dynamics",
+      "description": "The introduction of AI Visual inspections expanded what Spot and Orbit could tell you about your facility - now, AIVI-Learning ...",
+      "published_at": "2026-04-14T15:11:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kBwxmlI2yHQ/hqdefault.jpg"
+    },
+    {
+      "title": "The To Do List with Spot | Boston Dynamics",
+      "video_id": "LP4-c5AK30g",
+      "channel_title": "Boston Dynamics",
+      "description": "For an industrial robot built for the rigors of factories and power plants, tidying up a living room may seem like a light day at the ...",
+      "published_at": "2026-04-14T15:01:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LP4-c5AK30g/hqdefault.jpg"
+    },
     {
       "title": "How do you make a reliable backflip? | Boston Dynamics",
       "video_id": "zj07hHJnrto",
@@ -59,30 +83,6 @@
       "description": "Learn about this latest in Spot, Orbit, and our new 5.1 release at: ...",
       "published_at": "2026-01-20T14:56:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/de06_CLqrM0/hqdefault.jpg"
-    },
-    {
-      "title": "That’s a wrap, Atlas!  #ces2026",
-      "video_id": "83SQmj5bF9A",
-      "channel_title": "Boston Dynamics",
-      "description": "",
-      "published_at": "2026-01-10T12:35:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/83SQmj5bF9A/hqdefault.jpg"
-    },
-    {
-      "title": "Atlas | Product Features | Boston Dynamics",
-      "video_id": "rrUHZKlrxms",
-      "channel_title": "Boston Dynamics",
-      "description": "This short video introduces some of the high level futures of the production version of our Atlas robot. Learn more about Atlas: ...",
-      "published_at": "2026-01-05T21:30:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rrUHZKlrxms/hqdefault.jpg"
-    },
-    {
-      "title": "The Beginning of Your Tomorrow I Boston Dynamics",
-      "video_id": "sd8ivhpjI6g",
-      "channel_title": "Boston Dynamics",
-      "description": "We're excited to announce the product version of our Atlas® robot. This enterprise-grade humanoid robot offers impressive ...",
-      "published_at": "2026-01-05T21:30:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sd8ivhpjI6g/hqdefault.jpg"
     }
   ]
 }

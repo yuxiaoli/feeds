@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-12T00:46:42.606312",
+  "fetched_at": "2026-04-19T00:48:30.826330",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "هيمو كالسثنكس Vs أسماك القرش",
+      "video_id": "Rq5xXM1xPOc",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-04-15T15:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Rq5xXM1xPOc/hqdefault.jpg"
+    },
+    {
+      "title": "الفيديو معكوس ؟",
+      "video_id": "tZeTEpLhSd8",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-04-14T13:24:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tZeTEpLhSd8/hqdefault.jpg"
+    },
     {
       "title": "متعة الكالسثنكس",
       "video_id": "JEpQzp8zuqk",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-03-24T20:44:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5TIHbzwnjNg/hqdefault.jpg"
-    },
-    {
-      "title": "عيد فطر مبارك 🤍",
-      "video_id": "qZ9-jRY3Lyc",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-03-19T17:40:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qZ9-jRY3Lyc/hqdefault.jpg"
-    },
-    {
-      "title": "كيف تبدأ مهارة الفرونت ليڤر من الصفر .. How to Front Lever",
-      "video_id": "F_zLL_yH-B8",
-      "channel_title": "Hemo Calisthenics",
-      "description": "رابط متجر HERU : https://herucalisthenics.com.",
-      "published_at": "2026-03-18T22:47:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F_zLL_yH-B8/hqdefault.jpg"
     }
   ]
 }

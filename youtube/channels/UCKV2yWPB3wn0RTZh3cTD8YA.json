@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-04-12T00:46:23.701182",
+  "fetched_at": "2026-04-19T00:48:13.181267",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "“杭州六小龙”首个IPO、空间智能与AI的下一步：对话群核科技创始人黄晓煌",
+      "video_id": "8pncy425QqQ",
+      "channel_title": "硅谷101",
+      "description": "2026年，AI的新风向已经指向了“世界模型”。而在这其中，“空间智能”被顶尖研究者们视为通向AGI真正的“关键拼图”。本期视频我们 ...",
+      "published_at": "2026-04-17T03:57:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8pncy425QqQ/hqdefault.jpg"
+    },
+    {
+      "title": "“小龙虾”过气？ “爱马仕”来了：开源智能体进入自进化",
+      "video_id": "RP5XRfT71D4",
+      "channel_title": "硅谷101",
+      "description": "最近，一款名叫Hermes的开源智能体火了。上线仅一个月，GitHub星标突破8万，增速是OpenClaw的三倍。它号称能自动总结 ...",
+      "published_at": "2026-04-16T10:48:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RP5XRfT71D4/hqdefault.jpg"
+    },
+    {
+      "title": "中东局势或致全球大滞胀？专访新加坡金库创始人",
+      "video_id": "0h3P7Ojn-3o",
+      "channel_title": "硅谷101",
+      "description": "美伊谈判局势分析：美伊谈判无果，特朗普下令“封锁”霍尔木兹海峡。中东局势影响的不止石油：中东生产全球三分之一的化肥， ...",
+      "published_at": "2026-04-14T07:11:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0h3P7Ojn-3o/hqdefault.jpg"
+    },
     {
       "title": "存储芯片“超级周期”还能持续多久？",
       "video_id": "eoBhOpqIweQ",
@@ -59,30 +83,6 @@
       "description": "1万亿美元，这是接下来21个月，英伟达GPU订单的收入预期。今年的英伟达GTC大会，黄仁勋的叙事彻底变了。他不再像往年一样 ...",
       "published_at": "2026-03-24T13:02:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/B3wJuvYjLu0/hqdefault.jpg"
-    },
-    {
-      "title": "英伟达GTC上，迪士尼“复活了”雪宝机器人【101 Shorts】",
-      "video_id": "HjopX519nXg",
-      "channel_title": "硅谷101",
-      "description": "在2026年的英伟达GTC上，我们在现场见到了黄仁勋keynote压轴上场的雪宝机器人，它也成为了硅谷101有史以来最可爱的嘉宾！",
-      "published_at": "2026-03-19T17:37:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HjopX519nXg/hqdefault.jpg"
-    },
-    {
-      "title": "黄仁勋的“AI生存法则”：“三不要”理论",
-      "video_id": "GLLF6THlWnU",
-      "channel_title": "硅谷101",
-      "description": "AI时代瞬息万变，普通人该如何避免被时代的车轮抛下？在英伟达GTC闭门媒体会上，黄仁勋首次给出了他的“三个不要”理论。此外 ...",
-      "published_at": "2026-03-19T06:40:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GLLF6THlWnU/hqdefault.jpg"
-    },
-    {
-      "title": "滑雪金融化困局：“天才商业模式”通票的变革与反噬",
-      "video_id": "jnYWv_0MzBw",
-      "channel_title": "硅谷101",
-      "description": "今年雪季，大家有没有发现滑雪越来越贵了？在美国，热门雪场的单日票价甚至已经超过了300美元，但为什么雪场巨头Vail的股价却 ...",
-      "published_at": "2026-03-18T03:37:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jnYWv_0MzBw/hqdefault.jpg"
     }
   ]
 }
