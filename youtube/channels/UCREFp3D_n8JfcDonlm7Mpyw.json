@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-19T00:48:21.645183",
+  "fetched_at": "2026-04-26T00:49:54.735972",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Something more concrete that will help you make real progress in your coding journey!",
+      "video_id": "VCOvX7dfX1E",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-04-22T11:11:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VCOvX7dfX1E/hqdefault.jpg"
+    },
     {
       "title": "Did I get it all right or am I missing something?🤔",
       "video_id": "9LXg3Ciklpk",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-03-25T14:02:14Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ju6lCMBIryA/hqdefault.jpg"
-    },
-    {
-      "title": "If you’re a visual learner, you’re going to love Code Visualizer!",
-      "video_id": "cuSjnP6dQ24",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-03-24T12:50:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cuSjnP6dQ24/hqdefault.jpg"
     }
   ]
 }

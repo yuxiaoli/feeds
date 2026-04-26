@@ -1,16 +1,40 @@
 {
-  "fetched_at": "2026-04-19T00:48:49.581657",
+  "fetched_at": "2026-04-26T00:50:25.234461",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
     {
-      "title": "The Unsettling Face of the Sun 🌞",
-      "video_id": "RHJuz4dFTCs",
+      "title": "IRL, projecting something onto the Moon is... not exactly easy 🌚",
+      "video_id": "pybCl5jEsZY",
       "channel_title": "Star Walk",
-      "description": "Not the warm light we're used to — but a restless, violent surface, scarred by giant sunspots and bursting with solar flares. Credit: ...",
-      "published_at": "2026-04-17T08:13:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RHJuz4dFTCs/hqdefault.jpg"
+      "description": "You'd need a ridiculous amount of power, insane precision, and most likely lasers just to make it visible. And if you wanted to ...",
+      "published_at": "2026-04-24T13:21:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pybCl5jEsZY/hqdefault.jpg"
+    },
+    {
+      "title": "Planets Then vs Now 🪐",
+      "video_id": "j3iegyZP5O0",
+      "channel_title": "Star Walk",
+      "description": "From fuzzy spots to breathtaking worlds — this is how our view of the planets has changed over time. Which glow-up is your ...",
+      "published_at": "2026-04-23T09:48:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j3iegyZP5O0/hqdefault.jpg"
+    },
+    {
+      "title": "April Lyrids 2026 🌠",
+      "video_id": "URJbj81Bx-Q",
+      "channel_title": "Star Walk",
+      "description": "April skies are not done surprising us yet The Lyrids are the most promising meteor shower before the famous Perseids in ...",
+      "published_at": "2026-04-20T13:27:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/URJbj81Bx-Q/hqdefault.jpg"
+    },
+    {
+      "title": "Galaxies come in all kinds of shapes 🌌",
+      "video_id": "X7wjrWvGw8Y",
+      "channel_title": "Star Walk",
+      "description": "Galaxies come in all kinds of shapes — and each type tells a different story Spiral galaxies look like cosmic pinwheels, with ...",
+      "published_at": "2026-04-20T13:25:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X7wjrWvGw8Y/hqdefault.jpg"
     },
     {
       "title": "Earth satellites",
@@ -59,30 +83,6 @@
       "description": "It's not just a mission. It's a new chapter for all of us. New rockets. New astronauts. New science. And this time — we're not just ...",
       "published_at": "2026-03-19T08:38:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/sCix3ddNSE8/hqdefault.jpg"
-    },
-    {
-      "title": "The Moon actually had a comet-like tail all this time 🤯🌝",
-      "video_id": "VcZcnWjlV5M",
-      "channel_title": "Star Walk",
-      "description": "Sodium atoms are constantly knocked off the lunar surface by meteoroid impacts, the solar wind, and sunlight, and sunlight ...",
-      "published_at": "2026-03-17T13:31:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VcZcnWjlV5M/hqdefault.jpg"
-    },
-    {
-      "title": "Did you know? 🌌✨",
-      "video_id": "K6avtwH9ckk",
-      "channel_title": "Star Walk",
-      "description": "About a hundred years ago, astronomers discovered that the Milky Way's stars rotate around its centre. Since the 1950s, we've ...",
-      "published_at": "2026-03-17T13:11:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K6avtwH9ckk/hqdefault.jpg"
-    },
-    {
-      "title": "Gravity wins",
-      "video_id": "6N3aLnWWkWQ",
-      "channel_title": "Star Walk",
-      "description": "Astronaut Tom Marshburn once went viral for a funny moment after returning to Earth: during an interview, he dropped a cup and ...",
-      "published_at": "2026-03-17T13:08:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6N3aLnWWkWQ/hqdefault.jpg"
     }
   ]
 }

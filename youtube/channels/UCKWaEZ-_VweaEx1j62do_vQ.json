@@ -1,64 +1,64 @@
 {
-  "fetched_at": "2026-04-19T00:48:13.851005",
+  "fetched_at": "2026-04-26T00:49:46.204279",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "How AI, RAG, and Agents Transform Mainframe Operations",
-      "video_id": "RNYdP6CYrOw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-04-18T11:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RNYdP6CYrOw/hqdefault.jpg"
-    },
-    {
-      "title": "Claude Opus 4.7, Apple’s AI glasses and Allbirds AI pivot",
-      "video_id": "Z_L5KO_GW4o",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~NSAAWAkss Anthropic dropped Claude Opus 4.7, ...",
-      "published_at": "2026-04-17T10:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z_L5KO_GW4o/hqdefault.jpg"
-    },
-    {
-      "title": "GPT-5.4-Cyber: What you need to know",
-      "video_id": "xbvI5G-8q4o",
-      "channel_title": "IBM Technology",
-      "description": "Follow the Security Intelligence podcast on your preferred platform → https://ibm.biz/~fiqs0lXcX Earlier this week, OpenAI dropped ...",
-      "published_at": "2026-04-16T16:01:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xbvI5G-8q4o/hqdefault.jpg"
-    },
-    {
-      "title": "Post‑Quantum Security: How Lattice Cryptography Keeps Data Safe",
-      "video_id": "ZRpcYSghGr8",
+      "title": "Build, Reuse, or Hybrid? How Orchestration Powers Agentic AI",
+      "video_id": "tNQPNBQC5kg",
       "channel_title": "IBM Technology",
       "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-04-16T11:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZRpcYSghGr8/hqdefault.jpg"
+      "published_at": "2026-04-25T11:01:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tNQPNBQC5kg/hqdefault.jpg"
     },
     {
-      "title": "Claude Mythos: Marketing hype or the end of cybersecurity?",
-      "video_id": "x_fBn7lto4Q",
+      "title": "Apple’s new CEO &amp; how AI understands intent",
+      "video_id": "vCP7C8CVw28",
       "channel_title": "IBM Technology",
-      "description": "Read more about AI raising cybersecurity stakes → https://ibm.biz/~ftmuvbGVK Anthropic says its newest AI model, Claude ...",
-      "published_at": "2026-04-15T10:01:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x_fBn7lto4Q/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~XqJUGTbP1 Will Apple finally get AI right?",
+      "published_at": "2026-04-24T10:01:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vCP7C8CVw28/hqdefault.jpg"
     },
     {
-      "title": "The 7 Skills You Need to Build AI Agents",
-      "video_id": "mtiOK2QG9Q0",
+      "title": "5 Podman Features You Should Know: Kubernetes &amp; Containers Simplified",
+      "video_id": "dEy3pQKhE8k",
       "channel_title": "IBM Technology",
-      "description": "As AI agents become more capable, the skills needed for AI jobs are shifting. Bri Kopecki breaks down the 7 skills you need to ...",
-      "published_at": "2026-04-14T11:01:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mtiOK2QG9Q0/hqdefault.jpg"
+      "description": "Ready to become a certified Developer - App Connect Enterprise? Register now and use code IBMTechYT20 for 20% off of your ...",
+      "published_at": "2026-04-23T11:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dEy3pQKhE8k/hqdefault.jpg"
     },
     {
-      "title": "What is AI Technical Debt? Key Risks for Machine Learning Projects",
-      "video_id": "DgXV8QSlI4U",
+      "title": "Should you let OpenClaw pen test your system? Plus: Cybersecurity for ephemeral software",
+      "video_id": "TYpg5oxSQ6Y",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-04-11T11:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DgXV8QSlI4U/hqdefault.jpg"
+      "description": "Learn more about how enterprises confront agentic attacks → https://ibm.biz/~whT3B0eVk Sophos let OpenClaw run wild on its ...",
+      "published_at": "2026-04-22T10:00:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TYpg5oxSQ6Y/hqdefault.jpg"
+    },
+    {
+      "title": "Building a Team of AI Agents: Roles, Feedback, &amp; Teamwork Explained",
+      "video_id": "kqj22mWIdjU",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-04-21T11:01:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kqj22mWIdjU/hqdefault.jpg"
+    },
+    {
+      "title": "ADK vs RAG: How to Choose the Right AI Stack",
+      "video_id": "7HSSR1n8dgc",
+      "channel_title": "IBM Technology",
+      "description": "Learn more AI Stacks here → https://ibm.biz/Bdpm3A Imagine walking into a hardware store with a project in mind.",
+      "published_at": "2026-04-21T11:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7HSSR1n8dgc/hqdefault.jpg"
+    },
+    {
+      "title": "What AI Agent Skills Are and How They Work",
+      "video_id": "Lg-meK5IU8Q",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-04-20T11:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lg-meK5IU8Q/hqdefault.jpg"
     },
     {
       "title": "RSA recap, the LiteLLM breach, and the quest to fix AI agent security",

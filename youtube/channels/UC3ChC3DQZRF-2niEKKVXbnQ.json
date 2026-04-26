@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-19T00:47:53.402594",
+  "fetched_at": "2026-04-26T00:49:24.558309",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "Kimi-K2.6 前端/后端/Agent编程能力实测! 甚至还帮我做了个游戏!",
+      "video_id": "z62WURHOzJM",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来刚刚正式发布的kimi-k2.6 的正式版本的实测! 本次为了考验它的长程Agentic Coding能力, 我用kimi-k2.6-code-preview 写 ...",
+      "published_at": "2026-04-21T14:43:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z62WURHOzJM/hqdefault.jpg"
+    },
+    {
+      "title": "花费106刀测试! Claude-Opus-4.7 到底更新了啥?",
+      "video_id": "g6hZ5en0JDc",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Claude-Opus-4.7 的视觉能力+前端+后端能力测试! 本次测试多模态前端测试采用pass@3 (相同prompt运行3次取最好 ...",
+      "published_at": "2026-04-19T09:42:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g6hZ5en0JDc/hqdefault.jpg"
+    },
     {
       "title": "AI能帮我拍照了? Qwen3.5-Omni实测!",
       "video_id": "LlOhnGiqsvs",
@@ -67,22 +83,6 @@
       "description": "贺岁档大模型来啦! Qwen3.5 这次支持了文本、图片、视频多模态输入, 本次准备了全新的后端能力测试! 以及照例带来前端 ...",
       "published_at": "2026-02-17T13:29:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lkji2RZKRHM/hqdefault.jpg"
-    },
-    {
-      "title": "啊?一个月一个版本? MiniMax-M2.5 4000万 token 实测!",
-      "video_id": "jHvg1aE55ko",
-      "channel_title": "Karminski-牙医",
-      "description": "昨天刚说完国产大模型进入了每月迭代的节奏, 今天测试就来了! 给大家带来MiniMax-M2.5 的编程、Agent、长上下文能力全面测试!",
-      "published_at": "2026-02-13T05:26:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jHvg1aE55ko/hqdefault.jpg"
-    },
-    {
-      "title": "GLM-5发布啦! 给大家带来实测! 国产大模型正式进入月更节奏!",
-      "video_id": "Od3N9GNRkGo",
-      "channel_title": "Karminski-牙医",
-      "description": "GLM-4.7 才发布一个月, 智谱又掏出了GLM-5, 这迭代速度属实离谱. 照例给大家带来编程、Agent、长上下文能力全面测试! 本次编程 ...",
-      "published_at": "2026-02-11T14:02:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Od3N9GNRkGo/hqdefault.jpg"
     }
   ]
 }

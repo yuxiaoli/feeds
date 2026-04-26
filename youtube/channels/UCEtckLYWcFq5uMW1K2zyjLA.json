@@ -1,25 +1,9 @@
 {
-  "fetched_at": "2026-04-19T00:48:04.161112",
+  "fetched_at": "2026-04-26T00:49:35.905780",
   "channel_id": "UCEtckLYWcFq5uMW1K2zyjLA",
   "channel_title": "Africa Travel Channel",
   "count": 10,
   "videos": [
-    {
-      "title": "Mr Happiness 😊🐗 #wildlife #wow #nature",
-      "video_id": "YfQKcg6R7U4",
-      "channel_title": "Africa Travel Channel",
-      "description": "",
-      "published_at": "2026-04-18T05:26:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YfQKcg6R7U4/hqdefault.jpg"
-    },
-    {
-      "title": "Massive Kudu Bull Falls in Love 🥰 🦌 #wildlife #love #animals",
-      "video_id": "ogn8UPjwW-c",
-      "channel_title": "Africa Travel Channel",
-      "description": "",
-      "published_at": "2026-04-16T13:01:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ogn8UPjwW-c/hqdefault.jpg"
-    },
     {
       "title": "Huge African Python 🐍",
       "video_id": "Dg0w2yhyfAU",
@@ -83,6 +67,22 @@
       "description": "What a wonderful world wouldn't it be!",
       "published_at": "2025-07-03T19:25:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HEjIdOWzL40/hqdefault.jpg"
+    },
+    {
+      "title": "Wonderful Gathering Of Wildlife",
+      "video_id": "6YZGfuRkU8A",
+      "channel_title": "Africa Travel Channel",
+      "description": "Wildlife gathers at a waterhole in Kruger National Park #wildlife #animals #nature.",
+      "published_at": "2025-06-29T11:56:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6YZGfuRkU8A/hqdefault.jpg"
+    },
+    {
+      "title": "Wildebeest On The Run",
+      "video_id": "05-fVJS6klQ",
+      "channel_title": "Africa Travel Channel",
+      "description": "Watch Wildebeest On The Run! #animals #nature #wildlife.",
+      "published_at": "2024-08-07T06:22:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/05-fVJS6klQ/hqdefault.jpg"
     }
   ]
 }

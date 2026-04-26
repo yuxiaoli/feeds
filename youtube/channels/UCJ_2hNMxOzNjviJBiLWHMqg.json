@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-04-19T00:48:09.746031",
+  "fetched_at": "2026-04-26T00:49:41.808092",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Are hobbit holes a rebellion against modern design?",
+      "video_id": "KDr6eMfT290",
+      "channel_title": "DamiLee",
+      "description": "Hobbit architecture reflects slow living, handcrafted values, and resistance to industrial modernity. Inspired by the Arts and Crafts ...",
+      "published_at": "2026-04-24T15:30:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KDr6eMfT290/hqdefault.jpg"
+    },
+    {
+      "title": "Minas Tirith has a twin and nobody talks about it.",
+      "video_id": "4iLdLwXofg8",
+      "channel_title": "DamiLee",
+      "description": "Minas Tirith has a twin and nobody talks about it. Originally it wasn't called Minas Tirith at all. It was Minas Anor, the Tower of the ...",
+      "published_at": "2026-04-23T15:30:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4iLdLwXofg8/hqdefault.jpg"
+    },
+    {
+      "title": "What if Coruscant had multiple cores? The Tokyo answer",
+      "video_id": "MUk3APpQOlQ",
+      "channel_title": "DamiLee",
+      "description": "What are those concentric circles on Coruscant? They might not be what you think. The most resilient mega-city on Earth already ...",
+      "published_at": "2026-04-22T15:30:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MUk3APpQOlQ/hqdefault.jpg"
+    },
+    {
+      "title": "Coruscant’s Vertical Trap",
+      "video_id": "EngrT8yEG_4",
+      "channel_title": "DamiLee",
+      "description": "Coruscant's layered transport system looks advanced — airspeeders, maglev trains, airbuses, and endless skylanes across ...",
+      "published_at": "2026-04-20T15:42:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EngrT8yEG_4/hqdefault.jpg"
+    },
     {
       "title": "Why So Many Levels?",
       "video_id": "GZ-NWKioBEY",
@@ -51,38 +83,6 @@
       "description": "On Coruscant, a trillion tons of garbage per hour isn't just a problem - it's an engineered system. With over 5000 massive garbage ...",
       "published_at": "2026-03-23T15:31:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DWNDp3F9VQc/hqdefault.jpg"
-    },
-    {
-      "title": "The Shawda Supply Chain",
-      "video_id": "8WTMQ6fjpkw",
-      "channel_title": "DamiLee",
-      "description": "Running a kitchen on a planet-wide city like Coruscant means mastering interplanetary supply chains. Cold-chain storage, water ...",
-      "published_at": "2026-03-16T15:30:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8WTMQ6fjpkw/hqdefault.jpg"
-    },
-    {
-      "title": "Cool Cities, Hot Truth",
-      "video_id": "MbBFRUGRML0",
-      "channel_title": "DamiLee",
-      "description": "A multi-level city like Coruscant would generate mind-bending waste heat-from bodies, dense infrastructure, and massive power ...",
-      "published_at": "2026-03-09T15:31:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MbBFRUGRML0/hqdefault.jpg"
-    },
-    {
-      "title": "Does Coruscant Need 5,000 Levels?",
-      "video_id": "MNlTU_nWZR4",
-      "channel_title": "DamiLee",
-      "description": "An architect in the 1960s calculated how many people Earth could support if cities covered the planet. When density, nature, and ...",
-      "published_at": "2026-03-02T16:30:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MNlTU_nWZR4/hqdefault.jpg"
-    },
-    {
-      "title": "Trantor vs Coruscant",
-      "video_id": "hdNuEyDM1vA",
-      "channel_title": "DamiLee",
-      "description": "Trantor and Coruscant are both ecumenopolises, but they grow in opposite directions—one digs downward beneath a fixed ...",
-      "published_at": "2026-02-18T16:31:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hdNuEyDM1vA/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-19T00:48:30.161288",
+  "fetched_at": "2026-04-26T00:50:03.958314",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "新电脑，从零开始，跑通Claude Code等一切Agent 框架，覆盖三大操作系统",
+      "video_id": "7JltMHmSvuY",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 从零开始，把新电脑打造成全能AI Agent运行平台。 解锁Claude Code ...",
+      "published_at": "2026-04-21T12:01:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7JltMHmSvuY/hqdefault.jpg"
+    },
     {
       "title": "告别一切重复枯燥任务，CLI+Skill搭建AI浏览器自动化框架",
       "video_id": "nlK7-zuYDcs",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 我用一套全新工具链，VibeCoding了一个好玩的手机APP----《闻啼鸟》。",
       "published_at": "2026-01-28T01:46:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bQxVeJmJTO4/hqdefault.jpg"
-    },
-    {
-      "title": "爆火的Skills怎么用？数据分析，内容创作，编程实战Agent Skills",
-      "video_id": "3nm_hDALBmY",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 2026 年初，AI 领域爆火关键词就是Skills。Skills是给AI Agent的一个\"专业 ...",
-      "published_at": "2026-01-22T06:58:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3nm_hDALBmY/hqdefault.jpg"
     }
   ]
 }

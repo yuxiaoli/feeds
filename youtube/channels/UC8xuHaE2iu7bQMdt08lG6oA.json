@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-19T00:47:59.767945",
+  "fetched_at": "2026-04-26T00:49:31.364425",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "Lamborghini Huracan screaming loud at night #lamborghinni #huracan",
+      "video_id": "ww07Rwb_iRo",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-04-22T22:36:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ww07Rwb_iRo/hqdefault.jpg"
+    },
+    {
+      "title": "Shelby GT500 Burning Rubber #shelby #gt500 #ford",
+      "video_id": "lMM83wvb-QE",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-04-19T18:17:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lMM83wvb-QE/hqdefault.jpg"
+    },
     {
       "title": "Making an RC truck look real #rctruck #truck #videography",
       "video_id": "z7chtHgMuX0",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-01-16T23:05:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qaXGE4DTIN0/hqdefault.jpg"
-    },
-    {
-      "title": "1967 Mustang, Pure American Muscle #mustang #ford",
-      "video_id": "uWDKA9XsF90",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-12-26T00:25:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uWDKA9XsF90/hqdefault.jpg"
-    },
-    {
-      "title": "Her Hellcat whines Loud #hellcat #dodge",
-      "video_id": "TMmQ2lc8ZA4",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-11-11T20:35:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TMmQ2lc8ZA4/hqdefault.jpg"
     }
   ]
 }

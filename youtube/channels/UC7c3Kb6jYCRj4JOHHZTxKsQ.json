@@ -1,80 +1,64 @@
 {
-  "fetched_at": "2026-04-19T00:47:57.596221",
+  "fetched_at": "2026-04-26T00:49:29.058044",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 10,
+  "count": 9,
   "videos": [
     {
-      "title": "Why Anthropic is keeping Claude Mythos Preview unreleased",
-      "video_id": "T6YYOf0MZi8",
+      "title": "What Maintainers need to know about Open Source Licensing, SBOMs and Security",
+      "video_id": "DxiaRvBuqo8",
       "channel_title": "GitHub",
-      "description": "Anthropic just announced Project Glasswing to help secure critical open-source software infrastructure. Their unreleased AI model ...",
-      "published_at": "2026-04-18T15:00:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T6YYOf0MZi8/hqdefault.jpg"
-    },
-    {
-      "title": "Open Source Friday with Gunnar Morling with Hardwood",
-      "video_id": "teqFSSQEtCw",
-      "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday with Gunnar Morling (Java Champion, Technologist at Confluent, and former lead of the Debezium ...",
-      "published_at": "2026-04-18T06:05:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/teqFSSQEtCw/hqdefault.jpg"
-    },
-    {
-      "title": "The Download: Copilot SDK, Claude Mythos, AI models are protecting each other &amp; more",
-      "video_id": "0vvY2AGg4sM",
-      "channel_title": "GitHub",
-      "description": "Welcome back to another episode of The Download! This week, we cover the severe supply chain attack on the Axios npm ...",
-      "published_at": "2026-04-17T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0vvY2AGg4sM/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays!",
-      "video_id": "ytWRnlXxqsU",
-      "channel_title": "GitHub",
-      "description": "Come one, come all, to Rubber Duck Thursdays, where we code, cowork, and chat!",
-      "published_at": "2026-04-17T07:34:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ytWRnlXxqsU/hqdefault.jpg"
-    },
-    {
-      "title": "How to use agents, skills, and instructions in Copilot CLI | Tutorial for beginners",
-      "video_id": "-yKALFS5ewY",
-      "channel_title": "GitHub",
-      "description": "In episode 6 of our GitHub Copilot CLI for beginners series, we explore how to deeply customize your AI coding assistant.",
-      "published_at": "2026-04-16T15:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-yKALFS5ewY/hqdefault.jpg"
-    },
-    {
-      "title": "How a GitHub engineer built an AI Productivity hub with Copilot CLI",
-      "video_id": "BDZKubrUO1M",
-      "channel_title": "GitHub",
-      "description": "Meet Brittany Ellich, a Staff Software Engineer here at GitHub, and explore the custom productivity tool she built using the GitHub ...",
-      "published_at": "2026-04-15T13:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BDZKubrUO1M/hqdefault.jpg"
-    },
-    {
-      "title": "How to access your Copilot CLI session from anywhere",
-      "video_id": "dRSHSZ53c1g",
-      "channel_title": "GitHub",
-      "description": "Need to step away from your desk but want to keep working? The new remote feature for GitHub Copilot CLI lets you access your ...",
-      "published_at": "2026-04-14T15:01:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dRSHSZ53c1g/hqdefault.jpg"
-    },
-    {
-      "title": "Getting started with GitHub Pages for beginners | Tutorial",
-      "video_id": "b2r9Cdvssi0",
-      "channel_title": "GitHub",
-      "description": "Did you know you can host your static websites completely for free? This episode of our beginner series covers everything you ...",
-      "published_at": "2026-04-13T15:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b2r9Cdvssi0/hqdefault.jpg"
+      "description": "Join Jeff Luszcz from the GitHub Open Source Programs Office as he reviews what every maintainer should know about open ...",
+      "published_at": "2026-04-25T06:56:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DxiaRvBuqo8/hqdefault_live.jpg"
     },
     {
       "title": "Open Source Friday with Kong&#39;s OpenMeter",
       "video_id": "jWnVQdfZ4H4",
       "channel_title": "GitHub",
       "description": "In this Open Source Friday episode, Teja from Kong explains Kong's role as an API gateway and AI connectivity platform, then ...",
-      "published_at": "2026-04-10T15:40:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jWnVQdfZ4H4/hqdefault_live.jpg"
+      "published_at": "2026-04-25T05:37:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jWnVQdfZ4H4/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursday!",
+      "video_id": "eu8Aa-R-ekw",
+      "channel_title": "GitHub",
+      "description": "Come hang and build with us!",
+      "published_at": "2026-04-24T07:46:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eu8Aa-R-ekw/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays",
+      "video_id": "gTbpX5hr3qQ",
+      "channel_title": "GitHub",
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2026-04-24T00:27:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gTbpX5hr3qQ/hqdefault.jpg"
+    },
+    {
+      "title": "Fixing merge conflicts and PRs with Copilot cloud agent | GitHub Checkout",
+      "video_id": "ws_3hiXLKjQ",
+      "channel_title": "GitHub",
+      "description": "Merge conflicts, failing tests, messy PRs. What if you could just ask Copilot to fix all of it? Tim Rogers is back to show what's new ...",
+      "published_at": "2026-04-23T16:01:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ws_3hiXLKjQ/hqdefault.jpg"
+    },
+    {
+      "title": "Build a Personal Assistant with GitHub Copilot SDK + Copilot CLI",
+      "video_id": "5TN6l7JGWvs",
+      "channel_title": "GitHub",
+      "description": "Want to build your own AI assistant? In this video, we show you how to use the GitHub Copilot SDK and Copilot CLI to create a ...",
+      "published_at": "2026-04-22T17:28:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5TN6l7JGWvs/hqdefault.jpg"
+    },
+    {
+      "title": "How to use MCPUI and Goose to manage GitHub issues",
+      "video_id": "Vd1y45pMRCk",
+      "channel_title": "GitHub",
+      "description": "In this demo from GitHub Universe 2025, we explore how to use the Goose AI agent with the GitHub MCP server. Watch as we ...",
+      "published_at": "2026-04-21T15:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vd1y45pMRCk/hqdefault.jpg"
     },
     {
       "title": "Open Source Friday - Welcome to Maintainer Month 2026",
@@ -83,6 +67,14 @@
       "description": "It's Maintainer Month and we're kicking things off with Nicholas Tindle, maintainer of AutoGPT. Nicholas shares how his team ...",
       "published_at": "2026-04-02T23:06:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Ro_VMXWbLt8/hqdefault_live.jpg"
+    },
+    {
+      "title": "Jueves de Quack con Gis Torres",
+      "video_id": "VMPap6uuErU",
+      "channel_title": "GitHub",
+      "description": "Este Jueves de Quack no va del futuro… Va de lo que ya está pasando. Coding agents como: Copilot · Claude · Codex ...",
+      "published_at": "2026-03-20T00:51:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VMPap6uuErU/hqdefault_live.jpg"
     }
   ]
 }

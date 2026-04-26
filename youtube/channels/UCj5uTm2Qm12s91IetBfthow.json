@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-19T00:48:39.292450",
+  "fetched_at": "2026-04-26T00:50:13.939679",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "skill上车指南",
+      "video_id": "Ad4WVB4jcqE",
+      "channel_title": "Find Interesting AI",
+      "description": "",
+      "published_at": "2026-04-25T09:05:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ad4WVB4jcqE/hqdefault.jpg"
+    },
     {
       "title": "程序员这行还能干多久？",
       "video_id": "IHpim5tDnoM",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-12-14T23:15:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AwP-yfUefck/hqdefault.jpg"
-    },
-    {
-      "title": "一口气玩遍11月huggingface最火项目",
-      "video_id": "zffYlZDQuoM",
-      "channel_title": "Find Interesting AI",
-      "description": "",
-      "published_at": "2025-11-30T00:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zffYlZDQuoM/hqdefault.jpg"
     }
   ]
 }

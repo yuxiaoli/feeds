@@ -1,88 +1,72 @@
 {
-  "fetched_at": "2026-04-19T00:47:55.607229",
+  "fetched_at": "2026-04-26T00:49:26.870623",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 10,
+  "count": 8,
   "videos": [
     {
-      "title": "Do you have this DEBT?",
-      "video_id": "RkZC8p9FvQw",
+      "title": "This is the MOST important question.",
+      "video_id": "RiVrXo4_0JU",
       "channel_title": "Tech With Tim",
       "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-04-18T16:19:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RkZC8p9FvQw/hqdefault.jpg"
+      "published_at": "2026-04-25T15:37:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RiVrXo4_0JU/hqdefault.jpg"
     },
     {
-      "title": "AI Testing Just Arrived... | KaneAI Full Tutorial",
-      "video_id": "dlgIqefjVe8",
+      "title": "Local Models Got a HUGE Upgrade - Full Guide (Ollama/OpenClaw)",
+      "video_id": "73UEJxAWzb0",
       "channel_title": "Tech With Tim",
-      "description": "Get started with KaneAI using their FREE trial: ...",
-      "published_at": "2026-04-18T15:15:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dlgIqefjVe8/hqdefault.jpg"
+      "description": "Get a chance to win a FREE Mac Mini with ClawComp: https://clawcomp.net/ PromptCast: ...",
+      "published_at": "2026-04-24T14:14:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/73UEJxAWzb0/hqdefault.jpg"
     },
     {
-      "title": "Is AI slowing you down?",
-      "video_id": "axSyL9r5xcg",
+      "title": "Codex Built a Game and Then Played It With Me",
+      "video_id": "DzlZzQ_kVsY",
+      "channel_title": "Tech With Tim",
+      "description": "Codex just shipped an update that closes the loop on AI-assisted development. In this Short I'm walking through the two features ...",
+      "published_at": "2026-04-23T21:53:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DzlZzQ_kVsY/hqdefault.jpg"
+    },
+    {
+      "title": "The ONE thing all interviewers look for.",
+      "video_id": "W-vDZI_vkFc",
       "channel_title": "Tech With Tim",
       "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-04-17T14:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/axSyL9r5xcg/hqdefault.jpg"
+      "published_at": "2026-04-23T16:39:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W-vDZI_vkFc/hqdefault.jpg"
     },
     {
-      "title": "You NEED to stop using AI.",
-      "video_id": "NNA6Bo84Gzo",
+      "title": "Hermes Agent Full Tutorial for Beginners | Setup Guide",
+      "video_id": "1ve4Atbqmoo",
       "channel_title": "Tech With Tim",
-      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-04-16T17:08:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NNA6Bo84Gzo/hqdefault.jpg"
+      "description": "Deploy Hermes with Hostinger in one click: https://www.hostg.xyz/SHJJB In this video, I walk through the complete setup of ...",
+      "published_at": "2026-04-23T14:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1ve4Atbqmoo/hqdefault.jpg"
     },
     {
-      "title": "I Spawned 10,000 AI Agents to Predict the Future (MiroFish is Insane)",
+      "title": "Build an AI Email Assistant with Code | Full AI Tutorial",
+      "video_id": "8FBGb0NS_zc",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with Postmark for free to build this project!",
+      "published_at": "2026-04-22T13:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8FBGb0NS_zc/hqdefault.jpg"
+    },
+    {
+      "title": "I Built an AI Agent in 20 Minutes - Here&#39;s How",
+      "video_id": "Xx18YRrK-Uk",
+      "channel_title": "Tech With Tim",
+      "description": "Explore MaxClaw/MiniMax Agent: ...",
+      "published_at": "2026-04-20T13:53:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xx18YRrK-Uk/hqdefault.jpg"
+    },
+    {
+      "title": "MiroFish Full Tutorial — Predict Any Scenario With AI",
       "video_id": "QmdCkaTM1P4",
       "channel_title": "Tech With Tim",
       "description": "Deploy MiroFish with one click using Hostinger: https://www.hostg.xyz/SHJGj Get 10% off with code techwithtim MiroFish is one of ...",
       "published_at": "2026-04-16T13:00:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/QmdCkaTM1P4/hqdefault.jpg"
-    },
-    {
-      "title": "How to Design a Production-Grade System in Python",
-      "video_id": "2EZMBq4gWOY",
-      "channel_title": "Tech With Tim",
-      "description": "Thordata: https://www.thordata.com/?ls=YouTube&lk=Tim Use the code \"THORTIM\" to get 30% off! Now I know a lot of you ...",
-      "published_at": "2026-04-15T14:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2EZMBq4gWOY/hqdefault.jpg"
-    },
-    {
-      "title": "How to Setup AI Agent Skills for Better Code | TRAE SOLO",
-      "video_id": "jsy3m7Emkr0",
-      "channel_title": "Tech With Tim",
-      "description": "Try TRAE SOLO Now: https://www.trae.ai/?utm_source=influencerglobal&utm_medium=meeco&utm_campaign=Techwithtim The ...",
-      "published_at": "2026-04-14T15:51:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jsy3m7Emkr0/hqdefault.jpg"
-    },
-    {
-      "title": "From Zero to Working AI Agent in 60 Seconds",
-      "video_id": "sdZFTnQcAmQ",
-      "channel_title": "Tech With Tim",
-      "description": "I built a working AI agent in 60 seconds. Timed it. Not a chatbot. Not a wrapper around an API. A real agent that joins four data ...",
-      "published_at": "2026-04-13T22:30:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sdZFTnQcAmQ/hqdefault.jpg"
-    },
-    {
-      "title": "The Ultimate Claude Code Guide | MCP, Skills &amp; More",
-      "video_id": "uogzSxOw4LU",
-      "channel_title": "Tech With Tim",
-      "description": "Use Nimbalyst to access a free visual workspace for building with Codex and Claude Code: ...",
-      "published_at": "2026-04-13T14:01:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uogzSxOw4LU/hqdefault.jpg"
-    },
-    {
-      "title": "Running LLMs Locally Just Got Way Better - Ollama + MCP",
-      "video_id": "GAyNvq6Ayps",
-      "channel_title": "Tech With Tim",
-      "description": "Use the Zapier MCP server to connect to over 8000 applications/tools: https://bit.ly/4vn0jrC If you want to run a local model that is ...",
-      "published_at": "2026-04-12T13:03:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GAyNvq6Ayps/hqdefault.jpg"
     }
   ]
 }

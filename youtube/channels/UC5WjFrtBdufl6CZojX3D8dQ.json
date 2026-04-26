@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-19T00:47:56.316583",
+  "fetched_at": "2026-04-26T00:49:27.555305",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Tesla Q1 2026 Financial Results and Q&amp;A Webcast",
+      "video_id": "qO7T5zgRvXM",
+      "channel_title": "Tesla",
+      "description": "Start of call: https://youtu.be/qO7T5zgRvXM?t=415.",
+      "published_at": "2026-04-22T22:34:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qO7T5zgRvXM/hqdefault.jpg"
+    },
     {
       "title": "TERAFAB | The Largest Chip Manufacturing Facility Ever",
       "video_id": "Txt3Wodav1o",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-02-04T21:23:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9V_4QOpmmZQ/hqdefault.jpg"
-    },
-    {
-      "title": "Model Y AWD is here",
-      "video_id": "g2yofR9OYE0",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-02-04T01:50:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g2yofR9OYE0/hqdefault.jpg"
     }
   ]
 }

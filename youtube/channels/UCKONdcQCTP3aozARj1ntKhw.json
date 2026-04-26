@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-04-19T00:48:11.878577",
+  "fetched_at": "2026-04-26T00:49:44.034083",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Warp office hours",
+      "video_id": "T7bQ86m5AEk",
+      "channel_title": "Warp",
+      "description": "Come join us as we answer your questions and build Warp in public together. We'll be building features out in the open with ...",
+      "published_at": "2026-04-25T16:16:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/T7bQ86m5AEk/hqdefault_live.jpg"
+    },
+    {
+      "title": "The tasks AI is the best at",
+      "video_id": "UFsPY-Gpubs",
+      "channel_title": "Warp",
+      "description": "Nobody got into engineering to write the 47th migration script. Zach on why the repetitive work is exactly what AI should be doing ...",
+      "published_at": "2026-04-24T17:15:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UFsPY-Gpubs/hqdefault.jpg"
+    },
+    {
+      "title": "Warp x Codex: Turning the terminal into an agentic development environment",
+      "video_id": "hKbWCyb6Z4c",
+      "channel_title": "Warp",
+      "description": "See what first-class support for Codex looks like in Warp. At Warp, we believe that the terminal is already the best place to do ...",
+      "published_at": "2026-04-23T17:43:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hKbWCyb6Z4c/hqdefault.jpg"
+    },
+    {
+      "title": "Saas might be dying",
+      "video_id": "SWTX_hisvgc",
+      "channel_title": "Warp",
+      "description": "Software used to take a team of 10 and six months. Now it takes one person and an afternoon. Zach Lloyd on how AI coding ...",
+      "published_at": "2026-04-23T15:35:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SWTX_hisvgc/hqdefault.jpg"
+    },
+    {
+      "title": "The best engineers are leveraging the most out of agents",
+      "video_id": "nk1qAwDs9SY",
+      "channel_title": "Warp",
+      "description": "Engineers don't think in single threads anymore. Zach on how the best devs are starting to run multiple agents in parallel ...",
+      "published_at": "2026-04-22T18:50:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nk1qAwDs9SY/hqdefault.jpg"
+    },
+    {
+      "title": "How I use coding agents in Warp (with @YourAverageTechBro )",
+      "video_id": "8y0B3fuS_IU",
+      "channel_title": "Warp",
+      "description": "Warp made it easier to use any coding agent (Claude Code, Codex, etc) with vertical tabs, desktop notifications, remote control, ...",
+      "published_at": "2026-04-22T07:31:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8y0B3fuS_IU/hqdefault.jpg"
+    },
+    {
+      "title": "Intro to Warp - fundamentals, CLI agents, cloud agents, and more!",
+      "video_id": "HEWJ5gxsdDk",
+      "channel_title": "Warp",
+      "description": "Follow along with our starter repository, or just watch and ask questions as we go: ...",
+      "published_at": "2026-04-21T23:08:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HEWJ5gxsdDk/hqdefault_live.jpg"
+    },
     {
       "title": "Warp for Data &amp; Analytics Teams: building self-serve data workflows",
       "video_id": "WyMTjXSplRU",
@@ -27,62 +83,6 @@
       "description": "Warp is an Agentic Development Environment, born out of the terminal. Today, we're introducing a set of new features that make ...",
       "published_at": "2026-04-14T13:45:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/UuT4u4m84K0/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Warp and Oz",
-      "video_id": "orYkXlHjboE",
-      "channel_title": "Warp",
-      "description": "Follow along with our starter repository, or just watch and ask questions as we go: ...",
-      "published_at": "2026-04-10T07:08:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/orYkXlHjboE/hqdefault.jpg"
-    },
-    {
-      "title": "Everything is a CLI now (and it&#39;s awesome)",
-      "video_id": "14ulZBS6rUw",
-      "channel_title": "Warp",
-      "description": "Resources from this video: - Google Workspace CLI - https://github.com/googleworkspace/cli - Obsidian CLI ...",
-      "published_at": "2026-04-06T17:59:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/14ulZBS6rUw/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Warp and Oz",
-      "video_id": "GBIP_xVbJ6Q",
-      "channel_title": "Warp",
-      "description": "Follow along with our starter repository, or just watch and ask questions as we go: ...",
-      "published_at": "2026-04-02T19:06:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GBIP_xVbJ6Q/hqdefault.jpg"
-    },
-    {
-      "title": "Warp terminal deep dive",
-      "video_id": "xhkoXsE9Wqc",
-      "channel_title": "Warp",
-      "description": "References from the video: - Environment variables: ...",
-      "published_at": "2026-03-30T18:04:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xhkoXsE9Wqc/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Warp and Oz",
-      "video_id": "RJWBXe9XO0s",
-      "channel_title": "Warp",
-      "description": "Follow along with our starter repository, or just watch and ask questions as we go: ...",
-      "published_at": "2026-03-27T07:12:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RJWBXe9XO0s/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Warp and Oz",
-      "video_id": "hZUodhuVPWc",
-      "channel_title": "Warp",
-      "description": "Follow along with our starter repository, or just watch and ask questions as we go: ...",
-      "published_at": "2026-03-20T07:09:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hZUodhuVPWc/hqdefault.jpg"
-    },
-    {
-      "title": "Accessibility Audit with Warp",
-      "video_id": "gLXsYdByEJw",
-      "channel_title": "Warp",
-      "description": "Dave, a product designer at Warp does a full accessibility audit using Warp.",
-      "published_at": "2026-03-10T14:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gLXsYdByEJw/hqdefault.jpg"
     }
   ]
 }

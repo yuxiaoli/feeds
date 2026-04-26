@@ -1,56 +1,72 @@
 {
-  "fetched_at": "2026-04-19T00:48:07.493331",
+  "fetched_at": "2026-04-26T00:49:39.542425",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "压缩即全部 | 迈克尔·弗里德曼 | 菲尔兹奖得主 | 三千年前的发明 | 量化研究MathLib | 双指数级增长 | 人类数学 | 幺半群 | 宏 | 归约压缩 | 演绎压缩",
-      "video_id": "fOmkQQnTHIw",
+      "title": "DeepSeek-V4发布 | Pro/Flash | 1M上下文 | 混合注意力架构 | mHC | Muon优化器 | EP优化 | TileLang | FP4量化 | 推理成本大幅下降",
+      "video_id": "fnmS_DSpwMg",
       "channel_title": "最佳拍档",
-      "description": "菲尔兹奖得主，迈克尔·弗里德曼（Michael Freedman），最近发表了一篇颠覆性的论文，《Compression Is All You Need》，翻译 ...",
-      "published_at": "2026-04-18T09:00:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fOmkQQnTHIw/hqdefault.jpg"
+      "description": "4月24日，DeepSeek终于在发布并且开源了V4预览版，我知道大家最想知道两件事。第一，DeepSeek模型的性能是否还在第一 ...",
+      "published_at": "2026-04-25T09:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fnmS_DSpwMg/hqdefault.jpg"
     },
     {
-      "title": "Hermes Agent和OpenClaw有什么区别 | Nous Research | 控制中枢 | Agent自身执行循环 | 自我提升与知识生成 | 分层记忆体系 | 自动化能力 | 抄袭风波",
-      "video_id": "NbldZVdusKo",
+      "title": "OpenAI发布GPT-5.5 | 全新智能层级 | 百万Token上下文 | 自我优化基础设施 | Codex能力大幅提升 | 发现数学新证明 | 价格翻倍 | 安全评估 | Anthropic承压",
+      "video_id": "vD4vYtihJvc",
       "channel_title": "最佳拍档",
-      "description": "最近，一款来自Nous Research的全新智能体Hermes Agent快速崛起，大量原本深度使用OpenClaw的用户开始转向Hermes，智能 ...",
-      "published_at": "2026-04-17T09:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NbldZVdusKo/hqdefault.jpg"
+      "description": "4月23日，OpenAI正式推出了新一代旗舰模型GPT‑5.5。官方给它的定位是，面向真实工作的全新智能层级，同时也是迈向全新 ...",
+      "published_at": "2026-04-24T23:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vD4vYtihJvc/hqdefault.jpg"
     },
     {
-      "title": "把你的同事炼化成Skill？| Github爆火项目 | 职场打工人 | 什么是Skill | Anthropic | 提示词 | 开放标准格式 | 反蒸馏 | 版权问题 | 静态快照",
-      "video_id": "KqxNN_-J5k4",
+      "title": "Agent Harness十二大模块完全解析 | Harness工程 | 影响模型性能 | Anthropic | OpenAI | LangGraph | 七大架构抉择",
+      "video_id": "S36ri23-l60",
       "channel_title": "最佳拍档",
-      "description": "最近有一个名为同事.skill的开源项目火了，紧接着，前任.skill、老板.skill、父母.skill、甚至是女娲.skill等十几个衍生项目， ...",
-      "published_at": "2026-04-16T23:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KqxNN_-J5k4/hqdefault.jpg"
+      "description": "Harness不是简单的包装，而是一套让自主智能体实现自主思考、自主行动、自主修复的完整系统，也是所谓玩具级的Demo与生产级 ...",
+      "published_at": "2026-04-24T09:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S36ri23-l60/hqdefault.jpg"
     },
     {
-      "title": "中本聪究竟是谁？| 纽约时报万字报道 | 17年迷局 | Adam Back | 比特币创始人 | 技术逻辑 | 意识形态 | 语言习惯 | 行为轨迹 | 法证语言学 | 社区反驳 | 坚决否认",
-      "video_id": "5-3z3kzeudg",
+      "title": "苹果下一任接班人终于确定 | 硬件负责人约翰·特纳斯 | 加入苹果25年 | 领导Vision Pro | M芯片成功替换 | 蝴蝶键盘折戟 | AI能力不足 | 能否扭转颓势",
+      "video_id": "lDxdZ7B0TeE",
       "channel_title": "最佳拍档",
-      "description": "2026年4月8日，《纽约时报》发布了一篇长达万字对中本聪（Satoshi Nakamoto）的深度调查报道，由资深调查记者约翰·卡雷 ...",
-      "published_at": "2026-04-16T10:03:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5-3z3kzeudg/hqdefault.jpg"
+      "description": "2026年4月21日，苹果官方突然扔出了一颗重磅消息，现任硬件工程高级副总裁约翰·特纳斯（John Ternus），将在今年9月1日正式 ...",
+      "published_at": "2026-04-23T09:30:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lDxdZ7B0TeE/hqdefault.jpg"
     },
     {
-      "title": "后AGI时代50年内或成真 | Demis Hassabis | 罕见袒露心声 | AlphaFold | AlphaGo | 三类AI风险 | 人类的独特价值 | 后AGI时代",
-      "video_id": "zqMZ_oUvhxY",
+      "title": "Optimus Gen 3灵巧手五项专利解读 | Tesla | 25个自由度 | 整手及保护装置 | 前臂 | 手腕 | 手指 | 缆线布设 | 仿生 | 机器人量产",
+      "video_id": "Rgj_jS3pAH8",
       "channel_title": "最佳拍档",
-      "description": "2026年4月7日，谷歌DeepMind的CEO德米斯·哈萨比斯（Demis Hassabis）参加了Huge Conversations的播客访谈。哈萨比斯在 ...",
-      "published_at": "2026-04-15T23:01:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zqMZ_oUvhxY/hqdefault.jpg"
+      "description": "今天这期内容，我们来聊聊整个人形机器人产业化进程中，最难跨越、也是最受行业关注的部件，灵巧手，而我们的分析对象，正是 ...",
+      "published_at": "2026-04-22T12:20:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Rgj_jS3pAH8/hqdefault.jpg"
     },
     {
-      "title": "Meta-Harness | Harness工程代码能自我迭代吗 | 斯坦福论文 | 文本优化方法的缺陷 | coding agent | 提议器 | 搜索循环 | 局限性 | 交给AI",
-      "video_id": "nkPAS2hTqmw",
+      "title": "OpenAI CEO和CFO为何决裂 | M.G. Siegler | Sam Altman | 苹果是否会收购Anthropic | Meta迷失在AI赛道 | DeepMind当初为何拒绝Meta",
+      "video_id": "zeGT2Go2Cvs",
       "channel_title": "最佳拍档",
-      "description": "斯坦福大学联合麻省理工学院、KRAFTON AI提出的Meta-Harness研究，试图自动化harness代码的优化，并且在多个任务中实现了 ...",
-      "published_at": "2026-04-13T23:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nkPAS2hTqmw/hqdefault.jpg"
+      "description": "2026年4月11日，美国顶级科技投资人迈克尔·乔治·西格勒（M.G. Siegler） 在亚历克斯·坎特罗维茨（Alex Kantrowitz） 的《Big ...",
+      "published_at": "2026-04-21T23:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zeGT2Go2Cvs/hqdefault.jpg"
+    },
+    {
+      "title": "世界蠢得不可思议，我也是 | 汪滔 | 大疆DJI | 少年时代 | 求学道路 | 初次创业 | 称霸世界 | 礼崩乐坏 | 蜕变拐点 | 管理哲学 | 人才和组织 | 竞争观 | 彻底觉醒",
+      "video_id": "eDpTWzWwkTw",
+      "channel_title": "最佳拍档",
+      "description": "2026年4月，《晚点LatePost》发布了一篇与大疆创新的创始人兼董事长汪滔长达19小时访谈的深度稿件，在今天这期内容里，我们 ...",
+      "published_at": "2026-04-21T10:21:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eDpTWzWwkTw/hqdefault.jpg"
+    },
+    {
+      "title": "科学进步的真相 | 迈克尔·尼尔森 | 爱因斯坦 | 迈克尔逊-莫雷实验 | 以太 | 狭义相对论 | 日心说 | 达尔文进化论 | AI不是理论科学 | 星际文明 | 范式跃迁 | 开放科学",
+      "video_id": "et_ha8w7G6Y",
+      "channel_title": "最佳拍档",
+      "description": "最近，迈克尔·尼尔森（Michael Nielsen）与德瓦凯什·帕特尔（Dwarkesh Patel）进行了一场深度对谈，全程硬核拆解科学进步的 ...",
+      "published_at": "2026-04-20T23:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/et_ha8w7G6Y/hqdefault.jpg"
     },
     {
       "title": "【人工智能】AI未来发展的核心支柱 | 钢铁、服务器、能源 | David Cahn红杉美国合伙人 | 数据中心 | 基建效率 | 现金牛 | 房地产 | 资产负债表外融资",
@@ -67,22 +83,6 @@
       "description": "今天这是一期科技创业者必看的视频。对于所有初创公司来说，核心任务就是寻找产品与市场的契合点，也就是所谓 ...",
       "published_at": "2024-05-01T10:06:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nJIVpB05eKY/hqdefault.jpg"
-    },
-    {
-      "title": "关于中美企业异国发展蔡崇信给出了一些务实建议",
-      "video_id": "_EckgvG2mAI",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts.",
-      "published_at": "2024-04-07T05:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_EckgvG2mAI/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI为何能坚持AGI道路 #openai #人工智能",
-      "video_id": "U0DFLWtAGO4",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts.",
-      "published_at": "2024-03-04T00:08:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U0DFLWtAGO4/hqdefault.jpg"
     }
   ]
 }

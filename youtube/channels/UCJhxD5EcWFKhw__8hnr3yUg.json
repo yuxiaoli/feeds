@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-19T00:48:10.404056",
+  "fetched_at": "2026-04-26T00:49:42.552257",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "高迪一日游！巴特罗米拉奎尔！还偶遇了江疏影",
+      "video_id": "N3lp0CulKxs",
+      "channel_title": "码农高天",
+      "description": "巴塞罗那第二天，今天全都是高迪！巴特罗之家，米拉之家，奎尔公园，外加西班牙tapas！",
+      "published_at": "2026-04-25T04:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N3lp0CulKxs/hqdefault.jpg"
+    },
     {
       "title": "程序员提升必经之路，改bug之外的工作",
       "video_id": "WLzhdp478cY",
@@ -75,14 +83,6 @@
       "description": "台湾性价比最高的一天，在台北故宫逛了一下午，结束去士林夜市吃大鸡排啦！",
       "published_at": "2025-12-14T09:01:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nn-OLlk-REg/hqdefault.jpg"
-    },
-    {
-      "title": "漫步安平，我知道有些观点可能会引起争议，但我还是放出来了",
-      "video_id": "f0dIZDkKXqQ",
-      "channel_title": "码农高天",
-      "description": "台南第二天，逛了安平，又去了渔光岛。这期视频里可能会有一些相对尖锐的观点，但是我还是决定剪出来。我觉得每个观点都是 ...",
-      "published_at": "2025-12-01T10:30:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f0dIZDkKXqQ/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-19T00:48:33.124275",
+  "fetched_at": "2026-04-26T00:50:07.112197",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "📉 Turn your multimodal data into something you can actually query",
+      "video_id": "XteKUbuvNrI",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/3QcAj29 Images, audio, and video now make up a large share of the data teams work with, but most ...",
+      "published_at": "2026-04-22T14:33:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XteKUbuvNrI/hqdefault.jpg"
+    },
+    {
+      "title": "Coming Soon: Build Interactive Agents with Generative UI",
+      "video_id": "jMQtHvb8aPA",
+      "channel_title": "DeepLearningAI",
+      "description": "In this course, built in collaboration with CopilotKit and coming soon to the DeepLearning.AI catalog, you'll build across the full ...",
+      "published_at": "2026-04-21T17:41:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jMQtHvb8aPA/hqdefault.jpg"
+    },
     {
       "title": "New course! Spec-Driven Development",
       "video_id": "bJ8F43j1Fqw",
@@ -67,22 +83,6 @@
       "description": "Meet Oracle on the AI Dev x SF show floor or join their workshop to explore the latest thinking on agent memory and what it takes ...",
       "published_at": "2026-03-20T16:49:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-zx4SAmcDdM/hqdefault.jpg"
-    },
-    {
-      "title": "🎧 LoFi Beats for Coding &amp; Focus: Calm Beats to Study, Build, and Think",
-      "video_id": "omGyNyMNeGM",
-      "channel_title": "DeepLearningAI",
-      "description": "A calm playlist for coding, studying, or focused work. Whether you're debugging, reading, or building exciting new things after ...",
-      "published_at": "2026-03-19T16:22:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/omGyNyMNeGM/hqdefault.jpg"
-    },
-    {
-      "title": "CEOs are wasting millions on AI. Here&#39;s why. 💸",
-      "video_id": "qtSruHgnn20",
-      "channel_title": "DeepLearningAI",
-      "description": "CEOs are pouring millions into AI, but simply swapping a human for an AI agent in the middle of a broken process won't change ...",
-      "published_at": "2026-03-06T02:19:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qtSruHgnn20/hqdefault.jpg"
     }
   ]
 }

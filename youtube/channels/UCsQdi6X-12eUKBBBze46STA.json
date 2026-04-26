@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-19T00:48:46.208229",
+  "fetched_at": "2026-04-26T00:50:21.483272",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "Fix your toast",
+      "video_id": "csRjGEb0hoI",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-04-24T14:52:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/csRjGEb0hoI/hqdefault.jpg"
+    },
+    {
+      "title": "You need more protein",
+      "video_id": "XP83vW5sllU",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-04-22T15:24:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XP83vW5sllU/hqdefault.jpg"
+    },
     {
       "title": "The right way to eat dessert",
       "video_id": "nHS0RSj7ut4",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-03-31T15:15:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7Op_OE7B4ko/hqdefault.jpg"
-    },
-    {
-      "title": "My experience with miscarriage",
-      "video_id": "kaeaa8u2kFs",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-03-29T16:16:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kaeaa8u2kFs/hqdefault.jpg"
-    },
-    {
-      "title": "Healthy fruit… or glucose spike?",
-      "video_id": "bkDB3YMr_A4",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-03-27T14:19:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bkDB3YMr_A4/hqdefault.jpg"
     }
   ]
 }

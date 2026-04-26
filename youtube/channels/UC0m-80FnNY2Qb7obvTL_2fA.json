@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-04-19T00:47:50.519601",
+  "fetched_at": "2026-04-26T00:49:21.549295",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
+    {
+      "title": "Microsoft Security Copilot for SAP",
+      "video_id": "ZzOwV3G1qv4",
+      "channel_title": "Microsoft Azure",
+      "description": "Secure your SAP environment with trusted, comprehensive, multilayered protection from Microsoft Security.",
+      "published_at": "2026-04-24T20:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZzOwV3G1qv4/hqdefault.jpg"
+    },
+    {
+      "title": "Oracle AI Database@Azure Panel Discussion with MVPs",
+      "video_id": "bgx0TX45md8",
+      "channel_title": "Microsoft Azure",
+      "description": "Panel discussion between MVPs and engineering on Microsoft and Oracle. Speakers: Sai Penumuru, Senior Director, Technology ...",
+      "published_at": "2026-04-24T19:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bgx0TX45md8/hqdefault.jpg"
+    },
+    {
+      "title": "Oracle AI Database@Azure MVP Spotlight Series - Episode 2",
+      "video_id": "R6mml-94m4o",
+      "channel_title": "Microsoft Azure",
+      "description": "This video is a part of our MVP Spotlight series. Speakers: Gauri Gorhe, Senior Product Manager, Azure Solutions and Ecosystem, ...",
+      "published_at": "2026-04-24T17:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R6mml-94m4o/hqdefault.jpg"
+    },
+    {
+      "title": "Oracle AI Database@Azure MVP Spotlight Series - Episode 1",
+      "video_id": "12svyfslb80",
+      "channel_title": "Microsoft Azure",
+      "description": "This video is a part of our MVP Spotlight series. Speakers: Gauri Gorhe, Senior Product Manager, Azure Solutions and Ecosystem, ...",
+      "published_at": "2026-04-24T15:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/12svyfslb80/hqdefault.jpg"
+    },
+    {
+      "title": "Voice of the MVP - Oracle AI Database@Azure",
+      "video_id": "-ZQx_b2lUCU",
+      "channel_title": "Microsoft Azure",
+      "description": "Oracle AI Database@Azure MVPs sat together for a casual conversation discussing what's working well, sharing customer ...",
+      "published_at": "2026-04-22T17:47:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-ZQx_b2lUCU/hqdefault.jpg"
+    },
     {
       "title": "Porsche Cup Brasil uses Azure AI to keep more drivers competing on race day",
       "video_id": "OnEGOkfvygA",
@@ -13,31 +53,7 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OnEGOkfvygA/hqdefault.jpg"
     },
     {
-      "title": "OC3 2026 | Tech Leaders Panel with Microsoft, AMD, Intel &amp; Nvidia",
-      "video_id": "LC1CNlqltMM",
-      "channel_title": "Microsoft Azure",
-      "description": "Join industry leaders Mark Russinovich, Daniel Rohrer, Anand Pashupathy and Ravi Kuppuswamy as they discuss the current ...",
-      "published_at": "2026-04-17T01:03:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LC1CNlqltMM/hqdefault.jpg"
-    },
-    {
-      "title": "OC3 2026 | Azure confidential computing in the sovereign cloud era with Vikas Bhatia",
-      "video_id": "pvTvGbPlwJQ",
-      "channel_title": "Microsoft Azure",
-      "description": "Join Vikas Bhatia, head of product for Azure Compute Security & Confidential Computing, as he presents the latest innovations in ...",
-      "published_at": "2026-04-16T17:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pvTvGbPlwJQ/hqdefault.jpg"
-    },
-    {
-      "title": "OC3 2026 | The Weakest Link in AI: Hardening MCP Servers with CC with Pawan Khandavilli",
-      "video_id": "Ostt7zjVDb4",
-      "channel_title": "Microsoft Azure",
-      "description": "This talk by Pawan Khandavilli from the Azure Confidential Computing team explains how confidential computing protects AI ...",
-      "published_at": "2026-04-16T15:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ostt7zjVDb4/hqdefault.jpg"
-    },
-    {
-      "title": "Scale Azure Storage: Ultra Disk, Blob Storage, Azure Container Storage",
+      "title": "Blob Storage for AI",
       "video_id": "kJiYUP9YgIA",
       "channel_title": "Microsoft Azure",
       "description": "Learn how to scale Azure Storage efficiently using Ultra Disk, Blob Storage, and Azure Container Storage. Explore more technical ...",
@@ -67,22 +83,6 @@
       "description": "In this partner conversation, Microsoft partners discuss how they collaborate with Microsoft to build AI apps and agents for ...",
       "published_at": "2026-02-26T17:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Djo5nc9x9RQ/hqdefault.jpg"
-    },
-    {
-      "title": "How to back up on-premises Windows VMs to Azure",
-      "video_id": "h8wYYIl03DA",
-      "channel_title": "Microsoft Azure",
-      "description": "A visual guide that shows you steps for backing up an on-premises Windows Server virtual machine (VM) with Azure Backup.",
-      "published_at": "2026-01-21T17:02:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h8wYYIl03DA/hqdefault.jpg"
-    },
-    {
-      "title": "Dragon Copilot Admin Center",
-      "video_id": "36WbakEVlmE",
-      "channel_title": "Microsoft Azure",
-      "description": "With the Dragon Copilot admin center, a centralized destination for managing licensing, billing and organizational lifecycle ...",
-      "published_at": "2025-12-10T17:40:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/36WbakEVlmE/hqdefault.jpg"
     }
   ]
 }

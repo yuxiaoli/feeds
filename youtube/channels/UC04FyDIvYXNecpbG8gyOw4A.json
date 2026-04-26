@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-04-19T00:47:49.138173",
+  "fetched_at": "2026-04-26T00:49:20.016186",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Impact Story: dessert destination @itsflippinsweet",
+      "video_id": "7M9NWZMCIPk",
+      "channel_title": "Meta",
+      "description": "When Gabby and Tom found an old trailer on @facebookapp Marketplace, they got so much more than a new set of wheels.",
+      "published_at": "2026-04-23T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7M9NWZMCIPk/hqdefault.jpg"
+    },
+    {
+      "title": "Cutting this fabric reveals a secret design ✂️ via @himuroyuri on IG",
+      "video_id": "6HURjWjH5ts",
+      "channel_title": "Meta",
+      "description": "Meet Yuri Himuro (@himuroyuri), a Tokyo-based textile designer and artist whose work invites you to reach out and touch it.",
+      "published_at": "2026-04-22T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6HURjWjH5ts/hqdefault.jpg"
+    },
+    {
+      "title": "Edits App!",
+      "video_id": "KHyaAVI2Tis",
+      "channel_title": "Meta",
+      "description": "with @AIatMeta you can...do all kinds of things. check out the app to start animating photos, discover new products, and more.",
+      "published_at": "2026-04-20T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KHyaAVI2Tis/hqdefault.jpg"
+    },
     {
       "title": "Impact Stories: Snake Yoga",
       "video_id": "cWshICtbaY8",
@@ -59,30 +83,6 @@
       "description": "check out Erin's wild cake creations on @sugarinspired and see how she brings them to life with @AIatMeta.",
       "published_at": "2026-03-27T13:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/z199LqbpfTQ/hqdefault.jpg"
-    },
-    {
-      "title": "Green Screen Fakeout",
-      "video_id": "_yKYHJ64zRM",
-      "channel_title": "Meta",
-      "description": "Meta AI makes snack time better (without the judgement)",
-      "published_at": "2026-03-20T14:01:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_yKYHJ64zRM/hqdefault.jpg"
-    },
-    {
-      "title": "Smile!",
-      "video_id": "tVbUF3LEQjA",
-      "channel_title": "Meta",
-      "description": "you can restyle any photo into a work of art with Meta AI.",
-      "published_at": "2026-03-18T14:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tVbUF3LEQjA/hqdefault.jpg"
-    },
-    {
-      "title": "Meta Lab Skateboarding",
-      "video_id": "iTrW-v5xO5w",
-      "channel_title": "Meta",
-      "description": "Some people are just here for the skatepark... but there's lots to explore at Meta Lab. You can visit one of our five retail spaces to ...",
-      "published_at": "2026-03-16T14:01:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iTrW-v5xO5w/hqdefault.jpg"
     }
   ]
 }

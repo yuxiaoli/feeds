@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-04-19T00:48:15.176981",
+  "fetched_at": "2026-04-26T00:49:47.749181",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 10,
+  "count": 8,
   "videos": [
     {
-      "title": "Welcome Home, Artemis II (Official NASA Recap)",
-      "video_id": "AYSE6QLigik",
+      "title": "Progress 95 Cargo Ship Launch",
+      "video_id": "7FJUz-54AX0",
       "channel_title": "NASA",
-      "description": "Our Artemis II mission concluded its historic flight around the Moon on April 10, 2026. Among its many milestones, Artemis II ...",
-      "published_at": "2026-04-17T19:48:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AYSE6QLigik/hqdefault.jpg"
+      "description": "We're launching three tons of food, fuel, and supplies to the International Space Station. Watch live with us. The unpiloted ...",
+      "published_at": "2026-04-25T22:39:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7FJUz-54AX0/hqdefault.jpg"
+    },
+    {
+      "title": "NASA News Conference: Nancy Grace Roman Space Telescope is Complete",
+      "video_id": "XX4f6dOoi08",
+      "channel_title": "NASA",
+      "description": "Our new flagship telescope is fully assembled. Come find out what it will discover. We're hosting a news conference at NASA's ...",
+      "published_at": "2026-04-21T21:07:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XX4f6dOoi08/hqdefault.jpg"
+    },
+    {
+      "title": "Artemis II Watches Earth Set Behind the Moon",
+      "video_id": "MT8tg5b3b8E",
+      "channel_title": "NASA",
+      "description": "\"Would you look at that, man!\" As Artemis II flew around the Moon on April 6, 2026, traveling further from Earth than any humans in ...",
+      "published_at": "2026-04-20T17:43:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MT8tg5b3b8E/hqdefault.jpg"
     },
     {
       "title": "Moonbound Episode 2 | For All Humanity",
@@ -29,22 +45,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bfw4G59j9uw/hqdefault.jpg"
     },
     {
-      "title": "Official Static Feed: NASA&#39;s Mobile Launcher on the Move (April 17, 2026)",
-      "video_id": "zgnmbCWYixM",
-      "channel_title": "NASA",
-      "description": "NASA's mobile launcher is on the move as teams prepare for the upcoming Artemis III mission. The massive structure will begin to ...",
-      "published_at": "2026-04-17T16:16:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zgnmbCWYixM/hqdefault.jpg"
-    },
-    {
-      "title": "NASA Force: The Next Era of NASA Starts with You",
-      "video_id": "hfoHFnGuVCw",
-      "channel_title": "NASA",
-      "description": "NASA Administrator Jared Isaacman introduces NASA Force, a new initiative to bring highly skilled engineers, technologists, and ...",
-      "published_at": "2026-04-17T15:21:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hfoHFnGuVCw/hqdefault.jpg"
-    },
-    {
       "title": "Reflections from the Artemis II Crew",
       "video_id": "WhNzhnXO16c",
       "channel_title": "NASA",
@@ -53,36 +53,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WhNzhnXO16c/hqdefault.jpg"
     },
     {
-      "title": "Official Static Feed: NASA&#39;s Mobile Launcher on the Move (April 16, 2026)",
-      "video_id": "KQ3YB0woUbY",
+      "title": "Live Video from the International Space Station (Official NASA Stream)",
+      "video_id": "sWasdbDVNvc",
       "channel_title": "NASA",
-      "description": "NASA's mobile launcher is on the move as teams prepare for the upcoming Artemis III mission. The massive structure will begin to ...",
-      "published_at": "2026-04-16T20:17:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KQ3YB0woUbY/hqdefault.jpg"
+      "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
+      "published_at": "2026-03-06T20:24:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sWasdbDVNvc/hqdefault_live.jpg"
     },
     {
-      "title": "NASA&#39;s Artemis II News Conference with Moon Astronauts (April 16, 2026)",
-      "video_id": "_43Ei9eQVww",
+      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
+      "video_id": "zPH5KtjJFaQ",
       "channel_title": "NASA",
-      "description": "Live from NASA's Johnson Space Center in Houston, join the astronauts of Artemis II as they discuss their mission around the ...",
-      "published_at": "2026-04-16T19:33:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_43Ei9eQVww/hqdefault.jpg"
-    },
-    {
-      "title": "NASA News Conference: Nancy Grace Roman Space Telescope is Complete (April 21, 2026)",
-      "video_id": "XX4f6dOoi08",
-      "channel_title": "NASA",
-      "description": "Our new flagship telescope is fully assembled. Come find out what it will discover. We're hosting a news conference at NASA's ...",
-      "published_at": "2026-04-15T22:05:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XX4f6dOoi08/hqdefault_live.jpg"
-    },
-    {
-      "title": "NASA&#39;s Northrop Grumman Commercial Resupply Services 24 Rendezvous &amp; Capture",
-      "video_id": "EnNGVjOy33U",
-      "channel_title": "NASA",
-      "description": "Northrop Grumman's Cygnus XL cargo spacecraft arrives at the International Space Station, delivering supplies, new research, ...",
-      "published_at": "2026-04-13T17:33:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EnNGVjOy33U/hqdefault.jpg"
+      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
+      "published_at": "2026-03-02T14:23:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zPH5KtjJFaQ/hqdefault_live.jpg"
     }
   ]
 }

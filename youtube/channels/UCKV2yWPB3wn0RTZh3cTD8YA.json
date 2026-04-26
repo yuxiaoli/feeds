@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-04-19T00:48:13.181267",
+  "fetched_at": "2026-04-26T00:49:45.476286",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "探秘全球最大私人金库：黄金东移潮、战争、衰退危机与“Plan B”",
+      "video_id": "7D_8zimKtB4",
+      "channel_title": "硅谷101",
+      "description": "金库里面长啥样？本期视频，我们将带大家一起进入位于新加坡的全球最大私人金库The Reserve，里面存放着15亿美元的黄金和 ...",
+      "published_at": "2026-04-23T23:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7D_8zimKtB4/hqdefault.jpg"
+    },
+    {
+      "title": "打破人类记录，机器人马拉松为什么不止是噱头？",
+      "video_id": "Ab3KsigWtxw",
+      "channel_title": "硅谷101",
+      "description": "摔倒、迷路、瘸腿，今年人形机器人在半程马拉松赛场上贡献的名场面属实不少。但最快耗时从去年的2小时40分大幅提升到50分26 ...",
+      "published_at": "2026-04-21T12:35:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ab3KsigWtxw/hqdefault.jpg"
+    },
+    {
+      "title": "智能体社交革命：AI Agent是怎么来到你我身边的？",
+      "video_id": "JGiguIv6m8s",
+      "channel_title": "硅谷101",
+      "description": "OpenClaw小龙虾的热度最近有点降温了，但它的意义在于：很多人第一次意识到AI是能够持续运行、甚至“替人社交”的存在。这也让 ...",
+      "published_at": "2026-04-20T00:04:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JGiguIv6m8s/hqdefault.jpg"
+    },
     {
       "title": "“杭州六小龙”首个IPO、空间智能与AI的下一步：对话群核科技创始人黄晓煌",
       "video_id": "8pncy425QqQ",
@@ -59,30 +83,6 @@
       "description": "从5亿到200亿美元，一年估值翻37倍，Reflection AI凭什么？Meta开源模型失去榜首后，硅谷急需一个新的开源模型标杆，这家由两 ...",
       "published_at": "2026-04-03T03:00:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0YmQC3szhI8/hqdefault.jpg"
-    },
-    {
-      "title": "聊聊崛起的千亿美元AI保险生意",
-      "video_id": "cd8azgYNtKg",
-      "channel_title": "硅谷101",
-      "description": "AI Agent开始替人类打电话、签合同、下订单，但如果它出错了，损失谁来赔？有人把这个问题，做成了一门可能价值5000亿美元的 ...",
-      "published_at": "2026-03-31T03:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cd8azgYNtKg/hqdefault.jpg"
-    },
-    {
-      "title": "Physical Intelligence与机器人开源革命：“免费大脑”背后的四派力量与博弈【机器人系列】",
-      "video_id": "kjqOsLdvSFg",
-      "channel_title": "硅谷101",
-      "description": "谷歌、英伟达、宇树、蚂蚁、小米…为什么科技巨头们争相把机器人“大脑”免费开放给全世界？开源究竟是做慈善，还是精心设计的 ...",
-      "published_at": "2026-03-27T01:19:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kjqOsLdvSFg/hqdefault.jpg"
-    },
-    {
-      "title": "深度解析2026 GTC：英伟达万亿订单背后的AI大爆发、Token经济学与失衡供应链",
-      "video_id": "B3wJuvYjLu0",
-      "channel_title": "硅谷101",
-      "description": "1万亿美元，这是接下来21个月，英伟达GPU订单的收入预期。今年的英伟达GTC大会，黄仁勋的叙事彻底变了。他不再像往年一样 ...",
-      "published_at": "2026-03-24T13:02:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B3wJuvYjLu0/hqdefault.jpg"
     }
   ]
 }

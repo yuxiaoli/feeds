@@ -1,48 +1,40 @@
 {
-  "fetched_at": "2026-04-19T00:48:01.238485",
+  "fetched_at": "2026-04-26T00:49:32.769699",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 5,
+  "count": 4,
   "videos": [
     {
-      "title": "Playing Featured Fortnite Islands w/ Special Guest: Brian Grayson | Indie Games Week 2026",
-      "video_id": "vfn9zoZhYhE",
+      "title": "Tailoring for MetaHumans: CLO and Marvelous Designer to UE Demo",
+      "video_id": "x_PUm5SIhbo",
       "channel_title": "Unreal Engine",
-      "description": "Join us for Indie Games Week as we explore featured UEFN islands from this year's showcase, with special guest Brian ...",
-      "published_at": "2026-04-17T20:02:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vfn9zoZhYhE/hqdefault.jpg"
+      "description": "Join Epic, CLO, and Marvelous Designer, as we build a MetaHuman from scratch, design custom garments in CLO, and animate ...",
+      "published_at": "2026-04-24T18:34:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x_PUm5SIhbo/hqdefault.jpg"
     },
     {
-      "title": "Dispatch | Game Profile | Unreal Engine",
-      "video_id": "cTIeO8BxPcU",
+      "title": "Evolving Localization Workflows in UE5 with Custom Tooling | Inside Unreal",
+      "video_id": "LsccqWA7yQg",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to learn how remote-first indie studio AdHoc turned a fallen superhero's office job into 'Dispatch'—a breakout ...",
-      "published_at": "2026-04-17T14:59:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cTIeO8BxPcU/hqdefault.jpg"
+      "description": "Localization is one of those systems that's easy to ignore early in a project and painful to integrate late. In this Inside Unreal ...",
+      "published_at": "2026-04-23T19:34:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LsccqWA7yQg/hqdefault.jpg"
     },
     {
-      "title": "Creating High-Fidelity Digital Humans on a Small Budget w/ MetaHuman | Indie Games Week 2026",
-      "video_id": "Oig-vdPd9ak",
+      "title": "Invincible VS™ | Game Profile | Unreal Engine",
+      "video_id": "4zqiAQ0sQJw",
       "channel_title": "Unreal Engine",
-      "description": "Join the MetaHuman product team and Sir Wade from Sir Wade Animation, who will guide you through practical, time-saving ...",
-      "published_at": "2026-04-16T20:59:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Oig-vdPd9ak/hqdefault.jpg"
+      "description": "Watch this video and discover how Quarter Up used Unreal Engine 5 to deliver visceral combos, special abilities, and ultimate ...",
+      "published_at": "2026-04-23T14:29:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4zqiAQ0sQJw/hqdefault.jpg"
     },
     {
-      "title": "Mixtape | Game Profile | Unreal Engine",
-      "video_id": "emwJsMmIBhY",
+      "title": "Custom Items and Inventory | UEFN Build Along",
+      "video_id": "OpFql6HWdi8",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video to discover how indie studio Beethoven & Dinosaur crafted 'Mixtape'—a nostalgic, music-infused story of ...",
-      "published_at": "2026-04-16T15:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/emwJsMmIBhY/hqdefault.jpg"
-    },
-    {
-      "title": "Beastro | Game Profile | Unreal Engine",
-      "video_id": "yv5Kct0001I",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video and explore how Timberline's 13-person indie team crafted 'Beastro', a crunchy cozy UE5-powered adventure ...",
-      "published_at": "2026-04-13T14:59:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yv5Kct0001I/hqdefault.jpg"
+      "description": "Join us as Josh Grant and Magnus Enebakk walk through how you can create custom items with unique properties, design ...",
+      "published_at": "2026-04-21T18:48:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OpFql6HWdi8/hqdefault_live.jpg"
     }
   ]
 }
