@@ -1,40 +1,24 @@
 {
-  "fetched_at": "2026-04-26T00:49:32.769699",
+  "fetched_at": "2026-05-03T00:54:54.277080",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 4,
+  "count": 2,
   "videos": [
     {
-      "title": "Tailoring for MetaHumans: CLO and Marvelous Designer to UE Demo",
-      "video_id": "x_PUm5SIhbo",
+      "title": "Creating Optional Content for Unreal Games | Inside Unreal",
+      "video_id": "xqlS6iNGhL8",
       "channel_title": "Unreal Engine",
-      "description": "Join Epic, CLO, and Marvelous Designer, as we build a MetaHuman from scratch, design custom garments in CLO, and animate ...",
-      "published_at": "2026-04-24T18:34:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x_PUm5SIhbo/hqdefault.jpg"
-    },
-    {
-      "title": "Evolving Localization Workflows in UE5 with Custom Tooling | Inside Unreal",
-      "video_id": "LsccqWA7yQg",
-      "channel_title": "Unreal Engine",
-      "description": "Localization is one of those systems that's easy to ignore early in a project and painful to integrate late. In this Inside Unreal ...",
-      "published_at": "2026-04-23T19:34:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LsccqWA7yQg/hqdefault.jpg"
-    },
-    {
-      "title": "Invincible VS™ | Game Profile | Unreal Engine",
-      "video_id": "4zqiAQ0sQJw",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video and discover how Quarter Up used Unreal Engine 5 to deliver visceral combos, special abilities, and ultimate ...",
-      "published_at": "2026-04-23T14:29:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4zqiAQ0sQJw/hqdefault.jpg"
+      "description": "Join us as Rafael Dias Sançon, Game Developer at Globant, walks through two ways Unreal lets you split and ship your game ...",
+      "published_at": "2026-04-30T19:45:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xqlS6iNGhL8/hqdefault.jpg"
     },
     {
       "title": "Custom Items and Inventory | UEFN Build Along",
       "video_id": "OpFql6HWdi8",
       "channel_title": "Unreal Engine",
       "description": "Join us as Josh Grant and Magnus Enebakk walk through how you can create custom items with unique properties, design ...",
-      "published_at": "2026-04-21T18:48:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OpFql6HWdi8/hqdefault_live.jpg"
+      "published_at": "2026-04-28T20:09:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OpFql6HWdi8/hqdefault.jpg"
     }
   ]
 }

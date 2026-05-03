@@ -1,80 +1,88 @@
 {
-  "fetched_at": "2026-04-26T00:49:29.058044",
+  "fetched_at": "2026-05-03T00:54:50.469991",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 9,
+  "count": 10,
   "videos": [
     {
-      "title": "What Maintainers need to know about Open Source Licensing, SBOMs and Security",
-      "video_id": "DxiaRvBuqo8",
+      "title": "Why France is moving its government to Linux",
+      "video_id": "QSsGcPDCqP0",
       "channel_title": "GitHub",
-      "description": "Join Jeff Luszcz from the GitHub Open Source Programs Office as he reviews what every maintainer should know about open ...",
-      "published_at": "2026-04-25T06:56:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DxiaRvBuqo8/hqdefault_live.jpg"
+      "description": "France is making a massive push for digital sovereignty. The government's digital agency, DINUM, is rolling out a plan to migrate ...",
+      "published_at": "2026-05-02T15:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QSsGcPDCqP0/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Kong&#39;s OpenMeter",
-      "video_id": "jWnVQdfZ4H4",
+      "title": "Open Source Friday with Remotion",
+      "video_id": "Ikjs3tmBuLk",
       "channel_title": "GitHub",
-      "description": "In this Open Source Friday episode, Teja from Kong explains Kong's role as an API gateway and AI connectivity platform, then ...",
-      "published_at": "2026-04-25T05:37:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jWnVQdfZ4H4/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursday!",
-      "video_id": "eu8Aa-R-ekw",
-      "channel_title": "GitHub",
-      "description": "Come hang and build with us!",
-      "published_at": "2026-04-24T07:46:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eu8Aa-R-ekw/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays",
-      "video_id": "gTbpX5hr3qQ",
-      "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2026-04-24T00:27:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gTbpX5hr3qQ/hqdefault.jpg"
-    },
-    {
-      "title": "Fixing merge conflicts and PRs with Copilot cloud agent | GitHub Checkout",
-      "video_id": "ws_3hiXLKjQ",
-      "channel_title": "GitHub",
-      "description": "Merge conflicts, failing tests, messy PRs. What if you could just ask Copilot to fix all of it? Tim Rogers is back to show what's new ...",
-      "published_at": "2026-04-23T16:01:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ws_3hiXLKjQ/hqdefault.jpg"
-    },
-    {
-      "title": "Build a Personal Assistant with GitHub Copilot SDK + Copilot CLI",
-      "video_id": "5TN6l7JGWvs",
-      "channel_title": "GitHub",
-      "description": "Want to build your own AI assistant? In this video, we show you how to use the GitHub Copilot SDK and Copilot CLI to create a ...",
-      "published_at": "2026-04-22T17:28:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5TN6l7JGWvs/hqdefault.jpg"
-    },
-    {
-      "title": "How to use MCPUI and Goose to manage GitHub issues",
-      "video_id": "Vd1y45pMRCk",
-      "channel_title": "GitHub",
-      "description": "In this demo from GitHub Universe 2025, we explore how to use the Goose AI agent with the GitHub MCP server. Watch as we ...",
-      "published_at": "2026-04-21T15:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vd1y45pMRCk/hqdefault.jpg"
+      "description": "Join us for a chat with Jonny Burger, maintainer of the Remotion project. Remotion is a framework for creating videos ...",
+      "published_at": "2026-05-02T06:08:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ikjs3tmBuLk/hqdefault.jpg"
     },
     {
       "title": "Open Source Friday - Welcome to Maintainer Month 2026",
       "video_id": "Ro_VMXWbLt8",
       "channel_title": "GitHub",
       "description": "It's Maintainer Month and we're kicking things off with Nicholas Tindle, maintainer of AutoGPT. Nicholas shares how his team ...",
-      "published_at": "2026-04-02T23:06:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ro_VMXWbLt8/hqdefault_live.jpg"
+      "published_at": "2026-05-02T04:52:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ro_VMXWbLt8/hqdefault.jpg"
+    },
+    {
+      "title": "The Download: Linux 486 retirement, DeepSeek v4, TanStack AI &amp; more",
+      "video_id": "PpL7vQupWqM",
+      "channel_title": "GitHub",
+      "description": "Welcome back to The Download. This week, we cover France's massive move to migrate its government ministries to Linux for ...",
+      "published_at": "2026-05-01T17:51:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PpL7vQupWqM/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursday!",
+      "video_id": "XywJ7YRuozA",
+      "channel_title": "GitHub",
+      "description": "Come hang with us!",
+      "published_at": "2026-05-01T07:29:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XywJ7YRuozA/hqdefault.jpg"
     },
     {
       "title": "Jueves de Quack con Gis Torres",
       "video_id": "VMPap6uuErU",
       "channel_title": "GitHub",
       "description": "Este Jueves de Quack no va del futuro… Va de lo que ya está pasando. Coding agents como: Copilot · Claude · Codex ...",
-      "published_at": "2026-03-20T00:51:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VMPap6uuErU/hqdefault_live.jpg"
+      "published_at": "2026-05-01T03:03:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VMPap6uuErU/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursday:  Agentic Loops and Context Engineering",
+      "video_id": "rJ1RcHlrUjE",
+      "channel_title": "GitHub",
+      "description": "In todays stream we'll explore the context engineering step of the agentic loop. We'll test out context sharing in copilot in vs code ...",
+      "published_at": "2026-04-30T23:39:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rJ1RcHlrUjE/hqdefault.jpg"
+    },
+    {
+      "title": "Age assurance laws and open source: what maintainers need to know",
+      "video_id": "1yXuKjwIYEM",
+      "channel_title": "GitHub",
+      "description": "Age assurance laws are reaching down to operating systems and app stores. Anne Dickison (FreeBSD Foundation), Katie ...",
+      "published_at": "2026-04-30T16:36:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1yXuKjwIYEM/hqdefault_live.jpg"
+    },
+    {
+      "title": "How to use hooks in the GitHub Copilot CLI | demo",
+      "video_id": "bglVc9HDfwg",
+      "channel_title": "GitHub",
+      "description": "Hooks are one of the most powerful tools in the GitHub Copilot CLI, but they can be confusing at first. In this video, we break down ...",
+      "published_at": "2026-04-30T15:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bglVc9HDfwg/hqdefault.jpg"
+    },
+    {
+      "title": "Getting started with Markdown on GitHub",
+      "video_id": "LxeclcePg-c",
+      "channel_title": "GitHub",
+      "description": "Welcome back to the GitHub for Beginners series! In this episode, we cover the essentials of getting started with Markdown.",
+      "published_at": "2026-04-27T15:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LxeclcePg-c/hqdefault.jpg"
     }
   ]
 }

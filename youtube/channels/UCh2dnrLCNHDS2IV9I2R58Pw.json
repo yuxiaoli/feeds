@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-26T00:50:13.201844",
+  "fetched_at": "2026-05-03T00:55:31.417480",
   "channel_id": "UCh2dnrLCNHDS2IV9I2R58Pw",
   "channel_title": "Hazegrayart",
   "count": 10,
   "videos": [
+    {
+      "title": "A Shortfall of Gravitas Double #spacex #falcon9landing  #rocket",
+      "video_id": "AfKEZSXkh4U",
+      "channel_title": "Hazegrayart",
+      "description": "SpaceX operates two ASDS: A Shortfall of Gravitas (ASOG), and Of Course I Still Love You (OCISLY). ASOG operates from Port ...",
+      "published_at": "2026-04-28T11:21:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AfKEZSXkh4U/hqdefault.jpg"
+    },
     {
       "title": "Artemis 2 #space #nasa #spacex",
       "video_id": "2IkmhtVE6lI",
@@ -75,14 +83,6 @@
       "description": "An autonomous spaceport drone ship (ASDS) is an ocean-going vessel derived from a deck barge, outfitted with station-keeping ...",
       "published_at": "2025-11-06T01:44:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wo1oLquMnBM/hqdefault.jpg"
-    },
-    {
-      "title": "DARPA Hammerhead  Fuel Tank",
-      "video_id": "0aN63tMjz94",
-      "channel_title": "Hazegrayart",
-      "description": "DARPA studied modifying the current external tank design to be able to carry low-density payloads in a 25 or 35 ft (7.6 or 10.6 m) ...",
-      "published_at": "2025-11-02T13:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0aN63tMjz94/hqdefault.jpg"
     }
   ]
 }

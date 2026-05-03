@@ -1,72 +1,56 @@
 {
-  "fetched_at": "2026-04-26T00:49:26.870623",
+  "fetched_at": "2026-05-03T00:54:48.124842",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 8,
+  "count": 6,
   "videos": [
     {
-      "title": "This is the MOST important question.",
-      "video_id": "RiVrXo4_0JU",
+      "title": "GPT 5.5 Just Dropped and It&#39;s a Different Kind of Upgrade",
+      "video_id": "lZMXlUcTnNM",
       "channel_title": "Tech With Tim",
-      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-04-25T15:37:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RiVrXo4_0JU/hqdefault.jpg"
+      "description": "GPT 5.5 just dropped and this is not just another model bump. It's a genuinely different kind of upgrade. In this Short I'm breaking ...",
+      "published_at": "2026-05-01T21:19:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lZMXlUcTnNM/hqdefault.jpg"
     },
     {
-      "title": "Local Models Got a HUGE Upgrade - Full Guide (Ollama/OpenClaw)",
-      "video_id": "73UEJxAWzb0",
+      "title": "I reviewed 20 AI engineering courses, here are my top 5",
+      "video_id": "HFmoNVx6vTA",
       "channel_title": "Tech With Tim",
-      "description": "Get a chance to win a FREE Mac Mini with ClawComp: https://clawcomp.net/ PromptCast: ...",
-      "published_at": "2026-04-24T14:14:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/73UEJxAWzb0/hqdefault.jpg"
+      "description": "Associate AI Engineer for Developers: (Datacamp) - https://datacamp.pxf.io/jRnbx5 Associate Ai Engineer for Data ...",
+      "published_at": "2026-05-01T14:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HFmoNVx6vTA/hqdefault.jpg"
     },
     {
-      "title": "Codex Built a Game and Then Played It With Me",
-      "video_id": "DzlZzQ_kVsY",
+      "title": "Most developers are using AI wrong… this is the better way.",
+      "video_id": "KOHgqBfN-gA",
       "channel_title": "Tech With Tim",
-      "description": "Codex just shipped an update that closes the loop on AI-assisted development. In this Short I'm walking through the two features ...",
-      "published_at": "2026-04-23T21:53:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DzlZzQ_kVsY/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-04-30T21:29:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KOHgqBfN-gA/hqdefault.jpg"
     },
     {
-      "title": "The ONE thing all interviewers look for.",
-      "video_id": "W-vDZI_vkFc",
+      "title": "The State of Software Engineering in 2026",
+      "video_id": "WOPIoZuD1og",
       "channel_title": "Tech With Tim",
-      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
-      "published_at": "2026-04-23T16:39:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W-vDZI_vkFc/hqdefault.jpg"
+      "description": "Stop paying hundreds of dollars for multiple AI subscriptions when you can access the same models and features from nexos.ai: ...",
+      "published_at": "2026-04-30T14:08:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WOPIoZuD1og/hqdefault.jpg"
     },
     {
-      "title": "Hermes Agent Full Tutorial for Beginners | Setup Guide",
-      "video_id": "1ve4Atbqmoo",
+      "title": "I gave Claude its own database, here&#39;s what happened",
+      "video_id": "vJBAzdOACD8",
       "channel_title": "Tech With Tim",
-      "description": "Deploy Hermes with Hostinger in one click: https://www.hostg.xyz/SHJJB In this video, I walk through the complete setup of ...",
-      "published_at": "2026-04-23T14:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1ve4Atbqmoo/hqdefault.jpg"
+      "description": "Use ghost.build for free to add persistent memory and disposable databases to claude: https://b.link/ghost-twt In this video, I show ...",
+      "published_at": "2026-04-28T13:01:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vJBAzdOACD8/hqdefault.jpg"
     },
     {
-      "title": "Build an AI Email Assistant with Code | Full AI Tutorial",
-      "video_id": "8FBGb0NS_zc",
+      "title": "How to Make an App With AI - 9 Steps",
+      "video_id": "xEr0hRbK_Xo",
       "channel_title": "Tech With Tim",
-      "description": "Get started with Postmark for free to build this project!",
-      "published_at": "2026-04-22T13:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8FBGb0NS_zc/hqdefault.jpg"
-    },
-    {
-      "title": "I Built an AI Agent in 20 Minutes - Here&#39;s How",
-      "video_id": "Xx18YRrK-Uk",
-      "channel_title": "Tech With Tim",
-      "description": "Explore MaxClaw/MiniMax Agent: ...",
-      "published_at": "2026-04-20T13:53:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xx18YRrK-Uk/hqdefault.jpg"
-    },
-    {
-      "title": "MiroFish Full Tutorial — Predict Any Scenario With AI",
-      "video_id": "QmdCkaTM1P4",
-      "channel_title": "Tech With Tim",
-      "description": "Deploy MiroFish with one click using Hostinger: https://www.hostg.xyz/SHJGj Get 10% off with code techwithtim MiroFish is one of ...",
-      "published_at": "2026-04-16T13:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QmdCkaTM1P4/hqdefault.jpg"
+      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
+      "published_at": "2026-04-27T14:01:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xEr0hRbK_Xo/hqdefault.jpg"
     }
   ]
 }

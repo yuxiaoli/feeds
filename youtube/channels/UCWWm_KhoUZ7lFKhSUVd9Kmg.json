@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-26T00:49:58.624813",
+  "fetched_at": "2026-05-03T00:55:17.914808",
   "channel_id": "UCWWm_KhoUZ7lFKhSUVd9Kmg",
   "channel_title": "Redline Underground Cars",
   "count": 10,
   "videos": [
+    {
+      "title": "Terrifying experience 😨",
+      "video_id": "BbUlwBGObkA",
+      "channel_title": "Redline Underground Cars",
+      "description": "",
+      "published_at": "2026-04-26T20:38:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BbUlwBGObkA/hqdefault.jpg"
+    },
     {
       "title": "$5 million dollars car and this happens ￼",
       "video_id": "RsmaenrXYMw",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-02-12T05:42:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FviE0HRM-98/hqdefault.jpg"
-    },
-    {
-      "title": "Me siento como Robin Hood",
-      "video_id": "pVre7W8s2AQ",
-      "channel_title": "Redline Underground Cars",
-      "description": "",
-      "published_at": "2026-02-12T03:17:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pVre7W8s2AQ/hqdefault.jpg"
     }
   ]
 }

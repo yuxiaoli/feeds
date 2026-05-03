@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-26T00:49:52.218638",
+  "fetched_at": "2026-05-03T00:55:12.231488",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "Two Bros VS. Gravity #calisthenics #gymmotivation #motivation",
+      "video_id": "0JR9VDBp340",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2026-04-26T14:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0JR9VDBp340/hqdefault.jpg"
+    },
     {
       "title": "Highest Jumping Muscleup? #calisthenics #motivation #gymmotivation",
       "video_id": "T8PXqCJMmK4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-11-02T16:00:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5cDxM8wwNM0/hqdefault.jpg"
-    },
-    {
-      "title": "impossible muscleup? #calisthenics #shorts",
-      "video_id": "xx1XvodBgps",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-10-26T15:01:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xx1XvodBgps/hqdefault.jpg"
     }
   ]
 }

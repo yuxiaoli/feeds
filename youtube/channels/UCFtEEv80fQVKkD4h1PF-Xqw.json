@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-26T00:49:38.852190",
+  "fetched_at": "2026-05-03T00:54:59.881606",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
@@ -13,30 +13,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/f0OUK3on1dQ/hqdefault.jpg"
     },
     {
-      "title": "Cricket Australia&#39;s AI Insights brings fans closer to the action",
-      "video_id": "LRDjGT3ukuA",
-      "channel_title": "Microsoft",
-      "description": "Built on Azure OpenAI and Azure Cosmos DB, Cricket Australia's AI Insights feature delivers personalized stats, match information ...",
-      "published_at": "2026-04-23T00:06:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LRDjGT3ukuA/hqdefault.jpg"
-    },
-    {
-      "title": "A classic Excel ad just got a 2026 upgrade",
-      "video_id": "iEVx2ylAbI4",
-      "channel_title": "Microsoft",
-      "description": "Remember Excel's iconic commercial from the 90s? We brought it back for 2026—now with Agent Mode. Watch the original here: ...",
-      "published_at": "2026-04-23T00:05:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iEVx2ylAbI4/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Excel Elevator Ad (1990s)",
-      "video_id": "HegoJaXOIqQ",
-      "channel_title": "Microsoft",
-      "description": "An excerpt from the iconic Microsoft Excel elevator ad from the 1990s.",
-      "published_at": "2026-04-23T00:05:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HegoJaXOIqQ/hqdefault.jpg"
-    },
-    {
       "title": "How AI is helping New Zealand build safer after disaster",
       "video_id": "jBJTIBjZ9iY",
       "channel_title": "Microsoft",
@@ -45,12 +21,44 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jBJTIBjZ9iY/hqdefault.jpg"
     },
     {
+      "title": "Answer ALS speeds progress toward treatments and cures through Microsoft Azure",
+      "video_id": "cKV4KSIhhbI",
+      "channel_title": "Microsoft",
+      "description": "Answer ALS and ALS Therapy Development Institute both work to improve the quality of life for people living with the ...",
+      "published_at": "2026-03-26T15:59:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cKV4KSIhhbI/hqdefault.jpg"
+    },
+    {
+      "title": "How technology is helping prevent wildfires from spreading",
+      "video_id": "2c4THSONxWk",
+      "channel_title": "Microsoft",
+      "description": "Wildfires devastate communities, ecosystems, and lives and they're getting harder to stop. But what if firefighters could spot a ...",
+      "published_at": "2026-03-12T16:02:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2c4THSONxWk/hqdefault.jpg"
+    },
+    {
+      "title": "Become the CEO of your role",
+      "video_id": "OhDcrcYaJ3c",
+      "channel_title": "Microsoft",
+      "description": "AI is reshaping the way that we do work and it poses both questions and uncertainty. Sinead Bovell explores why curiosity is ...",
+      "published_at": "2026-03-06T17:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OhDcrcYaJ3c/hqdefault.jpg"
+    },
+    {
       "title": "Cement made with seaweed? | Discovered at Microsoft Ep. 2",
       "video_id": "7a96_Wtl9xw",
       "channel_title": "Microsoft",
       "description": "Researchers at the University of Washington and Microsoft developed a low‑carbon cement by mixing dried, powdered seaweed ...",
       "published_at": "2026-03-05T17:00:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7a96_Wtl9xw/hqdefault.jpg"
+    },
+    {
+      "title": "Scaling insights into immunotherapy with GigaTIME",
+      "video_id": "fVZcthrT0Hs",
+      "channel_title": "Microsoft",
+      "description": "Researchers from Providence, the University of Washington, and Microsoft developed GigaTIME, a publicly available AI model ...",
+      "published_at": "2026-02-24T17:14:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fVZcthrT0Hs/hqdefault.jpg"
     },
     {
       "title": "Investing in an AI-Driven World | His Excellency Khaldoon Al Mubarak",
@@ -75,14 +83,6 @@
       "description": "According to UNESCO's Atlas of the World's Languages in Danger (https://unesdoc.unesco.org/ark:/48223/pf0000187026.)",
       "published_at": "2026-01-30T17:13:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vdwaVHcJKEQ/hqdefault.jpg"
-    },
-    {
-      "title": "Transforming driverless technology with Wayve and Microsoft",
-      "video_id": "a8Znbe-3Wv0",
-      "channel_title": "Microsoft",
-      "description": "The London-based startup Wayve is transforming driverless technology with an AI‑driven neural net that learns to navigate ...",
-      "published_at": "2026-01-16T18:48:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a8Znbe-3Wv0/hqdefault.jpg"
     }
   ]
 }

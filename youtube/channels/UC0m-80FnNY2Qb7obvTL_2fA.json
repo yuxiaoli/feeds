@@ -1,48 +1,24 @@
 {
-  "fetched_at": "2026-04-26T00:49:21.549295",
+  "fetched_at": "2026-05-03T00:54:42.901497",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Microsoft Security Copilot for SAP",
-      "video_id": "ZzOwV3G1qv4",
+      "title": "Resiliency by Design: Azure Compute",
+      "video_id": "HLQJHBRuRuM",
       "channel_title": "Microsoft Azure",
-      "description": "Secure your SAP environment with trusted, comprehensive, multilayered protection from Microsoft Security.",
-      "published_at": "2026-04-24T20:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZzOwV3G1qv4/hqdefault.jpg"
+      "description": "Azure compute is built for resiliency, automatically detects and replaces unhealthy VMs, scales to meet demand, and minimizes ...",
+      "published_at": "2026-05-01T17:25:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HLQJHBRuRuM/hqdefault.jpg"
     },
     {
-      "title": "Oracle AI Database@Azure Panel Discussion with MVPs",
-      "video_id": "bgx0TX45md8",
+      "title": "Microsoft Digital Sovereignty Summit | Sovereign Cloud, AI &amp; Security Highlights",
+      "video_id": "YLL7UuVCerM",
       "channel_title": "Microsoft Azure",
-      "description": "Panel discussion between MVPs and engineering on Microsoft and Oracle. Speakers: Sai Penumuru, Senior Director, Technology ...",
-      "published_at": "2026-04-24T19:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bgx0TX45md8/hqdefault.jpg"
-    },
-    {
-      "title": "Oracle AI Database@Azure MVP Spotlight Series - Episode 2",
-      "video_id": "R6mml-94m4o",
-      "channel_title": "Microsoft Azure",
-      "description": "This video is a part of our MVP Spotlight series. Speakers: Gauri Gorhe, Senior Product Manager, Azure Solutions and Ecosystem, ...",
-      "published_at": "2026-04-24T17:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R6mml-94m4o/hqdefault.jpg"
-    },
-    {
-      "title": "Oracle AI Database@Azure MVP Spotlight Series - Episode 1",
-      "video_id": "12svyfslb80",
-      "channel_title": "Microsoft Azure",
-      "description": "This video is a part of our MVP Spotlight series. Speakers: Gauri Gorhe, Senior Product Manager, Azure Solutions and Ecosystem, ...",
-      "published_at": "2026-04-24T15:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/12svyfslb80/hqdefault.jpg"
-    },
-    {
-      "title": "Voice of the MVP - Oracle AI Database@Azure",
-      "video_id": "-ZQx_b2lUCU",
-      "channel_title": "Microsoft Azure",
-      "description": "Oracle AI Database@Azure MVPs sat together for a casual conversation discussing what's working well, sharing customer ...",
-      "published_at": "2026-04-22T17:47:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-ZQx_b2lUCU/hqdefault.jpg"
+      "description": "Explore key insights from the Microsoft Digital Sovereignty Summit, where leaders share how cloud, AI, security, and compliance ...",
+      "published_at": "2026-04-27T15:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YLL7UuVCerM/hqdefault.jpg"
     },
     {
       "title": "Porsche Cup Brasil uses Azure AI to keep more drivers competing on race day",
@@ -53,18 +29,10 @@
       "thumbnail_url": "https://i.ytimg.com/vi/OnEGOkfvygA/hqdefault.jpg"
     },
     {
-      "title": "Blob Storage for AI",
-      "video_id": "kJiYUP9YgIA",
-      "channel_title": "Microsoft Azure",
-      "description": "Learn how to scale Azure Storage efficiently using Ultra Disk, Blob Storage, and Azure Container Storage. Explore more technical ...",
-      "published_at": "2026-04-15T16:58:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kJiYUP9YgIA/hqdefault.jpg"
-    },
-    {
-      "title": "Is context engineering the new RAG?",
+      "title": "S2E4 | Is context engineering the new RAG? — The Shift Podcast by Microsoft Azure",
       "video_id": "wGpJdn8frYE",
       "channel_title": "Microsoft Azure",
-      "description": "In this episode of The Shift, members of the Microsoft Foundry team, Allison, Pamela and Matt explore a question from you, our ...",
+      "description": "As retrieval augmented generation (RAG) matures, teams are asking a new question: Is context engineering becoming more ...",
       "published_at": "2026-03-31T19:14:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wGpJdn8frYE/hqdefault.jpg"
     },
@@ -83,6 +51,38 @@
       "description": "In this partner conversation, Microsoft partners discuss how they collaborate with Microsoft to build AI apps and agents for ...",
       "published_at": "2026-02-26T17:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Djo5nc9x9RQ/hqdefault.jpg"
+    },
+    {
+      "title": "Dragon Copilot Admin Center",
+      "video_id": "36WbakEVlmE",
+      "channel_title": "Microsoft Azure",
+      "description": "With the Dragon Copilot admin center, a centralized destination for managing licensing, billing and organizational lifecycle ...",
+      "published_at": "2025-12-10T17:40:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/36WbakEVlmE/hqdefault.jpg"
+    },
+    {
+      "title": "Recap from the ground: Microsoft Azure at Ignite 2025",
+      "video_id": "yVwDJBnw__Q",
+      "channel_title": "Microsoft Azure",
+      "description": "See how the technical community responded to the latest news across Microsoft cloud and AI platforms, including Microsoft Azure, ...",
+      "published_at": "2025-12-10T16:34:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yVwDJBnw__Q/hqdefault.jpg"
+    },
+    {
+      "title": "SK Telecom deepens customer connections with agentic workflows in Microsoft Foundry",
+      "video_id": "6RHsxWn_Dws",
+      "channel_title": "Microsoft Azure",
+      "description": "SK Telecom uses Microsoft Foundry to orchestrate multi-agent workflows to deliver personalized, scalable, and compliant digital ...",
+      "published_at": "2025-12-01T22:41:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6RHsxWn_Dws/hqdefault.jpg"
+    },
+    {
+      "title": "Future of Cloud: Language of Nature",
+      "video_id": "iWi8M5qsKAk",
+      "channel_title": "Microsoft Azure",
+      "description": "In this episode of Future of Cloud: Language of Nature, we trace how the logic of living systems is shaping the next era of ...",
+      "published_at": "2025-11-24T16:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iWi8M5qsKAk/hqdefault.jpg"
     }
   ]
 }

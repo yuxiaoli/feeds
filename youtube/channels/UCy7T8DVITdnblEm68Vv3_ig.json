@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-26T00:50:24.456497",
+  "fetched_at": "2026-05-03T00:55:42.319321",
   "channel_id": "UCy7T8DVITdnblEm68Vv3_ig",
   "channel_title": "UNlimited",
   "count": 10,
   "videos": [
+    {
+      "title": "Edinburgh: Scotland Most Charming City",
+      "video_id": "USgaxrUZkHY",
+      "channel_title": "UNlimited",
+      "description": "Edinburgh is frequently hailed as Scotland's most charming and beautiful city, a reputation cemented by its dramatic skyline, ...",
+      "published_at": "2026-04-30T03:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/USgaxrUZkHY/hqdefault.jpg"
+    },
+    {
+      "title": "Val d’Orcia: House of the Gladiator",
+      "video_id": "_bzdvtvkXWw",
+      "channel_title": "UNlimited",
+      "description": "Val d'Orcia is a UNESCO World Heritage site in southern Tuscany known for its iconic, picturesque landscapes of rolling hills, ...",
+      "published_at": "2026-04-26T03:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_bzdvtvkXWw/hqdefault.jpg"
+    },
     {
       "title": "🇯🇵 Most Beautiful Places in Japan",
       "video_id": "Rq2hNyNuAIY",
@@ -67,22 +83,6 @@
       "description": "The Sagrada Família in Barcelona is officially the world's tallest church, reaching a height of 172.5 meters (566 feet) following the ...",
       "published_at": "2026-04-04T04:00:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cKtRHP85s8A/hqdefault.jpg"
-    },
-    {
-      "title": "The World’s Only City on Two Continents",
-      "video_id": "FidQo9f1ZkQ",
-      "channel_title": "UNlimited",
-      "description": "The only city in the world that spans two continents is Istanbul. The most dangerous market is the Mae Klong Railway market in ...",
-      "published_at": "2026-04-01T02:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FidQo9f1ZkQ/hqdefault.jpg"
-    },
-    {
-      "title": "Mont Saint-Michel: France’s Iconic Island",
-      "video_id": "LOnT0SCIlXY",
-      "channel_title": "UNlimited",
-      "description": "Mont Saint-Michel is a breathtaking UNESCO World Heritage site and medieval abbey located on a tidal island in Normandy, ...",
-      "published_at": "2026-03-30T04:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LOnT0SCIlXY/hqdefault.jpg"
     }
   ]
 }

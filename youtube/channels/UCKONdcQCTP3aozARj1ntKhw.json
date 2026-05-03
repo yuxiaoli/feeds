@@ -1,16 +1,64 @@
 {
-  "fetched_at": "2026-04-26T00:49:44.034083",
+  "fetched_at": "2026-05-03T00:55:04.852065",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
     {
-      "title": "Warp office hours",
+      "title": "Open source office hours",
+      "video_id": "DSySVmnRcis",
+      "channel_title": "Warp",
+      "description": "Warp is now open source. Curious how to contribute? Come join us for a live \"office hours\" session! ​​We will build features live ...",
+      "published_at": "2026-05-01T21:46:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DSySVmnRcis/hqdefault_live.jpg"
+    },
+    {
+      "title": "Warp open-source office hours",
+      "video_id": "VNPhuWU1D8k",
+      "channel_title": "Warp",
+      "description": "Warp is now open source. Curious how to contribute? Come join us for a live \"office hours\" session! ​We will build features live on ...",
+      "published_at": "2026-05-01T21:42:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VNPhuWU1D8k/hqdefault_live.jpg"
+    },
+    {
+      "title": "How to contribute to Warp",
+      "video_id": "p4ZDp-P1HCo",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2026-05-01T16:32:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p4ZDp-P1HCo/hqdefault.jpg"
+    },
+    {
+      "title": "Warp open source office hours",
       "video_id": "T7bQ86m5AEk",
       "channel_title": "Warp",
-      "description": "Come join us as we answer your questions and build Warp in public together. We'll be building features out in the open with ...",
-      "published_at": "2026-04-25T16:16:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T7bQ86m5AEk/hqdefault_live.jpg"
+      "description": "Warp is now open source. Curious how contributions work? Have burning feature requests that you want to see us build?",
+      "published_at": "2026-04-29T18:12:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/T7bQ86m5AEk/hqdefault.jpg"
+    },
+    {
+      "title": "How Warp manages open-source with agents",
+      "video_id": "5Mk26H0V7_c",
+      "channel_title": "Warp",
+      "description": "To find the agent skills backing each part of the contribution flow: https://github.com/warpdotdev/warp/tree/master/.agents/skills To ...",
+      "published_at": "2026-04-29T16:44:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5Mk26H0V7_c/hqdefault.jpg"
+    },
+    {
+      "title": "Warp is now open-source",
+      "video_id": "eRsoRbJs8O0",
+      "channel_title": "Warp",
+      "description": "Learn how to contribute: https://github.com/warpdotdev/warp See how our agent management system works: ...",
+      "published_at": "2026-04-28T15:44:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eRsoRbJs8O0/hqdefault.jpg"
+    },
+    {
+      "title": "Multithread yourself",
+      "video_id": "y7q8-RozHAc",
+      "channel_title": "Warp",
+      "description": "One dev. Five agents. Zero blockers. Zach Lloyd on how multithreading changes what a single engineer can get done in a day ...",
+      "published_at": "2026-04-27T18:15:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y7q8-RozHAc/hqdefault.jpg"
     },
     {
       "title": "The tasks AI is the best at",
@@ -35,54 +83,6 @@
       "description": "Software used to take a team of 10 and six months. Now it takes one person and an afternoon. Zach Lloyd on how AI coding ...",
       "published_at": "2026-04-23T15:35:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SWTX_hisvgc/hqdefault.jpg"
-    },
-    {
-      "title": "The best engineers are leveraging the most out of agents",
-      "video_id": "nk1qAwDs9SY",
-      "channel_title": "Warp",
-      "description": "Engineers don't think in single threads anymore. Zach on how the best devs are starting to run multiple agents in parallel ...",
-      "published_at": "2026-04-22T18:50:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nk1qAwDs9SY/hqdefault.jpg"
-    },
-    {
-      "title": "How I use coding agents in Warp (with @YourAverageTechBro )",
-      "video_id": "8y0B3fuS_IU",
-      "channel_title": "Warp",
-      "description": "Warp made it easier to use any coding agent (Claude Code, Codex, etc) with vertical tabs, desktop notifications, remote control, ...",
-      "published_at": "2026-04-22T07:31:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8y0B3fuS_IU/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Warp - fundamentals, CLI agents, cloud agents, and more!",
-      "video_id": "HEWJ5gxsdDk",
-      "channel_title": "Warp",
-      "description": "Follow along with our starter repository, or just watch and ask questions as we go: ...",
-      "published_at": "2026-04-21T23:08:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HEWJ5gxsdDk/hqdefault_live.jpg"
-    },
-    {
-      "title": "Warp for Data &amp; Analytics Teams: building self-serve data workflows",
-      "video_id": "WyMTjXSplRU",
-      "channel_title": "Warp",
-      "description": "Warp helps data and analytics teams do more than answer questions. It can also support the workflows behind the data, from ...",
-      "published_at": "2026-04-17T04:44:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WyMTjXSplRU/hqdefault.jpg"
-    },
-    {
-      "title": "Using Warp with coding agents (Claude Code, Codex, etc)",
-      "video_id": "Fw4wBzmSX_8",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2026-04-14T18:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Fw4wBzmSX_8/hqdefault.jpg"
-    },
-    {
-      "title": "Universal agent support: level up Claude Code, Codex, OpenCode, Gemini CLI in Warp",
-      "video_id": "UuT4u4m84K0",
-      "channel_title": "Warp",
-      "description": "Warp is an Agentic Development Environment, born out of the terminal. Today, we're introducing a set of new features that make ...",
-      "published_at": "2026-04-14T13:45:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UuT4u4m84K0/hqdefault.jpg"
     }
   ]
 }

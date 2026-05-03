@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-26T00:49:20.016186",
+  "fetched_at": "2026-05-03T00:54:41.357376",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "ROTW: Latin Dancing RBM with @guggiebedancing",
+      "video_id": "lNNkVUh7LEs",
+      "channel_title": "Meta",
+      "description": "guggiebedancing is the owner of Latin Rhythm Dance Studio, as well as a dance instructor alongside his partner Ana. Both are ...",
+      "published_at": "2026-04-29T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lNNkVUh7LEs/hqdefault.jpg"
+    },
     {
       "title": "Impact Story: dessert destination @itsflippinsweet",
       "video_id": "7M9NWZMCIPk",
@@ -75,14 +83,6 @@
       "description": "there are so many ways @meta.ai has improved our apps, it's almost too much to fit in one reel (sorry, Ray)",
       "published_at": "2026-03-31T12:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AWtGqOkDIHA/hqdefault.jpg"
-    },
-    {
-      "title": "Vibe of The Week: @sugarinspired",
-      "video_id": "z199LqbpfTQ",
-      "channel_title": "Meta",
-      "description": "check out Erin's wild cake creations on @sugarinspired and see how she brings them to life with @AIatMeta.",
-      "published_at": "2026-03-27T13:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z199LqbpfTQ/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-26T00:49:31.364425",
+  "fetched_at": "2026-05-03T00:54:52.767866",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "77 Chevy K10 Straight out of Texas. @_hannahliann #chevy #k10 #filmmaking",
+      "video_id": "ATzk2waEjD8",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-05-01T16:30:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ATzk2waEjD8/hqdefault.jpg"
+    },
     {
       "title": "Lamborghini Huracan screaming loud at night #lamborghinni #huracan",
       "video_id": "ww07Rwb_iRo",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-02-27T22:34:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/VjQZEcrNCTQ/hqdefault.jpg"
-    },
-    {
-      "title": "1969 Mustang Mach 1 Burning Rubber @adriennejanic",
-      "video_id": "qaXGE4DTIN0",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2026-01-16T23:05:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qaXGE4DTIN0/hqdefault.jpg"
     }
   ]
 }

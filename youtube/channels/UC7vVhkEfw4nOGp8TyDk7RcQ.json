@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-26T00:49:29.825910",
+  "fetched_at": "2026-05-03T00:54:51.152896",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "How Does Stretch See? | Ask A Roboticist | Boston Dynamics",
+      "video_id": "bgI1fp0TZIQ",
+      "channel_title": "Boston Dynamics",
+      "description": "Ethan Lauer, a software engineer, answers your questions about robot perception, world modeling, and what spooks our Stretch ...",
+      "published_at": "2026-04-29T14:48:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bgI1fp0TZIQ/hqdefault.jpg"
+    },
     {
       "title": "New friends. 💛",
       "video_id": "mITkQVSLw8U",
@@ -75,14 +83,6 @@
       "description": "Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...",
       "published_at": "2026-02-07T14:00:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/UNorxwlZlFk/hqdefault.jpg"
-    },
-    {
-      "title": "Spot Cam 2  | Boston Dynamics",
-      "video_id": "de06_CLqrM0",
-      "channel_title": "Boston Dynamics",
-      "description": "Learn about this latest in Spot, Orbit, and our new 5.1 release at: ...",
-      "published_at": "2026-01-20T14:56:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/de06_CLqrM0/hqdefault.jpg"
     }
   ]
 }

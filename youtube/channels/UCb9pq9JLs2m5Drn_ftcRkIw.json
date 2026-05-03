@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-26T00:50:04.709348",
+  "fetched_at": "2026-05-03T00:55:23.894174",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "رجعنا بأكثر من 100 كيلو سمك",
+      "video_id": "JTCJyuDX71s",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-05-01T11:37:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JTCJyuDX71s/hqdefault.jpg"
+    },
+    {
+      "title": "تمرين باي بيد واحدة بوزن الجسم",
+      "video_id": "UMxZVweDW3w",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-04-26T14:58:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UMxZVweDW3w/hqdefault.jpg"
+    },
     {
       "title": "هيمو كالسثنكس Vs أسماك القرش",
       "video_id": "Rq5xXM1xPOc",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-03-28T15:00:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tdYbhcS1sFo/hqdefault.jpg"
-    },
-    {
-      "title": "تعلم المشي على اليدين .. How to handstand walk",
-      "video_id": "jDM4O0uTeK4",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-03-25T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jDM4O0uTeK4/hqdefault.jpg"
-    },
-    {
-      "title": "تمرين Knee raise to Tuck Front Lever raise",
-      "video_id": "5TIHbzwnjNg",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-03-24T20:44:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5TIHbzwnjNg/hqdefault.jpg"
     }
   ]
 }

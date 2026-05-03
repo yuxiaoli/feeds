@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-26T00:50:25.234461",
+  "fetched_at": "2026-05-03T00:55:43.012176",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "May&#39;s 1st Full Moon is coming on May 1st! 🌸🌕",
+      "video_id": "wHRt37M2Ukg",
+      "channel_title": "Star Walk",
+      "description": "",
+      "published_at": "2026-04-29T06:58:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wHRt37M2Ukg/hqdefault.jpg"
+    },
+    {
+      "title": "Look at our familiar sunrise ☀️... now imagine if other stars took its place. 🌌",
+      "video_id": "xu0Y0LEiwUY",
+      "channel_title": "Star Walk",
+      "description": "This video shows the real scale of our Universe. From tiny white dwarf Sirius (just 1.7× our Sun) to the red supergiant Antares ...",
+      "published_at": "2026-04-28T11:50:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xu0Y0LEiwUY/hqdefault.jpg"
+    },
     {
       "title": "IRL, projecting something onto the Moon is... not exactly easy 🌚",
       "video_id": "pybCl5jEsZY",
@@ -67,22 +83,6 @@
       "description": "For some reason, the best astronomy events always seem to happen when you're exhausted… or when the sky decides to be ...",
       "published_at": "2026-03-23T10:29:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Xy7A8lX7xSo/hqdefault.jpg"
-    },
-    {
-      "title": "Tonight is the equinox! 🌸🍂",
-      "video_id": "uJ-lSATZ8AY",
-      "channel_title": "Star Walk",
-      "description": "We're busting some of the biggest myths about it — how many did you already know? Share your score in the comments, and ...",
-      "published_at": "2026-03-20T09:17:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uJ-lSATZ8AY/hqdefault.jpg"
-    },
-    {
-      "title": "🌕 We&#39;re going back to the Moon.",
-      "video_id": "sCix3ddNSE8",
-      "channel_title": "Star Walk",
-      "description": "It's not just a mission. It's a new chapter for all of us. New rockets. New astronauts. New science. And this time — we're not just ...",
-      "published_at": "2026-03-19T08:38:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sCix3ddNSE8/hqdefault.jpg"
     }
   ]
 }

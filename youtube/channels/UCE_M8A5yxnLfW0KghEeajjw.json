@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-26T00:49:34.403598",
+  "fetched_at": "2026-05-03T00:54:55.927590",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Get detailed dimensions with the Measure app. Tip from David at the Apple Store. #Shorts",
+      "video_id": "LaoYkdlFhTY",
+      "channel_title": "Apple",
+      "description": "iPhone #iPhoneTips #MeasureApp #AppleStore.",
+      "published_at": "2026-04-30T16:02:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LaoYkdlFhTY/hqdefault.jpg"
+    },
+    {
+      "title": "Turn screenshots into Calendar events with Visual Intelligence. Tip from Sibele at the Apple Store.",
+      "video_id": "NOtysM7WKq0",
+      "channel_title": "Apple",
+      "description": "Shorts #iPhone #iPhoneTips #VisualIntelligence #AppleStore.",
+      "published_at": "2026-04-28T16:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NOtysM7WKq0/hqdefault.jpg"
+    },
     {
       "title": "A peek at some handmade magic 🪄 #MacBookNeo #Shorts",
       "video_id": "y4DnsCzJTRQ",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-04-02T16:05:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_2IV2fu1aAA/hqdefault.jpg"
-    },
-    {
-      "title": "ate GB #shorts",
-      "video_id": "rzIUtfhmuV4",
-      "channel_title": "Apple",
-      "description": "",
-      "published_at": "2026-04-02T16:01:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rzIUtfhmuV4/hqdefault.jpg"
-    },
-    {
-      "title": "bahhhhhhhhh #shorts",
-      "video_id": "Z_XkurtmzmY",
-      "channel_title": "Apple",
-      "description": "",
-      "published_at": "2026-04-02T16:02:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z_XkurtmzmY/hqdefault.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-26T00:49:36.670285",
+  "fetched_at": "2026-05-03T00:54:57.940285",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
@@ -11,14 +11,6 @@
       "description": "Fusion reactors have finally hit their holy grail: exceeding more than 100% of the energy input required to initiate the reaction.",
       "published_at": "2026-04-25T08:00:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/YsOF-D5Lyvw/hqdefault.jpg"
-    },
-    {
-      "title": "LEGO Set Flies to The Edge of Space…Breaks a Guinness World Record!",
-      "video_id": "5L2CpH5YKEg",
-      "channel_title": "Interesting Engineering",
-      "description": "A LEGO Icons 'Project Hail Mary' set — including Ryland Grace and Rocky minifigures — soared nearly 115000 feet above Earth, ...",
-      "published_at": "2026-04-23T09:03:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5L2CpH5YKEg/hqdefault.jpg"
     },
     {
       "title": "NASA’s Artemis II mission animation",
@@ -83,6 +75,14 @@
       "description": "Features like GENLOCK and Timecode in, previously restricted to professional camera equipment, are now at your fingertips, ...",
       "published_at": "2025-09-10T13:03:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/r-EAPOKdLFQ/hqdefault.jpg"
+    },
+    {
+      "title": "Shape Changing Antenna Secures Signal",
+      "video_id": "5GIFQ5CvF2Q",
+      "channel_title": "Interesting Engineering",
+      "description": "MIT researchers have invented a flexible antenna, capable of maintaining a strong signal connection by changing shape!",
+      "published_at": "2025-08-18T23:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5GIFQ5CvF2Q/hqdefault.jpg"
     }
   ]
 }

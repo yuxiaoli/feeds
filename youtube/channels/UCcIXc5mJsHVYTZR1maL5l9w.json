@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-26T00:50:07.112197",
+  "fetched_at": "2026-05-03T00:55:25.396660",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Become an AI power user 🌟 new course from Andrew Ng",
+      "video_id": "FNfIMnpz-ZY",
+      "channel_title": "DeepLearningAI",
+      "description": "Enroll now: https://bit.ly/4cwVyEy Become an AI power user at work and in everyday tasks! In AI Prompting for Everyone, taught by ...",
+      "published_at": "2026-04-28T15:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FNfIMnpz-ZY/hqdefault.jpg"
+    },
     {
       "title": "📉 Turn your multimodal data into something you can actually query",
       "video_id": "XteKUbuvNrI",
@@ -43,14 +51,6 @@
       "description": "Learn more: https://bit.ly/4du2u69 Introducing Efficient Inference with SGLang: Text and Image Generation, built in partnership ...",
       "published_at": "2026-04-08T14:22:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/YW6oWf4xoGk/hqdefault.jpg"
-    },
-    {
-      "title": "Your AI Agent Has a Memory Problem",
-      "video_id": "7zFqo1_Pr_4",
-      "channel_title": "DeepLearningAI",
-      "description": "Most AI agents start from zero every single session. DeepLearning.AI's new course with Oracle, \"Agent Memory: Building ...",
-      "published_at": "2026-03-25T22:19:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7zFqo1_Pr_4/hqdefault.jpg"
     },
     {
       "title": "TensorFlow Developer Professional Certificate",

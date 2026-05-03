@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-26T00:49:54.735972",
+  "fetched_at": "2026-05-03T00:55:14.272366",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Watching tutorials feels productive but practicing coding is what actually moves you forward! 🫶",
+      "video_id": "rCTVtrT6wRc",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-04-30T10:51:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rCTVtrT6wRc/hqdefault.jpg"
+    },
     {
       "title": "Something more concrete that will help you make real progress in your coding journey!",
       "video_id": "VCOvX7dfX1E",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-03-27T14:33:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3m-Ece2hO8g/hqdefault.jpg"
-    },
-    {
-      "title": "I use all that muscle to type my code! 💪",
-      "video_id": "ju6lCMBIryA",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-03-25T14:02:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ju6lCMBIryA/hqdefault.jpg"
     }
   ]
 }

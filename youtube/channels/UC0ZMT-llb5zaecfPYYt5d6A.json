@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-26T00:49:20.820162",
+  "fetched_at": "2026-05-03T00:54:42.063936",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "The Castellows - &quot;Every Girl&quot; with Turnpike Troubadours (Live Performance)",
+      "video_id": "aeDC9zSL2vQ",
+      "channel_title": "The Castellows",
+      "description": "The Castellows - \"Every Girl\" with Turnpike Troubadours (Live Performance) Listen to the EP Playlist: ...",
+      "published_at": "2026-05-01T16:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aeDC9zSL2vQ/hqdefault.jpg"
+    },
     {
       "title": "Forever and always #sisters #countrymusic #thecastellows #concert #rodeo",
       "video_id": "0UtWEEJsjCs",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-03-23T18:00:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HUvSbJVcsNM/hqdefault.jpg"
-    },
-    {
-      "title": "A new unreleased one called “I am a Farmer” #thecastellows #countrymusic",
-      "video_id": "ESmfcvElUsw",
-      "channel_title": "The Castellows",
-      "description": "",
-      "published_at": "2026-03-11T21:55:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ESmfcvElUsw/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-26T00:50:02.427676",
+  "fetched_at": "2026-05-03T00:55:21.577441",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "BotQ Ramping F.03 Production",
+      "video_id": "YZH1csMhnDo",
+      "channel_title": "Figure",
+      "description": "Today we're giving an update on ramping F.03 production at BotQ In the last 120 days, Figure scaled manufacturing 24x - from 1 ...",
+      "published_at": "2026-04-29T15:35:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YZH1csMhnDo/hqdefault.jpg"
+    },
     {
       "title": "Helix 02 Living Room Tidy",
       "video_id": "CAdTjePDBfc",
@@ -75,14 +83,6 @@
       "description": "Helix can now handle a wider variety of packaging approaching human-level dexterity and speed, bringing us closer to fully ...",
       "published_at": "2025-06-07T16:42:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lkc2y0yb89U/hqdefault.jpg"
-    },
-    {
-      "title": "BMW Deployment Update",
-      "video_id": "WoXCHr1IaTM",
-      "channel_title": "Figure",
-      "description": "",
-      "published_at": "2025-03-31T14:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WoXCHr1IaTM/hqdefault.jpg"
     }
   ]
 }

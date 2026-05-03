@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-04-26T00:50:03.958314",
+  "fetched_at": "2026-05-03T00:55:23.039166",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "Codex (APP) 保姆级全攻略，海量实战教程， 一期精通Codex",
+      "video_id": "4gciWspBVHw",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 最近Codex APP的能力越来越全面，变成了Codex四大形态里最强一个。",
+      "published_at": "2026-04-28T11:48:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4gciWspBVHw/hqdefault.jpg"
+    },
     {
       "title": "新电脑，从零开始，跑通Claude Code等一切Agent 框架，覆盖三大操作系统",
       "video_id": "7JltMHmSvuY",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 引言01:47 本地部署04:08 基础玩法06:57 国产友好09:15 Skills ...",
       "published_at": "2026-01-31T16:06:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/657wlbtrzG8/hqdefault.jpg"
-    },
-    {
-      "title": "OpenCode+全新工具链，开发识别鸟叫声手机APP   #ai #科技 #教程 #编程 #人工智能",
-      "video_id": "bQxVeJmJTO4",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 我用一套全新工具链，VibeCoding了一个好玩的手机APP----《闻啼鸟》。",
-      "published_at": "2026-01-28T01:46:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bQxVeJmJTO4/hqdefault.jpg"
     }
   ]
 }

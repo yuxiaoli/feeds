@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-04-26T00:50:21.483272",
+  "fetched_at": "2026-05-03T00:55:39.533880",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "Which Juice Spikes You Most",
+      "video_id": "hilCkPE5SfQ",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-04-30T16:21:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hilCkPE5SfQ/hqdefault.jpg"
+    },
+    {
+      "title": "This boosts your GLP-1 naturally",
+      "video_id": "w1mzkCvB2Wk",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-04-27T16:54:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w1mzkCvB2Wk/hqdefault.jpg"
+    },
     {
       "title": "Fix your toast",
       "video_id": "csRjGEb0hoI",
@@ -67,22 +83,6 @@
       "description": "From my conversation with @SHEMDPodcast.",
       "published_at": "2026-04-06T17:37:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/duISh_kwDEc/hqdefault.jpg"
-    },
-    {
-      "title": "This sugar trap fools everyone",
-      "video_id": "DZqTfuA3rIY",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-04-02T16:09:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DZqTfuA3rIY/hqdefault.jpg"
-    },
-    {
-      "title": "This can impact your baby for life",
-      "video_id": "7Op_OE7B4ko",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-03-31T15:15:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7Op_OE7B4ko/hqdefault.jpg"
     }
   ]
 }

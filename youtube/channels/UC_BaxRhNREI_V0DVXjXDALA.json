@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-04-26T00:50:03.217194",
+  "fetched_at": "2026-05-03T00:55:22.227463",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 3,
+  "count": 4,
   "videos": [
     {
-      "title": "Up to 850 KW* (1,156 PS), without the trade-offs.",
-      "video_id": "zHPtRDJCBt4",
+      "title": "The world is our racetrack #shorts",
+      "video_id": "Vjiemtr65nI",
       "channel_title": "Porsche",
-      "description": "With up to 669 km of range for the new Porsche Cayenne S Coupé Electric and 637 km range for the Porsche Cayenne Turbo ...",
-      "published_at": "2026-04-24T15:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zHPtRDJCBt4/hqdefault.jpg"
+      "description": "What do you do for fun?” This… @mondi.",
+      "published_at": "2026-04-30T16:30:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vjiemtr65nI/hqdefault.jpg"
+    },
+    {
+      "title": "Porsche x League of Legends: Wild Rift | Catch Her If You Can",
+      "video_id": "E2XaDfDo41A",
+      "channel_title": "Porsche",
+      "description": "An adventure inspired by the League of Legends: Wild Rift world of Neon Daredevil. Witness an epic chase between a bespoke ...",
+      "published_at": "2026-04-30T09:00:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E2XaDfDo41A/hqdefault.jpg"
+    },
+    {
+      "title": "When the spec delivers #shorts",
+      "video_id": "wLYVmB3p5VM",
+      "channel_title": "Porsche",
+      "description": "No details spared over here. ‍   @baggycargos.",
+      "published_at": "2026-04-28T16:01:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wLYVmB3p5VM/hqdefault.jpg"
     },
     {
       "title": "The new Cayenne Coupé Electric | Inspired by an icon",
@@ -19,14 +35,6 @@
       "description": "The new Cayenne Coupé Electric models combine powerful proportions with exceptional electric performance. Inspired by the ...",
       "published_at": "2026-04-24T04:00:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6weg1dpciP8/hqdefault.jpg"
-    },
-    {
-      "title": "Porsche x Pixar | Toy Story 5",
-      "video_id": "4QyLqAsBqHQ",
-      "channel_title": "Porsche",
-      "description": "The most special toys only get better with age. Porsche Pixar. See the reveal this June. #ToyStory5 is only in theaters 19 June.",
-      "published_at": "2026-04-22T15:02:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4QyLqAsBqHQ/hqdefault.jpg"
     }
   ]
 }
