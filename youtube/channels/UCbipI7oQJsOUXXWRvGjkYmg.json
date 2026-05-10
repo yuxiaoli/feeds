@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-05-03T00:55:24.591947",
+  "fetched_at": "2026-05-10T00:57:13.356363",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "When someone asks if I Can Dance",
+      "video_id": "kysjXJPPn7U",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-05-09T14:33:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kysjXJPPn7U/hqdefault.jpg"
+    },
+    {
+      "title": "Stop Doing 100 Push-Ups A Day. Do This Instead.",
+      "video_id": "zYJByaUTf8Q",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-05-06T17:03:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zYJByaUTf8Q/hqdefault.jpg"
+    },
     {
       "title": "She’s Stronger Than Most Men… So I Challenged Her",
       "video_id": "zbAM6hnJaJM",
@@ -67,22 +83,6 @@
       "description": "Struggling with planche, muscle-ups, or slow progress? Fix it now with my FREE 4-video course: https://www.andrystrong.world A ...",
       "published_at": "2026-03-22T18:25:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_k9QbrXeHWE/hqdefault.jpg"
-    },
-    {
-      "title": "No one expected this",
-      "video_id": "1hpERvh1-Os",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2026-03-21T20:53:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1hpERvh1-Os/hqdefault.jpg"
-    },
-    {
-      "title": "They say “Calisthenics is boring”",
-      "video_id": "ZYATR0ObWOY",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2026-03-19T23:16:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZYATR0ObWOY/hqdefault.jpg"
     }
   ]
 }

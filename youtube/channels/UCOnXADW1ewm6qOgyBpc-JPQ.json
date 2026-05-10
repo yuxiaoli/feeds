@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-03T00:55:12.231488",
+  "fetched_at": "2026-05-10T00:57:00.379352",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "Full Range of Motion Pullups #calisthenics #motivation #gymmotivation",
+      "video_id": "4wHHWseOkr4",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2026-05-03T14:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4wHHWseOkr4/hqdefault.jpg"
+    },
     {
       "title": "Two Bros VS. Gravity #calisthenics #gymmotivation #motivation",
       "video_id": "0JR9VDBp340",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-11-30T16:00:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9bQiKpRF3jY/hqdefault.jpg"
-    },
-    {
-      "title": "just 4 clean pullups #shorts #calisthenics",
-      "video_id": "5cDxM8wwNM0",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-11-02T16:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5cDxM8wwNM0/hqdefault.jpg"
     }
   ]
 }

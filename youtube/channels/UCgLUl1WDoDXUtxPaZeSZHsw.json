@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-03T00:55:29.855574",
+  "fetched_at": "2026-05-10T00:57:17.880394",
   "channel_id": "UCgLUl1WDoDXUtxPaZeSZHsw",
   "channel_title": "李自然说",
   "count": 10,
   "videos": [
+    {
+      "title": "过去是公司CEO，今天沦为数字游民",
+      "video_id": "oveaQgKVyJ4",
+      "channel_title": "李自然说",
+      "description": "5年前，我录了一条视频，讲一个底层青年如何一步步爬到上海开公司、带团队的故事，并约好更新后续。今天故事的下一章来了。",
+      "published_at": "2026-05-06T16:49:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oveaQgKVyJ4/hqdefault.jpg"
+    },
     {
       "title": "Vibe Coding实战复盘：做玩具容易，做产品难",
       "video_id": "1qv3S6CrcDo",
@@ -75,14 +83,6 @@
       "description": "本期节目邀请到朱萧木老师来聊聊养生，一起揭秘顶级大佬的养生之道https://www.youtube.com/@XiaoMuZhu朱萧木感谢全球高 ...",
       "published_at": "2025-06-10T08:11:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jTBUoreQ11M/hqdefault.jpg"
-    },
-    {
-      "title": "2025-26 AI趋势洞察（腾讯内网千人观看）",
-      "video_id": "lFVvIXa6Jzc",
-      "channel_title": "李自然说",
-      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
-      "published_at": "2025-05-19T10:04:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lFVvIXa6Jzc/hqdefault.jpg"
     }
   ]
 }

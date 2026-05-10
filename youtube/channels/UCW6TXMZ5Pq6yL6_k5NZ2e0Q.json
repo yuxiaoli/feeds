@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-03T00:55:17.224304",
+  "fetched_at": "2026-05-10T00:57:05.719418",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "Probability Density Functions (PDFs) Explained Clearly | Continuous Random Variables",
+      "video_id": "5iUOa3fz-X4",
+      "channel_title": "Socratica",
+      "description": "Probability Density Functions (PDFs) are essential for working with continuous random variables—but they can feel unintuitive at ...",
+      "published_at": "2026-05-04T10:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5iUOa3fz-X4/hqdefault.jpg"
+    },
     {
       "title": "The Language of Probability",
       "video_id": "SYyXzHSo_I0",
@@ -75,14 +83,6 @@
       "description": "STOCK OPTIONS COURSE: Our first finance course, Stock Options, is NOW LIVE! Aspiring quants should use ...",
       "published_at": "2025-11-20T11:01:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mkgD2OcYMCE/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Spreads with Stock Options — Finance Lessons for Quants",
-      "video_id": "veS8qhTDBxA",
-      "channel_title": "Socratica",
-      "description": "STOCK OPTIONS COURSE: Our first finance course is NOW LIVE! Aspiring quants should use this link to enroll: ...",
-      "published_at": "2025-10-23T11:01:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/veS8qhTDBxA/hqdefault.jpg"
     }
   ]
 }

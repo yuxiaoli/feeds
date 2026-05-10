@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-03T00:54:40.674405",
+  "fetched_at": "2026-05-10T00:56:27.361206",
   "channel_id": "UC-yuWVUplUJZvieEligKBkA",
   "channel_title": "javidx9",
   "count": 10,
   "videos": [
+    {
+      "title": "Nobody Asked #1 - Thoughts about AI",
+      "video_id": "1qjn1QRxlng",
+      "channel_title": "javidx9",
+      "description": "Times are changing, AI is here and it's divisive. Nobody asked for them, but here are some of my thoughts about it. Patreon: ...",
+      "published_at": "2026-05-04T08:25:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1qjn1QRxlng/hqdefault.jpg"
+    },
     {
       "title": "olc::PixelGameEngine 3.0 Tech Preview",
       "video_id": "P5-VRRSphfA",
@@ -75,14 +83,6 @@
       "description": "It's time! Sign up! https://itch.io/jam/olc-codejam-2024.",
       "published_at": "2024-08-07T20:08:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XbLBkB9NbNk/hqdefault.jpg"
-    },
-    {
-      "title": "Tinkering With Spirographs in C++",
-      "video_id": "AY99hF3kVH8",
-      "channel_title": "javidx9",
-      "description": "In this video I use the fantastic https://pgetinker.com to build a simple interactive model of a favourite childhood toy - the spirograph ...",
-      "published_at": "2024-06-30T15:56:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AY99hF3kVH8/hqdefault.jpg"
     }
   ]
 }

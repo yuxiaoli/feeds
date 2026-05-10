@@ -1,56 +1,80 @@
 {
-  "fetched_at": "2026-05-03T00:54:48.124842",
+  "fetched_at": "2026-05-10T00:56:35.065870",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 6,
+  "count": 9,
   "videos": [
     {
-      "title": "GPT 5.5 Just Dropped and It&#39;s a Different Kind of Upgrade",
-      "video_id": "lZMXlUcTnNM",
-      "channel_title": "Tech With Tim",
-      "description": "GPT 5.5 just dropped and this is not just another model bump. It's a genuinely different kind of upgrade. In this Short I'm breaking ...",
-      "published_at": "2026-05-01T21:19:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lZMXlUcTnNM/hqdefault.jpg"
-    },
-    {
-      "title": "I reviewed 20 AI engineering courses, here are my top 5",
-      "video_id": "HFmoNVx6vTA",
-      "channel_title": "Tech With Tim",
-      "description": "Associate AI Engineer for Developers: (Datacamp) - https://datacamp.pxf.io/jRnbx5 Associate Ai Engineer for Data ...",
-      "published_at": "2026-05-01T14:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HFmoNVx6vTA/hqdefault.jpg"
-    },
-    {
-      "title": "Most developers are using AI wrong… this is the better way.",
-      "video_id": "KOHgqBfN-gA",
+      "title": "Codex can deploy your app to a live domain in seconds with no account and no payment needed 🚀",
+      "video_id": "E4ntWS5HN8w",
       "channel_title": "Tech With Tim",
       "description": "",
-      "published_at": "2026-04-30T21:29:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KOHgqBfN-gA/hqdefault.jpg"
+      "published_at": "2026-05-09T23:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E4ntWS5HN8w/hqdefault.jpg"
     },
     {
-      "title": "The State of Software Engineering in 2026",
-      "video_id": "WOPIoZuD1og",
+      "title": "I asked Codex to build a checkers game and it wrote the code and played against itself 🎮",
+      "video_id": "Mb7IEo9U_vA",
       "channel_title": "Tech With Tim",
-      "description": "Stop paying hundreds of dollars for multiple AI subscriptions when you can access the same models and features from nexos.ai: ...",
-      "published_at": "2026-04-30T14:08:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WOPIoZuD1og/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-05-09T23:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Mb7IEo9U_vA/hqdefault.jpg"
     },
     {
-      "title": "I gave Claude its own database, here&#39;s what happened",
-      "video_id": "vJBAzdOACD8",
+      "title": "One AI Agent Isn&#39;t Enough Anymore",
+      "video_id": "SVz-y-pD6s4",
       "channel_title": "Tech With Tim",
-      "description": "Use ghost.build for free to add persistent memory and disposable databases to claude: https://b.link/ghost-twt In this video, I show ...",
-      "published_at": "2026-04-28T13:01:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vJBAzdOACD8/hqdefault.jpg"
+      "description": "Get started with Mistral Vibe here: https://mistr.al/vibe-techwithtim-yt Mistral just dropped Vibe, a terminal-native AI coding agent ...",
+      "published_at": "2026-05-09T16:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SVz-y-pD6s4/hqdefault.jpg"
     },
     {
-      "title": "How to Make an App With AI - 9 Steps",
-      "video_id": "xEr0hRbK_Xo",
+      "title": "Skipping this step is why your AI app turns into a mess 💀",
+      "video_id": "9LtPRMsnJ2w",
       "channel_title": "Tech With Tim",
-      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
-      "published_at": "2026-04-27T14:01:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xEr0hRbK_Xo/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-05-08T17:56:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9LtPRMsnJ2w/hqdefault.jpg"
+    },
+    {
+      "title": "Codex is INSANE - Everything New in 10 Minutes",
+      "video_id": "t2G0L0cqktw",
+      "channel_title": "Tech With Tim",
+      "description": "Deploy your site using here.now completely for free, copy the prompt for your agent here! https://here.now/r/twt In this video, I am ...",
+      "published_at": "2026-05-08T16:25:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t2G0L0cqktw/hqdefault.jpg"
+    },
+    {
+      "title": "How to Build an App With Claude Code - Full Tutorial for Beginners",
+      "video_id": "GUgxx6fMiR8",
+      "channel_title": "Tech With Tim",
+      "description": "Deploy your apps using Hostinger for the best performance at the lowest cost: https://www.hostg.xyz/SHJNq . Use code ...",
+      "published_at": "2026-05-06T13:17:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GUgxx6fMiR8/hqdefault.jpg"
+    },
+    {
+      "title": "The bigger your codebase gets, the more one small change can silently break everything 😅",
+      "video_id": "VjW6ghjxb_Y",
+      "channel_title": "Tech With Tim",
+      "description": "",
+      "published_at": "2026-05-05T23:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VjW6ghjxb_Y/hqdefault.jpg"
+    },
+    {
+      "title": "This is what vibe coders skip and why their apps fall apart the second real users touch them 💀",
+      "video_id": "ilK7UP8piFc",
+      "channel_title": "Tech With Tim",
+      "description": "",
+      "published_at": "2026-05-05T20:39:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ilK7UP8piFc/hqdefault.jpg"
+    },
+    {
+      "title": "Did you know scope creep kills more projects than bad code ever will? 🤯",
+      "video_id": "4M3wgfYrXEA",
+      "channel_title": "Tech With Tim",
+      "description": "",
+      "published_at": "2026-05-05T16:15:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4M3wgfYrXEA/hqdefault.jpg"
     }
   ]
 }

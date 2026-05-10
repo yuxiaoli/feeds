@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-03T00:55:21.577441",
+  "fetched_at": "2026-05-10T00:57:10.356921",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "Helix 02 Bedroom Tidy",
+      "video_id": "8xEuFQz4E4A",
+      "channel_title": "Figure",
+      "description": "Figure taught two F.03 robots to clean a room and make a bed in under 2 minutes - fully autonomous. Read more: ...",
+      "published_at": "2026-05-08T15:21:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8xEuFQz4E4A/hqdefault.jpg"
+    },
     {
       "title": "BotQ Ramping F.03 Production",
       "video_id": "YZH1csMhnDo",
@@ -75,14 +83,6 @@
       "description": "We are presenting the Figure 03 (F.03) battery — a significant advancement in our core humanoid robot technology roadmap.",
       "published_at": "2025-07-17T15:41:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Ts-TtxvfVq4/hqdefault.jpg"
-    },
-    {
-      "title": "Scaling Helix - Logistics",
-      "video_id": "lkc2y0yb89U",
-      "channel_title": "Figure",
-      "description": "Helix can now handle a wider variety of packaging approaching human-level dexterity and speed, bringing us closer to fully ...",
-      "published_at": "2025-06-07T16:42:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lkc2y0yb89U/hqdefault.jpg"
     }
   ]
 }

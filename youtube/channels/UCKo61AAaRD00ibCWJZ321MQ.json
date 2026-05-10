@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-03T00:55:07.497957",
+  "fetched_at": "2026-05-10T00:56:55.174975",
   "channel_id": "UCKo61AAaRD00ibCWJZ321MQ",
   "channel_title": "SoKrispyMedia",
   "count": 10,
   "videos": [
+    {
+      "title": "Tesla Robot Breaks a $40,000 PC",
+      "video_id": "HjhEkIXWr58",
+      "channel_title": "SoKrispyMedia",
+      "description": "Huge shoutout to Puget Systems and Nvidia! https://puget.systems/go/SoKrispy26 Sorry for the robot's... malfunction!",
+      "published_at": "2026-05-04T02:15:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HjhEkIXWr58/hqdefault.jpg"
+    },
     {
       "title": "MrBeast Has Robots Editing his Videos",
       "video_id": "Ufk5dVuwj8c",
@@ -75,14 +83,6 @@
       "description": "That took a turn… #mariokart #reallife.",
       "published_at": "2025-04-27T01:45:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/QsF5hjDEaaY/hqdefault.jpg"
-    },
-    {
-      "title": "Entering a Videogame - BEFORE &amp; AFTER #vfx",
-      "video_id": "qTcaR1vdkCg",
-      "channel_title": "SoKrispyMedia",
-      "description": "Before and after the visual effects of our previous short!",
-      "published_at": "2025-04-21T01:30:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qTcaR1vdkCg/hqdefault.jpg"
     }
   ]
 }

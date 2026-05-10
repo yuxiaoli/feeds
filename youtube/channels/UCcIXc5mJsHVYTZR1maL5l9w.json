@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-05-03T00:55:25.396660",
+  "fetched_at": "2026-05-10T00:57:14.141719",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Vibe coding works… until your agent confidently builds the wrong thing",
+      "video_id": "DygEd_WvUxU",
+      "channel_title": "DeepLearningAI",
+      "description": "Vibe coding works… until your agent confidently builds the wrong thing. Write specs first. Keep your agent aligned with what you ...",
+      "published_at": "2026-05-08T21:57:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DygEd_WvUxU/hqdefault.jpg"
+    },
+    {
+      "title": "Build Interactive Agents with Generative UI",
+      "video_id": "J26M-cpFG-M",
+      "channel_title": "DeepLearningAI",
+      "description": "Enroll now: https://bit.ly/4cPZYGJ Introducing Build Interactive Agents with Generative UI, taught by Atai Barkai, co-founder of ...",
+      "published_at": "2026-05-06T14:45:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J26M-cpFG-M/hqdefault.jpg"
+    },
+    {
+      "title": "Just deployed to production… and leaked all the credit cards 😬",
+      "video_id": "I1Xi9m6rgHI",
+      "channel_title": "DeepLearningAI",
+      "description": "Just deployed to production… and leaked all the credit cards. Fast isn't the same as correct. Learn spec-driven development: ...",
+      "published_at": "2026-05-05T19:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I1Xi9m6rgHI/hqdefault.jpg"
+    },
     {
       "title": "Become an AI power user 🌟 new course from Andrew Ng",
       "video_id": "FNfIMnpz-ZY",
@@ -59,30 +83,6 @@
       "description": "Get started now: https://learn.deeplearning.ai/specializations/tensorflow-developer-professional-certificate The TensorFlow ...",
       "published_at": "2026-03-23T22:01:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lzKmZzmy29Y/hqdefault.jpg"
-    },
-    {
-      "title": "Natural Language Processing Specialization by DeepLearning.AI",
-      "video_id": "QRTtS3zElmE",
-      "channel_title": "DeepLearningAI",
-      "description": "Get started now: https://learn.deeplearning.ai/specializations/natural-language-processing Natural language processing is a ...",
-      "published_at": "2026-03-23T21:59:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QRTtS3zElmE/hqdefault.jpg"
-    },
-    {
-      "title": "AI for Everyone by Andrew Ng",
-      "video_id": "JPcx9qHzzgk",
-      "channel_title": "DeepLearningAI",
-      "description": "Get started: https://learn.deeplearning.ai/courses/ai-for-everyone AI is not only for engineers. “AI for Everyone”, a non-technical ...",
-      "published_at": "2026-03-23T21:55:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JPcx9qHzzgk/hqdefault.jpg"
-    },
-    {
-      "title": "Meet the Oracle team at AI Dev 26 x San Francisco! #ai #deeplearning",
-      "video_id": "-zx4SAmcDdM",
-      "channel_title": "DeepLearningAI",
-      "description": "Meet Oracle on the AI Dev x SF show floor or join their workshop to explore the latest thinking on agent memory and what it takes ...",
-      "published_at": "2026-03-20T16:49:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-zx4SAmcDdM/hqdefault.jpg"
     }
   ]
 }

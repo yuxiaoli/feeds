@@ -1,24 +1,24 @@
 {
-  "fetched_at": "2026-05-03T00:54:54.277080",
+  "fetched_at": "2026-05-10T00:56:40.958693",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 2,
   "videos": [
     {
-      "title": "Creating Optional Content for Unreal Games | Inside Unreal",
-      "video_id": "xqlS6iNGhL8",
+      "title": "Programming for Team Productivity: 15 Practical Tips | Inside Unreal",
+      "video_id": "b8BwKI_MKHM",
       "channel_title": "Unreal Engine",
-      "description": "Join us as Rafael Dias Sançon, Game Developer at Globant, walks through two ways Unreal lets you split and ship your game ...",
-      "published_at": "2026-04-30T19:45:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xqlS6iNGhL8/hqdefault.jpg"
+      "description": "Join us as our guest, Ángel Flores, walks through 15 practical techniques to streamline your Unreal Engine workflows. We'll cover ...",
+      "published_at": "2026-05-07T19:42:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b8BwKI_MKHM/hqdefault.jpg"
     },
     {
-      "title": "Custom Items and Inventory | UEFN Build Along",
-      "video_id": "OpFql6HWdi8",
+      "title": "Oceanhorn 3: Legend of the Shadow Sea | Developer Interview | Unreal Engine",
+      "video_id": "-Q-hO9U4KhA",
       "channel_title": "Unreal Engine",
-      "description": "Join us as Josh Grant and Magnus Enebakk walk through how you can create custom items with unique properties, design ...",
-      "published_at": "2026-04-28T20:09:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OpFql6HWdi8/hqdefault.jpg"
+      "description": "Watch this video and discover how UE5 put wind in the sails of 'Oceanhorn 3', empowering the small indie team at Cornfox ...",
+      "published_at": "2026-05-06T14:29:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-Q-hO9U4KhA/hqdefault.jpg"
     }
   ]
 }

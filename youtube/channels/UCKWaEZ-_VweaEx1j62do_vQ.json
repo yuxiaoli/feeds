@@ -1,56 +1,48 @@
 {
-  "fetched_at": "2026-05-03T00:55:06.870767",
+  "fetched_at": "2026-05-10T00:56:54.397520",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "How RAG, GraphRAG, and Context Engineering Improve AI Performance",
-      "video_id": "pN-LfxNFiTc",
+      "title": "Live from Think 2026: AI operating model, VC funding &amp; CAIO evolution",
+      "video_id": "YHKXflgkHak",
       "channel_title": "IBM Technology",
-      "description": "Learn more about GraphRAG here → https://ibm.biz/BdpyvE Context is the biggest bottleneck in getting AI to do what you want.",
-      "published_at": "2026-05-02T11:01:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pN-LfxNFiTc/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content →https://ibm.biz/~IdwiPiazO We are live from IBM Think 2026!",
+      "published_at": "2026-05-08T10:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YHKXflgkHak/hqdefault.jpg"
     },
     {
-      "title": "Granite 4.1, IBM Bob &amp; building a quantum ecosystem",
-      "video_id": "Zk3FX8ZXa-s",
+      "title": "The Rise of Crypto Agility: How to Secure Systems for the Quantum Era",
+      "video_id": "ZrHKwxasXS4",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~O3Jx9YWYa What do enterprises need to make AI ...",
-      "published_at": "2026-05-01T10:01:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Zk3FX8ZXa-s/hqdefault.jpg"
+      "description": "Learn more about Cryptography here → https://ibm.biz/~2g5ndKJ5U Change is the only constant—and that includes our ...",
+      "published_at": "2026-05-07T11:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZrHKwxasXS4/hqdefault.jpg"
     },
     {
-      "title": "Q‑Day Explained: How Quantum Computing Threatens Today’s Cryptography",
-      "video_id": "rTM95-gZtOs",
+      "title": "Claude Security’s public beta, OpenAI’s five-point plan and cybersecurity’s Y2K moment",
+      "video_id": "EJg67cLfLYo",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Quantum Cryptography here → https://ibm.biz/BdpPNb Q‑Day is coming, and it's going to wreck your defenses.",
-      "published_at": "2026-04-30T11:01:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rTM95-gZtOs/hqdefault.jpg"
+      "description": "Explore the podcast : https://ibm.biz/~KL5L5UErI Between Mythos, GPT-5.4-Cyber, Claude Security's public beta and OpenAI's ...",
+      "published_at": "2026-05-06T10:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EJg67cLfLYo/hqdefault.jpg"
     },
     {
-      "title": "Is open source safe? Featuring Mixture of Experts",
-      "video_id": "PJGIWDW_W2A",
+      "title": "RAG&#39;s Evolution: From Simple Retrieval to Agentic AI",
+      "video_id": "JB2P5Gk23VI",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast →https://ibm.biz/~sTfk9xICA Is open source good? Bad? Some secret third thing? Is this a silly question to ...",
-      "published_at": "2026-04-29T10:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PJGIWDW_W2A/hqdefault.jpg"
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2026-05-05T11:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JB2P5Gk23VI/hqdefault.jpg"
     },
     {
-      "title": "What is a Supercomputer for AI? How GPUs Drive Machine Learning",
-      "video_id": "zocwmW5wZe8",
+      "title": "CLI vs MCP: How AI Agents Choose the Right Tool for the Job",
+      "video_id": "g9JIUM0MHgQ",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-04-28T11:01:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zocwmW5wZe8/hqdefault.jpg"
-    },
-    {
-      "title": "What is OpenClaw? Inside AI Agents, LLMs and the Agentic Loop",
-      "video_id": "L7FF8Zgab3M",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI Agents here → https://ibm.biz/Bdpmx6 We've all been using AI chatbots, but AI agents can now move from ...",
-      "published_at": "2026-04-27T11:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L7FF8Zgab3M/hqdefault.jpg"
+      "description": "Learn more about MCP here → https://ibm.biz/~92j1qki7Y Both CLI and MCP are ways for AI agents to interact with the world.",
+      "published_at": "2026-05-04T11:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g9JIUM0MHgQ/hqdefault.jpg"
     },
     {
       "title": "RSA recap, the LiteLLM breach, and the quest to fix AI agent security",
@@ -83,6 +75,14 @@
       "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
       "published_at": "2025-12-29T12:00:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2jU-mLMV8Vw/hqdefault.jpg"
+    },
+    {
+      "title": "AI agents in 2025: Why agentic commerce isn&#39;t ready for Black Friday yet",
+      "video_id": "SdNRWJ-oqjY",
+      "channel_title": "IBM Technology",
+      "description": "Explore the podcast → https://ibm.biz/BdbJ6K Will Black Friday 2025 be the breakout moment for agentic commerce? This week ...",
+      "published_at": "2025-11-28T11:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/hqdefault.jpg"
     }
   ]
 }

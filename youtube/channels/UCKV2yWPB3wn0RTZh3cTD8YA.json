@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-05-03T00:55:06.213786",
+  "fetched_at": "2026-05-10T00:56:53.637619",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "中国机器人的全球化野心、“踢馆”硅谷，及Physical AI的爆发准备：对话魔法原子",
+      "video_id": "oU_V5GlHq7I",
+      "channel_title": "硅谷101",
+      "description": "中国机器人赛道正在突然提速。从春晚机器人、半马赛事，到密集融资、出海扩张，中国具身智能公司开始集体进入全球视野。如今 ...",
+      "published_at": "2026-05-08T16:18:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oU_V5GlHq7I/hqdefault.jpg"
+    },
+    {
+      "title": "吞噬爱马仕：豪门恩怨、世纪资本恶战与凭空消失的百亿股份",
+      "video_id": "jn_H3vuUC6E",
+      "channel_title": "硅谷101",
+      "description": "4月15日，爱马仕发布财报，盘中股价暴跌14%，创下历史最大盘中跌幅。此时，关于爱马仕家族财富的一桩惊天悬案再次引发 ...",
+      "published_at": "2026-05-05T02:29:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jn_H3vuUC6E/hqdefault.jpg"
+    },
     {
       "title": "硅谷看DeepSeek V4：模型大战、Token Efficiency、算力突围与AGI必经之路【硅谷101视频播客】",
       "video_id": "CIDVbaXWp64",
@@ -67,22 +83,6 @@
       "description": "全球存储芯片，正在经历四十年来最严重的供需失衡。2026年已全部售罄，2027年大概率也卖光。更值得关注的是，AI正在把存储从 ...",
       "published_at": "2026-04-12T00:00:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eoBhOpqIweQ/hqdefault.jpg"
-    },
-    {
-      "title": "AI救活了一家马桶公司，也点燃了存储芯片超级周期",
-      "video_id": "tzEWYNQmnmc",
-      "channel_title": "硅谷101",
-      "description": "AI正在制造一场四十年一遇的存储芯片短缺。三星、SK海力士、美光、闪迪，这些存储行业的重要玩家，光一年的股价都涨了几倍到 ...",
-      "published_at": "2026-04-10T02:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tzEWYNQmnmc/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI Sora的失败与重生",
-      "video_id": "9yvP7PAunYs",
-      "channel_title": "硅谷101",
-      "description": "Sora2下架了。这个曾被Sam Altman称为又一个“ChatGPT时刻”的产品，上线仅六个月就被砍掉。原因很简单：每天烧掉百万美元， ...",
-      "published_at": "2026-04-07T07:25:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9yvP7PAunYs/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-05-03T00:55:38.835675",
+  "fetched_at": "2026-05-10T00:57:26.715916",
   "channel_id": "UCqdwM6M5SPmuX779w-6iQTA",
   "channel_title": "Joma Clips",
   "count": 10,
   "videos": [
+    {
+      "title": "day traders be like...",
+      "video_id": "mT1Z8cBsHCw",
+      "channel_title": "Joma Clips",
+      "description": "Full video on @JomaTech https://youtu.be/oCqkVZVPOe8?si=sobw-qUeCpYps0d8.",
+      "published_at": "2026-05-08T05:06:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mT1Z8cBsHCw/hqdefault.jpg"
+    },
+    {
+      "title": "when you&#39;re not a scammer but you still scammed everyone",
+      "video_id": "r5chHHpuvTY",
+      "channel_title": "Joma Clips",
+      "description": "Full video on @JomaTech https://youtu.be/YRddOEtlnEk?si=WVqL18nkf_ypLrIK.",
+      "published_at": "2026-05-07T06:35:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r5chHHpuvTY/hqdefault.jpg"
+    },
+    {
+      "title": "when founders talk about layoffs | Joma Tech",
+      "video_id": "LA2znolAFGU",
+      "channel_title": "Joma Clips",
+      "description": "Full video on @JomaTech https://youtu.be/YRddOEtlnEk?si=WVqL18nkf_ypLrIK.",
+      "published_at": "2026-05-05T03:08:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LA2znolAFGU/hqdefault.jpg"
+    },
     {
       "title": "Joma Tech - Founder Mode [Official Music Video]",
       "video_id": "T1A4CpaoeSA",
@@ -59,30 +83,6 @@
       "description": "Full video on @JomaTech.",
       "published_at": "2022-08-05T15:39:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4steq_HW8uY/hqdefault.jpg"
-    },
-    {
-      "title": "how people react during a crypto hack",
-      "video_id": "irM6KpQJAZE",
-      "channel_title": "Joma Clips",
-      "description": "",
-      "published_at": "2022-08-03T20:53:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/irM6KpQJAZE/hqdefault.jpg"
-    },
-    {
-      "title": "how programmers overprepare for job interviews",
-      "video_id": "QPd7nT7ecQI",
-      "channel_title": "Joma Clips",
-      "description": "Full video on @JomaTech.",
-      "published_at": "2022-07-24T18:57:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QPd7nT7ecQI/hqdefault.jpg"
-    },
-    {
-      "title": "If Programming Was An Anime pt.3",
-      "video_id": "trJGeGAN1M0",
-      "channel_title": "Joma Clips",
-      "description": "Full video on @JomaTech ​ #coding #tech #anime #programming #computerscience.",
-      "published_at": "2022-07-13T15:59:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/trJGeGAN1M0/hqdefault.jpg"
     }
   ]
 }

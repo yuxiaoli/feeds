@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-05-03T00:54:41.357376",
+  "fetched_at": "2026-05-10T00:56:28.106075",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "MRBD Hand Gestures",
+      "video_id": "RLz3r_fwijQ",
+      "channel_title": "Meta",
+      "description": "The Meta Neural Band allows you to use subtle hand movements to scroll, save, and capture content on the Meta Ray-Ban ...",
+      "published_at": "2026-05-08T16:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RLz3r_fwijQ/hqdefault.jpg"
+    },
+    {
+      "title": "Impact Story: Jhontel &quot;Uncle Jhonn&quot; Jackson",
+      "video_id": "8FAGXwqmSAY",
+      "channel_title": "Meta",
+      "description": "Jhontel has a passion for fixing...everything. He started posting his projects from around the neighborhood on @instagram, and ...",
+      "published_at": "2026-05-07T16:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8FAGXwqmSAY/hqdefault.jpg"
+    },
+    {
+      "title": "&quot;Hey, Meta&quot; Iguana",
+      "video_id": "a3j3Q3LltRc",
+      "channel_title": "Meta",
+      "description": "looks like you might have some competition George.",
+      "published_at": "2026-05-06T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a3j3Q3LltRc/hqdefault.jpg"
+    },
+    {
+      "title": "&quot;Hey, Meta&quot; Sir John",
+      "video_id": "A-7jUViZ9PQ",
+      "channel_title": "Meta",
+      "description": "Even pros need a little help from a pro on gala night. #raybanmeta.",
+      "published_at": "2026-05-05T16:32:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/A-7jUViZ9PQ/hqdefault.jpg"
+    },
+    {
+      "title": "&quot;Hey Meta&quot; Cafecito",
+      "video_id": "Z9MW6v0jSsc",
+      "channel_title": "Meta",
+      "description": "it's kind of like having a local tour guide in your pocket.",
+      "published_at": "2026-05-03T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z9MW6v0jSsc/hqdefault.jpg"
+    },
     {
       "title": "ROTW: Latin Dancing RBM with @guggiebedancing",
       "video_id": "lNNkVUh7LEs",
@@ -43,46 +83,6 @@
       "description": "what do snakes and yoga have in common? a lot according to Dru, who brought an entire community together with @instagram ...",
       "published_at": "2026-04-17T19:42:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cWshICtbaY8/hqdefault.jpg"
-    },
-    {
-      "title": "ROTW: @theresabutlerinteriors",
-      "video_id": "YfHvBwmD7Ko",
-      "channel_title": "Meta",
-      "description": "Theresa, @theresabutlerinteriors, is an interior designer who has been doing DIY projects for years without ever documenting ...",
-      "published_at": "2026-04-16T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YfHvBwmD7Ko/hqdefault.jpg"
-    },
-    {
-      "title": "What You Were Like In The 90s?",
-      "video_id": "qwKAKvcjT64",
-      "channel_title": "Meta",
-      "description": "talk about a glow up.",
-      "published_at": "2026-04-14T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qwKAKvcjT64/hqdefault.jpg"
-    },
-    {
-      "title": "Font Glow-Up",
-      "video_id": "FVZhdtSke0o",
-      "channel_title": "Meta",
-      "description": "times new roman? courier? never heard of them. restyle fonts and make unique typefaces for your @instagram stories with ...",
-      "published_at": "2026-04-10T13:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FVZhdtSke0o/hqdefault.jpg"
-    },
-    {
-      "title": "Behind The Tech: Alta App",
-      "video_id": "nnIMwmqyu4U",
-      "channel_title": "Meta",
-      "description": "red carpet? bagel run? Alta uses our Segment Anything Model (SAM 3) to digitize your wardrobe and style you for any occasion ...",
-      "published_at": "2026-04-06T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nnIMwmqyu4U/hqdefault.jpg"
-    },
-    {
-      "title": "20 Second AI Tip: FOA Tools",
-      "video_id": "AWtGqOkDIHA",
-      "channel_title": "Meta",
-      "description": "there are so many ways @meta.ai has improved our apps, it's almost too much to fit in one reel (sorry, Ray)",
-      "published_at": "2026-03-31T12:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AWtGqOkDIHA/hqdefault.jpg"
     }
   ]
 }

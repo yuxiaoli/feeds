@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-05-03T00:55:02.729408",
+  "fetched_at": "2026-05-10T00:56:49.844595",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Ecumenopolis",
+      "video_id": "FvntMqGFsQs",
+      "channel_title": "DamiLee",
+      "description": "The most perfectly planned city could still fall apart at planet scale. Here's the rule that holds it together. Fractal design sounds like ...",
+      "published_at": "2026-05-07T15:30:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FvntMqGFsQs/hqdefault.jpg"
+    },
+    {
+      "title": "The Colosseum was built on a tyrant&#39;s lake",
+      "video_id": "bT0EkuIfq5s",
+      "channel_title": "DamiLee",
+      "description": "What if the most iconic building in history was actually a political power move? The Colosseum wasn't built for glory. It was built on ...",
+      "published_at": "2026-05-05T07:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bT0EkuIfq5s/hqdefault.jpg"
+    },
     {
       "title": "Could a planet-wide city actually work?",
       "video_id": "Jdm2k4s6Ax4",
@@ -67,22 +83,6 @@
       "description": "Moria's colonnades repeat like a hypnotic rhythm, pulling deeper into the mountain where the rock is the structure. Unlike Art Deco ...",
       "published_at": "2026-03-30T22:31:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tHNeu_DIOac/hqdefault.jpg"
-    },
-    {
-      "title": "Your Whole AI Studio, No Wi-Fi Needed",
-      "video_id": "SB3dQC1Ol1o",
-      "channel_title": "DamiLee",
-      "description": "ad Creative workflows are evolving as local AI and portable workstations make research, writing, and design possible anywhere.",
-      "published_at": "2026-03-29T15:30:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SB3dQC1Ol1o/hqdefault.jpg"
-    },
-    {
-      "title": "Can Humans REALLY Leave Earth? [Interstellar Spaceship]",
-      "video_id": "BBb2gC0lByk",
-      "channel_title": "DamiLee",
-      "description": "If you want to know more about the @HP ZBook Ultra G1a Powered by an @AMD Ryzen™ AI MAX Pro 300 Series Processor, ...",
-      "published_at": "2026-03-28T15:30:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BBb2gC0lByk/hqdefault.jpg"
     }
   ]
 }

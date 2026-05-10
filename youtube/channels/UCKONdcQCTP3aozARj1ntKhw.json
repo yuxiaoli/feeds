@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2026-05-03T00:55:04.852065",
+  "fetched_at": "2026-05-10T00:56:52.074239",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Should agents write all of your pull requests? 👀 #ai #coding #developer #software",
+      "video_id": "jtAbLLeT2Lw",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2026-05-08T15:01:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jtAbLLeT2Lw/hqdefault.jpg"
+    },
+    {
+      "title": "Intro to Warp + Oz",
+      "video_id": "CIuiyuFm0U4",
+      "channel_title": "Warp",
+      "description": "New to Warp? Want to level up your coding agent workflow? Come learn how the Warp terminal works! Follow along with our ...",
+      "published_at": "2026-05-08T07:26:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CIuiyuFm0U4/hqdefault.jpg"
+    },
+    {
+      "title": "The SWE is dead. Here&#39;s your new job title #ai #startup #technology #software",
+      "video_id": "ygIDemBInKM",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2026-05-07T15:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ygIDemBInKM/hqdefault.jpg"
+    },
+    {
+      "title": "How Warp&#39;s open-source platform works (the infrastructure, the agent skills, and more)",
+      "video_id": "VNPhuWU1D8k",
+      "channel_title": "Warp",
+      "description": "Warp is now open source. Curious how to contribute? Come join us for a live \"office hours\" session! ​We will build features live on ...",
+      "published_at": "2026-05-07T08:23:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VNPhuWU1D8k/hqdefault.jpg"
+    },
+    {
+      "title": "What open-source looks like now",
+      "video_id": "L_Rc5gssRHs",
+      "channel_title": "Warp",
+      "description": "Warp uses coding agents at every step of the contribution process for our open-source repo. We've made the infrastructure ...",
+      "published_at": "2026-05-06T15:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L_Rc5gssRHs/hqdefault.jpg"
+    },
+    {
+      "title": "Warp is now open-source",
+      "video_id": "InyMmSLcJsI",
+      "channel_title": "Warp",
+      "description": "Come contribute: github.com/warpdotdev/warp See our roadmap: https://github.com/warpdotdev/warp/issues/9233.",
+      "published_at": "2026-05-05T19:25:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/InyMmSLcJsI/hqdefault.jpg"
+    },
     {
       "title": "Open source office hours",
       "video_id": "DSySVmnRcis",
@@ -11,14 +59,6 @@
       "description": "Warp is now open source. Curious how to contribute? Come join us for a live \"office hours\" session! ​​We will build features live ...",
       "published_at": "2026-05-01T21:46:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DSySVmnRcis/hqdefault_live.jpg"
-    },
-    {
-      "title": "Warp open-source office hours",
-      "video_id": "VNPhuWU1D8k",
-      "channel_title": "Warp",
-      "description": "Warp is now open source. Curious how to contribute? Come join us for a live \"office hours\" session! ​We will build features live on ...",
-      "published_at": "2026-05-01T21:42:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VNPhuWU1D8k/hqdefault_live.jpg"
     },
     {
       "title": "How to contribute to Warp",
@@ -43,46 +83,6 @@
       "description": "To find the agent skills backing each part of the contribution flow: https://github.com/warpdotdev/warp/tree/master/.agents/skills To ...",
       "published_at": "2026-04-29T16:44:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5Mk26H0V7_c/hqdefault.jpg"
-    },
-    {
-      "title": "Warp is now open-source",
-      "video_id": "eRsoRbJs8O0",
-      "channel_title": "Warp",
-      "description": "Learn how to contribute: https://github.com/warpdotdev/warp See how our agent management system works: ...",
-      "published_at": "2026-04-28T15:44:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eRsoRbJs8O0/hqdefault.jpg"
-    },
-    {
-      "title": "Multithread yourself",
-      "video_id": "y7q8-RozHAc",
-      "channel_title": "Warp",
-      "description": "One dev. Five agents. Zero blockers. Zach Lloyd on how multithreading changes what a single engineer can get done in a day ...",
-      "published_at": "2026-04-27T18:15:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y7q8-RozHAc/hqdefault.jpg"
-    },
-    {
-      "title": "The tasks AI is the best at",
-      "video_id": "UFsPY-Gpubs",
-      "channel_title": "Warp",
-      "description": "Nobody got into engineering to write the 47th migration script. Zach on why the repetitive work is exactly what AI should be doing ...",
-      "published_at": "2026-04-24T17:15:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UFsPY-Gpubs/hqdefault.jpg"
-    },
-    {
-      "title": "Warp x Codex: Turning the terminal into an agentic development environment",
-      "video_id": "hKbWCyb6Z4c",
-      "channel_title": "Warp",
-      "description": "See what first-class support for Codex looks like in Warp. At Warp, we believe that the terminal is already the best place to do ...",
-      "published_at": "2026-04-23T17:43:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hKbWCyb6Z4c/hqdefault.jpg"
-    },
-    {
-      "title": "Saas might be dying",
-      "video_id": "SWTX_hisvgc",
-      "channel_title": "Warp",
-      "description": "Software used to take a team of 10 and six months. Now it takes one person and an afternoon. Zach Lloyd on how AI coding ...",
-      "published_at": "2026-04-23T15:35:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SWTX_hisvgc/hqdefault.jpg"
     }
   ]
 }

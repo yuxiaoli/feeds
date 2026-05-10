@@ -1,16 +1,64 @@
 {
-  "fetched_at": "2026-05-03T00:55:20.063919",
+  "fetched_at": "2026-05-10T00:57:08.840041",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "Bring your work into Codex in a few clicks",
-      "video_id": "flvZ6jEj3VU",
+      "title": "Codex can now use Chrome directly on macOS and Windows.",
+      "video_id": "b6Mxcv1pyBU",
       "channel_title": "OpenAI",
-      "description": "Codex helps teams connect the apps they already use, bring over their setup, and start seeing the magic happen right away.",
-      "published_at": "2026-05-01T19:09:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/flvZ6jEj3VU/hqdefault.jpg"
+      "description": "Codex is now even better at working with apps and sites in Chrome, and can now work in parallel across tabs in the background, ...",
+      "published_at": "2026-05-08T16:25:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b6Mxcv1pyBU/hqdefault.jpg"
+    },
+    {
+      "title": "We’re introducing three audio models in the API",
+      "video_id": "JOu8v6CBjkE",
+      "channel_title": "OpenAI",
+      "description": "We're introducing three audio models in the API that unlock a new class of voice apps for developers. With these models ...",
+      "published_at": "2026-05-07T17:29:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JOu8v6CBjkE/hqdefault.jpg"
+    },
+    {
+      "title": "GPT-5.5 is a game changer for finance",
+      "video_id": "eoyHCYXoNMQ",
+      "channel_title": "OpenAI",
+      "description": "\"GPT 5.5 is an absolute game changer for our customers, specifically in finance, because the model is just amazing at multi-step ...",
+      "published_at": "2026-05-07T16:27:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eoyHCYXoNMQ/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing GPT-5.5 with Box",
+      "video_id": "9cenXVrQZNQ",
+      "channel_title": "OpenAI",
+      "description": "\"When I saw the GPT-5.5 evals come back, I literally did a double take.\" Yes, we're model magicians. It's exciting to see how Box is ...",
+      "published_at": "2026-05-07T16:22:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9cenXVrQZNQ/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing ChatGPT for Excel and Google Sheets",
+      "video_id": "sfkyiXvlYL0",
+      "channel_title": "OpenAI",
+      "description": "Ask ChatGPT to analyze, update, and explain your spreadsheets directly in Excel and Google Sheets. These add-ins are now ...",
+      "published_at": "2026-05-06T16:52:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sfkyiXvlYL0/hqdefault.jpg"
+    },
+    {
+      "title": "Why AI needs a new kind of supercomputer network — the OpenAI Podcast Ep. 18",
+      "video_id": "TiW96H5HmAw",
+      "channel_title": "OpenAI",
+      "description": "Training frontier models isn't as simple as adding more GPUs—one small problem and the whole coordinated dance falls apart.",
+      "published_at": "2026-05-06T11:30:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TiW96H5HmAw/hqdefault.jpg"
+    },
+    {
+      "title": "Prep for sales meetings faster with Codex",
+      "video_id": "y5hogSW2mqU",
+      "channel_title": "OpenAI",
+      "description": "See how Codex helps sellers get ready for customer meetings faster. Codex can bring context from Salesforce, Slack, Google ...",
+      "published_at": "2026-05-05T15:08:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y5hogSW2mqU/hqdefault.jpg"
     },
     {
       "title": "What Codex Unlocks for Virgin Atlantic",
@@ -35,54 +83,6 @@
       "description": "Build workspace agents in ChatGPT that can do work across your tools and help teams move faster. In this Build Hour, you'll learn ...",
       "published_at": "2026-04-29T20:59:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/kktBVmjA19A/hqdefault.jpg"
-    },
-    {
-      "title": "GPT-5.5 is SOTA for Databricks",
-      "video_id": "FPDVsJWEi4E",
-      "channel_title": "OpenAI",
-      "description": "\"Codex with GPT-5.5 is currently state-of-the-art.” Arnav Singhvi dropped by to tell us how GPT-5.5 has been transformational for ...",
-      "published_at": "2026-04-29T16:21:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FPDVsJWEi4E/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing GPT-5.5 with Databricks",
-      "video_id": "vD_4Hce2G_w",
-      "channel_title": "OpenAI",
-      "description": "\"Codex with GPT-5.5 is currently state-of-the-art.” Arnav Singhvi dropped by to tell us how GPT-5.5 has been transformational for ...",
-      "published_at": "2026-04-29T16:18:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vD_4Hce2G_w/hqdefault.jpg"
-    },
-    {
-      "title": "Pinky vs Home Loan | With ChatGPT",
-      "video_id": "9R_6bLLyM5k",
-      "channel_title": "OpenAI",
-      "description": "One step ahead with ChatGPT Credits Director: Abhinav Pratiman DOP: Tassaduq Hussain Production House: Early Man Film ...",
-      "published_at": "2026-04-29T08:52:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9R_6bLLyM5k/hqdefault.jpg"
-    },
-    {
-      "title": "What happens now that AI is good at math? — the OpenAI Podcast Ep. 17",
-      "video_id": "9-TVwv6wtGQ",
-      "channel_title": "OpenAI",
-      "description": "Math is one of the clearest ways to see how far AI has come in a short span. OpenAI researchers Sébastien Bubeck and Ernest ...",
-      "published_at": "2026-04-28T17:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9-TVwv6wtGQ/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT Helps Runs Small Business | The Floral Hire",
-      "video_id": "gpj9YWbr3IQ",
-      "channel_title": "OpenAI",
-      "description": "Meet Becky, founder of The Floral Hire. Running a small business means doing a bit of everything — from customer conversations ...",
-      "published_at": "2026-04-28T16:10:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gpj9YWbr3IQ/hqdefault.jpg"
-    },
-    {
-      "title": "Ritu vs Case Files | With ChatGPT",
-      "video_id": "2TGHO4apQ5I",
-      "channel_title": "OpenAI",
-      "description": "Space for focused work with ChatGPT Credits Director: Abhinav Pratiman DOP: Tassaduq Hussain Production House: Early Man ...",
-      "published_at": "2026-04-27T11:12:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2TGHO4apQ5I/hqdefault.jpg"
     }
   ]
 }

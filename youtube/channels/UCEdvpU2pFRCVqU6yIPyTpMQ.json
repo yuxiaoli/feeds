@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-03T00:54:56.607555",
+  "fetched_at": "2026-05-10T00:56:43.192837",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "@Formula1 Miami weekend with a pit stop in Memphis",
+      "video_id": "mVkumoQ3x-E",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-05-06T20:12:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mVkumoQ3x-E/hqdefault.jpg"
+    },
     {
       "title": "when you dodged a bullet #newmusic",
       "video_id": "P5JOt7iV9cs",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-03-17T16:59:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bAEiwOc-vkg/hqdefault.jpg"
-    },
-    {
-      "title": "Official lyric video for “We Don’t Get Along” with @JuiceWRLD",
-      "video_id": "ChXXQFZ3TTU",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2026-03-12T17:49:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ChXXQFZ3TTU/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-03T00:55:43.012176",
+  "fetched_at": "2026-05-10T00:57:31.220989",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Realistic size comparison of the Sun and the planets ☀️🪐",
+      "video_id": "ikr2qm42F8I",
+      "channel_title": "Star Walk",
+      "description": "We all know the Sun is huge — but seeing it next to the planets really puts things into perspective. Which size difference surprised ...",
+      "published_at": "2026-05-08T13:40:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ikr2qm42F8I/hqdefault.jpg"
+    },
     {
       "title": "May&#39;s 1st Full Moon is coming on May 1st! 🌸🌕",
       "video_id": "wHRt37M2Ukg",
@@ -75,14 +83,6 @@
       "description": "Most images don't show the true relative sizes of the planets or their true relative distances from one another. If you show the Solar ...",
       "published_at": "2026-04-02T10:18:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jMfIyM1nGfQ/hqdefault.jpg"
-    },
-    {
-      "title": "Truly happens to the best of us 😭🌌",
-      "video_id": "Xy7A8lX7xSo",
-      "channel_title": "Star Walk",
-      "description": "For some reason, the best astronomy events always seem to happen when you're exhausted… or when the sky decides to be ...",
-      "published_at": "2026-03-23T10:29:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xy7A8lX7xSo/hqdefault.jpg"
     }
   ]
 }
