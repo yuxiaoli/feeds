@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-10T00:57:29.000105",
+  "fetched_at": "2026-05-17T00:58:15.183613",
   "channel_id": "UCttcb-nekZ6Mm8UM-WgwSkA",
   "channel_title": "Piixel Clowns",
   "count": 10,
   "videos": [
+    {
+      "title": "Strawberry Milkshake AI Commercial @Piixelclowns",
+      "video_id": "ylDpYi3VjX0",
+      "channel_title": "Piixel Clowns",
+      "description": "contact us for collaborations or commission work email us at : pixelclowns2926@gmail.com instagram: piixelclowns #piixelclowns ...",
+      "published_at": "2026-05-13T07:05:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ylDpYi3VjX0/hqdefault.jpg"
+    },
     {
       "title": "Faber Castell Polychromos Commercial Film (CGI Breakdown)",
       "video_id": "p9jpjweX6Pw",
@@ -75,14 +83,6 @@
       "description": "Unlock the secrets of professional 3D lighting and transform your Blender renders from flat to PHENOMENAL! In this tutorial, I'll ...",
       "published_at": "2025-03-20T13:30:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9vopq78UJvc/hqdefault.jpg"
-    },
-    {
-      "title": "Blender Lighting SECRETS",
-      "video_id": "OICgu3lGGG8",
-      "channel_title": "Piixel Clowns",
-      "description": "Sunlight , soft shadows, gobo effects, and bounce lights—learn how PROS light 3D scenes in Blender! LIKE if this helped you ...",
-      "published_at": "2025-03-19T14:33:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OICgu3lGGG8/hqdefault.jpg"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "fetched_at": "2026-05-10T00:56:40.958693",
+  "fetched_at": "2026-05-17T00:57:27.693822",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 2,
   "videos": [
     {
-      "title": "Programming for Team Productivity: 15 Practical Tips | Inside Unreal",
-      "video_id": "b8BwKI_MKHM",
+      "title": "Supporting Runtime Mods in UE5: A Complete Pipeline for Developers and Modders | Inside Unreal",
+      "video_id": "rHF3VdA_0Js",
       "channel_title": "Unreal Engine",
-      "description": "Join us as our guest, Ángel Flores, walks through 15 practical techniques to streamline your Unreal Engine workflows. We'll cover ...",
-      "published_at": "2026-05-07T19:42:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b8BwKI_MKHM/hqdefault.jpg"
+      "description": "Join us as our guests, Sid Narayan and Shannon Luong of Another Dimension Games, walk through how UE5 enabled them to ...",
+      "published_at": "2026-05-14T19:44:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rHF3VdA_0Js/hqdefault.jpg"
     },
     {
-      "title": "Oceanhorn 3: Legend of the Shadow Sea | Developer Interview | Unreal Engine",
-      "video_id": "-Q-hO9U4KhA",
+      "title": "Your First Game in Unreal Engine | Project Trailer",
+      "video_id": "PNL-z_h20Ao",
       "channel_title": "Unreal Engine",
-      "description": "Watch this video and discover how UE5 put wind in the sails of 'Oceanhorn 3', empowering the small indie team at Cornfox ...",
-      "published_at": "2026-05-06T14:29:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-Q-hO9U4KhA/hqdefault.jpg"
+      "description": "In this beginner tutorial series for Unreal Engine, created in partnership with Luke Anderton of Tinkr Studios, you will learn how to ...",
+      "published_at": "2026-05-12T15:58:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PNL-z_h20Ao/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-05-10T00:56:28.106075",
+  "fetched_at": "2026-05-17T00:57:14.775397",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Flower or Weed",
+      "video_id": "pUbyqNTt2AY",
+      "channel_title": "Meta",
+      "description": "weeds are no match for @AIatMeta.",
+      "published_at": "2026-05-16T16:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pUbyqNTt2AY/hqdefault.jpg"
+    },
+    {
+      "title": "Jurassic Coast beach finds from @sams_natural_habitat on IG",
+      "video_id": "qEUx-6av8lE",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2026-05-14T15:58:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qEUx-6av8lE/hqdefault.jpg"
+    },
+    {
+      "title": "Meta Connect - September 23-24",
+      "video_id": "czS85XURnl4",
+      "channel_title": "Meta",
+      "description": "mark your calendars—Meta Connect is September 23-24. full details here: ...",
+      "published_at": "2026-05-12T16:05:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/czS85XURnl4/hqdefault.jpg"
+    },
     {
       "title": "MRBD Hand Gestures",
       "video_id": "RLz3r_fwijQ",
@@ -11,14 +35,6 @@
       "description": "The Meta Neural Band allows you to use subtle hand movements to scroll, save, and capture content on the Meta Ray-Ban ...",
       "published_at": "2026-05-08T16:00:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/RLz3r_fwijQ/hqdefault.jpg"
-    },
-    {
-      "title": "Impact Story: Jhontel &quot;Uncle Jhonn&quot; Jackson",
-      "video_id": "8FAGXwqmSAY",
-      "channel_title": "Meta",
-      "description": "Jhontel has a passion for fixing...everything. He started posting his projects from around the neighborhood on @instagram, and ...",
-      "published_at": "2026-05-07T16:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8FAGXwqmSAY/hqdefault.jpg"
     },
     {
       "title": "&quot;Hey, Meta&quot; Iguana",
@@ -67,22 +83,6 @@
       "description": "Meet Yuri Himuro (@himuroyuri), a Tokyo-based textile designer and artist whose work invites you to reach out and touch it.",
       "published_at": "2026-04-22T16:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6HURjWjH5ts/hqdefault.jpg"
-    },
-    {
-      "title": "Edits App!",
-      "video_id": "KHyaAVI2Tis",
-      "channel_title": "Meta",
-      "description": "with @AIatMeta you can...do all kinds of things. check out the app to start animating photos, discover new products, and more.",
-      "published_at": "2026-04-20T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KHyaAVI2Tis/hqdefault.jpg"
-    },
-    {
-      "title": "Impact Stories: Snake Yoga",
-      "video_id": "cWshICtbaY8",
-      "channel_title": "Meta",
-      "description": "what do snakes and yoga have in common? a lot according to Dru, who brought an entire community together with @instagram ...",
-      "published_at": "2026-04-17T19:42:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cWshICtbaY8/hqdefault.jpg"
     }
   ]
 }

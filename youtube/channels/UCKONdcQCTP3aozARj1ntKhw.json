@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-05-10T00:56:52.074239",
+  "fetched_at": "2026-05-17T00:57:39.033196",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Intro to Warp  - terminal basics, Claude Code setup, and cloud handoff with Oz",
+      "video_id": "09ECDa0q7C0",
+      "channel_title": "Warp",
+      "description": "We'll cover: - ​The essentials of navigating Warp as a terminal - ​How to use agents in Warp: both Warp's built-in harness and ...",
+      "published_at": "2026-05-15T22:58:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/09ECDa0q7C0/hqdefault.jpg"
+    },
+    {
+      "title": "This AI agent caught $60K in fraud while we slept 🤯 #ai #developer #startup #coding",
+      "video_id": "qBN4_5dZlEQ",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2026-05-12T15:01:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qBN4_5dZlEQ/hqdefault.jpg"
+    },
+    {
+      "title": "Developers should stop building apps. #ai #software #developer #technology",
+      "video_id": "3BtB6KvmSWs",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2026-05-11T15:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3BtB6KvmSWs/hqdefault.jpg"
+    },
     {
       "title": "Should agents write all of your pull requests? 👀 #ai #coding #developer #software",
       "video_id": "jtAbLLeT2Lw",
@@ -53,36 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/InyMmSLcJsI/hqdefault.jpg"
     },
     {
-      "title": "Open source office hours",
+      "title": "How Warp Works - a deep dive into Warp&#39;s source code",
       "video_id": "DSySVmnRcis",
       "channel_title": "Warp",
       "description": "Warp is now open source. Curious how to contribute? Come join us for a live \"office hours\" session! ​​We will build features live ...",
       "published_at": "2026-05-01T21:46:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DSySVmnRcis/hqdefault_live.jpg"
-    },
-    {
-      "title": "How to contribute to Warp",
-      "video_id": "p4ZDp-P1HCo",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2026-05-01T16:32:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p4ZDp-P1HCo/hqdefault.jpg"
-    },
-    {
-      "title": "Warp open source office hours",
-      "video_id": "T7bQ86m5AEk",
-      "channel_title": "Warp",
-      "description": "Warp is now open source. Curious how contributions work? Have burning feature requests that you want to see us build?",
-      "published_at": "2026-04-29T18:12:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T7bQ86m5AEk/hqdefault.jpg"
-    },
-    {
-      "title": "How Warp manages open-source with agents",
-      "video_id": "5Mk26H0V7_c",
-      "channel_title": "Warp",
-      "description": "To find the agent skills backing each part of the contribution flow: https://github.com/warpdotdev/warp/tree/master/.agents/skills To ...",
-      "published_at": "2026-04-29T16:44:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5Mk26H0V7_c/hqdefault.jpg"
     }
   ]
 }

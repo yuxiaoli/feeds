@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-10T00:56:39.557375",
+  "fetched_at": "2026-05-17T00:57:26.229413",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "Dodge NASCAR Daytona Shuts Down the Streets #dodge #nascardaytona #filmmaking",
+      "video_id": "fa9Wf4dkVcc",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-05-14T18:02:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fa9Wf4dkVcc/hqdefault.jpg"
+    },
     {
       "title": "Turbo &amp; Hydarulics? @Georjah_Erin  and her custom 1989 Toyota pick up.",
       "video_id": "_7mqiLHwEeo",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-03-14T17:23:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DUU6EpBdD6w/hqdefault.jpg"
-    },
-    {
-      "title": "67 Ruffian Mustang Burns Out hard",
-      "video_id": "ZXvYLRaM5LY",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2026-03-06T18:45:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZXvYLRaM5LY/hqdefault.jpg"
     }
   ]
 }

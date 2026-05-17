@@ -1,40 +1,64 @@
 {
-  "fetched_at": "2026-05-10T00:56:35.065870",
+  "fetched_at": "2026-05-17T00:57:21.768186",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 9,
+  "count": 8,
   "videos": [
     {
-      "title": "Codex can deploy your app to a live domain in seconds with no account and no payment needed 🚀",
-      "video_id": "E4ntWS5HN8w",
+      "title": "Mid level AI engineers are making up to $220,000 a year and demand is only growing 🔥",
+      "video_id": "SCYJxkZMREI",
       "channel_title": "Tech With Tim",
       "description": "",
-      "published_at": "2026-05-09T23:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E4ntWS5HN8w/hqdefault.jpg"
+      "published_at": "2026-05-16T15:45:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SCYJxkZMREI/hqdefault.jpg"
     },
     {
-      "title": "I asked Codex to build a checkers game and it wrote the code and played against itself 🎮",
-      "video_id": "Mb7IEo9U_vA",
+      "title": "monday.com&#39;s AI Agents Are Actually Insane",
+      "video_id": "8HeFtpdWYp8",
+      "channel_title": "Tech With Tim",
+      "description": "monday.com just dropped AI Agents that handle sprint planning, bug triage, standup summaries, and competitive research — all ...",
+      "published_at": "2026-05-16T12:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8HeFtpdWYp8/hqdefault.jpg"
+    },
+    {
+      "title": "Every great AI engineer is a software engineer first 💻",
+      "video_id": "xZ3iMmoLoac",
       "channel_title": "Tech With Tim",
       "description": "",
-      "published_at": "2026-05-09T23:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Mb7IEo9U_vA/hqdefault.jpg"
+      "published_at": "2026-05-15T18:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xZ3iMmoLoac/hqdefault.jpg"
     },
     {
-      "title": "One AI Agent Isn&#39;t Enough Anymore",
-      "video_id": "SVz-y-pD6s4",
+      "title": "AI Web Scraping Is Insanely Good | Browserbase Full Tutorial",
+      "video_id": "XTQTJoSfeMg",
       "channel_title": "Tech With Tim",
-      "description": "Get started with Mistral Vibe here: https://mistr.al/vibe-techwithtim-yt Mistral just dropped Vibe, a terminal-native AI coding agent ...",
-      "published_at": "2026-05-09T16:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SVz-y-pD6s4/hqdefault.jpg"
+      "description": "Create a free account and get started with Browserbase: https://browserbase.run/twt1 If you've ever tried to connect an AI agent to ...",
+      "published_at": "2026-05-15T15:19:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XTQTJoSfeMg/hqdefault.jpg"
     },
     {
-      "title": "Skipping this step is why your AI app turns into a mess 💀",
-      "video_id": "9LtPRMsnJ2w",
+      "title": "This is how Codex turns raw data into a full CEO presentation in minutes 🤯",
+      "video_id": "QWMFMravvws",
       "channel_title": "Tech With Tim",
       "description": "",
-      "published_at": "2026-05-08T17:56:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9LtPRMsnJ2w/hqdefault.jpg"
+      "published_at": "2026-05-14T15:30:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QWMFMravvws/hqdefault.jpg"
+    },
+    {
+      "title": "Claude Tutorial - How to Connect Claude to ANY Tool",
+      "video_id": "bzV2EwDyxpk",
+      "channel_title": "Tech With Tim",
+      "description": "Use composio for free here: https://composio.dev/toolkits If you've been using Claude, Codex, Cursor or Windsurf coworkers or ...",
+      "published_at": "2026-05-12T17:32:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bzV2EwDyxpk/hqdefault.jpg"
+    },
+    {
+      "title": "Claude Just Got a Superpower No One&#39;s Talking About",
+      "video_id": "rrylSizvnSg",
+      "channel_title": "Tech With Tim",
+      "description": "Sponsored by Higgsfield! Build powerful AI video workflows with Higgsfield MCP: https://higgsfield.ai/s/mcp-techwithtim-KgKtSp ...",
+      "published_at": "2026-05-11T14:01:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rrylSizvnSg/hqdefault.jpg"
     },
     {
       "title": "Codex is INSANE - Everything New in 10 Minutes",
@@ -43,38 +67,6 @@
       "description": "Deploy your site using here.now completely for free, copy the prompt for your agent here! https://here.now/r/twt In this video, I am ...",
       "published_at": "2026-05-08T16:25:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/t2G0L0cqktw/hqdefault.jpg"
-    },
-    {
-      "title": "How to Build an App With Claude Code - Full Tutorial for Beginners",
-      "video_id": "GUgxx6fMiR8",
-      "channel_title": "Tech With Tim",
-      "description": "Deploy your apps using Hostinger for the best performance at the lowest cost: https://www.hostg.xyz/SHJNq . Use code ...",
-      "published_at": "2026-05-06T13:17:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GUgxx6fMiR8/hqdefault.jpg"
-    },
-    {
-      "title": "The bigger your codebase gets, the more one small change can silently break everything 😅",
-      "video_id": "VjW6ghjxb_Y",
-      "channel_title": "Tech With Tim",
-      "description": "",
-      "published_at": "2026-05-05T23:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VjW6ghjxb_Y/hqdefault.jpg"
-    },
-    {
-      "title": "This is what vibe coders skip and why their apps fall apart the second real users touch them 💀",
-      "video_id": "ilK7UP8piFc",
-      "channel_title": "Tech With Tim",
-      "description": "",
-      "published_at": "2026-05-05T20:39:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ilK7UP8piFc/hqdefault.jpg"
-    },
-    {
-      "title": "Did you know scope creep kills more projects than bad code ever will? 🤯",
-      "video_id": "4M3wgfYrXEA",
-      "channel_title": "Tech With Tim",
-      "description": "",
-      "published_at": "2026-05-05T16:15:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4M3wgfYrXEA/hqdefault.jpg"
     }
   ]
 }

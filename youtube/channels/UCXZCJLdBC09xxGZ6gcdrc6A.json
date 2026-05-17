@@ -1,16 +1,80 @@
 {
-  "fetched_at": "2026-05-10T00:57:08.840041",
+  "fetched_at": "2026-05-17T00:57:55.292832",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "Codex can now use Chrome directly on macOS and Windows.",
-      "video_id": "b6Mxcv1pyBU",
+      "title": "Update and audit a finance model in Excel with ChatGPT",
+      "video_id": "CaBXLZyaJYU",
       "channel_title": "OpenAI",
-      "description": "Codex is now even better at working with apps and sites in Chrome, and can now work in parallel across tabs in the background, ...",
-      "published_at": "2026-05-08T16:25:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b6Mxcv1pyBU/hqdefault.jpg"
+      "description": "See how ChatGPT for Excel can help finance teams review a CFO performance workbook before it goes out. In this demo ...",
+      "published_at": "2026-05-15T20:41:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CaBXLZyaJYU/hqdefault.jpg"
+    },
+    {
+      "title": "Codex for Everyday Work: AI Agents Beyond Coding",
+      "video_id": "DLP9CagE3dU",
+      "channel_title": "OpenAI",
+      "description": "Codex began as a tool for developers. Today, people are using it for much more: research, planning, file organization, automation, ...",
+      "published_at": "2026-05-14T20:28:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DLP9CagE3dU/hqdefault.jpg"
+    },
+    {
+      "title": "Now in preview: Codex in the ChatGPT mobile app.",
+      "video_id": "tk9qrk5G4RQ",
+      "channel_title": "OpenAI",
+      "description": "Codex is rolling out in preview in the ChatGPT mobile app on iOS and Android. In this demo, see how you can start, steer, unblock ...",
+      "published_at": "2026-05-14T20:15:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tk9qrk5G4RQ/hqdefault.jpg"
+    },
+    {
+      "title": "Inside image generation’s Renaissance moment — the OpenAI Podcast Ep. 19",
+      "video_id": "bH2nP-aCFjk",
+      "channel_title": "OpenAI",
+      "description": "People are generating over 1.5 billion images a week in ChatGPT. In this episode, Product lead Adele Li and researcher Kenji ...",
+      "published_at": "2026-05-14T17:31:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bH2nP-aCFjk/hqdefault.jpg"
+    },
+    {
+      "title": "Build Hour: GPT-Realtime-2",
+      "video_id": "qGS9Ghnq1RU",
+      "channel_title": "OpenAI",
+      "description": "Build with the next wave of realtime voice AI. In this Build Hour, you'll learn how to use GPT-Realtime-2, GPT-Realtime-Translate, ...",
+      "published_at": "2026-05-13T23:13:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qGS9Ghnq1RU/hqdefault.jpg"
+    },
+    {
+      "title": "Suraj vs The Future | With ChatGPT",
+      "video_id": "bMmEEa8-6fU",
+      "channel_title": "OpenAI",
+      "description": "Prepare smarter with ChatGPT Credits Director: Abhinav Pratiman DOP: Tassaduq Hussain Production House: Early Man Film ...",
+      "published_at": "2026-05-13T07:13:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bMmEEa8-6fU/hqdefault.jpg"
+    },
+    {
+      "title": "Computer use in Codex",
+      "video_id": "D_FCYsshMI4",
+      "channel_title": "OpenAI",
+      "description": "Computer use lets Codex work across local apps without taking over your Mac. Ari Weinstein talks about what changes when ...",
+      "published_at": "2026-05-12T20:44:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D_FCYsshMI4/hqdefault.jpg"
+    },
+    {
+      "title": "Life before Codex, and after Codex - Endava",
+      "video_id": "2nV_jnbCqP4",
+      "channel_title": "OpenAI",
+      "description": "Codex has helped small teams of people deliver massive value in a very, very condensed timeframe.” Learn more: ...",
+      "published_at": "2026-05-11T14:29:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2nV_jnbCqP4/hqdefault.jpg"
+    },
+    {
+      "title": "What Codex Unlocks for Endava",
+      "video_id": "J886DPhhZLg",
+      "channel_title": "OpenAI",
+      "description": "Codex has helped small teams of people deliver massive value in a very, very condensed timeframe.” Joe Dunleavy and Mike ...",
+      "published_at": "2026-05-11T14:26:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J886DPhhZLg/hqdefault.jpg"
     },
     {
       "title": "We’re introducing three audio models in the API",
@@ -19,70 +83,6 @@
       "description": "We're introducing three audio models in the API that unlock a new class of voice apps for developers. With these models ...",
       "published_at": "2026-05-07T17:29:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JOu8v6CBjkE/hqdefault.jpg"
-    },
-    {
-      "title": "GPT-5.5 is a game changer for finance",
-      "video_id": "eoyHCYXoNMQ",
-      "channel_title": "OpenAI",
-      "description": "\"GPT 5.5 is an absolute game changer for our customers, specifically in finance, because the model is just amazing at multi-step ...",
-      "published_at": "2026-05-07T16:27:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eoyHCYXoNMQ/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing GPT-5.5 with Box",
-      "video_id": "9cenXVrQZNQ",
-      "channel_title": "OpenAI",
-      "description": "\"When I saw the GPT-5.5 evals come back, I literally did a double take.\" Yes, we're model magicians. It's exciting to see how Box is ...",
-      "published_at": "2026-05-07T16:22:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9cenXVrQZNQ/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing ChatGPT for Excel and Google Sheets",
-      "video_id": "sfkyiXvlYL0",
-      "channel_title": "OpenAI",
-      "description": "Ask ChatGPT to analyze, update, and explain your spreadsheets directly in Excel and Google Sheets. These add-ins are now ...",
-      "published_at": "2026-05-06T16:52:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sfkyiXvlYL0/hqdefault.jpg"
-    },
-    {
-      "title": "Why AI needs a new kind of supercomputer network — the OpenAI Podcast Ep. 18",
-      "video_id": "TiW96H5HmAw",
-      "channel_title": "OpenAI",
-      "description": "Training frontier models isn't as simple as adding more GPUs—one small problem and the whole coordinated dance falls apart.",
-      "published_at": "2026-05-06T11:30:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TiW96H5HmAw/hqdefault.jpg"
-    },
-    {
-      "title": "Prep for sales meetings faster with Codex",
-      "video_id": "y5hogSW2mqU",
-      "channel_title": "OpenAI",
-      "description": "See how Codex helps sellers get ready for customer meetings faster. Codex can bring context from Salesforce, Slack, Google ...",
-      "published_at": "2026-05-05T15:08:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y5hogSW2mqU/hqdefault.jpg"
-    },
-    {
-      "title": "What Codex Unlocks for Virgin Atlantic",
-      "video_id": "eHe2F10TlV4",
-      "channel_title": "OpenAI",
-      "description": "The trajectory of Codex is thinking beyond pure engineers, it's moving into a tool for everyone” Our friends at Virgin Atlantic, ...",
-      "published_at": "2026-04-30T18:24:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eHe2F10TlV4/hqdefault.jpg"
-    },
-    {
-      "title": "What Codex Unlocks for Virgin Atlantic",
-      "video_id": "TXEgpKxBDiw",
-      "channel_title": "OpenAI",
-      "description": "The trajectory of Codex is thinking beyond pure engineers, it's moving into a tool for everyone” Our friends at Virgin Atlantic ...",
-      "published_at": "2026-04-30T18:25:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TXEgpKxBDiw/hqdefault.jpg"
-    },
-    {
-      "title": "Build Hour: Workspace agents in ChatGPT",
-      "video_id": "kktBVmjA19A",
-      "channel_title": "OpenAI",
-      "description": "Build workspace agents in ChatGPT that can do work across your tools and help teams move faster. In this Build Hour, you'll learn ...",
-      "published_at": "2026-04-29T20:59:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kktBVmjA19A/hqdefault.jpg"
     }
   ]
 }

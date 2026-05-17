@@ -1,11 +1,27 @@
 {
-  "fetched_at": "2026-05-10T00:57:26.715916",
+  "fetched_at": "2026-05-17T00:58:12.959077",
   "channel_id": "UCqdwM6M5SPmuX779w-6iQTA",
   "channel_title": "Joma Clips",
   "count": 10,
   "videos": [
     {
-      "title": "day traders be like...",
+      "title": "the kid who dropped out of high school to build a &quot;startup&quot;",
+      "video_id": "v32CI3wlyhM",
+      "channel_title": "Joma Clips",
+      "description": "Full video on @JomaTech https://youtu.be/oCqkVZVPOe8?si=sobw-qUeCpYps0d8.",
+      "published_at": "2026-05-13T06:34:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v32CI3wlyhM/hqdefault.jpg"
+    },
+    {
+      "title": "how startup founders think they look like",
+      "video_id": "Bv_vAsMMTIY",
+      "channel_title": "Joma Clips",
+      "description": "Full video on @JomaTech https://youtu.be/YRddOEtlnEk?si=Bdrp6r-4pYzydqq3.",
+      "published_at": "2026-05-12T00:14:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Bv_vAsMMTIY/hqdefault.jpg"
+    },
+    {
+      "title": "technical day traders be like...",
       "video_id": "mT1Z8cBsHCw",
       "channel_title": "Joma Clips",
       "description": "Full video on @JomaTech https://youtu.be/oCqkVZVPOe8?si=sobw-qUeCpYps0d8.",
@@ -67,22 +83,6 @@
       "description": "Full video on @JomaTech.",
       "published_at": "2022-10-10T14:36:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qDEOEDevM-w/hqdefault.jpg"
-    },
-    {
-      "title": "If Programming was an Anime",
-      "video_id": "-yWiHsGdFKQ",
-      "channel_title": "Joma Clips",
-      "description": "Full video on @JomaTech.",
-      "published_at": "2022-10-09T15:31:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-yWiHsGdFKQ/hqdefault.jpg"
-    },
-    {
-      "title": "how to make $1M a year in your 20s",
-      "video_id": "4steq_HW8uY",
-      "channel_title": "Joma Clips",
-      "description": "Full video on @JomaTech.",
-      "published_at": "2022-08-05T15:39:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4steq_HW8uY/hqdefault.jpg"
     }
   ]
 }

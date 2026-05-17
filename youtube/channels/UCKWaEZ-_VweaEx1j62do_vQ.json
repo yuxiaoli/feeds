@@ -1,48 +1,48 @@
 {
-  "fetched_at": "2026-05-10T00:56:54.397520",
+  "fetched_at": "2026-05-17T00:57:41.220509",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Live from Think 2026: AI operating model, VC funding &amp; CAIO evolution",
-      "video_id": "YHKXflgkHak",
+      "title": "AI skills security, Open AI Deployment Company &amp; zero days",
+      "video_id": "YCWwh70FZtQ",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content →https://ibm.biz/~IdwiPiazO We are live from IBM Think 2026!",
-      "published_at": "2026-05-08T10:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YHKXflgkHak/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~LKPrxFIbD Is the AI cybersecurity nightmare closer ...",
+      "published_at": "2026-05-15T10:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YCWwh70FZtQ/hqdefault.jpg"
     },
     {
-      "title": "The Rise of Crypto Agility: How to Secure Systems for the Quantum Era",
-      "video_id": "ZrHKwxasXS4",
+      "title": "Why Agentic AI Fails: Infinite Loops, Planning Errors, and More",
+      "video_id": "D37Ijn2o5U0",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Cryptography here → https://ibm.biz/~2g5ndKJ5U Change is the only constant—and that includes our ...",
-      "published_at": "2026-05-07T11:00:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZrHKwxasXS4/hqdefault.jpg"
+      "description": "Learn about Agentic AI here → https://ibm.biz/~7tIAS4ONO Agentic AI failures aren't random—they happen for clear, predictable ...",
+      "published_at": "2026-05-14T11:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D37Ijn2o5U0/hqdefault.jpg"
     },
     {
-      "title": "Claude Security’s public beta, OpenAI’s five-point plan and cybersecurity’s Y2K moment",
-      "video_id": "EJg67cLfLYo",
+      "title": "LLMjacking: How hackers steal your AI API keys and stick you with the bill",
+      "video_id": "oRZK7fcBQIg",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast : https://ibm.biz/~KL5L5UErI Between Mythos, GPT-5.4-Cyber, Claude Security's public beta and OpenAI's ...",
-      "published_at": "2026-05-06T10:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EJg67cLfLYo/hqdefault.jpg"
+      "description": "Explore the podcast → https://ibm.biz/~sW0ssm7Tk AI tools can turn a team of three developers into a fully functioning company.",
+      "published_at": "2026-05-13T10:01:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oRZK7fcBQIg/hqdefault.jpg"
     },
     {
-      "title": "RAG&#39;s Evolution: From Simple Retrieval to Agentic AI",
-      "video_id": "JB2P5Gk23VI",
+      "title": "Why AI Agents Need an Operating System",
+      "video_id": "IVGjBxqygmI",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-05-05T11:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JB2P5Gk23VI/hqdefault.jpg"
+      "description": "Learn more about AI Agents here → https://ibm.biz/Bdpm3b Right now, an AI agent is booking flights, writing code, and has no ...",
+      "published_at": "2026-05-12T11:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IVGjBxqygmI/hqdefault.jpg"
     },
     {
-      "title": "CLI vs MCP: How AI Agents Choose the Right Tool for the Job",
-      "video_id": "g9JIUM0MHgQ",
+      "title": "Predictive vs Generative AI: How They Work and When to Use Each",
+      "video_id": "phOhGqpXss4",
       "channel_title": "IBM Technology",
-      "description": "Learn more about MCP here → https://ibm.biz/~92j1qki7Y Both CLI and MCP are ways for AI agents to interact with the world.",
-      "published_at": "2026-05-04T11:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g9JIUM0MHgQ/hqdefault.jpg"
+      "description": "Learn more about Predictive AI vs Generative AI here → https://ibm.biz/BdpPNf Predictive AI asks what will happen, while ...",
+      "published_at": "2026-05-11T11:01:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/phOhGqpXss4/hqdefault.jpg"
     },
     {
       "title": "RSA recap, the LiteLLM breach, and the quest to fix AI agent security",

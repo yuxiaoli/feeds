@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-05-10T00:57:14.141719",
+  "fetched_at": "2026-05-17T00:58:00.494113",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Generic Prompts = Generic AI Answers",
+      "video_id": "8jXyAmfB6Xo",
+      "channel_title": "DeepLearningAI",
+      "description": "AI gives generic answers when your prompts are generic. The fastest way to get more interesting outputs? Give it more specific, ...",
+      "published_at": "2026-05-15T21:03:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8jXyAmfB6Xo/hqdefault.jpg"
+    },
+    {
+      "title": "Data is hungry for context",
+      "video_id": "4R5mFLujbi8",
+      "channel_title": "DeepLearningAI",
+      "description": "Data is hungry for context. A transcript tells you what was said. Audio can tell you how it was said. Images contain text, diagrams, ...",
+      "published_at": "2026-05-14T17:26:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4R5mFLujbi8/hqdefault.jpg"
+    },
+    {
+      "title": "Why AI keeps lying to you",
+      "video_id": "FlZyO4HvQJc",
+      "channel_title": "DeepLearningAI",
+      "description": "Your AI assistant shouldn't just tell you what you want to hear. In AI Prompting for Everyone, Andrew Ng explains why models can ...",
+      "published_at": "2026-05-13T18:31:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FlZyO4HvQJc/hqdefault.jpg"
+    },
+    {
+      "title": "Inside AI Dev 26 × San Francisco",
+      "video_id": "20qpc5m5Pko",
+      "channel_title": "DeepLearningAI",
+      "description": "More than 3000 AI developers, engineers, founders, and researchers came together at AI Dev 26 × San Francisco for two days of ...",
+      "published_at": "2026-05-12T19:45:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/20qpc5m5Pko/hqdefault.jpg"
+    },
+    {
+      "title": "The Ultimate Transformer Course for Working Engineers",
+      "video_id": "4R4xhb_Q0-A",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn more: https://bit.ly/4tts8MQ Large language models can feel opaque, especially when you're dealing with slow inference, ...",
+      "published_at": "2026-05-12T14:25:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4R4xhb_Q0-A/hqdefault.jpg"
+    },
     {
       "title": "Vibe coding works… until your agent confidently builds the wrong thing",
       "video_id": "DygEd_WvUxU",
@@ -43,46 +83,6 @@
       "description": "Learn more: https://bit.ly/3QcAj29 Images, audio, and video now make up a large share of the data teams work with, but most ...",
       "published_at": "2026-04-22T14:33:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XteKUbuvNrI/hqdefault.jpg"
-    },
-    {
-      "title": "Coming Soon: Build Interactive Agents with Generative UI",
-      "video_id": "jMQtHvb8aPA",
-      "channel_title": "DeepLearningAI",
-      "description": "In this course, built in collaboration with CopilotKit and coming soon to the DeepLearning.AI catalog, you'll build across the full ...",
-      "published_at": "2026-04-21T17:41:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jMQtHvb8aPA/hqdefault.jpg"
-    },
-    {
-      "title": "New course! Spec-Driven Development",
-      "video_id": "bJ8F43j1Fqw",
-      "channel_title": "DeepLearningAI",
-      "description": "Enroll for free: https://bit.ly/4toWsIY Learn spec-driven development in this short course built in partnership with JetBrains, taught ...",
-      "published_at": "2026-04-15T14:35:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bJ8F43j1Fqw/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 26 x San Francisco is almost here",
-      "video_id": "sTMBV5I33mY",
-      "channel_title": "DeepLearningAI",
-      "description": "3000+ developers. Two days. AI Dev 26 x San Francisco is where the people building AI come together to discuss and shape the ...",
-      "published_at": "2026-04-10T18:08:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sTMBV5I33mY/hqdefault.jpg"
-    },
-    {
-      "title": "Boost LLM performance: New SGLang course is live 🚀",
-      "video_id": "YW6oWf4xoGk",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4du2u69 Introducing Efficient Inference with SGLang: Text and Image Generation, built in partnership ...",
-      "published_at": "2026-04-08T14:22:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YW6oWf4xoGk/hqdefault.jpg"
-    },
-    {
-      "title": "TensorFlow Developer Professional Certificate",
-      "video_id": "lzKmZzmy29Y",
-      "channel_title": "DeepLearningAI",
-      "description": "Get started now: https://learn.deeplearning.ai/specializations/tensorflow-developer-professional-certificate The TensorFlow ...",
-      "published_at": "2026-03-23T22:01:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lzKmZzmy29Y/hqdefault.jpg"
     }
   ]
 }

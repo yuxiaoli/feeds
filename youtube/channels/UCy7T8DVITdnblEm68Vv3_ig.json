@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2026-05-10T00:57:30.472431",
+  "fetched_at": "2026-05-17T00:58:16.629501",
   "channel_id": "UCy7T8DVITdnblEm68Vv3_ig",
   "channel_title": "UNlimited",
   "count": 10,
   "videos": [
     {
-      "title": "💐 Happy Mother’s Day Wishes",
-      "video_id": "ZKw8rS5AJS0",
+      "title": "Amalfi Coast: Italy’s Coastal Paradise",
+      "video_id": "6LfvX_cR7K0",
       "channel_title": "UNlimited",
-      "description": "Celebrate Mother's Day by honoring the most special woman in your life with this Mother's Day wishes video, acknowledging her ...",
-      "published_at": "2026-05-09T05:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZKw8rS5AJS0/hqdefault.jpg"
+      "description": "The Amalfi Coast, a UNESCO World Heritage site in Southern Italy, is a stunning 50-kilometer stretch of coastline known for its ...",
+      "published_at": "2026-05-15T03:30:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6LfvX_cR7K0/hqdefault.jpg"
+    },
+    {
+      "title": "Lake Como: Italy’s Most Stunning Destination",
+      "video_id": "Hw8Saw0RdtQ",
+      "channel_title": "UNlimited",
+      "description": "Lake Como (Lago di Como), located in Lombardy, Northern Italy near the Swiss border, is widely considered one of Italy's most ...",
+      "published_at": "2026-05-14T03:30:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Hw8Saw0RdtQ/hqdefault.jpg"
     },
     {
       "title": "🇾🇪 Socotra - Most Unique Island",
@@ -75,14 +83,6 @@
       "description": "Giethoorn, known as the \"Venice of the North,\" is a serene village in Overijssel, Netherlands, famous for having no roads in its ...",
       "published_at": "2026-04-22T03:00:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/U_uaN8mgKQ4/hqdefault.jpg"
-    },
-    {
-      "title": "🌷Tulip Season in the Netherlands",
-      "video_id": "2bcYuvxB0CU",
-      "channel_title": "UNlimited",
-      "description": "The Netherlands' tulip season typically runs from mid-March to early May, with peak blooming usually occurring around mid-April ...",
-      "published_at": "2026-04-21T03:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2bcYuvxB0CU/hqdefault.jpg"
     }
   ]
 }

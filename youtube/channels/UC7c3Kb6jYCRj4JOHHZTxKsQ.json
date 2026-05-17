@@ -1,16 +1,64 @@
 {
-  "fetched_at": "2026-05-10T00:56:37.283354",
+  "fetched_at": "2026-05-17T00:57:23.960653",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 8,
+  "count": 10,
   "videos": [
     {
-      "title": "Open Source Friday with Spec-Kit",
-      "video_id": "2IArMAhkJcE",
+      "title": "A tiny React alternative built with AI",
+      "video_id": "dlSfOx8pUpk",
       "channel_title": "GitHub",
-      "description": "This week on Open Source Friday, we're joined by Principal Software Engineer Manfred Riem to explore Spec Kit and talk about ...",
-      "published_at": "2026-05-09T06:21:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2IArMAhkJcE/hqdefault.jpg"
+      "description": "Tanner Linsley recently shared an experiment called Redact, a custom, AI-shaped projection of React tailored to his specific ...",
+      "published_at": "2026-05-16T15:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dlSfOx8pUpk/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday: Mozilla AI | Project cq",
+      "video_id": "1fdWVSi3gEs",
+      "channel_title": "GitHub",
+      "description": "Join us on Open Source Friday this week with Peter Wilson at Mozilla AI. We'll talk about Project cq - an open standard for shared ...",
+      "published_at": "2026-05-16T06:33:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1fdWVSi3gEs/hqdefault.jpg"
+    },
+    {
+      "title": "The Download: Microsoft Build, GitHub mobile, open source keyboards &amp; more",
+      "video_id": "kBWrbvJoto4",
+      "channel_title": "GitHub",
+      "description": "Welcome back to The Download! This week, Cassidy covers the upcoming Microsoft Build 2026 event in San Francisco and an ...",
+      "published_at": "2026-05-15T16:38:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kBWrbvJoto4/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays!",
+      "video_id": "vdk-EHE8XHY",
+      "channel_title": "GitHub",
+      "description": "Come chat about open source, GitHub Copilot, news, coworking, and more!",
+      "published_at": "2026-05-15T07:36:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vdk-EHE8XHY/hqdefault.jpg"
+    },
+    {
+      "title": "Jueves de Quack con Bruno Capuano",
+      "video_id": "2LyneEhk_8w",
+      "channel_title": "GitHub",
+      "description": "Jueves de Quack en modo coworking. Trabajaremos con el SDK de Copilot, Foundry y el Microsoft Agent Framework.",
+      "published_at": "2026-05-15T03:56:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2LyneEhk_8w/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays",
+      "video_id": "iI5s3jx2-RM",
+      "channel_title": "GitHub",
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2026-05-15T00:12:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iI5s3jx2-RM/hqdefault.jpg"
+    },
+    {
+      "title": "Getting started with open source contributions for beginners",
+      "video_id": "WldXhauP024",
+      "channel_title": "GitHub",
+      "description": "Welcome to another episode of GitHub for Beginners! Today, we are diving into the world of open source software (OSS) and how ...",
+      "published_at": "2026-05-11T15:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WldXhauP024/hqdefault.jpg"
     },
     {
       "title": "Getting More from Every Copilot Interaction",
@@ -21,44 +69,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ITxzBiTBZW0/hqdefault_live.jpg"
     },
     {
-      "title": "How the American Council of the Blind uses GitHub Copilot",
-      "video_id": "ZlOwMiNWatQ",
+      "title": "Age assurance laws and open source: what maintainers need to know",
+      "video_id": "1yXuKjwIYEM",
       "channel_title": "GitHub",
-      "description": "Michael Babcock from the American Council of the Blind isn't a developer, but he needed a way to automate hours of weekly ...",
-      "published_at": "2026-05-08T15:01:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZlOwMiNWatQ/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays!",
-      "video_id": "M7XrPNtxbvw",
-      "channel_title": "GitHub",
-      "description": "Come hang with us!",
-      "published_at": "2026-05-08T07:35:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M7XrPNtxbvw/hqdefault.jpg"
-    },
-    {
-      "title": "Jueves de Quack con Lesly Zerna, desarrolladora de currículo en DeepLearning.AI",
-      "video_id": "FXu1WpzSsIU",
-      "channel_title": "GitHub",
-      "description": "Spec-Driven Development: el SPEC.md como cerebro de tus agentes Invitada: Lesly Zerna, desarrolladora de currículo en ...",
-      "published_at": "2026-05-08T05:05:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FXu1WpzSsIU/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays: Building an AI agent app",
-      "video_id": "zG6PJHVaUxs",
-      "channel_title": "GitHub",
-      "description": "In this stream we'll walk through build an agent for a fictional company that we can deploy to production.",
-      "published_at": "2026-05-07T23:11:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zG6PJHVaUxs/hqdefault.jpg"
-    },
-    {
-      "title": "Jueves de Quack con Cristian Córdova",
-      "video_id": "BphnIxeWaJ4",
-      "channel_title": "GitHub",
-      "description": "Este Jueves de Quack! Nos sentamos con Cristian Córdova, creador de NaN, un proyecto que está moviendo la aguja para ...",
-      "published_at": "2026-05-07T16:57:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BphnIxeWaJ4/hqdefault_live.jpg"
+      "description": "Age assurance laws are reaching down to operating systems and app stores. Anne Dickison (FreeBSD Foundation), Katie ...",
+      "published_at": "2026-04-30T16:36:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1yXuKjwIYEM/hqdefault_live.jpg"
     },
     {
       "title": "What Maintainers need to know about Open Source Licensing, SBOMs and Security",

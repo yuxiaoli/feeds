@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-05-10T00:56:55.871659",
+  "fetched_at": "2026-05-17T00:57:42.654908",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 6,
+  "count": 5,
   "videos": [
+    {
+      "title": "NASA&#39;s SpaceX 34th Commercial Resupply Services Launch",
+      "video_id": "9J8pbaLkRuE",
+      "channel_title": "NASA",
+      "description": "Watch as the 34th SpaceX commercial resupply mission launches to the International Space Station. About 6500 pounds of cargo ...",
+      "published_at": "2026-05-15T22:33:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9J8pbaLkRuE/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX 34th Commercial Resupply Services Launch (May 13, 2026 Attempt)",
+      "video_id": "dF-GsJmqJA8",
+      "channel_title": "NASA",
+      "description": "UPDATE: The May 13 launch attempt for CRS-34 was scrubbed due to weather: ...",
+      "published_at": "2026-05-13T22:54:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dF-GsJmqJA8/hqdefault.jpg"
+    },
+    {
+      "title": "Get Unready With NASA&#39;s Artemis II Astronauts",
+      "video_id": "1esKYOWFBPY",
+      "channel_title": "NASA",
+      "description": "When the Artemis II crew is “go” for slumber, a solid bedtime routine is essential. Their pre-sleep checklist helps ensure everything ...",
+      "published_at": "2026-05-13T19:03:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1esKYOWFBPY/hqdefault.jpg"
+    },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
       "video_id": "FuuC4dpSQ1M",
@@ -13,44 +37,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FuuC4dpSQ1M/hqdefault_live.jpg"
     },
     {
-      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
-      "video_id": "MuHIx2q0Wjs",
-      "channel_title": "NASA",
-      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
-      "published_at": "2026-05-07T05:10:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MuHIx2q0Wjs/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX 34th Commercial Resupply Services Launch",
-      "video_id": "dF-GsJmqJA8",
-      "channel_title": "NASA",
-      "description": "Watch as the 34th SpaceX commercial resupply mission launches to the International Space Station. About 6500 pounds of cargo ...",
-      "published_at": "2026-05-06T17:32:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dF-GsJmqJA8/hqdefault_live.jpg"
-    },
-    {
-      "title": "NASA YouTube (Official Channel Trailer)",
-      "video_id": "Rfyr7-dQnAg",
-      "channel_title": "NASA",
-      "description": "Subscribe to NASA's official YouTube channel for front-row access to spacewalks, rocket launches, groundbreaking technology, ...",
-      "published_at": "2026-05-06T15:07:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Rfyr7-dQnAg/hqdefault.jpg"
-    },
-    {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
       "video_id": "uwXgcTc8oY8",
       "channel_title": "NASA",
       "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
       "published_at": "2026-05-06T14:46:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/uwXgcTc8oY8/hqdefault_live.jpg"
-    },
-    {
-      "title": "Six Years of NASA&#39;s Mars Curiosity Rover",
-      "video_id": "l6PAhdKxa2c",
-      "channel_title": "NASA",
-      "description": "This time-lapse video tracks images taken by NASA's Curiosity Mars Rover between 2020 and 2026. These photos were used by ...",
-      "published_at": "2026-04-30T14:46:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l6PAhdKxa2c/hqdefault.jpg"
     }
   ]
 }

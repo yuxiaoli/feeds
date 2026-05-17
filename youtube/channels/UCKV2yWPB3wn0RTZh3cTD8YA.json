@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2026-05-10T00:56:53.637619",
+  "fetched_at": "2026-05-17T00:57:40.474062",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "揭秘数采工厂：稀缺的机器人数据，到底难在哪儿？｜机器人特辑",
+      "video_id": "ZvHIuIIZ3Is",
+      "channel_title": "硅谷101",
+      "description": "当AI大模型靠“吃遍互联网”完成进化，机器人却还困在现实世界的数据荒漠里。对具身智能来说，真正稀缺的是数据。每一个抓取、 ...",
+      "published_at": "2026-05-15T00:45:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZvHIuIIZ3Is/hqdefault.jpg"
+    },
+    {
+      "title": "Cerebras IPO：从“硅谷疯子”到英伟达挑战者",
+      "video_id": "jgqruNFUBUI",
+      "channel_title": "硅谷101",
+      "description": "当所有AI芯片公司都在拼命把芯片做小，有一家公司却造出了比人脸还大的芯片，直接把整片晶圆当芯片用，一度被认为是“硅谷最 ...",
+      "published_at": "2026-05-14T10:10:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jgqruNFUBUI/hqdefault.jpg"
+    },
+    {
+      "title": "Token经济学：AI时代的新货币战争",
+      "video_id": "ppRvzPXGpEw",
+      "channel_title": "硅谷101",
+      "description": "AI的竞争已经从“拼模型”卷到了“拼消耗”，员工们正疯狂比拼每天能烧掉多少token，而硅谷大佬们也在为AI账单暴涨而焦虑。当agent ...",
+      "published_at": "2026-05-13T03:54:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ppRvzPXGpEw/hqdefault.jpg"
+    },
+    {
+      "title": "“AI弃子”CPU逆风翻盘：英特尔、AMD与ARM意料之外的一场胜利",
+      "video_id": "HLJdElh2tFc",
+      "channel_title": "硅谷101",
+      "description": "继GPU、存储之后，AI算力的焦虑正式蔓延至CPU领域。从2025年底起，服务器CPU价格飙升近30%，交期甚至拉长到半年，曾经 ...",
+      "published_at": "2026-05-11T03:46:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HLJdElh2tFc/hqdefault.jpg"
+    },
+    {
+      "title": "被OpenAI开除后，24岁天才创立了55亿美金基金",
+      "video_id": "0uksJMPtfK8",
+      "channel_title": "硅谷101",
+      "description": "一个24岁的年轻人，因泄露信息被OpenAI开除后，写了165页预言AGI的长文，直接募到15亿美金，2025年上半年回报率高达47%。",
+      "published_at": "2026-05-11T01:06:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0uksJMPtfK8/hqdefault.jpg"
+    },
+    {
+      "title": "诺基亚重生：AI时代的“旧势力”回归",
+      "video_id": "4u60QpJ8_rc",
+      "channel_title": "硅谷101",
+      "description": "很多人以为诺基亚早就“死了”，但事实上，在卖掉手机业务后，它悄悄转型成了一家AI基础设施公司：做光通信、做数据中心网络、 ...",
+      "published_at": "2026-05-10T04:02:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4u60QpJ8_rc/hqdefault.jpg"
+    },
     {
       "title": "中国机器人的全球化野心、“踢馆”硅谷，及Physical AI的爆发准备：对话魔法原子",
       "video_id": "oU_V5GlHq7I",
@@ -35,54 +83,6 @@
       "description": "金库里面长啥样？本期视频，我们将带大家一起进入位于新加坡的全球最大私人金库The Reserve，里面存放着15亿美元的黄金和 ...",
       "published_at": "2026-04-23T23:00:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7D_8zimKtB4/hqdefault.jpg"
-    },
-    {
-      "title": "打破人类记录，机器人马拉松为什么不止是噱头？",
-      "video_id": "Ab3KsigWtxw",
-      "channel_title": "硅谷101",
-      "description": "摔倒、迷路、瘸腿，今年人形机器人在半程马拉松赛场上贡献的名场面属实不少。但最快耗时从去年的2小时40分大幅提升到50分26 ...",
-      "published_at": "2026-04-21T12:35:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ab3KsigWtxw/hqdefault.jpg"
-    },
-    {
-      "title": "智能体社交革命：AI Agent是怎么来到你我身边的？",
-      "video_id": "JGiguIv6m8s",
-      "channel_title": "硅谷101",
-      "description": "OpenClaw小龙虾的热度最近有点降温了，但它的意义在于：很多人第一次意识到AI是能够持续运行、甚至“替人社交”的存在。这也让 ...",
-      "published_at": "2026-04-20T00:04:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JGiguIv6m8s/hqdefault.jpg"
-    },
-    {
-      "title": "“杭州六小龙”首个IPO、空间智能与AI的下一步：对话群核科技创始人黄晓煌",
-      "video_id": "8pncy425QqQ",
-      "channel_title": "硅谷101",
-      "description": "2026年，AI的新风向已经指向了“世界模型”。而在这其中，“空间智能”被顶尖研究者们视为通向AGI真正的“关键拼图”。本期视频我们 ...",
-      "published_at": "2026-04-17T03:57:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8pncy425QqQ/hqdefault.jpg"
-    },
-    {
-      "title": "“小龙虾”过气？ “爱马仕”来了：开源智能体进入自进化",
-      "video_id": "RP5XRfT71D4",
-      "channel_title": "硅谷101",
-      "description": "最近，一款名叫Hermes的开源智能体火了。上线仅一个月，GitHub星标突破8万，增速是OpenClaw的三倍。它号称能自动总结 ...",
-      "published_at": "2026-04-16T10:48:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RP5XRfT71D4/hqdefault.jpg"
-    },
-    {
-      "title": "中东局势或致全球大滞胀？专访新加坡金库创始人",
-      "video_id": "0h3P7Ojn-3o",
-      "channel_title": "硅谷101",
-      "description": "美伊谈判局势分析：美伊谈判无果，特朗普下令“封锁”霍尔木兹海峡。中东局势影响的不止石油：中东生产全球三分之一的化肥， ...",
-      "published_at": "2026-04-14T07:11:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0h3P7Ojn-3o/hqdefault.jpg"
-    },
-    {
-      "title": "存储芯片“超级周期”还能持续多久？",
-      "video_id": "eoBhOpqIweQ",
-      "channel_title": "硅谷101",
-      "description": "全球存储芯片，正在经历四十年来最严重的供需失衡。2026年已全部售罄，2027年大概率也卖光。更值得关注的是，AI正在把存储从 ...",
-      "published_at": "2026-04-12T00:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eoBhOpqIweQ/hqdefault.jpg"
     }
   ]
 }

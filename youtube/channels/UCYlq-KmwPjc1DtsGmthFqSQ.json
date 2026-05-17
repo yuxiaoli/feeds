@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-10T00:57:10.356921",
+  "fetched_at": "2026-05-17T00:57:56.790127",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "F.03 Livestream - Day 4",
+      "video_id": "luU57hMhkak",
+      "channel_title": "Figure",
+      "description": "Watch a team of humanoid robots running a full 8-hr shift at human performance levels. This is fully autonomous running Helix-02.",
+      "published_at": "2026-05-13T16:44:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/luU57hMhkak/hqdefault_live.jpg"
+    },
     {
       "title": "Helix 02 Bedroom Tidy",
       "video_id": "8xEuFQz4E4A",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-08-12T15:30:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HOoRnv3lA0k/hqdefault.jpg"
-    },
-    {
-      "title": "F.03 Battery Development",
-      "video_id": "Ts-TtxvfVq4",
-      "channel_title": "Figure",
-      "description": "We are presenting the Figure 03 (F.03) battery — a significant advancement in our core humanoid robot technology roadmap.",
-      "published_at": "2025-07-17T15:41:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ts-TtxvfVq4/hqdefault.jpg"
     }
   ]
 }

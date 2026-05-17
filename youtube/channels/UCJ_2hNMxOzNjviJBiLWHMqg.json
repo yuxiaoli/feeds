@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-10T00:56:49.844595",
+  "fetched_at": "2026-05-17T00:57:36.808340",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Could a planet-wide city actually be livable?",
+      "video_id": "GMpSRzUEeUs",
+      "channel_title": "DamiLee",
+      "description": "In the 1960s, rapid population growth pushed architects to imagine cities on an unprecedented scale. One radical idea was ...",
+      "published_at": "2026-05-12T15:30:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GMpSRzUEeUs/hqdefault.jpg"
+    },
     {
       "title": "Ecumenopolis",
       "video_id": "FvntMqGFsQs",
@@ -75,14 +83,6 @@
       "description": "A compliance analyst living in the mid-levels of Coruscant shares a glimpse into daily life - airspeeder traffic, holographic ...",
       "published_at": "2026-04-06T15:40:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/719Go8AYrU0/hqdefault.jpg"
-    },
-    {
-      "title": "Architecture of Darkness",
-      "video_id": "tHNeu_DIOac",
-      "channel_title": "DamiLee",
-      "description": "Moria's colonnades repeat like a hypnotic rhythm, pulling deeper into the mountain where the rock is the structure. Unlike Art Deco ...",
-      "published_at": "2026-03-30T22:31:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tHNeu_DIOac/hqdefault.jpg"
     }
   ]
 }
