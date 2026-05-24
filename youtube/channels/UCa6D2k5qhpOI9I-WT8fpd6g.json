@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-17T00:57:58.238402",
+  "fetched_at": "2026-05-24T01:00:02.179908",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "Git+Github核心概念大串讲，从零到一全攻略，详细实战教程",
+      "video_id": "bWUUHBVg-7E",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 本期视频带来一个Git 与GitHub 核心概念大串讲，我会使用动画讲解结合 ...",
+      "published_at": "2026-05-18T12:03:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bWUUHBVg-7E/hqdefault.jpg"
+    },
     {
       "title": "Codex (APP) 保姆级全攻略，海量实战教程， 一期精通Codex",
       "video_id": "4gciWspBVHw",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 #人工智能#ai #大模型#华为云#科技#计算机市面上有很多大模型API ...",
       "published_at": "2026-02-09T03:36:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qavZbGbRy2A/hqdefault.jpg"
-    },
-    {
-      "title": "OpenClaw(Clawdbot) 海量全玩法攻略，本地部署，国内网络使用方法",
-      "video_id": "657wlbtrzG8",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 引言01:47 本地部署04:08 基础玩法06:57 国产友好09:15 Skills ...",
-      "published_at": "2026-01-31T16:06:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/657wlbtrzG8/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-05-17T00:57:58.998238",
+  "fetched_at": "2026-05-24T01:00:02.944009",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "Dips ?",
+      "video_id": "8Fvo8Aj0LvE",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-05-23T12:18:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8Fvo8Aj0LvE/hqdefault.jpg"
+    },
+    {
+      "title": "التمرين اللي مستحيل في احد ما يحبه",
+      "video_id": "I5F08ztq4XY",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-05-21T12:26:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I5F08ztq4XY/hqdefault.jpg"
+    },
+    {
+      "title": "جربت تمرين مسويه ذكاء اصطناعي",
+      "video_id": "acs4EXbI5no",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-05-20T10:43:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/acs4EXbI5no/hqdefault.jpg"
+    },
+    {
+      "title": "ايش بتختار",
+      "video_id": "APUemR2moIQ",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-05-18T12:59:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/APUemR2moIQ/hqdefault.jpg"
+    },
     {
       "title": "قوة أو شكل",
       "video_id": "UP73GVVvhUk",
@@ -51,38 +83,6 @@
       "description": "",
       "published_at": "2026-04-09T12:41:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JEpQzp8zuqk/hqdefault.jpg"
-    },
-    {
-      "title": "ما بتعرف قيمة الكالسثنكس الا اذا جربتها",
-      "video_id": "nS10qXwpzSM",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-04-06T10:48:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nS10qXwpzSM/hqdefault.jpg"
-    },
-    {
-      "title": "اصعب هاندستاند بوش اب",
-      "video_id": "vBrrDX6Kjkc",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-04-04T10:46:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vBrrDX6Kjkc/hqdefault.jpg"
-    },
-    {
-      "title": "أقوى توازن",
-      "video_id": "v4DU5v5v3uY",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-04-02T09:54:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v4DU5v5v3uY/hqdefault.jpg"
-    },
-    {
-      "title": "ڤلوق كالسثنكس و صيد Vlog",
-      "video_id": "rK8C6CZdn98",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-03-30T18:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rK8C6CZdn98/hqdefault.jpg"
     }
   ]
 }

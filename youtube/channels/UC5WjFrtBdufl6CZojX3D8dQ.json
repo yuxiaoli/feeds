@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-17T00:57:22.498995",
+  "fetched_at": "2026-05-24T00:59:52.891086",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Model S &amp; X Signature Delivery Event",
+      "video_id": "tj7Sd7fs6JQ",
+      "channel_title": "Tesla",
+      "description": "Model S & X changed automotive history forever by proving that an EV could be the best car possible – of any kind. Today we ...",
+      "published_at": "2026-05-21T05:25:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tj7Sd7fs6JQ/hqdefault.jpg"
+    },
     {
       "title": "Tesla Q1 2026 Financial Results and Q&amp;A Webcast",
       "video_id": "qO7T5zgRvXM",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-02-06T19:50:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wqATgTmPA8M/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Tesla Solar Panels",
-      "video_id": "9V_4QOpmmZQ",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-02-04T21:23:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9V_4QOpmmZQ/hqdefault.jpg"
     }
   ]
 }

@@ -1,72 +1,64 @@
 {
-  "fetched_at": "2026-05-17T00:57:21.768186",
+  "fetched_at": "2026-05-24T00:59:52.130793",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 8,
+  "count": 7,
   "videos": [
     {
-      "title": "Mid level AI engineers are making up to $220,000 a year and demand is only growing 🔥",
-      "video_id": "SCYJxkZMREI",
+      "title": "How I would learn Python programming FAST (If I could start over)",
+      "video_id": "S5tOMUCvPFA",
       "channel_title": "Tech With Tim",
-      "description": "",
-      "published_at": "2026-05-16T15:45:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SCYJxkZMREI/hqdefault.jpg"
+      "description": "The best beginner-friendly Python resources I recommend: Python Programming Fundamentals Track (Datacamp) ...",
+      "published_at": "2026-05-23T13:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S5tOMUCvPFA/hqdefault.jpg"
     },
     {
-      "title": "monday.com&#39;s AI Agents Are Actually Insane",
-      "video_id": "8HeFtpdWYp8",
+      "title": "Stop learning everything at once and go deep in one area first 🎯",
+      "video_id": "3Ci-QK46pzg",
       "channel_title": "Tech With Tim",
-      "description": "monday.com just dropped AI Agents that handle sprint planning, bug triage, standup summaries, and competitive research — all ...",
-      "published_at": "2026-05-16T12:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8HeFtpdWYp8/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-05-22T14:45:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3Ci-QK46pzg/hqdefault.jpg"
+    },
+    {
+      "title": "I Built the Same App With Claude Code and Codex",
+      "video_id": "E2UgYp2vh5U",
+      "channel_title": "Tech With Tim",
+      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
+      "published_at": "2026-05-22T13:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E2UgYp2vh5U/hqdefault.jpg"
+    },
+    {
+      "title": "You should be spending 80% of your time building and 20% watching tutorials 🚀",
+      "video_id": "9ufZJSsJ7vo",
+      "channel_title": "Tech With Tim",
+      "description": "",
+      "published_at": "2026-05-21T21:30:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9ufZJSsJ7vo/hqdefault.jpg"
+    },
+    {
+      "title": "The Complete Guide to AI Agents in 2026 (And How to Actually Use Them)",
+      "video_id": "LNkAW4SSgdY",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with @GensparkProduct and get unlimited access to AI usage: https://bit.ly/4tBYC7v New registered users can get free ...",
+      "published_at": "2026-05-21T13:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LNkAW4SSgdY/hqdefault.jpg"
     },
     {
       "title": "Every great AI engineer is a software engineer first 💻",
-      "video_id": "xZ3iMmoLoac",
+      "video_id": "9_Pu40iSas0",
       "channel_title": "Tech With Tim",
       "description": "",
-      "published_at": "2026-05-15T18:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xZ3iMmoLoac/hqdefault.jpg"
+      "published_at": "2026-05-20T23:32:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9_Pu40iSas0/hqdefault.jpg"
     },
     {
-      "title": "AI Web Scraping Is Insanely Good | Browserbase Full Tutorial",
-      "video_id": "XTQTJoSfeMg",
+      "title": "Devin AI Is the Future of Coding… Full Tutorial",
+      "video_id": "GFlFABWeqDc",
       "channel_title": "Tech With Tim",
-      "description": "Create a free account and get started with Browserbase: https://browserbase.run/twt1 If you've ever tried to connect an AI agent to ...",
-      "published_at": "2026-05-15T15:19:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XTQTJoSfeMg/hqdefault.jpg"
-    },
-    {
-      "title": "This is how Codex turns raw data into a full CEO presentation in minutes 🤯",
-      "video_id": "QWMFMravvws",
-      "channel_title": "Tech With Tim",
-      "description": "",
-      "published_at": "2026-05-14T15:30:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QWMFMravvws/hqdefault.jpg"
-    },
-    {
-      "title": "Claude Tutorial - How to Connect Claude to ANY Tool",
-      "video_id": "bzV2EwDyxpk",
-      "channel_title": "Tech With Tim",
-      "description": "Use composio for free here: https://composio.dev/toolkits If you've been using Claude, Codex, Cursor or Windsurf coworkers or ...",
-      "published_at": "2026-05-12T17:32:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bzV2EwDyxpk/hqdefault.jpg"
-    },
-    {
-      "title": "Claude Just Got a Superpower No One&#39;s Talking About",
-      "video_id": "rrylSizvnSg",
-      "channel_title": "Tech With Tim",
-      "description": "Sponsored by Higgsfield! Build powerful AI video workflows with Higgsfield MCP: https://higgsfield.ai/s/mcp-techwithtim-KgKtSp ...",
-      "published_at": "2026-05-11T14:01:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rrylSizvnSg/hqdefault.jpg"
-    },
-    {
-      "title": "Codex is INSANE - Everything New in 10 Minutes",
-      "video_id": "t2G0L0cqktw",
-      "channel_title": "Tech With Tim",
-      "description": "Deploy your site using here.now completely for free, copy the prompt for your agent here! https://here.now/r/twt In this video, I am ...",
-      "published_at": "2026-05-08T16:25:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t2G0L0cqktw/hqdefault.jpg"
+      "description": "Get started with Devin for free here: https://devin.ai Most AI coding tools still run on your machine. Devin is different — it's a full ...",
+      "published_at": "2026-05-18T13:02:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GFlFABWeqDc/hqdefault.jpg"
     }
   ]
 }
