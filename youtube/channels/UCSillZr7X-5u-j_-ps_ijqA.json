@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-24T01:00:01.102391",
+  "fetched_at": "2026-05-31T01:04:25.214817",
   "channel_id": "UCSillZr7X-5u-j_-ps_ijqA",
   "channel_title": "nang",
   "count": 10,
   "videos": [
+    {
+      "title": "TWITCHCON EU STARTUP STREAM 🔵 24 hrs long 🔵 https://streamable.run",
+      "video_id": "1vXs2tMIwWY",
+      "channel_title": "nang",
+      "description": "we're at TwitchCon EU this weekend showing our startup https://streamable.run! Tune in!",
+      "published_at": "2026-05-30T20:27:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1vXs2tMIwWY/hqdefault.jpg"
+    },
     {
       "title": "new product &amp; new team for our startup!",
       "video_id": "_yLn7ZnltFk",
@@ -75,14 +83,6 @@
       "description": "This is the greatest developer video of all time! TRY PEARAI FOR FREE: https://trypear.ai FOLLOW ON INSTAGRAM FOR DAILY ...",
       "published_at": "2024-09-12T14:35:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wz5SXVmw22A/hqdefault.jpg"
-    },
-    {
-      "title": "Making An AI Code Editor with Computer Science",
-      "video_id": "X0OylwLzBQw",
-      "channel_title": "nang",
-      "description": "This is the greatest ai-powered code editor of all time! Join waitlist here launching in around a week: https://trypear.ai FOLLOW ON ...",
-      "published_at": "2024-06-29T15:34:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X0OylwLzBQw/hqdefault.jpg"
     }
   ]
 }

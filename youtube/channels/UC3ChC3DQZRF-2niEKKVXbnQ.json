@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-24T00:59:49.863494",
+  "fetched_at": "2026-05-31T01:03:53.593654",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "大模型写代码比说话还快是什么体验?",
+      "video_id": "EBJj8Ew5UX8",
+      "channel_title": "Karminski-牙医",
+      "description": "智谱刚出了一个GLM-5.1-highspeed 版本, 赶紧要了个内测给大家做点有趣的APP. 我测了一下这个模型反应速度用来写代码的话, ...",
+      "published_at": "2026-05-26T01:44:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EBJj8Ew5UX8/hqdefault.jpg"
+    },
     {
       "title": "Kimi-K2.6 前端/后端/Agent编程能力实测! 甚至还帮我做了个游戏!",
       "video_id": "z62WURHOzJM",
@@ -75,14 +83,6 @@
       "description": "光速给大家带来Gemini-3.1-pro 实测! 指令遵循: 洛希极限测试中部分指令遵循率93.5% (3.0-pro 为90.6%), 加权总分从6.8 提升到8.6, ...",
       "published_at": "2026-02-20T03:12:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4yhQFrPEB-A/hqdefault.jpg"
-    },
-    {
-      "title": "Qwen3.5实测!来看贺岁档大模型的实力!",
-      "video_id": "lkji2RZKRHM",
-      "channel_title": "Karminski-牙医",
-      "description": "贺岁档大模型来啦! Qwen3.5 这次支持了文本、图片、视频多模态输入, 本次准备了全新的后端能力测试! 以及照例带来前端 ...",
-      "published_at": "2026-02-17T13:29:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lkji2RZKRHM/hqdefault.jpg"
     }
   ]
 }

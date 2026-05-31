@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-05-17T00:58:13.707132",
+  "fetched_at": "2026-05-31T01:04:48.338312",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "The best time to eat sugar",
+      "video_id": "Ai0O5Oi1VCM",
+      "channel_title": "Glucose Revolution",
+      "description": "If you really want to eat something sweet, dessert is the best moment for it Eating sugar after a meal can mean less impact on ...",
+      "published_at": "2026-05-24T16:59:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ai0O5Oi1VCM/hqdefault.jpg"
+    },
+    {
+      "title": "I Found The Perfect Snack",
+      "video_id": "nCz1NXgghD4",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-05-21T16:45:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nCz1NXgghD4/hqdefault.jpg"
+    },
+    {
+      "title": "Why KFC spiked me 3 times",
+      "video_id": "ZJknCM_6uVU",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-05-19T15:05:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZJknCM_6uVU/hqdefault.jpg"
+    },
     {
       "title": "Your Workout Shapes Your Baby",
       "video_id": "CKf0uUmWKQ0",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-04-30T16:21:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hilCkPE5SfQ/hqdefault.jpg"
-    },
-    {
-      "title": "This boosts your GLP-1 naturally",
-      "video_id": "w1mzkCvB2Wk",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-04-27T16:54:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w1mzkCvB2Wk/hqdefault.jpg"
-    },
-    {
-      "title": "Fix your toast",
-      "video_id": "csRjGEb0hoI",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-04-24T14:52:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/csRjGEb0hoI/hqdefault.jpg"
-    },
-    {
-      "title": "You need more protein",
-      "video_id": "XP83vW5sllU",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-04-22T15:24:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XP83vW5sllU/hqdefault.jpg"
     }
   ]
 }

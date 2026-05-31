@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-05-17T00:57:36.808340",
+  "fetched_at": "2026-05-31T01:04:11.014060",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "5 Unique Museums in Seoul",
+      "video_id": "OGop-mpee_A",
+      "channel_title": "DamiLee",
+      "description": "What are your favourite museums in Seoul?",
+      "published_at": "2026-05-28T15:30:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OGop-mpee_A/hqdefault.jpg"
+    },
+    {
+      "title": "How Tokyo built dozens of downtowns (and why it works)",
+      "video_id": "mpE2So1aJcA",
+      "channel_title": "DamiLee",
+      "description": "Tokyo didn't build *one* downtown. It built dozens. The Yamanote Line isn't just a train loop — it's the skeleton of an entirely ...",
+      "published_at": "2026-05-25T15:30:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mpE2So1aJcA/hqdefault.jpg"
+    },
+    {
+      "title": "The Lost City of Atlantis has a Strange Secret",
+      "video_id": "YFk9U6UBQOE",
+      "channel_title": "DamiLee",
+      "description": "Ready to build a site that looks hand-coded—without hiring a developer? Launch your site for free at Framer and use the code ...",
+      "published_at": "2026-05-21T15:30:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YFk9U6UBQOE/hqdefault.jpg"
+    },
+    {
+      "title": "The real village that became The Shire (and was then destroyed)",
+      "video_id": "dwJLsevzkP8",
+      "channel_title": "DamiLee",
+      "description": "The Shire was shaped by Tolkien's childhood village of Sarehole, a green place later consumed by industry and steel. That loss ...",
+      "published_at": "2026-05-18T07:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dwJLsevzkP8/hqdefault.jpg"
+    },
     {
       "title": "Could a planet-wide city actually be livable?",
       "video_id": "GMpSRzUEeUs",
@@ -51,38 +83,6 @@
       "description": "Minas Tirith has a twin and nobody talks about it. Originally it wasn't called Minas Tirith at all. It was Minas Anor, the Tower of the ...",
       "published_at": "2026-04-23T15:30:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4iLdLwXofg8/hqdefault.jpg"
-    },
-    {
-      "title": "What if Coruscant had multiple cores? The Tokyo answer",
-      "video_id": "MUk3APpQOlQ",
-      "channel_title": "DamiLee",
-      "description": "What are those concentric circles on Coruscant? They might not be what you think. The most resilient mega-city on Earth already ...",
-      "published_at": "2026-04-22T15:30:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MUk3APpQOlQ/hqdefault.jpg"
-    },
-    {
-      "title": "Coruscant’s Vertical Trap",
-      "video_id": "EngrT8yEG_4",
-      "channel_title": "DamiLee",
-      "description": "Coruscant's layered transport system looks advanced — airspeeders, maglev trains, airbuses, and endless skylanes across ...",
-      "published_at": "2026-04-20T15:42:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EngrT8yEG_4/hqdefault.jpg"
-    },
-    {
-      "title": "Why So Many Levels?",
-      "video_id": "GZ-NWKioBEY",
-      "channel_title": "DamiLee",
-      "description": "Coruscant wasn't built as a planet-wide city overnight - it likely evolved from an already urbanized world sitting at the nexus of ...",
-      "published_at": "2026-04-13T15:31:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GZ-NWKioBEY/hqdefault.jpg"
-    },
-    {
-      "title": "Would you ever visit the Underworld?",
-      "video_id": "719Go8AYrU0",
-      "channel_title": "DamiLee",
-      "description": "A compliance analyst living in the mid-levels of Coruscant shares a glimpse into daily life - airspeeder traffic, holographic ...",
-      "published_at": "2026-04-06T15:40:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/719Go8AYrU0/hqdefault.jpg"
     }
   ]
 }

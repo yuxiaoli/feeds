@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-24T01:00:07.887052",
+  "fetched_at": "2026-05-31T01:04:47.578875",
   "channel_id": "UCqdwM6M5SPmuX779w-6iQTA",
   "channel_title": "Joma Clips",
   "count": 10,
   "videos": [
+    {
+      "title": "coding on my phone before we had AI (2020)",
+      "video_id": "a8ImcvefiU8",
+      "channel_title": "Joma Clips",
+      "description": "Full video on @JomaTech : https://youtu.be/0KmUoTfGa34?si=rKT0fG_trTenMG24.",
+      "published_at": "2026-05-29T05:51:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a8ImcvefiU8/hqdefault.jpg"
+    },
     {
       "title": "why the &quot;AI&quot; startup bubble will burst...",
       "video_id": "jFHhQ4bMNCg",
@@ -75,14 +83,6 @@
       "description": "Thanks to Mailchimp for sponsoring this video! Get started at https://mailchimp.com/",
       "published_at": "2023-03-16T20:19:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LKe__lyU95k/hqdefault.jpg"
-    },
-    {
-      "title": "When you rob a big tech company 2",
-      "video_id": "5F-LiJemSBw",
-      "channel_title": "Joma Clips",
-      "description": "",
-      "published_at": "2022-11-27T19:08:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5F-LiJemSBw/hqdefault.jpg"
     }
   ]
 }

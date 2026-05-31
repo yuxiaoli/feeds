@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-24T00:59:54.541938",
+  "fetched_at": "2026-05-31T01:04:03.476997",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Never miss a notification with Flash for Alerts. Tip from Sibele at the Apple Store. #Shorts",
+      "video_id": "hmeqs8mCHjI",
+      "channel_title": "Apple",
+      "description": "iPhone #iPhoneTips #FlashforAlerts #AppleStore.",
+      "published_at": "2026-05-26T18:14:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hmeqs8mCHjI/hqdefault.jpg"
+    },
     {
       "title": "Apple Vision Pro: Official Trailer for Real Madrid: The Weight of Greatness",
       "video_id": "1yTXr5bX2wQ",
@@ -75,14 +83,6 @@
       "description": "AssistiveTechnology #Accessibility #BlindCommunity.",
       "published_at": "2026-05-12T20:47:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/a8KHcQLaesw/hqdefault.jpg"
-    },
-    {
-      "title": "Mac Students: The journey to great ideas in college",
-      "video_id": "77uoRieSk8s",
-      "channel_title": "Apple",
-      "description": "Mac laptops are your best choice for college. Whether you're studying business, engineering, design, or the arts — get started on ...",
-      "published_at": "2026-05-11T13:02:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/77uoRieSk8s/hqdefault.jpg"
     }
   ]
 }

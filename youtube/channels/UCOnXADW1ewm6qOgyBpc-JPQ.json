@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-05-17T00:57:47.067197",
+  "fetched_at": "2026-05-31T01:04:21.558878",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "DO YOUR PULLUPS #calisthenics #gymmotivation #motivation #shorts",
+      "video_id": "B8Wi4NG5wWo",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2026-05-24T15:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/B8Wi4NG5wWo/hqdefault.jpg"
+    },
+    {
+      "title": "JUST DO IT OVER AND OVER AGAIN #calisthenics #motivation #shorts",
+      "video_id": "OWZg5Va7VeM",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2026-05-17T14:45:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OWZg5Va7VeM/hqdefault.jpg"
+    },
     {
       "title": "Full Range of Motion Pullups #calisthenics #motivation #gymmotivation",
       "video_id": "4wHHWseOkr4",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-02-07T15:01:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/to8OShH3-Mw/hqdefault.jpg"
-    },
-    {
-      "title": "pullups looking ai generated #calisthenics #shorts",
-      "video_id": "UtWNP5zWfpQ",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2026-01-04T16:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UtWNP5zWfpQ/hqdefault.jpg"
-    },
-    {
-      "title": "This is calisthenics #shorts #calisthenics",
-      "video_id": "9bQiKpRF3jY",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2025-11-30T16:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9bQiKpRF3jY/hqdefault.jpg"
     }
   ]
 }

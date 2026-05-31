@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-17T00:57:44.832757",
+  "fetched_at": "2026-05-31T01:04:19.242768",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "兩代諾獎女神，17歲戰火成人禮：輻射、偏見與永不妥協",
+      "video_id": "lQuv_JUrp7w",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2026-05-18T12:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lQuv_JUrp7w/hqdefault.jpg"
+    },
     {
       "title": "大爆炸之前是什么？这个问题也许比“大爆炸本身”更难回答",
       "video_id": "YBI5sk-JehY",
@@ -75,14 +83,6 @@
       "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
       "published_at": "2026-03-11T12:29:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/uGlOPya21zU/hqdefault.jpg"
-    },
-    {
-      "title": "无线通信大挑战：频谱限制难题来袭，100个广播电台够用吗？ #科普知识 #oppenheimer #百科密码",
-      "video_id": "7jY5wwOM8Y8",
-      "channel_title": "科學漫聊",
-      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
-      "published_at": "2026-03-11T12:22:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7jY5wwOM8Y8/hqdefault.jpg"
     }
   ]
 }

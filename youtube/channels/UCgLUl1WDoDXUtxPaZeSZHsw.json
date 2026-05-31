@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-17T00:58:04.129033",
+  "fetched_at": "2026-05-31T01:04:38.737273",
   "channel_id": "UCgLUl1WDoDXUtxPaZeSZHsw",
   "channel_title": "李自然说",
   "count": 10,
   "videos": [
+    {
+      "title": "我曾以为，哲学早就过时了",
+      "video_id": "JZehosp4hSE",
+      "channel_title": "李自然说",
+      "description": "1963 年，一个普通的助理大学教授发表了一篇三页纸的论文，几乎打穿了哲学界沿用两千多年的知识定义。 这期视频，我从这篇 ...",
+      "published_at": "2026-05-26T04:30:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JZehosp4hSE/hqdefault.jpg"
+    },
     {
       "title": "过去是公司CEO，今天沦为数字游民",
       "video_id": "oveaQgKVyJ4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-07-25T04:43:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9fP-LQwo85g/hqdefault.jpg"
-    },
-    {
-      "title": "现代功能医学让你年轻10岁：生物黑客的抗衰老技术栈",
-      "video_id": "jTBUoreQ11M",
-      "channel_title": "李自然说",
-      "description": "本期节目邀请到朱萧木老师来聊聊养生，一起揭秘顶级大佬的养生之道https://www.youtube.com/@XiaoMuZhu朱萧木感谢全球高 ...",
-      "published_at": "2025-06-10T08:11:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jTBUoreQ11M/hqdefault.jpg"
     }
   ]
 }

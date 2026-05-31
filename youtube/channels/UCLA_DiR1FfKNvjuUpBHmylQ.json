@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-05-24T00:59:57.738889",
+  "fetched_at": "2026-05-31T01:04:16.963959",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
   "count": 5,
   "videos": [
     {
-      "title": "NASA&#39;s Artemis II Crew Visits the U.S. Capitol",
-      "video_id": "udEBWcciYiY",
-      "channel_title": "NASA",
-      "description": "On May 12, 2026, NASA astronauts Christina Koch, Reid Wiseman, and Victor Glover, and CSA (Canadian Space Agency) ...",
-      "published_at": "2026-05-20T20:51:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/udEBWcciYiY/hqdefault.jpg"
-    },
-    {
       "title": "Roscosmos Spacewalk 66",
       "video_id": "HVKuW-DkE_U",
       "channel_title": "NASA",
       "description": "Two Roscosmos cosmonauts, Sergey Kud-Sverchkov and Sergei Mikaev, are set to conduct a spacewalk outside the International ...",
-      "published_at": "2026-05-20T17:07:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HVKuW-DkE_U/hqdefault_live.jpg"
+      "published_at": "2026-05-27T21:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HVKuW-DkE_U/hqdefault.jpg"
     },
     {
       "title": "Moon Base News Conference (May 26, 2026)",
       "video_id": "Nyki6O1oxIg",
       "channel_title": "NASA",
       "description": "As part of NASA Artemis, we're building a Moon Base to serve as a lunar habitat for long duration exploration and science. During ...",
-      "published_at": "2026-05-19T16:52:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nyki6O1oxIg/hqdefault_live.jpg"
+      "published_at": "2026-05-26T19:20:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nyki6O1oxIg/hqdefault.jpg"
+    },
+    {
+      "title": "Moon Base: Humanity&#39;s First Outpost on the Lunar Surface (Official NASA Trailer)",
+      "video_id": "tQcNSJc8gEg",
+      "channel_title": "NASA",
+      "description": "Coming soon to a Moon near you. We're building a Moon Base at the lunar South Pole — a hub for science, technology ...",
+      "published_at": "2026-05-26T19:16:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tQcNSJc8gEg/hqdefault.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",

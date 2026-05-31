@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-05-17T00:57:49.248298",
+  "fetched_at": "2026-05-31T01:04:23.761150",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "Understanding DSA becomes much easier with our Code Visualizer!",
+      "video_id": "f2vLWwi86BU",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-05-27T12:52:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f2vLWwi86BU/hqdefault.jpg"
+    },
+    {
+      "title": "Trends come and go, but core fundamentals stay valuable🫶",
+      "video_id": "NHgnZBLAV9w",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-05-25T10:53:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NHgnZBLAV9w/hqdefault.jpg"
+    },
     {
       "title": "If you want to build something fun this weekend, try one of these Python projects 🫶",
       "video_id": "8w1XVL4zQ6o",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-04-16T10:58:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9LXg3Ciklpk/hqdefault.jpg"
-    },
-    {
-      "title": "What has been holding you back from building your first website?🫣",
-      "video_id": "noNb2-mC3HM",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-04-08T15:47:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/noNb2-mC3HM/hqdefault.jpg"
-    },
-    {
-      "title": "6 April 2026",
-      "video_id": "JwU_Nal3FXM",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-04-06T15:15:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JwU_Nal3FXM/hqdefault.jpg"
     }
   ]
 }

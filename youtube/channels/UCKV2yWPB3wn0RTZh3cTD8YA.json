@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2026-05-17T00:57:40.474062",
+  "fetched_at": "2026-05-31T01:04:14.779081",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "对话教育大咖：当AI开始重新定义“能力”，教育还会一样吗？",
+      "video_id": "1Rh7Zwd7Vx0",
+      "channel_title": "硅谷101",
+      "description": "本期视频由好未来赞助播出。对Think Academy早教课程Think kids（3-5岁免费课程体验）感兴趣的可 ...",
+      "published_at": "2026-05-30T02:12:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1Rh7Zwd7Vx0/hqdefault.jpg"
+    },
+    {
+      "title": "Gemini的失落：Google越来越不敢冒险了 | 专访Gemini前核心科学家Andrew Dai",
+      "video_id": "QR8_jzoP8Gk",
+      "channel_title": "硅谷101",
+      "description": "最大的差异，其实是数据。” 谷歌前核心科学家Andrew Dai告诉我们，Gemini 2.5 和3.0 的提升，本质上来自数据处理方法的迭代： ...",
+      "published_at": "2026-05-28T00:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QR8_jzoP8Gk/hqdefault.jpg"
+    },
+    {
+      "title": "“再早一点，我们就是世界最好的模型”| 专访Gemini前核心科学家Andrew Dai",
+      "video_id": "AWj2XtnpA3s",
+      "channel_title": "硅谷101",
+      "description": "Google其实比OpenAI更早做MoE。 我们专访到了Gemini前核心科学家Andrew Dai。Andrew回忆，Google Brain在2021 年就已经 ...",
+      "published_at": "2026-05-27T00:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AWj2XtnpA3s/hqdefault.jpg"
+    },
+    {
+      "title": "Gemini仓促上线背后：Google的组织困境 | 专访谷歌前核心科学家Andrew Dai",
+      "video_id": "pkXZuuNJVCE",
+      "channel_title": "硅谷101",
+      "description": "Google Brain跟DeepMind，谁都不服谁。” ChatGPT引爆AI战争后，谷歌拉响“红色警戒”，决定把两支团队被迫整合，做Gemini。",
+      "published_at": "2026-05-26T06:10:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pkXZuuNJVCE/hqdefault.jpg"
+    },
+    {
+      "title": "“人类史上最大IPO”：SpaceX靠的不只是火箭了？",
+      "video_id": "HqsTB0avrh8",
+      "channel_title": "硅谷101",
+      "description": "SpaceX可能不再是一家“单纯”的火箭公司了。 在这份前几天刚刚披露的IPO招股书里，除了2万亿美元估值，市场还看到了Anthropic ...",
+      "published_at": "2026-05-25T14:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HqsTB0avrh8/hqdefault.jpg"
+    },
+    {
+      "title": "谷歌核心AI科学家：“大语言模型和世界模型都是错误路线”",
+      "video_id": "wZmn9slGfmw",
+      "channel_title": "硅谷101",
+      "description": "专访Gemini前核心科学家Andrew Dai：信仰多模态视觉推理模型.",
+      "published_at": "2026-05-23T16:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wZmn9slGfmw/hqdefault.jpg"
+    },
+    {
+      "title": "谷歌AI的14年、Gemini翻身之战，与视觉理解模型：专访DeepMind前核心科学家Andrew Dai｜Neolabs特辑",
+      "video_id": "cqW_VWYbIcU",
+      "channel_title": "硅谷101",
+      "description": "Andrew Dai在谷歌的14年，可以说是这家科技巨头在深度学习时代的AI编年史。 他长期处于Google Brain和DeepMind的核心研究 ...",
+      "published_at": "2026-05-19T03:35:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cqW_VWYbIcU/hqdefault.jpg"
+    },
+    {
+      "title": "AI版麦肯锡：OpenAI“部署公司”打通咨询生意",
+      "video_id": "yZ43A-qhcp4",
+      "channel_title": "硅谷101",
+      "description": "咨询公司的护城河，建立在信息差上，而AI却让企业自己就能做研究。OpenAI顺势成立“部署公司”，融资40亿，估值100亿， ...",
+      "published_at": "2026-05-18T02:11:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yZ43A-qhcp4/hqdefault.jpg"
+    },
     {
       "title": "揭秘数采工厂：稀缺的机器人数据，到底难在哪儿？｜机器人特辑",
       "video_id": "ZvHIuIIZ3Is",
@@ -19,70 +83,6 @@
       "description": "当所有AI芯片公司都在拼命把芯片做小，有一家公司却造出了比人脸还大的芯片，直接把整片晶圆当芯片用，一度被认为是“硅谷最 ...",
       "published_at": "2026-05-14T10:10:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jgqruNFUBUI/hqdefault.jpg"
-    },
-    {
-      "title": "Token经济学：AI时代的新货币战争",
-      "video_id": "ppRvzPXGpEw",
-      "channel_title": "硅谷101",
-      "description": "AI的竞争已经从“拼模型”卷到了“拼消耗”，员工们正疯狂比拼每天能烧掉多少token，而硅谷大佬们也在为AI账单暴涨而焦虑。当agent ...",
-      "published_at": "2026-05-13T03:54:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ppRvzPXGpEw/hqdefault.jpg"
-    },
-    {
-      "title": "“AI弃子”CPU逆风翻盘：英特尔、AMD与ARM意料之外的一场胜利",
-      "video_id": "HLJdElh2tFc",
-      "channel_title": "硅谷101",
-      "description": "继GPU、存储之后，AI算力的焦虑正式蔓延至CPU领域。从2025年底起，服务器CPU价格飙升近30%，交期甚至拉长到半年，曾经 ...",
-      "published_at": "2026-05-11T03:46:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HLJdElh2tFc/hqdefault.jpg"
-    },
-    {
-      "title": "被OpenAI开除后，24岁天才创立了55亿美金基金",
-      "video_id": "0uksJMPtfK8",
-      "channel_title": "硅谷101",
-      "description": "一个24岁的年轻人，因泄露信息被OpenAI开除后，写了165页预言AGI的长文，直接募到15亿美金，2025年上半年回报率高达47%。",
-      "published_at": "2026-05-11T01:06:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0uksJMPtfK8/hqdefault.jpg"
-    },
-    {
-      "title": "诺基亚重生：AI时代的“旧势力”回归",
-      "video_id": "4u60QpJ8_rc",
-      "channel_title": "硅谷101",
-      "description": "很多人以为诺基亚早就“死了”，但事实上，在卖掉手机业务后，它悄悄转型成了一家AI基础设施公司：做光通信、做数据中心网络、 ...",
-      "published_at": "2026-05-10T04:02:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4u60QpJ8_rc/hqdefault.jpg"
-    },
-    {
-      "title": "中国机器人的全球化野心、“踢馆”硅谷，及Physical AI的爆发准备：对话魔法原子",
-      "video_id": "oU_V5GlHq7I",
-      "channel_title": "硅谷101",
-      "description": "中国机器人赛道正在突然提速。从春晚机器人、半马赛事，到密集融资、出海扩张，中国具身智能公司开始集体进入全球视野。如今 ...",
-      "published_at": "2026-05-08T16:18:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oU_V5GlHq7I/hqdefault.jpg"
-    },
-    {
-      "title": "吞噬爱马仕：豪门恩怨、世纪资本恶战与凭空消失的百亿股份",
-      "video_id": "jn_H3vuUC6E",
-      "channel_title": "硅谷101",
-      "description": "4月15日，爱马仕发布财报，盘中股价暴跌14%，创下历史最大盘中跌幅。此时，关于爱马仕家族财富的一桩惊天悬案再次引发 ...",
-      "published_at": "2026-05-05T02:29:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jn_H3vuUC6E/hqdefault.jpg"
-    },
-    {
-      "title": "硅谷看DeepSeek V4：模型大战、Token Efficiency、算力突围与AGI必经之路【硅谷101视频播客】",
-      "video_id": "CIDVbaXWp64",
-      "channel_title": "硅谷101",
-      "description": "DeepSeek V4发布之际，正值OpenAI GPT-5.5、Kimi K2.6发布，Google官宣新一代TPU，以及Anthropic新融资消息同时出现。",
-      "published_at": "2026-04-29T17:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CIDVbaXWp64/hqdefault.jpg"
-    },
-    {
-      "title": "探秘全球最大私人金库：黄金东移潮、战争、衰退危机与“Plan B”",
-      "video_id": "7D_8zimKtB4",
-      "channel_title": "硅谷101",
-      "description": "金库里面长啥样？本期视频，我们将带大家一起进入位于新加坡的全球最大私人金库The Reserve，里面存放着15亿美元的黄金和 ...",
-      "published_at": "2026-04-23T23:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7D_8zimKtB4/hqdefault.jpg"
     }
   ]
 }

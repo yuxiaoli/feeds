@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2026-05-24T00:59:56.934698",
+  "fetched_at": "2026-05-31T01:04:12.582380",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
   "count": 10,
   "videos": [
+    {
+      "title": "Meet Gemini Spark, your 24/7 personal AI agent✨",
+      "video_id": "LEldTW4Zkhg",
+      "channel_title": "Google",
+      "description": "At #GoogleIO, we introduced @GoogleGemini Spark, your 24/7 personal AI agent that helps you navigate your digital life, taking ...",
+      "published_at": "2026-05-29T21:08:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LEldTW4Zkhg/hqdefault.jpg"
+    },
+    {
+      "title": "Calling bank all day 🏦 🏀",
+      "video_id": "jugfLrYP-6c",
+      "channel_title": "Google",
+      "description": "We're looking back at some of the best shots from the NBA Conference Finals. Tune in to see who takes home the ring, and dive ...",
+      "published_at": "2026-05-29T19:10:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jugfLrYP-6c/hqdefault.jpg"
+    },
+    {
+      "title": "What is Agentic Coding?",
+      "video_id": "cKCU6Qpa660",
+      "channel_title": "Google",
+      "description": "Put 30 seconds on the clock! ⏰ Jeff Dean, Chief Scientist, explains everything you should know about agentic coding in less than ...",
+      "published_at": "2026-05-28T18:17:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cKCU6Qpa660/hqdefault.jpg"
+    },
+    {
+      "title": "Puppets x AI | Behind the Scenes with Timmy TPU",
+      "video_id": "jHEEaQJxJyo",
+      "channel_title": "Google",
+      "description": "Peek behind the curtain to see how we blended old-school puppetry, 3D animation, Gemini Omni and the latest experimental ...",
+      "published_at": "2026-05-27T22:48:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jHEEaQJxJyo/hqdefault.jpg"
+    },
+    {
+      "title": "Meet Neural Expressive, the new visual language for the Gemini app.",
+      "video_id": "fQqDN-3dfB4",
+      "channel_title": "Google",
+      "description": "Neural Expressive is a new visual language for the Gemini app with fluid animations, vibrant colors, haptic feedback and more.",
+      "published_at": "2026-05-26T22:54:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fQqDN-3dfB4/hqdefault.jpg"
+    },
+    {
+      "title": "You have 1 unread message from @lesserafim_official!",
+      "video_id": "UnQYVm_NuSA",
+      "channel_title": "Google",
+      "description": "Search LE SSERAFIM when you want to just stop and breathe LE SSERAFIM 으로부터 한 건의 메세지가 도착했습니다.",
+      "published_at": "2026-05-24T23:01:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UnQYVm_NuSA/hqdefault.jpg"
+    },
     {
       "title": "How to Edit &amp; Create Videos with Gemini Omni",
       "video_id": "guv2-EoGUXw",
@@ -35,54 +83,6 @@
       "description": "Watch the Generative Media segment from the Google I/O 2026 keynote. Explore how Google is expanding the boundaries of ...",
       "published_at": "2026-05-22T19:01:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FLynjUYg79I/hqdefault.jpg"
-    },
-    {
-      "title": "Gemini | I/O 2026 Keynote",
-      "video_id": "7Z5Vy9JBANs",
-      "channel_title": "Google",
-      "description": "Watch the Gemini segment from the Google I/O 2026 keynote. Learn about the latest updates to the Gemini app, with the latest ...",
-      "published_at": "2026-05-22T19:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7Z5Vy9JBANs/hqdefault.jpg"
-    },
-    {
-      "title": "Search + Shopping | I/O 2026 Keynote",
-      "video_id": "kQQbTYPt7VE",
-      "channel_title": "Google",
-      "description": "Watch the Google Search segment from the Google I/O 2026 keynote. Discover how we're reimagining search with AI to help you ...",
-      "published_at": "2026-05-22T18:59:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kQQbTYPt7VE/hqdefault.jpg"
-    },
-    {
-      "title": "Gemini Spark | I/O 2026 Keynote",
-      "video_id": "amnhF6BwzZQ",
-      "channel_title": "Google",
-      "description": "Watch the Gemini segment from the Google I/O 2026 keynote. Learn about the latest updates to the Gemini app, with the latest ...",
-      "published_at": "2026-05-22T18:58:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/amnhF6BwzZQ/hqdefault.jpg"
-    },
-    {
-      "title": "Google Antigravity | I/O 2026 Keynote",
-      "video_id": "T_fnhr5lVBw",
-      "channel_title": "Google",
-      "description": "Watch Varun Mohan's live demo of Google Antigravity from Google I/O 2026. See how this agent-first development platform ...",
-      "published_at": "2026-05-22T18:56:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T_fnhr5lVBw/hqdefault.jpg"
-    },
-    {
-      "title": "Gemini Omni | I/O 2026 Keynote",
-      "video_id": "QhdEJFFaig0",
-      "channel_title": "Google",
-      "description": "Watch Demis Hassabis introduce Gemini Omni at Google I/O 2026. Discover Google's new model that can create anything from ...",
-      "published_at": "2026-05-22T18:55:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QhdEJFFaig0/hqdefault.jpg"
-    },
-    {
-      "title": "Sundar Pichai Opening Remarks | I/O 2026 Keynote",
-      "video_id": "duHhImuaZGU",
-      "channel_title": "Google",
-      "description": "Watch Sundar Pichai's opening remarks from the Google I/O 2026 keynote. Learn about Google's vision for the future of AI, our ...",
-      "published_at": "2026-05-22T18:53:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/duHhImuaZGU/hqdefault.jpg"
     }
   ]
 }

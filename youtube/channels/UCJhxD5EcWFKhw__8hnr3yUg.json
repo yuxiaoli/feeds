@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-17T00:57:37.580029",
+  "fetched_at": "2026-05-31T01:04:11.856602",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "【python】lazy import详解，3.15新特性它来啦！",
+      "video_id": "UYdxbADcYEw",
+      "channel_title": "码农高天",
+      "description": "这期视频来介绍一下3.15的一个新语法，lazy import。几乎每一个用python的人都值得了解一下它！",
+      "published_at": "2026-05-23T04:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UYdxbADcYEw/hqdefault.jpg"
+    },
     {
       "title": "高迪一日游！巴特罗米拉奎尔！还偶遇了江疏影",
       "video_id": "N3lp0CulKxs",
@@ -75,14 +83,6 @@
       "description": "打卡经典游客目的地九份，顺便去边上的金矿看了一圈。晚上回来还遇到个网红出租车，在车上唱了个歌！",
       "published_at": "2026-01-10T05:30:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/H6q5-EMOUCs/hqdefault.jpg"
-    },
-    {
-      "title": "台北故宫！老的！纯老的！毫无争议的老！",
-      "video_id": "nn-OLlk-REg",
-      "channel_title": "码农高天",
-      "description": "台湾性价比最高的一天，在台北故宫逛了一下午，结束去士林夜市吃大鸡排啦！",
-      "published_at": "2025-12-14T09:01:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nn-OLlk-REg/hqdefault.jpg"
     }
   ]
 }

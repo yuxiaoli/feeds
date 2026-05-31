@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-05-17T00:57:33.676868",
+  "fetched_at": "2026-05-31T01:04:07.961473",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
+    {
+      "title": "Unpacking how the world is using AI | Microsoft&#39;s AI Diffusion Report",
+      "video_id": "u8bKR3RHAYA",
+      "channel_title": "Microsoft",
+      "description": "Juan Lavista Ferres, Microsoft Chief Data Scientist and Director of AI for Good Lab, joins Microsoft's Vice Chair and President Brad ...",
+      "published_at": "2026-05-28T16:04:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u8bKR3RHAYA/hqdefault.jpg"
+    },
+    {
+      "title": "Across AAPI cultures and experiences, Asian voices transform perspective into impact",
+      "video_id": "yhhRISRexPk",
+      "channel_title": "Microsoft",
+      "description": "Asian and Pacific Islander (AAPI) stories don't fit one narrative—meet the people sharing their unique story and journey.",
+      "published_at": "2026-05-21T16:10:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yhhRISRexPk/hqdefault.jpg"
+    },
+    {
+      "title": "Scope uses Microsoft 365 Copilot to remove barriers and empower every employee",
+      "video_id": "53KqVqZ39eg",
+      "channel_title": "Microsoft",
+      "description": "Scope supports 4.6 million disabled people each year across the UK. To better serve its employees and advance its mission, the ...",
+      "published_at": "2026-05-19T16:05:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/53KqVqZ39eg/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft Build 2026 | Opening Keynote",
+      "video_id": "FFMm454fxNA",
+      "channel_title": "Microsoft",
+      "description": "Join the Microsoft Build 2026 opening keynote, streamed live from Seattle. Follow along as Microsoft CEO Satya Nadella and ...",
+      "published_at": "2026-05-13T17:07:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FFMm454fxNA/hqdefault_live.jpg"
+    },
     {
       "title": "Early detection, anywhere",
       "video_id": "Giz8Ej0ZDLQ",
@@ -51,38 +83,6 @@
       "description": "Built on Microsoft Foundry, Beca's BEYON is an AI-powered digital twin with a conversational agent that reduces data retrieval ...",
       "published_at": "2026-04-20T23:54:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jBJTIBjZ9iY/hqdefault.jpg"
-    },
-    {
-      "title": "Families power who we are at Microsoft",
-      "video_id": "15XjZQeW43s",
-      "channel_title": "Microsoft",
-      "description": "Microsoft coworkers swapped stories about family to write powerful poetry. Now, they'll hear what the other person wrote for the ...",
-      "published_at": "2026-04-08T19:34:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/15XjZQeW43s/hqdefault.jpg"
-    },
-    {
-      "title": "Families shape the people who build Microsoft",
-      "video_id": "afAVnSG_nas",
-      "channel_title": "Microsoft",
-      "description": "Microsoft coworkers move across a game board where every space opens a conversation about family. Each roll reveals a story ...",
-      "published_at": "2026-04-06T20:07:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/afAVnSG_nas/hqdefault.jpg"
-    },
-    {
-      "title": "How Goodwill’s AI-powered Resume Builder supports job seekers with disabilities",
-      "video_id": "2nP-b9UedFg",
-      "channel_title": "Microsoft",
-      "description": "Goodwill NYNJ wanted to streamline part of the job‑seeker experience that frequently slowed their teams down: preparing ...",
-      "published_at": "2026-03-30T15:58:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2nP-b9UedFg/hqdefault.jpg"
-    },
-    {
-      "title": "Answer ALS speeds progress toward treatments and cures through Microsoft Azure",
-      "video_id": "cKV4KSIhhbI",
-      "channel_title": "Microsoft",
-      "description": "Answer ALS and ALS Therapy Development Institute both work to improve the quality of life for people living with the ...",
-      "published_at": "2026-03-26T15:59:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cKV4KSIhhbI/hqdefault.jpg"
     }
   ]
 }
