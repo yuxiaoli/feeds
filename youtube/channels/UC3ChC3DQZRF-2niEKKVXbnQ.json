@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-05-31T01:03:53.593654",
+  "fetched_at": "2026-06-07T01:05:58.575012",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "MiniMax-M3 最佳实践? 这个视频告诉你!",
+      "video_id": "py7M5sZ71Gs",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来 MiniMax-M3 实测! 本次测试包含了复杂前端, 后端 Agentic Coding, Agent 能力测试, 以及我的使用经验总结. 来看结论: ...",
+      "published_at": "2026-06-04T11:13:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/py7M5sZ71Gs/hqdefault.jpg"
+    },
+    {
+      "title": "Agentic Coding 能力大幅提升! Qwen3.7-Max实测!",
+      "video_id": "vn1-8HPLO7k",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Qwen3.7-Max 实测! 这次使用了全新的前端测试集, 直接说结论, Qwen3.7-Max 应该是之前测试过的版本中进步特别大的 ...",
+      "published_at": "2026-06-01T14:54:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vn1-8HPLO7k/hqdefault.jpg"
+    },
     {
       "title": "大模型写代码比说话还快是什么体验?",
       "video_id": "EBJj8Ew5UX8",
@@ -67,22 +83,6 @@
       "description": "这次给大家用字节跳动新推出的豆包Seed-2.0-Pro 大模型做了一个能连接RPGMaker 的AI Agent 框架, 只需要把小说粘贴进去, 就能 ...",
       "published_at": "2026-03-05T00:00:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Kr4dv32IS7k/hqdefault.jpg"
-    },
-    {
-      "title": "inclusionAI Ling&amp;Ring  2.5-1T大模型实测!",
-      "video_id": "ixhd_SjCI88",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来蚂蚁集团inclusionAI 团队的Ring-2.5-1T & Ling-2.5-1T 大模型实测! 最近很多小伙伴问我是怎么第一时间知道大模型发布 ...",
-      "published_at": "2026-03-01T14:25:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ixhd_SjCI88/hqdefault.jpg"
-    },
-    {
-      "title": "Gemini-3.1-pro 实测! 更新了个寂寞?",
-      "video_id": "4yhQFrPEB-A",
-      "channel_title": "Karminski-牙医",
-      "description": "光速给大家带来Gemini-3.1-pro 实测! 指令遵循: 洛希极限测试中部分指令遵循率93.5% (3.0-pro 为90.6%), 加权总分从6.8 提升到8.6, ...",
-      "published_at": "2026-02-20T03:12:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4yhQFrPEB-A/hqdefault.jpg"
     }
   ]
 }

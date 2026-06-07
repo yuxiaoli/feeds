@@ -1,24 +1,80 @@
 {
-  "fetched_at": "2026-05-31T01:04:08.742281",
+  "fetched_at": "2026-06-07T01:06:12.617929",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "美国股市一百年 | 买入持有回报率 | 股东财富创造 | 91万亿 | 长期持股的错觉 | 正偏分布 | 时间比收益率更重要 | 可持续稳健收益 | 3%头部企业 | 集中趋势加剧 | 普通人该如何买",
-      "video_id": "MY5WaHvfM6s",
+      "title": "Anthropic呼吁按下AI暂停键？| AI自我改进RSI | 真实动机 | 80%代码Claude编写 | 人均每日合并PR达8倍 | 代码成功率76% | 自主修复bug | 未来的三种可能",
+      "video_id": "g0RnbNLEgs4",
       "channel_title": "最佳拍档",
-      "description": "今天我们要分享的，是一份来自亚利桑那州立大学W.P.凯瑞商学院，亨德里克·贝森宾德（Hendrik Bessembinder） 教授的论文， ...",
-      "published_at": "2026-05-30T09:30:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MY5WaHvfM6s/hqdefault.jpg"
+      "description": "2026年6月5日的凌晨，Anthropic在官方博客发布了一篇标题为《当AI开始建造自己》的长文，指出AI正在以超出所有人预期的速度 ...",
+      "published_at": "2026-06-06T09:23:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g0RnbNLEgs4/hqdefault.jpg"
     },
     {
-      "title": "Meta2026股东大会| 董事会连任 | 股东十项独立提案全部否决 | AI战略| 广告与商业化 | 资本回报",
-      "video_id": "sOUWv08Cpmo",
+      "title": "百年量子力学，从秩序到混沌 | Jens Marklof 公开讲座 | 人类如何认知世界 | 日心说 | 牛顿力学 | 海森堡 | 薛定谔 | 狄拉克 | 爱因斯坦 | 哥本哈根诠释 | 狄拉克方程",
+      "video_id": "6E4slCu90Dc",
       "channel_title": "最佳拍档",
-      "description": "5月27日，Meta以线上形式召开了年度股东大会，董事会提名的12位董事全部成功连任，而股东们提出的十项提案，全部被投票否决 ...",
-      "published_at": "2026-05-30T01:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sOUWv08Cpmo/hqdefault.jpg"
+      "description": "5月19日，英国剑桥大学的艾萨克·牛顿研究所举办了一场极具声望的罗斯柴尔德公开讲座。这个讲座系列从34年前牛顿研究所创立之 ...",
+      "published_at": "2026-06-05T10:50:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6E4slCu90Dc/hqdefault.jpg"
+    },
+    {
+      "title": "AI下一步是走向生成认知 | Enactive Cognition | 表征主义 | 示能性 | 经验 | 强化学习 | 持续学习 | 行动-感知不可分割 | 意向弧 | 最大握力 | 自创 | 具身",
+      "video_id": "6bfCuxI_84U",
+      "channel_title": "最佳拍档",
+      "description": "最近，强化学习之父理查德·萨顿（Richard S. Sutton）和独立研究者巴纳夫谢·拉菲（Banafsheh Rafiee）共同发表了一篇重磅论文， ...",
+      "published_at": "2026-06-04T13:47:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6bfCuxI_84U/hqdefault.jpg"
+    },
+    {
+      "title": "蒸馏就像是挤柠檬一样 | Google四位大佬 | Gemini 3.5 Flash | 团队合并 | Gemini Omni | 蒸馏每一代 | 单搜索框 | 未来的预测 | 只有一个产品",
+      "video_id": "igVIb8j8ZKY",
+      "channel_title": "最佳拍档",
+      "description": "5月30日，谷歌官方发布了一个对谈视频，Google DeepMind团队的四位巨头，第一次同时坐在了同一个镜头前，毫无保留地分享 ...",
+      "published_at": "2026-06-03T23:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/igVIb8j8ZKY/hqdefault.jpg"
+    },
+    {
+      "title": "AI编程的三个致命错觉 | OpenCode | Dax Raad | 创业之路 | OpenNext | 生态位置 | Anthropic封禁 | 商业化 | 品味 | 产品腐烂",
+      "video_id": "z2GFDO4HrZY",
+      "channel_title": "最佳拍档",
+      "description": "在这波AI编程工具的浪潮里，有一个产品的增长速度堪称恐怖，它就是OpenCode。几个月前它的月活还只有65万，现在已经冲 ...",
+      "published_at": "2026-06-03T12:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z2GFDO4HrZY/hqdefault.jpg"
+    },
+    {
+      "title": "谁捕获了AI价值链中的最大价值 | a16z | AI产业规模快速增加 | 项目退出门槛大涨 | Token路径 | 市场结构 | 企业AI落地 | 拟物化阶段 | AI泡沫 | 风投的未来",
+      "video_id": "NuOlUACEVsk",
+      "channel_title": "最佳拍档",
+      "description": "5月29日，全球顶级风险投资机构a16z发布了一期特别对谈节目，嘉宾是两位在AI投资领域非常有话语权的人物。第一位是a16z的 ...",
+      "published_at": "2026-06-02T23:30:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NuOlUACEVsk/hqdefault.jpg"
+    },
+    {
+      "title": "AI的暗产出 | AI时代最缺失的经济测量 | 索洛悖论 | GDP失效 | 替代型 | 新增型 |  制造业的区别 | 证据阶梯 | 测量错误 | 女性主义经济学",
+      "video_id": "WNTN9o8hYDw",
+      "channel_title": "最佳拍档",
+      "description": "我们现在正在进入一个时代，AI创造的大部分经济价值，可能永远不会出现在传统的GDP统计里。我们可以把这些存在但无法被国家 ...",
+      "published_at": "2026-06-01T23:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WNTN9o8hYDw/hqdefault.jpg"
+    },
+    {
+      "title": "AGI已经不再重要 | Sundar Pichai | 组织架构 | 三大板块 | 统一技术底座 | 合并模型团队 | 决策逻辑 | AI焦虑 | 零流量 | 版权问题",
+      "video_id": "Cz0VDh5pt34",
+      "channel_title": "最佳拍档",
+      "description": "最近，科技媒体《The Verge》的主编尼莱·帕特尔（Nilay Patel），又采访了谷歌和Alphabet的首席执行官桑达尔·皮查伊（Sundar ...",
+      "published_at": "2026-06-01T11:34:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cz0VDh5pt34/hqdefault.jpg"
+    },
+    {
+      "title": "AI芯片内部是如何计算的 | Reiner Pope | 逻辑门 | 乘加运算 | 全加器 | Dadda乘法器 | 寄存器堆 | 脉动阵列 | 菊花链 | FPGA和ASIC | 暂存器 | 大脑",
+      "video_id": "qjqHRIEQcVA",
+      "channel_title": "最佳拍档",
+      "description": "前几天我们做过一期节目，借助MatX CEO、前谷歌TPU架构师莱纳·波普（Reiner Pope）在Dwarkesh Patel的一期播客，给大家 ...",
+      "published_at": "2026-05-31T09:15:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qjqHRIEQcVA/hqdefault.jpg"
     },
     {
       "title": "Anthropic发布Claude 4.8 | 动态工作流 | 诚实度提升 | 大型代码迁移 | 650亿美元H轮融资 | 估值9650亿美元超过OpenAI | Mythos即将公开 | IPO进程",
@@ -27,62 +83,6 @@
       "description": "美国时间5月28日，Anthropic一天之内干了三件事。先是发布了新的旗舰模型Claude Opus 4.8，最大的变化是它开始学会了承认不 ...",
       "published_at": "2026-05-29T11:00:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vC9Rw9qyyUQ/hqdefault.jpg"
-    },
-    {
-      "title": "UFO是机器人？ | 加来道雄 | 永生 | 端粒 | 万物理论 | 弦理论 | UAP目击事件 | 戴森球 | 泡泡浴理论 | 平行宇宙 | AI双刃剑 | 量子计算机 | 感知到的现实是残缺的",
-      "video_id": "6MsOxArbvms",
-      "channel_title": "最佳拍档",
-      "description": "永生到底离我们有多近？宇宙是不是一个精心设计的模拟程序呢？外星文明真的存在吗？为什么说量子计算机可能会颠覆全球金融 ...",
-      "published_at": "2026-05-28T23:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6MsOxArbvms/hqdefault.jpg"
-    },
-    {
-      "title": "GPT-5.5是如何推理的 | OpenAI扬·杜布瓦 | 可靠性跨过阈值 | 自我加速 | 强化学习突破 | 效率整体2倍提升 | 北极星目标 | 推理 | 预训练没撞墙 | 三段训练流水线",
-      "video_id": "YBfSHLUWBdw",
-      "channel_title": "最佳拍档",
-      "description": "为什么最近很多人会感到AI突然好用了，自于OpenAI后训练前沿团队联合负责人，扬·杜布瓦，给了我们一个不一样的解读。扬·杜布 ...",
-      "published_at": "2026-05-28T09:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YBfSHLUWBdw/hqdefault.jpg"
-    },
-    {
-      "title": "AI时代的人类尊严|教皇利奥十四世发布首篇通谕 | Magnifica Humanitas | AI带来文明危机 | 巴别塔的寓言 | 人何以为人 | 数字霸权 | 计算主义倾向 | 劳动危机",
-      "video_id": "Se1Zzl6yP0w",
-      "channel_title": "最佳拍档",
-      "description": "5月25日，梵蒂冈教宗利奥十四世（Pope Leo XIV），对外正式发布了一份长达4万字的通谕《Magnifica Humanitas》，中文译名 ...",
-      "published_at": "2026-05-27T09:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Se1Zzl6yP0w/hqdefault.jpg"
-    },
-    {
-      "title": "AI扩张的主要瓶颈是能源和晶圆 | Gavin Baker | 台积电是全球经济稳定器 | Anthropic爆发式增长 | 轨道计算 | 多样性崩溃 | 不可能三角 | 定价模式 | 战场AI",
-      "video_id": "NaSdecxOjzI",
-      "channel_title": "最佳拍档",
-      "description": "Atreides Management管理合伙人Gavin Baker在播客中分享了他对AI行业的深刻见解，包括Anthropic的空前增长、轨道计算解决 ...",
-      "published_at": "2026-05-25T23:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NaSdecxOjzI/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI攻克80年数学难题 | 平面单位距离问题 | Paul Erdős | 用代数数论解决平面几何问题 | 菲尔兹奖得主评价 | AI正在帮助重建数学大教堂",
-      "video_id": "vSs3uZwJgt8",
-      "channel_title": "最佳拍档",
-      "description": "OpenAI的一个通用模型自主解决了困扰数学家近80年的单位距离问题，推翻了一个长期存在的猜想，还用到了代数数论里的意外工具 ...",
-      "published_at": "2026-05-23T09:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vSs3uZwJgt8/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】AI未来发展的核心支柱 | 钢铁、服务器、能源 | David Cahn红杉美国合伙人 | 数据中心 | 基建效率 | 现金牛 | 房地产 | 资产负债表外融资",
-      "video_id": "5gDrGItwDg4",
-      "channel_title": "最佳拍档",
-      "description": "今天我们来分享一个20VC推出的播客节目，在这档节目中，投资人大卫·卡恩David Cahn与播客主持人哈里·斯特宾斯Harry ...",
-      "published_at": "2024-08-15T09:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5gDrGItwDg4/hqdefault.jpg"
-    },
-    {
-      "title": "【商业】创业公司如何找到产品市场契合点PMF | 红杉资本Arc活动分享 |  产品与客户之间的三种关系 | 如何选择路径 | 燃眉之急 | 铁的事实 | 未来愿景",
-      "video_id": "nJIVpB05eKY",
-      "channel_title": "最佳拍档",
-      "description": "今天这是一期科技创业者必看的视频。对于所有初创公司来说，核心任务就是寻找产品与市场的契合点，也就是所谓 ...",
-      "published_at": "2024-05-01T10:06:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nJIVpB05eKY/hqdefault.jpg"
     }
   ]
 }

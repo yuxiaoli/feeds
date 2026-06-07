@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-31T01:04:20.836158",
+  "fetched_at": "2026-06-07T01:06:23.661848",
   "channel_id": "UCOXv_kvUrsyfTP4H26En--A",
   "channel_title": "Tech Raashi",
   "count": 10,
   "videos": [
+    {
+      "title": "Laptop ನಲ್ಲಿ CapCut Install ಮಾಡೋದು ಹೇಗೆ? | Network Error Fix | Kannada",
+      "video_id": "RaEkRpHrRzg",
+      "channel_title": "Tech Raashi",
+      "description": "In this video, I'll show you how to install CapCut on your Windows laptop or PC and fix the common \"Network Error\" issue ...",
+      "published_at": "2026-06-02T13:30:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RaEkRpHrRzg/hqdefault.jpg"
+    },
     {
       "title": "2026 ರಲ್ಲಿ ಡ್ರೈವಿಂಗ್ ಲೈಸೆನ್ಸ್ ಪಡೆಯುವುದು ಹೇಗೆ? | How to Apply for DL &amp; LL in Kannada 2026",
       "video_id": "MpW7vqA7OFg",
@@ -75,14 +83,6 @@
       "description": "How to look like a hacker     Cmd hacks Keyboard tricks Hacker in command prompt #shorts #youtubeshorts ...",
       "published_at": "2023-07-28T02:30:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1S3rfXprZ7c/hqdefault.jpg"
-    },
-    {
-      "title": "Keyboard hacks🔥🧐#shorts #youtubeshorts",
-      "video_id": "szCFfkz7q60",
-      "channel_title": "Tech Raashi",
-      "description": "Keyboard hacks       Cmd hacks Command prompt Laptop hacks Tricks in laptop #shorts #youtubeshorts.",
-      "published_at": "2023-07-17T11:58:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/szCFfkz7q60/hqdefault.jpg"
     }
   ]
 }

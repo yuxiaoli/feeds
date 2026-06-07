@@ -1,48 +1,72 @@
 {
-  "fetched_at": "2026-05-31T01:03:55.888534",
+  "fetched_at": "2026-06-07T01:06:00.641058",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 5,
+  "count": 8,
   "videos": [
     {
-      "title": "I Tried 100+ Claude Code Skills. These 6 Are The Best.",
-      "video_id": "ZSvcxjNZdxk",
+      "title": "Why Python Is Easy to Start but Hard to Master",
+      "video_id": "jkgIDkCwQIE",
       "channel_title": "Tech With Tim",
-      "description": "Claude Code skills are one of the most underrated features in AI coding right now — and most people aren't using them. I went ...",
-      "published_at": "2026-05-29T10:57:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZSvcxjNZdxk/hqdefault.jpg"
+      "description": "Is Python worth learning in 2026? Python is one of the easiest programming languages to start with and one of the most powerful ...",
+      "published_at": "2026-06-06T12:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jkgIDkCwQIE/hqdefault.jpg"
     },
     {
-      "title": "STOP Building Apps With Supabase (Use THIS Instead)",
-      "video_id": "W7SCr_ltOE0",
+      "title": "Hermes Agent - Full Course &amp; Setup Guide - For COMPLETE Beginners",
+      "video_id": "mTYxpIRK7xA",
       "channel_title": "Tech With Tim",
-      "description": "Start using InsForge for free: https://go.insforge.dev/techwithtim Vibe coding gets you a demo. AI-native development gets you a ...",
-      "published_at": "2026-05-28T13:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W7SCr_ltOE0/hqdefault.jpg"
+      "description": "Deploy Hermes Agent with Hostinger here: https://www.hostg.xyz/SHJWj Use code \"techwithtim\" for 10% off. Hermes Agent is the ...",
+      "published_at": "2026-06-05T14:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mTYxpIRK7xA/hqdefault.jpg"
     },
     {
-      "title": "AI engineer salary - What to expect: Junior to senior",
-      "video_id": "eTBSF411yQ4",
+      "title": "The Biggest Mistake I Made Learning Python",
+      "video_id": "MYqTQbQO9O0",
       "channel_title": "Tech With Tim",
-      "description": "DataCamp AI Engineer for Developers Track - https://datacamp.pxf.io/QYnkj3 DataCamp AI Engineer for Data Scientists Track ...",
-      "published_at": "2026-05-27T12:30:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eTBSF411yQ4/hqdefault.jpg"
+      "description": "How to learn Python the right way — and the #1 mistake that keeps beginners stuck for months. If you're learning Python in 2026 ...",
+      "published_at": "2026-06-05T11:53:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MYqTQbQO9O0/hqdefault.jpg"
     },
     {
-      "title": "How to learn Machine Learning like a GENIUS and not waste time",
-      "video_id": "_hdUddANh_o",
+      "title": "The Right Way to Learn Machine Learning Most People Don&#39;t",
+      "video_id": "j4Vkqi_fuCI",
       "channel_title": "Tech With Tim",
-      "description": "Learn Machine Learning with a structured and hands-on approach: Machine Learning Scientist Track (Train and develop models) ...",
-      "published_at": "2026-05-26T12:48:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_hdUddANh_o/hqdefault.jpg"
+      "description": "Machine learning is one of the most rewarding skills you can learn right now — but only if you learn it the right way. The biggest ...",
+      "published_at": "2026-06-04T12:00:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j4Vkqi_fuCI/hqdefault.jpg"
     },
     {
-      "title": "I Built the Same App With Claude Code and Codex",
-      "video_id": "E2UgYp2vh5U",
+      "title": "Stop Tutorial Hopping — Do This Instead",
+      "video_id": "iiB5SWFZLFU",
       "channel_title": "Tech With Tim",
-      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
-      "published_at": "2026-05-22T13:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E2UgYp2vh5U/hqdefault.jpg"
+      "description": "Here's the 70/30 rule for learning machine learning: spend 70% of your time building projects and 30% on theory and courses.",
+      "published_at": "2026-06-03T12:07:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iiB5SWFZLFU/hqdefault.jpg"
+    },
+    {
+      "title": "Cursor just crushed Claude Code",
+      "video_id": "XOCVdPIhAHg",
+      "channel_title": "Tech With Tim",
+      "description": "Deploy your site using here.now completely for free, copy the prompt for your agent here! https://here.now/r/twt I accidentally ...",
+      "published_at": "2026-06-02T11:58:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XOCVdPIhAHg/hqdefault.jpg"
+    },
+    {
+      "title": "5 Machine Learning Skills Interviewers Will Cut You For Not Knowing",
+      "video_id": "wlpvRV43vXM",
+      "channel_title": "Tech With Tim",
+      "description": "In a machine learning interview, they'll ask about all of these — and if you don't know them or have no experience, you're cut ...",
+      "published_at": "2026-06-02T11:56:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wlpvRV43vXM/hqdefault.jpg"
+    },
+    {
+      "title": "The Machine Learning Trap That Wastes Months",
+      "video_id": "aRecigR_AX4",
+      "channel_title": "Tech With Tim",
+      "description": "Most people trying to learn machine learning fall into the same trap: learning everything before building anything. Months on ...",
+      "published_at": "2026-06-01T12:25:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aRecigR_AX4/hqdefault.jpg"
     }
   ]
 }

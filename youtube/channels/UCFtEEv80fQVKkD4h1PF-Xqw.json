@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-05-31T01:04:07.961473",
+  "fetched_at": "2026-06-07T01:06:11.966751",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "Unpacking how the world is using AI | Microsoft&#39;s AI Diffusion Report",
-      "video_id": "u8bKR3RHAYA",
+      "title": "Alix Earle&#39;s Microsoft Campus Tour",
+      "video_id": "fEji4sDsC24",
       "channel_title": "Microsoft",
-      "description": "Juan Lavista Ferres, Microsoft Chief Data Scientist and Director of AI for Good Lab, joins Microsoft's Vice Chair and President Brad ...",
-      "published_at": "2026-05-28T16:04:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u8bKR3RHAYA/hqdefault.jpg"
+      "description": "alixearle visits Microsoft's headquarters for an inside tour of the Surface hardware lab, a trip inside the world's quietest room, and ...",
+      "published_at": "2026-06-05T16:45:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fEji4sDsC24/hqdefault.jpg"
     },
     {
-      "title": "Across AAPI cultures and experiences, Asian voices transform perspective into impact",
-      "video_id": "yhhRISRexPk",
+      "title": "Introducing MAI-Voice-2 | Microsoft AI Models",
+      "video_id": "DOm7VDEPcI0",
       "channel_title": "Microsoft",
-      "description": "Asian and Pacific Islander (AAPI) stories don't fit one narrative—meet the people sharing their unique story and journey.",
-      "published_at": "2026-05-21T16:10:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yhhRISRexPk/hqdefault.jpg"
+      "description": "Meet MAI-Voice-2, the most expressive, natural-sounding text-to-speech model we've built to date. Learn more: ...",
+      "published_at": "2026-06-04T23:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DOm7VDEPcI0/hqdefault.jpg"
     },
     {
-      "title": "Scope uses Microsoft 365 Copilot to remove barriers and empower every employee",
-      "video_id": "53KqVqZ39eg",
+      "title": "Voice Coding Demo: MAI-Code-1-Flash | Microsoft AI Models",
+      "video_id": "3nGPxJ0kJ7k",
       "channel_title": "Microsoft",
-      "description": "Scope supports 4.6 million disabled people each year across the UK. To better serve its employees and advance its mission, the ...",
-      "published_at": "2026-05-19T16:05:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/53KqVqZ39eg/hqdefault.jpg"
+      "description": "You talk, it codes. MAI-Code-1-Flash paired with MAI-Transcribe and MAI-Voice, from spoken prompt to working code.",
+      "published_at": "2026-06-04T17:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3nGPxJ0kJ7k/hqdefault.jpg"
     },
     {
-      "title": "Microsoft Build 2026 | Opening Keynote",
-      "video_id": "FFMm454fxNA",
+      "title": "Build 2026 Podcast: Satya Nadella, Sarah Guo and Elad Gil from No Priors, and Swyx from Latent Space",
+      "video_id": "LE90Yc5TuCs",
       "channel_title": "Microsoft",
-      "description": "Join the Microsoft Build 2026 opening keynote, streamed live from Seattle. Follow along as Microsoft CEO Satya Nadella and ...",
-      "published_at": "2026-05-13T17:07:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FFMm454fxNA/hqdefault_live.jpg"
+      "description": "Satya Nadella sits down for an interview after the Build 2026 keynote with Sarah Guo and Elad Gil from No Priors, and Swyx from ...",
+      "published_at": "2026-06-04T11:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LE90Yc5TuCs/hqdefault.jpg"
     },
     {
-      "title": "Early detection, anywhere",
-      "video_id": "Giz8Ej0ZDLQ",
+      "title": "A new vision for agent-first computing: Project Solara | Steven Bathiche at Microsoft Build 2026",
+      "video_id": "hbnhMKckxTE",
       "channel_title": "Microsoft",
-      "description": "aiforgood #microsoft #nvidia Catalyst Episode 5 follows Helfie, an AI-powered platform that is on a mission to make healthcare ...",
-      "published_at": "2026-05-08T23:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Giz8Ej0ZDLQ/hqdefault.jpg"
+      "description": "At Microsoft Build 2026, Steven Bathiche (Microsoft CVP & Technical Fellow Applied Sciences Group) introduces an early look at ...",
+      "published_at": "2026-06-04T00:40:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hbnhMKckxTE/hqdefault.jpg"
     },
     {
-      "title": "Can we design a healthcare system for all? | Microsoft Azure and NVIDIA | Catalyst E5",
-      "video_id": "FZrapwvfkNE",
+      "title": "Introducing MAI-Image-2.5 | Microsoft AI Models",
+      "video_id": "4v9AAw9J-FA",
       "channel_title": "Microsoft",
-      "description": "Helfie is on a mission to deliver quality healthcare to eight billion people around the globe, no matter who they are or where they ...",
-      "published_at": "2026-05-08T20:10:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FZrapwvfkNE/hqdefault.jpg"
+      "description": "Meet the MAI-Image-2.5 family of models, purpose-built for high-quality text-to-image generation and precise, controllable ...",
+      "published_at": "2026-06-03T23:07:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4v9AAw9J-FA/hqdefault.jpg"
     },
     {
-      "title": "Think you know the Premier League?",
-      "video_id": "Hx3XUu6UiME",
+      "title": "Microsoft AI CEO unveils 7 new AI models | Mustafa Suleyman at Microsoft Build 2026",
+      "video_id": "OvLIae4HCeM",
       "channel_title": "Microsoft",
-      "description": "Find stats, highlights, history and more personalized for you. The Premier League Companion powered by Copilot is your pocket ...",
-      "published_at": "2026-04-29T20:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hx3XUu6UiME/hqdefault.jpg"
+      "description": "Our goal is Humanist Superintelligence — AI designed to serve people, not replace them. At Microsoft Build 2026, Microsoft AI ...",
+      "published_at": "2026-06-03T16:30:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OvLIae4HCeM/hqdefault.jpg"
     },
     {
-      "title": "When it comes to Excel, @DimEarly is in a different league",
-      "video_id": "f0OUK3on1dQ",
+      "title": "Highlights from Satya Nadella&#39;s Opening Keynote | Microsoft Build 2026",
+      "video_id": "ZhZqeo7SD0Y",
       "channel_title": "Microsoft",
-      "description": "excel #exceltricks #microsoft Satya Nadella reigning Excel World Champion and Microsoft CEO Satya Nadella to talk shop!",
-      "published_at": "2026-04-24T23:10:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f0OUK3on1dQ/hqdefault.jpg"
+      "description": "See the highlights from Microsoft Build 2026 opening keynote, streamed live from San Francisco. Follow along as Microsoft CEO ...",
+      "published_at": "2026-06-03T04:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZhZqeo7SD0Y/hqdefault.jpg"
     },
     {
-      "title": "Microsoft Excel Elevator Ad (1990s)",
-      "video_id": "HegoJaXOIqQ",
+      "title": "Jensen Huang &amp; Satya Nadella on unmetered intelligence | Microsoft Build 2026",
+      "video_id": "rASAk00B3JU",
       "channel_title": "Microsoft",
-      "description": "An excerpt from the iconic Microsoft Excel elevator ad from the 1990s.",
-      "published_at": "2026-04-23T00:05:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HegoJaXOIqQ/hqdefault.jpg"
+      "description": "At Microsoft Build 2026, Satya Nadella and @NVIDIA CEO Jensen Huang break down the next evolution of computing, from AI at ...",
+      "published_at": "2026-06-03T00:54:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rASAk00B3JU/hqdefault.jpg"
     },
     {
-      "title": "How AI is helping New Zealand build safer after disaster",
-      "video_id": "jBJTIBjZ9iY",
+      "title": "Introducing 7 new Microsoft AI models",
+      "video_id": "BQsLSmGLh_c",
       "channel_title": "Microsoft",
-      "description": "Built on Microsoft Foundry, Beca's BEYON is an AI-powered digital twin with a conversational agent that reduces data retrieval ...",
-      "published_at": "2026-04-20T23:54:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jBJTIBjZ9iY/hqdefault.jpg"
+      "description": "Announcing a family of seven new models developed in-house at Microsoft AI. Our new models across image, voice, transcription, ...",
+      "published_at": "2026-06-02T23:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BQsLSmGLh_c/hqdefault.jpg"
     }
   ]
 }

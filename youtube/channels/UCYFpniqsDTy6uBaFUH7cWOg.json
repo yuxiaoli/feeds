@@ -1,16 +1,40 @@
 {
-  "fetched_at": "2026-05-31T01:04:30.406095",
+  "fetched_at": "2026-06-07T01:06:32.905965",
   "channel_id": "UCYFpniqsDTy6uBaFUH7cWOg",
   "channel_title": "NS Production",
   "count": 10,
   "videos": [
     {
       "title": "#shortvideo",
-      "video_id": "r4JKv9piqtU",
+      "video_id": "qU0BE1GH0p8",
       "channel_title": "NS Production",
       "description": "",
-      "published_at": "2026-05-29T19:36:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r4JKv9piqtU/hqdefault.jpg"
+      "published_at": "2026-06-05T15:50:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qU0BE1GH0p8/hqdefault.jpg"
+    },
+    {
+      "title": "#shortvideo",
+      "video_id": "xNDFYSVx90w",
+      "channel_title": "NS Production",
+      "description": "",
+      "published_at": "2026-06-04T21:57:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xNDFYSVx90w/hqdefault.jpg"
+    },
+    {
+      "title": "#shortvideo",
+      "video_id": "LPAZVt8FH9g",
+      "channel_title": "NS Production",
+      "description": "",
+      "published_at": "2026-06-02T21:51:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LPAZVt8FH9g/hqdefault.jpg"
+    },
+    {
+      "title": "#shortvideo",
+      "video_id": "ZFEPyGOB0xs",
+      "channel_title": "NS Production",
+      "description": "",
+      "published_at": "2026-06-01T21:30:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZFEPyGOB0xs/hqdefault.jpg"
     },
     {
       "title": "Медленно тебя теряю/Deep House 2026",
@@ -38,14 +62,6 @@
     },
     {
       "title": "#shortvideo",
-      "video_id": "zkPFg65sg1c",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2026-05-05T10:40:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zkPFg65sg1c/hqdefault.jpg"
-    },
-    {
-      "title": "#shortvideo",
       "video_id": "fARSwXzifWQ",
       "channel_title": "NS Production",
       "description": "",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-04-05T06:32:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mmGUFxQUjNw/hqdefault.jpg"
-    },
-    {
-      "title": "#armenia",
-      "video_id": "odrY9PG6CsI",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2026-03-23T15:10:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/odrY9PG6CsI/hqdefault.jpg"
-    },
-    {
-      "title": "#shortvideo",
-      "video_id": "809gNmHRBJo",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2026-03-23T10:05:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/809gNmHRBJo/hqdefault.jpg"
     }
   ]
 }

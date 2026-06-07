@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-05-31T01:04:11.014060",
+  "fetched_at": "2026-06-07T01:06:14.715992",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "How Minas Tirith was Built Backwards",
+      "video_id": "VeJ8hoPGVdk",
+      "channel_title": "DamiLee",
+      "description": "How was Minas Tirith actually built? Most fortresses grew upward. This one grew down. Each generation expanded further down ...",
+      "published_at": "2026-06-05T15:30:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VeJ8hoPGVdk/hqdefault.jpg"
+    },
+    {
+      "title": "Could Lothlórien exist in India? Living root bridges explained",
+      "video_id": "e0OXkro7qZo",
+      "channel_title": "DamiLee",
+      "description": "In India, living root bridges are grown over decades by guiding fig tree roots into flexible, self-repairing structures. This ancient ...",
+      "published_at": "2026-06-01T15:30:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e0OXkro7qZo/hqdefault.jpg"
+    },
     {
       "title": "5 Unique Museums in Seoul",
       "video_id": "OGop-mpee_A",
@@ -67,22 +83,6 @@
       "description": "In the 1960s, rapid population growth pushed architects to imagine cities on an unprecedented scale. One radical idea was ...",
       "published_at": "2026-04-29T15:30:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Jdm2k4s6Ax4/hqdefault.jpg"
-    },
-    {
-      "title": "Are hobbit holes a rebellion against modern design?",
-      "video_id": "KDr6eMfT290",
-      "channel_title": "DamiLee",
-      "description": "Hobbit architecture reflects slow living, handcrafted values, and resistance to industrial modernity. Inspired by the Arts and Crafts ...",
-      "published_at": "2026-04-24T15:30:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KDr6eMfT290/hqdefault.jpg"
-    },
-    {
-      "title": "Minas Tirith has a twin and nobody talks about it.",
-      "video_id": "4iLdLwXofg8",
-      "channel_title": "DamiLee",
-      "description": "Minas Tirith has a twin and nobody talks about it. Originally it wasn't called Minas Tirith at all. It was Minas Anor, the Tower of the ...",
-      "published_at": "2026-04-23T15:30:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4iLdLwXofg8/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-05-31T01:04:03.476997",
+  "fetched_at": "2026-06-07T01:06:07.706842",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Privacy on iPhone: Safari helps block data trackers",
+      "video_id": "Spb-ka7xrR8",
+      "channel_title": "Apple",
+      "description": "Safari helps keep data trackers off your back with state-of-the-art features that defend you against cross-site tracking, hide your IP ...",
+      "published_at": "2026-06-04T00:08:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Spb-ka7xrR8/hqdefault.jpg"
+    },
+    {
+      "title": "WWDC 2026 — June 8 | Apple",
+      "video_id": "hF8swzNR1-o",
+      "channel_title": "Apple",
+      "description": "All systems glow for WWDC26. This year's week of technology, community, and creativity with developers across the world kicks ...",
+      "published_at": "2026-06-01T15:38:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hF8swzNR1-o/hqdefault_live.jpg"
+    },
     {
       "title": "Never miss a notification with Flash for Alerts. Tip from Sibele at the Apple Store. #Shorts",
       "video_id": "hmeqs8mCHjI",
@@ -67,22 +83,6 @@
       "description": "In partnership with Apple Creator Studio, watch Samba Films make poetry in motion with Pages, Keynote and Final Cut Pro.",
       "published_at": "2026-05-13T00:59:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jOUqLqlw39E/hqdefault.jpg"
-    },
-    {
-      "title": "Watch Ellie Dixon make her debut album in her bedroom",
-      "video_id": "op8HMCB5JnQ",
-      "channel_title": "Apple",
-      "description": "In partnership with Apple Creator Studio, watch Ellie Dixon make her debut album in her bedroom with Logic Pro.",
-      "published_at": "2026-05-12T22:21:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/op8HMCB5JnQ/hqdefault.jpg"
-    },
-    {
-      "title": "Zoom in with Magnifier on Mac. Tip from Claudia at the Apple Store.",
-      "video_id": "a8KHcQLaesw",
-      "channel_title": "Apple",
-      "description": "AssistiveTechnology #Accessibility #BlindCommunity.",
-      "published_at": "2026-05-12T20:47:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a8KHcQLaesw/hqdefault.jpg"
     }
   ]
 }

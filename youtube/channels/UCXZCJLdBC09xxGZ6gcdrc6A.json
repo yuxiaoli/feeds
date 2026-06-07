@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-05-31T01:04:29.669438",
+  "fetched_at": "2026-06-07T01:06:32.156124",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "Terence Tao on How AI Is Changing Mathematics",
-      "video_id": "cdflu9ZXZGE",
+      "title": "OpenAI Investor Innovation Day",
+      "video_id": "RwzRm-qCXwA",
       "channel_title": "OpenAI",
-      "description": "Fields Medal recipient Terence Tao explains how AI is changing the way mathematicians work, making it easier to experiment, ...",
-      "published_at": "2026-05-30T13:19:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cdflu9ZXZGE/hqdefault.jpg"
+      "description": "We brought together a curated group of senior leaders for a hands-on experience focused on how AI is transforming financial ...",
+      "published_at": "2026-06-06T23:50:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RwzRm-qCXwA/hqdefault.jpg"
     },
     {
-      "title": "Builders Unscripted: Ep. 3 - Matias Castello, Product Lead at Alchemy",
-      "video_id": "8QKqENa_eQQ",
+      "title": "Introducing Sites in Codex",
+      "video_id": "VRvC5smyzso",
       "channel_title": "OpenAI",
-      "description": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things.",
-      "published_at": "2026-05-29T20:29:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8QKqENa_eQQ/hqdefault.jpg"
+      "description": "Sites in Codex lets anyone on your team turn an idea into a secure application and publish it in minutes. Build internal tools, mini ...",
+      "published_at": "2026-06-05T17:42:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VRvC5smyzso/hqdefault.jpg"
     },
     {
-      "title": "Windows Computer Use and mobile access for Codex",
-      "video_id": "MPIAB-8VmCo",
+      "title": "1Password One Shots with Codex",
+      "video_id": "xZ5J81Lwyk8",
       "channel_title": "OpenAI",
-      "description": "Codex on Windows can now use your computer to work across desktop apps, while you step away from your desk. You can also ...",
-      "published_at": "2026-05-29T18:31:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MPIAB-8VmCo/hqdefault.jpg"
+      "description": "With Codex, it's helped us get to feature launches faster,” Nancy Wang. The 1Password team is going from idea to prototype in ...",
+      "published_at": "2026-06-05T13:01:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xZ5J81Lwyk8/hqdefault.jpg"
     },
     {
-      "title": "These Models are Crazy!",
-      "video_id": "JA3tmYqCacA",
+      "title": "Codex is your BFF when things are everything, everywhere, all at once 💫",
+      "video_id": "BdBxQz8e-o8",
       "channel_title": "OpenAI",
-      "description": "\"It's taking me minutes and hours to do things that took teams weeks and months,\" - Lauren Steinberg, Loblaw Companies Limited ...",
-      "published_at": "2026-05-29T17:10:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JA3tmYqCacA/hqdefault.jpg"
+      "description": "Zapier is a remote first company, so their team is working across multiple tools like Slack, Google Docs and Coda. For Ryan ...",
+      "published_at": "2026-06-04T20:27:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BdBxQz8e-o8/hqdefault.jpg"
     },
     {
-      "title": "Loblaw Ships Faster with Codex",
-      "video_id": "EYvzpZX2-Ww",
+      "title": "What Codex Unlocks for Zapier",
+      "video_id": "DDnGhZ01PqM",
       "channel_title": "OpenAI",
-      "description": "Lauren, Chief Digital Officer at Canada's largest retailer, shared how Codex and ChatGPT Images 2.0 are helping her team ...",
-      "published_at": "2026-05-29T17:03:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EYvzpZX2-Ww/hqdefault.jpg"
+      "description": "Zapier is a remote first company, so their team is working across multiple tools like Slack, Google Docs and Coda. For Ryan ...",
+      "published_at": "2026-06-04T20:25:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DDnGhZ01PqM/hqdefault.jpg"
     },
     {
-      "title": "Build Hour: Agents SDK",
-      "video_id": "tK32trvj_b4",
+      "title": "Codex for Sales Teams: Moving Faster to Solve Customer Problems",
+      "video_id": "U2C55LC0ZLM",
       "channel_title": "OpenAI",
-      "description": "Build with the next evolution of the Agents SDK. In this Build Hour, you'll learn how to use the updated Agents SDK to build ...",
-      "published_at": "2026-05-28T20:09:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tK32trvj_b4/hqdefault.jpg"
+      "description": "Check out the quick ways Ashton and our sales team are leaning into Codex for prep work, ultimately delivering a better customer ...",
+      "published_at": "2026-06-04T19:32:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U2C55LC0ZLM/hqdefault.jpg"
     },
     {
-      "title": "How Abridge uses GPT-5.5 for clinical decision support",
-      "video_id": "tXBRYPpIvms",
+      "title": "Build and share interactive prototypes in Codex",
+      "video_id": "_9ImjmzAyus",
       "channel_title": "OpenAI",
-      "description": "At the point of care, more context usually means more complexity. Chaitanya Asawa from Abridge shares how GPT-5.5 helps ...",
-      "published_at": "2026-05-28T18:11:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tXBRYPpIvms/hqdefault.jpg"
+      "description": "The Product Design plugin for Codex helps teams move from a rough idea to a prototype they can see, refine, and share for ...",
+      "published_at": "2026-06-04T18:06:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_9ImjmzAyus/hqdefault.jpg"
     },
     {
-      "title": "R&amp;D Part 1",
-      "video_id": "DHfZqTWlSc4",
+      "title": "How a reasoning model cracked an 80-year-old math problem — the OpenAI Podcast Ep. 20",
+      "video_id": "wNWz5Hbh5VQ",
       "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2026-05-28T16:01:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DHfZqTWlSc4/hqdefault.jpg"
+      "description": "Last month AI found something mathematicians had missed for decades. Reasoning researchers Alexander Wei, Hongxun Wu, ...",
+      "published_at": "2026-06-04T17:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wNWz5Hbh5VQ/hqdefault.jpg"
     },
     {
-      "title": "Join us for Builders Unscripted Episode 3 on 5/29",
-      "video_id": "ovPVaSmDFcw",
+      "title": "Codex Helps Amgen Focus on Patients",
+      "video_id": "uU3LUMcNgfA",
       "channel_title": "OpenAI",
-      "description": "The developer we're building for has evolved.” Matias Castillo talks with Romain Huet about the new builder mindset, where ideas ...",
-      "published_at": "2026-05-27T16:48:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ovPVaSmDFcw/hqdefault.jpg"
+      "description": "\"The ability to abstract away from the tedious boring bits of writing code and to spend your energy thinking about patients, that's ...",
+      "published_at": "2026-06-04T16:28:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uU3LUMcNgfA/hqdefault.jpg"
     },
     {
-      "title": "Sid vs Career | With ChatGPT",
-      "video_id": "KHasJMg4zV4",
+      "title": "It&#39;s time to fly | Codex",
+      "video_id": "bJcA23ckzcY",
       "channel_title": "OpenAI",
-      "description": "Expertise at your fingertips with ChatGPT Credits Director: Abhinav Pratiman DOP: Tassaduq Hussain Production House: Early ...",
-      "published_at": "2026-05-26T06:18:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KHasJMg4zV4/hqdefault.jpg"
+      "description": "Welcome to the new frontier of building. Take on more tasks, move effortlessly across projects, and ship faster. Try Codex for free ...",
+      "published_at": "2026-06-03T19:11:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bJcA23ckzcY/hqdefault.jpg"
     }
   ]
 }

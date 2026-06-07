@@ -1,24 +1,16 @@
 {
-  "fetched_at": "2026-05-31T01:04:05.782148",
+  "fetched_at": "2026-06-07T01:06:09.855710",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
     {
-      "title": "Did Ferrari just make a bad decision? Luce faces massive backlash!",
-      "video_id": "KKlF8qhg3-c",
+      "title": "How much space is there in space?",
+      "video_id": "msK9_dSTJ2A",
       "channel_title": "Interesting Engineering",
-      "description": "Ferrari just unveiled the Luce — its first-ever electric car, designed Jony Ive, lost 8% of its stock value within hours. The internet ...",
-      "published_at": "2026-05-28T19:30:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KKlF8qhg3-c/hqdefault.jpg"
-    },
-    {
-      "title": "Are air batteries a good solution for energy storage?",
-      "video_id": "GoiECSXOvQE",
-      "channel_title": "Interesting Engineering",
-      "description": "With renewables on the rise, many companies are looking at novel and cheap ways to store the energy for use when the wind isn't ...",
-      "published_at": "2026-05-23T07:14:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GoiECSXOvQE/hqdefault.jpg"
+      "description": "The Earth's orbit is getting increasingly crowded with not just satellites, but also old rocket boosters, fragments of broken space ...",
+      "published_at": "2026-06-06T14:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/msK9_dSTJ2A/hqdefault.jpg"
     },
     {
       "title": "NASA’s Artemis II mission animation",
@@ -83,6 +75,14 @@
       "description": "Features like GENLOCK and Timecode in, previously restricted to professional camera equipment, are now at your fingertips, ...",
       "published_at": "2025-09-10T13:03:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/r-EAPOKdLFQ/hqdefault.jpg"
+    },
+    {
+      "title": "Shape Changing Antenna Secures Signal",
+      "video_id": "5GIFQ5CvF2Q",
+      "channel_title": "Interesting Engineering",
+      "description": "MIT researchers have invented a flexible antenna, capable of maintaining a strong signal connection by changing shape!",
+      "published_at": "2025-08-18T23:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5GIFQ5CvF2Q/hqdefault.jpg"
     }
   ]
 }

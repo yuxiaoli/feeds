@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-05-31T01:03:49.047990",
+  "fetched_at": "2026-06-07T01:05:54.432810",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "If We Make All Three With @AIatMeta",
+      "video_id": "Zj315BdfDfE",
+      "channel_title": "Meta",
+      "description": "yes, @AIatMeta can really do all of that (you're on your own for sinking baskets, though)",
+      "published_at": "2026-06-05T16:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Zj315BdfDfE/hqdefault.jpg"
+    },
+    {
+      "title": "Reel of The Week: @lilygbakes",
+      "video_id": "v6pIvepHYgc",
+      "channel_title": "Meta",
+      "description": "lilygbakes is a food creator who turns her bakes into canvases, and @instagram, @facebookapp and @WhatsApp have turned ...",
+      "published_at": "2026-06-03T16:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v6pIvepHYgc/hqdefault.jpg"
+    },
+    {
+      "title": "Best AI Tip in 4 Folds",
+      "video_id": "Y087rRmUMJI",
+      "channel_title": "Meta",
+      "description": "Easy as 1, 2, 3...4.",
+      "published_at": "2026-06-02T14:30:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y087rRmUMJI/hqdefault.jpg"
+    },
     {
       "title": "Boz To The Future #26: The Future According to Ed Catmull",
       "video_id": "4s1_DKMYQVo",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-05-14T15:58:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qEUx-6av8lE/hqdefault.jpg"
-    },
-    {
-      "title": "Meta Connect - September 23-24",
-      "video_id": "czS85XURnl4",
-      "channel_title": "Meta",
-      "description": "mark your calendars—Meta Connect is September 23-24. full details here: ...",
-      "published_at": "2026-05-12T16:05:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/czS85XURnl4/hqdefault.jpg"
-    },
-    {
-      "title": "MRBD Hand Gestures",
-      "video_id": "RLz3r_fwijQ",
-      "channel_title": "Meta",
-      "description": "The Meta Neural Band allows you to use subtle hand movements to scroll, save, and capture content on the Meta Ray-Ban ...",
-      "published_at": "2026-05-08T16:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RLz3r_fwijQ/hqdefault.jpg"
-    },
-    {
-      "title": "&quot;Hey, Meta&quot; Iguana",
-      "video_id": "a3j3Q3LltRc",
-      "channel_title": "Meta",
-      "description": "looks like you might have some competition George.",
-      "published_at": "2026-05-06T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a3j3Q3LltRc/hqdefault.jpg"
     }
   ]
 }

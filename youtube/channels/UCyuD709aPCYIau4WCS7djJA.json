@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-31T01:04:52.193506",
+  "fetched_at": "2026-06-07T01:06:53.217972",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "June 2026 is a SKY SPECTACLE month! 🌟",
+      "video_id": "zYMKAfxIs80",
+      "channel_title": "Star Walk",
+      "description": "This June has it all: conjunctions, a parade, meteors, a solstice, and a Strawberry Moon. Don't just glance up – look up and enjoy ...",
+      "published_at": "2026-06-05T11:11:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zYMKAfxIs80/hqdefault.jpg"
+    },
     {
       "title": "Weekend plan: stars, planets, deep-sky objects 🔭✨",
       "video_id": "7XUWQ7y4lww",
@@ -75,14 +83,6 @@
       "description": "You'd need a ridiculous amount of power, insane precision, and most likely lasers just to make it visible. And if you wanted to ...",
       "published_at": "2026-04-24T13:21:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/pybCl5jEsZY/hqdefault.jpg"
-    },
-    {
-      "title": "Planets Then vs Now 🪐",
-      "video_id": "j3iegyZP5O0",
-      "channel_title": "Star Walk",
-      "description": "From fuzzy spots to breathtaking worlds — this is how our view of the planets has changed over time. Which glow-up is your ...",
-      "published_at": "2026-04-23T09:48:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j3iegyZP5O0/hqdefault.jpg"
     }
   ]
 }

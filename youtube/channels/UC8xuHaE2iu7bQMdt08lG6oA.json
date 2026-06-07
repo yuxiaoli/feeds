@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-31T01:04:00.340148",
+  "fetched_at": "2026-06-07T01:06:04.733190",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "Before the engine starts… you already feel it #americanmuscle #cinema",
+      "video_id": "RECDHgKycg4",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-06-01T16:10:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RECDHgKycg4/hqdefault.jpg"
+    },
     {
       "title": "56 Chevy pickup truck burns out @Tator_56 #chevytrucks",
       "video_id": "rzuFFOWiEK4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-04-19T18:17:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lMM83wvb-QE/hqdefault.jpg"
-    },
-    {
-      "title": "Making an RC truck look real #rctruck #truck #videography",
-      "video_id": "z7chtHgMuX0",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2026-04-10T18:30:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z7chtHgMuX0/hqdefault.jpg"
     }
   ]
 }

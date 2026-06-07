@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-05-31T01:04:13.333166",
+  "fetched_at": "2026-06-07T01:06:16.719067",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Intro to Warp - essentials, Claude Code setup, and /orchestrate",
+      "video_id": "vJl6L8dOWBo",
+      "channel_title": "Warp",
+      "description": "Download Warp: https://warp.dev Clone the example repository to follow along: ...",
+      "published_at": "2026-06-05T22:48:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vJl6L8dOWBo/hqdefault_live.jpg"
+    },
+    {
+      "title": "Intro to Warp  - terminal basics, Claude Code setup, and cloud handoff with Oz",
+      "video_id": "mVHu_alJv0w",
+      "channel_title": "Warp",
+      "description": "Download Warp: https://warp.dev Clone the example repository to follow along: ...",
+      "published_at": "2026-06-05T07:22:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mVHu_alJv0w/hqdefault.jpg"
+    },
+    {
+      "title": "The best terminal for Claude Code is...",
+      "video_id": "hl-4xmQJRcs",
+      "channel_title": "Warp",
+      "description": "Try Warp: https://warp.dev.",
+      "published_at": "2026-06-02T13:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hl-4xmQJRcs/hqdefault.jpg"
+    },
     {
       "title": "Neovim is still king 👑",
       "video_id": "sc4lQfxAbfQ",
@@ -29,12 +53,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/97-XXISEHl8/hqdefault.jpg"
     },
     {
-      "title": "Intro to Warp  - terminal basics, Claude Code setup, and cloud handoff with Oz",
-      "video_id": "mVHu_alJv0w",
+      "title": "Intro to Oz",
+      "video_id": "poLkJhO7fdo",
       "channel_title": "Warp",
-      "description": "Download Warp: https://warp.dev Clone the example repository to follow along: ...",
-      "published_at": "2026-05-22T20:54:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mVHu_alJv0w/hqdefault_live.jpg"
+      "description": "00:00 Intro 00:36 Set up an environment 02:55 Live session links 04:02 Scheduling Agents 04:55 Oz CLI 06:35 Start a cloud ...",
+      "published_at": "2026-05-26T19:18:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/poLkJhO7fdo/hqdefault.jpg"
     },
     {
       "title": "Intro to Warp + the Oz cloud platform",
@@ -59,30 +83,6 @@
       "description": "Download Warp to start your first agent: https://warp.dev Learn more about Warp's cloud infrastructure platform, Oz: https://oz.dev.",
       "published_at": "2026-05-21T14:00:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9qpGYZ58Wck/hqdefault.jpg"
-    },
-    {
-      "title": "How Warp Works - a deep dive into Warp&#39;s source code",
-      "video_id": "DSySVmnRcis",
-      "channel_title": "Warp",
-      "description": "Warp is now open source. Curious how to contribute? Come join us for a live \"office hours\" session! ​​We will build features live ...",
-      "published_at": "2026-05-21T06:40:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DSySVmnRcis/hqdefault.jpg"
-    },
-    {
-      "title": "How to run any agent in the cloud with Oz - Claude Code, Codex, or the Warp Agent",
-      "video_id": "ZUYyuA5i1VU",
-      "channel_title": "Warp",
-      "description": "Learn more about Warp's cloud orchestration platform, Oz: https://oz.dev.",
-      "published_at": "2026-05-20T19:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZUYyuA5i1VU/hqdefault.jpg"
-    },
-    {
-      "title": "How to orchestrate a team of agents in the cloud with Warp",
-      "video_id": "qeR79bhyFOw",
-      "channel_title": "Warp",
-      "description": "Download Warp to run your first /orchestrate command: https://warp.dev Learn more about agent orchestration in Warp: ...",
-      "published_at": "2026-05-20T16:25:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qeR79bhyFOw/hqdefault.jpg"
     }
   ]
 }

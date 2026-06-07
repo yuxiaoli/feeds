@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-31T01:04:23.761150",
+  "fetched_at": "2026-06-07T01:06:26.419147",
   "channel_id": "UCREFp3D_n8JfcDonlm7Mpyw",
   "channel_title": "Programiz",
   "count": 10,
   "videos": [
+    {
+      "title": "DSA can be frustrating before it finally starts making sense!",
+      "video_id": "RTIv_r52mIo",
+      "channel_title": "Programiz",
+      "description": "",
+      "published_at": "2026-06-03T08:57:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RTIv_r52mIo/hqdefault.jpg"
+    },
     {
       "title": "Understanding DSA becomes much easier with our Code Visualizer!",
       "video_id": "f2vLWwi86BU",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-04-22T11:11:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/VCOvX7dfX1E/hqdefault.jpg"
-    },
-    {
-      "title": "Did I get it all right or am I missing something?🤔",
-      "video_id": "9LXg3Ciklpk",
-      "channel_title": "Programiz",
-      "description": "",
-      "published_at": "2026-04-16T10:58:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9LXg3Ciklpk/hqdefault.jpg"
     }
   ]
 }

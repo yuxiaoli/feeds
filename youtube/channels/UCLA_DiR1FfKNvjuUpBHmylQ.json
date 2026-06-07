@@ -1,32 +1,16 @@
 {
-  "fetched_at": "2026-05-31T01:04:16.963959",
+  "fetched_at": "2026-06-07T01:06:20.306360",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 5,
+  "count": 3,
   "videos": [
     {
-      "title": "Roscosmos Spacewalk 66",
-      "video_id": "HVKuW-DkE_U",
+      "title": "NASA&#39;s Artemis III Announcement",
+      "video_id": "0fLROeRhqZM",
       "channel_title": "NASA",
-      "description": "Two Roscosmos cosmonauts, Sergey Kud-Sverchkov and Sergei Mikaev, are set to conduct a spacewalk outside the International ...",
-      "published_at": "2026-05-27T21:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HVKuW-DkE_U/hqdefault.jpg"
-    },
-    {
-      "title": "Moon Base News Conference (May 26, 2026)",
-      "video_id": "Nyki6O1oxIg",
-      "channel_title": "NASA",
-      "description": "As part of NASA Artemis, we're building a Moon Base to serve as a lunar habitat for long duration exploration and science. During ...",
-      "published_at": "2026-05-26T19:20:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nyki6O1oxIg/hqdefault.jpg"
-    },
-    {
-      "title": "Moon Base: Humanity&#39;s First Outpost on the Lunar Surface (Official NASA Trailer)",
-      "video_id": "tQcNSJc8gEg",
-      "channel_title": "NASA",
-      "description": "Coming soon to a Moon near you. We're building a Moon Base at the lunar South Pole — a hub for science, technology ...",
-      "published_at": "2026-05-26T19:16:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tQcNSJc8gEg/hqdefault.jpg"
+      "description": "Meet the astronauts of Artemis III! We're providing an update on Artemis III, and we'll introduce the mission's four crew members.",
+      "published_at": "2026-06-02T14:07:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0fLROeRhqZM/hqdefault_live.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",

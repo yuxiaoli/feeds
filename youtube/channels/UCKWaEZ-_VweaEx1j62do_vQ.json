@@ -1,64 +1,40 @@
 {
-  "fetched_at": "2026-05-31T01:04:15.499396",
+  "fetched_at": "2026-06-07T01:06:18.900657",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Cybersecurity&#39;s Telephone Game Problem📞",
-      "video_id": "Z4XBnHXYLhU",
+      "title": "The future of software engineering, tokenmaxxing and AI in higher education",
+      "video_id": "EKULOf_Cy0w",
       "channel_title": "IBM Technology",
-      "description": "AI agents working together create unexpected security gaps. Learn why vulnerabilities hide in the spaces between—before ...",
-      "published_at": "2026-05-29T17:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z4XBnHXYLhU/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content →https://ibm.biz/~zPlBtHycQ How is the role of a software engineer ...",
+      "published_at": "2026-06-05T10:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EKULOf_Cy0w/hqdefault.jpg"
     },
     {
-      "title": "Agent control planes &amp; OpenAI model solves Erdős",
-      "video_id": "wVdivlahcm0",
+      "title": "OpenClaw Security Risks: 6 Dangers of Autonomous AI Agents",
+      "video_id": "7qZH3D7u-z8",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~pH69FgNhP Are AI agents creative geniuses or ...",
-      "published_at": "2026-05-29T10:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wVdivlahcm0/hqdefault.jpg"
+      "description": "Learn more about What OpenClaw Reveals About Agentic AI Security Risks here → https://ibm.biz/~S29jyA638 OpenClaw ...",
+      "published_at": "2026-06-04T11:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7qZH3D7u-z8/hqdefault.jpg"
     },
     {
-      "title": "Multi AI Agent Systems: When One AI Brain Isn’t Enough",
-      "video_id": "kYkZI3oj2W4",
+      "title": "Project Lightwell brings open source security into the AI era",
+      "video_id": "aa6k-JrZTYI",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Multi-Agent Systems here → https://ibm.biz/~3rThyJ7iK Your AI agent might sound confident but still be ...",
-      "published_at": "2026-05-28T11:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kYkZI3oj2W4/hqdefault.jpg"
+      "description": "Explore the podcast → https://ibm.biz/~20kwS8piW Open source software powers more than 90% of Fortune 500 companies.",
+      "published_at": "2026-06-03T10:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aa6k-JrZTYI/hqdefault.jpg"
     },
     {
-      "title": "First findings from Project Glasswing",
-      "video_id": "ftUlJzuzdU4",
+      "title": "The Most Important Gates in Quantum Computing Explained",
+      "video_id": "aCOsqL-jIOo",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/~WrcSAwFY6 While Anthropic has restricted Mythos access to its Project Glasswing partners ...",
-      "published_at": "2026-05-27T10:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ftUlJzuzdU4/hqdefault.jpg"
-    },
-    {
-      "title": "The Four Types of Memory Every AI Agent Needs",
-      "video_id": "BacJ6sEhqMo",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI Agents here → https://ibm.biz/~OSlmklt3a AI agents remember in more than one way. Martin Keen explains ...",
-      "published_at": "2026-05-26T11:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BacJ6sEhqMo/hqdefault.jpg"
-    },
-    {
-      "title": "Graph Neural Networks Explained: A Clear Guide to GNN Basics &amp; Models",
-      "video_id": "eGoszzMkGfU",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Graph Neural Networks here → https://ibm.biz/~Jnyh8Bu8W World runs on networks—social circles, molecules, ...",
-      "published_at": "2026-05-25T11:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eGoszzMkGfU/hqdefault.jpg"
-    },
-    {
-      "title": "Five AI Risks That Can Get You Fired—And How to Avoid Them",
-      "video_id": "1m55T8xST9s",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI Governance here → https://ibm.biz/~VYNci8Vwo 'Here are five ways that AI can get you fired.' Martin Keen ...",
-      "published_at": "2026-05-24T11:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1m55T8xST9s/hqdefault.jpg"
+      "description": "Learn more about Quantum Computing here → https://ibm.biz/~BYtAhhOvk Quantum computing starts with just a few powerful ...",
+      "published_at": "2026-06-02T11:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aCOsqL-jIOo/hqdefault.jpg"
     },
     {
       "title": "RSA recap, the LiteLLM breach, and the quest to fix AI agent security",
@@ -83,6 +59,30 @@
       "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
       "published_at": "2026-02-26T12:00:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/RKeW4Xd9V9E/hqdefault.jpg"
+    },
+    {
+      "title": "Cybersecurity Trends in 2026: Shadow AI, Quantum &amp; Deepfakes",
+      "video_id": "2jU-mLMV8Vw",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
+      "published_at": "2025-12-29T12:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2jU-mLMV8Vw/hqdefault.jpg"
+    },
+    {
+      "title": "AI agents in 2025: Why agentic commerce isn&#39;t ready for Black Friday yet",
+      "video_id": "SdNRWJ-oqjY",
+      "channel_title": "IBM Technology",
+      "description": "Explore the podcast → https://ibm.biz/BdbJ6K Will Black Friday 2025 be the breakout moment for agentic commerce? This week ...",
+      "published_at": "2025-11-28T11:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/hqdefault.jpg"
+    },
+    {
+      "title": "Android malware that acts like a person and AI agents that act like malware",
+      "video_id": "iaZS1jer8MY",
+      "channel_title": "IBM Technology",
+      "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
+      "published_at": "2025-11-05T10:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
     }
   ]
 }

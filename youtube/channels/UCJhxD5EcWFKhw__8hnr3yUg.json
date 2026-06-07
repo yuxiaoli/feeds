@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-05-31T01:04:11.856602",
+  "fetched_at": "2026-06-07T01:06:15.391551",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "世界旅行之后的生活，和一点未来的计划",
+      "video_id": "EQmBi2aRTEA",
+      "channel_title": "码农高天",
+      "description": "由于我世界旅行的视频剪的太慢，大家对我现状的了解千奇百怪，借这个视频的机会对齐一下！更重要的是和大家聊一下视频更新 ...",
+      "published_at": "2026-06-06T04:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EQmBi2aRTEA/hqdefault.jpg"
+    },
     {
       "title": "【python】lazy import详解，3.15新特性它来啦！",
       "video_id": "UYdxbADcYEw",
@@ -75,14 +83,6 @@
       "description": "Python的发展离不开PSF多年的宣传和推广，今天我也帮忙宣传一下PSF。希望PSF和Python都可以越来越好~ （投币捐款的部分 ...",
       "published_at": "2026-01-17T09:00:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/g4H9M4F0kyk/hqdefault.jpg"
-    },
-    {
-      "title": "九份、金矿、卤肉饭和网红出租车",
-      "video_id": "H6q5-EMOUCs",
-      "channel_title": "码农高天",
-      "description": "打卡经典游客目的地九份，顺便去边上的金矿看了一圈。晚上回来还遇到个网红出租车，在车上唱了个歌！",
-      "published_at": "2026-01-10T05:30:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H6q5-EMOUCs/hqdefault.jpg"
     }
   ]
 }

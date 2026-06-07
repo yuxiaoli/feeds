@@ -1,88 +1,72 @@
 {
-  "fetched_at": "2026-05-31T01:04:26.732330",
+  "fetched_at": "2026-06-07T01:06:29.204798",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
-  "count": 10,
+  "count": 8,
   "videos": [
     {
-      "title": "Probability Density Functions (PDFs) Explained Clearly | Continuous Random Variables",
-      "video_id": "5iUOa3fz-X4",
+      "title": "PyTorch Tensors: The Data Structure Behind Deep Learning",
+      "video_id": "lOGd6ysc2j4",
       "channel_title": "Socratica",
-      "description": "Probability Density Functions (PDFs) are essential for working with continuous random variables—but they can feel unintuitive at ...",
-      "published_at": "2026-05-04T10:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5iUOa3fz-X4/hqdefault.jpg"
+      "description": "Tensors are the primary data structure in PyTorch. They are used to store data, perform mathematical operations, move ...",
+      "published_at": "2026-06-03T10:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lOGd6ysc2j4/hqdefault.jpg"
     },
     {
-      "title": "The Language of Probability",
-      "video_id": "SYyXzHSo_I0",
+      "title": "CREDIT Cards 💳 Pros &amp; Cons - Personal Finance",
+      "video_id": "eLWIRLRpqRk",
       "channel_title": "Socratica",
-      "description": "SIGN UP for tastefully infrequent updates about our upcoming Probability & Statistics course.",
-      "published_at": "2026-03-25T10:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SYyXzHSo_I0/hqdefault.jpg"
+      "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
+      "published_at": "2024-08-21T07:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eLWIRLRpqRk/hqdefault.jpg"
     },
     {
-      "title": "SciPy - A Scientific Extension of NumPy | Python",
-      "video_id": "wuIrxCrXIyc",
+      "title": "Logging in Python  ||  Learn Python Programming  (Computer Science)",
+      "video_id": "g8nQ90Hk328",
       "channel_title": "Socratica",
-      "description": "SciPy is a collection of specialized modules built on top of NumPy for more advanced scientific computations. We show how SciPy ...",
-      "published_at": "2026-03-19T07:46:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wuIrxCrXIyc/hqdefault.jpg"
+      "description": "Stay in the loop INFINITELY: https://snu.socratica.com/python The Logging module in Python makes it ...",
+      "published_at": "2017-07-15T19:18:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g8nQ90Hk328/hqdefault.jpg"
     },
     {
-      "title": "Numpy Arrays - Fast Linear Algebra in Python",
-      "video_id": "u5kq2VpSAgo",
+      "title": "How to Memorize &amp; Remember - Study Tips - Mnemonic Devices",
+      "video_id": "VOjvl8nQPpM",
       "channel_title": "Socratica",
-      "description": "Join our Patreon: https://www.patreon.com/cw/socratica Sign up for Socratica Courses: ...",
-      "published_at": "2026-03-03T11:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u5kq2VpSAgo/hqdefault.jpg"
+      "description": "Hello Socratica Friends! We're here to help you be a Great Student. In this episode, we learn about MNEMONICS. This is another ...",
+      "published_at": "2017-01-25T07:41:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VOjvl8nQPpM/hqdefault.jpg"
     },
     {
-      "title": "Stock Options Survival Guide - Introduction to Risk",
-      "video_id": "VeCRV8MP7xA",
+      "title": "Symmetry Groups of Triangles  (Abstract Algebra)",
+      "video_id": "DeCcqioogLY",
       "channel_title": "Socratica",
-      "description": "STOCK OPTIONS COURSE: https://www.socratica.com/courses/stock-options Stock options can amplify gains, but ...",
-      "published_at": "2026-02-17T11:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VeCRV8MP7xA/hqdefault.jpg"
+      "description": "We introduce the connection between geometric figures and abstract algebra by showing how you can associate a group with ...",
+      "published_at": "2014-02-07T04:09:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DeCcqioogLY/hqdefault.jpg"
     },
     {
-      "title": "tkinter - Building UIs with Python",
-      "video_id": "VmCbkSEyMM0",
+      "title": "Iowa - 50 States - US Geography",
+      "video_id": "HQrimxVXyjc",
       "channel_title": "Socratica",
-      "description": "Join our Patreon: https://www.patreon.com/cw/socratica Sign up for Socratica Courses: ...",
-      "published_at": "2026-02-02T11:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VmCbkSEyMM0/hqdefault.jpg"
+      "description": "Iowa's nickname is \"The Hawkeye State\" in honor of Chief Black Hawk. He was the first Native American to write his ...",
+      "published_at": "2014-01-31T19:45:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HQrimxVXyjc/hqdefault.jpg"
     },
     {
-      "title": "HTTP Requests in Python",
-      "video_id": "hEv50bS1_Og",
+      "title": "Doctor, Doctor!  What does BID mean? How to understand your doctor.",
+      "video_id": "YCw0JMwrvUM",
       "channel_title": "Socratica",
-      "description": "Sign up for Socratica Courses: https://www.socratica.com/collections Socratica ...",
-      "published_at": "2026-01-13T12:01:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hEv50bS1_Og/hqdefault.jpg"
+      "description": "Ever get the feeling your doctor is speaking a different language? Not to worry! Here's a friend to help decipher what all those ...",
+      "published_at": "2013-05-15T02:48:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YCw0JMwrvUM/hqdefault.jpg"
     },
     {
-      "title": "Threads and Threading in Python",
-      "video_id": "BexuvowO7PM",
+      "title": "What are scalene triangles? Geometry Terms and Definitions",
+      "video_id": "Gy-xzMAQxLE",
       "channel_title": "Socratica",
-      "description": "Sign up for Socratica Courses: https://www.socratica.com/collections Socratica ...",
-      "published_at": "2025-12-19T12:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BexuvowO7PM/hqdefault.jpg"
-    },
-    {
-      "title": "Stock Options Course version 1.0 - for Aspiring Quants",
-      "video_id": "MB0n6CpNw9o",
-      "channel_title": "Socratica",
-      "description": "STOCK OPTIONS COURSE: Our first finance course is NOW LIVE! Aspiring quants should use this link to enroll: ...",
-      "published_at": "2025-12-09T11:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MB0n6CpNw9o/hqdefault.jpg"
-    },
-    {
-      "title": "Delta of a Stock Option 🔺 Finance Lessons for Quants",
-      "video_id": "mkgD2OcYMCE",
-      "channel_title": "Socratica",
-      "description": "STOCK OPTIONS COURSE: Our first finance course, Stock Options, is NOW LIVE! Aspiring quants should use ...",
-      "published_at": "2025-11-20T11:01:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mkgD2OcYMCE/hqdefault.jpg"
+      "description": "Triangles can have many different names. Learn what you call a triangle where all three sides are different lengths. Geometer: ...",
+      "published_at": "2013-04-03T05:35:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gy-xzMAQxLE/hqdefault.jpg"
     }
   ]
 }

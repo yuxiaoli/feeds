@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-05-31T01:04:09.455797",
+  "fetched_at": "2026-06-07T01:06:13.350887",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The Full Aussie Podcast - Having a Yarn",
+      "video_id": "6WqWl1svVWQ",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "Duel stream from the Full Aussie youtube channel MrGrantGregory YouTube: / @mrgrantgregory MrGrantGregory Twitter: ...",
+      "published_at": "2026-06-06T14:40:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6WqWl1svVWQ/hqdefault.jpg"
+    },
+    {
+      "title": "Giant Doggos or Small Bridge",
+      "video_id": "sQ9D6npvsGo",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "",
+      "published_at": "2026-06-02T11:50:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sQ9D6npvsGo/hqdefault.jpg"
+    },
+    {
+      "title": "what&#39;s Doggo Doing Today",
+      "video_id": "KErdr0zN4Ak",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "",
+      "published_at": "2026-05-31T16:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KErdr0zN4Ak/hqdefault.jpg"
+    },
     {
       "title": "Bonnies Up the Duff - Happy Anniversary Harambe - F.A.P",
       "video_id": "aiLELKfXsiM",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-05-28T19:00:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wgJJ5FWjgsY/hqdefault.jpg"
-    },
-    {
-      "title": "28 May 2026",
-      "video_id": "H66RD6WVUbg",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "",
-      "published_at": "2026-05-28T18:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H66RD6WVUbg/hqdefault.jpg"
-    },
-    {
-      "title": "doggo reaction to crazy cat",
-      "video_id": "7La5eB-QpgA",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "",
-      "published_at": "2026-05-28T16:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7La5eB-QpgA/hqdefault.jpg"
-    },
-    {
-      "title": "Doggo reacts to meme ... try not to react",
-      "video_id": "Z6RkLqbUEFc",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "",
-      "published_at": "2026-05-28T16:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z6RkLqbUEFc/hqdefault.jpg"
     }
   ]
 }
