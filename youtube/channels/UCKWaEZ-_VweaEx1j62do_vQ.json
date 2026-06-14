@@ -1,40 +1,48 @@
 {
-  "fetched_at": "2026-06-07T01:06:18.900657",
+  "fetched_at": "2026-06-14T01:08:39.147585",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "The future of software engineering, tokenmaxxing and AI in higher education",
-      "video_id": "EKULOf_Cy0w",
+      "title": "Claude Fable 5 is smarter💡",
+      "video_id": "rtjP3xttJiU",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content →https://ibm.biz/~zPlBtHycQ How is the role of a software engineer ...",
-      "published_at": "2026-06-05T10:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EKULOf_Cy0w/hqdefault.jpg"
+      "description": "Chris Hay breaks down the latest Claude upgrades—better planning, deeper code analysis, and surprisingly faster. Hear more ...",
+      "published_at": "2026-06-12T18:15:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rtjP3xttJiU/hqdefault.jpg"
     },
     {
-      "title": "OpenClaw Security Risks: 6 Dangers of Autonomous AI Agents",
-      "video_id": "7qZH3D7u-z8",
+      "title": "Claude Fable 5 &amp; Apple’s NVIDIA deal",
+      "video_id": "aByPOYCEH6I",
       "channel_title": "IBM Technology",
-      "description": "Learn more about What OpenClaw Reveals About Agentic AI Security Risks here → https://ibm.biz/~S29jyA638 OpenClaw ...",
-      "published_at": "2026-06-04T11:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7qZH3D7u-z8/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~r8dEac3ai Is Claude Fable 5 worth the hype?",
+      "published_at": "2026-06-12T10:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aByPOYCEH6I/hqdefault.jpg"
     },
     {
-      "title": "Project Lightwell brings open source security into the AI era",
-      "video_id": "aa6k-JrZTYI",
+      "title": "AI That’s Too Dangerous For You? What we learned from S.A.T.A.N",
+      "video_id": "UE_vuadQrJ0",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/~20kwS8piW Open source software powers more than 90% of Fortune 500 companies.",
-      "published_at": "2026-06-03T10:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aa6k-JrZTYI/hqdefault.jpg"
+      "description": "Learn more about Zero-Day Exploit here → https://ibm.biz/~2lAtr9uM2 AI is uncovering vulnerabilities faster than ever before.",
+      "published_at": "2026-06-11T11:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UE_vuadQrJ0/hqdefault.jpg"
     },
     {
-      "title": "The Most Important Gates in Quantum Computing Explained",
-      "video_id": "aCOsqL-jIOo",
+      "title": "Can you social engineer an AI? Plus: AI worms and the nonhuman identity problem",
+      "video_id": "JHDsM8ER7tk",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Quantum Computing here → https://ibm.biz/~BYtAhhOvk Quantum computing starts with just a few powerful ...",
-      "published_at": "2026-06-02T11:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aCOsqL-jIOo/hqdefault.jpg"
+      "description": "Explore the podcast →https://ibm.biz/~5hi5oUNaW If you just ask an AI nicely enough, you can get it to hand over the keys to a ...",
+      "published_at": "2026-06-10T10:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JHDsM8ER7tk/hqdefault.jpg"
+    },
+    {
+      "title": "Building AI Agent Systems and Scaling Challenges in Agentic AI",
+      "video_id": "fCHe_fOqlYA",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about Agentic AI here → https://ibm.biz/~6aANCV7hW Scaling AI agents sounds easy - until everything breaks.",
+      "published_at": "2026-06-09T11:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fCHe_fOqlYA/hqdefault.jpg"
     },
     {
       "title": "RSA recap, the LiteLLM breach, and the quest to fix AI agent security",
@@ -75,14 +83,6 @@
       "description": "Explore the podcast → https://ibm.biz/BdbJ6K Will Black Friday 2025 be the breakout moment for agentic commerce? This week ...",
       "published_at": "2025-11-28T11:00:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/hqdefault.jpg"
-    },
-    {
-      "title": "Android malware that acts like a person and AI agents that act like malware",
-      "video_id": "iaZS1jer8MY",
-      "channel_title": "IBM Technology",
-      "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
-      "published_at": "2025-11-05T10:01:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
     }
   ]
 }

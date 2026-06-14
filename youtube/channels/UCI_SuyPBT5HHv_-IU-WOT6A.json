@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-06-07T01:06:14.043456",
+  "fetched_at": "2026-06-14T01:08:34.101397",
   "channel_id": "UCI_SuyPBT5HHv_-IU-WOT6A",
   "channel_title": "Hayman Media",
-  "count": 5,
+  "count": 7,
   "videos": [
     {
       "title": "Porsche GT4 Rainy Mountain Drive Cinematic 4K",
@@ -11,6 +11,14 @@
       "description": "Filming on a misty Sunday afternoon in the mountains with this gorgeous Porsche GT4. Breaking the peace of the mountains with ...",
       "published_at": "2024-05-26T10:00:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NKSgyjOEdbw/hqdefault.jpg"
+    },
+    {
+      "title": "GT3RS mashup from my latest feature #gt3rs #caredits #carcinematic #videographer",
+      "video_id": "G74aWOj57b8",
+      "channel_title": "Hayman Media",
+      "description": "",
+      "published_at": "2024-05-12T02:05:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G74aWOj57b8/hqdefault.jpg"
     },
     {
       "title": "Lizard Green Porsche GT3RS 991.2 Cinematic 4K",
@@ -43,6 +51,14 @@
       "description": "This is first showcase film on my channel which features a Porsche GT3RS and some mountain roads in the Brisbane hinterland.",
       "published_at": "2024-02-18T05:00:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HVf28fVK5Xk/hqdefault.jpg"
+    },
+    {
+      "title": "Porsche gt3 cup cars on the streets of the Gold Coast #gt3cup #porsche911 #porsche992gt3",
+      "video_id": "nKzHSp6wcnA",
+      "channel_title": "Hayman Media",
+      "description": "",
+      "published_at": "2023-11-01T08:23:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nKzHSp6wcnA/hqdefault.jpg"
     }
   ]
 }

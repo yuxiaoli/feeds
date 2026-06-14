@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-06-07T01:06:32.156124",
+  "fetched_at": "2026-06-14T01:08:52.768466",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "OpenAI Investor Innovation Day",
-      "video_id": "RwzRm-qCXwA",
+      "title": "Analyze earnings and update your investment thesis with Codex",
+      "video_id": "Rlju1Z9e110",
       "channel_title": "OpenAI",
-      "description": "We brought together a curated group of senior leaders for a hands-on experience focused on how AI is transforming financial ...",
-      "published_at": "2026-06-06T23:50:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RwzRm-qCXwA/hqdefault.jpg"
+      "description": "See how the public equity investing plugin for Codex turns a company's latest quarter into a post-earnings analysis.",
+      "published_at": "2026-06-12T20:36:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Rlju1Z9e110/hqdefault.jpg"
     },
     {
-      "title": "Introducing Sites in Codex",
-      "video_id": "VRvC5smyzso",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "video_id": "sU9-u5p-jA0",
       "channel_title": "OpenAI",
-      "description": "Sites in Codex lets anyone on your team turn an idea into a secure application and publish it in minutes. Build internal tools, mini ...",
-      "published_at": "2026-06-05T17:42:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VRvC5smyzso/hqdefault.jpg"
+      "description": "What happens when one of the world's leading financial markets infrastructure and data providers combines trusted market ...",
+      "published_at": "2026-06-12T16:24:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sU9-u5p-jA0/hqdefault.jpg"
     },
     {
-      "title": "1Password One Shots with Codex",
-      "video_id": "xZ5J81Lwyk8",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "video_id": "-Jm-Bf3g9r8",
       "channel_title": "OpenAI",
-      "description": "With Codex, it's helped us get to feature launches faster,” Nancy Wang. The 1Password team is going from idea to prototype in ...",
-      "published_at": "2026-06-05T13:01:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xZ5J81Lwyk8/hqdefault.jpg"
+      "description": "What happens when one of the world's largest language-learning platforms combines human expertise with AI? In this customer ...",
+      "published_at": "2026-06-12T09:53:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-Jm-Bf3g9r8/hqdefault.jpg"
     },
     {
-      "title": "Codex is your BFF when things are everything, everywhere, all at once 💫",
-      "video_id": "BdBxQz8e-o8",
+      "title": "Debug web apps with browser use in Codex",
+      "video_id": "bhgYFRZLyKI",
       "channel_title": "OpenAI",
-      "description": "Zapier is a remote first company, so their team is working across multiple tools like Slack, Google Docs and Coda. For Ryan ...",
-      "published_at": "2026-06-04T20:27:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BdBxQz8e-o8/hqdefault.jpg"
+      "description": "Codex can now use the Chrome DevTools Protocol (CDP) in Browser Use to inspect console logs, runtime errors, local storage, ...",
+      "published_at": "2026-06-12T00:15:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bhgYFRZLyKI/hqdefault.jpg"
     },
     {
-      "title": "What Codex Unlocks for Zapier",
-      "video_id": "DDnGhZ01PqM",
+      "title": "Codex for Creatives: Riff, Design, Ship",
+      "video_id": "K6wxZOqD-HY",
       "channel_title": "OpenAI",
-      "description": "Zapier is a remote first company, so their team is working across multiple tools like Slack, Google Docs and Coda. For Ryan ...",
-      "published_at": "2026-06-04T20:25:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DDnGhZ01PqM/hqdefault.jpg"
+      "description": "Codex is an art director or a creative director for me, helping me riff on ideas,” - Chad Nelson, creative specialist at OpenAI.",
+      "published_at": "2026-06-11T21:28:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K6wxZOqD-HY/hqdefault.jpg"
     },
     {
-      "title": "Codex for Sales Teams: Moving Faster to Solve Customer Problems",
-      "video_id": "U2C55LC0ZLM",
+      "title": "Life Near OpenAI&#39;s Stargate Project",
+      "video_id": "6QoMzZ8FdTA",
       "channel_title": "OpenAI",
-      "description": "Check out the quick ways Ashton and our sales team are leaning into Codex for prep work, ultimately delivering a better customer ...",
-      "published_at": "2026-06-04T19:32:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U2C55LC0ZLM/hqdefault.jpg"
+      "description": "For more than 40 years, Tom and Lisa Perini have welcomed visitors to their ranch and restaurant in Buffalo Gap, Texas, just ...",
+      "published_at": "2026-06-11T20:58:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6QoMzZ8FdTA/hqdefault.jpg"
     },
     {
-      "title": "Build and share interactive prototypes in Codex",
-      "video_id": "_9ImjmzAyus",
+      "title": "Customer Ignite Talk: Antonio Bravo Acin (Global Head of AI Transformation, BBVA) &amp; OpenAI",
+      "video_id": "UNJSk90Lz1c",
       "channel_title": "OpenAI",
-      "description": "The Product Design plugin for Codex helps teams move from a rough idea to a prototype they can see, refine, and share for ...",
-      "published_at": "2026-06-04T18:06:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_9ImjmzAyus/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-06-11T19:51:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UNJSk90Lz1c/hqdefault.jpg"
     },
     {
-      "title": "How a reasoning model cracked an 80-year-old math problem — the OpenAI Podcast Ep. 20",
-      "video_id": "wNWz5Hbh5VQ",
+      "title": "Build sales account strategies and outreach with Codex",
+      "video_id": "4YkOAYNZVOQ",
       "channel_title": "OpenAI",
-      "description": "Last month AI found something mathematicians had missed for decades. Reasoning researchers Alexander Wei, Hongxun Wu, ...",
-      "published_at": "2026-06-04T17:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wNWz5Hbh5VQ/hqdefault.jpg"
+      "description": "See how the sales plugin for Codex helps sales teams move from account context to seller-ready work. In this demo, Codex ...",
+      "published_at": "2026-06-11T19:24:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4YkOAYNZVOQ/hqdefault.jpg"
     },
     {
-      "title": "Codex Helps Amgen Focus on Patients",
-      "video_id": "uU3LUMcNgfA",
+      "title": "Creating black hole simulations with Codex",
+      "video_id": "4XSI4SClBMA",
       "channel_title": "OpenAI",
-      "description": "\"The ability to abstract away from the tedious boring bits of writing code and to spend your energy thinking about patients, that's ...",
-      "published_at": "2026-06-04T16:28:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uU3LUMcNgfA/hqdefault.jpg"
+      "description": "To learn more about black holes, computational astrophysicist Chi-kwan “CK” Chan is working to create the first moving image of ...",
+      "published_at": "2026-06-11T16:14:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4XSI4SClBMA/hqdefault.jpg"
     },
     {
-      "title": "It&#39;s time to fly | Codex",
-      "video_id": "bJcA23ckzcY",
+      "title": "Training to cycle across Antarctica | with ChatGPT",
+      "video_id": "ACue0bPkrPs",
       "channel_title": "OpenAI",
-      "description": "Welcome to the new frontier of building. Take on more tasks, move effortlessly across projects, and ship faster. Try Codex for free ...",
-      "published_at": "2026-06-03T19:11:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bJcA23ckzcY/hqdefault.jpg"
+      "description": "In November, @jamesbensonking will attempt to become the first person to cycle solo and unsupported from the edge of ...",
+      "published_at": "2026-06-11T15:59:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ACue0bPkrPs/hqdefault.jpg"
     }
   ]
 }

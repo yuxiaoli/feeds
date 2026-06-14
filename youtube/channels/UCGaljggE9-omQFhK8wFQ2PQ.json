@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-07T01:06:13.350887",
+  "fetched_at": "2026-06-14T01:08:33.438802",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Wakonda - Full Aussie Podcast",
+      "video_id": "QRyhpwBKVxY",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "Duel stream from the Full Aussie youtube channel MrGrantGregory YouTube: / @mrgrantgregory MrGrantGregory Twitter: ...",
+      "published_at": "2026-06-13T14:21:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QRyhpwBKVxY/hqdefault.jpg"
+    },
     {
       "title": "The Full Aussie Podcast - Having a Yarn",
       "video_id": "6WqWl1svVWQ",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-05-29T11:22:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Iw1VPohoz3o/hqdefault.jpg"
-    },
-    {
-      "title": "28 May 2026",
-      "video_id": "wgJJ5FWjgsY",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "",
-      "published_at": "2026-05-28T19:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wgJJ5FWjgsY/hqdefault.jpg"
     }
   ]
 }

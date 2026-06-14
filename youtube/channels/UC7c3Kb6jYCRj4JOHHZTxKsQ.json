@@ -1,88 +1,80 @@
 {
-  "fetched_at": "2026-06-07T01:06:02.625876",
+  "fetched_at": "2026-06-14T01:08:22.972970",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 10,
+  "count": 9,
   "videos": [
     {
-      "title": "Open Source Assistive Technology Hackathon Highlights",
-      "video_id": "hbFuHHp_hJI",
+      "title": "Why you need to try the GitHub Copilot desktop app",
+      "video_id": "9jBkYXi4nmA",
       "channel_title": "GitHub",
-      "description": "On May 21–22, GitHub hosted an Open Source Assistive Technology Hackathon at GitHub headquarters in San Francisco.",
-      "published_at": "2026-06-06T15:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hbFuHHp_hJI/hqdefault.jpg"
+      "description": "The GitHub Copilot desktop app just got a massive update at Microsoft Build. It is now in an expanded technical preview packed ...",
+      "published_at": "2026-06-13T15:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9jBkYXi4nmA/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday: Governance for  AI agents with Imran Siddique",
-      "video_id": "bIioEmT2KEM",
+      "title": "What can you do with the GitHub Copilot app?",
+      "video_id": "c6W_KvHkQ7M",
       "channel_title": "GitHub",
-      "description": "Your AI agents call tools, query databases, and make decisions on their own. Prompts aren't a control surface. Imran Siddique ...",
-      "published_at": "2026-06-06T05:47:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bIioEmT2KEM/hqdefault.jpg"
+      "description": "Kyle Daigle shares some of his favorite features P.S. Anyone currently on a paid Copilot plan can use the GitHub Copilot app ...",
+      "published_at": "2026-06-13T14:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c6W_KvHkQ7M/hqdefault.jpg"
     },
     {
-      "title": "How to extend Copilot code review with MCP and custom skills | demo",
-      "video_id": "JRDN_-4E9ts",
+      "title": "Open Source Friday with Pomerium",
+      "video_id": "MQZGeKqqx88",
       "channel_title": "GitHub",
-      "description": "Most AI code reviewers only look at the diff, leaving them only with your internal systems and guidelines. You can now extend ...",
-      "published_at": "2026-06-05T18:03:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JRDN_-4E9ts/hqdefault.jpg"
+      "description": "Join Andrea Griffiths and Nick Taylor for Open Source Friday featuring Pomerium, an open source identity-aware proxy that ...",
+      "published_at": "2026-06-13T06:28:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MQZGeKqqx88/hqdefault.jpg"
     },
     {
-      "title": "How OpenClaw maintainer Brad uses the GitHub Copilot app",
-      "video_id": "8-QHjgHxWU0",
+      "title": "The Download: Claude Fable 5, new Copilot features, Microsoft Build recap &amp; more",
+      "video_id": "IN-YYcNgUSU",
       "channel_title": "GitHub",
-      "description": "At Microsoft Build, we caught up with Brad, an OpenClaw maintainer, to discuss his experience using the new GitHub Copilot app.",
-      "published_at": "2026-06-05T15:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8-QHjgHxWU0/hqdefault.jpg"
+      "description": "Welcome back to another episode of The Download with Christina Warren! This week, we cover all the massive developer news ...",
+      "published_at": "2026-06-12T16:45:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IN-YYcNgUSU/hqdefault.jpg"
     },
     {
-      "title": "RDT: Lets try out the new GitHub Copilot App!",
-      "video_id": "fpP20wKaKRc",
+      "title": "Rubber Duck Thursdays! Let&#39;s talk about Microsoft Build!",
+      "video_id": "Y7agj5T0GHE",
       "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2026-06-05T07:19:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fpP20wKaKRc/hqdefault.jpg"
+      "description": "Let's code, cowork, and talk about Microsoft Build!",
+      "published_at": "2026-06-12T07:06:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y7agj5T0GHE/hqdefault.jpg"
     },
     {
-      "title": "RDT: Lets try out the new GitHub Copilot App!",
-      "video_id": "xUx6EnTU7HE",
+      "title": "Jueves de Quack con Cristian Córdova",
+      "video_id": "BphnIxeWaJ4",
       "channel_title": "GitHub",
-      "description": "In this stream we'll experiment with the new GitHub Copilot App. We'll also discuss everything announced by GitHub at Microsoft ...",
-      "published_at": "2026-06-04T23:37:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xUx6EnTU7HE/hqdefault.jpg"
+      "description": "Este Jueves de Quack! Nos sentamos con Cristian Córdova, creador de NaN, un proyecto que está moviendo la aguja para ...",
+      "published_at": "2026-06-12T03:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BphnIxeWaJ4/hqdefault.jpg"
     },
     {
-      "title": "Why you need to be at GitHub Universe 2026",
-      "video_id": "8k7HnPZTBpM",
+      "title": "Rubber Duck Thursday (Post-Build Edition)",
+      "video_id": "gwg-5pRUw38",
       "channel_title": "GitHub",
-      "description": "GitHub Universe is where builders become orchestrators. Join us October 28-29 in San Francisco for our flagship developer event ...",
-      "published_at": "2026-06-04T18:30:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8k7HnPZTBpM/hqdefault.jpg"
+      "description": "Let's get together and review GitHub-related announcements at Microsoft Build 2026.",
+      "published_at": "2026-06-11T23:50:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gwg-5pRUw38/hqdefault.jpg"
     },
     {
-      "title": "LIVE: Peter Steinberger &amp; Dave Morin | OpenClaw Fireside @ GitHub HQ",
-      "video_id": "K-pnIgkDxSc",
+      "title": "Git merge vs rebase: what is the difference?",
+      "video_id": "k32vCDCa5kw",
       "channel_title": "GitHub",
-      "description": "Peter Steinberger and OpenClaw Foundation cofounder Dave Morin sit down fireside to talk building agentic systems in the open.",
-      "published_at": "2026-06-04T14:33:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K-pnIgkDxSc/hqdefault.jpg"
+      "description": "Are you confused about when to use Git merge versus Git rebase? In this short, we break down the core differences so you can ...",
+      "published_at": "2026-06-11T15:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k32vCDCa5kw/hqdefault.jpg"
     },
     {
-      "title": "The Terminal Live - Day 2 at Microsoft Build",
-      "video_id": "yk8-Td0gz_k",
+      "title": "Open Source Friday: Building the Contributor Pipeline at Pollinations.ai",
+      "video_id": "apxwKja5JWE",
       "channel_title": "GitHub",
-      "description": "Join the team behind GitHub Copilot as we code live from Microsoft Build & explore the latest in agentic development with GitHub ...",
-      "published_at": "2026-06-04T01:10:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yk8-Td0gz_k/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Build 2026 Day 2 LIVE | GitHub Copilot, VS Code, and more",
-      "video_id": "qV5TLeafojY",
-      "channel_title": "GitHub",
-      "description": "A full day of what's new in GitHub Copilot and VS Code, straight from the people building it. New features, live demos, and a few ...",
-      "published_at": "2026-06-03T21:25:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qV5TLeafojY/hqdefault.jpg"
+      "description": "What does open source maintenance actually look like once a project starts to scale? In this Open Source Friday stream, ...",
+      "published_at": "2026-05-29T14:30:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/apxwKja5JWE/hqdefault_live.jpg"
     }
   ]
 }

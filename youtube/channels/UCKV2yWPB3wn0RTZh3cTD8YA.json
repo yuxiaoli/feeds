@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-06-07T01:06:18.200529",
+  "fetched_at": "2026-06-14T01:08:38.463995",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "SpaceX崛起史：一切，为了去火星｜实地探访星舰基地与总部",
+      "video_id": "x2meJPOn9ws",
+      "channel_title": "硅谷101",
+      "description": "你，想去火星吗？ 马斯克用24年的努力，试图向世人证明人类成为跨行星物种是有可能的。 在SpaceX冲击“人类史上最大IPO”之际， ...",
+      "published_at": "2026-06-11T05:08:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x2meJPOn9ws/hqdefault.jpg"
+    },
+    {
+      "title": "“没有她，SpaceX早倒闭了”：全世界最有权力的女性工程师是如何炼成的",
+      "video_id": "MIyEX1WOuJI",
+      "channel_title": "硅谷101",
+      "description": "马斯克曾说：“没有她，SpaceX早就倒闭了。”她就是SpaceX的总裁兼COO Gwynne Shotwell。过去二十年，当马斯克站在聚光灯下 ...",
+      "published_at": "2026-06-10T09:24:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MIyEX1WOuJI/hqdefault.jpg"
+    },
+    {
+      "title": "AI让AI变更强，RSI自进化路线安全吗？",
+      "video_id": "ooRlhTxV5dE",
+      "channel_title": "硅谷101",
+      "description": "AI会不会有一天自己改进自己，甚至推动科学发现？RSI实验室联合创始人田渊栋向我们解释了Recursive Self Improvement， ...",
+      "published_at": "2026-06-09T14:26:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ooRlhTxV5dE/hqdefault.jpg"
+    },
     {
       "title": "再访田渊栋：46.5亿美金估值的RSI，与AI自进化｜Neolabs特辑【101视频播客】",
       "video_id": "F7oNfszczVc",
@@ -59,30 +83,6 @@
       "description": "Google其实比OpenAI更早做MoE。 我们专访到了Gemini前核心科学家Andrew Dai。Andrew回忆，Google Brain在2021 年就已经 ...",
       "published_at": "2026-05-27T00:00:09Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AWj2XtnpA3s/hqdefault.jpg"
-    },
-    {
-      "title": "Gemini仓促上线背后：Google的组织困境 | 专访谷歌前核心科学家Andrew Dai",
-      "video_id": "pkXZuuNJVCE",
-      "channel_title": "硅谷101",
-      "description": "Google Brain跟DeepMind，谁都不服谁。” ChatGPT引爆AI战争后，谷歌拉响“红色警戒”，决定把两支团队被迫整合，做Gemini。",
-      "published_at": "2026-05-26T06:10:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pkXZuuNJVCE/hqdefault.jpg"
-    },
-    {
-      "title": "“人类史上最大IPO”：SpaceX靠的不只是火箭了？",
-      "video_id": "HqsTB0avrh8",
-      "channel_title": "硅谷101",
-      "description": "SpaceX可能不再是一家“单纯”的火箭公司了。 在这份前几天刚刚披露的IPO招股书里，除了2万亿美元估值，市场还看到了Anthropic ...",
-      "published_at": "2026-05-25T14:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HqsTB0avrh8/hqdefault.jpg"
-    },
-    {
-      "title": "谷歌核心AI科学家：“大语言模型和世界模型都是错误路线”",
-      "video_id": "wZmn9slGfmw",
-      "channel_title": "硅谷101",
-      "description": "专访Gemini前核心科学家Andrew Dai：信仰多模态视觉推理模型.",
-      "published_at": "2026-05-23T16:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wZmn9slGfmw/hqdefault.jpg"
     }
   ]
 }

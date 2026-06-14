@@ -1,16 +1,48 @@
 {
-  "fetched_at": "2026-06-07T01:06:20.306360",
+  "fetched_at": "2026-06-14T01:08:40.493989",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 3,
+  "count": 7,
   "videos": [
+    {
+      "title": "NASA&#39;s SpaceX 34th Commercial Resupply Services Undocking",
+      "video_id": "fu-t3Om6DIA",
+      "channel_title": "NASA",
+      "description": "Watch a SpaceX Dragon spacecraft undock and depart from the International Space Station. The spacecraft is scheduled to ...",
+      "published_at": "2026-06-12T20:11:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fu-t3Om6DIA/hqdefault_live.jpg"
+    },
+    {
+      "title": "Artemis III Announcement Recap: Crew, Mission Details, and What’s Next",
+      "video_id": "G-GD8SQ0AvU",
+      "channel_title": "NASA",
+      "description": "Another step toward one of the most complex spaceflight missions in history, NASA provided updates on Artemis III and ...",
+      "published_at": "2026-06-10T00:08:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G-GD8SQ0AvU/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing Artemis III",
+      "video_id": "QONgJurkigk",
+      "channel_title": "NASA",
+      "description": "In 2027, the Artemis III mission will practice docking the Orion spacecraft with two lunar landers in low Earth orbit. On future ...",
+      "published_at": "2026-06-09T17:55:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QONgJurkigk/hqdefault.jpg"
+    },
     {
       "title": "NASA&#39;s Artemis III Announcement",
       "video_id": "0fLROeRhqZM",
       "channel_title": "NASA",
       "description": "Meet the astronauts of Artemis III! We're providing an update on Artemis III, and we'll introduce the mission's four crew members.",
-      "published_at": "2026-06-02T14:07:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0fLROeRhqZM/hqdefault_live.jpg"
+      "published_at": "2026-06-09T16:43:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0fLROeRhqZM/hqdefault.jpg"
+    },
+    {
+      "title": "NASA’s Artemis III Announcement (Official NASA Trailer)",
+      "video_id": "3Yqi3D4b2RQ",
+      "channel_title": "NASA",
+      "description": "Tune in on Tuesday, June 9, at 11:30 a.m. EDT (1530 UTC) to meet the astronauts flying aboard Artemis III, the mission that will ...",
+      "published_at": "2026-06-07T19:33:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3Yqi3D4b2RQ/hqdefault.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",

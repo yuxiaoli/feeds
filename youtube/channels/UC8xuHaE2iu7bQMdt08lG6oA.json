@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-07T01:06:04.733190",
+  "fetched_at": "2026-06-14T01:08:25.109680",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "Dodge Demon 170",
+      "video_id": "h3ukAEG5NdQ",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-06-10T04:58:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h3ukAEG5NdQ/hqdefault.jpg"
+    },
     {
       "title": "Before the engine starts… you already feel it #americanmuscle #cinema",
       "video_id": "RECDHgKycg4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-04-22T22:36:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ww07Rwb_iRo/hqdefault.jpg"
-    },
-    {
-      "title": "Shelby GT500 Burning Rubber #shelby #gt500 #ford",
-      "video_id": "lMM83wvb-QE",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2026-04-19T18:17:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lMM83wvb-QE/hqdefault.jpg"
     }
   ]
 }

@@ -1,24 +1,40 @@
 {
-  "fetched_at": "2026-06-07T01:06:11.966751",
+  "fetched_at": "2026-06-14T01:08:32.060865",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "Alix Earle&#39;s Microsoft Campus Tour",
-      "video_id": "fEji4sDsC24",
+      "title": "Microsoft’s LGBTQIA+ community shares stories of living openly and authentically",
+      "video_id": "QabLb9HpIyQ",
       "channel_title": "Microsoft",
-      "description": "alixearle visits Microsoft's headquarters for an inside tour of the Surface hardware lab, a trip inside the world's quietest room, and ...",
-      "published_at": "2026-06-05T16:45:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fEji4sDsC24/hqdefault.jpg"
+      "description": "From agree to disagree, where would you land? Four coworkers reflect on a series of questions and share their personal journeys ...",
+      "published_at": "2026-06-11T16:03:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QabLb9HpIyQ/hqdefault.jpg"
     },
     {
-      "title": "Introducing MAI-Voice-2 | Microsoft AI Models",
-      "video_id": "DOm7VDEPcI0",
+      "title": "How to adapt in the age of AI | Watch ep 1 of On the Frontier",
+      "video_id": "wchqOxueXVw",
       "channel_title": "Microsoft",
-      "description": "Meet MAI-Voice-2, the most expressive, natural-sounding text-to-speech model we've built to date. Learn more: ...",
-      "published_at": "2026-06-04T23:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DOm7VDEPcI0/hqdefault.jpg"
+      "description": "ai #futureofwork AI is changing everything and every industry is feeling it. From job security to the future of work, leaders are ...",
+      "published_at": "2026-06-09T21:29:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wchqOxueXVw/hqdefault.jpg"
+    },
+    {
+      "title": "Lumen&#39;s people-first playbook for the AI age | On the Frontier",
+      "video_id": "jQgwr8Z8asQ",
+      "channel_title": "Microsoft",
+      "description": "Every leader has an AI strategy. Ana White thinks most of them are starting in the wrong place. As Chief People & AI Enablement ...",
+      "published_at": "2026-06-09T16:09:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jQgwr8Z8asQ/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing MAI-Transcribe-1.5 | Microsoft AI Models",
+      "video_id": "a7e_3ThX4nY",
+      "channel_title": "Microsoft",
+      "description": "MAI-Transcribe-1.5 delivers consistent, high-accuracy transcription across languages, accents, and challenging audio conditions ...",
+      "published_at": "2026-06-08T17:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a7e_3ThX4nY/hqdefault.jpg"
     },
     {
       "title": "Voice Coding Demo: MAI-Code-1-Flash | Microsoft AI Models",
@@ -35,14 +51,6 @@
       "description": "Satya Nadella sits down for an interview after the Build 2026 keynote with Sarah Guo and Elad Gil from No Priors, and Swyx from ...",
       "published_at": "2026-06-04T11:00:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LE90Yc5TuCs/hqdefault.jpg"
-    },
-    {
-      "title": "A new vision for agent-first computing: Project Solara | Steven Bathiche at Microsoft Build 2026",
-      "video_id": "hbnhMKckxTE",
-      "channel_title": "Microsoft",
-      "description": "At Microsoft Build 2026, Steven Bathiche (Microsoft CVP & Technical Fellow Applied Sciences Group) introduces an early look at ...",
-      "published_at": "2026-06-04T00:40:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hbnhMKckxTE/hqdefault.jpg"
     },
     {
       "title": "Introducing MAI-Image-2.5 | Microsoft AI Models",
@@ -67,14 +75,6 @@
       "description": "See the highlights from Microsoft Build 2026 opening keynote, streamed live from San Francisco. Follow along as Microsoft CEO ...",
       "published_at": "2026-06-03T04:00:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZhZqeo7SD0Y/hqdefault.jpg"
-    },
-    {
-      "title": "Jensen Huang &amp; Satya Nadella on unmetered intelligence | Microsoft Build 2026",
-      "video_id": "rASAk00B3JU",
-      "channel_title": "Microsoft",
-      "description": "At Microsoft Build 2026, Satya Nadella and @NVIDIA CEO Jensen Huang break down the next evolution of computing, from AI at ...",
-      "published_at": "2026-06-03T00:54:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rASAk00B3JU/hqdefault.jpg"
     },
     {
       "title": "Introducing 7 new Microsoft AI models",

@@ -1,24 +1,40 @@
 {
-  "fetched_at": "2026-06-07T01:06:06.234154",
+  "fetched_at": "2026-06-14T01:08:26.476377",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 3,
+  "count": 5,
   "videos": [
     {
-      "title": "Exploring Four Methods for Handling Projectiles in UE5 | Inside Unreal",
-      "video_id": "aq8SfHcclbU",
+      "title": "This just in: Riot Games is joining the State of Unreal next week!",
+      "video_id": "gavBEpn8m9k",
       "channel_title": "Unreal Engine",
-      "description": "Many Unreal Engine beginners build their first projectiles by spawning an actor with ProjectileMovementComponent. That's not a ...",
-      "published_at": "2026-06-04T19:34:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aq8SfHcclbU/hqdefault.jpg"
+      "description": "Be there June 17 at 9AM CT as they take us through what they've been cooking in Teamfight Tactics using Unreal Engine: ...",
+      "published_at": "2026-06-12T20:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gavBEpn8m9k/hqdefault.jpg"
     },
     {
-      "title": "Exploring the Niagara Examples Pack | Inside Unreal",
-      "video_id": "NxKz7Pnww54",
+      "title": "Built by a small team. Played by millions.",
+      "video_id": "MW1RaU3Reeo",
       "channel_title": "Unreal Engine",
-      "description": "Join us as our guests Dan Pearson and Alim Chaarani explore the Niagara Examples pack; a collection of VFX assets that are ...",
-      "published_at": "2026-06-02T20:18:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NxKz7Pnww54/hqdefault.jpg"
+      "description": "FOAD are bringing their story to this year's State of Unreal, sharing how their UEFN journey helped them reach audiences they ...",
+      "published_at": "2026-06-12T14:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MW1RaU3Reeo/hqdefault.jpg"
+    },
+    {
+      "title": "MegaLights on Mobile: Pipe Dream or Reality? How Arm &amp; Sumo Digital Made It Possible | Inside Unreal",
+      "video_id": "XG5W2Ei_J0Q",
+      "channel_title": "Unreal Engine",
+      "description": "Arm and Sumo Digital have teamed up to push mobile graphics into new territory, using Arm Neural Technology to help bring ...",
+      "published_at": "2026-06-11T17:08:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XG5W2Ei_J0Q/hqdefault.jpg"
+    },
+    {
+      "title": "New in 41.00: Memory Profiling for UEFN | Creating in Fortnite",
+      "video_id": "PZpwCX-5xfo",
+      "channel_title": "Unreal Engine",
+      "description": "Join us for a live walkthrough of the latest performance tooling updates in UEFN. We'll show you how the new Monitor ...",
+      "published_at": "2026-06-09T19:30:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PZpwCX-5xfo/hqdefault.jpg"
     },
     {
       "title": "State of Unreal 2026 Official 4K Livestream | Unreal Fest Chicago",

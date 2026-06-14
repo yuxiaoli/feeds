@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-06-07T01:06:37.027008",
+  "fetched_at": "2026-06-14T01:08:57.733268",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
-    {
-      "title": "Optimize, deploy, and benchmark an open-source LLM with vLLM",
-      "video_id": "a9T9kWwpaNg",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/3RtV5Lk Introducing Fast & Efficient LLM Inference with vLLM, a short course built in partnership with Red ...",
-      "published_at": "2026-06-03T14:37:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a9T9kWwpaNg/hqdefault.jpg"
-    },
     {
       "title": "Build Your Own App In Just 30 Minutes! Full Course with Andrew Ng",
       "video_id": "ff3j4olCUig",
@@ -83,6 +75,14 @@
       "description": "At AI Dev 26 x San Francisco, Flower Lab's Daniel Beutel talked about Flower SuperGrid, the industry standard for Federated AI.",
       "published_at": "2026-05-22T16:44:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/C5oYk1bn4_o/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 26 x SF | Or Dagan: Optimizing Accuracy, Cost, and Latency in Real-World Agents",
+      "video_id": "CXd0kDikK0U",
+      "channel_title": "DeepLearningAI",
+      "description": "Most agentic systems rely on hardcoded heuristics to navigate execution decisions (e.g. which models, tools, and test-time ...",
+      "published_at": "2026-05-22T16:42:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CXd0kDikK0U/hqdefault.jpg"
     }
   ]
 }

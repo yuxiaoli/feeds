@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-07T01:06:14.715992",
+  "fetched_at": "2026-06-14T01:08:34.856600",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Minas Tirith Isn&#39;t a City. It&#39;s a Trap.",
+      "video_id": "o5zfHVQoYY0",
+      "channel_title": "DamiLee",
+      "description": "Seven tiers. Seven gates. Each one designed to make you bleed a little more before the next. Minas Tirith wasn't just a city.",
+      "published_at": "2026-06-12T15:30:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o5zfHVQoYY0/hqdefault.jpg"
+    },
     {
       "title": "How Minas Tirith was Built Backwards",
       "video_id": "VeJ8hoPGVdk",
@@ -75,14 +83,6 @@
       "description": "What if the most iconic building in history was actually a political power move? The Colosseum wasn't built for glory. It was built on ...",
       "published_at": "2026-05-05T07:00:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bT0EkuIfq5s/hqdefault.jpg"
-    },
-    {
-      "title": "Could a planet-wide city actually work?",
-      "video_id": "Jdm2k4s6Ax4",
-      "channel_title": "DamiLee",
-      "description": "In the 1960s, rapid population growth pushed architects to imagine cities on an unprecedented scale. One radical idea was ...",
-      "published_at": "2026-04-29T15:30:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Jdm2k4s6Ax4/hqdefault.jpg"
     }
   ]
 }
