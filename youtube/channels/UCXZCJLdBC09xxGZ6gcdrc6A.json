@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-06-14T01:08:52.768466",
+  "fetched_at": "2026-06-21T01:10:42.999544",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "Analyze earnings and update your investment thesis with Codex",
-      "video_id": "Rlju1Z9e110",
+      "title": "What Codex Unlocks for NTT Data",
+      "video_id": "0JIbgZ544wU",
       "channel_title": "OpenAI",
-      "description": "See how the public equity investing plugin for Codex turns a company's latest quarter into a post-earnings analysis.",
-      "published_at": "2026-06-12T20:36:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Rlju1Z9e110/hqdefault.jpg"
+      "description": "After introducing Codex, it grew to more than 10000 active users and became one of the largest internal community in just a few ...",
+      "published_at": "2026-06-19T22:57:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0JIbgZ544wU/hqdefault.jpg"
     },
     {
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "video_id": "sU9-u5p-jA0",
-      "channel_title": "OpenAI",
-      "description": "What happens when one of the world's leading financial markets infrastructure and data providers combines trusted market ...",
-      "published_at": "2026-06-12T16:24:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sU9-u5p-jA0/hqdefault.jpg"
-    },
-    {
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "video_id": "-Jm-Bf3g9r8",
-      "channel_title": "OpenAI",
-      "description": "What happens when one of the world's largest language-learning platforms combines human expertise with AI? In this customer ...",
-      "published_at": "2026-06-12T09:53:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-Jm-Bf3g9r8/hqdefault.jpg"
-    },
-    {
-      "title": "Debug web apps with browser use in Codex",
-      "video_id": "bhgYFRZLyKI",
-      "channel_title": "OpenAI",
-      "description": "Codex can now use the Chrome DevTools Protocol (CDP) in Browser Use to inspect console logs, runtime errors, local storage, ...",
-      "published_at": "2026-06-12T00:15:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bhgYFRZLyKI/hqdefault.jpg"
-    },
-    {
-      "title": "Codex for Creatives: Riff, Design, Ship",
-      "video_id": "K6wxZOqD-HY",
-      "channel_title": "OpenAI",
-      "description": "Codex is an art director or a creative director for me, helping me riff on ideas,” - Chad Nelson, creative specialist at OpenAI.",
-      "published_at": "2026-06-11T21:28:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K6wxZOqD-HY/hqdefault.jpg"
-    },
-    {
-      "title": "Life Near OpenAI&#39;s Stargate Project",
-      "video_id": "6QoMzZ8FdTA",
-      "channel_title": "OpenAI",
-      "description": "For more than 40 years, Tom and Lisa Perini have welcomed visitors to their ranch and restaurant in Buffalo Gap, Texas, just ...",
-      "published_at": "2026-06-11T20:58:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6QoMzZ8FdTA/hqdefault.jpg"
-    },
-    {
-      "title": "Customer Ignite Talk: Antonio Bravo Acin (Global Head of AI Transformation, BBVA) &amp; OpenAI",
-      "video_id": "UNJSk90Lz1c",
+      "title": "Plan with ChatGPT",
+      "video_id": "YPNOjXTDP9c",
       "channel_title": "OpenAI",
       "description": "",
-      "published_at": "2026-06-11T19:51:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UNJSk90Lz1c/hqdefault.jpg"
+      "published_at": "2026-06-19T21:22:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YPNOjXTDP9c/hqdefault.jpg"
     },
     {
-      "title": "Build sales account strategies and outreach with Codex",
-      "video_id": "4YkOAYNZVOQ",
+      "title": "Score with ChatGPT",
+      "video_id": "5sDfhQq_g8A",
       "channel_title": "OpenAI",
-      "description": "See how the sales plugin for Codex helps sales teams move from account context to seller-ready work. In this demo, Codex ...",
-      "published_at": "2026-06-11T19:24:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4YkOAYNZVOQ/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-06-19T21:20:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5sDfhQq_g8A/hqdefault.jpg"
     },
     {
-      "title": "Creating black hole simulations with Codex",
-      "video_id": "4XSI4SClBMA",
+      "title": "Improving health intelligence in ChatGPT",
+      "video_id": "UxY8zJKRrHU",
       "channel_title": "OpenAI",
-      "description": "To learn more about black holes, computational astrophysicist Chi-kwan “CK” Chan is working to create the first moving image of ...",
-      "published_at": "2026-06-11T16:14:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4XSI4SClBMA/hqdefault.jpg"
+      "description": "Health is one of the most meaningful ways people use ChatGPT. Every week, more than 230 million people turn to ChatGPT for ...",
+      "published_at": "2026-06-18T19:10:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UxY8zJKRrHU/hqdefault.jpg"
     },
     {
-      "title": "Training to cycle across Antarctica | with ChatGPT",
-      "video_id": "ACue0bPkrPs",
+      "title": "Record &amp; Replay in Codex",
+      "video_id": "ZK3JhU73W18",
       "channel_title": "OpenAI",
-      "description": "In November, @jamesbensonking will attempt to become the first person to cycle solo and unsupported from the edge of ...",
-      "published_at": "2026-06-11T15:59:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ACue0bPkrPs/hqdefault.jpg"
+      "description": "Show Codex a workflow once. Reuse it as a skill. Record & Replay lets you show Codex a recurring task, like filing an expense ...",
+      "published_at": "2026-06-18T18:57:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZK3JhU73W18/hqdefault.jpg"
+    },
+    {
+      "title": "Build and test iOS apps without leaving Codex!",
+      "video_id": "rOLKQJMLBHI",
+      "channel_title": "OpenAI",
+      "description": "The Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload ...",
+      "published_at": "2026-06-17T18:01:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rOLKQJMLBHI/hqdefault.jpg"
+    },
+    {
+      "title": "Why Tejal Patwardhan stopped underestimating the models - Episode 21",
+      "video_id": "CFqjjKp9Y-Q",
+      "channel_title": "OpenAI",
+      "description": "The old tests are getting too easy. Tejal Patwardhan leads OpenAI's frontier evals team, which is finding new ways to measure ...",
+      "published_at": "2026-06-16T17:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CFqjjKp9Y-Q/hqdefault.jpg"
+    },
+    {
+      "title": "Build and test iOS apps without leaving Codex",
+      "video_id": "u9zLlcsCDiQ",
+      "channel_title": "OpenAI",
+      "description": "More of the iOS app loop, now inside Codex. The Build iOS Apps plugin lets Codex view and test your iOS app in the in-app ...",
+      "published_at": "2026-06-15T23:20:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u9zLlcsCDiQ/hqdefault.jpg"
+    },
+    {
+      "title": "How Wayfair Uses GPT-5.5 to Power Catalog Enrichment Across 40M Products",
+      "video_id": "TDM2Dz_MuPk",
+      "channel_title": "OpenAI",
+      "description": "Fiona Tan and her @wayfair team are leveraging GPT-5.5 and our API to power their catalog enrichment program across 40M ...",
+      "published_at": "2026-06-15T18:02:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TDM2Dz_MuPk/hqdefault.jpg"
+    },
+    {
+      "title": "Codex as a Solutions Engineering Partner",
+      "video_id": "_jNbM8pV9oI",
+      "channel_title": "OpenAI",
+      "description": "A big part of my role as a solutions engineer is not only to build but to understand,” Stephanie Anani, Solutions Engineer, OpenAI.",
+      "published_at": "2026-06-15T13:03:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_jNbM8pV9oI/hqdefault.jpg"
     }
   ]
 }

@@ -1,24 +1,16 @@
 {
-  "fetched_at": "2026-06-14T01:08:15.825752",
+  "fetched_at": "2026-06-21T01:10:05.623797",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Azure HorizonDB + VS Code: Your AI App Development Workspace",
-      "video_id": "dl98C_Pgne8",
+      "title": "Azure Service Health Alerts - Quick start guide",
+      "video_id": "LowIb32Stoo",
       "channel_title": "Microsoft Azure",
-      "description": "See how Azure HorizonDB brings enterprise-ready Postgres, built-in AI capabilities, and seamless VS Code integration together ...",
-      "published_at": "2026-06-12T18:06:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dl98C_Pgne8/hqdefault.jpg"
-    },
-    {
-      "title": "Members 1st modernizes its platform with Grafana and Azure, scaled through Microsoft Marketplace",
-      "video_id": "GH1sj_9v9XQ",
-      "channel_title": "Microsoft Azure",
-      "description": "Members 1st, a credit union serving over 625000 members, wanted to scale beyond their on-premises environment. By partnering ...",
-      "published_at": "2026-06-11T00:07:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GH1sj_9v9XQ/hqdefault.jpg"
+      "description": "Azure Service Health alerts help you proactively protect critical workloads by notifying you when service issues, planned ...",
+      "published_at": "2026-06-18T13:13:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LowIb32Stoo/hqdefault.jpg"
     },
     {
       "title": "Your Fine-Tuned Model Is Your IP: Open Model Strategy for Developers",
@@ -83,6 +75,14 @@
       "description": "SK Telecom uses Microsoft Foundry to orchestrate multi-agent workflows to deliver personalized, scalable, and compliant digital ...",
       "published_at": "2025-12-01T22:41:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6RHsxWn_Dws/hqdefault.jpg"
+    },
+    {
+      "title": "Future of Cloud: Language of Nature",
+      "video_id": "iWi8M5qsKAk",
+      "channel_title": "Microsoft Azure",
+      "description": "In this episode of Future of Cloud: Language of Nature, we trace how the logic of living systems is shaping the next era of ...",
+      "published_at": "2025-11-24T16:01:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iWi8M5qsKAk/hqdefault.jpg"
     }
   ]
 }

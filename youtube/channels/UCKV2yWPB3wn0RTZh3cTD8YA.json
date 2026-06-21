@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-14T01:08:38.463995",
+  "fetched_at": "2026-06-21T01:10:28.774345",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "库克的离场，苹果新AI权力重构与价值观天平｜WWDC26",
+      "video_id": "hIdvhl8PUwc",
+      "channel_title": "硅谷101",
+      "description": "这是库克卸任前最后一次主持WWDC，也是苹果在Apple Intelligence延期、翻车、诉讼和内部重组之后，重新交出AI答卷的一年。",
+      "published_at": "2026-06-18T01:40:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hIdvhl8PUwc/hqdefault.jpg"
+    },
     {
       "title": "SpaceX崛起史：一切，为了去火星｜实地探访星舰基地与总部",
       "video_id": "x2meJPOn9ws",
@@ -75,14 +83,6 @@
       "description": "最大的差异，其实是数据。” 谷歌前核心科学家Andrew Dai告诉我们，Gemini 2.5 和3.0 的提升，本质上来自数据处理方法的迭代： ...",
       "published_at": "2026-05-28T00:00:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/QR8_jzoP8Gk/hqdefault.jpg"
-    },
-    {
-      "title": "“再早一点，我们就是世界最好的模型”| 专访Gemini前核心科学家Andrew Dai",
-      "video_id": "AWj2XtnpA3s",
-      "channel_title": "硅谷101",
-      "description": "Google其实比OpenAI更早做MoE。 我们专访到了Gemini前核心科学家Andrew Dai。Andrew回忆，Google Brain在2021 年就已经 ...",
-      "published_at": "2026-05-27T00:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AWj2XtnpA3s/hqdefault.jpg"
     }
   ]
 }

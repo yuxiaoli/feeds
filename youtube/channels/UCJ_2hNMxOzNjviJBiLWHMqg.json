@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-14T01:08:34.856600",
+  "fetched_at": "2026-06-21T01:10:25.229882",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "How the Colosseum Games Intoxicated This Man",
+      "video_id": "8LOr8Yfbzpg",
+      "channel_title": "DamiLee",
+      "description": "He swore he'd never watch. Then the crowd erupted, and everything changed. The Colosseum wasn't just a stadium. It was a ...",
+      "published_at": "2026-06-16T15:30:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8LOr8Yfbzpg/hqdefault.jpg"
+    },
     {
       "title": "Minas Tirith Isn&#39;t a City. It&#39;s a Trap.",
       "video_id": "o5zfHVQoYY0",
@@ -75,14 +83,6 @@
       "description": "The most perfectly planned city could still fall apart at planet scale. Here's the rule that holds it together. Fractal design sounds like ...",
       "published_at": "2026-05-07T15:30:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FvntMqGFsQs/hqdefault.jpg"
-    },
-    {
-      "title": "The Colosseum was built on a tyrant&#39;s lake",
-      "video_id": "bT0EkuIfq5s",
-      "channel_title": "DamiLee",
-      "description": "What if the most iconic building in history was actually a political power move? The Colosseum wasn't built for glory. It was built on ...",
-      "published_at": "2026-05-05T07:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bT0EkuIfq5s/hqdefault.jpg"
     }
   ]
 }

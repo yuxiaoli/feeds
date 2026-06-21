@@ -1,80 +1,88 @@
 {
-  "fetched_at": "2026-06-14T01:08:22.972970",
+  "fetched_at": "2026-06-21T01:10:12.916595",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 9,
+  "count": 10,
   "videos": [
     {
-      "title": "Why you need to try the GitHub Copilot desktop app",
-      "video_id": "9jBkYXi4nmA",
+      "title": "Playing Pokémon Emerald in a web browser",
+      "video_id": "w2UMmeOBoI4",
       "channel_title": "GitHub",
-      "description": "The GitHub Copilot desktop app just got a massive update at Microsoft Build. It is now in an expanded technical preview packed ...",
-      "published_at": "2026-06-13T15:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9jBkYXi4nmA/hqdefault.jpg"
+      "description": "Shouting out GitHub user tripplyons for an incredible open source project: pokemonemerald-wasm. By recompiling the original ...",
+      "published_at": "2026-06-20T15:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w2UMmeOBoI4/hqdefault.jpg"
     },
     {
-      "title": "What can you do with the GitHub Copilot app?",
-      "video_id": "c6W_KvHkQ7M",
+      "title": "Replay: Open Source Friday with Spec-Kit",
+      "video_id": "zlcn1ojmOvQ",
       "channel_title": "GitHub",
-      "description": "Kyle Daigle shares some of his favorite features P.S. Anyone currently on a paid Copilot plan can use the GitHub Copilot app ...",
-      "published_at": "2026-06-13T14:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c6W_KvHkQ7M/hqdefault.jpg"
+      "description": "In this replay of Open Source Friday, Former MSFT Principal Software Engineer Manfred Riem explores Spec Kit and discusses ...",
+      "published_at": "2026-06-20T06:16:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zlcn1ojmOvQ/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Pomerium",
-      "video_id": "MQZGeKqqx88",
+      "title": "Can the GitHub Copilot app run Doom?",
+      "video_id": "aYM1hT0ms2M",
       "channel_title": "GitHub",
-      "description": "Join Andrea Griffiths and Nick Taylor for Open Source Friday featuring Pomerium, an open source identity-aware proxy that ...",
-      "published_at": "2026-06-13T06:28:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MQZGeKqqx88/hqdefault.jpg"
+      "description": "Can the GitHub Copilot app play Doom? Yes, it absolutely can. In this short, we test the limits of our new agent-first desktop ...",
+      "published_at": "2026-06-19T15:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aYM1hT0ms2M/hqdefault.jpg"
     },
     {
-      "title": "The Download: Claude Fable 5, new Copilot features, Microsoft Build recap &amp; more",
-      "video_id": "IN-YYcNgUSU",
+      "title": "GitHub Copilot App Launch - Rubber Duck Takeover!",
+      "video_id": "JXw9QXlV50s",
       "channel_title": "GitHub",
-      "description": "Welcome back to another episode of The Download with Christina Warren! This week, we cover all the massive developer news ...",
-      "published_at": "2026-06-12T16:45:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IN-YYcNgUSU/hqdefault.jpg"
+      "description": "Get the app - https://gh.io/app We're excited to introduce the general availability of the GitHub Copilot app—a brand-new, native ...",
+      "published_at": "2026-06-19T07:17:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JXw9QXlV50s/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays! Let&#39;s talk about Microsoft Build!",
-      "video_id": "Y7agj5T0GHE",
+      "title": "Jueves de Quack: GitHub Copilot App",
+      "video_id": "JAk2Df7sCc4",
       "channel_title": "GitHub",
-      "description": "Let's code, cowork, and talk about Microsoft Build!",
-      "published_at": "2026-06-12T07:06:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y7agj5T0GHE/hqdefault.jpg"
+      "description": "En esta sesión de Jueves de Quack vamos a ver el nuevo app GitHub Copilot!",
+      "published_at": "2026-06-19T03:10:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JAk2Df7sCc4/hqdefault.jpg"
     },
     {
-      "title": "Jueves de Quack con Cristian Córdova",
-      "video_id": "BphnIxeWaJ4",
+      "title": "RDT: Exploring the GitHub Copilot App",
+      "video_id": "WSjY59L6mSc",
       "channel_title": "GitHub",
-      "description": "Este Jueves de Quack! Nos sentamos con Cristian Córdova, creador de NaN, un proyecto que está moviendo la aguja para ...",
-      "published_at": "2026-06-12T03:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BphnIxeWaJ4/hqdefault.jpg"
+      "description": "In this stream we'll experiment with the GitHub Copilot App!",
+      "published_at": "2026-06-18T23:39:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WSjY59L6mSc/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursday (Post-Build Edition)",
-      "video_id": "gwg-5pRUw38",
+      "title": "Open Source Friday with Aspire",
+      "video_id": "xoQFvTxgrd0",
       "channel_title": "GitHub",
-      "description": "Let's get together and review GitHub-related announcements at Microsoft Build 2026.",
-      "published_at": "2026-06-11T23:50:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gwg-5pRUw38/hqdefault.jpg"
+      "description": "Open Source Friday dives into Aspire, a code-first orchestration and observability layer for distributed apps, with guests Maddy ...",
+      "published_at": "2026-06-18T20:28:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xoQFvTxgrd0/hqdefault_live.jpg"
     },
     {
-      "title": "Git merge vs rebase: what is the difference?",
-      "video_id": "k32vCDCa5kw",
+      "title": "Introducing Copilot CLI and agentic features in JetBrains IDEs",
+      "video_id": "ZpnR3GEah_4",
       "channel_title": "GitHub",
-      "description": "Are you confused about when to use Git merge versus Git rebase? In this short, we break down the core differences so you can ...",
-      "published_at": "2026-06-11T15:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k32vCDCa5kw/hqdefault.jpg"
+      "description": "Bring the power of agentic development directly into your favorite JetBrains IDEs. In this walkthrough, we demonstrate how to ...",
+      "published_at": "2026-06-18T16:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZpnR3GEah_4/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday: Building the Contributor Pipeline at Pollinations.ai",
-      "video_id": "apxwKja5JWE",
+      "title": "How ASOS ships code faster with GitHub Copilot",
+      "video_id": "akGV_IoNoAs",
       "channel_title": "GitHub",
-      "description": "What does open source maintenance actually look like once a project starts to scale? In this Open Source Friday stream, ...",
-      "published_at": "2026-05-29T14:30:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/apxwKja5JWE/hqdefault_live.jpg"
+      "description": "ASOS serves millions of customers across the globe, and behind the scenes, their engineering team is moving as quick as the ...",
+      "published_at": "2026-06-17T16:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/akGV_IoNoAs/hqdefault.jpg"
+    },
+    {
+      "title": "How to take work from issue to merge with the GitHub Copilot app",
+      "video_id": "M0l6qfwxVos",
+      "channel_title": "GitHub",
+      "description": "The goal isn't doing more, it's shipping the right things. In this video, a GitHub product manager shows how the GitHub Copilot app ...",
+      "published_at": "2026-06-16T15:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M0l6qfwxVos/hqdefault.jpg"
     }
   ]
 }

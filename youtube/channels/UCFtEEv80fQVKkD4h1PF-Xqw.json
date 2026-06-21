@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-06-14T01:08:32.060865",
+  "fetched_at": "2026-06-21T01:10:22.281772",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
+    {
+      "title": "Introducing Frontier Tuning | Microsoft AI Models",
+      "video_id": "I-ej54mJHJk",
+      "channel_title": "Microsoft",
+      "description": "Easily customize one or more of our top Microsoft AI (MAI) models by Frontier Tuning it on your unique business needs, all trained ...",
+      "published_at": "2026-06-18T16:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I-ej54mJHJk/hqdefault.jpg"
+    },
+    {
+      "title": "Meet the People Behind Microsoft AI‌",
+      "video_id": "QFncbBQl6RM",
+      "channel_title": "Microsoft",
+      "description": "Behind every model is a team dedicated to solving difficult challenges, exploring new ideas, and continuously pushing technology ...",
+      "published_at": "2026-06-16T19:28:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QFncbBQl6RM/hqdefault.jpg"
+    },
+    {
+      "title": "How Technology Supports a New Generation of Farmers",
+      "video_id": "czm4Y7VXvn8",
+      "channel_title": "Microsoft",
+      "description": "Across generations, farming has been built on experience, intuition, and a deep connection to the land. Today, that tradition ...",
+      "published_at": "2026-06-16T16:05:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/czm4Y7VXvn8/hqdefault.jpg"
+    },
     {
       "title": "Microsoft’s LGBTQIA+ community shares stories of living openly and authentically",
       "video_id": "QabLb9HpIyQ",
@@ -11,30 +35,6 @@
       "description": "From agree to disagree, where would you land? Four coworkers reflect on a series of questions and share their personal journeys ...",
       "published_at": "2026-06-11T16:03:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/QabLb9HpIyQ/hqdefault.jpg"
-    },
-    {
-      "title": "How to adapt in the age of AI | Watch ep 1 of On the Frontier",
-      "video_id": "wchqOxueXVw",
-      "channel_title": "Microsoft",
-      "description": "ai #futureofwork AI is changing everything and every industry is feeling it. From job security to the future of work, leaders are ...",
-      "published_at": "2026-06-09T21:29:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wchqOxueXVw/hqdefault.jpg"
-    },
-    {
-      "title": "Lumen&#39;s people-first playbook for the AI age | On the Frontier",
-      "video_id": "jQgwr8Z8asQ",
-      "channel_title": "Microsoft",
-      "description": "Every leader has an AI strategy. Ana White thinks most of them are starting in the wrong place. As Chief People & AI Enablement ...",
-      "published_at": "2026-06-09T16:09:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jQgwr8Z8asQ/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing MAI-Transcribe-1.5 | Microsoft AI Models",
-      "video_id": "a7e_3ThX4nY",
-      "channel_title": "Microsoft",
-      "description": "MAI-Transcribe-1.5 delivers consistent, high-accuracy transcription across languages, accents, and challenging audio conditions ...",
-      "published_at": "2026-06-08T17:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a7e_3ThX4nY/hqdefault.jpg"
     },
     {
       "title": "Voice Coding Demo: MAI-Code-1-Flash | Microsoft AI Models",

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-14T01:08:18.715506",
+  "fetched_at": "2026-06-21T01:10:08.533293",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "GLM-5.2实测! 什么才是Agent能力的提升?",
+      "video_id": "bt5x-Eg2cb0",
+      "channel_title": "Karminski-牙医",
+      "description": "GLM-5.2 刚刚正式发布! 给大家带来实测! 直接说结论本次测试中, 提升最大的是Agent能力, 而且是有质的变化! 测试中GLM-5.2 完全 ...",
+      "published_at": "2026-06-17T10:08:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bt5x-Eg2cb0/hqdefault.jpg"
+    },
     {
       "title": "MiniMax-M3 最佳实践? 这个视频告诉你!",
       "video_id": "py7M5sZ71Gs",
@@ -75,14 +83,6 @@
       "description": "给大家带来刚发布的GLM-5-Turbo 大模型实测, 官方说这是一个加强了tool call/Agent 能力的大模型, 于是我使用它搭建了一个可以帮 ...",
       "published_at": "2026-03-17T06:03:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/wjjK5UHa3ww/hqdefault.jpg"
-    },
-    {
-      "title": "Agent 能力有多强? 来看豆包Seed2.0实测!",
-      "video_id": "Kr4dv32IS7k",
-      "channel_title": "Karminski-牙医",
-      "description": "这次给大家用字节跳动新推出的豆包Seed-2.0-Pro 大模型做了一个能连接RPGMaker 的AI Agent 框架, 只需要把小说粘贴进去, 就能 ...",
-      "published_at": "2026-03-05T00:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Kr4dv32IS7k/hqdefault.jpg"
     }
   ]
 }

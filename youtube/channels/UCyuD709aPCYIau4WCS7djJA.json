@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-06-14T01:09:13.918803",
+  "fetched_at": "2026-06-21T01:11:04.419263",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Stuck in Space? Don’t Panic. Probably.",
+      "video_id": "13knmn75LGU",
+      "channel_title": "Star Walk",
+      "description": "Imagine you're floating in space with nothing nearby to push against. No wall. No handrail. No helpful alien. Can you just ...",
+      "published_at": "2026-06-17T07:38:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/13knmn75LGU/hqdefault.jpg"
+    },
+    {
+      "title": "🌌 The Universe Gives You 5 Reasons to Live to 100",
+      "video_id": "CssSF5SOZfw",
+      "channel_title": "Star Walk",
+      "description": "April 13, 2029 ☄️ Asteroid Apophis Makes a Historic Flyby of Earth A 340-meter asteroid will pass just 31600 km above Earth's ...",
+      "published_at": "2026-06-15T11:45:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CssSF5SOZfw/hqdefault.jpg"
+    },
     {
       "title": "No luxury compares to a sky full of stars 🌌",
       "video_id": "M0wUm3Dake0",
@@ -67,22 +83,6 @@
       "description": "This Sunday, look up to see a rare Blue Moon — the second Full Moon of the month. It's also a Micromoon, appearing 5.5% ...",
       "published_at": "2026-05-29T10:07:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KFWe7xX9UQc/hqdefault.jpg"
-    },
-    {
-      "title": "Retrograde planets",
-      "video_id": "FF8qd5voE9E",
-      "channel_title": "Star Walk",
-      "description": "Mercury gets most of the retrograde fame, but it's not the only planet that appears to move backward in the sky! In this visualization ...",
-      "published_at": "2026-05-27T08:34:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FF8qd5voE9E/hqdefault.jpg"
-    },
-    {
-      "title": "🌕 Earth’s Moon feels big to us",
-      "video_id": "gg59cCwVzZ4",
-      "channel_title": "Star Walk",
-      "description": "but in the Solar System ranking, it's only #5! The true giants are worlds like Ganymede, Titan, and Callisto — moons so massive ...",
-      "published_at": "2026-05-25T10:06:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gg59cCwVzZ4/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-14T01:08:33.438802",
+  "fetched_at": "2026-06-21T01:10:23.764442",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The Full Aussie BRITISH TAKE OVER",
+      "video_id": "QkslaKpuNgU",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "Join My Patreon https://www.patreon.com/MrGrantGregory Welcome to MrGrantGregory AI Channel Where we do AI. Copyright ...",
+      "published_at": "2026-06-20T14:37:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QkslaKpuNgU/hqdefault.jpg"
+    },
     {
       "title": "Wakonda - Full Aussie Podcast",
       "video_id": "QRyhpwBKVxY",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-05-29T15:00:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0q91w6SYyE4/hqdefault.jpg"
-    },
-    {
-      "title": "29 May 2026",
-      "video_id": "Iw1VPohoz3o",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "",
-      "published_at": "2026-05-29T11:22:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Iw1VPohoz3o/hqdefault.jpg"
     }
   ]
 }

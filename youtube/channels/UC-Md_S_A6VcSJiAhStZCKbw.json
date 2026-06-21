@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-14T01:08:12.843633",
+  "fetched_at": "2026-06-21T01:10:02.670237",
   "channel_id": "UC-Md_S_A6VcSJiAhStZCKbw",
   "channel_title": "Jordi Koalitic",
   "count": 10,
   "videos": [
+    {
+      "title": "Creativity beats AI 💡🫢 shot w @insta360 Luna Ultra",
+      "video_id": "fOXLvE0wJdM",
+      "channel_title": "Jordi Koalitic",
+      "description": "Insta360 #Insta360LunaUltra #GimbalCamera #Insta360LeicaAwards.",
+      "published_at": "2026-06-18T12:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fOXLvE0wJdM/hqdefault.jpg"
+    },
     {
       "title": "Car light painting ✨ with @CUPRAOfficial",
       "video_id": "DBItYYMya1M",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-04-24T10:10:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/OdfiNGELZro/hqdefault.jpg"
-    },
-    {
-      "title": "Spring colors 🌼 shot w @NikonEurope  #NikonZR",
-      "video_id": "FD_8_C5Z5R0",
-      "channel_title": "Jordi Koalitic",
-      "description": "A cinematic vertical video of a professional photographer filming a real nature scene. A tripod with a camera and a person's hand ...",
-      "published_at": "2026-04-21T13:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FD_8_C5Z5R0/hqdefault.jpg"
     }
   ]
 }

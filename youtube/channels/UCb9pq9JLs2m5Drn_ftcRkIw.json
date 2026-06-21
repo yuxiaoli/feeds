@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-06-14T01:08:56.321015",
+  "fetched_at": "2026-06-21T01:10:46.508446",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "الانتقال من البايك بوش اب للهاندستاند",
+      "video_id": "jMkFKfjU_To",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-06-20T11:38:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jMkFKfjU_To/hqdefault.jpg"
+    },
+    {
+      "title": "اتجاه الأصابع في تمرين البوش اب",
+      "video_id": "YeN0k5PKyac",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-06-17T12:42:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YeN0k5PKyac/hqdefault.jpg"
+    },
+    {
+      "title": "حل مشكلة الاعتماد على جهة اكثر من الثانية في الديب",
+      "video_id": "2tDjgQ9xU6I",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-06-15T11:55:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2tDjgQ9xU6I/hqdefault.jpg"
+    },
     {
       "title": "قربت من التحول",
       "video_id": "hvD2a0m6iIo",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-05-20T10:43:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/acs4EXbI5no/hqdefault.jpg"
-    },
-    {
-      "title": "ايش بتختار",
-      "video_id": "APUemR2moIQ",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-05-18T12:59:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/APUemR2moIQ/hqdefault.jpg"
-    },
-    {
-      "title": "قوة أو شكل",
-      "video_id": "UP73GVVvhUk",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-05-07T13:34:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UP73GVVvhUk/hqdefault.jpg"
-    },
-    {
-      "title": "رجعنا بأكثر من 100 كيلو سمك",
-      "video_id": "JTCJyuDX71s",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-05-01T11:37:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JTCJyuDX71s/hqdefault.jpg"
     }
   ]
 }

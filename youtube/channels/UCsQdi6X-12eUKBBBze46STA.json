@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-06-14T01:09:10.402115",
+  "fetched_at": "2026-06-21T01:11:00.847006",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "The Power of Adding Protein",
+      "video_id": "th0UxmsUw80",
+      "channel_title": "Glucose Revolution",
+      "description": "When you want to enjoy a cookie, why not try adding extra protein to reduce the effect of the glucose on your body. Each protein ...",
+      "published_at": "2026-06-18T17:56:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/th0UxmsUw80/hqdefault.jpg"
+    },
+    {
+      "title": "My favorite high-protein cookies",
+      "video_id": "PytqVHOmY0M",
+      "channel_title": "Glucose Revolution",
+      "description": "Protein cookie recipe right this way What you need: • 150 g (5.3 oz) unsalted butter, softened • 150 g (5.3 oz) nut butter • 240 g ...",
+      "published_at": "2026-06-16T14:48:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PytqVHOmY0M/hqdefault.jpg"
+    },
     {
       "title": "The GLP-1 paradox",
       "video_id": "wEfaQgyETHA",
@@ -19,14 +35,6 @@
       "description": "",
       "published_at": "2026-06-11T15:14:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CJz_OfZjLr0/hqdefault.jpg"
-    },
-    {
-      "title": "Is your protein actually protein?",
-      "video_id": "nxcVTEmQfFM",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-06-08T17:58:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nxcVTEmQfFM/hqdefault.jpg"
     },
     {
       "title": "Add this to your pasta",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-05-14T15:16:14Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CKf0uUmWKQ0/hqdefault.jpg"
-    },
-    {
-      "title": "The Best Way To Eat Carrots",
-      "video_id": "17ocPqNl4rM",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-05-12T17:01:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/17ocPqNl4rM/hqdefault.jpg"
     }
   ]
 }

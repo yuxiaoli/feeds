@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-14T01:08:49.181905",
+  "fetched_at": "2026-06-21T01:10:39.373092",
   "channel_id": "UCV0qA-eDDICsRR9rPcnG7tw",
   "channel_title": "Joma Tech",
   "count": 10,
   "videos": [
+    {
+      "title": "If Yu-Gi-Oh was about Tech Jobs",
+      "video_id": "2LQXrGKq3t0",
+      "channel_title": "Joma Tech",
+      "description": "Start learning Cyber Security for FREE: https://tryhackme.com/JomaTech Use code JOMA30 for 30% off annual subscription ...",
+      "published_at": "2026-06-18T12:05:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2LQXrGKq3t0/hqdefault.jpg"
+    },
     {
       "title": "life of an AI startup founder/CEO",
       "video_id": "YRddOEtlnEk",
@@ -75,14 +83,6 @@
       "description": "100000% APY baby Thanks Current for letting me film in your office. They're hiring: https://current.com/jomatech **Cast** DAO ...",
       "published_at": "2022-04-08T15:00:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KHEZCXfyxjU/hqdefault.jpg"
-    },
-    {
-      "title": "interviewing at a startup be like... (ft. Steven He)",
-      "video_id": "314OLE6mKOo",
-      "channel_title": "Joma Tech",
-      "description": "Looking for a Software Engineering job? Current is hiring! A lot: https://current.com/jomatech Huuuge thanks to @StevenHe for ...",
-      "published_at": "2022-03-10T16:11:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/314OLE6mKOo/hqdefault.jpg"
     }
   ]
 }

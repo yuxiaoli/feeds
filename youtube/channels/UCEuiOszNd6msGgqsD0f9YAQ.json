@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-06-14T01:08:29.971539",
+  "fetched_at": "2026-06-21T01:10:20.234957",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
     {
-      "title": "The Space Junk Problem Is Worse Than You Think",
-      "video_id": "msK9_dSTJ2A",
+      "title": "How sodium-ion could unlock battery manufacturing to developing nations",
+      "video_id": "y7XqVmAD3Fg",
       "channel_title": "Interesting Engineering",
-      "description": "The Earth's orbit is getting increasingly crowded with not just satellites, but also old rocket boosters, fragments of broken space ...",
-      "published_at": "2026-06-06T14:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/msK9_dSTJ2A/hqdefault.jpg"
+      "description": "Lithium-ion batteries power almost everything but could sodium be the future? In this video, we break down how sodium-ion ...",
+      "published_at": "2026-06-20T09:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y7XqVmAD3Fg/hqdefault.jpg"
+    },
+    {
+      "title": "The problem with sodium-ion batteries",
+      "video_id": "he7cLZC-nyM",
+      "channel_title": "Interesting Engineering",
+      "description": "Lithium-ion batteries power almost everything but could sodium be the future? In this video, we break down how sodium-ion ...",
+      "published_at": "2026-06-20T09:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/he7cLZC-nyM/hqdefault.jpg"
+    },
+    {
+      "title": "B-52 Bomber Crashes at Edwards Air Force Base, 8 Lost Their Lives on Board",
+      "video_id": "_eXRA3VF2SE",
+      "channel_title": "Interesting Engineering",
+      "description": "A B-52 Stratofortress crashed shortly after takeoff during a routine test mission at Edwards Air Force Base in California's Mojave ...",
+      "published_at": "2026-06-16T08:48:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_eXRA3VF2SE/hqdefault.jpg"
     },
     {
       "title": "NASA’s Artemis II mission animation",
@@ -67,22 +83,6 @@
       "description": "Has NASA really found life on Mars? Perseverance just sent back images containing traces of minerals that could've only been ...",
       "published_at": "2025-09-11T11:18:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3v5IL3-CEG0/hqdefault.jpg"
-    },
-    {
-      "title": "New iPhone Camera Dock Lets You Film Like A Pro",
-      "video_id": "r-EAPOKdLFQ",
-      "channel_title": "Interesting Engineering",
-      "description": "Features like GENLOCK and Timecode in, previously restricted to professional camera equipment, are now at your fingertips, ...",
-      "published_at": "2025-09-10T13:03:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r-EAPOKdLFQ/hqdefault.jpg"
-    },
-    {
-      "title": "Shape Changing Antenna Secures Signal",
-      "video_id": "5GIFQ5CvF2Q",
-      "channel_title": "Interesting Engineering",
-      "description": "MIT researchers have invented a flexible antenna, capable of maintaining a strong signal connection by changing shape!",
-      "published_at": "2025-08-18T23:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5GIFQ5CvF2Q/hqdefault.jpg"
     }
   ]
 }

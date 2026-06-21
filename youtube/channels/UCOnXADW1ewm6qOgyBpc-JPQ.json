@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-14T01:08:44.886081",
+  "fetched_at": "2026-06-21T01:10:35.098212",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "What is that grip💀#calisthenics #motivation #gymmotivation #shorts",
+      "video_id": "RwKwwngi1WE",
+      "channel_title": "Leo Wang",
+      "description": "",
+      "published_at": "2026-06-14T15:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RwKwwngi1WE/hqdefault.jpg"
+    },
     {
       "title": "CALISTHENICS? GYM? DO BOTH. #motivation #calisthenics #gymmotivation #shorts",
       "video_id": "bYe0dEmIU3k",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-03-15T15:01:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/oSbhJLUGSu0/hqdefault.jpg"
-    },
-    {
-      "title": "The Art of Calisthenics #calisthenics #motivation #gymmotivation",
-      "video_id": "u88_2w6WB0c",
-      "channel_title": "Leo Wang",
-      "description": "",
-      "published_at": "2026-02-15T16:01:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u88_2w6WB0c/hqdefault.jpg"
     }
   ]
 }

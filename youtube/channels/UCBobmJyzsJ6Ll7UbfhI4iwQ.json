@@ -1,48 +1,72 @@
 {
-  "fetched_at": "2026-06-14T01:08:26.476377",
+  "fetched_at": "2026-06-21T01:10:16.576585",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 5,
+  "count": 8,
   "videos": [
     {
-      "title": "This just in: Riot Games is joining the State of Unreal next week!",
-      "video_id": "gavBEpn8m9k",
+      "title": "State of Unreal Sizzle Reel | Unreal Fest Chicago 2026",
+      "video_id": "_Xf9erwlgz8",
       "channel_title": "Unreal Engine",
-      "description": "Be there June 17 at 9AM CT as they take us through what they've been cooking in Teamfight Tactics using Unreal Engine: ...",
-      "published_at": "2026-06-12T20:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gavBEpn8m9k/hqdefault.jpg"
+      "description": "Watch this video to discover some of the stunning projects being produced with Unreal Engine and Epic ecosystem tools by ...",
+      "published_at": "2026-06-19T00:04:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_Xf9erwlgz8/hqdefault.jpg"
     },
     {
-      "title": "Built by a small team. Played by millions.",
-      "video_id": "MW1RaU3Reeo",
+      "title": "State of Unreal 2026 Official 4K | Unreal Fest Chicago",
+      "video_id": "xXGSvLH9zAs",
       "channel_title": "Unreal Engine",
-      "description": "FOAD are bringing their story to this year's State of Unreal, sharing how their UEFN journey helped them reach audiences they ...",
-      "published_at": "2026-06-12T14:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MW1RaU3Reeo/hqdefault.jpg"
+      "description": "Catch up on all the action from the State of Unreal in this recording of the full show from Unreal Fest Chicago 2026. At the State of ...",
+      "published_at": "2026-06-17T21:14:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xXGSvLH9zAs/hqdefault.jpg"
     },
     {
-      "title": "MegaLights on Mobile: Pipe Dream or Reality? How Arm &amp; Sumo Digital Made It Possible | Inside Unreal",
-      "video_id": "XG5W2Ei_J0Q",
+      "title": "Tim Sweeney’s Remarks Part 1 | State of Unreal | Unreal Fest Chicago 2026",
+      "video_id": "qrAB7aJ5XBY",
       "channel_title": "Unreal Engine",
-      "description": "Arm and Sumo Digital have teamed up to push mobile graphics into new territory, using Arm Neural Technology to help bring ...",
-      "published_at": "2026-06-11T17:08:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XG5W2Ei_J0Q/hqdefault.jpg"
+      "description": "Watch this clip from the State of Unreal at Unreal Fest Chicago 2026 and see Tim Sweeney take to the stage to talk about Unreal ...",
+      "published_at": "2026-06-17T19:49:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qrAB7aJ5XBY/hqdefault.jpg"
     },
     {
-      "title": "New in 41.00: Memory Profiling for UEFN | Creating in Fortnite",
-      "video_id": "PZpwCX-5xfo",
+      "title": "Tim Sweeney’s Remarks Part 2 | State of Unreal | Unreal Fest Chicago 2026",
+      "video_id": "t2ek_FJDjtQ",
       "channel_title": "Unreal Engine",
-      "description": "Join us for a live walkthrough of the latest performance tooling updates in UEFN. We'll show you how the new Monitor ...",
-      "published_at": "2026-06-09T19:30:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PZpwCX-5xfo/hqdefault.jpg"
+      "description": "Check out Tim's closing out of State of Unreal 2026. #TimSweeney, #UE6, #UnrealEngine6, #UnrealEngine, #StateOfUnreal, ...",
+      "published_at": "2026-06-17T19:50:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t2ek_FJDjtQ/hqdefault.jpg"
     },
     {
       "title": "State of Unreal 2026 Official 4K Livestream | Unreal Fest Chicago",
       "video_id": "9ikOoOzAhPE",
       "channel_title": "Unreal Engine",
       "description": "Watch the State of Unreal, live from Unreal Fest Chicago! Tune in for news about Epic's developer tools and services, highlights ...",
-      "published_at": "2026-05-04T21:01:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9ikOoOzAhPE/hqdefault_live.jpg"
+      "published_at": "2026-06-17T15:57:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9ikOoOzAhPE/hqdefault.jpg"
+    },
+    {
+      "title": "Unreal Engine 5.8 Feature Highlights",
+      "video_id": "ExFF5gXVhDU",
+      "channel_title": "Unreal Engine",
+      "description": "With Unreal Engine 5.8, you can push performance and customization further with advanced worldbuilding and terrain creation, ...",
+      "published_at": "2026-06-17T14:08:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ExFF5gXVhDU/hqdefault.jpg"
+    },
+    {
+      "title": "MetaHuman Sizzle Reel 2026 | Unreal Fest Chicago",
+      "video_id": "_mMZNx9AWTg",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video to see the impressive digital character work being created with MetaHuman by talented teams around the world.",
+      "published_at": "2026-06-16T16:06:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_mMZNx9AWTg/hqdefault.jpg"
+    },
+    {
+      "title": "A Look At Epic’s Art Concepting Process",
+      "video_id": "ZR2xbcf3Xyw",
+      "channel_title": "Unreal Engine",
+      "description": "Here's a look at how Epic's artists approach concept work. From blank canvas to final concepts, they sketch, block out, and refine ...",
+      "published_at": "2026-06-16T00:40:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZR2xbcf3Xyw/hqdefault.jpg"
     }
   ]
 }
