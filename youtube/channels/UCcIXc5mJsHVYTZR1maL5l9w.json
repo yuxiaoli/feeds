@@ -1,73 +1,9 @@
 {
-  "fetched_at": "2026-06-21T01:10:47.974430",
+  "fetched_at": "2026-06-28T01:03:58.362976",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
-    {
-      "title": "Build Your Own App In Just 30 Minutes! Full Course with Andrew Ng",
-      "video_id": "ff3j4olCUig",
-      "channel_title": "DeepLearningAI",
-      "description": "Earn your certificate here: https://bit.ly/4ejb47H If you've never written code before, this course is for you. In less than 30 minutes, ...",
-      "published_at": "2026-06-02T18:02:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ff3j4olCUig/hqdefault.jpg"
-    },
-    {
-      "title": "How good is AI memory?",
-      "video_id": "v8bdDQ6SM-Q",
-      "channel_title": "DeepLearningAI",
-      "description": "Humans can keep a few ideas in working memory at once. Modern AI models can process the equivalent of multiple Harry Potter ...",
-      "published_at": "2026-05-26T17:23:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v8bdDQ6SM-Q/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 26 x SF | Ara Khan: Evals Are Broken Use Them Anyway",
-      "video_id": "fAfuQN0WwFE",
-      "channel_title": "DeepLearningAI",
-      "description": "This talk by Cline's Ara Khan explains why they went from \"evals are useless\" to using them as a core part of my agent ...",
-      "published_at": "2026-05-22T23:14:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fAfuQN0WwFE/hqdefault.jpg"
-    },
-    {
-      "title": "Semantic Search Starts With Embeddings",
-      "video_id": "S_xwTgs8zmo",
-      "channel_title": "DeepLearningAI",
-      "description": "Budget” and “financials” are different words, but embeddings understand they're related. That's the foundation behind semantic ...",
-      "published_at": "2026-05-22T19:12:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S_xwTgs8zmo/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 26 x SF | Andi Partovi: Why Every Agent Needs a Simulation Sandbox",
-      "video_id": "cnt83ML6-fA",
-      "channel_title": "DeepLearningAI",
-      "description": "AI agents fail in unpredictable ways that traditional testing can't catch — hallucinations, wrong tool calls, policy violations, and ...",
-      "published_at": "2026-05-22T17:21:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cnt83ML6-fA/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 26 x SF | João Moura: Building Recurring, Governed, and Embedded Enterprise Workflows",
-      "video_id": "hsy02uiKcAM",
-      "channel_title": "DeepLearningAI",
-      "description": "Modern enterprises don't struggle to experiment with AI — they struggle to operationalize it reliably. In this talk, CrewAI's CEO ...",
-      "published_at": "2026-05-22T17:18:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hsy02uiKcAM/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 26 x SF | Luke Kim: The Agent Data Stack—Why Every AI Agent Needs Its Own Data Stack",
-      "video_id": "ycKLqk5tezw",
-      "channel_title": "DeepLearningAI",
-      "description": "From centralized to distributed: In the old world, organizations relied on one centralized data and AI platform. In the new world of ...",
-      "published_at": "2026-05-22T16:55:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ycKLqk5tezw/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 26 x SF | Manos Koukoumidis &amp; Stefan Webb: VibeML: Build your AI model in hours, not months",
-      "video_id": "MlVuNCP9uxs",
-      "channel_title": "DeepLearningAI",
-      "description": "The next major shift in enterprise AI is underway; enterprises are moving from generic AI they rent to specialized AI they own.",
-      "published_at": "2026-05-22T16:52:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MlVuNCP9uxs/hqdefault.jpg"
-    },
     {
       "title": "AI Dev 26 x SF | Daniel Beutel: Flower SuperGrid Agents",
       "video_id": "C5oYk1bn4_o",
@@ -77,12 +13,76 @@
       "thumbnail_url": "https://i.ytimg.com/vi/C5oYk1bn4_o/hqdefault.jpg"
     },
     {
-      "title": "AI Dev 26 x SF | Or Dagan: Optimizing Accuracy, Cost, and Latency in Real-World Agents",
-      "video_id": "CXd0kDikK0U",
+      "title": "AI Dev 26 x SF | Diamond Bishop: The Next 100 Agents. Building the Agent Native Office",
+      "video_id": "wKAeqSfIX5g",
       "channel_title": "DeepLearningAI",
-      "description": "Most agentic systems rely on hardcoded heuristics to navigate execution decisions (e.g. which models, tools, and test-time ...",
-      "published_at": "2026-05-22T16:42:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CXd0kDikK0U/hqdefault.jpg"
+      "description": "Building your first agent is exciting. Building a platform that can evolve into an office where dozens of teams can safely deploy ...",
+      "published_at": "2026-05-22T15:52:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wKAeqSfIX5g/hqdefault.jpg"
+    },
+    {
+      "title": "AI Dev 26 x SF: Andrew Ng: The Future of Software Engineering",
+      "video_id": "g8um2AEf5ZA",
+      "channel_title": "DeepLearningAI",
+      "description": "At AI Dev 26 x San Francisco, Andrew Ng discussed the rapid evolution of software engineering driven by AI coding agents and ...",
+      "published_at": "2026-05-20T18:30:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g8um2AEf5ZA/hqdefault.jpg"
+    },
+    {
+      "title": "Explore Canvas, OpenAI’s latest interface in this new short course",
+      "video_id": "VARe8flqbjE",
+      "channel_title": "DeepLearningAI",
+      "description": "Enroll now: https://bit.ly/3VaJG1M We saw your interest in the ChatGPT Prompt Engineering for Developers course and thought ...",
+      "published_at": "2024-12-04T14:24:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VARe8flqbjE/hqdefault.jpg"
+    },
+    {
+      "title": "Generative AI for Everyone, a course from Andrew Ng, is live!",
+      "video_id": "dfeoJ55EcXs",
+      "channel_title": "DeepLearningAI",
+      "description": "Enroll now: https://bit.ly/3QnncHN Introducing Generative AI for Everyone! Learn directly from Andrew Ng about the technology of ...",
+      "published_at": "2023-11-01T15:05:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dfeoJ55EcXs/hqdefault.jpg"
+    },
+    {
+      "title": "Accelerating Your AI Career",
+      "video_id": "D1W0kS40otM",
+      "channel_title": "DeepLearningAI",
+      "description": "0:00-6:45 Opening & Speaker Intro 7:44-13:04 How speakers Andrew Ng, Allie K. Miller, and Shravan Goli got started in AI ...",
+      "published_at": "2022-08-03T19:25:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D1W0kS40otM/hqdefault.jpg"
+    },
+    {
+      "title": "Prioritizing AI/ML Projects in Your Organization",
+      "video_id": "GK03Wje5Wi8",
+      "channel_title": "DeepLearningAI",
+      "description": "As AI/ML becomes popular, every product/service organization is looking to add these capabilities to improve business outcomes.",
+      "published_at": "2022-04-28T18:17:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GK03Wje5Wi8/hqdefault.jpg"
+    },
+    {
+      "title": "#14 Machine Learning Engineering for Production (MLOps) Specialization [Course 1, Week 2, Lesson 6]",
+      "video_id": "quEHyoA94rw",
+      "channel_title": "DeepLearningAI",
+      "description": "The Machine Learning Engineering for Production (MLOps) Specialization teaches you how to conceptualize, build, and maintain ...",
+      "published_at": "2022-04-21T00:03:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/quEHyoA94rw/hqdefault.jpg"
+    },
+    {
+      "title": "#11 Machine Learning Engineering for Production (MLOps) Specialization [Course 1, Week 2, Lesson 3]",
+      "video_id": "fiDmWKh_WeQ",
+      "channel_title": "DeepLearningAI",
+      "description": "The Machine Learning Engineering for Production (MLOps) Specialization teaches you how to conceptualize, build, and maintain ...",
+      "published_at": "2022-04-21T00:03:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fiDmWKh_WeQ/hqdefault.jpg"
+    },
+    {
+      "title": "#2 Machine Learning Engineering for Production (MLOps) Specialization [Course 1, Week 1, Lesson 2]",
+      "video_id": "e69ZWbbsGng",
+      "channel_title": "DeepLearningAI",
+      "description": "The Machine Learning Engineering for Production (MLOps) Specialization teaches you how to conceptualize, build, and maintain ...",
+      "published_at": "2022-04-20T23:59:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e69ZWbbsGng/hqdefault.jpg"
     }
   ]
 }

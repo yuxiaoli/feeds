@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-21T01:10:08.533293",
+  "fetched_at": "2026-06-28T01:03:18.792685",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "2分钟教你做一个可以自我迭代的 Agent",
+      "video_id": "JUn7j9RxijQ",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家分享一个自我迭代 Agent 的构建技巧啊, 也是我在今天字节 seed-2.1 模型发布 demo 中用到的技巧. 这个技巧的核心就是, 干一 ...",
+      "published_at": "2026-06-23T13:56:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JUn7j9RxijQ/hqdefault.jpg"
+    },
     {
       "title": "GLM-5.2实测! 什么才是Agent能力的提升?",
       "video_id": "bt5x-Eg2cb0",
@@ -75,14 +83,6 @@
       "description": "有好多同学不知道如何写SKILL, 以及写了SKILL运行总是不稳定, 这次教大家使用MiniMax-M2.7 给龙虾(openclaw)写一个\"生产级\" ...",
       "published_at": "2026-03-27T23:06:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gtL8VgvPQZs/hqdefault.jpg"
-    },
-    {
-      "title": "龙虾专用大模型? GLM-5-Turbo 实测!",
-      "video_id": "wjjK5UHa3ww",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来刚发布的GLM-5-Turbo 大模型实测, 官方说这是一个加强了tool call/Agent 能力的大模型, 于是我使用它搭建了一个可以帮 ...",
-      "published_at": "2026-03-17T06:03:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wjjK5UHa3ww/hqdefault.jpg"
     }
   ]
 }

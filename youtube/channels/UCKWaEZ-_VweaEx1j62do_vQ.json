@@ -1,48 +1,64 @@
 {
-  "fetched_at": "2026-06-21T01:10:29.444032",
+  "fetched_at": "2026-06-28T01:03:39.686495",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Microsoft’s new AI models &amp; bots dominate the internet",
-      "video_id": "SvBheXuKY8s",
+      "title": "Is patch management dead?👀",
+      "video_id": "bR9cb-hyneE",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~P2MwO1Liq Are AI agents taking over the internet?",
-      "published_at": "2026-06-19T10:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SvBheXuKY8s/hqdefault.jpg"
+      "description": "WannaCry proved a missed patch can cost millions. Strategic security, fast patching, and real risk math matter. Explore lessons ...",
+      "published_at": "2026-06-26T16:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bR9cb-hyneE/hqdefault.jpg"
     },
     {
-      "title": "Building AI Agents for Real-World Problems &amp; Workflows",
-      "video_id": "4Vg2aVtrX8k",
+      "title": "New AI models, token minimization and IBM’s new sub-1nm chip",
+      "video_id": "d-hJa-yDJmQ",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Building and evaluating AI agents that work in the real world here → https://ibm.biz/~M1R5rMq8K AI agents are ...",
-      "published_at": "2026-06-18T11:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4Vg2aVtrX8k/hqdefault.jpg"
+      "description": "Learn more about IBM's new chip technology →https://ibm.biz/~Grs0J3yK2 IBM debuts world's first 0.7nm chip technology!",
+      "published_at": "2026-06-26T10:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d-hJa-yDJmQ/hqdefault.jpg"
     },
     {
-      "title": "AI agents can manage your passwords. Should we let them? Plus: The biggest Patch Tuesday ever.",
-      "video_id": "ATIwByZ4nUA",
+      "title": "Which AI model should you use?🤖",
+      "video_id": "kr54bb_PhEU",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast →https://ibm.biz/~1RGiVfNK3 Apple unveiled an AI agent that can detect if your password's been ...",
-      "published_at": "2026-06-17T10:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ATIwByZ4nUA/hqdefault.jpg"
+      "description": "Each AI model has their purpose, but choice allows for cost optimization. Watch the latest episode of Mixture of Experts to hear our ...",
+      "published_at": "2026-06-25T17:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kr54bb_PhEU/hqdefault.jpg"
     },
     {
-      "title": "Kagenti’s Approach to Multi-Agent Security for AI Agents",
-      "video_id": "4vfvvzzwcwI",
+      "title": "Data Science Periodic Table Explained: ML, ETL, Analytics &amp; Workflow",
+      "video_id": "12lB1Cz7gUw",
       "channel_title": "IBM Technology",
-      "description": "Learn more about AI Agent security here → https://ibm.biz/~ev730VA3X Confused agents can leak data without anyone noticing.",
-      "published_at": "2026-06-16T11:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4vfvvzzwcwI/hqdefault.jpg"
+      "description": "Learn more about Data Science here → https://ibm.biz/~KwNQPSByh Data science feels complex—until you see the whole ...",
+      "published_at": "2026-06-25T11:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/12lB1Cz7gUw/hqdefault.jpg"
     },
     {
-      "title": "What Is AI Pair Programming? AI Coding Tools for Developers",
-      "video_id": "MTmhgIVhpag",
+      "title": "Have we finally solved social engineering? Plus: World Cup fraud, AI IDs and an IBM/OpenAI collab",
+      "video_id": "10XtOi4Lbes",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Pair Programming here → https://ibm.biz/~TKifmoii8 AI might be the teammate you didn't know you needed ...",
-      "published_at": "2026-06-15T11:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MTmhgIVhpag/hqdefault.jpg"
+      "description": "Read more about IBM joining OpenAI Daybreak → https://ibm.biz/~GzeMjCEBd Social engineering has plagued human beings ...",
+      "published_at": "2026-06-24T10:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/10XtOi4Lbes/hqdefault.jpg"
+    },
+    {
+      "title": "5 AI Agent Terms You Need to Know",
+      "video_id": "k5jYwyhDMxA",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about AI Agents here → https://ibm.biz/~dXkrYnDwR Frontier AI agents rely on more than just large language models ...",
+      "published_at": "2026-06-23T11:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k5jYwyhDMxA/hqdefault.jpg"
+    },
+    {
+      "title": "AI in the SDLC: Rethinking AI Coding Tools &amp; AI Agents",
+      "video_id": "4wMRXmLpdA8",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about AI in the SDLC here → https://ibm.biz/~naNTyKNWO AI promises speed, but where are the real gains? Cedric ...",
+      "published_at": "2026-06-22T11:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4wMRXmLpdA8/hqdefault.jpg"
     },
     {
       "title": "RSA recap, the LiteLLM breach, and the quest to fix AI agent security",
@@ -61,28 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cmEJ-5zYKHA/hqdefault.jpg"
     },
     {
-      "title": "2026 Threat Intelligence Index: Ransomware, AI, &amp; Emerging TTP Risks",
-      "video_id": "RKeW4Xd9V9E",
+      "title": "Android malware that acts like a person and AI agents that act like malware",
+      "video_id": "iaZS1jer8MY",
       "channel_title": "IBM Technology",
-      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
-      "published_at": "2026-02-26T12:00:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RKeW4Xd9V9E/hqdefault.jpg"
-    },
-    {
-      "title": "Cybersecurity Trends in 2026: Shadow AI, Quantum &amp; Deepfakes",
-      "video_id": "2jU-mLMV8Vw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code ...",
-      "published_at": "2025-12-29T12:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2jU-mLMV8Vw/hqdefault.jpg"
-    },
-    {
-      "title": "AI agents in 2025: Why agentic commerce isn&#39;t ready for Black Friday yet",
-      "video_id": "SdNRWJ-oqjY",
-      "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/BdbJ6K Will Black Friday 2025 be the breakout moment for agentic commerce? This week ...",
-      "published_at": "2025-11-28T11:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/hqdefault.jpg"
+      "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
+      "published_at": "2025-11-05T10:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
     }
   ]
 }

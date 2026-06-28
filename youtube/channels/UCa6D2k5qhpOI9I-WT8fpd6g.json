@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-21T01:10:45.766593",
+  "fetched_at": "2026-06-28T01:03:56.235262",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "Claude Code平替Kimi Code教程：视频理解，数据插件，Goal，Swarm，ACP等进阶玩法",
+      "video_id": "CeQRz8RQkl0",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 引言00:37 基础配置01:09 硬核实战03:30 视频理解04:47 Kimi ...",
+      "published_at": "2026-06-23T08:39:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CeQRz8RQkl0/hqdefault.jpg"
+    },
     {
       "title": "长期免费使用Codex，Hermes等Agent工具，保姆级攻略",
       "video_id": "FwAQ75QCEoU",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》",
       "published_at": "2026-02-16T16:23:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6LCf5tMO3-c/hqdefault.jpg"
-    },
-    {
-      "title": "AI能剪视频了？ 用Skills自动把课本例题转成科普动画",
-      "video_id": "TjXu8m-F5m8",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 AI编程工具搭配Skills ，已经具备了制作完整动画视频的能力。比如这些 ...",
-      "published_at": "2026-02-14T13:28:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TjXu8m-F5m8/hqdefault.jpg"
     }
   ]
 }

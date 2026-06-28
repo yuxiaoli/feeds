@@ -1,24 +1,32 @@
 {
-  "fetched_at": "2026-06-21T01:10:12.240665",
+  "fetched_at": "2026-06-28T01:03:22.307754",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 2,
+  "count": 3,
   "videos": [
     {
-      "title": "That’s good footy.",
-      "video_id": "K0svyG8bDW4",
+      "title": "Watch Tom Clancy’s Jack Ryan: Ghost War on your Meta Quest!",
+      "video_id": "qNIEEbruNac",
       "channel_title": "Meta Quest ",
       "description": "",
-      "published_at": "2026-06-18T16:13:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K0svyG8bDW4/hqdefault.jpg"
+      "published_at": "2026-06-26T16:24:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qNIEEbruNac/hqdefault.jpg"
     },
     {
-      "title": "Don’t slip on the ball, slip on your headset",
-      "video_id": "EoeJzevEH_Q",
+      "title": "Rumble Rocks.",
+      "video_id": "M5s3G_huXpE",
       "channel_title": "Meta Quest ",
       "description": "",
-      "published_at": "2026-06-17T16:56:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EoeJzevEH_Q/hqdefault.jpg"
+      "published_at": "2026-06-25T16:56:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M5s3G_huXpE/hqdefault.jpg"
+    },
+    {
+      "title": "Gym Class Football | Launch Trailer | Meta Quest",
+      "video_id": "uTjJCDUp23Q",
+      "channel_title": "Meta Quest ",
+      "description": "Free-to-play VR Football is HERE @gymclassvr on Meta Quest lets you run routes and score touchdowns with your squad.",
+      "published_at": "2026-06-24T17:03:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uTjJCDUp23Q/hqdefault.jpg"
     }
   ]
 }

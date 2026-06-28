@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-21T01:10:34.379576",
+  "fetched_at": "2026-06-28T01:03:44.598701",
   "channel_id": "UCOXv_kvUrsyfTP4H26En--A",
   "channel_title": "Tech Raashi",
   "count": 10,
   "videos": [
+    {
+      "title": "How to Create Gmail Account in Kannada | ಮೊಬೈಲ್‌ನಲ್ಲಿ Gmail Account ಹೇಗೆ Create ಮಾಡುವುದು?",
+      "video_id": "3K2jBkvQvHY",
+      "channel_title": "Tech Raashi",
+      "description": "ಮೊಬೈಲ್‌ನಲ್ಲಿ ಹೊಸ Gmail Account Create ಮಾಡುವುದು ಹೇಗೆ? ಈ ವಿಡಿಯೋದಲ್ಲಿ ನೀವು Android ...",
+      "published_at": "2026-06-26T14:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3K2jBkvQvHY/hqdefault.jpg"
+    },
     {
       "title": "Laptop ನಲ್ಲಿ CapCut Install ಮಾಡೋದು ಹೇಗೆ? | Network Error Fix | Kannada",
       "video_id": "RaEkRpHrRzg",
@@ -75,14 +83,6 @@
       "description": "How to look like hacker Using command prompt Learn hacking     #shorts #viralshorts #cmd #tech.",
       "published_at": "2023-10-31T10:30:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eCo4s_62e0g/hqdefault.jpg"
-    },
-    {
-      "title": "🔥How to look like a hacker😳😱#shorts #youtubeshorts",
-      "video_id": "1S3rfXprZ7c",
-      "channel_title": "Tech Raashi",
-      "description": "How to look like a hacker     Cmd hacks Keyboard tricks Hacker in command prompt #shorts #youtubeshorts ...",
-      "published_at": "2023-07-28T02:30:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1S3rfXprZ7c/hqdefault.jpg"
     }
   ]
 }

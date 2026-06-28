@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2026-06-21T01:10:05.623797",
+  "fetched_at": "2026-06-28T01:03:15.887603",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Azure Service Health Alerts - Quick start guide",
-      "video_id": "LowIb32Stoo",
+      "title": "Introducing the one-stop shop for your business",
+      "video_id": "7DAqcgNT1wQ",
       "channel_title": "Microsoft Azure",
-      "description": "Azure Service Health alerts help you proactively protect critical workloads by notifying you when service issues, planned ...",
-      "published_at": "2026-06-18T13:13:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LowIb32Stoo/hqdefault.jpg"
+      "description": "Find cloud solutions, AI apps, and agents on Microsoft Marketplace to help you meet your organization's specific needs.",
+      "published_at": "2026-06-26T15:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7DAqcgNT1wQ/hqdefault.jpg"
+    },
+    {
+      "title": "Find Your Solution(s) #Shorts",
+      "video_id": "NgrV3ABbskg",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover solutions for your organization across infrastructure, databases, security, collaboration, and AI apps and agents.",
+      "published_at": "2026-06-25T15:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NgrV3ABbskg/hqdefault.jpg"
     },
     {
       "title": "Your Fine-Tuned Model Is Your IP: Open Model Strategy for Developers",
@@ -75,14 +83,6 @@
       "description": "SK Telecom uses Microsoft Foundry to orchestrate multi-agent workflows to deliver personalized, scalable, and compliant digital ...",
       "published_at": "2025-12-01T22:41:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6RHsxWn_Dws/hqdefault.jpg"
-    },
-    {
-      "title": "Future of Cloud: Language of Nature",
-      "video_id": "iWi8M5qsKAk",
-      "channel_title": "Microsoft Azure",
-      "description": "In this episode of Future of Cloud: Language of Nature, we trace how the logic of living systems is shaping the next era of ...",
-      "published_at": "2025-11-24T16:01:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iWi8M5qsKAk/hqdefault.jpg"
     }
   ]
 }

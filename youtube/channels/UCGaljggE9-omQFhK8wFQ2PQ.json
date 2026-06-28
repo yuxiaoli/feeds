@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-21T01:10:23.764442",
+  "fetched_at": "2026-06-28T01:03:33.680176",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The Full Aussie - Goes Digital!",
+      "video_id": "9kA-YzTyJQo",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "Duel stream over on the Full Aussie Channel!",
+      "published_at": "2026-06-27T14:31:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9kA-YzTyJQo/hqdefault.jpg"
+    },
     {
       "title": "The Full Aussie BRITISH TAKE OVER",
       "video_id": "QkslaKpuNgU",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-05-29T21:20:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gYzgXVa4rak/hqdefault.jpg"
-    },
-    {
-      "title": "29 May 2026",
-      "video_id": "0q91w6SYyE4",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "",
-      "published_at": "2026-05-29T15:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0q91w6SYyE4/hqdefault.jpg"
     }
   ]
 }

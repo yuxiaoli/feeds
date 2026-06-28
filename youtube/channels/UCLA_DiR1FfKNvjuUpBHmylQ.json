@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-06-21T01:10:30.808759",
+  "fetched_at": "2026-06-28T01:03:41.039712",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 5,
+  "count": 7,
   "videos": [
+    {
+      "title": "Independence Day Wishes from the Space Station",
+      "video_id": "75-H-i9ctkE",
+      "channel_title": "NASA",
+      "description": "Happy 250th to the U.S.A., from 250 miles above Earth! NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams ...",
+      "published_at": "2026-06-26T19:53:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/75-H-i9ctkE/hqdefault.jpg"
+    },
+    {
+      "title": "NASA Moon Base Update",
+      "video_id": "jXTBJz5MGbA",
+      "channel_title": "NASA",
+      "description": "Watch a live, virtual conversation with NASA Administrator Jared Isaacman to hear progress on our plans to build a Moon Base on ...",
+      "published_at": "2026-06-26T16:22:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jXTBJz5MGbA/hqdefault_live.jpg"
+    },
+    {
+      "title": "U.S. Spacewalk Preview News Conference (June 25, 2026)",
+      "video_id": "QNNfhTwmYso",
+      "channel_title": "NASA",
+      "description": "As we prepare for our next spacewalk outside the International Space Station, tune in as we share what we'll be doing and ...",
+      "published_at": "2026-06-25T18:29:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QNNfhTwmYso/hqdefault.jpg"
+    },
     {
       "title": "The Ultimate Away Game: World Cup Fever on the ISS 🌌🏆",
       "video_id": "fUrlyCjL8JA",
@@ -11,22 +35,6 @@
       "description": "World Cup fever just hit low Earth orbit! Watch astronauts Jessica Meir, Sophie Adenot, Jack Hathaway and Christopher Williams ...",
       "published_at": "2026-06-20T14:00:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fUrlyCjL8JA/hqdefault.jpg"
-    },
-    {
-      "title": "Astronauts on the Space Station Celebrate the 2026 FIFA World Cup",
-      "video_id": "84id2dzpwU0",
-      "channel_title": "NASA",
-      "description": "As people around Earth come together to participate in the FIFA World Cup, NASA astronauts Jessica Meir, Chris Williams, Jack ...",
-      "published_at": "2026-06-20T14:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/84id2dzpwU0/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX 34th Commercial Resupply Services Undocking",
-      "video_id": "fu-t3Om6DIA",
-      "channel_title": "NASA",
-      "description": "Watch a SpaceX Dragon spacecraft undock and depart from the International Space Station. The spacecraft is scheduled to ...",
-      "published_at": "2026-06-16T16:54:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fu-t3Om6DIA/hqdefault.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
@@ -43,6 +51,14 @@
       "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
       "published_at": "2026-05-06T14:46:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/uwXgcTc8oY8/hqdefault_live.jpg"
+    },
+    {
+      "title": "U.S. Spacewalk 95",
+      "video_id": "D0dd8X4g3Eg",
+      "channel_title": "NASA",
+      "description": "At approximately 8:35 a.m. EDT (1235 UTC) on June 30, 2026, NASA astronauts Chris Williams and Jessica Meir will venture ...",
+      "published_at": "2026-01-02T19:35:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D0dd8X4g3Eg/hqdefault_live.jpg"
     }
   ]
 }

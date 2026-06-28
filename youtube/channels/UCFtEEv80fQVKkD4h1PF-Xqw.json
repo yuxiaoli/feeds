@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-06-21T01:10:22.281772",
+  "fetched_at": "2026-06-28T01:03:32.176563",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
+    {
+      "title": "Mel Robbins: &quot;Half the world is stuck… here’s how to move ahead&quot; | Cannes Lions 2026",
+      "video_id": "5_mJD7Mt0MM",
+      "channel_title": "Microsoft",
+      "description": "At Cannes Lions 2026, Microsoft Consumer CMO Yusuf Mehdi and bestselling author @melrobbins explore how to navigate the ...",
+      "published_at": "2026-06-26T23:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5_mJD7Mt0MM/hqdefault.jpg"
+    },
+    {
+      "title": "Connecting the unconnected | Secretary-General of the ITU Doreen Bogdan-Martin",
+      "video_id": "msyJmnDejNg",
+      "channel_title": "Microsoft",
+      "description": "For nearly 160 years, the International Telecommunication Union has helped the world communicate across borders, from the ...",
+      "published_at": "2026-06-26T21:35:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/msyJmnDejNg/hqdefault.jpg"
+    },
     {
       "title": "Introducing Frontier Tuning | Microsoft AI Models",
       "video_id": "I-ej54mJHJk",
@@ -67,22 +83,6 @@
       "description": "Our goal is Humanist Superintelligence — AI designed to serve people, not replace them. At Microsoft Build 2026, Microsoft AI ...",
       "published_at": "2026-06-03T16:30:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/OvLIae4HCeM/hqdefault.jpg"
-    },
-    {
-      "title": "Highlights from Satya Nadella&#39;s Opening Keynote | Microsoft Build 2026",
-      "video_id": "ZhZqeo7SD0Y",
-      "channel_title": "Microsoft",
-      "description": "See the highlights from Microsoft Build 2026 opening keynote, streamed live from San Francisco. Follow along as Microsoft CEO ...",
-      "published_at": "2026-06-03T04:00:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZhZqeo7SD0Y/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing 7 new Microsoft AI models",
-      "video_id": "BQsLSmGLh_c",
-      "channel_title": "Microsoft",
-      "description": "Announcing a family of seven new models developed in-house at Microsoft AI. Our new models across image, voice, transcription, ...",
-      "published_at": "2026-06-02T23:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BQsLSmGLh_c/hqdefault.jpg"
     }
   ]
 }

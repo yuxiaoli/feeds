@@ -1,16 +1,64 @@
 {
-  "fetched_at": "2026-06-21T01:10:42.999544",
+  "fetched_at": "2026-06-28T01:03:53.335045",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "What Codex Unlocks for NTT Data",
-      "video_id": "0JIbgZ544wU",
+      "title": "Builders Unscripted: Ep. 4 - Pietro Schirano",
+      "video_id": "SPC_yCe1cUw",
       "channel_title": "OpenAI",
-      "description": "After introducing Codex, it grew to more than 10000 active users and became one of the largest internal community in just a few ...",
-      "published_at": "2026-06-19T22:57:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0JIbgZ544wU/hqdefault.jpg"
+      "description": "Pietro Schirano, Founder & CEO of MagicPath sits down with Romain Huet to talk about pushing the creative edges of GPT-5.5 ...",
+      "published_at": "2026-06-26T19:40:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SPC_yCe1cUw/hqdefault.jpg"
+    },
+    {
+      "title": "Verso, l&#39;entreprise qui ne dort jamais",
+      "video_id": "mFwWax5pLTs",
+      "channel_title": "OpenAI",
+      "description": "Découvrez comment Verso développe une entreprise véritablement AI-native. Lors de cette session enregistrée lors de ...",
+      "published_at": "2026-06-26T11:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mFwWax5pLTs/hqdefault.jpg"
+    },
+    {
+      "title": "What if plants could talk?",
+      "video_id": "q_diWy3xdrw",
+      "channel_title": "OpenAI",
+      "description": "Now our plants won't shut up. Give your plants a voice: https://github.com/openai/planttalk.",
+      "published_at": "2026-06-25T17:19:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/q_diWy3xdrw/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT Futures, Class of 2026: The Next Generation of AI Leaders",
+      "video_id": "mVpCDzoNtxA",
+      "channel_title": "OpenAI",
+      "description": "We asked the ChatGPT Futures Class of 2026 what they hope AI helps people do next. Their answers came back to access, ...",
+      "published_at": "2026-06-23T18:45:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mVpCDzoNtxA/hqdefault.jpg"
+    },
+    {
+      "title": "How Omio is building the future of conversational travel",
+      "video_id": "qU5-komJ-GE",
+      "channel_title": "OpenAI",
+      "description": "What happens when one of the world's leading travel platforms combines real-time transportation data with AI? In this customer ...",
+      "published_at": "2026-06-23T11:30:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qU5-komJ-GE/hqdefault.jpg"
+    },
+    {
+      "title": "Meet the ChatGPT Futures, Class of 2026",
+      "video_id": "GhCP2eDrKHk",
+      "channel_title": "OpenAI",
+      "description": "The next generation is already building the future with AI. The ChatGPT Futures Class of 2026 came together in San Francisco to ...",
+      "published_at": "2026-06-22T21:06:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GhCP2eDrKHk/hqdefault.jpg"
+    },
+    {
+      "title": "How Zendesk CEO Tom Eggemeier goes from Idea to Action",
+      "video_id": "27-GjDIWGo0",
+      "channel_title": "OpenAI",
+      "description": "We're excited to launch our new Monday Morning series, a leadership first take on going from idea to action in the AI era. First up ...",
+      "published_at": "2026-06-22T17:45:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/27-GjDIWGo0/hqdefault.jpg"
     },
     {
       "title": "Plan with ChatGPT",
@@ -35,54 +83,6 @@
       "description": "Health is one of the most meaningful ways people use ChatGPT. Every week, more than 230 million people turn to ChatGPT for ...",
       "published_at": "2026-06-18T19:10:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/UxY8zJKRrHU/hqdefault.jpg"
-    },
-    {
-      "title": "Record &amp; Replay in Codex",
-      "video_id": "ZK3JhU73W18",
-      "channel_title": "OpenAI",
-      "description": "Show Codex a workflow once. Reuse it as a skill. Record & Replay lets you show Codex a recurring task, like filing an expense ...",
-      "published_at": "2026-06-18T18:57:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZK3JhU73W18/hqdefault.jpg"
-    },
-    {
-      "title": "Build and test iOS apps without leaving Codex!",
-      "video_id": "rOLKQJMLBHI",
-      "channel_title": "OpenAI",
-      "description": "The Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload ...",
-      "published_at": "2026-06-17T18:01:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rOLKQJMLBHI/hqdefault.jpg"
-    },
-    {
-      "title": "Why Tejal Patwardhan stopped underestimating the models - Episode 21",
-      "video_id": "CFqjjKp9Y-Q",
-      "channel_title": "OpenAI",
-      "description": "The old tests are getting too easy. Tejal Patwardhan leads OpenAI's frontier evals team, which is finding new ways to measure ...",
-      "published_at": "2026-06-16T17:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CFqjjKp9Y-Q/hqdefault.jpg"
-    },
-    {
-      "title": "Build and test iOS apps without leaving Codex",
-      "video_id": "u9zLlcsCDiQ",
-      "channel_title": "OpenAI",
-      "description": "More of the iOS app loop, now inside Codex. The Build iOS Apps plugin lets Codex view and test your iOS app in the in-app ...",
-      "published_at": "2026-06-15T23:20:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u9zLlcsCDiQ/hqdefault.jpg"
-    },
-    {
-      "title": "How Wayfair Uses GPT-5.5 to Power Catalog Enrichment Across 40M Products",
-      "video_id": "TDM2Dz_MuPk",
-      "channel_title": "OpenAI",
-      "description": "Fiona Tan and her @wayfair team are leveraging GPT-5.5 and our API to power their catalog enrichment program across 40M ...",
-      "published_at": "2026-06-15T18:02:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TDM2Dz_MuPk/hqdefault.jpg"
-    },
-    {
-      "title": "Codex as a Solutions Engineering Partner",
-      "video_id": "_jNbM8pV9oI",
-      "channel_title": "OpenAI",
-      "description": "A big part of my role as a solutions engineer is not only to build but to understand,” Stephanie Anani, Solutions Engineer, OpenAI.",
-      "published_at": "2026-06-15T13:03:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_jNbM8pV9oI/hqdefault.jpg"
     }
   ]
 }

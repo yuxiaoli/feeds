@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-06-21T01:10:11.517565",
+  "fetched_at": "2026-06-28T01:03:21.621380",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Tesla Home: Home Energy Management, Powered by AI",
+      "video_id": "8aGMLbS3NAo",
+      "channel_title": "Tesla",
+      "description": "Tesla Home comes standard with every Powerwall to automatically optimize your energy usage and help lower your electricity ...",
+      "published_at": "2026-06-23T17:40:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8aGMLbS3NAo/hqdefault.jpg"
+    },
+    {
+      "title": "How Tesla Vision Helps Deploy Airbags Earlier",
+      "video_id": "Vb-OqxUWPDE",
+      "channel_title": "Tesla",
+      "description": "Tesla Vision allows us to deploy airbags up to 70 milliseconds earlier if your Tesla detects an unavoidable collision. Impact ...",
+      "published_at": "2026-06-22T20:18:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vb-OqxUWPDE/hqdefault.jpg"
+    },
     {
       "title": "Let there be Light Bar",
       "video_id": "sh7XqNoeUAw",
@@ -67,22 +83,6 @@
       "description": "Cybertruck makes for a pretty good terrain park [Actions performed by trained professionals in a controlled environment – Do not ...",
       "published_at": "2026-03-06T20:07:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zZHOpr3O-D0/hqdefault.jpg"
-    },
-    {
-      "title": "Model Y Achieves 5-Stars in Every Category",
-      "video_id": "nUVAY8IwU88",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-02-10T20:20:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nUVAY8IwU88/hqdefault.jpg"
-    },
-    {
-      "title": "Sleep flat with CyberTent",
-      "video_id": "wZ1QDXeYb6M",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-02-09T18:31:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wZ1QDXeYb6M/hqdefault.jpg"
     }
   ]
 }

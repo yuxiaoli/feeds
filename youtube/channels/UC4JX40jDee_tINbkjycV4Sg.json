@@ -1,72 +1,72 @@
 {
-  "fetched_at": "2026-06-21T01:10:10.776421",
+  "fetched_at": "2026-06-28T01:03:20.906229",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 8,
   "videos": [
     {
-      "title": "The Software Engineer Hiring Process Is Completely Broken in 2026",
-      "video_id": "9qUU-NFFgSY",
+      "title": "AI Engineer Myths Debunked",
+      "video_id": "6VuwBNizE6E",
       "channel_title": "Tech With Tim",
-      "description": "Why is the software engineer hiring process still so broken in 2026? The job itself has completely changed — you're reviewing ...",
-      "published_at": "2026-06-20T12:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9qUU-NFFgSY/hqdefault.jpg"
+      "description": "Is AI engineering a completely different discipline from software engineering? Not really — it's a specialization within it. If you want ...",
+      "published_at": "2026-06-27T12:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6VuwBNizE6E/hqdefault.jpg"
     },
     {
-      "title": "I Gave Codex a 24/7 Server. Now It Codes While I Sleep.",
-      "video_id": "vQebObsd_Cw",
+      "title": "I Built The Same App with Every LLM",
+      "video_id": "Amd6DmoV4NY",
       "channel_title": "Tech With Tim",
-      "description": "Deploy your Codex server using Hostinger and use code 'techwithtim' for an additional 10% off: https://www.hostg.xyz/SHJd8 No ...",
-      "published_at": "2026-06-19T15:56:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vQebObsd_Cw/hqdefault.jpg"
+      "description": "Start reviewing your code with CodeRabbit: https://coderabbit.link/techwithtim Six models. One prompt. One Mario Kart game.",
+      "published_at": "2026-06-26T18:42:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Amd6DmoV4NY/hqdefault.jpg"
     },
     {
-      "title": "Junior Developer Jobs in 2026 Are Brutal Here&#39;s Why",
-      "video_id": "52QFDoFf92E",
+      "title": "What is an AI Engineer in 2026",
+      "video_id": "4EJX5ZQdVU0",
       "channel_title": "Tech With Tim",
-      "description": "Why is it so hard to get a junior developer job in 2026? If you have zero experience, you're fighting an uphill battle. Companies ...",
-      "published_at": "2026-06-19T12:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/52QFDoFf92E/hqdefault.jpg"
+      "description": "What does an AI engineer actually do, and how is it different from a machine learning engineer? When people hear \"AI engineer\" ...",
+      "published_at": "2026-06-26T12:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4EJX5ZQdVU0/hqdefault.jpg"
     },
     {
-      "title": "AI Research Papers Are Here (And They&#39;re Scary Good)",
-      "video_id": "zvSH4_cgQ6s",
+      "title": "Run a Coding Agent From Your Phone",
+      "video_id": "klM4nnjAzCc",
       "channel_title": "Tech With Tim",
-      "description": "Lemma: https://lemma.analemma.ai/ Analemma AI: https://analemma.ai/ X: https://x.com/AnalemmaAI Vibe coding gave everyone ...",
-      "published_at": "2026-06-18T13:50:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zvSH4_cgQ6s/hqdefault.jpg"
+      "description": "Which coding agent should you use in 2026? In this video I'm going with Codex — in my opinion the best agent out there right ...",
+      "published_at": "2026-06-25T12:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/klM4nnjAzCc/hqdefault.jpg"
     },
     {
-      "title": "Will AI Replace Developers It&#39;s Already Starting",
-      "video_id": "T6n0vOty_4w",
+      "title": "My Real AI Coding Workflow (build anything)",
+      "video_id": "gpOfsGW1xRk",
       "channel_title": "Tech With Tim",
-      "description": "Are developers who use AI really pulling ahead in 2026? The skill gap between engineers who adopt AI tools and those who ...",
-      "published_at": "2026-06-18T12:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T6n0vOty_4w/hqdefault.jpg"
+      "description": "The the platform that made this app build possible was ImageKit. Register for free here: https://tinyurl.com/2sph69zx This isn't a ...",
+      "published_at": "2026-06-24T14:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gpOfsGW1xRk/hqdefault.jpg"
     },
     {
-      "title": "Build 3 PRODUCTION AI Agents in Python - Full Course (Agentspan)",
-      "video_id": "zFw19qGAeGo",
+      "title": "How to Run AI Coding Agents 24 7",
+      "video_id": "H9rTnmuisC0",
       "channel_title": "Tech With Tim",
-      "description": "Get started with Agentspan! https://agentspan.ai/?utm_campaign=YouTube-Tim&utm_source=Newsletter&utm_medium=email ...",
-      "published_at": "2026-06-17T13:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zFw19qGAeGo/hqdefault.jpg"
+      "description": "Want to run an AI coding agent for hours or on a schedule without keeping your laptop open? Here's the problem: running an ...",
+      "published_at": "2026-06-24T12:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H9rTnmuisC0/hqdefault.jpg"
     },
     {
-      "title": "Build These AI Projects to Get Hired",
-      "video_id": "wi5PKaEt3uw",
+      "title": "I Built the Same App With MiniMax M3 and Composer",
+      "video_id": "da5nLxqbTxE",
       "channel_title": "Tech With Tim",
-      "description": "The AI portfolio projects that actually get you hired — not the random tutorial projects everyone else has. Employers want real ...",
-      "published_at": "2026-06-17T12:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wi5PKaEt3uw/hqdefault.jpg"
+      "description": "Get a MiniMax Token Plan with 12% OFF: https://platform.minimax.io/subscribe/coding-plan?code=7kk2uAhnPa&source=link ...",
+      "published_at": "2026-06-22T14:49:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/da5nLxqbTxE/hqdefault.jpg"
     },
     {
-      "title": "Do THIS Instead of watching endless AI Engineer Roadmaps (DataCamp Review)",
-      "video_id": "ki0UR5ZP_QY",
+      "title": "They&#39;ll Fly You to Vegas if You Win This Coding Challenge",
+      "video_id": "vVIvatIpzJ4",
       "channel_title": "Tech With Tim",
-      "description": "My top pick AI engineer learning resource: DataCamp AI Engineer for Developers Track - https://datacamp.pxf.io/2RyqdQ If you ...",
-      "published_at": "2026-06-15T13:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ki0UR5ZP_QY/hqdefault.jpg"
+      "description": "Enter the competition to win a trip to vegas! https://brdta.com/battlebots-vip If you win this coding competition, you'll get a free trip ...",
+      "published_at": "2026-06-13T14:52:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vVIvatIpzJ4/hqdefault.jpg"
     }
   ]
 }

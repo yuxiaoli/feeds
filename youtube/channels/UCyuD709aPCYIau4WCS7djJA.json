@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-21T01:11:04.419263",
+  "fetched_at": "2026-06-28T01:04:14.594052",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Center of the Milky Way",
+      "video_id": "Dd3ZW6gv0uo",
+      "channel_title": "Star Walk",
+      "description": "At first, it looks like golden dust. But every tiny bright dot here is a star. This is the center of the Milky Way, captured by ESA's Euclid ...",
+      "published_at": "2026-06-26T11:59:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Dd3ZW6gv0uo/hqdefault.jpg"
+    },
     {
       "title": "Stuck in Space? Don’t Panic. Probably.",
       "video_id": "13knmn75LGU",
@@ -75,14 +83,6 @@
       "description": "Actual result: one giant cloud blanket ☁️ Drop a 🌧️ if the weather has ruined your stargazing plans lately.",
       "published_at": "2026-05-29T12:31:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7XUWQ7y4lww/hqdefault.jpg"
-    },
-    {
-      "title": "Once in a blue moon… on May 31! 🌕",
-      "video_id": "KFWe7xX9UQc",
-      "channel_title": "Star Walk",
-      "description": "This Sunday, look up to see a rare Blue Moon — the second Full Moon of the month. It's also a Micromoon, appearing 5.5% ...",
-      "published_at": "2026-05-29T10:07:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KFWe7xX9UQc/hqdefault.jpg"
     }
   ]
 }

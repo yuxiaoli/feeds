@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-21T01:10:46.508446",
+  "fetched_at": "2026-06-28T01:03:56.956742",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "لا تسوي هذا الخطأ في مهارة الباك ليفر",
+      "video_id": "zOyszVdQiSU",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-06-26T12:36:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zOyszVdQiSU/hqdefault.jpg"
+    },
     {
       "title": "الانتقال من البايك بوش اب للهاندستاند",
       "video_id": "jMkFKfjU_To",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-05-21T12:26:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/I5F08ztq4XY/hqdefault.jpg"
-    },
-    {
-      "title": "جربت تمرين مسويه ذكاء اصطناعي",
-      "video_id": "acs4EXbI5no",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-05-20T10:43:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/acs4EXbI5no/hqdefault.jpg"
     }
   ]
 }

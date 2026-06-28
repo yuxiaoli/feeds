@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-06-21T01:11:00.847006",
+  "fetched_at": "2026-06-28T01:04:11.043164",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "Ketchup or Mayo? 🍟",
+      "video_id": "S-w-iCPpJ60",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-06-26T16:40:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S-w-iCPpJ60/hqdefault.jpg"
+    },
+    {
+      "title": "I Ranked Nut Butters by Protein 🥜",
+      "video_id": "HEb4ezrfRd8",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-06-24T17:28:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HEb4ezrfRd8/hqdefault.jpg"
+    },
+    {
+      "title": "What I Feed My Baby as a Biochemist",
+      "video_id": "b7RGkeRH2u8",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-06-22T16:50:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b7RGkeRH2u8/hqdefault.jpg"
+    },
     {
       "title": "The Power of Adding Protein",
       "video_id": "th0UxmsUw80",
@@ -59,30 +83,6 @@
       "description": "If you really want to eat something sweet, dessert is the best moment for it Eating sugar after a meal can mean less impact on ...",
       "published_at": "2026-05-24T16:59:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Ai0O5Oi1VCM/hqdefault.jpg"
-    },
-    {
-      "title": "I Found The Perfect Snack",
-      "video_id": "nCz1NXgghD4",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-05-21T16:45:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nCz1NXgghD4/hqdefault.jpg"
-    },
-    {
-      "title": "Why KFC spiked me 3 times",
-      "video_id": "ZJknCM_6uVU",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-05-19T15:05:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZJknCM_6uVU/hqdefault.jpg"
-    },
-    {
-      "title": "Your Workout Shapes Your Baby",
-      "video_id": "CKf0uUmWKQ0",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-05-14T15:16:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CKf0uUmWKQ0/hqdefault.jpg"
     }
   ]
 }

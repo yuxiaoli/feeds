@@ -1,64 +1,80 @@
 {
-  "fetched_at": "2026-06-21T01:10:23.014206",
+  "fetched_at": "2026-06-28T01:03:32.945132",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "Anthropic为何如此矛盾 | Bloomberg专访 | Dario Amodei | 平滑指数曲线 | 创立根源 | 宪法式AI | SaaS末日 | 国防AI | Mythos | AI治理",
-      "video_id": "Z-JNYrtuQV0",
+      "title": "长鑫存储年底会超过美光吗 | 中美韩存储三国杀 | DRAM | HBM | 长江存储 | 三星 | SK海力士 | 半导体 | 谷歌 | NAND闪存 | 国产替代",
+      "video_id": "BhWW-Kmkszk",
       "channel_title": "最佳拍档",
-      "description": "本期内容基于Bloomberg深度访谈，拆解AI厂商Anthropic的核心悖论：越坚信AI的潜在风险，越认为必须亲手建造、商业化并治理这 ...",
-      "published_at": "2026-06-19T09:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z-JNYrtuQV0/hqdefault.jpg"
+      "description": "本期围绕近期存储行业四大热点事件，拆解中韩美存储产业三大赛道的竞争格局，分析长鑫存储业绩爆发的周期属性与真实成长价值 ...",
+      "published_at": "2026-06-27T12:04:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BhWW-Kmkszk/hqdefault.jpg"
     },
     {
-      "title": "从AGI到ASI的四条路径 | 定义 | 莱格-胡特评分 | UAI | 数字智能 | 所罗门诺夫归纳 | AIXI | 超级智能的限制 | ASI能预测么 | 工具性趋同",
-      "video_id": "He5YbWpSC94",
+      "title": "模型会吞噬脚手架么 | Harness一年内会变得一文不值 | Logan Kilpatrick | Agentic AI | Antigravity | 编程Agent | Omni世界模型",
+      "video_id": "EciNo2uhWRk",
       "channel_title": "最佳拍档",
-      "description": "6月10日，由DeepMind联合创始人谢恩·莱格（Shane Legg）牵头，十余位顶尖研究员共同撰写了一篇长达57页的报告《从AGI ...",
-      "published_at": "2026-06-18T12:01:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/He5YbWpSC94/hqdefault.jpg"
+      "description": "本期基于谷歌DeepMind高管Logan Kilpatrick在红杉资本的最新访谈，深度拆解Agent时代的行业核心趋势。内容涵盖模型吞噬Agent ...",
+      "published_at": "2026-06-26T14:33:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EciNo2uhWRk/hqdefault.jpg"
     },
     {
-      "title": "宇树会成长会机器人全球巨头么 | 下一个比亚迪、大疆 | G1系列 | 营收增长三倍 | 成本结构优势 | 垂直整合 | QDD执行器 | 谐波减速器 | 商业化落地",
-      "video_id": "EvNGS6RmkpU",
+      "title": "AlphaFold的真实能力边界在哪 | John Jumper | 从谷歌去Anthropic | 蛋白质折叠 | 祛魅 | 技术归因 | 进化变换器 | 苦涩的教训 | AGI | 普惠价值",
+      "video_id": "2Rzv6Vd0qBg",
       "channel_title": "最佳拍档",
-      "description": "本期内容基于海外科技研究机构Semianalysis的深度报告，解析中国宇树科技的成长路径与核心竞争力。从四足机器人起步的宇树， ...",
-      "published_at": "2026-06-17T23:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EvNGS6RmkpU/hqdefault.jpg"
+      "description": "本期基于MLST播客对2024诺贝尔化学奖得主John Jumper的深度访谈，系统拆解AlphaFold的技术本质、架构设计与能力边界，澄清 ...",
+      "published_at": "2026-06-25T23:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2Rzv6Vd0qBg/hqdefault.jpg"
     },
     {
-      "title": "Meta内部员工终于炸锅了 | 员工直播怒骂高管 | 扎克伯格和CTO纷纷道歉 | AI转型混乱 | Applied AI | 员工用来训练数据 | 一个经理管五十人 | 三重错位",
-      "video_id": "05lvoHekH1E",
+      "title": "如何拿到OpenAI Offer | Alisa Liu | 57场面试经历全公开 | NLP博士 | 机器学习 | LeetCode | 谈薪技巧 | 斯坦福CS336",
+      "video_id": "PmavjZVVSdU",
       "channel_title": "最佳拍档",
-      "description": "Meta终于是炸锅了。最近，在一场面向数千名员工的Meta内部技术直播会议上，有人直接打断演讲当众爆粗，点名要求转告AI高管， ...",
-      "published_at": "2026-06-17T10:18:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/05lvoHekH1E/hqdefault.jpg"
+      "description": "本期视频拆解华盛顿大学NLP博士Alisa Liu的公开求职面经，她历经11家公司57场面试后入职OpenAI，全流程分享面试日程规划、 ...",
+      "published_at": "2026-06-25T09:30:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PmavjZVVSdU/hqdefault.jpg"
     },
     {
-      "title": "什么是循环工程Loop Engineering | Coding Agent | 子Agent | MCP协议 | 提示词工程 | AI开发效率 | 软件研发 | Addy Osmani",
-      "video_id": "KgiwIEBeOHw",
+      "title": "用投资的逻辑来拯救Intel | 陈立武Lip-Bu Tan | 市值翻六倍 | 改革组织 | 三笔投资 | Agentic CPU | Terafab | 押注半导体新材料 | 长期趋势",
+      "video_id": "NgKpWXErT_g",
       "channel_title": "最佳拍档",
-      "description": "本期围绕硅谷新兴技术概念循环工程展开，结合谷歌云AI总监的专业分析，详解循环工程的核心定义、五大组成模块与外部记忆体系 ...",
-      "published_at": "2026-06-16T23:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KgiwIEBeOHw/hqdefault.jpg"
+      "description": "本期内容基于No Priors播客对英特尔CEO陈立武的专访，梳理其接任14个月来英特尔市值从不足千亿到逼近六千亿美元的复苏路径。",
+      "published_at": "2026-06-24T23:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NgKpWXErT_g/hqdefault.jpg"
     },
     {
-      "title": "AI科研圈的精神狂热 | Transformer作者Lukasz Kaiser | 底层设计短板 | 模型的学习效率 | 完全抛弃IDE | 思考逻辑像外星人 | 长上下文难题 | 模型能力跃迁",
-      "video_id": "c-jFsUlgoPA",
+      "title": "State of AI 2026 报告解读 | SensorTower | ChatGPT市场跌破50% | Claude下载量激增 | 付费订阅 | 智能体购物 | 流量与营销 | 细分赛道",
+      "video_id": "MxpuORrjc1E",
       "channel_title": "最佳拍档",
-      "description": "今天我们要分享的这期视频，受访嘉宾不是普通大厂高管，而是奠定如今全球大模型根基的卢卡斯·凯泽（Lukasz Kaiser），这位 ...",
-      "published_at": "2026-06-16T10:04:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c-jFsUlgoPA/hqdefault.jpg"
+      "description": "本期结合Sensor Tower《2026 AI行业报告》完整拆解全球AI市场现状，核心涵盖四大板块：AI助手赛道竞争格局，ChatGPT份额跌 ...",
+      "published_at": "2026-06-24T12:59:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MxpuORrjc1E/hqdefault.jpg"
     },
     {
-      "title": "AGI时代的经济会是什么样子 | 经济学家Alex Imas&amp;Phil Trammell | 什么资产最稀缺 | 纯机器闭环 | 大卫·李嘉图 | 全球收入分配格局 | 混乱中间地带 | UBI",
-      "video_id": "FXfHfey2Ack",
+      "title": "SpaceX背后的工程方法论 | a16z长文 | 马斯克薪酬方案 | 浪漫和野心 | 伊恩·班克斯科幻小说 | 月球城市 | 轨道数据中心 | 星舰 | 星链 | 白痴指数 | xAI | 火星计划",
+      "video_id": "YE04LGxZ6qg",
       "channel_title": "最佳拍档",
-      "description": "AGI时代的经济，究竟会是什么样子呢？前几天，知名博主Dwarkesh Patel发布了一期顶级经济学家的访谈视频。受访的两位学者， ...",
-      "published_at": "2026-06-15T09:31:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FXfHfey2Ack/hqdefault.jpg"
+      "description": "本期视频基于a16z联合创始人马克·安德森的长文《SpaceX与有感知的太阳》，拆解马斯克绑定星际目标的特殊薪酬方案， ...",
+      "published_at": "2026-06-23T23:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YE04LGxZ6qg/hqdefault.jpg"
+    },
+    {
+      "title": "大众还没有真正意识到AI的发展 | Sam Altman斯坦福 | OpenAI的创业路 | 规模效应 | 模型研发会经历重大重构 | 公用事业 | 推理 | 教育体系变革 | 民主化普及",
+      "video_id": "8YPTjpXC1WM",
+      "channel_title": "最佳拍档",
+      "description": "本期围绕OpenAI CEO萨姆·奥特曼2026年斯坦福大学圆桌对话展开，拆解其关于初创公司范式变革、ChatGPT与Codex产品路径、AI ...",
+      "published_at": "2026-06-23T09:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8YPTjpXC1WM/hqdefault.jpg"
+    },
+    {
+      "title": "从P vs NP到量子计算 | Avi Wigderson | 图灵奖&amp;阿贝尔奖得主 | 计算复杂性类 | 布尔可满足性 | NP完全问题 | PCP定理 | 多带图灵机 | 零知识证明 | 格问题",
+      "video_id": "wibBjypK2Jo",
+      "channel_title": "最佳拍档",
+      "description": "这期的嘉宾是阿维·维格德森（Avi Wigderson），他是迄今为止，全世界唯一一位同时拿下计算机科学最高荣誉图灵奖，和数学领域 ...",
+      "published_at": "2026-06-22T10:39:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wibBjypK2Jo/hqdefault.jpg"
     },
     {
       "title": "【人工智能】AI未来发展的核心支柱 | 钢铁、服务器、能源 | David Cahn红杉美国合伙人 | 数据中心 | 基建效率 | 现金牛 | 房地产 | 资产负债表外融资",
@@ -67,22 +83,6 @@
       "description": "今天我们来分享一个20VC推出的播客节目，在这档节目中，投资人大卫·卡恩David Cahn与播客主持人哈里·斯特宾斯Harry ...",
       "published_at": "2024-08-15T09:00:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5gDrGItwDg4/hqdefault.jpg"
-    },
-    {
-      "title": "【商业】创业公司如何找到产品市场契合点PMF | 红杉资本Arc活动分享 |  产品与客户之间的三种关系 | 如何选择路径 | 燃眉之急 | 铁的事实 | 未来愿景",
-      "video_id": "nJIVpB05eKY",
-      "channel_title": "最佳拍档",
-      "description": "今天这是一期科技创业者必看的视频。对于所有初创公司来说，核心任务就是寻找产品与市场的契合点，也就是所谓 ...",
-      "published_at": "2024-05-01T10:06:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nJIVpB05eKY/hqdefault.jpg"
-    },
-    {
-      "title": "关于中美企业异国发展蔡崇信给出了一些务实建议",
-      "video_id": "_EckgvG2mAI",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts.",
-      "published_at": "2024-04-07T05:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_EckgvG2mAI/hqdefault.jpg"
     }
   ]
 }

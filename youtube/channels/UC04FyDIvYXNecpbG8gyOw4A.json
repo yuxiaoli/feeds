@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-06-21T01:10:04.153904",
+  "fetched_at": "2026-06-28T01:03:14.453187",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Hey Meta x Coco Schiffer",
+      "video_id": "0BGflErfumM",
+      "channel_title": "Meta",
+      "description": "things Coco Schiffer finds incredibly chic, Meta Glasses.",
+      "published_at": "2026-06-25T16:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0BGflErfumM/hqdefault.jpg"
+    },
+    {
+      "title": "Meta UFC Rankings",
+      "video_id": "e0WOqG959x8",
+      "channel_title": "Meta",
+      "description": "Meta UFC Rankings have entered the chat. Based on objective fight data. No opinions or popularity. Dana White approved.",
+      "published_at": "2026-06-22T19:02:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e0WOqG959x8/hqdefault.jpg"
+    },
     {
       "title": "Building a Coffee Community with Instagram",
       "video_id": "UwZgysCP1_o",
@@ -67,22 +83,6 @@
       "description": "Easy as 1, 2, 3...4.",
       "published_at": "2026-06-02T14:30:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Y087rRmUMJI/hqdefault.jpg"
-    },
-    {
-      "title": "Boz To The Future #26: The Future According to Ed Catmull",
-      "video_id": "4s1_DKMYQVo",
-      "channel_title": "Meta",
-      "description": "In the latest episode of Boz To The Future, Meta CTO, Head of ATA and Reality Labs, and host Andrew \"Boz\" Bosworth talks to Ed ...",
-      "published_at": "2026-05-28T15:03:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4s1_DKMYQVo/hqdefault.jpg"
-    },
-    {
-      "title": "Vibe of the Week: @Toysbypolina",
-      "video_id": "BEsL9qR-78w",
-      "channel_title": "Meta",
-      "description": "Toysbypolina transforms photos of her hand-stitched plushies into animated characters with @AIatMeta. A graphic designer by ...",
-      "published_at": "2026-05-27T16:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BEsL9qR-78w/hqdefault.jpg"
     }
   ]
 }
