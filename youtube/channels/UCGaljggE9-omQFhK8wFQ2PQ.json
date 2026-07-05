@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-28T01:03:33.680176",
+  "fetched_at": "2026-07-05T00:51:39.217347",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "HAPPY FIRST SATURDAY IN JULY STREAM",
+      "video_id": "AjOe0o5Xz_4",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "FAP Discord: https://discord.com/invite/TgRnGGUtJ Meet The Crew: MrGrantGregory YouTube: / @mrgrantgregory ...",
+      "published_at": "2026-07-04T14:46:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AjOe0o5Xz_4/hqdefault.jpg"
+    },
     {
       "title": "The Full Aussie - Goes Digital!",
       "video_id": "9kA-YzTyJQo",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-05-30T00:00:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6Y19rpNBJcI/hqdefault.jpg"
-    },
-    {
-      "title": "doggo",
-      "video_id": "gYzgXVa4rak",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "",
-      "published_at": "2026-05-29T21:20:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gYzgXVa4rak/hqdefault.jpg"
     }
   ]
 }

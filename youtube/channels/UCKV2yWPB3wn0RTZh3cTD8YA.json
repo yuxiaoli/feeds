@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-06-28T01:03:38.998604",
+  "fetched_at": "2026-07-05T00:51:44.370846",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "美国AI研究员的中国之旅：年轻人，追赶者，算力焦虑与“AGI展示厅” ｜专访Nathan Lambert【101视频播客】",
+      "video_id": "ULi-TCF2cQE",
+      "channel_title": "硅谷101",
+      "description": "2026年4月，美国AI研究者Nathan Lambert来到中国，走访了阿里巴巴、月之暗面、智谱、清华、美团、小米、蚂蚁、零一万物等AI ...",
+      "published_at": "2026-07-03T16:44:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ULi-TCF2cQE/hqdefault.jpg"
+    },
+    {
+      "title": "当FIFA遇到美国：世界杯，太赚了！",
+      "video_id": "erIEZkMd9_w",
+      "channel_title": "硅谷101",
+      "description": "2026美加墨世界杯，可能是史上最会赚钱的一届世界杯。 门票、停车费、转售佣金、赞助费、转播版权，几乎所有和世界杯有关的 ...",
+      "published_at": "2026-07-01T06:27:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/erIEZkMd9_w/hqdefault.jpg"
+    },
     {
       "title": "对话王熙乔：AI时代的教育者、十年沉浮，与人类文明的下一步",
       "video_id": "nWc1tpQnhqY",
@@ -29,36 +45,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4y9DR2WwW3o/hqdefault.jpg"
     },
     {
-      "title": "46.5亿美元估值的RSI：“最顶级的资本还是看人”",
-      "video_id": "c216-TZTIrM",
-      "channel_title": "硅谷101",
-      "description": "一家还没有产品的AI实验室，为什么能融到6.5亿美元、估值46.5亿美元？ 田渊栋的回答很直接：最顶级的资本，还是看人。在AI变化 ...",
-      "published_at": "2026-06-22T16:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c216-TZTIrM/hqdefault.jpg"
-    },
-    {
       "title": "员工蒸馏：水没有了，鱼要变成“四维生物”",
       "video_id": "TnauzVQkmBo",
       "channel_title": "硅谷101",
       "description": "当公司开始“蒸馏员工”，AI时代的个人价值会发生什么变化？ 在田渊栋看来，Meta的争议只是一个开始：公司想沉淀员工经验、降低 ...",
       "published_at": "2026-06-22T05:05:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/TnauzVQkmBo/hqdefault.jpg"
-    },
-    {
-      "title": "库克的离场，苹果新AI权力重构与价值观天平｜WWDC26",
-      "video_id": "hIdvhl8PUwc",
-      "channel_title": "硅谷101",
-      "description": "这是库克卸任前最后一次主持WWDC，也是苹果在Apple Intelligence延期、翻车、诉讼和内部重组之后，重新交出AI答卷的一年。",
-      "published_at": "2026-06-18T01:40:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hIdvhl8PUwc/hqdefault.jpg"
-    },
-    {
-      "title": "SpaceX崛起史：一切，为了去火星｜实地探访星舰基地与总部",
-      "video_id": "x2meJPOn9ws",
-      "channel_title": "硅谷101",
-      "description": "你，想去火星吗？ 马斯克用24年的努力，试图向世人证明人类成为跨行星物种是有可能的。 在SpaceX冲击“人类史上最大IPO”之际， ...",
-      "published_at": "2026-06-11T05:08:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x2meJPOn9ws/hqdefault.jpg"
     },
     {
       "title": "“没有她，SpaceX早倒闭了”：全世界最有权力的女性工程师是如何炼成的",
@@ -69,20 +61,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MIyEX1WOuJI/hqdefault.jpg"
     },
     {
-      "title": "AI让AI变更强，RSI自进化路线安全吗？",
-      "video_id": "ooRlhTxV5dE",
-      "channel_title": "硅谷101",
-      "description": "AI会不会有一天自己改进自己，甚至推动科学发现？RSI实验室联合创始人田渊栋向我们解释了Recursive Self Improvement， ...",
-      "published_at": "2026-06-09T14:26:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ooRlhTxV5dE/hqdefault.jpg"
-    },
-    {
       "title": "再访田渊栋：46.5亿美金估值的RSI，与AI自进化｜Neolabs特辑【101视频播客】",
       "video_id": "F7oNfszczVc",
       "channel_title": "硅谷101",
       "description": "近期，Anthropic公开呼吁全球暂停AI开发，原因是“AI正在以惊人速度加速AI自身的开发进程”。这样的进程被称为之Recursive ...",
       "published_at": "2026-06-05T14:00:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/F7oNfszczVc/hqdefault.jpg"
+    },
+    {
+      "title": "谷歌三次失败的“星链梦”与SpaceX的9亿投资",
+      "video_id": "y8aLyakgGbQ",
+      "channel_title": "硅谷101",
+      "description": "SpaceX即将迎来万众瞩目的IPO，但很少有人知道，作为重要股东的谷歌，为什么要在2015年投资一家发射火箭的公司。",
+      "published_at": "2026-06-04T03:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y8aLyakgGbQ/hqdefault.jpg"
+    },
+    {
+      "title": "对话高通：智能体爆发、6G与Physical AI背后的大赢家",
+      "video_id": "eAYx6CHstNw",
+      "channel_title": "硅谷101",
+      "description": "本期视频由高通赞助播出。 AI大模型之战趋于白热化之际，另一场更安静、也更关键的变化，已经开始发生了：AI正在从“云”走向“端” ...",
+      "published_at": "2026-06-03T23:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eAYx6CHstNw/hqdefault.jpg"
     }
   ]
 }

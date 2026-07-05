@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-06-28T01:03:49.636987",
+  "fetched_at": "2026-07-05T00:51:55.622610",
   "channel_id": "UCV0qA-eDDICsRR9rPcnG7tw",
   "channel_title": "Joma Tech",
   "count": 10,
   "videos": [
+    {
+      "title": "If Yu-Gu-Oh was about Tech Jobs",
+      "video_id": "PibrgKPYHz4",
+      "channel_title": "Joma Tech",
+      "description": "HR rather force a mass layoff than give this guy a promotion.",
+      "published_at": "2026-07-03T08:38:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PibrgKPYHz4/hqdefault.jpg"
+    },
+    {
+      "title": "what 10 years of coding looks like…",
+      "video_id": "jRBbxwWw1R0",
+      "channel_title": "Joma Tech",
+      "description": "",
+      "published_at": "2026-07-03T00:40:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jRBbxwWw1R0/hqdefault.jpg"
+    },
+    {
+      "title": "that one awkward co-worker...",
+      "video_id": "siWDrJvZH0A",
+      "channel_title": "Joma Tech",
+      "description": "",
+      "published_at": "2026-07-02T08:24:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/siWDrJvZH0A/hqdefault.jpg"
+    },
     {
       "title": "If Yu-Gi-Oh was about Tech Jobs",
       "video_id": "2LQXrGKq3t0",
@@ -40,7 +64,7 @@
       "title": "when you rob a big tech company, but the employees are...",
       "video_id": "synJZAtH58E",
       "channel_title": "Joma Tech",
-      "description": "Security through incompetency Music by Joy Ngiaw: https://www.instagram.com/joyngiaw/ Edited by Matt Cho: ...",
+      "description": "If you like this video, checkout \"If Yu-Gi-Oh was about Tech Jobs\": https://youtu.be/2LQXrGKq3t0?si=AUEOdSIrDPWbPAjM ...",
       "published_at": "2022-11-11T14:29:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/synJZAtH58E/hqdefault.jpg"
     },
@@ -59,30 +83,6 @@
       "description": "Kodocharenji = Code Challenge For the people who don't speak anime Production Glorified Tripod - John Zeng ...",
       "published_at": "2022-09-14T15:45:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DlKl8me4Npw/hqdefault.jpg"
-    },
-    {
-      "title": "every “entrepreneur” influencer ever...",
-      "video_id": "CK_BCMA9yoY",
-      "channel_title": "Joma Tech",
-      "description": "Same video, different industry. I stole the fist joke from @CodyKo Social Media https://www.instagram.com/jomakaze/ ...",
-      "published_at": "2022-08-04T14:52:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CK_BCMA9yoY/hqdefault.jpg"
-    },
-    {
-      "title": "how programmers overprepare for job interviews",
-      "video_id": "5bId3N7QZec",
-      "channel_title": "Joma Tech",
-      "description": "Mapa hash. SOCIAL MEDIA ·························· https://www.instagram.com/jomakaze/ ...",
-      "published_at": "2022-07-23T21:32:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5bId3N7QZec/hqdefault.jpg"
-    },
-    {
-      "title": "crypto founders be like...",
-      "video_id": "NGqWR-o_H8E",
-      "channel_title": "Joma Tech",
-      "description": "Do Kwon Is cool Special thanks to: Paul Ray, Geraint Taylor, Daryl Sterling Jr Extras (DM me your name on Discord) Albert Yang ...",
-      "published_at": "2022-07-16T15:01:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NGqWR-o_H8E/hqdefault.jpg"
     }
   ]
 }

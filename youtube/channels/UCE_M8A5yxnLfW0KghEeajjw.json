@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-28T01:03:28.060026",
+  "fetched_at": "2026-07-05T00:51:33.389504",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Help protect your hearing with AirPods Pro. Tip from Indiana at the Apple Store.",
+      "video_id": "Zd-IzRXoNhk",
+      "channel_title": "Apple",
+      "description": "AirPods #AirPodsPro #AirPodsTips #HearingProtection #AppleStore.",
+      "published_at": "2026-06-30T16:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Zd-IzRXoNhk/hqdefault.jpg"
+    },
     {
       "title": "World Surf League x Apple: How Apple Watch Changed Pro Surfing",
       "video_id": "4Aci0c6-_fg",
@@ -75,14 +83,6 @@
       "description": "Safari helps keep data trackers off your back with state-of-the-art features that defend you against cross-site tracking, hide your IP ...",
       "published_at": "2026-06-04T00:08:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Spb-ka7xrR8/hqdefault.jpg"
-    },
-    {
-      "title": "Apple Vision Pro: Official Trailer for Real Madrid: The Weight of Greatness",
-      "video_id": "1yTXr5bX2wQ",
-      "channel_title": "Apple",
-      "description": "Go inside a Real Madrid Champions League match day like never before. Experience what it takes to live up to the legacy of the ...",
-      "published_at": "2026-05-20T13:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1yTXr5bX2wQ/hqdefault.jpg"
     }
   ]
 }

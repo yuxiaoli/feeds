@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-06-28T01:04:00.450833",
+  "fetched_at": "2026-07-05T00:52:06.789909",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Summer sounds. On replay. | Bang &amp; Olufsen",
+      "video_id": "fatL0SrIVrk",
+      "channel_title": "Bang & Olufsen",
+      "description": "Beosound A1. For the long way. The scenic route. And every moment in between. #BangOlufsen.",
+      "published_at": "2026-07-01T09:01:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fatL0SrIVrk/hqdefault.jpg"
+    },
+    {
+      "title": "Summer sounds. On replay. | Bang &amp; Olufsen",
+      "video_id": "ea9y5G6iJps",
+      "channel_title": "Bang & Olufsen",
+      "description": "Beosound A1. For the long way. The scenic route. And every moment in between. Discover: ...",
+      "published_at": "2026-07-01T09:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ea9y5G6iJps/hqdefault.jpg"
+    },
     {
       "title": "Beosound A1 3rd Gen Fragment Edition",
       "video_id": "W5siqoTN8Ks",
@@ -67,22 +83,6 @@
       "description": "Some things need no introduction. Bang & Olufsen and Fragment, coming soon.​ ​#BangOlufsen.",
       "published_at": "2026-05-17T10:01:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gct8nMN2pfw/hqdefault.jpg"
-    },
-    {
-      "title": "Bang &amp; Olufsen | Fragment",
-      "video_id": "5Y-IYUqfVZA",
-      "channel_title": "Bang & Olufsen",
-      "description": "Some things need no introduction. Bang & Olufsen and Fragment, coming soon.​ ​#BangOlufsen.",
-      "published_at": "2026-05-17T10:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5Y-IYUqfVZA/hqdefault.jpg"
-    },
-    {
-      "title": "Summer of Sport | Bang &amp; Olufsen",
-      "video_id": "xvVpt5fqVAI",
-      "channel_title": "Bang & Olufsen",
-      "description": "Experience an arena of sound. Every serve, swing and shot. Every sprint, swell and surge. Elevated by BeovisionTheatre's ...",
-      "published_at": "2026-04-13T13:31:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xvVpt5fqVAI/hqdefault.jpg"
     }
   ]
 }

@@ -1,48 +1,56 @@
 {
-  "fetched_at": "2026-06-28T01:03:22.982466",
+  "fetched_at": "2026-07-05T00:51:28.051507",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 8,
   "videos": [
     {
-      "title": "Why you need the new GitHub Copilot desktop app",
-      "video_id": "An2_I0FV3uc",
+      "title": "Catching complex bugs with GitHub Copilot medium depth code review",
+      "video_id": "LGQOu08rR_o",
       "channel_title": "GitHub",
-      "description": "The GitHub Copilot app is officially generally available for macOS, Windows, and Linux. Built as an agent-native desktop ...",
-      "published_at": "2026-06-27T15:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/An2_I0FV3uc/hqdefault.jpg"
+      "description": "GitHub Copilot code review now offers medium depth reviews in public preview. This update routes your pull requests to a higher ...",
+      "published_at": "2026-07-03T17:15:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LGQOu08rR_o/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Aspire",
-      "video_id": "xoQFvTxgrd0",
+      "title": "Rubber Duck Thursday with OpenClaw&#39;s Brad Groux  and @acolombiadev 🦞",
+      "video_id": "QM1XgyV672s",
       "channel_title": "GitHub",
-      "description": "Open Source Friday dives into Aspire, a code-first orchestration and observability layer for distributed apps, with guests Maddy ...",
-      "published_at": "2026-06-27T06:11:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xoQFvTxgrd0/hqdefault.jpg"
+      "description": "This Rubber Duck Thursday, Brad Groux (CEO of DigitalMeld, Microsoft maintainer on OpenClaw) joins us to dig into where a lot ...",
+      "published_at": "2026-07-03T15:43:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QM1XgyV672s/hqdefault_live.jpg"
     },
     {
-      "title": "The Download: GitHub Copilot app, Anthropic news, and Minecraft",
-      "video_id": "Emflh0fnRCw",
+      "title": "Rubber Duck Thursdays! Let&#39;s play with canvases in the GitHub Copilot app!",
+      "video_id": "cCFKtW5UiTo",
       "channel_title": "GitHub",
-      "description": "Welcome to another episode of The Download with GPS! This week, we cover the general availability of the new GitHub Copilot ...",
-      "published_at": "2026-06-26T16:40:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Emflh0fnRCw/hqdefault.jpg"
+      "description": "We're going to talk through the GitHub Changelog, what's new, and experiment with some new tools.",
+      "published_at": "2026-07-03T06:58:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cCFKtW5UiTo/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays! | Let&#39;s code and cowork!",
-      "video_id": "nmk2eS2xwCw",
+      "title": "Jueves de Quack con Bruno Capuano",
+      "video_id": "cKiX5fY3yqE",
       "channel_title": "GitHub",
-      "description": "We'll be talking through the GitHub changelog, the GitHub Copilot app, and moooore!",
-      "published_at": "2026-06-26T06:59:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nmk2eS2xwCw/hqdefault.jpg"
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2026-07-03T03:10:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cKiX5fY3yqE/hqdefault.jpg"
     },
     {
-      "title": "Understanding Loop Engineering",
-      "video_id": "bcY3oCj0A9o",
+      "title": "Rubber Duck Thursday - What&#39;s New!",
+      "video_id": "wsE3GtIYqu4",
       "channel_title": "GitHub",
-      "description": "In this stream we'll try and understand loop engineering, a term thats come up recently for engineers building with AI Agents.",
-      "published_at": "2026-06-25T23:36:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bcY3oCj0A9o/hqdefault.jpg"
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2026-07-03T00:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wsE3GtIYqu4/hqdefault.jpg"
+    },
+    {
+      "title": "How to use the new impeccable skill in the GitHub Copilot app",
+      "video_id": "CRSV0euIn7M",
+      "channel_title": "GitHub",
+      "description": "The GitHub Copilot app now features a built-in impeccable skill to help you polish your projects. In this video, we use it as a ...",
+      "published_at": "2026-06-29T15:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CRSV0euIn7M/hqdefault.jpg"
     },
     {
       "title": "Let&#39;s Learn GitHub Copilot App",
@@ -51,14 +59,6 @@
       "description": "Join this beginner-friendly virtual series to get started with the GitHub Copilot app, your all-in-one control center for managing ...",
       "published_at": "2026-06-23T01:12:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SsFU0w3KrI4/hqdefault_live.jpg"
-    },
-    {
-      "title": "Automating daily workflows with the GitHub Copilot app and MCP",
-      "video_id": "usXv9jJWjvI",
-      "channel_title": "GitHub",
-      "description": "Imagine opening your laptop to a pull request that wrote itself overnight and a backlog that is already triaged. That is a normal ...",
-      "published_at": "2026-06-22T15:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/usXv9jJWjvI/hqdefault.jpg"
     },
     {
       "title": "Open Source Friday: Building the Contributor Pipeline at Pollinations.ai",

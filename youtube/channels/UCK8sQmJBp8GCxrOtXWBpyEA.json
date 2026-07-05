@@ -1,48 +1,56 @@
 {
-  "fetched_at": "2026-06-28T01:03:36.829190",
+  "fetched_at": "2026-07-05T00:51:42.156604",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 5,
+  "count": 6,
   "videos": [
     {
-      "title": "Let’s go #GoogleDoodle",
-      "video_id": "LcCirFk-FaU",
+      "title": "How we created the Fourth of July Doodle | Behind the Doodle",
+      "video_id": "iDz4GqHQL6Q",
       "channel_title": "Google",
-      "description": "The competition is heating up ⚽️   The world's best teams continue to inspire, unite, and raise the stakes on every single game.",
-      "published_at": "2026-06-27T12:38:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LcCirFk-FaU/hqdefault.jpg"
+      "description": "How much red, white, and blue confetti does it take to make a Fourth of July Google Doodle? Go behind the scenes to see how ...",
+      "published_at": "2026-07-04T16:01:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iDz4GqHQL6Q/hqdefault.jpg"
     },
     {
-      "title": "Gemma 4 Hits 200M+ Downloads: 3 Amazing Local Builds",
-      "video_id": "vUQ4rmTX2YY",
+      "title": "How to style your team colors for any event ✨",
+      "video_id": "aeZTTnfo8Ok",
       "channel_title": "Google",
-      "description": "Gemma 4 just crossed 200M+ downloads! Check out 3 of our favorite projects to see how builders are leveraging this model ...",
-      "published_at": "2026-06-25T19:26:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vUQ4rmTX2YY/hqdefault.jpg"
+      "description": "Keep the team energy going 24/7. Search for clothes in your squad's colors and press “Try it on” to see how they look.",
+      "published_at": "2026-07-03T10:57:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aeZTTnfo8Ok/hqdefault.jpg"
     },
     {
-      "title": "How to use Agent in Google Flow | Find Your Flow",
-      "video_id": "JJTdXTf12oQ",
+      "title": "Got pro reflexes? Find out on Search 👐",
+      "video_id": "GmxYBxQedDw",
       "channel_title": "Google",
-      "description": "Google Flow Agent is your creative partner that can plan and reason through complex tasks with your inputs, under your control.",
-      "published_at": "2026-06-24T16:04:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JJTdXTf12oQ/hqdefault.jpg"
+      "description": "GoogleSearch.",
+      "published_at": "2026-07-02T16:00:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GmxYBxQedDw/hqdefault.jpg"
     },
     {
-      "title": "Google AI Studio Tutorial: Shipping Apps",
-      "video_id": "mx0xFpVjxHE",
+      "title": "Just how good was Landon Donovan? Let’s Search it.",
+      "video_id": "CXCE4QyvMrU",
       "channel_title": "Google",
-      "description": "Whether you're building games, interactive tools, or data-driven apps, it's easy to deploy from Google AI Studio. In this tutorial, we ...",
-      "published_at": "2026-06-22T19:30:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mx0xFpVjxHE/hqdefault.jpg"
+      "description": "Ever heard of the 50/50 club? Let's use Search to explore the historic career stats that make Landon Donovan one of the greats.",
+      "published_at": "2026-07-01T17:48:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CXCE4QyvMrU/hqdefault.jpg"
     },
     {
-      "title": "Behind the Doodle: Father’s Day #GoogleDoodle",
-      "video_id": "iGOmDRYctOw",
+      "title": "What is Nano Banana?",
+      "video_id": "TglEnUdBb3o",
       "channel_title": "Google",
-      "description": "Today's #GoogleDoodle is for the dads who help us grow with patience, guidance, and a healthy dose of hilarious jokes. Happy ...",
-      "published_at": "2026-06-21T12:58:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iGOmDRYctOw/hqdefault.jpg"
+      "description": "In this video, we're learning all about Nano Banana, Google's image generation model. Join Nano Banana Product Manager ...",
+      "published_at": "2026-06-30T23:12:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TglEnUdBb3o/hqdefault.jpg"
+    },
+    {
+      "title": "The Most Searched Sport | Kick it",
+      "video_id": "MfDYRK1pAvA",
+      "channel_title": "Google",
+      "description": "Soccer isn't just about scoring goals; it's about the skills that make them happen. From a rabona to a bicycle kick, break down any ...",
+      "published_at": "2026-06-29T19:03:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MfDYRK1pAvA/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-28T01:03:18.792685",
+  "fetched_at": "2026-07-05T00:51:23.490548",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "Flash模型横评! 性价比之选竟然是这个?",
+      "video_id": "r9pTOWMr4DY",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Flash 系列模型横评! 各个厂商除了旗舰级别模型, 也都有Flash级别的模型, 而这些模型的定位主要都是多智能体系统的 ...",
+      "published_at": "2026-06-29T06:09:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r9pTOWMr4DY/hqdefault.jpg"
+    },
     {
       "title": "2分钟教你做一个可以自我迭代的 Agent",
       "video_id": "JUn7j9RxijQ",
@@ -75,14 +83,6 @@
       "description": "给大家带来GLM-5.1 编程能力实测! 本次测试涵盖了前端, 后端, Agent 能力, 前端主要面向空间建模, 场景, 材质, 粒子效果等, 后端能力 ...",
       "published_at": "2026-03-30T14:05:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/kwcHb2WmzuM/hqdefault.jpg"
-    },
-    {
-      "title": "如何做一个生产级SKILL? 用MiniMax-M2.7给龙虾写SKILL的保姆教程",
-      "video_id": "gtL8VgvPQZs",
-      "channel_title": "Karminski-牙医",
-      "description": "有好多同学不知道如何写SKILL, 以及写了SKILL运行总是不稳定, 这次教大家使用MiniMax-M2.7 给龙虾(openclaw)写一个\"生产级\" ...",
-      "published_at": "2026-03-27T23:06:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gtL8VgvPQZs/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-28T01:03:44.598701",
+  "fetched_at": "2026-07-05T00:51:50.361420",
   "channel_id": "UCOXv_kvUrsyfTP4H26En--A",
   "channel_title": "Tech Raashi",
   "count": 10,
   "videos": [
+    {
+      "title": "How to Apply for VTU Provisional Degree Certificate (PDC), Official Transcripts &amp; Marks Cards Online",
+      "video_id": "VhFuspfHXDk",
+      "channel_title": "Tech Raashi",
+      "description": "VTU Provisional Degree Certificate (PDC) Apply Online | Complete Kannada Guide In this video, I explain how to apply online for ...",
+      "published_at": "2026-07-03T17:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VhFuspfHXDk/hqdefault.jpg"
+    },
     {
       "title": "How to Create Gmail Account in Kannada | ಮೊಬೈಲ್‌ನಲ್ಲಿ Gmail Account ಹೇಗೆ Create ಮಾಡುವುದು?",
       "video_id": "3K2jBkvQvHY",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2023-12-22T08:30:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-pGuZ4jiyN8/hqdefault.jpg"
-    },
-    {
-      "title": "How to look like hacker✅😱 #shorts #viralshorts",
-      "video_id": "eCo4s_62e0g",
-      "channel_title": "Tech Raashi",
-      "description": "How to look like hacker Using command prompt Learn hacking     #shorts #viralshorts #cmd #tech.",
-      "published_at": "2023-10-31T10:30:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eCo4s_62e0g/hqdefault.jpg"
     }
   ]
 }

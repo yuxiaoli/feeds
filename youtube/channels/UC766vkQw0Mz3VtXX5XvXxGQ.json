@@ -1,32 +1,24 @@
 {
-  "fetched_at": "2026-06-28T01:03:22.307754",
+  "fetched_at": "2026-07-05T00:51:27.322299",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 3,
+  "count": 2,
   "videos": [
     {
-      "title": "Watch Tom Clancy’s Jack Ryan: Ghost War on your Meta Quest!",
-      "video_id": "qNIEEbruNac",
+      "title": "They’ll never see you coming. What was your guess? #Thief",
+      "video_id": "0yChRDx4QE4",
       "channel_title": "Meta Quest ",
       "description": "",
-      "published_at": "2026-06-26T16:24:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qNIEEbruNac/hqdefault.jpg"
+      "published_at": "2026-07-02T18:50:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0yChRDx4QE4/hqdefault.jpg"
     },
     {
-      "title": "Rumble Rocks.",
-      "video_id": "M5s3G_huXpE",
+      "title": "Guardians Planetfall | Official Gameplay Trailer | Meta Quest",
+      "video_id": "gOh1xEuxEkw",
       "channel_title": "Meta Quest ",
-      "description": "",
-      "published_at": "2026-06-25T16:56:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M5s3G_huXpE/hqdefault.jpg"
-    },
-    {
-      "title": "Gym Class Football | Launch Trailer | Meta Quest",
-      "video_id": "uTjJCDUp23Q",
-      "channel_title": "Meta Quest ",
-      "description": "Free-to-play VR Football is HERE @gymclassvr on Meta Quest lets you run routes and score touchdowns with your squad.",
-      "published_at": "2026-06-24T17:03:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uTjJCDUp23Q/hqdefault.jpg"
+      "description": "Guardians Planetfall — a co-op VR sci-fi shooter for up to 4 players from the creators of Guardians Frontline. Drop onto ...",
+      "published_at": "2026-06-29T16:07:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gOh1xEuxEkw/hqdefault.jpg"
     }
   ]
 }

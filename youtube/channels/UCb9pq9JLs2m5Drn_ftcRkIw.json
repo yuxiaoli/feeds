@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-06-28T01:03:56.956742",
+  "fetched_at": "2026-07-05T00:52:03.009708",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "طريقة استعمال حبل المقاومة لزيادة الثبات في الفرونت ليفر",
+      "video_id": "ls3xu8cIu6Y",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-06-30T11:21:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ls3xu8cIu6Y/hqdefault.jpg"
+    },
+    {
+      "title": "خطأ شائع في تمرين الغطس",
+      "video_id": "XgN2HWpHZP4",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-06-28T09:54:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XgN2HWpHZP4/hqdefault.jpg"
+    },
     {
       "title": "لا تسوي هذا الخطأ في مهارة الباك ليفر",
       "video_id": "zOyszVdQiSU",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-05-25T12:19:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Ivm64k2fiTs/hqdefault.jpg"
-    },
-    {
-      "title": "Dips ?",
-      "video_id": "8Fvo8Aj0LvE",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-05-23T12:18:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8Fvo8Aj0LvE/hqdefault.jpg"
-    },
-    {
-      "title": "التمرين اللي مستحيل في احد ما يحبه",
-      "video_id": "I5F08ztq4XY",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-05-21T12:26:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I5F08ztq4XY/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-28T01:03:12.969972",
+  "fetched_at": "2026-07-05T00:51:17.380237",
   "channel_id": "UC-Md_S_A6VcSJiAhStZCKbw",
   "channel_title": "Jordi Koalitic",
   "count": 10,
   "videos": [
+    {
+      "title": "Turning reflections into impossible photos! 📸✨ Nikon Z9 available at @Adorama",
+      "video_id": "e4lTxL8MSDc",
+      "channel_title": "Jordi Koalitic",
+      "description": "We used the Nikon Z9 in Central Park, NYC, using reflections and perspective to create surreal in-camera illusions. Available at ...",
+      "published_at": "2026-07-01T13:41:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e4lTxL8MSDc/hqdefault.jpg"
+    },
     {
       "title": "Creativity beats AI 💡🫢 shot w @insta360 Luna Ultra",
       "video_id": "fOXLvE0wJdM",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-04-28T13:10:14Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Zl_UpCW2kjY/hqdefault.jpg"
-    },
-    {
-      "title": "Girls dopamine 🌹 shot w @NikonEurope #NikonZ9",
-      "video_id": "OdfiNGELZro",
-      "channel_title": "Jordi Koalitic",
-      "description": "",
-      "published_at": "2026-04-24T10:10:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OdfiNGELZro/hqdefault.jpg"
     }
   ]
 }

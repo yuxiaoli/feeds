@@ -1,64 +1,48 @@
 {
-  "fetched_at": "2026-06-28T01:03:39.686495",
+  "fetched_at": "2026-07-05T00:51:45.100909",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Is patch management dead?👀",
-      "video_id": "bR9cb-hyneE",
+      "title": "GPT-5.6 Sol, FIFA AI &amp; Wall Street’s AI nerves",
+      "video_id": "tV5zXS78HzU",
       "channel_title": "IBM Technology",
-      "description": "WannaCry proved a missed patch can cost millions. Strategic security, fast patching, and real risk math matter. Explore lessons ...",
-      "published_at": "2026-06-26T16:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bR9cb-hyneE/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~WCwz6FqZD Are the new safety guardrails on ...",
+      "published_at": "2026-07-03T10:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tV5zXS78HzU/hqdefault.jpg"
     },
     {
-      "title": "New AI models, token minimization and IBM’s new sub-1nm chip",
-      "video_id": "d-hJa-yDJmQ",
+      "title": "What Is an API? Types, Uses, &amp; AI Integration",
+      "video_id": "Qw8qVSZEWBc",
       "channel_title": "IBM Technology",
-      "description": "Learn more about IBM's new chip technology →https://ibm.biz/~Grs0J3yK2 IBM debuts world's first 0.7nm chip technology!",
-      "published_at": "2026-06-26T10:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/d-hJa-yDJmQ/hqdefault.jpg"
+      "description": "Learn more about APIs here → https://ibm.biz/~ALwlgUzvT APIs are powering more of your world than you realize. Amanda ...",
+      "published_at": "2026-07-02T11:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qw8qVSZEWBc/hqdefault.jpg"
     },
     {
-      "title": "Which AI model should you use?🤖",
-      "video_id": "kr54bb_PhEU",
+      "title": "The new post-quantum cryptography executive order. Plus: What is Q-Day, really?",
+      "video_id": "RYUR9BdDgyI",
       "channel_title": "IBM Technology",
-      "description": "Each AI model has their purpose, but choice allows for cost optimization. Watch the latest episode of Mixture of Experts to hear our ...",
-      "published_at": "2026-06-25T17:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kr54bb_PhEU/hqdefault.jpg"
+      "description": "Learn more about Q-Day → https://ibm.biz/~Ki7XKK3qT On June 22, US President Donald Trump signed a pair of executive ...",
+      "published_at": "2026-07-01T10:30:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RYUR9BdDgyI/hqdefault.jpg"
     },
     {
-      "title": "Data Science Periodic Table Explained: ML, ETL, Analytics &amp; Workflow",
-      "video_id": "12lB1Cz7gUw",
+      "title": "How KV Cache Speeds Up LLMs for Faster AI Models on GPUs",
+      "video_id": "o0gkdZBtwEg",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Data Science here → https://ibm.biz/~KwNQPSByh Data science feels complex—until you see the whole ...",
-      "published_at": "2026-06-25T11:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/12lB1Cz7gUw/hqdefault.jpg"
+      "description": "Learn more about LLM inference here → https://ibm.biz/~Ewjm0UejN Why do LLMs crawl when traffic spikes? Legare Kerrison ...",
+      "published_at": "2026-06-30T11:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o0gkdZBtwEg/hqdefault.jpg"
     },
     {
-      "title": "Have we finally solved social engineering? Plus: World Cup fraud, AI IDs and an IBM/OpenAI collab",
-      "video_id": "10XtOi4Lbes",
+      "title": "What Is AI Code Review? Fixing Slow PRs &amp; Broken Workflows with AI",
+      "video_id": "0-YCleDw-Po",
       "channel_title": "IBM Technology",
-      "description": "Read more about IBM joining OpenAI Daybreak → https://ibm.biz/~GzeMjCEBd Social engineering has plagued human beings ...",
-      "published_at": "2026-06-24T10:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/10XtOi4Lbes/hqdefault.jpg"
-    },
-    {
-      "title": "5 AI Agent Terms You Need to Know",
-      "video_id": "k5jYwyhDMxA",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI Agents here → https://ibm.biz/~dXkrYnDwR Frontier AI agents rely on more than just large language models ...",
-      "published_at": "2026-06-23T11:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k5jYwyhDMxA/hqdefault.jpg"
-    },
-    {
-      "title": "AI in the SDLC: Rethinking AI Coding Tools &amp; AI Agents",
-      "video_id": "4wMRXmLpdA8",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI in the SDLC here → https://ibm.biz/~naNTyKNWO AI promises speed, but where are the real gains? Cedric ...",
-      "published_at": "2026-06-22T11:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4wMRXmLpdA8/hqdefault.jpg"
+      "description": "Learn more about AI Code Review here → https://ibm.biz/~k5pZG4Et6 Code reviews are slow, but they don't have to be.",
+      "published_at": "2026-06-29T11:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0-YCleDw-Po/hqdefault.jpg"
     },
     {
       "title": "RSA recap, the LiteLLM breach, and the quest to fix AI agent security",
@@ -83,6 +67,22 @@
       "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
       "published_at": "2025-11-05T10:01:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
+    },
+    {
+      "title": "Building Decision Agents with LLMs &amp; Machine Learning Models",
+      "video_id": "mRkJTXDromw",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+      "published_at": "2025-09-25T11:01:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mRkJTXDromw/hqdefault.jpg"
+    },
+    {
+      "title": "AI Agents &amp; Mainframe: Optimized Systems Powered by LLMs",
+      "video_id": "IRa6XmG8QCQ",
+      "channel_title": "IBM Technology",
+      "description": "Ready to become a certified watsonx Mainframe Modernization Architect? Register now and use code IBMTechYT20 for 20% off ...",
+      "published_at": "2025-09-21T11:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IRa6XmG8QCQ/hqdefault.jpg"
     }
   ]
 }

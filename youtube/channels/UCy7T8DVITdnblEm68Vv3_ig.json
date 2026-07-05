@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-28T01:04:13.877935",
+  "fetched_at": "2026-07-05T00:52:20.916450",
   "channel_id": "UCy7T8DVITdnblEm68Vv3_ig",
   "channel_title": "UNlimited",
   "count": 10,
   "videos": [
+    {
+      "title": "🇮🇹 Italian Song That Everyone Sings",
+      "video_id": "qfjL-WALGb0",
+      "channel_title": "UNlimited",
+      "description": "The most popular Italian song that everyone sings and dances to is universally considered to be \"Sarà perché ti amo\" by Ricchi e ...",
+      "published_at": "2026-06-29T04:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qfjL-WALGb0/hqdefault.jpg"
+    },
     {
       "title": "🎷 Luxury Sax &amp; Deep House | Sax &amp; Deep House Summer Mix",
       "video_id": "oLzz-DakEE8",
@@ -75,14 +83,6 @@
       "description": "Morocco is a living masterpiece where landscapes and cultures shift through a vivid, mesmerizing palette. From the azure-washed ...",
       "published_at": "2026-06-12T02:00:14Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WvfCJyYVlMg/hqdefault.jpg"
-    },
-    {
-      "title": "🇮🇹 Venice: Italy’s Floating City That Feels Like a Fantasy",
-      "video_id": "Ug53MEMyEqA",
-      "channel_title": "UNlimited",
-      "description": "Venice, Italy, is a mesmerizing architectural masterpiece that truly feels like a fantasy. Built across more than 100 small islands in ...",
-      "published_at": "2026-06-10T03:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ug53MEMyEqA/hqdefault.jpg"
     }
   ]
 }

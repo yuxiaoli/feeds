@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-06-28T01:03:41.039712",
+  "fetched_at": "2026-07-05T00:51:46.602957",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
   "count": 7,
   "videos": [
+    {
+      "title": "U.S. Spacewalk 95",
+      "video_id": "D0dd8X4g3Eg",
+      "channel_title": "NASA",
+      "description": "At approximately 8:35 a.m. EDT (1235 UTC) on June 30, 2026, NASA astronauts Chris Williams and Jessica Meir will venture ...",
+      "published_at": "2026-06-30T20:37:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D0dd8X4g3Eg/hqdefault.jpg"
+    },
+    {
+      "title": "Moon Base: June 2026 Update",
+      "video_id": "aRSBZN2UF0Q",
+      "channel_title": "NASA",
+      "description": "We're building a Moon Base – humanity's first lunar outpost, a place where astronauts will live, work, and explore near the Moon's ...",
+      "published_at": "2026-06-30T20:13:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aRSBZN2UF0Q/hqdefault.jpg"
+    },
+    {
+      "title": "NASA Moon Base Update (June 30, 2026)",
+      "video_id": "jXTBJz5MGbA",
+      "channel_title": "NASA",
+      "description": "Watch a live, virtual conversation with NASA Administrator Jared Isaacman to hear progress on our plans to build a Moon Base on ...",
+      "published_at": "2026-06-30T19:23:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jXTBJz5MGbA/hqdefault.jpg"
+    },
+    {
+      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
+      "video_id": "awQzjn72bI0",
+      "channel_title": "NASA",
+      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
+      "published_at": "2026-06-30T13:11:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/awQzjn72bI0/hqdefault_live.jpg"
+    },
     {
       "title": "Independence Day Wishes from the Space Station",
       "video_id": "75-H-i9ctkE",
@@ -11,38 +43,6 @@
       "description": "Happy 250th to the U.S.A., from 250 miles above Earth! NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams ...",
       "published_at": "2026-06-26T19:53:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/75-H-i9ctkE/hqdefault.jpg"
-    },
-    {
-      "title": "NASA Moon Base Update",
-      "video_id": "jXTBJz5MGbA",
-      "channel_title": "NASA",
-      "description": "Watch a live, virtual conversation with NASA Administrator Jared Isaacman to hear progress on our plans to build a Moon Base on ...",
-      "published_at": "2026-06-26T16:22:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jXTBJz5MGbA/hqdefault_live.jpg"
-    },
-    {
-      "title": "U.S. Spacewalk Preview News Conference (June 25, 2026)",
-      "video_id": "QNNfhTwmYso",
-      "channel_title": "NASA",
-      "description": "As we prepare for our next spacewalk outside the International Space Station, tune in as we share what we'll be doing and ...",
-      "published_at": "2026-06-25T18:29:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QNNfhTwmYso/hqdefault.jpg"
-    },
-    {
-      "title": "The Ultimate Away Game: World Cup Fever on the ISS 🌌🏆",
-      "video_id": "fUrlyCjL8JA",
-      "channel_title": "NASA",
-      "description": "World Cup fever just hit low Earth orbit! Watch astronauts Jessica Meir, Sophie Adenot, Jack Hathaway and Christopher Williams ...",
-      "published_at": "2026-06-20T14:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fUrlyCjL8JA/hqdefault.jpg"
-    },
-    {
-      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
-      "video_id": "FuuC4dpSQ1M",
-      "channel_title": "NASA",
-      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
-      "published_at": "2026-05-07T16:14:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FuuC4dpSQ1M/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
@@ -53,12 +53,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/uwXgcTc8oY8/hqdefault_live.jpg"
     },
     {
-      "title": "U.S. Spacewalk 95",
-      "video_id": "D0dd8X4g3Eg",
+      "title": "Aspira con NASA/Aspire with NASA",
+      "video_id": "bpkEOCEgNtg",
       "channel_title": "NASA",
-      "description": "At approximately 8:35 a.m. EDT (1235 UTC) on June 30, 2026, NASA astronauts Chris Williams and Jessica Meir will venture ...",
-      "published_at": "2026-01-02T19:35:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D0dd8X4g3Eg/hqdefault_live.jpg"
+      "description": "In recognition of Hispanic Heritage Month NASA hosted an event at the agency's headquarters in Washington Tuesday, Oct. 4, ...",
+      "published_at": "2016-10-07T14:33:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bpkEOCEgNtg/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-06-28T01:03:23.688212",
+  "fetched_at": "2026-07-05T00:51:28.836130",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Celebrating Soccer | Boston Dynamics",
+      "video_id": "SoK05VMIATA",
+      "channel_title": "Boston Dynamics",
+      "description": "Spot's celebrating with the global soccer community ⚽ With robots deployed on 6 continents and in 46 countries - including 20 in ...",
+      "published_at": "2026-06-29T20:16:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SoK05VMIATA/hqdefault.jpg"
+    },
     {
       "title": "School of Football | Making Of | Boston Dynamics x Hyundai",
       "video_id": "qYy-BwBpxBI",
@@ -75,14 +83,6 @@
       "description": "Everyone asks if Atlas can bring them a drink, but this robot can bring you the whole fridge. Using AI-driven behaviors, Atlas is ...",
       "published_at": "2026-05-18T12:00:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3aQWvdCac9o/hqdefault.jpg"
-    },
-    {
-      "title": "How does Atlas learn? | Inside the Lab | Boston Dynamics",
-      "video_id": "xKK5ze3FukQ",
-      "channel_title": "Boston Dynamics",
-      "description": "Just months after its debut, Atlas is proving why it is the world's most capable and dynamic humanoid robot, ready for real work.",
-      "published_at": "2026-05-18T12:01:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xKK5ze3FukQ/hqdefault.jpg"
     }
   ]
 }

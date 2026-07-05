@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-06-28T01:04:14.594052",
+  "fetched_at": "2026-07-05T00:52:21.661478",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Starlink by the Numbers 📈🛰️",
+      "video_id": "J6Vk8t0CoIc",
+      "channel_title": "Star Walk",
+      "description": "Since its first launch in 2019, Starlink has grown into the largest satellite constellation ever built — with 10000+ satellites now ...",
+      "published_at": "2026-07-03T07:16:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J6Vk8t0CoIc/hqdefault.jpg"
+    },
+    {
+      "title": "The June Full Moon is coming 🌕🍓",
+      "video_id": "6eynfOO6fWs",
+      "channel_title": "Star Walk",
+      "description": "On June 29, the Strawberry Moon will light up the sky. It reaches peak illumination at 23:57 GMT / 19:57 EDT. This Full Moon gets ...",
+      "published_at": "2026-06-29T06:36:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6eynfOO6fWs/hqdefault.jpg"
+    },
     {
       "title": "Center of the Milky Way",
       "video_id": "Dd3ZW6gv0uo",
@@ -67,22 +83,6 @@
       "description": "Around June 7-9, Venus and Jupiter appear very close in the evening sky.",
       "published_at": "2026-06-08T09:00:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/c4KB-V1zWAI/hqdefault.jpg"
-    },
-    {
-      "title": "June 2026 is a SKY SPECTACLE month! 🌟",
-      "video_id": "zYMKAfxIs80",
-      "channel_title": "Star Walk",
-      "description": "This June has it all: conjunctions, a parade, meteors, a solstice, and a Strawberry Moon. Don't just glance up – look up and enjoy ...",
-      "published_at": "2026-06-05T11:11:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zYMKAfxIs80/hqdefault.jpg"
-    },
-    {
-      "title": "Weekend plan: stars, planets, deep-sky objects 🔭✨",
-      "video_id": "7XUWQ7y4lww",
-      "channel_title": "Star Walk",
-      "description": "Actual result: one giant cloud blanket ☁️ Drop a 🌧️ if the weather has ruined your stargazing plans lately.",
-      "published_at": "2026-05-29T12:31:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7XUWQ7y4lww/hqdefault.jpg"
     }
   ]
 }

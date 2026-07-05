@@ -1,56 +1,32 @@
 {
-  "fetched_at": "2026-06-28T01:03:53.335045",
+  "fetched_at": "2026-07-05T00:51:59.359800",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "Builders Unscripted: Ep. 4 - Pietro Schirano",
-      "video_id": "SPC_yCe1cUw",
+      "title": "Codex for Solutions Engineers: Making AI Tangible for Customers",
+      "video_id": "08hgAtg-P_8",
       "channel_title": "OpenAI",
-      "description": "Pietro Schirano, Founder & CEO of MagicPath sits down with Romain Huet to talk about pushing the creative edges of GPT-5.5 ...",
-      "published_at": "2026-06-26T19:40:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SPC_yCe1cUw/hqdefault.jpg"
+      "description": "\"As a solutions engineer, my job is to make customers believe our technology can take them where they want to go. Codex helps ...",
+      "published_at": "2026-07-01T18:31:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/08hgAtg-P_8/hqdefault.jpg"
     },
     {
-      "title": "Verso, l&#39;entreprise qui ne dort jamais",
-      "video_id": "mFwWax5pLTs",
+      "title": "Setup with ChatGPT",
+      "video_id": "IUGEvzfvUWU",
       "channel_title": "OpenAI",
-      "description": "Découvrez comment Verso développe une entreprise véritablement AI-native. Lors de cette session enregistrée lors de ...",
-      "published_at": "2026-06-26T11:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mFwWax5pLTs/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-07-01T14:30:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IUGEvzfvUWU/hqdefault.jpg"
     },
     {
-      "title": "What if plants could talk?",
-      "video_id": "q_diWy3xdrw",
+      "title": "Advent Accelerates Deals with ChatGPT + Codex",
+      "video_id": "f-HiB82Tl94",
       "channel_title": "OpenAI",
-      "description": "Now our plants won't shut up. Give your plants a voice: https://github.com/openai/planttalk.",
-      "published_at": "2026-06-25T17:19:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q_diWy3xdrw/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT Futures, Class of 2026: The Next Generation of AI Leaders",
-      "video_id": "mVpCDzoNtxA",
-      "channel_title": "OpenAI",
-      "description": "We asked the ChatGPT Futures Class of 2026 what they hope AI helps people do next. Their answers came back to access, ...",
-      "published_at": "2026-06-23T18:45:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mVpCDzoNtxA/hqdefault.jpg"
-    },
-    {
-      "title": "How Omio is building the future of conversational travel",
-      "video_id": "qU5-komJ-GE",
-      "channel_title": "OpenAI",
-      "description": "What happens when one of the world's leading travel platforms combines real-time transportation data with AI? In this customer ...",
-      "published_at": "2026-06-23T11:30:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qU5-komJ-GE/hqdefault.jpg"
-    },
-    {
-      "title": "Meet the ChatGPT Futures, Class of 2026",
-      "video_id": "GhCP2eDrKHk",
-      "channel_title": "OpenAI",
-      "description": "The next generation is already building the future with AI. The ChatGPT Futures Class of 2026 came together in San Francisco to ...",
-      "published_at": "2026-06-22T21:06:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GhCP2eDrKHk/hqdefault.jpg"
+      "description": "ChatGPT + Codex are a one-two punch for investment firms. \"Having the ability to connect your deal folder with all of the context, ...",
+      "published_at": "2026-06-29T14:30:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f-HiB82Tl94/hqdefault.jpg"
     },
     {
       "title": "How Zendesk CEO Tom Eggemeier goes from Idea to Action",
@@ -61,28 +37,52 @@
       "thumbnail_url": "https://i.ytimg.com/vi/27-GjDIWGo0/hqdefault.jpg"
     },
     {
-      "title": "Plan with ChatGPT",
-      "video_id": "YPNOjXTDP9c",
+      "title": "How Wayfair Uses GPT-5.5 to Power Catalog Enrichment Across 40M Products",
+      "video_id": "TDM2Dz_MuPk",
       "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2026-06-19T21:22:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YPNOjXTDP9c/hqdefault.jpg"
+      "description": "Fiona Tan and her @wayfair team are leveraging GPT-5.5 and our API to power their catalog enrichment program across 40M ...",
+      "published_at": "2026-06-15T18:02:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TDM2Dz_MuPk/hqdefault.jpg"
     },
     {
-      "title": "Score with ChatGPT",
-      "video_id": "5sDfhQq_g8A",
+      "title": "How Abridge uses GPT-5.5 for clinical decision support",
+      "video_id": "tXBRYPpIvms",
       "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2026-06-19T21:20:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5sDfhQq_g8A/hqdefault.jpg"
+      "description": "At the point of care, more context usually means more complexity. Chaitanya Asawa from Abridge shares how GPT-5.5 helps ...",
+      "published_at": "2026-05-28T18:11:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tXBRYPpIvms/hqdefault.jpg"
     },
     {
-      "title": "Improving health intelligence in ChatGPT",
-      "video_id": "UxY8zJKRrHU",
+      "title": "Introducing the Codex app",
+      "video_id": "HFM3se4lNiw",
       "channel_title": "OpenAI",
-      "description": "Health is one of the most meaningful ways people use ChatGPT. Every week, more than 230 million people turn to ChatGPT for ...",
-      "published_at": "2026-06-18T19:10:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UxY8zJKRrHU/hqdefault.jpg"
+      "description": "The Codex app is a powerful command center for building with agents. • Multitask effortlessly: Work with multiple agents in parallel ...",
+      "published_at": "2026-02-02T22:16:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HFM3se4lNiw/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI Town Hall with Sam Altman",
+      "video_id": "Wpxv-8nG8ec",
+      "channel_title": "OpenAI",
+      "description": "Sam Altman answers questions and discusses the future of AI with builders from across the AI ecosystem. 00:00 Introduction ...",
+      "published_at": "2026-01-27T01:06:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wpxv-8nG8ec/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing GPT-5",
+      "video_id": "0Uu_VJeVVfo",
+      "channel_title": "OpenAI",
+      "description": "Sam Altman, Greg Brockman, Sebastien Bubeck, Mark Chen, Yann Dubois, Brian Fioca, Adi Ganesh, Oliver Godement, Saachi ...",
+      "published_at": "2025-08-07T18:36:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0Uu_VJeVVfo/hqdefault.jpg"
+    },
+    {
+      "title": "My dog, the maths tutor",
+      "video_id": "zhqVZF6fDoM",
+      "channel_title": "OpenAI",
+      "description": "ChatGPT and personal tutoring.",
+      "published_at": "2025-02-05T03:38:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zhqVZF6fDoM/hqdefault.jpg"
     }
   ]
 }
