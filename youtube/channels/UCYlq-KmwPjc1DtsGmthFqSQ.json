@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-05T00:52:00.825124",
+  "fetched_at": "2026-07-12T03:15:30.673952",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "Figure 4 years",
+      "video_id": "_WGNMkmvEls",
+      "channel_title": "Figure",
+      "description": "4 years at Figure.",
+      "published_at": "2026-07-09T15:41:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_WGNMkmvEls/hqdefault.jpg"
+    },
     {
       "title": "F.03 at BMW",
       "video_id": "tv90GFM9RAo",
@@ -75,14 +83,6 @@
       "description": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT.",
       "published_at": "2026-05-22T01:09:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bvRZK3H3wa8/hqdefault.jpg"
-    },
-    {
-      "title": "F.03 Livestream: Day 7 (Hour 156-168)",
-      "video_id": "Z3WMSZCf43o",
-      "channel_title": "Figure",
-      "description": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT.",
-      "published_at": "2026-05-22T01:09:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z3WMSZCf43o/hqdefault.jpg"
     }
   ]
 }

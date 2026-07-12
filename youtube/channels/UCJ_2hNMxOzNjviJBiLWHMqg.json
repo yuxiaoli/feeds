@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-07-05T00:51:40.746396",
+  "fetched_at": "2026-07-12T03:15:12.280039",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Minas Tirith&#39;s Hidden City of the Dead",
+      "video_id": "eKdUp8ra-_M",
+      "channel_title": "DamiLee",
+      "description": "The hidden city inside Minas Tirith that most people never notice — a narrow corridor wedged against the mountain, no light, ...",
+      "published_at": "2026-07-09T15:30:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eKdUp8ra-_M/hqdefault.jpg"
+    },
+    {
+      "title": "We Cut Atlantis in Half — Here&#39;s the Problem.",
+      "video_id": "ndtHxw6qgc4",
+      "channel_title": "DamiLee",
+      "description": "Ready to build a site that looks hand-coded—without hiring a developer? Launch your site for free at Framer and use the code ...",
+      "published_at": "2026-07-08T15:30:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ndtHxw6qgc4/hqdefault.jpg"
+    },
+    {
+      "title": "Why England Couldn&#39;t Conquer This Island for 30 Years",
+      "video_id": "4VurQqCf5e4",
+      "channel_title": "DamiLee",
+      "description": "A real city survived 30 years of sieges, not with walls or armies, but because the ocean itself swallowed the only road in.",
+      "published_at": "2026-07-06T16:30:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4VurQqCf5e4/hqdefault.jpg"
+    },
     {
       "title": "What the Colosseum&#39;s Columns Were Really Telling You",
       "video_id": "xNSvEy1ICaI",
@@ -59,30 +83,6 @@
       "description": "Tokyo didn't build *one* downtown. It built dozens. The Yamanote Line isn't just a train loop — it's the skeleton of an entirely ...",
       "published_at": "2026-05-25T15:30:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mpE2So1aJcA/hqdefault.jpg"
-    },
-    {
-      "title": "The Lost City of Atlantis has a Strange Secret",
-      "video_id": "YFk9U6UBQOE",
-      "channel_title": "DamiLee",
-      "description": "Ready to build a site that looks hand-coded—without hiring a developer? Launch your site for free at Framer and use the code ...",
-      "published_at": "2026-05-21T15:30:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YFk9U6UBQOE/hqdefault.jpg"
-    },
-    {
-      "title": "The real village that became The Shire (and was then destroyed)",
-      "video_id": "dwJLsevzkP8",
-      "channel_title": "DamiLee",
-      "description": "The Shire was shaped by Tolkien's childhood village of Sarehole, a green place later consumed by industry and steel. That loss ...",
-      "published_at": "2026-05-18T07:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dwJLsevzkP8/hqdefault.jpg"
-    },
-    {
-      "title": "Could a planet-wide city actually be livable?",
-      "video_id": "GMpSRzUEeUs",
-      "channel_title": "DamiLee",
-      "description": "In the 1960s, rapid population growth pushed architects to imagine cities on an unprecedented scale. One radical idea was ...",
-      "published_at": "2026-05-12T15:30:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GMpSRzUEeUs/hqdefault.jpg"
     }
   ]
 }

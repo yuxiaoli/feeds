@@ -1,16 +1,64 @@
 {
-  "fetched_at": "2026-07-05T00:51:28.051507",
+  "fetched_at": "2026-07-12T03:15:00.490201",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 8,
+  "count": 9,
   "videos": [
     {
-      "title": "Catching complex bugs with GitHub Copilot medium depth code review",
-      "video_id": "LGQOu08rR_o",
+      "title": "GitHub Copilot app is now available on free plans",
+      "video_id": "39COZk07Ks4",
       "channel_title": "GitHub",
-      "description": "GitHub Copilot code review now offers medium depth reviews in public preview. This update routes your pull requests to a higher ...",
-      "published_at": "2026-07-03T17:15:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LGQOu08rR_o/hqdefault.jpg"
+      "description": "The GitHub Copilot app is officially available across every plan, now including Copilot Free and GitHub Education. Built for ...",
+      "published_at": "2026-07-11T15:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/39COZk07Ks4/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday: Building the Contributor Pipeline at Pollinations.ai",
+      "video_id": "apxwKja5JWE",
+      "channel_title": "GitHub",
+      "description": "What does open source maintenance actually look like once a project starts to scale? In this Open Source Friday stream, ...",
+      "published_at": "2026-07-11T06:22:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/apxwKja5JWE/hqdefault.jpg"
+    },
+    {
+      "title": "The Download: GitHub Copilot app, GitHub Universe, new HTTP query method &amp; more",
+      "video_id": "ZOqn2ZfoRQk",
+      "channel_title": "GitHub",
+      "description": "Welcome to another episode of The Download! This week, we cover the general availability of the GitHub Copilot app, which now ...",
+      "published_at": "2026-07-10T15:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZOqn2ZfoRQk/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursdays!",
+      "video_id": "jhlVqLBQXUs",
+      "channel_title": "GitHub",
+      "description": "Let's talk about the latest GitHub updates and cowork together!",
+      "published_at": "2026-07-10T07:04:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jhlVqLBQXUs/hqdefault.jpg"
+    },
+    {
+      "title": "Bring Your Own Key to the GitHub Copilot app, now available for all Copilot plans",
+      "video_id": "r1Sy8ij_xWQ",
+      "channel_title": "GitHub",
+      "description": "The GitHub Copilot app now supports bring your own key (BYOK), allowing you to connect custom model providers directly to your ...",
+      "published_at": "2026-07-09T15:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r1Sy8ij_xWQ/hqdefault.jpg"
+    },
+    {
+      "title": "How to manage Copilot spend across your enterprise",
+      "video_id": "AzuGe_cuCvg",
+      "channel_title": "GitHub",
+      "description": "Managing GitHub Copilot across a large enterprise requires flexible budgeting that aligns with your organizational structure.",
+      "published_at": "2026-07-08T20:26:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AzuGe_cuCvg/hqdefault.jpg"
+    },
+    {
+      "title": "Kimi K2.7 Code: The first open-weight model in GitHub Copilot",
+      "video_id": "uY6tE2SuOP0",
+      "channel_title": "GitHub",
+      "description": "GitHub Copilot just added Kimi K2.7 Code by Moonshot AI to the model lineup. As our very first open-weight model in the Copilot ...",
+      "published_at": "2026-07-07T18:48:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uY6tE2SuOP0/hqdefault.jpg"
     },
     {
       "title": "Rubber Duck Thursday with OpenClaw&#39;s Brad Groux  and @acolombiadev 🦞",
@@ -21,52 +69,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QM1XgyV672s/hqdefault_live.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays! Let&#39;s play with canvases in the GitHub Copilot app!",
-      "video_id": "cCFKtW5UiTo",
-      "channel_title": "GitHub",
-      "description": "We're going to talk through the GitHub Changelog, what's new, and experiment with some new tools.",
-      "published_at": "2026-07-03T06:58:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cCFKtW5UiTo/hqdefault.jpg"
-    },
-    {
-      "title": "Jueves de Quack con Bruno Capuano",
-      "video_id": "cKiX5fY3yqE",
-      "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2026-07-03T03:10:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cKiX5fY3yqE/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursday - What&#39;s New!",
-      "video_id": "wsE3GtIYqu4",
-      "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2026-07-03T00:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wsE3GtIYqu4/hqdefault.jpg"
-    },
-    {
-      "title": "How to use the new impeccable skill in the GitHub Copilot app",
-      "video_id": "CRSV0euIn7M",
-      "channel_title": "GitHub",
-      "description": "The GitHub Copilot app now features a built-in impeccable skill to help you polish your projects. In this video, we use it as a ...",
-      "published_at": "2026-06-29T15:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CRSV0euIn7M/hqdefault.jpg"
-    },
-    {
       "title": "Let&#39;s Learn GitHub Copilot App",
       "video_id": "SsFU0w3KrI4",
       "channel_title": "GitHub",
       "description": "Join this beginner-friendly virtual series to get started with the GitHub Copilot app, your all-in-one control center for managing ...",
       "published_at": "2026-06-23T01:12:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SsFU0w3KrI4/hqdefault_live.jpg"
-    },
-    {
-      "title": "Open Source Friday: Building the Contributor Pipeline at Pollinations.ai",
-      "video_id": "apxwKja5JWE",
-      "channel_title": "GitHub",
-      "description": "What does open source maintenance actually look like once a project starts to scale? In this Open Source Friday stream, ...",
-      "published_at": "2026-05-29T14:30:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/apxwKja5JWE/hqdefault_live.jpg"
     }
   ]
 }

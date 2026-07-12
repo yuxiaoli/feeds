@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-07-05T00:51:28.836130",
+  "fetched_at": "2026-07-12T03:15:01.157566",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Viking Row | Atlas | Boston Dynamics",
+      "video_id": "tw0uJ1T5bzE",
+      "channel_title": "Boston Dynamics",
+      "description": "World Cup fever continues!",
+      "published_at": "2026-07-10T16:57:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tw0uJ1T5bzE/hqdefault.jpg"
+    },
+    {
+      "title": "Spot at Coca-Cola Europacific Partners | Boston Dynamics",
+      "video_id": "em5RQCq5zyc",
+      "channel_title": "Boston Dynamics",
+      "description": "Spot has arrived at Coca-Cola Europacific Partners (CCEP) in East Kilbride, Scotland! Avoiding downtime is paramount for ...",
+      "published_at": "2026-07-08T13:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/em5RQCq5zyc/hqdefault.jpg"
+    },
+    {
+      "title": "Atlas at the FIFA World Cup 2026™",
+      "video_id": "ezPLXk78Cfk",
+      "channel_title": "Boston Dynamics",
+      "description": "Atlas arrived pitchside at NYNJ Stadium in front of 80000 people gathered to see Brazil vs Norway. After performing some of the ...",
+      "published_at": "2026-07-07T11:59:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ezPLXk78Cfk/hqdefault.jpg"
+    },
     {
       "title": "Celebrating Soccer | Boston Dynamics",
       "video_id": "SoK05VMIATA",
@@ -59,30 +83,6 @@
       "description": "Atlas learns to kick the ball. And even a simple kick involves coordination, balance, precision, and power. Next Starts Now ...",
       "published_at": "2026-05-27T13:00:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/kc-9GQB8EXQ/hqdefault.jpg"
-    },
-    {
-      "title": "School of Football | The Basics | Boston Dynamics x Hyundai",
-      "video_id": "ITCklufC25Y",
-      "channel_title": "Boston Dynamics",
-      "description": "Atlas takes its first steps into the world of football From basic drills to celebrations - every step is a beginning Next Starts Now ...",
-      "published_at": "2026-05-26T13:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ITCklufC25Y/hqdefault.jpg"
-    },
-    {
-      "title": "School of Football | Can football teach a robot to move? | Boston Dynamics x Hyundai",
-      "video_id": "qaqzZK7ZrZk",
-      "channel_title": "Boston Dynamics",
-      "description": "In School of Football, Atlas meets the world's most beloved sport. With the FIFA World Cup 2026 ahead, can football teach a robot ...",
-      "published_at": "2026-05-25T13:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qaqzZK7ZrZk/hqdefault.jpg"
-    },
-    {
-      "title": "Atlas, can you bring me a drink? | Boston Dynamics",
-      "video_id": "3aQWvdCac9o",
-      "channel_title": "Boston Dynamics",
-      "description": "Everyone asks if Atlas can bring them a drink, but this robot can bring you the whole fridge. Using AI-driven behaviors, Atlas is ...",
-      "published_at": "2026-05-18T12:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3aQWvdCac9o/hqdefault.jpg"
     }
   ]
 }

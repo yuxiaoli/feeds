@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-05T00:51:33.389504",
+  "fetched_at": "2026-07-12T03:15:05.323022",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Animate your Live Stickers. Tip from Claudia at the Apple Store.",
+      "video_id": "qN2yR8ZpEMk",
+      "channel_title": "Apple",
+      "description": "iPhone #iPhoneTips #LiveStickers.",
+      "published_at": "2026-07-07T16:02:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qN2yR8ZpEMk/hqdefault.jpg"
+    },
     {
       "title": "Help protect your hearing with AirPods Pro. Tip from Indiana at the Apple Store.",
       "video_id": "Zd-IzRXoNhk",
@@ -75,14 +83,6 @@
       "description": "Watch the WWDC26 keynote introducing Siri AI powered by Apple Intelligence — our most personal Siri update ever. You'll also ...",
       "published_at": "2026-06-08T18:23:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hF8swzNR1-o/hqdefault.jpg"
-    },
-    {
-      "title": "Privacy on iPhone: Safari helps block data trackers",
-      "video_id": "Spb-ka7xrR8",
-      "channel_title": "Apple",
-      "description": "Safari helps keep data trackers off your back with state-of-the-art features that defend you against cross-site tracking, hide your IP ...",
-      "published_at": "2026-06-04T00:08:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Spb-ka7xrR8/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-05T00:52:03.009708",
+  "fetched_at": "2026-07-12T03:15:32.669689",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "ماذا تعرف عن آلام الظهر",
+      "video_id": "Ox_i0wqWnsM",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-07-09T12:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ox_i0wqWnsM/hqdefault.jpg"
+    },
+    {
+      "title": "توافق عضلي عصبي",
+      "video_id": "ht1-pjMdY44",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-07-07T11:50:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ht1-pjMdY44/hqdefault.jpg"
+    },
     {
       "title": "طريقة استعمال حبل المقاومة لزيادة الثبات في الفرونت ليفر",
       "video_id": "ls3xu8cIu6Y",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-05-30T09:58:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/pmSkS6bMPLY/hqdefault.jpg"
-    },
-    {
-      "title": "تحكم كامل بالجسم",
-      "video_id": "cGNckLZYKsY",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-05-29T11:34:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cGNckLZYKsY/hqdefault.jpg"
-    },
-    {
-      "title": "معنى القوة الانفجارية",
-      "video_id": "Ivm64k2fiTs",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-05-25T12:19:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ivm64k2fiTs/hqdefault.jpg"
     }
   ]
 }

@@ -1,48 +1,48 @@
 {
-  "fetched_at": "2026-07-05T00:51:45.100909",
+  "fetched_at": "2026-07-12T03:15:16.236578",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "GPT-5.6 Sol, FIFA AI &amp; Wall Street’s AI nerves",
-      "video_id": "tV5zXS78HzU",
+      "title": "Reddit cracks down on AI slop &amp; the future of AI compute",
+      "video_id": "WHFLWrnFc1E",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~WCwz6FqZD Are the new safety guardrails on ...",
-      "published_at": "2026-07-03T10:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tV5zXS78HzU/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~mTLxSXeSX Can you trade GPU compute like oil ...",
+      "published_at": "2026-07-10T14:52:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WHFLWrnFc1E/hqdefault.jpg"
     },
     {
-      "title": "What Is an API? Types, Uses, &amp; AI Integration",
-      "video_id": "Qw8qVSZEWBc",
+      "title": "Agentic AI Frameworks Explained: Workflows, Multi-Agent, &amp; Production",
+      "video_id": "ZVPlLaehjLk",
       "channel_title": "IBM Technology",
-      "description": "Learn more about APIs here → https://ibm.biz/~ALwlgUzvT APIs are powering more of your world than you realize. Amanda ...",
-      "published_at": "2026-07-02T11:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Qw8qVSZEWBc/hqdefault.jpg"
+      "description": "Learn more about AI Agent Frameworks here → https://ibm.biz/~M1qnwGHnE Too many agentic AI frameworks and no clear ...",
+      "published_at": "2026-07-09T11:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZVPlLaehjLk/hqdefault.jpg"
     },
     {
-      "title": "The new post-quantum cryptography executive order. Plus: What is Q-Day, really?",
-      "video_id": "RYUR9BdDgyI",
+      "title": "Fable 5, GPT-5.6 and the high stakes of AI safeguards. Agentic ransomware, ClickFix reigns supreme",
+      "video_id": "HQDT_1OXUuU",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Q-Day → https://ibm.biz/~Ki7XKK3qT On June 22, US President Donald Trump signed a pair of executive ...",
-      "published_at": "2026-07-01T10:30:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RYUR9BdDgyI/hqdefault.jpg"
+      "description": "Explore the podcast → https://ibm.biz/~gP3tYd3Ta When it comes to Fable 5, Mythos 5, and GPT-5.6 Sol, the real story is in the ...",
+      "published_at": "2026-07-08T10:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HQDT_1OXUuU/hqdefault.jpg"
     },
     {
-      "title": "How KV Cache Speeds Up LLMs for Faster AI Models on GPUs",
-      "video_id": "o0gkdZBtwEg",
+      "title": "MCP vs Skills: Which Is Right for Your AI Agent and LLMs?",
+      "video_id": "goU9VIXA8II",
       "channel_title": "IBM Technology",
-      "description": "Learn more about LLM inference here → https://ibm.biz/~Ewjm0UejN Why do LLMs crawl when traffic spikes? Legare Kerrison ...",
-      "published_at": "2026-06-30T11:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o0gkdZBtwEg/hqdefault.jpg"
+      "description": "Learn more about AI Agents here → https://ibm.biz/~TjxCNJCU3 Choosing how to extend an AI agent isn't always obvious. Cedric ...",
+      "published_at": "2026-07-07T11:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/goU9VIXA8II/hqdefault.jpg"
     },
     {
-      "title": "What Is AI Code Review? Fixing Slow PRs &amp; Broken Workflows with AI",
-      "video_id": "0-YCleDw-Po",
+      "title": "What Is AI Code Refactoring? Agentic AI &amp; Safe Code Changes",
+      "video_id": "f84XbvASkk4",
       "channel_title": "IBM Technology",
-      "description": "Learn more about AI Code Review here → https://ibm.biz/~k5pZG4Et6 Code reviews are slow, but they don't have to be.",
-      "published_at": "2026-06-29T11:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0-YCleDw-Po/hqdefault.jpg"
+      "description": "Learn more about AI Code Refactoring here → https://ibm.biz/~QvKeWQY26 AI can rewrite code, but can you trust it? Martin Keen ...",
+      "published_at": "2026-07-06T11:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f84XbvASkk4/hqdefault.jpg"
     },
     {
       "title": "RSA recap, the LiteLLM breach, and the quest to fix AI agent security",

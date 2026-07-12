@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-05T00:51:57.861580",
+  "fetched_at": "2026-07-12T03:15:27.972136",
   "channel_id": "UCWhwybsQg-EeBJpsqtmbscw",
   "channel_title": "JomaClass",
   "count": 10,
@@ -19,6 +19,14 @@
       "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
       "published_at": "2026-01-24T16:00:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/L3WcBz95GDY/hqdefault.jpg"
+    },
+    {
+      "title": "Two Sum (Leetcode 1) | LeetCode Tutorial",
+      "video_id": "JhKd7ajrZY4",
+      "channel_title": "JomaClass",
+      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
+      "published_at": "2026-01-23T16:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JhKd7ajrZY4/hqdefault.jpg"
     },
     {
       "title": "Top K Frequent Elements (Leetcode 347) | LeetCode Tutorial",
@@ -75,14 +83,6 @@
       "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
       "published_at": "2026-01-16T16:01:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ss26r3LCvos/hqdefault.jpg"
-    },
-    {
-      "title": "Running Median (Leetcode 295) | LeetCode Tutorial",
-      "video_id": "k88MglDECRg",
-      "channel_title": "JomaClass",
-      "description": "All JomaClass videos from 2020 are now free to watch. If you enjoy please consider donating here: https://support.joma.io/ This ...",
-      "published_at": "2026-01-14T16:01:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k88MglDECRg/hqdefault.jpg"
     }
   ]
 }

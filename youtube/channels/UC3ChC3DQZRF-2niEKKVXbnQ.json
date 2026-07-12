@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-05T00:51:23.490548",
+  "fetched_at": "2026-07-12T03:14:56.359059",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "1B就能达到这种效果?LingBot-Vision实测!",
+      "video_id": "D0fN76uAro8",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来蚂蚁灵波LingBot-Vision 实测! 本次测试最大的亮点是在仅1B (10亿) 参数量下, 展现出了极强的空间几何和边界感知能力, ...",
+      "published_at": "2026-07-09T01:53:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D0fN76uAro8/hqdefault.jpg"
+    },
+    {
+      "title": "混元3实测! 300B参数竟然有这种Agent能力!",
+      "video_id": "Xitmz1TyJtM",
+      "channel_title": "Karminski-牙医",
+      "description": "混元3正式版已经发布! 给大家带来实测! 本次测试最大的亮点是在300B参数量下获得了超高的Agent能力, 极具性价比, 可以用作龙虾 ...",
+      "published_at": "2026-07-09T01:25:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xitmz1TyJtM/hqdefault.jpg"
+    },
     {
       "title": "Flash模型横评! 性价比之选竟然是这个?",
       "video_id": "r9pTOWMr4DY",
@@ -67,22 +83,6 @@
       "description": "给大家带来Claude-Opus-4.7 的视觉能力+前端+后端能力测试! 本次测试多模态前端测试采用pass@3 (相同prompt运行3次取最好 ...",
       "published_at": "2026-04-19T09:42:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/g6hZ5en0JDc/hqdefault.jpg"
-    },
-    {
-      "title": "AI能帮我拍照了? Qwen3.5-Omni实测!",
-      "video_id": "LlOhnGiqsvs",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来Qwen3.5-Omni-Plus 全模态大模型实测! 这个模型同时支持文本, 音频, 图片, 视频输入, 并且支持文本和语音输出. 非常适合 ...",
-      "published_at": "2026-04-10T07:42:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LlOhnGiqsvs/hqdefault.jpg"
-    },
-    {
-      "title": "从国产SOTA走向世界SOTA? GLM-5.1 实测!",
-      "video_id": "kwcHb2WmzuM",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来GLM-5.1 编程能力实测! 本次测试涵盖了前端, 后端, Agent 能力, 前端主要面向空间建模, 场景, 材质, 粒子效果等, 后端能力 ...",
-      "published_at": "2026-03-30T14:05:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kwcHb2WmzuM/hqdefault.jpg"
     }
   ]
 }

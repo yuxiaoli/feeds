@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-05T00:52:20.916450",
+  "fetched_at": "2026-07-12T03:15:49.466932",
   "channel_id": "UCy7T8DVITdnblEm68Vv3_ig",
   "channel_title": "UNlimited",
   "count": 10,
   "videos": [
+    {
+      "title": "🇬🇷 Paros: A Slice of Paradise in Greece",
+      "video_id": "RUvdQAYU9Cc",
+      "channel_title": "UNlimited",
+      "description": "Discover the beauty of Paros, one of Greece's most charming Cycladic islands. From crystal-clear waters and golden beaches to ...",
+      "published_at": "2026-07-10T03:30:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RUvdQAYU9Cc/hqdefault.jpg"
+    },
+    {
+      "title": "🇬🇷 Greece&#39;s Dream Destinations",
+      "video_id": "BHxiVC1jBUA",
+      "channel_title": "UNlimited",
+      "description": "Greece offers a mix of iconic, romantic, and historic dream destinations, with top spots including the caldera views of Santorini, ...",
+      "published_at": "2026-07-09T03:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BHxiVC1jBUA/hqdefault.jpg"
+    },
     {
       "title": "🇮🇹 Italian Song That Everyone Sings",
       "video_id": "qfjL-WALGb0",
@@ -67,22 +83,6 @@
       "description": "Construction of the Sagrada Família in Barcelona began on March 19, 1882, originally designed by Francisco de Paula del Villar ...",
       "published_at": "2026-06-14T05:00:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7_20KQYS-pE/hqdefault.jpg"
-    },
-    {
-      "title": "🇪🇸 Finally Completed After 144 Years",
-      "video_id": "gye9vepxFLI",
-      "channel_title": "UNlimited",
-      "description": "Construction of the Sagrada Família in Barcelona began on March 19, 1882, originally designed by Francisco de Paula del Villar ...",
-      "published_at": "2026-06-14T04:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gye9vepxFLI/hqdefault.jpg"
-    },
-    {
-      "title": "🇲🇦 Journey Through Morocco&#39;s Colors",
-      "video_id": "WvfCJyYVlMg",
-      "channel_title": "UNlimited",
-      "description": "Morocco is a living masterpiece where landscapes and cultures shift through a vivid, mesmerizing palette. From the azure-washed ...",
-      "published_at": "2026-06-12T02:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WvfCJyYVlMg/hqdefault.jpg"
     }
   ]
 }

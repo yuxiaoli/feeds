@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-05T00:51:42.919697",
+  "fetched_at": "2026-07-12T03:15:14.255161",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
@@ -9,8 +9,24 @@
       "video_id": "WWcfRaVukZw",
       "channel_title": "Warp",
       "description": "Download Warp: https://warp.dev Clone the example repository to follow along: ...",
-      "published_at": "2026-06-26T22:12:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WWcfRaVukZw/hqdefault_live.jpg"
+      "published_at": "2026-07-10T07:11:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WWcfRaVukZw/hqdefault.jpg"
+    },
+    {
+      "title": "What is a software factory? Peter Steinberger explains",
+      "video_id": "MaPFUvIdcVs",
+      "channel_title": "Warp",
+      "description": "Watch the full recording: https://www.warp.dev/events/ai-engineer-after-hours-crafting-software-factories-warp-sequoia.",
+      "published_at": "2026-07-09T14:58:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MaPFUvIdcVs/hqdefault.jpg"
+    },
+    {
+      "title": "OpenClaw creator blew his token budget on an airfryer",
+      "video_id": "GtiTx3_rvSw",
+      "channel_title": "Warp",
+      "description": "Interview with Peter Steinberger (OpenClaw), Paige Bailey (Google DeepMind), and Zach Lloyd (CEO of Warp). Watch the full ...",
+      "published_at": "2026-07-07T14:59:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GtiTx3_rvSw/hqdefault.jpg"
     },
     {
       "title": "Intro to Warp - essentials, Claude Code setup, and cloud orchestration",
@@ -67,22 +83,6 @@
       "description": "Download Warp to start your first agent: https://warp.dev Learn more about Warp's cloud infrastructure platform, Oz: https://oz.dev.",
       "published_at": "2026-05-21T14:00:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9qpGYZ58Wck/hqdefault.jpg"
-    },
-    {
-      "title": "How Warp Works - a deep dive into Warp&#39;s source code",
-      "video_id": "DSySVmnRcis",
-      "channel_title": "Warp",
-      "description": "Warp is now open source. Curious how to contribute? Come join us for a live \"office hours\" session! ​​We will build features live ...",
-      "published_at": "2026-05-21T06:40:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DSySVmnRcis/hqdefault.jpg"
-    },
-    {
-      "title": "How to run any agent in the cloud with Oz - Claude Code, Codex, or the Warp Agent",
-      "video_id": "ZUYyuA5i1VU",
-      "channel_title": "Warp",
-      "description": "Learn more about Warp's cloud orchestration platform, Oz: https://oz.dev.",
-      "published_at": "2026-05-20T19:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZUYyuA5i1VU/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-05T00:51:39.217347",
+  "fetched_at": "2026-07-12T03:15:10.887705",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Full Aussie Riots",
+      "video_id": "MWJOMg0bJlk",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "FAP Discord: https://discord.com/invite/TgRnGGUtJ Meet The Crew: MrGrantGregory YouTube: / @mrgrantgregory ...",
+      "published_at": "2026-07-11T14:34:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MWJOMg0bJlk/hqdefault.jpg"
+    },
     {
       "title": "HAPPY FIRST SATURDAY IN JULY STREAM",
       "video_id": "AjOe0o5Xz_4",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-05-30T01:55:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qPa0X7aN5Ho/hqdefault.jpg"
-    },
-    {
-      "title": "29 May 2026",
-      "video_id": "6Y19rpNBJcI",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "",
-      "published_at": "2026-05-30T00:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6Y19rpNBJcI/hqdefault.jpg"
     }
   ]
 }

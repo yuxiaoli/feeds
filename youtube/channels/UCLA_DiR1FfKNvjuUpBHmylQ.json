@@ -1,32 +1,16 @@
 {
-  "fetched_at": "2026-07-05T00:51:46.602957",
+  "fetched_at": "2026-07-12T03:15:17.505877",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 7,
+  "count": 3,
   "videos": [
     {
-      "title": "U.S. Spacewalk 95",
-      "video_id": "D0dd8X4g3Eg",
+      "title": "NASA Astronaut Anil Menon Soyuz MS-29 Launch",
+      "video_id": "SwhPXxNtdoc",
       "channel_title": "NASA",
-      "description": "At approximately 8:35 a.m. EDT (1235 UTC) on June 30, 2026, NASA astronauts Chris Williams and Jessica Meir will venture ...",
-      "published_at": "2026-06-30T20:37:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D0dd8X4g3Eg/hqdefault.jpg"
-    },
-    {
-      "title": "Moon Base: June 2026 Update",
-      "video_id": "aRSBZN2UF0Q",
-      "channel_title": "NASA",
-      "description": "We're building a Moon Base – humanity's first lunar outpost, a place where astronauts will live, work, and explore near the Moon's ...",
-      "published_at": "2026-06-30T20:13:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aRSBZN2UF0Q/hqdefault.jpg"
-    },
-    {
-      "title": "NASA Moon Base Update (June 30, 2026)",
-      "video_id": "jXTBJz5MGbA",
-      "channel_title": "NASA",
-      "description": "Watch a live, virtual conversation with NASA Administrator Jared Isaacman to hear progress on our plans to build a Moon Base on ...",
-      "published_at": "2026-06-30T19:23:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jXTBJz5MGbA/hqdefault.jpg"
+      "description": "Watch NASA astronaut Anil Menon's first mission to space begin as he launches to the International Space Station. He and ...",
+      "published_at": "2026-07-09T14:36:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SwhPXxNtdoc/hqdefault_live.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
@@ -37,28 +21,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/awQzjn72bI0/hqdefault_live.jpg"
     },
     {
-      "title": "Independence Day Wishes from the Space Station",
-      "video_id": "75-H-i9ctkE",
-      "channel_title": "NASA",
-      "description": "Happy 250th to the U.S.A., from 250 miles above Earth! NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams ...",
-      "published_at": "2026-06-26T19:53:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/75-H-i9ctkE/hqdefault.jpg"
-    },
-    {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
       "video_id": "uwXgcTc8oY8",
       "channel_title": "NASA",
       "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
       "published_at": "2026-05-06T14:46:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/uwXgcTc8oY8/hqdefault_live.jpg"
-    },
-    {
-      "title": "Aspira con NASA/Aspire with NASA",
-      "video_id": "bpkEOCEgNtg",
-      "channel_title": "NASA",
-      "description": "In recognition of Hispanic Heritage Month NASA hosted an event at the agency's headquarters in Washington Tuesday, Oct. 4, ...",
-      "published_at": "2016-10-07T14:33:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bpkEOCEgNtg/hqdefault.jpg"
     }
   ]
 }

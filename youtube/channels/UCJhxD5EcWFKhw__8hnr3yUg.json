@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-05T00:51:41.482631",
+  "fetched_at": "2026-07-12T03:15:12.955042",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "我就做个开源怎么成了黑帮成员了？",
+      "video_id": "6Qy-J_CELeI",
+      "channel_title": "码农高天",
+      "description": "谁能想到，第一次被人说黑帮，竟然是在做开源的时候。究竟发生了什么事情，让一位开源贡献者如此愤怒？在开源社区的我们， ...",
+      "published_at": "2026-07-05T04:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6Qy-J_CELeI/hqdefault.jpg"
+    },
     {
       "title": "世界旅行之后的生活，和一点未来的计划",
       "video_id": "EQmBi2aRTEA",
@@ -75,14 +83,6 @@
       "description": "台湾之旅的最后一站，是为期三天的PyCon。因为活动实在太有趣，这三天留下的影像资料也并没有很多，但还是想分享给大家！",
       "published_at": "2026-01-31T04:30:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lMDcxjBRBoM/hqdefault.jpg"
-    },
-    {
-      "title": "Python背后的神秘组织，竟然这么穷！",
-      "video_id": "g4H9M4F0kyk",
-      "channel_title": "码农高天",
-      "description": "Python的发展离不开PSF多年的宣传和推广，今天我也帮忙宣传一下PSF。希望PSF和Python都可以越来越好~ （投币捐款的部分 ...",
-      "published_at": "2026-01-17T09:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g4H9M4F0kyk/hqdefault.jpg"
     }
   ]
 }

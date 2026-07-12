@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-05T00:52:10.483507",
+  "fetched_at": "2026-07-12T03:15:39.761768",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "OPC时代—程序员的营销基础、工具选择、学习建议",
+      "video_id": "Ap6LJlvIaVI",
+      "channel_title": "Find Interesting AI",
+      "description": "SEO: Google Search Console/百度站长平台选题： https://newsnow.busiyi.world/ 写作： ...",
+      "published_at": "2026-07-05T10:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ap6LJlvIaVI/hqdefault.jpg"
+    },
     {
       "title": "AI视频生成入门、工具、选型",
       "video_id": "KkyFmp9B-10",
@@ -75,14 +83,6 @@
       "description": "LTX-2: https://huggingface.co/papers/2601.03233 FinePDF: ...",
       "published_at": "2026-01-17T09:10:41Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9yjQdq-nnJo/hqdefault.jpg"
-    },
-    {
-      "title": "2025程序员AI年终总结",
-      "video_id": "nwQ7oiqD9W0",
-      "channel_title": "Find Interesting AI",
-      "description": "AI替代大裁员时代，程序员如何不失业？",
-      "published_at": "2025-12-27T10:31:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nwQ7oiqD9W0/hqdefault.jpg"
     }
   ]
 }

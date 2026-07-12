@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-07-05T00:51:56.351268",
+  "fetched_at": "2026-07-12T03:15:26.608559",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
     {
-      "title": "Intro to Spreads with Stock Options — Finance Lessons for Quants",
-      "video_id": "veS8qhTDBxA",
+      "title": "Neural Networks with PyTorch (Python Tutorial)",
+      "video_id": "yNX4kDpM5k4",
       "channel_title": "Socratica",
-      "description": "STOCK OPTIONS COURSE: Our first finance course is NOW LIVE! Aspiring quants should use this link to enroll: ...",
-      "published_at": "2025-10-23T11:01:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/veS8qhTDBxA/hqdefault.jpg"
+      "description": "Neural networks are often described as \"inspired by the brain.\" But what does that actually mean, in code? In this video we build a ...",
+      "published_at": "2026-07-08T10:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yNX4kDpM5k4/hqdefault.jpg"
     },
     {
-      "title": "Linear Regression - Key Tool in Data Analysis",
-      "video_id": "t_hVVl5SJyQ",
+      "title": "TensorFlow Tutorial: From Tensors to Training",
+      "video_id": "N2ysiHFywow",
       "channel_title": "Socratica",
-      "description": "Connect with us on PATREON https://www.patreon.com/socratica Linear Regression is one of the most ...",
-      "published_at": "2025-08-19T10:01:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t_hVVl5SJyQ/hqdefault.jpg"
+      "description": "Learn the foundations of TensorFlow in Python, starting with tensors and working up to building and training neural networks with ...",
+      "published_at": "2026-06-11T10:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N2ysiHFywow/hqdefault.jpg"
     },
     {
-      "title": "Straddle, Strangle, Collars... Options Strategies for Aspiring Quants",
-      "video_id": "-GddP-N_klw",
+      "title": "PyTorch Tensors: The Data Structure Behind Deep Learning",
+      "video_id": "lOGd6ysc2j4",
       "channel_title": "Socratica",
-      "description": "STOCK OPTIONS COURSE: Our first finance course is NOW LIVE! Aspiring quants should use this link to enroll: ...",
-      "published_at": "2025-07-24T10:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-GddP-N_klw/hqdefault.jpg"
+      "description": "Tensors are the primary data structure in PyTorch. They are used to store data, perform mathematical operations, move ...",
+      "published_at": "2026-06-03T10:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lOGd6ysc2j4/hqdefault.jpg"
     },
     {
-      "title": "Stock Options explained  📈 Intro for Aspiring Quants",
-      "video_id": "z5UBasCOs94",
+      "title": "Probability Density Functions (PDFs) Explained Clearly | Continuous Random Variables",
+      "video_id": "5iUOa3fz-X4",
       "channel_title": "Socratica",
-      "description": "STOCK OPTIONS COURSE: Our first finance course is NOW LIVE! Aspiring quants should use this link to enroll: ...",
-      "published_at": "2025-06-30T10:01:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z5UBasCOs94/hqdefault.jpg"
+      "description": "Probability Density Functions (PDFs) are essential for working with continuous random variables—but they can feel unintuitive at ...",
+      "published_at": "2026-05-04T10:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5iUOa3fz-X4/hqdefault.jpg"
     },
     {
-      "title": "Frugal Gifting 🎁 Personal Finance",
-      "video_id": "TBySK4mMrYc",
+      "title": "The Language of Probability",
+      "video_id": "SYyXzHSo_I0",
       "channel_title": "Socratica",
-      "description": "SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are embarrassed that they ...",
-      "published_at": "2024-11-25T11:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TBySK4mMrYc/hqdefault.jpg"
+      "description": "SIGN UP for tastefully infrequent updates about our upcoming Probability & Statistics course.",
+      "published_at": "2026-03-25T10:00:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SYyXzHSo_I0/hqdefault.jpg"
     },
     {
-      "title": "STUDENT LOANS help 💰 Personal Finance",
-      "video_id": "-cDiK5qmaAY",
+      "title": "SciPy - A Scientific Extension of NumPy | Python",
+      "video_id": "wuIrxCrXIyc",
       "channel_title": "Socratica",
-      "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
-      "published_at": "2024-09-03T10:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-cDiK5qmaAY/hqdefault.jpg"
+      "description": "SciPy is a collection of specialized modules built on top of NumPy for more advanced scientific computations. We show how SciPy ...",
+      "published_at": "2026-03-19T07:46:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wuIrxCrXIyc/hqdefault.jpg"
     },
     {
-      "title": "CREDIT Cards 💳 Pros &amp; Cons - Personal Finance",
-      "video_id": "eLWIRLRpqRk",
+      "title": "Numpy Arrays - Fast Linear Algebra in Python",
+      "video_id": "u5kq2VpSAgo",
       "channel_title": "Socratica",
-      "description": "NEW series SUBSCRIBE! http://bit.ly/SocraticaSubscribe Socratica Presents SMART MONEY Many people are ...",
-      "published_at": "2024-08-21T07:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eLWIRLRpqRk/hqdefault.jpg"
+      "description": "Join our Patreon: https://www.patreon.com/cw/socratica Sign up for Socratica Courses: ...",
+      "published_at": "2026-03-03T11:01:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u5kq2VpSAgo/hqdefault.jpg"
     },
     {
-      "title": "Cosine Similarity ← Natural Language Processing ← Socratica",
-      "video_id": "uKl8PN1lBMs",
+      "title": "Stock Options Survival Guide - Introduction to Risk",
+      "video_id": "VeCRV8MP7xA",
       "channel_title": "Socratica",
-      "description": "Introducing Socratica COURSES https://www.socratica.com/collections Cosine Similarity is a way to ...",
-      "published_at": "2024-02-29T08:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uKl8PN1lBMs/hqdefault.jpg"
+      "description": "STOCK OPTIONS COURSE: https://www.socratica.com/courses/stock-options Stock options can amplify gains, but ...",
+      "published_at": "2026-02-17T11:00:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VeCRV8MP7xA/hqdefault.jpg"
     },
     {
-      "title": "Browser FINGERPRINTING and Cybersecurity",
-      "video_id": "4DCrR_hXi2g",
+      "title": "tkinter - Building UIs with Python",
+      "video_id": "VmCbkSEyMM0",
       "channel_title": "Socratica",
-      "description": "If you've heard cybersecurity terms but you've been avoiding the topic, this microlearning course will help you get started. We're ...",
-      "published_at": "2023-11-01T10:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4DCrR_hXi2g/hqdefault.jpg"
+      "description": "Join our Patreon: https://www.patreon.com/cw/socratica Sign up for Socratica Courses: ...",
+      "published_at": "2026-02-02T11:01:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VmCbkSEyMM0/hqdefault.jpg"
     },
     {
-      "title": "Cybersecurity &amp; THUMB DRIVES (microlesson)",
-      "video_id": "msXcMFh76vM",
+      "title": "HTTP Requests in Python",
+      "video_id": "hEv50bS1_Og",
       "channel_title": "Socratica",
-      "description": "If you've heard cybersecurity terms but you've been avoiding the topic, this microlearning course will help you get started. We're ...",
-      "published_at": "2023-08-24T10:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/msXcMFh76vM/hqdefault.jpg"
+      "description": "Sign up for Socratica Courses: https://www.socratica.com/collections Socratica ...",
+      "published_at": "2026-01-13T12:01:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hEv50bS1_Og/hqdefault.jpg"
     }
   ]
 }

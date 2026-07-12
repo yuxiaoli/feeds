@@ -1,72 +1,40 @@
 {
-  "fetched_at": "2026-07-05T00:51:25.791648",
+  "fetched_at": "2026-07-12T03:14:58.392626",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 8,
+  "count": 4,
   "videos": [
     {
-      "title": "Build 3 AI Automations From Scratch - Complete Beginner Guide",
-      "video_id": "gFSkmD8vbfg",
+      "title": "Make Claude Code Write Better Python With Pyright",
+      "video_id": "188rCAWkoVo",
       "channel_title": "Tech With Tim",
-      "description": "Build AI automations with Genspark for free: https://bit.ly/3QDrpeo (new registered users can get free credits) Most people use AI ...",
-      "published_at": "2026-07-04T13:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gFSkmD8vbfg/hqdefault.jpg"
+      "description": "Want higher-quality Python out of Claude Code? Install a language server for the language you're using. In my case that's Pyright, ...",
+      "published_at": "2026-07-11T12:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/188rCAWkoVo/hqdefault.jpg"
     },
     {
-      "title": "How to Actually Review AI Code (Don&#39;t Just Trust It)",
-      "video_id": "IMBxVVwQx-U",
+      "title": "Claude Code Plugins Actually Worth Installing",
+      "video_id": "63xSXrrX6e0",
       "channel_title": "Tech With Tim",
-      "description": "How do you actually review AI-generated code instead of blindly trusting it? In this workflow I let AI write a FastAPI endpoint, then ...",
-      "published_at": "2026-07-04T12:42:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IMBxVVwQx-U/hqdefault.jpg"
+      "description": "Everyone tells you to install as many Claude Code plugins and MCP servers as you can. More tools, more power, right?",
+      "published_at": "2026-07-10T12:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/63xSXrrX6e0/hqdefault.jpg"
     },
     {
-      "title": "Make Claude Code Way More Token Efficient",
-      "video_id": "3d5S7i0vYC4",
+      "title": "Your Vibe Coded App Is Leaking",
+      "video_id": "wWOaiI9xM_o",
       "channel_title": "Tech With Tim",
-      "description": "Want to make Claude Code more token-efficient? When you connect a lot of tools, they all load into the context at once and bloat ...",
-      "published_at": "2026-07-04T12:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3d5S7i0vYC4/hqdefault.jpg"
+      "description": "If you're vibe coding, you're probably shipping security holes without noticing, and this skill catches them. VibeSec audits your ...",
+      "published_at": "2026-07-09T12:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wWOaiI9xM_o/hqdefault.jpg"
     },
     {
-      "title": "7 Mistakes to Avoid When Learning AI Engineering in 2026",
-      "video_id": "WgSTct_Zzxw",
+      "title": "I Built an AI App to Analyze My Own Business Data (No Code)",
+      "video_id": "jlZfuNoBBCY",
       "channel_title": "Tech With Tim",
-      "description": "What are the biggest mistakes to avoid when learning AI engineering in 2026? Here are seven: spending too long on theory, ...",
-      "published_at": "2026-07-03T12:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WgSTct_Zzxw/hqdefault.jpg"
-    },
-    {
-      "title": "OpenClaw vs Hermes Agent: Which One Is Actually Better in 2026?",
-      "video_id": "86Dfgazdu-0",
-      "channel_title": "Tech With Tim",
-      "description": "Deploy OpenClaw with one click: https://www.hostg.xyz/SHJh6 Deploy Hermes with one click: https://www.hostg.xyz/SHJh7 Six ...",
-      "published_at": "2026-07-02T13:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/86Dfgazdu-0/hqdefault.jpg"
-    },
-    {
-      "title": "The AI Portfolio Mistake That Kills Your Job Chances 2026",
-      "video_id": "MfYL4RnkJFk",
-      "channel_title": "Tech With Tim",
-      "description": "Why does your AI engineering portfolio make you look like everyone else? If it's full of a chatbot, a RAG demo, and an agent that ...",
-      "published_at": "2026-07-02T12:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MfYL4RnkJFk/hqdefault.jpg"
-    },
-    {
-      "title": "How I Set Up Python for Professional AI Development",
-      "video_id": "PHICGGjN5Pc",
-      "channel_title": "Tech With Tim",
-      "description": "Download PyCharm, free forever with the month of Pro included and a free AI trial: https://jb.gg/tt1 Vibe coding gets you started.",
-      "published_at": "2026-06-30T13:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PHICGGjN5Pc/hqdefault.jpg"
-    },
-    {
-      "title": "I Built The Same App with Every LLM",
-      "video_id": "Amd6DmoV4NY",
-      "channel_title": "Tech With Tim",
-      "description": "Start reviewing your code with CodeRabbit: https://coderabbit.link/techwithtim Six models. One prompt. One Mario Kart game.",
-      "published_at": "2026-06-26T18:42:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Amd6DmoV4NY/hqdefault.jpg"
+      "description": "Get started with @KNIMETV for free: ...",
+      "published_at": "2026-07-06T13:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jlZfuNoBBCY/hqdefault.jpg"
     }
   ]
 }

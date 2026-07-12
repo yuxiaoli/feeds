@@ -1,56 +1,32 @@
 {
-  "fetched_at": "2026-07-05T00:51:42.156604",
+  "fetched_at": "2026-07-12T03:15:13.594860",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 6,
+  "count": 3,
   "videos": [
     {
-      "title": "How we created the Fourth of July Doodle | Behind the Doodle",
-      "video_id": "iDz4GqHQL6Q",
+      "title": "Stay stylish while repping your team with Search 🇫🇷⚽️",
+      "video_id": "qIPjorYya3U",
       "channel_title": "Google",
-      "description": "How much red, white, and blue confetti does it take to make a Fourth of July Google Doodle? Go behind the scenes to see how ...",
-      "published_at": "2026-07-04T16:01:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iDz4GqHQL6Q/hqdefault.jpg"
+      "description": "Search for items that channel your team's colors and tap “Try it on” to see how to pull the perfect look together. #GooglePartner.",
+      "published_at": "2026-07-09T16:35:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qIPjorYya3U/hqdefault.jpg"
     },
     {
-      "title": "How to style your team colors for any event ✨",
-      "video_id": "aeZTTnfo8Ok",
+      "title": "Find your next favorite food with Lens 📸",
+      "video_id": "BXWlJAM4U9Y",
       "channel_title": "Google",
-      "description": "Keep the team energy going 24/7. Search for clothes in your squad's colors and press “Try it on” to see how they look.",
-      "published_at": "2026-07-03T10:57:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aeZTTnfo8Ok/hqdefault.jpg"
+      "description": "Spot some tasty stadium food on your feed or at a match? Use Lens to find out what it is in seconds. #GoogleSearch.",
+      "published_at": "2026-07-08T16:56:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BXWlJAM4U9Y/hqdefault.jpg"
     },
     {
-      "title": "Got pro reflexes? Find out on Search 👐",
-      "video_id": "GmxYBxQedDw",
+      "title": "How to Publish an App in Google AI Studio (Quick &amp; Easy)",
+      "video_id": "mx0xFpVjxHE",
       "channel_title": "Google",
-      "description": "GoogleSearch.",
-      "published_at": "2026-07-02T16:00:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GmxYBxQedDw/hqdefault.jpg"
-    },
-    {
-      "title": "Just how good was Landon Donovan? Let’s Search it.",
-      "video_id": "CXCE4QyvMrU",
-      "channel_title": "Google",
-      "description": "Ever heard of the 50/50 club? Let's use Search to explore the historic career stats that make Landon Donovan one of the greats.",
-      "published_at": "2026-07-01T17:48:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CXCE4QyvMrU/hqdefault.jpg"
-    },
-    {
-      "title": "What is Nano Banana?",
-      "video_id": "TglEnUdBb3o",
-      "channel_title": "Google",
-      "description": "In this video, we're learning all about Nano Banana, Google's image generation model. Join Nano Banana Product Manager ...",
-      "published_at": "2026-06-30T23:12:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TglEnUdBb3o/hqdefault.jpg"
-    },
-    {
-      "title": "The Most Searched Sport | Kick it",
-      "video_id": "MfDYRK1pAvA",
-      "channel_title": "Google",
-      "description": "Soccer isn't just about scoring goals; it's about the skills that make them happen. From a rabona to a bicycle kick, break down any ...",
-      "published_at": "2026-06-29T19:03:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MfDYRK1pAvA/hqdefault.jpg"
+      "description": "Whether you're building games, interactive tools, or data-driven apps, it's easy to deploy from Google AI Studio. In this tutorial, we ...",
+      "published_at": "2026-06-22T19:30:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mx0xFpVjxHE/hqdefault.jpg"
     }
   ]
 }

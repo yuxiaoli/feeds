@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-05T00:51:26.570786",
+  "fetched_at": "2026-07-12T03:14:59.114706",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Autobidder | Tesla Megapack",
+      "video_id": "NqQnHWa-Vxs",
+      "channel_title": "Tesla",
+      "description": "Autobidder is Tesla's energy trading and battery optimization service, designed for Megapack. With Autobidder, battery operators ...",
+      "published_at": "2026-07-07T19:32:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NqQnHWa-Vxs/hqdefault.jpg"
+    },
     {
       "title": "Tesla Home: Home Energy Management, Powered by AI",
       "video_id": "8aGMLbS3NAo",
@@ -75,14 +83,6 @@
       "description": "Actions performed by trained professionals in a controlled environment - Do not attempt]",
       "published_at": "2026-03-06T21:10:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EEnjv8ApXtA/hqdefault.jpg"
-    },
-    {
-      "title": "Getting railed | Cybertruck",
-      "video_id": "zZHOpr3O-D0",
-      "channel_title": "Tesla",
-      "description": "Cybertruck makes for a pretty good terrain park [Actions performed by trained professionals in a controlled environment – Do not ...",
-      "published_at": "2026-03-06T20:07:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zZHOpr3O-D0/hqdefault.jpg"
     }
   ]
 }
