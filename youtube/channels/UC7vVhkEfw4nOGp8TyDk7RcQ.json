@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-12T03:15:01.157566",
+  "fetched_at": "2026-07-19T02:56:36.825535",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Atlas&#39; Journey to FIFA World Cup 2026™ | Boston Dynamics",
+      "video_id": "cCNkgD3qXvg",
+      "channel_title": "Boston Dynamics",
+      "description": "Following Atlas' first-of-its-kind live performance at the FIFA World Cup 2026™, we caught up with Seth Davis, senior program ...",
+      "published_at": "2026-07-15T13:56:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cCNkgD3qXvg/hqdefault.jpg"
+    },
+    {
+      "title": "Going the Extra Mile with Spot | Boston Dynamics",
+      "video_id": "EI1zFxLVkrs",
+      "channel_title": "Boston Dynamics",
+      "description": "Boston Dynamics is testing a last-mile delivery solution. Spot will help get packages from van to doorstep with less strain and ...",
+      "published_at": "2026-07-14T14:14:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EI1zFxLVkrs/hqdefault.jpg"
+    },
     {
       "title": "Viking Row | Atlas | Boston Dynamics",
       "video_id": "tw0uJ1T5bzE",
@@ -67,22 +83,6 @@
       "description": "Atlas takes on the Rabona. No shortcuts. Only practice and repetition lead to mastery. Next Starts Now #Hyundai #NextStartsNow ...",
       "published_at": "2026-05-28T13:00:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mCcv90sUNbY/hqdefault.jpg"
-    },
-    {
-      "title": "Whirlybird | Atlas | Boston Dynamics",
-      "video_id": "RgXhCw7Qzac",
-      "channel_title": "Boston Dynamics",
-      "description": "Atlas goes for a spin and tries some new moves.",
-      "published_at": "2026-05-27T14:51:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RgXhCw7Qzac/hqdefault.jpg"
-    },
-    {
-      "title": "School of Football | The Kicks | Boston Dynamics x Hyundai",
-      "video_id": "kc-9GQB8EXQ",
-      "channel_title": "Boston Dynamics",
-      "description": "Atlas learns to kick the ball. And even a simple kick involves coordination, balance, precision, and power. Next Starts Now ...",
-      "published_at": "2026-05-27T13:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kc-9GQB8EXQ/hqdefault.jpg"
     }
   ]
 }

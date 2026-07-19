@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-12T03:15:07.422832",
+  "fetched_at": "2026-07-19T02:56:43.376009",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
+    {
+      "title": "The reason wildfires are getting worse is probably not what you think",
+      "video_id": "cQo6mTAzfdE",
+      "channel_title": "Interesting Engineering",
+      "description": "Wildfires are getting worse. And while climate change is having a negative effect on this, it's not the only or main reason for it in ...",
+      "published_at": "2026-07-18T11:14:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cQo6mTAzfdE/hqdefault.jpg"
+    },
     {
       "title": "How sodium-ion could unlock battery manufacturing to developing nations",
       "video_id": "y7XqVmAD3Fg",
@@ -75,14 +83,6 @@
       "description": "Features like GENLOCK and Timecode in, previously restricted to professional camera equipment, are now at your fingertips, ...",
       "published_at": "2025-09-10T13:03:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/r-EAPOKdLFQ/hqdefault.jpg"
-    },
-    {
-      "title": "Shape Changing Antenna Secures Signal",
-      "video_id": "5GIFQ5CvF2Q",
-      "channel_title": "Interesting Engineering",
-      "description": "MIT researchers have invented a flexible antenna, capable of maintaining a strong signal connection by changing shape!",
-      "published_at": "2025-08-18T23:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5GIFQ5CvF2Q/hqdefault.jpg"
     }
   ]
 }

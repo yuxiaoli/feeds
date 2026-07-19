@@ -1,40 +1,72 @@
 {
-  "fetched_at": "2026-07-12T03:14:58.392626",
+  "fetched_at": "2026-07-19T02:56:34.036310",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 4,
+  "count": 8,
   "videos": [
     {
-      "title": "Make Claude Code Write Better Python With Pyright",
-      "video_id": "188rCAWkoVo",
+      "title": "Is Local AI Coding Actually Good?",
+      "video_id": "8JRJq4EEdik",
       "channel_title": "Tech With Tim",
-      "description": "Want higher-quality Python out of Claude Code? Install a language server for the language you're using. In my case that's Pyright, ...",
-      "published_at": "2026-07-11T12:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/188rCAWkoVo/hqdefault.jpg"
+      "description": "Get started with MindsHub Cowork for free (it's open-source): ...",
+      "published_at": "2026-07-18T14:02:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8JRJq4EEdik/hqdefault.jpg"
     },
     {
-      "title": "Claude Code Plugins Actually Worth Installing",
-      "video_id": "63xSXrrX6e0",
+      "title": "AI Engineer Means 5 Different Things",
+      "video_id": "jPaEhSRIdnI",
       "channel_title": "Tech With Tim",
-      "description": "Everyone tells you to install as many Claude Code plugins and MCP servers as you can. More tools, more power, right?",
-      "published_at": "2026-07-10T12:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/63xSXrrX6e0/hqdefault.jpg"
+      "description": "The title \"AI engineer\" can mean about five different things depending on who you ask. It's not an AI researcher training the next ...",
+      "published_at": "2026-07-18T12:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jPaEhSRIdnI/hqdefault.jpg"
     },
     {
-      "title": "Your Vibe Coded App Is Leaking",
-      "video_id": "wWOaiI9xM_o",
+      "title": "Software Engineers Are Already Halfway to AI Engineering",
+      "video_id": "wtWyzCRi1fo",
       "channel_title": "Tech With Tim",
-      "description": "If you're vibe coding, you're probably shipping security holes without noticing, and this skill catches them. VibeSec audits your ...",
-      "published_at": "2026-07-09T12:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wWOaiI9xM_o/hqdefault.jpg"
+      "description": "If you're already a software engineer, you're probably about 80% of the way to becoming an AI engineer and don't even know it.",
+      "published_at": "2026-07-17T12:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wtWyzCRi1fo/hqdefault.jpg"
     },
     {
-      "title": "I Built an AI App to Analyze My Own Business Data (No Code)",
-      "video_id": "jlZfuNoBBCY",
+      "title": "AI Agents Explained - What Is an AI Agent and how to build one? (Real Examples, Not Hype)",
+      "video_id": "ZvDkJsKE80k",
       "channel_title": "Tech With Tim",
-      "description": "Get started with @KNIMETV for free: ...",
-      "published_at": "2026-07-06T13:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jlZfuNoBBCY/hqdefault.jpg"
+      "description": "Best courses to learn all about AI agents and AI engineering: DataCamp's Associate AI Engineer for Developers Track ...",
+      "published_at": "2026-07-16T13:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZvDkJsKE80k/hqdefault.jpg"
+    },
+    {
+      "title": "Turn Figma Designs Into Working Code With Claude Code",
+      "video_id": "skvDVmuZT-w",
+      "channel_title": "Tech With Tim",
+      "description": "This one's a must for anyone doing real software development with designers on their team: the Figma plugin for Claude Code.",
+      "published_at": "2026-07-16T12:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/skvDVmuZT-w/hqdefault.jpg"
+    },
+    {
+      "title": "One API Key Connects 100 Tools to Claude Code and Codex",
+      "video_id": "XZ4UHROz0mQ",
+      "channel_title": "Tech With Tim",
+      "description": "Tired of reconnecting the same tools in every AI agent? Composio fixes that. You connect all your tools and accounts on one web ...",
+      "published_at": "2026-07-15T12:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XZ4UHROz0mQ/hqdefault.jpg"
+    },
+    {
+      "title": "Codex - Full Course for Beginners",
+      "video_id": "ZXkeWiWB4xg",
+      "channel_title": "Tech With Tim",
+      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
+      "published_at": "2026-07-14T12:27:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZXkeWiWB4xg/hqdefault.jpg"
+    },
+    {
+      "title": "Build 3 AI Automations From Scratch - Complete Beginner Guide",
+      "video_id": "gFSkmD8vbfg",
+      "channel_title": "Tech With Tim",
+      "description": "Build AI automations with Genspark for free: https://bit.ly/3QDrpeo (new registered users can get free credits) Most people use AI ...",
+      "published_at": "2026-07-04T13:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gFSkmD8vbfg/hqdefault.jpg"
     }
   ]
 }

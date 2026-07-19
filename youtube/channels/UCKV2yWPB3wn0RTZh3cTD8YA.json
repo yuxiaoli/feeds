@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-12T03:15:15.599935",
+  "fetched_at": "2026-07-19T02:56:51.898868",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "SK海力士崛起史：一个荒诞又狗血的财阀故事，如何卡住全球AI的脖子",
+      "video_id": "nilNLfW7izg",
+      "channel_title": "硅谷101",
+      "description": "7月10日，SK海力士以ADR形式在纳斯达克挂牌，融资265亿美元，随后市值突破1万亿美元。即便近期经历回调，它的股价仍比一年 ...",
+      "published_at": "2026-07-17T12:30:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nilNLfW7izg/hqdefault.jpg"
+    },
+    {
+      "title": "国际足联腐败史：英国老头、足球的权力共生网络与“免死金牌”",
+      "video_id": "i0t3RyLILnw",
+      "channel_title": "硅谷101",
+      "description": "当2026世界杯再次成为全球焦点，很难想象，FIFA这个拥有巨大财富和影响力、掌控全球第一运动的组织，长期以来却只是一个受到 ...",
+      "published_at": "2026-07-13T06:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i0t3RyLILnw/hqdefault.jpg"
+    },
     {
       "title": "美国AI研究员的中国之旅：年轻人，追赶者，算力焦虑与“AGI展示厅” ｜专访Nathan Lambert【101视频播客】",
       "video_id": "ULi-TCF2cQE",
@@ -67,22 +83,6 @@
       "description": "这是库克卸任前最后一次主持WWDC，也是苹果在Apple Intelligence延期、翻车、诉讼和内部重组之后，重新交出AI答卷的一年。",
       "published_at": "2026-06-18T01:40:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hIdvhl8PUwc/hqdefault.jpg"
-    },
-    {
-      "title": "SpaceX崛起史：一切，为了去火星｜实地探访星舰基地与总部",
-      "video_id": "x2meJPOn9ws",
-      "channel_title": "硅谷101",
-      "description": "你，想去火星吗？ 马斯克用24年的努力，试图向世人证明人类成为跨行星物种是有可能的。 在SpaceX冲击“人类史上最大IPO”之际， ...",
-      "published_at": "2026-06-11T05:08:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x2meJPOn9ws/hqdefault.jpg"
-    },
-    {
-      "title": "“没有她，SpaceX早倒闭了”：全世界最有权力的女性工程师是如何炼成的",
-      "video_id": "MIyEX1WOuJI",
-      "channel_title": "硅谷101",
-      "description": "马斯克曾说：“没有她，SpaceX早就倒闭了。”她就是SpaceX的总裁兼COO Gwynne Shotwell。过去二十年，当马斯克站在聚光灯下 ...",
-      "published_at": "2026-06-10T09:24:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MIyEX1WOuJI/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-12T03:15:47.304580",
+  "fetched_at": "2026-07-19T02:57:24.721202",
   "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
   "channel_title": "SpaceX",
   "count": 10,
   "videos": [
+    {
+      "title": "Starship - Critical Path",
+      "video_id": "-a0ecQMq-rM",
+      "channel_title": "SpaceX",
+      "description": "The path to launch is filled with obstacles and success is only possible through the tireless efforts of many working together ...",
+      "published_at": "2026-07-13T20:13:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-a0ecQMq-rM/hqdefault.jpg"
+    },
     {
       "title": "Starship - Test Like You Fly",
       "video_id": "ANe_HW4X8oc",
@@ -75,14 +83,6 @@
       "description": "A live webcast of the Polaris Dawn EVA will begin about one hour prior to the beginning of the spacewalk on Thursday, ...",
       "published_at": "2024-09-12T05:36:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HIam99L4vf4/hqdefault.jpg"
-    },
-    {
-      "title": "Polaris Dawn EVA Animation",
-      "video_id": "zgN373ZDtJg",
-      "channel_title": "SpaceX",
-      "description": "A live webcast of the Polaris Dawn EVA will begin about one hour prior to the beginning of the spacewalk on Thursday, ...",
-      "published_at": "2024-09-12T05:36:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zgN373ZDtJg/hqdefault.jpg"
     }
   ]
 }

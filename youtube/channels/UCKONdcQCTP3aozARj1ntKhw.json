@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-07-12T03:15:14.255161",
+  "fetched_at": "2026-07-19T02:56:50.489186",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
     {
-      "title": "Intro to Warp - terminal, agents, and cloud",
-      "video_id": "WWcfRaVukZw",
+      "title": "This is going to REPLACE Claude Code",
+      "video_id": "XKzoeBc8jgs",
       "channel_title": "Warp",
-      "description": "Download Warp: https://warp.dev Clone the example repository to follow along: ...",
-      "published_at": "2026-07-10T07:11:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WWcfRaVukZw/hqdefault.jpg"
+      "description": "ai #coding #startup Watch the full recording: ...",
+      "published_at": "2026-07-15T15:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XKzoeBc8jgs/hqdefault.jpg"
     },
     {
       "title": "What is a software factory? Peter Steinberger explains",
@@ -21,44 +21,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MaPFUvIdcVs/hqdefault.jpg"
     },
     {
-      "title": "OpenClaw creator blew his token budget on an airfryer",
-      "video_id": "GtiTx3_rvSw",
-      "channel_title": "Warp",
-      "description": "Interview with Peter Steinberger (OpenClaw), Paige Bailey (Google DeepMind), and Zach Lloyd (CEO of Warp). Watch the full ...",
-      "published_at": "2026-07-07T14:59:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GtiTx3_rvSw/hqdefault.jpg"
-    },
-    {
       "title": "Intro to Warp - essentials, Claude Code setup, and cloud orchestration",
       "video_id": "FynteCUvaRQ",
       "channel_title": "Warp",
       "description": "Download Warp: https://warp.dev Clone the example repository to follow along: ...",
       "published_at": "2026-06-26T07:17:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FynteCUvaRQ/hqdefault.jpg"
-    },
-    {
-      "title": "The best terminal for Claude Code is...",
-      "video_id": "hl-4xmQJRcs",
-      "channel_title": "Warp",
-      "description": "Try Warp: https://warp.dev.",
-      "published_at": "2026-06-02T13:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hl-4xmQJRcs/hqdefault.jpg"
-    },
-    {
-      "title": "Neovim is still king 👑",
-      "video_id": "sc4lQfxAbfQ",
-      "channel_title": "Warp",
-      "description": "Try Warp: https://warp.dev.",
-      "published_at": "2026-05-29T13:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sc4lQfxAbfQ/hqdefault.jpg"
-    },
-    {
-      "title": "How many Claude Code tabs are you running right now?",
-      "video_id": "97-XXISEHl8",
-      "channel_title": "Warp",
-      "description": "Try Warp: https://warp.dev.",
-      "published_at": "2026-05-28T22:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/97-XXISEHl8/hqdefault.jpg"
     },
     {
       "title": "Intro to Oz",
@@ -69,20 +37,52 @@
       "thumbnail_url": "https://i.ytimg.com/vi/poLkJhO7fdo/hqdefault.jpg"
     },
     {
-      "title": "What is Cloud-to-cloud handoff?",
-      "video_id": "tcYZy0D6dMA",
+      "title": "How to orchestrate a team of agents in the cloud with Warp",
+      "video_id": "qeR79bhyFOw",
       "channel_title": "Warp",
-      "description": "Learn more about the Oz platform for cloud agents: https://oz.dev.",
-      "published_at": "2026-05-21T20:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tcYZy0D6dMA/hqdefault.jpg"
+      "description": "Download Warp to run your first /orchestrate command: https://warp.dev Learn more about agent orchestration in Warp: ...",
+      "published_at": "2026-05-20T16:25:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qeR79bhyFOw/hqdefault.jpg"
     },
     {
-      "title": "How to hand off local agents to the cloud in Warp",
-      "video_id": "9qpGYZ58Wck",
+      "title": "Every terminal should have this feature #ai #coding #codex",
+      "video_id": "xDU3M-U2_Eg",
       "channel_title": "Warp",
-      "description": "Download Warp to start your first agent: https://warp.dev Learn more about Warp's cloud infrastructure platform, Oz: https://oz.dev.",
-      "published_at": "2026-05-21T14:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9qpGYZ58Wck/hqdefault.jpg"
+      "description": "Try Codex in Warp: https://www.warp.dev/agents/codex.",
+      "published_at": "2026-05-20T15:01:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xDU3M-U2_Eg/hqdefault.jpg"
+    },
+    {
+      "title": "Orchestrate a team of agents in Warp",
+      "video_id": "WNwnZybrp60",
+      "channel_title": "Warp",
+      "description": "Download Warp and run /orchestrate: https://warp.dev.",
+      "published_at": "2026-05-19T21:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WNwnZybrp60/hqdefault.jpg"
+    },
+    {
+      "title": "Developers should stop building apps. #ai #software #developer #technology",
+      "video_id": "3BtB6KvmSWs",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2026-05-11T15:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3BtB6KvmSWs/hqdefault.jpg"
+    },
+    {
+      "title": "How Warp&#39;s open-source platform works (the infrastructure, the agent skills, and more)",
+      "video_id": "VNPhuWU1D8k",
+      "channel_title": "Warp",
+      "description": "Warp is now open source. Curious how to contribute? Come join us for a live \"office hours\" session! ​We will build features live on ...",
+      "published_at": "2026-05-07T08:23:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VNPhuWU1D8k/hqdefault.jpg"
+    },
+    {
+      "title": "How to contribute to Warp",
+      "video_id": "p4ZDp-P1HCo",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2026-05-01T16:32:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p4ZDp-P1HCo/hqdefault.jpg"
     }
   ]
 }

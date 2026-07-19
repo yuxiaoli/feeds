@@ -1,56 +1,88 @@
 {
-  "fetched_at": "2026-07-12T03:14:53.665987",
+  "fetched_at": "2026-07-19T02:56:29.075148",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
-  "count": 6,
+  "count": 10,
   "videos": [
     {
-      "title": "Using GitHub Copilot for Linux performance troubleshooting on Azure",
-      "video_id": "GBcVDgpmsOw",
+      "title": "Enhance assessments using advanced insights in Azure Migrate",
+      "video_id": "E4HrIWj4_4k",
       "channel_title": "Microsoft Azure",
-      "description": "Linux performance troubleshooting on Azure isn't usually limited by a lack of data — it's limited by knowing what to investigate ...",
-      "published_at": "2026-07-10T17:40:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GBcVDgpmsOw/hqdefault.jpg"
+      "description": "Enhance assessments using advanced insights in Azure Migrate. Learn more: ...",
+      "published_at": "2026-07-15T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E4HrIWj4_4k/hqdefault.jpg"
     },
     {
-      "title": "How Sprinklr leverages Microsoft Azure Cobalt 100 VMs for massive scale",
-      "video_id": "fgEcCJ6qOxw",
+      "title": "Discover workloads and applications managed by VMware vCenter with Azure Migrate",
+      "video_id": "KwUTKyUiBaU",
       "channel_title": "Microsoft Azure",
-      "description": "See how Sprinklr is transforming customer experience at global scale with Microsoft Azure Cobalt 100 VMs. By modernizing on ...",
-      "published_at": "2026-07-10T05:32:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fgEcCJ6qOxw/hqdefault.jpg"
+      "description": "Discover workloads and applications managed by VMware vCenter with Azure Migrate. Learn more: ...",
+      "published_at": "2026-07-15T16:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KwUTKyUiBaU/hqdefault.jpg"
     },
     {
-      "title": "Build and run long-running agents in Foundry Agent Service",
-      "video_id": "Dw-kVTNvT2Q",
+      "title": "Your Fine-Tuned Model Is Your IP: Open Model Strategy for Developers",
+      "video_id": "IEGtTgN-Tmg",
       "channel_title": "Microsoft Azure",
-      "description": "See Microsoft Foundry's agent platform end to end in three minutes. One connected workflow takes a multi-agent solution from first ...",
-      "published_at": "2026-07-09T17:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Dw-kVTNvT2Q/hqdefault.jpg"
+      "description": "Why is fine-tuning open models now a core developer strategy? Microsoft Foundry's Yina Arenas and Fireworks AI CEO Lin Qiao ...",
+      "published_at": "2026-06-02T18:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IEGtTgN-Tmg/hqdefault.jpg"
     },
     {
-      "title": "Simplifying Token Quota Management with Proactive Tier Upgrades",
-      "video_id": "tYD_NYaHik4",
+      "title": "A new way to shop Microsoft Marketplace: say hello to intelligent discovery",
+      "video_id": "Ic2ctmKipKo",
       "channel_title": "Microsoft Azure",
-      "description": "The video discusses how Foundry is streamlining the process of managing model usage quotas by introducing a proactive system ...",
-      "published_at": "2026-07-08T15:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tYD_NYaHik4/hqdefault.jpg"
+      "description": "Watch the audio description version: https://msft.it/56Hc A new way to shop Microsoft Marketplace is here. Meet intelligent ...",
+      "published_at": "2026-06-02T17:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ic2ctmKipKo/hqdefault.jpg"
     },
     {
-      "title": "Optimizing Model Deployment and Performance in Microsoft Foundry",
-      "video_id": "U1f3aXZMyVQ",
+      "title": "Making industrial AI practical for real-world operations with adaptive cloud",
+      "video_id": "iXeKZLBUBm8",
       "channel_title": "Microsoft Azure",
-      "description": "This video explains how to select and optimize AI models within Microsoft Foundry, focusing on deployment options, data ...",
-      "published_at": "2026-07-08T15:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U1f3aXZMyVQ/hqdefault.jpg"
+      "description": "End to end demo for Making Industrial AI Practical for Real-World Operations with Microsoft's adaptive cloud approach, including: ...",
+      "published_at": "2026-05-07T03:06:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iXeKZLBUBm8/hqdefault.jpg"
     },
     {
-      "title": "AI Model Management with Foundry: Fleet Management, Performance, and Optimization",
-      "video_id": "zt-X5eqFFtM",
+      "title": "Banco Bradesco Scales Generative AI on Azure Red Hat OpenShift",
+      "video_id": "4wvoY3Il2x0",
       "channel_title": "Microsoft Azure",
-      "description": "Foundry enables enterprise-scale AI model management, focusing on simplifying model selection, deployment, and optimization.",
-      "published_at": "2026-07-08T15:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zt-X5eqFFtM/hqdefault.jpg"
+      "description": "Banco Bradesco is powering enterprise-scale AI innovation with Microsoft Foundry and Azure API Management, all running on ...",
+      "published_at": "2026-04-06T23:27:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4wvoY3Il2x0/hqdefault.jpg"
+    },
+    {
+      "title": "S2E4 | Is context engineering the new RAG? — The Shift Podcast by Microsoft Azure",
+      "video_id": "wGpJdn8frYE",
+      "channel_title": "Microsoft Azure",
+      "description": "As retrieval augmented generation (RAG) matures, teams are asking a new question: Is context engineering becoming more ...",
+      "published_at": "2026-03-31T19:14:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wGpJdn8frYE/hqdefault.jpg"
+    },
+    {
+      "title": "Azure Boost and Cobalt 100 VMs: Arm performance breakthroughs for cloud-native workloads",
+      "video_id": "O5kPJAORTcc",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover how Azure Cobalt 100 Arm‑powered VMs deliver higher throughput, lower latency, and better price‑performance for ...",
+      "published_at": "2026-03-03T04:08:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O5kPJAORTcc/hqdefault.jpg"
+    },
+    {
+      "title": "End-to-end capabilities from Microsoft to build AI solutions",
+      "video_id": "Djo5nc9x9RQ",
+      "channel_title": "Microsoft Azure",
+      "description": "In this partner conversation, Microsoft partners discuss how they collaborate with Microsoft to build AI apps and agents for ...",
+      "published_at": "2026-02-26T17:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Djo5nc9x9RQ/hqdefault.jpg"
+    },
+    {
+      "title": "Recap from the ground: Microsoft Azure at Ignite 2025",
+      "video_id": "yVwDJBnw__Q",
+      "channel_title": "Microsoft Azure",
+      "description": "See how the technical community responded to the latest news across Microsoft cloud and AI platforms, including Microsoft Azure, ...",
+      "published_at": "2025-12-10T16:34:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yVwDJBnw__Q/hqdefault.jpg"
     }
   ]
 }

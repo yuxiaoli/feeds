@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-07-12T03:15:17.505877",
+  "fetched_at": "2026-07-19T02:56:53.968456",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 3,
+  "count": 5,
   "videos": [
+    {
+      "title": "NASA Astronaut Anil Menon Soyuz MS-29 Hatch Opening",
+      "video_id": "HA_0EtDt_n0",
+      "channel_title": "NASA",
+      "description": "Watch with us as a new trio is welcomed aboard the International Space Station, after their Soyuz spacecraft hatch opens at ...",
+      "published_at": "2026-07-14T20:56:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HA_0EtDt_n0/hqdefault.jpg"
+    },
+    {
+      "title": "NASA Astronaut Anil Menon Soyuz MS-29 Docking",
+      "video_id": "NtwdIIutp3M",
+      "channel_title": "NASA",
+      "description": "After lifting off from the Baikonur Cosmodrome in Kazakhstan aboard a Soyuz MS-29 spacecraft, NASA astronaut Anil Menon is ...",
+      "published_at": "2026-07-14T18:13:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NtwdIIutp3M/hqdefault.jpg"
+    },
     {
       "title": "NASA Astronaut Anil Menon Soyuz MS-29 Launch",
       "video_id": "SwhPXxNtdoc",
       "channel_title": "NASA",
       "description": "Watch NASA astronaut Anil Menon's first mission to space begin as he launches to the International Space Station. He and ...",
-      "published_at": "2026-07-09T14:36:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SwhPXxNtdoc/hqdefault_live.jpg"
+      "published_at": "2026-07-14T15:11:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SwhPXxNtdoc/hqdefault.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",

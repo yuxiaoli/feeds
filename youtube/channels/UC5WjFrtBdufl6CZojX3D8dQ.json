@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-07-12T03:14:59.114706",
+  "fetched_at": "2026-07-19T02:56:34.753809",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
-    {
-      "title": "Autobidder | Tesla Megapack",
-      "video_id": "NqQnHWa-Vxs",
-      "channel_title": "Tesla",
-      "description": "Autobidder is Tesla's energy trading and battery optimization service, designed for Megapack. With Autobidder, battery operators ...",
-      "published_at": "2026-07-07T19:32:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NqQnHWa-Vxs/hqdefault.jpg"
-    },
     {
       "title": "Tesla Home: Home Energy Management, Powered by AI",
       "video_id": "8aGMLbS3NAo",
@@ -19,30 +11,6 @@
       "description": "Tesla Home comes standard with every Powerwall to automatically optimize your energy usage and help lower your electricity ...",
       "published_at": "2026-06-23T17:40:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8aGMLbS3NAo/hqdefault.jpg"
-    },
-    {
-      "title": "How Tesla Vision Helps Deploy Airbags Earlier",
-      "video_id": "Vb-OqxUWPDE",
-      "channel_title": "Tesla",
-      "description": "Tesla Vision allows us to deploy airbags up to 70 milliseconds earlier if your Tesla detects an unavoidable collision. Impact ...",
-      "published_at": "2026-06-22T20:18:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vb-OqxUWPDE/hqdefault.jpg"
-    },
-    {
-      "title": "Let there be Light Bar",
-      "video_id": "sh7XqNoeUAw",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-06-16T18:06:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sh7XqNoeUAw/hqdefault.jpg"
-    },
-    {
-      "title": "Model S &amp; X Signature Delivery Event",
-      "video_id": "tj7Sd7fs6JQ",
-      "channel_title": "Tesla",
-      "description": "Model S & X changed automotive history forever by proving that an EV could be the best car possible – of any kind. Today we ...",
-      "published_at": "2026-05-21T05:25:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tj7Sd7fs6JQ/hqdefault.jpg"
     },
     {
       "title": "Tesla Q1 2026 Financial Results and Q&amp;A Webcast",
@@ -53,36 +21,68 @@
       "thumbnail_url": "https://i.ytimg.com/vi/qO7T5zgRvXM/hqdefault.jpg"
     },
     {
-      "title": "TERAFAB | The Largest Chip Manufacturing Facility Ever",
-      "video_id": "Txt3Wodav1o",
+      "title": "Vote Your Tesla Shares",
+      "video_id": "6JwClvNwoYw",
       "channel_title": "Tesla",
-      "description": "Tesla, SpaceX, and xAI are launching the most epic chip-building effort ever - combining logic, memory and advanced packaging ...",
-      "published_at": "2026-04-06T18:58:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Txt3Wodav1o/hqdefault.jpg"
+      "description": "Tesla's Annual Meeting is coming up on November 6 & we need your vote! Optimus will show you how. Voting is quick and easy ...",
+      "published_at": "2025-10-06T21:08:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6JwClvNwoYw/hqdefault.jpg"
     },
     {
-      "title": "TERAFAB",
-      "video_id": "HcxEGykMZc4",
+      "title": "Sustainable Abundance | Master Plan Part IV",
+      "video_id": "AnunTXBwOlk",
       "channel_title": "Tesla",
-      "description": "Join Us: http://terafab.ai TERAFAB: the next step to becoming a galactic civilization Together with SpaceX & xAI, we're building the ...",
-      "published_at": "2026-03-22T03:15:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HcxEGykMZc4/hqdefault.jpg"
+      "description": "Master Plan Part IV – https://x.com/Tesla/status/1962591324022153607 Since Tesla's founding, each iteration of our master plan ...",
+      "published_at": "2025-09-02T19:29:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AnunTXBwOlk/hqdefault.jpg"
     },
     {
-      "title": "Push to start (literally)",
-      "video_id": "xplLMHeO-W0",
+      "title": "Autonomous Tesla Delivery | Full Drive",
+      "video_id": "lRRtW16GalE",
+      "channel_title": "Tesla",
+      "description": "Full drive in 1x speed This Tesla drove itself from Gigafactory Texas to its new owner's home ~30min away — crossing parking ...",
+      "published_at": "2025-06-28T14:16:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lRRtW16GalE/hqdefault.jpg"
+    },
+    {
+      "title": "Tesla Delivers Itself to New Owner",
+      "video_id": "GU16hXSSGKs",
+      "channel_title": "Tesla",
+      "description": "The world's first autonomous delivery of a car! This Model Y drove itself from Gigafactory Texas to its new owner's home ~30min ...",
+      "published_at": "2025-06-28T04:48:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GU16hXSSGKs/hqdefault.jpg"
+    },
+    {
+      "title": "Start FSD from Park",
+      "video_id": "j7YqcdJZ0io",
       "channel_title": "Tesla",
       "description": "",
-      "published_at": "2026-03-11T20:32:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xplLMHeO-W0/hqdefault.jpg"
+      "published_at": "2025-04-07T21:09:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j7YqcdJZ0io/hqdefault.jpg"
     },
     {
-      "title": "Getting railed",
-      "video_id": "EEnjv8ApXtA",
+      "title": "Powerwall in the Northeast | Tesla Energy",
+      "video_id": "EQ1FqipyKD4",
       "channel_title": "Tesla",
-      "description": "Actions performed by trained professionals in a controlled environment - Do not attempt]",
-      "published_at": "2026-03-06T21:10:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EEnjv8ApXtA/hqdefault.jpg"
+      "description": "No more high electricity bills or outages with Solar & Powerwall. See how Northeast US customers power their homes and charge ...",
+      "published_at": "2025-03-18T17:51:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EQ1FqipyKD4/hqdefault.jpg"
+    },
+    {
+      "title": "Engineering Cybertruck for Maximum Safety | Tesla",
+      "video_id": "sINxIHVEj9A",
+      "channel_title": "Tesla",
+      "description": "Tesla engineers take you behind the scenes of our Crash Lab to show you how Cybertruck earned its 5-star safety rating – from ...",
+      "published_at": "2025-02-19T22:24:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sINxIHVEj9A/hqdefault.jpg"
+    },
+    {
+      "title": "Meet the New Model Y",
+      "video_id": "o6njP-ymE_M",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-01-24T01:39:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o6njP-ymE_M/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-12T03:15:05.323022",
+  "fetched_at": "2026-07-19T02:56:41.126940",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Get sorted for college with Claudia from the Apple Store.",
+      "video_id": "hsjVxuYEKKo",
+      "channel_title": "Apple",
+      "description": "iPad #iPadTips #College #AppleStore.",
+      "published_at": "2026-07-14T16:40:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hsjVxuYEKKo/hqdefault.jpg"
+    },
     {
       "title": "Animate your Live Stickers. Tip from Claudia at the Apple Store.",
       "video_id": "qN2yR8ZpEMk",
@@ -75,14 +83,6 @@
       "description": "Introducing Siri AI in iOS 27, with more power than ever. Transform your images with next-generation AI. Create photorealistic ...",
       "published_at": "2026-06-08T18:27:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2PW5y3zAvPE/hqdefault.jpg"
-    },
-    {
-      "title": "Apple WWDC 2026 June 8: Introducing Siri AI and more",
-      "video_id": "hF8swzNR1-o",
-      "channel_title": "Apple",
-      "description": "Watch the WWDC26 keynote introducing Siri AI powered by Apple Intelligence — our most personal Siri update ever. You'll also ...",
-      "published_at": "2026-06-08T18:23:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hF8swzNR1-o/hqdefault.jpg"
     }
   ]
 }

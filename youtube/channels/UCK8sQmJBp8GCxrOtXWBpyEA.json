@@ -1,32 +1,40 @@
 {
-  "fetched_at": "2026-07-12T03:15:13.594860",
+  "fetched_at": "2026-07-19T02:56:49.757914",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 3,
+  "count": 4,
   "videos": [
     {
-      "title": "Stay stylish while repping your team with Search 🇫🇷⚽️",
-      "video_id": "qIPjorYya3U",
+      "title": "World Cup #GoogleDoodle",
+      "video_id": "8TkIQMLWXlg",
       "channel_title": "Google",
-      "description": "Search for items that channel your team's colors and tap “Try it on” to see how to pull the perfect look together. #GooglePartner.",
-      "published_at": "2026-07-09T16:35:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qIPjorYya3U/hqdefault.jpg"
+      "description": "Diving saves. Wild nutmegs. Long-range golazos. The World Cup has put on an absolute show. Discover all World Cup Doodles ...",
+      "published_at": "2026-07-18T15:12:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8TkIQMLWXlg/hqdefault.jpg"
     },
     {
-      "title": "Find your next favorite food with Lens 📸",
-      "video_id": "BXWlJAM4U9Y",
+      "title": "Send this to the group chat ⚽️📱",
+      "video_id": "BD7gbl2lBsM",
       "channel_title": "Google",
-      "description": "Spot some tasty stadium food on your feed or at a match? Use Lens to find out what it is in seconds. #GoogleSearch.",
-      "published_at": "2026-07-08T16:56:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BXWlJAM4U9Y/hqdefault.jpg"
+      "description": "Whether you say football, soccer, or something else entirely, one thing's for sure: You don't need to speak the same language to ...",
+      "published_at": "2026-07-17T15:51:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BD7gbl2lBsM/hqdefault.jpg"
     },
     {
-      "title": "How to Publish an App in Google AI Studio (Quick &amp; Easy)",
-      "video_id": "mx0xFpVjxHE",
+      "title": "Celebrate on any pitch with a knee slide simulator in Search 🏆",
+      "video_id": "uJ5b9SlZRys",
       "channel_title": "Google",
-      "description": "Whether you're building games, interactive tools, or data-driven apps, it's easy to deploy from Google AI Studio. In this tutorial, we ...",
-      "published_at": "2026-06-22T19:30:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mx0xFpVjxHE/hqdefault.jpg"
+      "description": "Tap AI Mode in Search and select the “Pro” model to build your own. #GoogleSearch.",
+      "published_at": "2026-07-16T18:54:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uJ5b9SlZRys/hqdefault.jpg"
+    },
+    {
+      "title": "How We Use AI for Your Health | Made by Google Podcast S9E6",
+      "video_id": "2jBT5mlomoE",
+      "channel_title": "Google",
+      "description": "What does building an unmanned helicopter have in common with designing a tiny, screenless fitness tracker? And why did NBA ...",
+      "published_at": "2026-07-15T16:52:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2jBT5mlomoE/hqdefault.jpg"
     }
   ]
 }

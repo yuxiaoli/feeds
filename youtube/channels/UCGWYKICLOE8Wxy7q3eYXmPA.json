@@ -1,72 +1,32 @@
 {
-  "fetched_at": "2026-07-12T03:15:10.238276",
+  "fetched_at": "2026-07-19T02:56:46.211994",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
-  "count": 10,
+  "count": 8,
   "videos": [
     {
-      "title": "【分享】AI的正确用法：让它干活，你去生活 | WorkBuddy产品负责人Jason",
-      "video_id": "mNYDevfOCzE",
+      "title": "AI新生意：1万美元给Vibe Coding擦屁股 | AI编程 | Claude Code | Cursor | 技术债 | 代码重构 | Slopfix | Rust开发 | AI工程化",
+      "video_id": "cBVYtaBn9fc",
       "channel_title": "最佳拍档",
-      "description": "本期视频转自「以鹅传鹅」FM，嘉宾一位是腾讯WorkBuddy 产品负责人汪晟杰（Jason），他从2021 年就开始做AI 编码产品，最早 ...",
-      "published_at": "2026-07-11T23:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mNYDevfOCzE/hqdefault.jpg"
+      "description": "AI编程普及后出现了荒诞新现象：靠Vibe Coding生成的项目做大后代码冗余失控，3名资深工程师组成的Slopfix团队推出一周1万 ...",
+      "published_at": "2026-07-16T09:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cBVYtaBn9fc/hqdefault.jpg"
     },
     {
-      "title": "从三周破产到英伟达收购 | Groq Jonathan Ross | TPU | 推理更快意味着更聪明 | 运气回报率 | 领导力的代价 | 意向性领导 | 现实商数 | 损失偏好",
-      "video_id": "olU7oNlS0bI",
+      "title": "像蜻蜓一样九种角度看懂AI | 复眼思维 | 超客体 | AI工作 | AI地缘政治 | AI权力集中 | 深度伪造 | AI环境影响 | AI安全 | 对齐问题",
+      "video_id": "F-BSsFgk2dQ",
       "channel_title": "最佳拍档",
-      "description": "Google TPU发明者Jonathan Ross创办Groq，专注AI推理芯片LPU，十年间几乎无人认可，公司多次濒临倒闭。2025年12月， ...",
-      "published_at": "2026-07-11T09:00:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/olU7oNlS0bI/hqdefault.jpg"
+      "description": "澳大利亚国立大学教授Anthea Roberts提出\"蜻蜓复眼思维\"框架，指出AI是无法用单一视角理解的\"超客体\"。本文系统拆解看待AI的九 ...",
+      "published_at": "2026-07-15T09:14:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F-BSsFgk2dQ/hqdefault.jpg"
     },
     {
-      "title": "未来三年，AI 会把这个世界带向哪里 | Steve Jurvetson | 投资马斯克所有公司 | 算力的增长曲线 | 原子很慢比特很快 | 选人的标准 | 人生的意义何在",
-      "video_id": "A1RoUQHKr0U",
+      "title": "1650亿投资人警告卖光美股 | Jeremy Grantham | AI泡沫 | 美股投资 | 科技股 | 资产配置 | 市场崩盘 | Mag 7 | 英伟达 | 房地产 | 财富不平等 | 生育率",
+      "video_id": "4F7MspvNCgE",
       "channel_title": "最佳拍档",
-      "description": "硅谷传奇投资人史蒂夫·尤尔维特森，以八亿美元换来SpaceX 三百三十亿美元持股，与马斯克共事二十九年的他，系统性地给出了 ...",
-      "published_at": "2026-07-10T09:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/A1RoUQHKr0U/hqdefault.jpg"
-    },
-    {
-      "title": "智能体经济Agentic Economy | Nenad Tomasev | DeepMind | AlphaZero | 自动化偏差 | 委派 | 分布式智能 | 认知单一文化 | 纵深防御",
-      "video_id": "m44ywED1Pi4",
-      "channel_title": "最佳拍档",
-      "description": "AlphaZero核心作者、Google DeepMind高级研究员Nenad Tomasev最新访谈深度解读AI智能体的未来图景。从会聊天到会行动 ...",
-      "published_at": "2026-07-10T02:11:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m44ywED1Pi4/hqdefault.jpg"
-    },
-    {
-      "title": "AI自我递归改进先要靠Harness工程 | Lilian Weng最新长文 | 反馈循环 | 三个设计模式 | 核心智能 | ACE | MCE | Meta-Harness | STOP",
-      "video_id": "z_F0z7wF5XU",
-      "channel_title": "最佳拍档",
-      "description": "本期内容基于翁荔（Lilian Weng）最新技术博客，系统解读Harness工程在AI递归自我改进中的核心作用。内容涵盖Harness三大 ...",
-      "published_at": "2026-07-09T09:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z_F0z7wF5XU/hqdefault.jpg"
-    },
-    {
-      "title": "Claude真的开智了吗 | Anthropic最新论文 | 全局工作空间 |  J-space | J-lens | AI可解释性 | 模型对齐 | 反事实训练 | 意识AI",
-      "video_id": "kB_HbTmwsp4",
-      "channel_title": "最佳拍档",
-      "description": "本期深度拆解Anthropic最新发布的《语言模型中的全局工作空间》研究，详解J-space内部状态与J-lens观测方法的技术原理与核心 ...",
-      "published_at": "2026-07-08T23:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kB_HbTmwsp4/hqdefault.jpg"
-    },
-    {
-      "title": "英伟达为何要做开源大模型 | Bryan Catanzaro | Nemotron | 模型蒸馏 | AI | 大模型 | 4bit训练 | MoE | 混合架构 | 多Token预测",
-      "video_id": "y7vVEs9Bl0w",
-      "channel_title": "最佳拍档",
-      "description": "本期深度拆解英伟达Nemotron掌门人布莱恩·卡坦扎罗的最新专访，解析英伟达布局开源大模型的两大核心使命，详解4位预训练、 ...",
-      "published_at": "2026-07-08T09:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y7vVEs9Bl0w/hqdefault.jpg"
-    },
-    {
-      "title": "未来算力永远会供不应求 | Greg Brockman | 超级应用 | 个人AGI | AI硬件 | 上下文 | 语音功能 | Scaling Laws | 投入和回报 | 微软 | 个性化医疗",
-      "video_id": "1LlxLQQLMWo",
-      "channel_title": "最佳拍档",
-      "description": "本期节目基于OpenAI总裁Greg·布罗克曼2026年7月的最新专访，系统解读AI从聊天机器人向全能智能体的演进趋势，覆盖交互 ...",
-      "published_at": "2026-07-06T23:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1LlxLQQLMWo/hqdefault.jpg"
+      "description": "传奇投资人杰里米·格兰瑟姆管理过1650亿美元，近60年投资生涯中多次成功预警泡沫。本期视频深度解析他在The Diary of a CEO ...",
+      "published_at": "2026-07-14T09:03:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4F7MspvNCgE/hqdefault.jpg"
     },
     {
       "title": "【人工智能】AI未来发展的核心支柱 | 钢铁、服务器、能源 | David Cahn红杉美国合伙人 | 数据中心 | 基建效率 | 现金牛 | 房地产 | 资产负债表外融资",
@@ -83,6 +43,30 @@
       "description": "今天这是一期科技创业者必看的视频。对于所有初创公司来说，核心任务就是寻找产品与市场的契合点，也就是所谓 ...",
       "published_at": "2024-05-01T10:06:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nJIVpB05eKY/hqdefault.jpg"
+    },
+    {
+      "title": "关于中美企业异国发展蔡崇信给出了一些务实建议",
+      "video_id": "_EckgvG2mAI",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts.",
+      "published_at": "2024-04-07T05:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_EckgvG2mAI/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI为何能坚持AGI道路 #openai #人工智能",
+      "video_id": "U0DFLWtAGO4",
+      "channel_title": "最佳拍档",
+      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts.",
+      "published_at": "2024-03-04T00:08:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U0DFLWtAGO4/hqdefault.jpg"
+    },
+    {
+      "title": "【人工智能】如何写好提示词 | OpenAI官方提示工程指南 | 六大原则 | 清晰细致 | 提供参考 | 任务拆分 | 让它思考 | 外部工具 | 系统测试",
+      "video_id": "yhk9x__D-Us",
+      "channel_title": "最佳拍档",
+      "description": "就在近日，OpenAI 官方发布了Prompt 工程指南，讲述了快速上手ChatGPT Prompt 的种种「屠龙术」，不仅在理论层面对Prompt ...",
+      "published_at": "2024-01-08T08:05:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yhk9x__D-Us/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-12T03:15:32.669689",
+  "fetched_at": "2026-07-19T02:57:09.773565",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "افضل طريقة عشان تبدأ تتعلم العقلة",
+      "video_id": "vyIhknmQ4bI",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-07-16T11:36:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vyIhknmQ4bI/hqdefault.jpg"
+    },
     {
       "title": "ماذا تعرف عن آلام الظهر",
       "video_id": "Ox_i0wqWnsM",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-06-02T13:31:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hvD2a0m6iIo/hqdefault.jpg"
-    },
-    {
-      "title": "الكالسثنكس مالها حدود",
-      "video_id": "pmSkS6bMPLY",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-05-30T09:58:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pmSkS6bMPLY/hqdefault.jpg"
     }
   ]
 }

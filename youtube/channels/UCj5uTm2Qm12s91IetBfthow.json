@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-12T03:15:39.761768",
+  "fetched_at": "2026-07-19T02:57:16.798237",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "小程序开发全流程踩坑总结",
+      "video_id": "4iWHL_MIuhE",
+      "channel_title": "Find Interesting AI",
+      "description": "",
+      "published_at": "2026-07-13T00:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4iWHL_MIuhE/hqdefault.jpg"
+    },
     {
       "title": "OPC时代—程序员的营销基础、工具选择、学习建议",
       "video_id": "Ap6LJlvIaVI",
@@ -75,14 +83,6 @@
       "description": "知识库： my.feishu.cn/wiki/TPKwwEiLJibN4ek9fcQcYaZAnDd?",
       "published_at": "2026-02-01T11:49:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0eb30T3Voi8/hqdefault.jpg"
-    },
-    {
-      "title": "2026开年Huggingface最火的8个空间",
-      "video_id": "9yjQdq-nnJo",
-      "channel_title": "Find Interesting AI",
-      "description": "LTX-2: https://huggingface.co/papers/2601.03233 FinePDF: ...",
-      "published_at": "2026-01-17T09:10:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9yjQdq-nnJo/hqdefault.jpg"
     }
   ]
 }

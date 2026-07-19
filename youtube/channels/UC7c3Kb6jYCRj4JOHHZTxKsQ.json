@@ -1,80 +1,64 @@
 {
-  "fetched_at": "2026-07-12T03:15:00.490201",
+  "fetched_at": "2026-07-19T02:56:36.109432",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 9,
+  "count": 7,
   "videos": [
     {
-      "title": "GitHub Copilot app is now available on free plans",
-      "video_id": "39COZk07Ks4",
+      "title": "Open Source Friday: Cua with Francesco Bonacci",
+      "video_id": "46aUNbqO9yY",
       "channel_title": "GitHub",
-      "description": "The GitHub Copilot app is officially available across every plan, now including Copilot Free and GitHub Education. Built for ...",
-      "published_at": "2026-07-11T15:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/39COZk07Ks4/hqdefault.jpg"
-    },
-    {
-      "title": "Open Source Friday: Building the Contributor Pipeline at Pollinations.ai",
-      "video_id": "apxwKja5JWE",
-      "channel_title": "GitHub",
-      "description": "What does open source maintenance actually look like once a project starts to scale? In this Open Source Friday stream, ...",
-      "published_at": "2026-07-11T06:22:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/apxwKja5JWE/hqdefault.jpg"
-    },
-    {
-      "title": "The Download: GitHub Copilot app, GitHub Universe, new HTTP query method &amp; more",
-      "video_id": "ZOqn2ZfoRQk",
-      "channel_title": "GitHub",
-      "description": "Welcome to another episode of The Download! This week, we cover the general availability of the GitHub Copilot app, which now ...",
-      "published_at": "2026-07-10T15:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZOqn2ZfoRQk/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays!",
-      "video_id": "jhlVqLBQXUs",
-      "channel_title": "GitHub",
-      "description": "Let's talk about the latest GitHub updates and cowork together!",
-      "published_at": "2026-07-10T07:04:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jhlVqLBQXUs/hqdefault.jpg"
-    },
-    {
-      "title": "Bring Your Own Key to the GitHub Copilot app, now available for all Copilot plans",
-      "video_id": "r1Sy8ij_xWQ",
-      "channel_title": "GitHub",
-      "description": "The GitHub Copilot app now supports bring your own key (BYOK), allowing you to connect custom model providers directly to your ...",
-      "published_at": "2026-07-09T15:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r1Sy8ij_xWQ/hqdefault.jpg"
-    },
-    {
-      "title": "How to manage Copilot spend across your enterprise",
-      "video_id": "AzuGe_cuCvg",
-      "channel_title": "GitHub",
-      "description": "Managing GitHub Copilot across a large enterprise requires flexible budgeting that aligns with your organizational structure.",
-      "published_at": "2026-07-08T20:26:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AzuGe_cuCvg/hqdefault.jpg"
-    },
-    {
-      "title": "Kimi K2.7 Code: The first open-weight model in GitHub Copilot",
-      "video_id": "uY6tE2SuOP0",
-      "channel_title": "GitHub",
-      "description": "GitHub Copilot just added Kimi K2.7 Code by Moonshot AI to the model lineup. As our very first open-weight model in the Copilot ...",
-      "published_at": "2026-07-07T18:48:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uY6tE2SuOP0/hqdefault.jpg"
+      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+      "published_at": "2026-07-18T05:57:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/46aUNbqO9yY/hqdefault.jpg"
     },
     {
       "title": "Rubber Duck Thursday with OpenClaw&#39;s Brad Groux  and @acolombiadev 🦞",
       "video_id": "QM1XgyV672s",
       "channel_title": "GitHub",
       "description": "This Rubber Duck Thursday, Brad Groux (CEO of DigitalMeld, Microsoft maintainer on OpenClaw) joins us to dig into where a lot ...",
-      "published_at": "2026-07-03T15:43:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QM1XgyV672s/hqdefault_live.jpg"
+      "published_at": "2026-07-17T07:23:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QM1XgyV672s/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursday: GPT 5.6 models in GitHub Copilot",
+      "video_id": "OD11Ubt5YCU",
+      "channel_title": "GitHub",
+      "description": "Join us live as we try out the new GPT-5.6 models (Luna, Terra, Sol) in the GitHub Copilot App.",
+      "published_at": "2026-07-17T00:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OD11Ubt5YCU/hqdefault.jpg"
     },
     {
       "title": "Let&#39;s Learn GitHub Copilot App",
       "video_id": "SsFU0w3KrI4",
       "channel_title": "GitHub",
       "description": "Join this beginner-friendly virtual series to get started with the GitHub Copilot app, your all-in-one control center for managing ...",
-      "published_at": "2026-06-23T01:12:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SsFU0w3KrI4/hqdefault_live.jpg"
+      "published_at": "2026-07-16T15:59:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SsFU0w3KrI4/hqdefault.jpg"
+    },
+    {
+      "title": "Jueves de Quack con Alejandro Menocal",
+      "video_id": "dscJaFB7oBU",
+      "channel_title": "GitHub",
+      "description": "Jueves de Quack con @acolombiadev y Alejandro Menocal Descubre GitHub Agentic Workflows: un archivo Markdown, ...",
+      "published_at": "2026-07-16T15:57:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dscJaFB7oBU/hqdefault_live.jpg"
+    },
+    {
+      "title": "Jueves de Quack: De pilotos a escala: GitHub Copilot en itti",
+      "video_id": "Z5Nf-xXupzQ",
+      "channel_title": "GitHub",
+      "description": "En itti se propusieron un reto ambicioso: aumentar la productividad del ciclo de desarrollo en un 40%. En esta sesión, Javier ...",
+      "published_at": "2026-07-16T15:52:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z5Nf-xXupzQ/hqdefault.jpg"
+    },
+    {
+      "title": "A complete beginner&#39;s guide to mastering GitHub",
+      "video_id": "zZuqjoLEYzo",
+      "channel_title": "GitHub",
+      "description": "Ready to start your journey as a developer? This complete compilation brings together every episode of our GitHub for beginners ...",
+      "published_at": "2026-07-15T15:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zZuqjoLEYzo/hqdefault.jpg"
     }
   ]
 }
