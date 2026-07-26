@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-19T02:56:51.898868",
+  "fetched_at": "2026-07-26T03:15:56.091947",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "2026世界杯：AI改变了足球....吗？",
+      "video_id": "jXZGeF6sJOc",
+      "channel_title": "硅谷101",
+      "description": "AI可以写代码、做研究，甚至预测复杂的现实世界，但面对一场足球比赛，它却常常失灵。即使拥有海量数据和顶级算法，AI依然很 ...",
+      "published_at": "2026-07-24T03:42:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jXZGeF6sJOc/hqdefault.jpg"
+    },
+    {
+      "title": "对话Vincent Koc：OpenClaw的反思与进化，中国的“小龙虾”狂热，与Agent的下一步",
+      "video_id": "tnvyMcmtAiw",
+      "channel_title": "硅谷101",
+      "description": "OpenClaw，这个在2026年初引爆全球AI圈的现象级项目，让Mac Mini卖到断货，也引发了关于AI安全与边界的全民讨论。当喧嚣 ...",
+      "published_at": "2026-07-21T01:07:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tnvyMcmtAiw/hqdefault.jpg"
+    },
     {
       "title": "SK海力士崛起史：一个荒诞又狗血的财阀故事，如何卡住全球AI的脖子",
       "video_id": "nilNLfW7izg",
@@ -67,22 +83,6 @@
       "description": "一家还没有产品的AI实验室，为什么能融到6.5亿美元、估值46.5亿美元？ 田渊栋的回答很直接：最顶级的资本，还是看人。在AI变化 ...",
       "published_at": "2026-06-22T16:00:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/c216-TZTIrM/hqdefault.jpg"
-    },
-    {
-      "title": "员工蒸馏：水没有了，鱼要变成“四维生物”",
-      "video_id": "TnauzVQkmBo",
-      "channel_title": "硅谷101",
-      "description": "当公司开始“蒸馏员工”，AI时代的个人价值会发生什么变化？ 在田渊栋看来，Meta的争议只是一个开始：公司想沉淀员工经验、降低 ...",
-      "published_at": "2026-06-22T05:05:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TnauzVQkmBo/hqdefault.jpg"
-    },
-    {
-      "title": "库克的离场，苹果新AI权力重构与价值观天平｜WWDC26",
-      "video_id": "hIdvhl8PUwc",
-      "channel_title": "硅谷101",
-      "description": "这是库克卸任前最后一次主持WWDC，也是苹果在Apple Intelligence延期、翻车、诉讼和内部重组之后，重新交出AI答卷的一年。",
-      "published_at": "2026-06-18T01:40:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hIdvhl8PUwc/hqdefault.jpg"
     }
   ]
 }

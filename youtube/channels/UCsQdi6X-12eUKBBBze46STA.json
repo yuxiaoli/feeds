@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-19T02:57:23.987792",
+  "fetched_at": "2026-07-26T03:16:30.383552",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "How Light Affects Your Glucose",
+      "video_id": "UW6OOJRFWfY",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-07-24T16:01:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UW6OOJRFWfY/hqdefault.jpg"
+    },
+    {
+      "title": "Your Diet Programs Your Baby",
+      "video_id": "o6vKhXJENHo",
+      "channel_title": "Glucose Revolution",
+      "description": "Science shows that what you eat during pregnancy may influence how your baby's genes behave for the rest of their life.",
+      "published_at": "2026-07-20T16:54:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o6vKhXJENHo/hqdefault.jpg"
+    },
     {
       "title": "The Truth About Fruit Juice",
       "video_id": "_uiLFXz2Ck0",
@@ -67,22 +83,6 @@
       "description": "lso, a fourth thing to know when you're taking GLP-1 medications: How to manage your blood sugar. Because GLP-1 medications ...",
       "published_at": "2026-06-29T15:39:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/oUm7CCMn0Ds/hqdefault.jpg"
-    },
-    {
-      "title": "Ketchup or Mayo? 🍟",
-      "video_id": "S-w-iCPpJ60",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-06-26T16:40:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S-w-iCPpJ60/hqdefault.jpg"
-    },
-    {
-      "title": "I Ranked Nut Butters by Protein 🥜",
-      "video_id": "HEb4ezrfRd8",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-06-24T17:28:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HEb4ezrfRd8/hqdefault.jpg"
     }
   ]
 }

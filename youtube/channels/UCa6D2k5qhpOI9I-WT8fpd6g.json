@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-19T02:57:09.026934",
+  "fetched_at": "2026-07-26T03:16:14.293620",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "一个Skill 让 Agent 自动操作浏览器，告别重复枯燥任务",
+      "video_id": "wBN2BniLoHM",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 引言00:58 基础使用02:37 技术原理05:26 进阶实战ego lite ...",
+      "published_at": "2026-07-21T07:16:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wBN2BniLoHM/hqdefault.jpg"
+    },
     {
       "title": "Windows跑AI Agent，WSL才是终极答案，别羡慕Mac了，  WSL保姆级全攻略，海量实战教程，一期视频精通",
       "video_id": "gE2Ju2qoGbU",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 官方插件使用指南： ...",
       "published_at": "2026-03-14T02:54:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3u9gYM7digA/hqdefault.jpg"
-    },
-    {
-      "title": "一期视频精通OpenClaw变高手，从中级到高级完整教程",
-      "video_id": "4LZEWPlDmsU",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 本期视频再带来一个进阶教程。 分别从：记忆系统，网络搜索，云服务器 ...",
-      "published_at": "2026-03-07T12:47:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4LZEWPlDmsU/hqdefault.jpg"
     }
   ]
 }

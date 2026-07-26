@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-19T02:56:36.825535",
+  "fetched_at": "2026-07-26T03:15:40.444684",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Spot at Mariana Minerals | Boston Dynamics",
+      "video_id": "KywMP9_SyRg",
+      "channel_title": "Boston Dynamics",
+      "description": "Mariana Minerals is the world's first software-first mining company, using rich data sources from the field to optimize their ...",
+      "published_at": "2026-07-22T13:59:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KywMP9_SyRg/hqdefault.jpg"
+    },
     {
       "title": "Atlas&#39; Journey to FIFA World Cup 2026™ | Boston Dynamics",
       "video_id": "cCNkgD3qXvg",
@@ -75,14 +83,6 @@
       "description": "Atlas reveals the Ghost Rabona. Atlas takes the Rabona further combining precision, control, and deception. Pushing the limits of ...",
       "published_at": "2026-05-29T13:00:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/V1Lxp-Q6Y9g/hqdefault.jpg"
-    },
-    {
-      "title": "School of Football | The Rabona | Boston Dynamics x Hyundai",
-      "video_id": "mCcv90sUNbY",
-      "channel_title": "Boston Dynamics",
-      "description": "Atlas takes on the Rabona. No shortcuts. Only practice and repetition lead to mastery. Next Starts Now #Hyundai #NextStartsNow ...",
-      "published_at": "2026-05-28T13:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mCcv90sUNbY/hqdefault.jpg"
     }
   ]
 }

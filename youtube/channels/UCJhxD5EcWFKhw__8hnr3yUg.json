@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-19T02:56:49.056455",
+  "fetched_at": "2026-07-26T03:15:53.196137",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "世界杯踢完想起来了，我去过诺坎普啊！",
+      "video_id": "UPA08NUBuHY",
+      "channel_title": "码农高天",
+      "description": "vlog终于续上了！正好世界杯结束，把巴塞罗那最后一天的行程剪出来。去了一趟诺坎普，还转了转奥运区，巴塞罗那就到这里啦！",
+      "published_at": "2026-07-25T04:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UPA08NUBuHY/hqdefault.jpg"
+    },
     {
       "title": "我就做个开源怎么成了黑帮成员了？",
       "video_id": "6Qy-J_CELeI",
@@ -75,14 +83,6 @@
       "description": "这期视频给大家介绍一下危险的__del__，讲讲它是怎么在我们的项目中造成死锁的，以及你应该如何规避这种情况的发生。",
       "published_at": "2026-02-06T10:30:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xJSTbtE9nBo/hqdefault.jpg"
-    },
-    {
-      "title": "PyConTW来了！在台湾最完美的句号，还有神秘嘉宾哦！",
-      "video_id": "lMDcxjBRBoM",
-      "channel_title": "码农高天",
-      "description": "台湾之旅的最后一站，是为期三天的PyCon。因为活动实在太有趣，这三天留下的影像资料也并没有很多，但还是想分享给大家！",
-      "published_at": "2026-01-31T04:30:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lMDcxjBRBoM/hqdefault.jpg"
     }
   ]
 }

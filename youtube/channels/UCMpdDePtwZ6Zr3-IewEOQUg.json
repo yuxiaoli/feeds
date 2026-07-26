@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-19T02:56:56.047085",
+  "fetched_at": "2026-07-26T03:16:00.485333",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "你看到的世界，可能是大腦編出來的",
+      "video_id": "Npy1JZDj5M0",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2026-07-24T11:02:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Npy1JZDj5M0/hqdefault.jpg"
+    },
     {
       "title": "從大地到星辰，人類如何丈量世界？",
       "video_id": "zL9Ew6bfzMk",
@@ -75,14 +83,6 @@
       "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
       "published_at": "2026-03-11T12:46:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/mhW9v5-SGNM/hqdefault.jpg"
-    },
-    {
-      "title": "运动电荷产生磁场，法拉第电磁感应为麦克斯韦统一电磁学奠基！ #科普知识 #oppenheimer #百科密码",
-      "video_id": "-MtwWHkwvmY",
-      "channel_title": "科學漫聊",
-      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
-      "published_at": "2026-03-11T12:43:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-MtwWHkwvmY/hqdefault.jpg"
     }
   ]
 }

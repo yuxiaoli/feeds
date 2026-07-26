@@ -1,64 +1,88 @@
 {
-  "fetched_at": "2026-07-19T02:56:36.109432",
+  "fetched_at": "2026-07-26T03:15:39.662731",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 7,
+  "count": 10,
   "videos": [
     {
-      "title": "Open Source Friday: Cua with Francesco Bonacci",
-      "video_id": "46aUNbqO9yY",
+      "title": "Microsoft Comic Chat is now open source",
+      "video_id": "AptdL9wYxRU",
       "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2026-07-18T05:57:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/46aUNbqO9yY/hqdefault.jpg"
+      "description": "Microsoft Comic Chat is officially open source on GitHub. Originally shipped in 1996 with Internet Explorer 3, this classic IRC client ...",
+      "published_at": "2026-07-25T15:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AptdL9wYxRU/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursday with OpenClaw&#39;s Brad Groux  and @acolombiadev 🦞",
-      "video_id": "QM1XgyV672s",
+      "title": "Replay: Age assurance laws and open source: what maintainers need to know",
+      "video_id": "9TACZ_tBlvY",
       "channel_title": "GitHub",
-      "description": "This Rubber Duck Thursday, Brad Groux (CEO of DigitalMeld, Microsoft maintainer on OpenClaw) joins us to dig into where a lot ...",
-      "published_at": "2026-07-17T07:23:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QM1XgyV672s/hqdefault.jpg"
+      "description": "Age assurance laws are reaching down to operating systems and app stores. Anne Dickison (FreeBSD Foundation), Katie ...",
+      "published_at": "2026-07-25T05:57:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9TACZ_tBlvY/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursday: GPT 5.6 models in GitHub Copilot",
-      "video_id": "OD11Ubt5YCU",
+      "title": "The Download: Kimi K3, TypeScript 7 native compiler, VS Code agent host &amp; more",
+      "video_id": "KYJwda0NXGs",
       "channel_title": "GitHub",
-      "description": "Join us live as we try out the new GPT-5.6 models (Luna, Terra, Sol) in the GitHub Copilot App.",
-      "published_at": "2026-07-17T00:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OD11Ubt5YCU/hqdefault.jpg"
+      "description": "Welcome back to another episode of The Download! This week, we cover TypeScript 7 shipping a new native Go compiler that ...",
+      "published_at": "2026-07-24T15:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KYJwda0NXGs/hqdefault.jpg"
     },
     {
-      "title": "Let&#39;s Learn GitHub Copilot App",
-      "video_id": "SsFU0w3KrI4",
+      "title": "Rubber Duck Thursdays! Come learn about what&#39;s new and hang out!",
+      "video_id": "zS2TlebE4xI",
       "channel_title": "GitHub",
-      "description": "Join this beginner-friendly virtual series to get started with the GitHub Copilot app, your all-in-one control center for managing ...",
-      "published_at": "2026-07-16T15:59:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SsFU0w3KrI4/hqdefault.jpg"
+      "description": "Cowork, comment, and chill with the GitHub team.",
+      "published_at": "2026-07-24T07:06:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zS2TlebE4xI/hqdefault.jpg"
     },
     {
-      "title": "Jueves de Quack con Alejandro Menocal",
-      "video_id": "dscJaFB7oBU",
+      "title": "Jueves de Quack",
+      "video_id": "9hq7WC1UWwU",
       "channel_title": "GitHub",
-      "description": "Jueves de Quack con @acolombiadev y Alejandro Menocal Descubre GitHub Agentic Workflows: un archivo Markdown, ...",
-      "published_at": "2026-07-16T15:57:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dscJaFB7oBU/hqdefault_live.jpg"
+      "description": "quackemos hoy.",
+      "published_at": "2026-07-24T03:13:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9hq7WC1UWwU/hqdefault.jpg"
     },
     {
-      "title": "Jueves de Quack: De pilotos a escala: GitHub Copilot en itti",
-      "video_id": "Z5Nf-xXupzQ",
+      "title": "Let&#39;s build a personal assistant with Copilot CLI",
+      "video_id": "t2XxVXnZD6s",
       "channel_title": "GitHub",
-      "description": "En itti se propusieron un reto ambicioso: aumentar la productividad del ciclo de desarrollo en un 40%. En esta sesión, Javier ...",
-      "published_at": "2026-07-16T15:52:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z5Nf-xXupzQ/hqdefault.jpg"
+      "description": "In this stream we'll experiment with building a personal assistant with GitHub Copilot CLI. We'll use workflows and experiment ...",
+      "published_at": "2026-07-23T22:32:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/t2XxVXnZD6s/hqdefault.jpg"
     },
     {
-      "title": "A complete beginner&#39;s guide to mastering GitHub",
-      "video_id": "zZuqjoLEYzo",
+      "title": "Customize your GitHub Copilot for Jira experience",
+      "video_id": "0Q5nBOEMcXA",
       "channel_title": "GitHub",
-      "description": "Ready to start your journey as a developer? This complete compilation brings together every episode of our GitHub for beginners ...",
-      "published_at": "2026-07-15T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zZuqjoLEYzo/hqdefault.jpg"
+      "description": "Get to your draft pull requests even faster by tailoring the GitHub Copilot for Jira integration. In this video, we explore how to ...",
+      "published_at": "2026-07-23T15:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0Q5nBOEMcXA/hqdefault.jpg"
+    },
+    {
+      "title": "How to turn Jira tickets into draft PRs with GitHub Copilot",
+      "video_id": "GyapkL6LVZk",
+      "channel_title": "GitHub",
+      "description": "Get to your draft pull requests even faster by letting GitHub Copilot start the work directly from Jira. In this video, we walk through ...",
+      "published_at": "2026-07-22T15:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GyapkL6LVZk/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday: Squad with Brady Gaster",
+      "video_id": "jiBpl7Y1D2Q",
+      "channel_title": "GitHub",
+      "description": "Join us for Open Source Friday as we sit down with Brady Gaster (@bradygaster) to explore Squad, an open source project for ...",
+      "published_at": "2026-07-21T20:52:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jiBpl7Y1D2Q/hqdefault_live.jpg"
+    },
+    {
+      "title": "Meet the GitHub Copilot app: Your new AI desktop assistant",
+      "video_id": "LsA4vIX_3UY",
+      "channel_title": "GitHub",
+      "description": "Working with AI agents to write code can feel linear and isolated from the rest of your work. The GitHub Copilot app is built ...",
+      "published_at": "2026-07-21T15:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LsA4vIX_3UY/hqdefault.jpg"
     }
   ]
 }

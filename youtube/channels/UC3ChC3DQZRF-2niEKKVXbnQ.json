@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-19T02:56:31.892321",
+  "fetched_at": "2026-07-26T03:15:35.083118",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "我用 LongCat-2.0 省了 88% 的 Agent 输入成本!",
+      "video_id": "NEp7RpJA2aA",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家补上LongCat-2.0 的评测! 简单来讲, 性价比模型又被刷新了! LongCat-2.0 只要缓存命中基本就是不要钱. 所以我这期视频在 ...",
+      "published_at": "2026-07-22T04:30:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NEp7RpJA2aA/hqdefault.jpg"
+    },
+    {
+      "title": "Kimi-K3 全方位实测! 我竟然打游戏输给了她?!",
+      "video_id": "CYRqgwNXQGM",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Kimi-K3全方位编程能力实测! 包含前端, 后端, Agent能力. 并且包含现有SOTA级别模型横评! 这次Kimi-K3 交了一个让我都 ...",
+      "published_at": "2026-07-20T00:40:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CYRqgwNXQGM/hqdefault.jpg"
+    },
     {
       "title": "1B就能达到这种效果?LingBot-Vision实测!",
       "video_id": "D0fN76uAro8",
@@ -67,22 +83,6 @@
       "description": "智谱刚出了一个GLM-5.1-highspeed 版本, 赶紧要了个内测给大家做点有趣的APP. 我测了一下这个模型反应速度用来写代码的话, ...",
       "published_at": "2026-05-26T01:44:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EBJj8Ew5UX8/hqdefault.jpg"
-    },
-    {
-      "title": "Kimi-K2.6 前端/后端/Agent编程能力实测! 甚至还帮我做了个游戏!",
-      "video_id": "z62WURHOzJM",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来刚刚正式发布的kimi-k2.6 的正式版本的实测! 本次为了考验它的长程Agentic Coding能力, 我用kimi-k2.6-code-preview 写 ...",
-      "published_at": "2026-04-21T14:43:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z62WURHOzJM/hqdefault.jpg"
-    },
-    {
-      "title": "花费106刀测试! Claude-Opus-4.7 到底更新了啥?",
-      "video_id": "g6hZ5en0JDc",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来Claude-Opus-4.7 的视觉能力+前端+后端能力测试! 本次测试多模态前端测试采用pass@3 (相同prompt运行3次取最好 ...",
-      "published_at": "2026-04-19T09:42:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g6hZ5en0JDc/hqdefault.jpg"
     }
   ]
 }

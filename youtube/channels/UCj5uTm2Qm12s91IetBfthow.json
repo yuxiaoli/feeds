@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-19T02:57:16.798237",
+  "fetched_at": "2026-07-26T03:16:22.940226",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "AI偷偷杀死我的编程能力怎么办？",
+      "video_id": "vXbIS6Oyzts",
+      "channel_title": "Find Interesting AI",
+      "description": "",
+      "published_at": "2026-07-19T23:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vXbIS6Oyzts/hqdefault.jpg"
+    },
     {
       "title": "小程序开发全流程踩坑总结",
       "video_id": "4iWHL_MIuhE",
@@ -75,14 +83,6 @@
       "description": "知识库 ...",
       "published_at": "2026-02-10T23:30:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KNjA6Jkbyzg/hqdefault.jpg"
-    },
-    {
-      "title": "2026年1月AI论文分享",
-      "video_id": "0eb30T3Voi8",
-      "channel_title": "Find Interesting AI",
-      "description": "知识库： my.feishu.cn/wiki/TPKwwEiLJibN4ek9fcQcYaZAnDd?",
-      "published_at": "2026-02-01T11:49:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0eb30T3Voi8/hqdefault.jpg"
     }
   ]
 }

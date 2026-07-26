@@ -1,25 +1,9 @@
 {
-  "fetched_at": "2026-07-19T02:56:41.868692",
+  "fetched_at": "2026-07-26T03:15:45.755172",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
-    {
-      "title": "who let us behind that bar lol @KelseaBallerini",
-      "video_id": "FmjotDUTM1w",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2026-07-16T23:09:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FmjotDUTM1w/hqdefault.jpg"
-    },
-    {
-      "title": "This one never misses",
-      "video_id": "WdfP3gpZNkE",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2026-07-13T21:15:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WdfP3gpZNkE/hqdefault.jpg"
-    },
     {
       "title": "She knows what she wants @KelseaBallerini",
       "video_id": "f5hNN-G0IiI",
@@ -83,6 +67,22 @@
       "description": "",
       "published_at": "2026-04-15T20:01:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FzNAUbTPoxo/hqdefault.jpg"
+    },
+    {
+      "title": "Where We Go with @thomasrhettmusic is everywhere now",
+      "video_id": "KSaGOOX3Fuo",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-04-10T20:41:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KSaGOOX3Fuo/hqdefault.jpg"
+    },
+    {
+      "title": "Where We Go w @thomasrhettmusic available everywhere Friday ​⁠",
+      "video_id": "gvt_87ttB_Q",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-04-06T17:31:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gvt_87ttB_Q/hqdefault.jpg"
     }
   ]
 }

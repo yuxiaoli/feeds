@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-19T02:56:34.753809",
+  "fetched_at": "2026-07-26T03:15:38.236974",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Tesla Q2 2026 Financial Results and Q&amp;A Webcast",
+      "video_id": "9H5y9Uag8AA",
+      "channel_title": "Tesla",
+      "description": "Start of the call: https://youtu.be/9H5y9Uag8AA?t=356.",
+      "published_at": "2026-07-22T22:39:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9H5y9Uag8AA/hqdefault.jpg"
+    },
+    {
+      "title": "Sensitive Seats | Model Y L",
+      "video_id": "GI8qKCGxN6I",
+      "channel_title": "Tesla",
+      "description": "When detecting an obstruction, Model Y Long Wheelbase powered seats & liftgate automatically pop back up.",
+      "published_at": "2026-07-21T16:49:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GI8qKCGxN6I/hqdefault.jpg"
+    },
     {
       "title": "Tesla Home: Home Energy Management, Powered by AI",
       "video_id": "8aGMLbS3NAo",
@@ -67,22 +83,6 @@
       "description": "No more high electricity bills or outages with Solar & Powerwall. See how Northeast US customers power their homes and charge ...",
       "published_at": "2025-03-18T17:51:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EQ1FqipyKD4/hqdefault.jpg"
-    },
-    {
-      "title": "Engineering Cybertruck for Maximum Safety | Tesla",
-      "video_id": "sINxIHVEj9A",
-      "channel_title": "Tesla",
-      "description": "Tesla engineers take you behind the scenes of our Crash Lab to show you how Cybertruck earned its 5-star safety rating – from ...",
-      "published_at": "2025-02-19T22:24:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sINxIHVEj9A/hqdefault.jpg"
-    },
-    {
-      "title": "Meet the New Model Y",
-      "video_id": "o6njP-ymE_M",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2025-01-24T01:39:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o6njP-ymE_M/hqdefault.jpg"
     }
   ]
 }

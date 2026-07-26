@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-07-19T02:56:34.036310",
+  "fetched_at": "2026-07-26T03:15:37.467517",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 8,
+  "count": 9,
   "videos": [
+    {
+      "title": "The AI Portfolio That Gives You an Edge in Interviews",
+      "video_id": "N3FDISelpOE",
+      "channel_title": "Tech With Tim",
+      "description": "Want something to talk about in an AI engineering interview that edges out the competition? Build a real portfolio. Not tutorial ...",
+      "published_at": "2026-07-25T12:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N3FDISelpOE/hqdefault.jpg"
+    },
+    {
+      "title": "I Built a One-Person Company Using AI Agents",
+      "video_id": "uCzXJKitKBs",
+      "channel_title": "Tech With Tim",
+      "description": "Try Accio Work (7-day free trial for top models + bonus credits): https://www.accio.com/work?src=p_ytkol_techwithtim I run a ...",
+      "published_at": "2026-07-24T13:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uCzXJKitKBs/hqdefault.jpg"
+    },
+    {
+      "title": "LLMOps The AI Engineering Skill Employers Care About Most",
+      "video_id": "hLxrj2uiQt8",
+      "channel_title": "Tech With Tim",
+      "description": "This is the part employers care about most and the thing that makes you stand out as an AI engineer: LLMOps. You already know ...",
+      "published_at": "2026-07-24T12:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hLxrj2uiQt8/hqdefault.jpg"
+    },
+    {
+      "title": "GLM 5.2 in Claude Code is Blowing My Mind",
+      "video_id": "yRtUkbq_hHo",
+      "channel_title": "Tech With Tim",
+      "description": "Use the Zapier MCP server to connect to over 8000 applications/tools: ﻿https://bit.ly/4vLT37w GLM 5.2 is one of the best open ...",
+      "published_at": "2026-07-23T14:01:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yRtUkbq_hHo/hqdefault.jpg"
+    },
+    {
+      "title": "RAG Explained The Most In Demand Pattern in AI Engineering",
+      "video_id": "mEL4_t3an78",
+      "channel_title": "Tech With Tim",
+      "description": "RAG, or retrieval augmented generation, is probably the most in-demand pattern in AI engineering right now. It's been around a ...",
+      "published_at": "2026-07-23T12:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mEL4_t3an78/hqdefault.jpg"
+    },
+    {
+      "title": "Your AI Agent Is Probably Hackable. Fix It in 30 Minutes",
+      "video_id": "MEfpHENH78c",
+      "channel_title": "Tech With Tim",
+      "description": "Deploy Hermes securely here: https://www.hostg.xyz/SHJlT Deploy OpenClaw securely here: https://www.hostg.xyz/SHJlU Get a ...",
+      "published_at": "2026-07-22T15:49:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MEfpHENH78c/hqdefault.jpg"
+    },
+    {
+      "title": "Lovable Full Course for Beginners: Build &amp; Deploy a Real App",
+      "video_id": "pZpoACNOPAw",
+      "channel_title": "Tech With Tim",
+      "description": "Create a free Supabase account to use as the backend for your Loveable app: https://supabase.link/dy3LNc4 No code.",
+      "published_at": "2026-07-21T13:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pZpoACNOPAw/hqdefault.jpg"
+    },
     {
       "title": "Is Local AI Coding Actually Good?",
       "video_id": "8JRJq4EEdik",
@@ -13,60 +69,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8JRJq4EEdik/hqdefault.jpg"
     },
     {
-      "title": "AI Engineer Means 5 Different Things",
-      "video_id": "jPaEhSRIdnI",
-      "channel_title": "Tech With Tim",
-      "description": "The title \"AI engineer\" can mean about five different things depending on who you ask. It's not an AI researcher training the next ...",
-      "published_at": "2026-07-18T12:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jPaEhSRIdnI/hqdefault.jpg"
-    },
-    {
-      "title": "Software Engineers Are Already Halfway to AI Engineering",
-      "video_id": "wtWyzCRi1fo",
-      "channel_title": "Tech With Tim",
-      "description": "If you're already a software engineer, you're probably about 80% of the way to becoming an AI engineer and don't even know it.",
-      "published_at": "2026-07-17T12:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wtWyzCRi1fo/hqdefault.jpg"
-    },
-    {
       "title": "AI Agents Explained - What Is an AI Agent and how to build one? (Real Examples, Not Hype)",
       "video_id": "ZvDkJsKE80k",
       "channel_title": "Tech With Tim",
       "description": "Best courses to learn all about AI agents and AI engineering: DataCamp's Associate AI Engineer for Developers Track ...",
       "published_at": "2026-07-16T13:00:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZvDkJsKE80k/hqdefault.jpg"
-    },
-    {
-      "title": "Turn Figma Designs Into Working Code With Claude Code",
-      "video_id": "skvDVmuZT-w",
-      "channel_title": "Tech With Tim",
-      "description": "This one's a must for anyone doing real software development with designers on their team: the Figma plugin for Claude Code.",
-      "published_at": "2026-07-16T12:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/skvDVmuZT-w/hqdefault.jpg"
-    },
-    {
-      "title": "One API Key Connects 100 Tools to Claude Code and Codex",
-      "video_id": "XZ4UHROz0mQ",
-      "channel_title": "Tech With Tim",
-      "description": "Tired of reconnecting the same tools in every AI agent? Composio fixes that. You connect all your tools and accounts on one web ...",
-      "published_at": "2026-07-15T12:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XZ4UHROz0mQ/hqdefault.jpg"
-    },
-    {
-      "title": "Codex - Full Course for Beginners",
-      "video_id": "ZXkeWiWB4xg",
-      "channel_title": "Tech With Tim",
-      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
-      "published_at": "2026-07-14T12:27:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZXkeWiWB4xg/hqdefault.jpg"
-    },
-    {
-      "title": "Build 3 AI Automations From Scratch - Complete Beginner Guide",
-      "video_id": "gFSkmD8vbfg",
-      "channel_title": "Tech With Tim",
-      "description": "Build AI automations with Genspark for free: https://bit.ly/3QDrpeo (new registered users can get free credits) Most people use AI ...",
-      "published_at": "2026-07-04T13:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gFSkmD8vbfg/hqdefault.jpg"
     }
   ]
 }

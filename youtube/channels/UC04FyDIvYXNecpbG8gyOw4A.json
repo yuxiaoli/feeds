@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-07-19T02:56:27.649440",
+  "fetched_at": "2026-07-26T03:15:30.581518",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Hey Meta x All-Star Weekend",
+      "video_id": "1SCIc_tH038",
+      "channel_title": "Meta",
+      "description": "The ladies of the W pulled up to All-Star Weekend with some questions.",
+      "published_at": "2026-07-25T16:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1SCIc_tH038/hqdefault.jpg"
+    },
+    {
+      "title": "The future is for everyone.",
+      "video_id": "JlRgRmAqoAc",
+      "channel_title": "Meta",
+      "description": "We believe the future will have fewer barriers and more breakthroughs, but no matter what changes, people will be at the heart of ...",
+      "published_at": "2026-07-23T09:59:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JlRgRmAqoAc/hqdefault.jpg"
+    },
+    {
+      "title": "Reel of the Week | the beachiest bouquet via @stacy.creates_ on IG",
+      "video_id": "d4KZVhwkWEs",
+      "channel_title": "Meta",
+      "description": "Stacy is a creator who turns simple materials into beautiful projects… like taking seashells and turning them into stunning ...",
+      "published_at": "2026-07-21T16:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/d4KZVhwkWEs/hqdefault.jpg"
+    },
+    {
+      "title": "An Instagram Scavenger Hunt",
+      "video_id": "_TvRJjQamqI",
+      "channel_title": "Meta",
+      "description": "a treasure hunt but make it art with Laura Normand, a paris-based illustrator celebrated for her pop-infused, trippy visuals. in her ...",
+      "published_at": "2026-07-20T16:38:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_TvRJjQamqI/hqdefault.jpg"
+    },
     {
       "title": "Let @phoebesandersbanjo and puppets make your day",
       "video_id": "LZkP56CQ3lo",
@@ -51,38 +83,6 @@
       "description": "Spilling tea facts with George Russell.",
       "published_at": "2026-07-05T16:00:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/i55knpDqWbQ/hqdefault.jpg"
-    },
-    {
-      "title": "Reel of the Week: @rosevlexa",
-      "video_id": "gl2R3QivRMY",
-      "channel_title": "Meta",
-      "description": "rosevlexa is a film and advertising creator whose hyper-realistic \"zipper food\" pouches (made from items like pickles, bread, and ...",
-      "published_at": "2026-07-02T16:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gl2R3QivRMY/hqdefault.jpg"
-    },
-    {
-      "title": "Boz To The Future #27: The Future According to Shyam Sankar",
-      "video_id": "bOTy3Q5_trw",
-      "channel_title": "Meta",
-      "description": "In this episode, Boz sits down with Shyam Sankar, CTO of Palantir Technologies, fellow Lieutenant Colonel in the U.S. Army ...",
-      "published_at": "2026-07-02T13:44:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bOTy3Q5_trw/hqdefault.jpg"
-    },
-    {
-      "title": "Behind the Tech: Maxine and Molly",
-      "video_id": "tH2DnBbYm2U",
-      "channel_title": "Meta",
-      "description": "Our VP of Accessibility, Maxine Williams, is chatting with @MollyBurkeOfficial to get a different perspective on @raybanmeta ...",
-      "published_at": "2026-06-30T16:12:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tH2DnBbYm2U/hqdefault.jpg"
-    },
-    {
-      "title": "Hey Meta x Coco Schiffer",
-      "video_id": "0BGflErfumM",
-      "channel_title": "Meta",
-      "description": "things Coco Schiffer finds incredibly chic, Meta Glasses.",
-      "published_at": "2026-06-25T16:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0BGflErfumM/hqdefault.jpg"
     }
   ]
 }

@@ -1,32 +1,80 @@
 {
-  "fetched_at": "2026-07-19T02:56:46.211994",
+  "fetched_at": "2026-07-26T03:15:50.180722",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
-  "count": 8,
+  "count": 10,
   "videos": [
     {
-      "title": "AI新生意：1万美元给Vibe Coding擦屁股 | AI编程 | Claude Code | Cursor | 技术债 | 代码重构 | Slopfix | Rust开发 | AI工程化",
-      "video_id": "cBVYtaBn9fc",
+      "title": "非共识投资的哲学 | 鲁帕尔·班萨利 | 传奇女投资人 | 逆向投资 | 风险管理 | 价值投资 | 英伟达 | 查理·芒格 | 华尔街 | 巴菲特 | 主动管理 | 拥挤交易 | 定价权",
+      "video_id": "TQDQ_rtN0gg",
       "channel_title": "最佳拍档",
-      "description": "AI编程普及后出现了荒诞新现象：靠Vibe Coding生成的项目做大后代码冗余失控，3名资深工程师组成的Slopfix团队推出一周1万 ...",
-      "published_at": "2026-07-16T09:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cBVYtaBn9fc/hqdefault.jpg"
+      "description": "本期视频分享传奇逆向投资者鲁帕尔·班萨利的深度访谈，她曾供职于索罗斯基金，管理数十亿美元资产。班萨利提出投资中仅正确 ...",
+      "published_at": "2026-07-25T23:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TQDQ_rtN0gg/hqdefault.jpg"
     },
     {
-      "title": "像蜻蜓一样九种角度看懂AI | 复眼思维 | 超客体 | AI工作 | AI地缘政治 | AI权力集中 | 深度伪造 | AI环境影响 | AI安全 | 对齐问题",
-      "video_id": "F-BSsFgk2dQ",
+      "title": "AI根本不需要意识？ | 盲视Blindsight | 彼得·沃茨 | AGI | 吸血鬼 | 忒修斯号 | 罗夏 | Agentic系统 | 扰频者 | DDoS攻击 | 进化劣势 | 硬科幻",
+      "video_id": "trR3whnqJIk",
       "channel_title": "最佳拍档",
-      "description": "澳大利亚国立大学教授Anthea Roberts提出\"蜻蜓复眼思维\"框架，指出AI是无法用单一视角理解的\"超客体\"。本文系统拆解看待AI的九 ...",
-      "published_at": "2026-07-15T09:14:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/F-BSsFgk2dQ/hqdefault.jpg"
+      "description": "二十年前的硬科幻神作《盲视》预言了今天AI技术的发展方向，更提出了一个颠覆常识的假设：智能可能根本不需要意识，意识不仅 ...",
+      "published_at": "2026-07-25T09:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/trR3whnqJIk/hqdefault.jpg"
     },
     {
-      "title": "1650亿投资人警告卖光美股 | Jeremy Grantham | AI泡沫 | 美股投资 | 科技股 | 资产配置 | 市场崩盘 | Mag 7 | 英伟达 | 房地产 | 财富不平等 | 生育率",
-      "video_id": "4F7MspvNCgE",
+      "title": "大语言模型是如何工作的 | LLM | Transformer | 注意力机制 | 位置编码 | 多头注意力 | 前馈网络 | 残差连接 | MoE | RoPE | 人工智能",
+      "video_id": "jFuft0mKj7E",
       "channel_title": "最佳拍档",
-      "description": "传奇投资人杰里米·格兰瑟姆管理过1650亿美元，近60年投资生涯中多次成功预警泡沫。本期视频深度解析他在The Diary of a CEO ...",
-      "published_at": "2026-07-14T09:03:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4F7MspvNCgE/hqdefault.jpg"
+      "description": "本期视频硬核拆解大语言模型内部工作机制，从分词、嵌入、位置编码讲起，逐层深入注意力、多头注意力、前馈网络、残差流与归 ...",
+      "published_at": "2026-07-24T10:03:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jFuft0mKj7E/hqdefault.jpg"
+    },
+    {
+      "title": "未来公司都将建立在Harness工程之上 | 黄仁勋 | LangChain | Nemotron | 企业AI | 智能体 | RAG | 开源模型 | AI部署 | 深度学习 | 科技前沿",
+      "video_id": "vxcpXXpG-yA",
+      "channel_title": "最佳拍档",
+      "description": "本期视频深度解读2026年7月8日英伟达CEO黄仁勋与LangChain创始人的重磅对话。黄仁勋在对话中提出核心判断：过去六个月AI ...",
+      "published_at": "2026-07-23T23:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vxcpXXpG-yA/hqdefault.jpg"
+    },
+    {
+      "title": "大模型每个参数能记忆多少东西？| ICML 2026 | 3.6比特 | Transformer | 模型容量 | 非预期记忆 | 泛化能力 | 双下降 | 成员推断 | 训练数据泄露 | 信息论",
+      "video_id": "_OTcigj2rwg",
+      "channel_title": "最佳拍档",
+      "description": "本期解读ICML 2026杰出论文荣誉提名工作，来自Meta、DeepMind、康奈尔与NVIDIA的联合研究首次量化大模型记忆容量：GPT类 ...",
+      "published_at": "2026-07-23T09:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_OTcigj2rwg/hqdefault.jpg"
+    },
+    {
+      "title": "如何用AI找到未知的未知 | Thariq | Claude | Fable | 提示词 | 未知量 | 地图与领土 | 工作方法论 | 效率工具 | AI教程",
+      "video_id": "M-LF4bYjiBY",
+      "channel_title": "最佳拍档",
+      "description": "Anthropic技术团队成员塔里克·希哈帕尔提出的\"地图与领土\"框架正在改变AI使用方式。你给AI的提示词是地图，真实任务环境是领土 ...",
+      "published_at": "2026-07-22T23:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M-LF4bYjiBY/hqdefault.jpg"
+    },
+    {
+      "title": "69岁图灵奖得主向LLM宣战 | Richard Sutton | Oak Lab | AGI | OaK架构 | 大语言模型 | 大世界模型 | 持续学习 | 世界模型 | 20瓦智能体",
+      "video_id": "fJxvN7FSP28",
+      "channel_title": "最佳拍档",
+      "description": "2026年7月，年近七旬的\"强化学习之父\"、2024年图灵奖得主Richard Sutton宣布离开John Carmack创办的Keen Technologies， ...",
+      "published_at": "2026-07-22T11:14:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fJxvN7FSP28/hqdefault.jpg"
+    },
+    {
+      "title": "Claude Tag揭秘，Slack会成为新的IDE吗 | Lamis Mukta | Claude Code | 智能体 | Dreaming睡眠整理 | 团队协作 | 大语言模型 | AI生产力",
+      "video_id": "krrWgo4iQgI",
+      "channel_title": "最佳拍档",
+      "description": "本期视频深度解读Anthropic应用AI团队研发人员Lamis Mukta在AI Native Dev播客的专访，全面剖析最新团队协作型AI智能体 ...",
+      "published_at": "2026-07-20T23:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/krrWgo4iQgI/hqdefault.jpg"
+    },
+    {
+      "title": "Kimi K3发布，开源模型硬刚闭源前沿 | 月之暗面 | 杨植麟 | 2.8万亿参数 | MoE架构 | AI芯片设计 | GPU编译器 | Claude Fable 5 | GPT-5.6",
+      "video_id": "BGBEnbBCmpk",
+      "channel_title": "最佳拍档",
+      "description": "本期视频深度解读月之暗面最新发布的Kimi K3大模型——这个2.8万亿参数的开源模型在34%基准测试上击败Claude Fable 5，能48 ...",
+      "published_at": "2026-07-20T09:11:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BGBEnbBCmpk/hqdefault.jpg"
     },
     {
       "title": "【人工智能】AI未来发展的核心支柱 | 钢铁、服务器、能源 | David Cahn红杉美国合伙人 | 数据中心 | 基建效率 | 现金牛 | 房地产 | 资产负债表外融资",
@@ -35,38 +83,6 @@
       "description": "今天我们来分享一个20VC推出的播客节目，在这档节目中，投资人大卫·卡恩David Cahn与播客主持人哈里·斯特宾斯Harry ...",
       "published_at": "2024-08-15T09:00:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5gDrGItwDg4/hqdefault.jpg"
-    },
-    {
-      "title": "【商业】创业公司如何找到产品市场契合点PMF | 红杉资本Arc活动分享 |  产品与客户之间的三种关系 | 如何选择路径 | 燃眉之急 | 铁的事实 | 未来愿景",
-      "video_id": "nJIVpB05eKY",
-      "channel_title": "最佳拍档",
-      "description": "今天这是一期科技创业者必看的视频。对于所有初创公司来说，核心任务就是寻找产品与市场的契合点，也就是所谓 ...",
-      "published_at": "2024-05-01T10:06:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nJIVpB05eKY/hqdefault.jpg"
-    },
-    {
-      "title": "关于中美企业异国发展蔡崇信给出了一些务实建议",
-      "video_id": "_EckgvG2mAI",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts.",
-      "published_at": "2024-04-07T05:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_EckgvG2mAI/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI为何能坚持AGI道路 #openai #人工智能",
-      "video_id": "U0DFLWtAGO4",
-      "channel_title": "最佳拍档",
-      "description": "【官方商店| 购买同款T恤】：https://go.bstp.hk/t-shirts.",
-      "published_at": "2024-03-04T00:08:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/U0DFLWtAGO4/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】如何写好提示词 | OpenAI官方提示工程指南 | 六大原则 | 清晰细致 | 提供参考 | 任务拆分 | 让它思考 | 外部工具 | 系统测试",
-      "video_id": "yhk9x__D-Us",
-      "channel_title": "最佳拍档",
-      "description": "就在近日，OpenAI 官方发布了Prompt 工程指南，讲述了快速上手ChatGPT Prompt 的种种「屠龙术」，不仅在理论层面对Prompt ...",
-      "published_at": "2024-01-08T08:05:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yhk9x__D-Us/hqdefault.jpg"
     }
   ]
 }

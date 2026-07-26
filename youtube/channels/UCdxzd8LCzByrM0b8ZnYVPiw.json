@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-19T02:57:13.282006",
+  "fetched_at": "2026-07-26T03:16:18.839159",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Sound that travels | Bang &amp; Olufsen",
+      "video_id": "hth-_-wdlJ0",
+      "channel_title": "Bang & Olufsen",
+      "description": "Travel is bigger than the destination. It's the moments in the middle. The stories you'll retell. The people waiting for you to arrive.",
+      "published_at": "2026-07-19T13:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hth-_-wdlJ0/hqdefault.jpg"
+    },
+    {
+      "title": "The soundtrack of lasting memories",
+      "video_id": "hR-0ZYtbim8",
+      "channel_title": "Bang & Olufsen",
+      "description": "Travel is bigger than the destination. It's the moments in the middle. The stories you'll retell. The people waiting for you to arrive.",
+      "published_at": "2026-07-19T12:30:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hR-0ZYtbim8/hqdefault.jpg"
+    },
     {
       "title": "Summer sounds. On replay. | Bang &amp; Olufsen",
       "video_id": "fatL0SrIVrk",
@@ -67,22 +83,6 @@
       "description": "Hiroshi Fujiwara came to this partnership as an admirer first. Thirty-five years of listening with Bang & Olufsen influences every ...",
       "published_at": "2026-05-19T12:33:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4IHg2XM62iw/hqdefault.jpg"
-    },
-    {
-      "title": "Bang &amp; Olufsen | Fragment design",
-      "video_id": "aAS7oH0y0LM",
-      "channel_title": "Bang & Olufsen",
-      "description": "Hiroshi Fujiwara came to this partnership as an admirer first. Thirty-five years of listening with Bang & Olufsen influences every ...",
-      "published_at": "2026-05-19T09:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aAS7oH0y0LM/hqdefault.jpg"
-    },
-    {
-      "title": "Bang &amp; Olufsen | Fragment",
-      "video_id": "gct8nMN2pfw",
-      "channel_title": "Bang & Olufsen",
-      "description": "Some things need no introduction. Bang & Olufsen and Fragment, coming soon.​ ​#BangOlufsen.",
-      "published_at": "2026-05-17T10:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gct8nMN2pfw/hqdefault.jpg"
     }
   ]
 }
