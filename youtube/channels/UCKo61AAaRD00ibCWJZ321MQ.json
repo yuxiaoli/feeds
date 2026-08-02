@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-26T03:15:57.542114",
+  "fetched_at": "2026-08-02T03:14:29.424283",
   "channel_id": "UCKo61AAaRD00ibCWJZ321MQ",
   "channel_title": "SoKrispyMedia",
   "count": 10,
   "videos": [
+    {
+      "title": "Chalk Warfare 4.5 | Official Video Game Reveal",
+      "video_id": "IAYMfaFXPoo",
+      "channel_title": "SoKrispyMedia",
+      "description": "Wishlist the game today! https://store.steampowered.com/app/2935800/Chalk_Warfare/ Drawing weapons with chalk? Chalk ...",
+      "published_at": "2026-07-31T13:15:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IAYMfaFXPoo/hqdefault.jpg"
+    },
     {
       "title": "Tesla Robot Breaks a $40,000 PC",
       "video_id": "HjhEkIXWr58",
@@ -75,14 +83,6 @@
       "description": "DIY portal gun took me to an unrecognizable version of Rick and Morty.",
       "published_at": "2025-06-02T01:30:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0kwQNklYkZc/hqdefault.jpg"
-    },
-    {
-      "title": "Real Life Mario Kart World",
-      "video_id": "QsF5hjDEaaY",
-      "channel_title": "SoKrispyMedia",
-      "description": "That took a turn… #mariokart #reallife.",
-      "published_at": "2025-04-27T01:45:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QsF5hjDEaaY/hqdefault.jpg"
     }
   ]
 }

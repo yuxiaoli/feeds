@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-26T03:16:15.042464",
+  "fetched_at": "2026-08-02T03:14:45.326190",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "هاندستاند على سطح متحرك",
+      "video_id": "FKmxSWFFY1E",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-07-27T09:10:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FKmxSWFFY1E/hqdefault.jpg"
+    },
+    {
+      "title": "القوة في الكالسثنكس",
+      "video_id": "wG8JxO1KhVU",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-07-26T09:48:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wG8JxO1KhVU/hqdefault.jpg"
+    },
     {
       "title": "افضل طريقة عشان تبدأ تتعلم العقلة",
       "video_id": "vyIhknmQ4bI",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-06-17T12:42:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/YeN0k5PKyac/hqdefault.jpg"
-    },
-    {
-      "title": "حل مشكلة الاعتماد على جهة اكثر من الثانية في الديب",
-      "video_id": "2tDjgQ9xU6I",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-06-15T11:55:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2tDjgQ9xU6I/hqdefault.jpg"
-    },
-    {
-      "title": "قربت من التحول",
-      "video_id": "hvD2a0m6iIo",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-06-02T13:31:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hvD2a0m6iIo/hqdefault.jpg"
     }
   ]
 }

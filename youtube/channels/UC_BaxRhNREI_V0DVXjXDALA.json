@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-07-26T03:16:13.528392",
+  "fetched_at": "2026-08-02T03:14:43.943079",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 1,
+  "count": 3,
   "videos": [
     {
-      "title": "No details spared #shorts",
-      "video_id": "6-7rNuPtGPk",
+      "title": "Cutting it close #shorts",
+      "video_id": "EbfUFO1USnI",
       "channel_title": "Porsche",
-      "description": "Attention to detail? Check. ✓ IG: @mogt3rs ___ 911 GT3 RS (WLTP): Fuel consumption combined: 13.2 l/100 km; CO₂ ...",
-      "published_at": "2026-07-23T15:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6-7rNuPtGPk/hqdefault.jpg"
+      "description": "Did someone say best view in the house? IG: @ludovicolongoni.",
+      "published_at": "2026-07-30T15:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EbfUFO1USnI/hqdefault.jpg"
+    },
+    {
+      "title": "Porsche Raceborn Moments | Behind the scenes at Icons of Porsche – Sunstede Silverstone Edition",
+      "video_id": "5atI94_H4p0",
+      "channel_title": "Porsche",
+      "description": "Some moments are defined by the cars. Others by the people behind them. Episode seven of Porsche Raceborn Moments takes ...",
+      "published_at": "2026-07-29T15:01:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5atI94_H4p0/hqdefault.jpg"
+    },
+    {
+      "title": "No translation needed #shorts",
+      "video_id": "Zkop72caxSM",
+      "channel_title": "Porsche",
+      "description": "Porsche drivers speak their own language. IG: @alexserrrano @valvetronic.",
+      "published_at": "2026-07-28T15:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Zkop72caxSM/hqdefault.jpg"
     }
   ]
 }

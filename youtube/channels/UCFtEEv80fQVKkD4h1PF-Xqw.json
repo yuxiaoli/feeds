@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-07-26T03:15:49.435442",
+  "fetched_at": "2026-08-02T03:14:22.029279",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
+    {
+      "title": "The AI question every team should ask",
+      "video_id": "Z0wqxv-oo48",
+      "channel_title": "Microsoft",
+      "description": "Microsoft CVP of Workforce Transformation Katy George on how to spot where AI actually adds value in a workflow—and why ...",
+      "published_at": "2026-07-29T20:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z0wqxv-oo48/hqdefault.jpg"
+    },
+    {
+      "title": "Your job will never stop changing",
+      "video_id": "oPGtv7cOB8g",
+      "channel_title": "Microsoft",
+      "description": "Microsoft CVP of Workforce Transformation Katy George on why AI transformation isn't a one-and-done event—it's the new reality ...",
+      "published_at": "2026-07-27T19:45:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oPGtv7cOB8g/hqdefault.jpg"
+    },
+    {
+      "title": "The future of work has no org chart | Microsoft Katy George",
+      "video_id": "r4qZz66GlNQ",
+      "channel_title": "Microsoft",
+      "description": "Rigid org charts are becoming a barrier to AI-fueled business impact. Microsoft's CVP of Workforce Transformation Katy George ...",
+      "published_at": "2026-07-27T16:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r4qZz66GlNQ/hqdefault.jpg"
+    },
     {
       "title": "Doris Kearns Goodwin meets Teddy Roosevelt",
       "video_id": "MJu_-hiK_qk",
@@ -59,30 +83,6 @@
       "description": "Say how you feel. Get a poem that meets you there. Ode is a voice experience built around William Sieghart, who has spent years ...",
       "published_at": "2026-07-09T07:45:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hnLxZYDb4z0/hqdefault.jpg"
-    },
-    {
-      "title": "Freedom is built on the protection of privacy | Episode 2",
-      "video_id": "FGftt6llon0",
-      "channel_title": "Microsoft",
-      "description": "In 1761, a Boston courtroom became the birthplace of an idea that would help define a nation. British troops were going home to ...",
-      "published_at": "2026-07-08T15:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FGftt6llon0/hqdefault.jpg"
-    },
-    {
-      "title": "America&#39;s recipe for innovation is enshrined in the Constitution",
-      "video_id": "SfUH9ENJCko",
-      "channel_title": "Microsoft",
-      "description": "In the summer of 1787, a coincidence in Philadelphia unleashed a wave of American innovation. As the Constitutional Convention ...",
-      "published_at": "2026-07-02T12:01:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SfUH9ENJCko/hqdefault.jpg"
-    },
-    {
-      "title": "Creator authenticity is the real growth strategy | Cannes Lions 2026",
-      "video_id": "2Ih8YuoqyH0",
-      "channel_title": "Microsoft",
-      "description": "At Cannes Lions 2026, @Keith_lee1225, @Olandria-Carthen, and @KingWillonius join @NotWildlin Pierrevil for a conversation ...",
-      "published_at": "2026-06-30T21:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2Ih8YuoqyH0/hqdefault.jpg"
     }
   ]
 }

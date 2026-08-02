@@ -1,24 +1,48 @@
 {
-  "fetched_at": "2026-07-26T03:15:58.229123",
+  "fetched_at": "2026-08-02T03:14:30.063799",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 9,
+  "count": 8,
   "videos": [
     {
-      "title": "International Space Station Change of Command Ceremony",
-      "video_id": "IWdOksXT2FI",
+      "title": "U.S. Spacewalk Preview News Conference (July 30, 2026)",
+      "video_id": "ea9gZp_KxBU",
       "channel_title": "NASA",
-      "description": "As MS-28 prepares to depart from the space station, Roscosmos cosmonaut Sergey Kud-Sverchkov hands command of the ...",
-      "published_at": "2026-07-25T13:52:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IWdOksXT2FI/hqdefault.jpg"
+      "description": "August will be a month of spacewalks. Tune in and find out what's happening! NASA experts are speaking about three upcoming ...",
+      "published_at": "2026-07-30T18:42:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ea9gZp_KxBU/hqdefault.jpg"
     },
     {
-      "title": "NASA Astronaut Chris Williams Soyuz MS-28 Re-entry and Landing",
-      "video_id": "4h884umjihw",
+      "title": "Live Video from the International Space Station (Official NASA Stream)",
+      "video_id": "M3HKLzjvKPc",
       "channel_title": "NASA",
-      "description": "After 241 days in orbit, astronaut Chris Williams is returning home from his first mission to the International Space Station. Williams ...",
-      "published_at": "2026-07-21T16:22:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4h884umjihw/hqdefault_live.jpg"
+      "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
+      "published_at": "2026-07-30T13:13:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M3HKLzjvKPc/hqdefault_live.jpg"
+    },
+    {
+      "title": "Nancy Grace Roman Space Telescope Mission Preview News Conference (July 29, 2026)",
+      "video_id": "7I-yAwdxWQo",
+      "channel_title": "NASA",
+      "description": "Tune in as we preview the Nancy Grace Roman Space Telescope mission one month ahead of its scheduled launch on Aug. 30!",
+      "published_at": "2026-07-29T19:06:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7I-yAwdxWQo/hqdefault.jpg"
+    },
+    {
+      "title": "2026 Total Solar Eclipse (Official NASA Trailer)",
+      "video_id": "29ixFQIGZaY",
+      "channel_title": "NASA",
+      "description": "The Sun and Moon are coming together to put on a show for Earth, and we'll be sharing it with you. On Aug. 12, 2026, a total solar ...",
+      "published_at": "2026-07-29T15:55:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/29ixFQIGZaY/hqdefault.jpg"
+    },
+    {
+      "title": "NASA Astronaut Chris Williams Postflight News Conference (Aug. 4, 2026)",
+      "video_id": "mpWTcLv72oE",
+      "channel_title": "NASA",
+      "description": "Tune in as astronaut Chris Williams recaps his eight-month mission aboard the International Space Station. After logging 241 ...",
+      "published_at": "2026-07-24T19:11:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mpWTcLv72oE/hqdefault_live.jpg"
     },
     {
       "title": "NASA&#39;s SpaceX Crew-13 Flight Crew News Conference (Aug. 3, 2026)",
@@ -37,44 +61,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IDUtReQSlb0/hqdefault_live.jpg"
     },
     {
-      "title": "Nancy Grace Roman Space Telescope Mission Preview News Conference (July 29, 2026)",
-      "video_id": "7I-yAwdxWQo",
-      "channel_title": "NASA",
-      "description": "Tune in as we preview the Nancy Grace Roman Space Telescope mission one month ahead of its scheduled launch on Aug. 30!",
-      "published_at": "2026-07-21T14:19:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7I-yAwdxWQo/hqdefault_live.jpg"
-    },
-    {
-      "title": "NASA Astronaut Chris Williams Soyuz MS-28 Undocking",
-      "video_id": "1_e4OmkAeOg",
-      "channel_title": "NASA",
-      "description": "Watch as NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev begin their ...",
-      "published_at": "2026-07-17T20:31:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1_e4OmkAeOg/hqdefault_live.jpg"
-    },
-    {
-      "title": "NASA Astronaut Chris Williams Soyuz MS-28 Space Station Farewells and Hatch Closing",
-      "video_id": "tomr1xRb4ac",
-      "channel_title": "NASA",
-      "description": "Watch as NASA astronaut Chris Williams wraps up an 8-month mission aboard the International Space Station by exchanging ...",
-      "published_at": "2026-07-17T20:28:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tomr1xRb4ac/hqdefault_live.jpg"
-    },
-    {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
       "video_id": "awQzjn72bI0",
       "channel_title": "NASA",
       "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
       "published_at": "2026-06-30T13:11:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/awQzjn72bI0/hqdefault_live.jpg"
-    },
-    {
-      "title": "Live Video from the International Space Station (Official NASA Stream)",
-      "video_id": "uwXgcTc8oY8",
-      "channel_title": "NASA",
-      "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
-      "published_at": "2026-05-06T14:46:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uwXgcTc8oY8/hqdefault_live.jpg"
     }
   ]
 }

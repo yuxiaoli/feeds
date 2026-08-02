@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-26T03:16:15.805156",
+  "fetched_at": "2026-08-02T03:14:46.000097",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "How I Got Better at Muscle-Ups Without Doing Them",
+      "video_id": "2I690NsojDA",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-07-30T15:19:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2I690NsojDA/hqdefault.jpg"
+    },
+    {
+      "title": "When Bodyweight training Gets Boring",
+      "video_id": "eAqqVKm7FxU",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-07-29T09:29:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eAqqVKm7FxU/hqdefault.jpg"
+    },
     {
       "title": "The World’s Strongest Teenager",
       "video_id": "L270eOwcEXA",
@@ -67,22 +83,6 @@
       "description": "I traveled all the way to Albania to challenge their strongest athletes. 5 levels. Easy to brutal. The rule was simple - beat Level 5, ...",
       "published_at": "2026-06-14T13:00:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DIJeMf9QyrQ/hqdefault.jpg"
-    },
-    {
-      "title": "5 Mistakes That Stop Your Calisthenics Progress",
-      "video_id": "jWiAq80TSbc",
-      "channel_title": "Andry Strong",
-      "description": "Everyone tells you to master the basics. Nobody tells you you're doing the basics WRONG. In this video I break down the 5 ...",
-      "published_at": "2026-05-31T15:16:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jWiAq80TSbc/hqdefault.jpg"
-    },
-    {
-      "title": "Craziest calisthenics save at FIBO",
-      "video_id": "nbZtJgLvKpg",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2026-05-26T07:46:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nbZtJgLvKpg/hqdefault.jpg"
     }
   ]
 }

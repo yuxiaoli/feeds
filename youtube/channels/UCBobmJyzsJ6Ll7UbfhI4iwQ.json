@@ -1,88 +1,48 @@
 {
-  "fetched_at": "2026-07-26T03:15:43.449930",
+  "fetched_at": "2026-08-02T03:14:16.684063",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 10,
+  "count": 5,
   "videos": [
     {
-      "title": "Audi F1—Designing Livery with the Power of Unreal Engine | Unreal Fest Chicago 2026",
-      "video_id": "5IGaSmzGepA",
+      "title": "Playing Creatures Islands w/ Special Guest: Hannah-Grace Mowery | Cuddles &amp; Chaos",
+      "video_id": "JF5Jz0ETccY",
       "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Chicago 2026, Audi AG gives a unique insight into their use of Unreal Engine to design the ...",
-      "published_at": "2026-07-25T14:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5IGaSmzGepA/hqdefault.jpg"
+      "description": "Cuddles and chaos await! Join us and Ghost Gaming's Hannah-Grace Mowery, one of the UEFN developers behind Sidekick ...",
+      "published_at": "2026-07-30T19:39:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JF5Jz0ETccY/hqdefault_live.jpg"
     },
     {
-      "title": "Build It in Engine: Modern Rigging with Control Rig &amp; Dataflow | Unreal Fest Chicago 2026",
-      "video_id": "wmC4S3Woj5I",
+      "title": "A Deep Dive into GPU Crashes in UE5 | Inside Unreal",
+      "video_id": "Ib_nFhgF4vk",
       "channel_title": "Unreal Engine",
-      "description": "Discover how to design and build production-quality character rigs directly inside Unreal Engine. This session recorded at Unreal ...",
-      "published_at": "2026-07-24T16:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wmC4S3Woj5I/hqdefault.jpg"
+      "description": "Join us as Huiwen Jiang shares practical tips and advice from their experience investigating and fixing GPU crashes in UE5.",
+      "published_at": "2026-07-30T19:19:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ib_nFhgF4vk/hqdefault.jpg"
     },
     {
-      "title": "MetaHumans x Clo: Workflows and Best Practices | Unreal Fest Chicago 2026",
-      "video_id": "A9CtqkjEa94",
+      "title": "How Unreal Engine 5 Is Transforming Halo",
+      "video_id": "Wy59n4KSZUQ",
       "channel_title": "Unreal Engine",
-      "description": "This talk recorded at Unreal Fest Chicago 2026 explores how best to work with Unreal Engine and Clo/Marvelous Designer in ...",
-      "published_at": "2026-07-24T14:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/A9CtqkjEa94/hqdefault.jpg"
+      "description": "Get the inside scoop on how Unreal Engine 5 and features like MegaLights, Lumen, and Nanite are helping usher in a new era of ...",
+      "published_at": "2026-07-30T16:43:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wy59n4KSZUQ/hqdefault.jpg"
     },
     {
-      "title": "MetaHumans in Blender: Using OpenRigLogic to Customize DNA&#39;s Behavior | Inside Unreal",
-      "video_id": "WZhDr5Ktf9c",
+      "title": "Halo: Campaign Evolved | Developer Interview | Unreal Engine",
+      "video_id": "dQL6N5Xzz2w",
       "channel_title": "Unreal Engine",
-      "description": "Following Epic's official announcement of the MetaHuman Devkit at Unreal Fest, Poly Hammer has integrated OpenRigLogic into ...",
-      "published_at": "2026-07-23T19:26:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WZhDr5Ktf9c/hqdefault.jpg"
-    },
-    {
-      "title": "Epic Games Store: 2026 Product Update | Unreal Fest Chicago 2026",
-      "video_id": "UaQk8Bv6mL8",
-      "channel_title": "Unreal Engine",
-      "description": "For years, the Epic Games Store has invested resources in back-end tooling and the overall developer experience. Now, we're ...",
-      "published_at": "2026-07-23T16:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UaQk8Bv6mL8/hqdefault.jpg"
-    },
-    {
-      "title": "The Player Was Here: Persisting World State and Actor LOD Systems | Unreal Fest Chicago 2026",
-      "video_id": "KBn62trwkLw",
-      "channel_title": "Unreal Engine",
-      "description": "In this session recorded at Unreal Fest Chicago 2026, we cover the state of relevant systems in Unreal Engine that help you ...",
-      "published_at": "2026-07-23T14:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KBn62trwkLw/hqdefault.jpg"
-    },
-    {
-      "title": "How to Start Your Project at 60 FPS and Keep It There | Unreal Fest Chicago 2026",
-      "video_id": "DxBKmQ-0kfw",
-      "channel_title": "Unreal Engine",
-      "description": "Epic Games' Matt Oztalay can talk about how to get your project running at your target frame rate until he's hoarse (and in fact has!)",
-      "published_at": "2026-07-22T16:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DxBKmQ-0kfw/hqdefault.jpg"
-    },
-    {
-      "title": "Lessons Learned from Building a Very Large Open World Game in UE5 | Unreal Fest Chicago 2026",
-      "video_id": "AalP65lrtpo",
-      "channel_title": "Unreal Engine",
-      "description": "This recording of a session presented by Unknown Worlds at Unreal Fest Chicago 2026 covers some of the many lessons learned ...",
-      "published_at": "2026-07-22T14:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AalP65lrtpo/hqdefault.jpg"
+      "description": "Watch this video to discover how UE5 brings high-definition visuals, refined controls, and updated cinematics to 'Halo: Campaign ...",
+      "published_at": "2026-07-30T14:44:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dQL6N5Xzz2w/hqdefault.jpg"
     },
     {
       "title": "Getting Started with In-Island Transactions | Creating in Fortnite",
       "video_id": "Fjfwxure5Wk",
       "channel_title": "Unreal Engine",
       "description": "In-island transactions unlock a new revenue stream in addition to engagement payouts. In this livestream, we use Verse to create ...",
-      "published_at": "2026-07-21T16:58:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Fjfwxure5Wk/hqdefault_live.jpg"
-    },
-    {
-      "title": "A Frame’s Life: Frame Timing, Synchronization, and Latency in UE | Unreal Fest Chicago 2026",
-      "video_id": "dKSHw_8vz3I",
-      "channel_title": "Unreal Engine",
-      "description": "Every frame in Unreal Engine goes on a long journey before reaching the screen. In this session recorded at Unreal Fest Chicago ...",
-      "published_at": "2026-07-21T16:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dKSHw_8vz3I/hqdefault.jpg"
+      "published_at": "2026-07-28T19:05:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fjfwxure5Wk/hqdefault.jpg"
     }
   ]
 }

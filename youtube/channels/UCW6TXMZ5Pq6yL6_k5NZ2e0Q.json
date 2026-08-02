@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-26T03:16:08.113240",
+  "fetched_at": "2026-08-02T03:14:39.175835",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "Pandas Explained: Series, DataFrames, and Real Data in Python",
+      "video_id": "j00KgxRSeng",
+      "channel_title": "Socratica",
+      "description": "Pandas turns Python into a data instrument. In this video we cover the two structures everything else is built on, the Series and the ...",
+      "published_at": "2026-07-29T10:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j00KgxRSeng/hqdefault.jpg"
+    },
     {
       "title": "Neural Networks with PyTorch (Python Tutorial)",
       "video_id": "yNX4kDpM5k4",
@@ -75,14 +83,6 @@
       "description": "Join our Patreon: https://www.patreon.com/cw/socratica Sign up for Socratica Courses: ...",
       "published_at": "2026-02-02T11:01:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/VmCbkSEyMM0/hqdefault.jpg"
-    },
-    {
-      "title": "HTTP Requests in Python",
-      "video_id": "hEv50bS1_Og",
-      "channel_title": "Socratica",
-      "description": "Sign up for Socratica Courses: https://www.socratica.com/collections Socratica ...",
-      "published_at": "2026-01-13T12:01:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hEv50bS1_Og/hqdefault.jpg"
     }
   ]
 }

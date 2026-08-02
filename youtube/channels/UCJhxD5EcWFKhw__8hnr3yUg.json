@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-26T03:15:53.196137",
+  "fetched_at": "2026-08-02T03:14:25.337295",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "下周要去COSCUP做keynote了！",
+      "video_id": "cpz0m1SMFoY",
+      "channel_title": "码农高天",
+      "description": "明天就要出发去台北啦，下周末就要完成我人生中第一次keynote了！我们COSCUP见！",
+      "published_at": "2026-08-01T03:45:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cpz0m1SMFoY/hqdefault.jpg"
+    },
     {
       "title": "世界杯踢完想起来了，我去过诺坎普啊！",
       "video_id": "UPA08NUBuHY",
@@ -75,14 +83,6 @@
       "description": "值此新春佳节，给大家献上一首我亲自担任翻译并制作字幕的《恭喜恭喜》，希望大家新的一年可以过得开心！",
       "published_at": "2026-02-14T10:30:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/OKvEi_AHC2A/hqdefault.jpg"
-    },
-    {
-      "title": "【python】自从用了它，我的程序动不动就死锁！",
-      "video_id": "xJSTbtE9nBo",
-      "channel_title": "码农高天",
-      "description": "这期视频给大家介绍一下危险的__del__，讲讲它是怎么在我们的项目中造成死锁的，以及你应该如何规避这种情况的发生。",
-      "published_at": "2026-02-06T10:30:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xJSTbtE9nBo/hqdefault.jpg"
     }
   ]
 }

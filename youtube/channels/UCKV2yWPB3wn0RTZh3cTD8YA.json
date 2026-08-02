@@ -1,11 +1,27 @@
 {
-  "fetched_at": "2026-07-26T03:15:56.091947",
+  "fetched_at": "2026-08-02T03:14:28.053187",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
     {
-      "title": "2026世界杯：AI改变了足球....吗？",
+      "title": "“榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场",
+      "video_id": "cB_X6AImPjQ",
+      "channel_title": "硅谷101",
+      "description": "OpenAI、谷歌、Deepseek...各大AI前沿模型最近开始了一场\"造芯大战\"，市场依旧缺卡缺算力，因而如何让手里的GPU发挥出更大 ...",
+      "published_at": "2026-07-31T13:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cB_X6AImPjQ/hqdefault.jpg"
+    },
+    {
+      "title": "对话叶奇意：“寻找”月之暗面杨植麟、中国两代AI、十年人才迁徙，与AGI信仰",
+      "video_id": "Hq4jFGd4YxE",
+      "channel_title": "硅谷101",
+      "description": "近期Kimi K3发布后再次震动硅谷，也把月之暗面推回全球AI竞争的中心。 Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四 ...",
+      "published_at": "2026-07-28T08:32:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Hq4jFGd4YxE/hqdefault.jpg"
+    },
+    {
+      "title": "“万能”的AI，为什么偏偏搞不定足球？",
       "video_id": "jXZGeF6sJOc",
       "channel_title": "硅谷101",
       "description": "AI可以写代码、做研究，甚至预测复杂的现实世界，但面对一场足球比赛，它却常常失灵。即使拥有海量数据和顶级算法，AI依然很 ...",
@@ -67,22 +83,6 @@
       "description": "又是一年高考季。你还记得当年查成绩、等分数、填志愿的那一天吗？ 最近，一所来自北京的创新学校——探月学校，频繁出现在AI ...",
       "published_at": "2026-06-26T01:30:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/y2bZdXZBeBc/hqdefault.jpg"
-    },
-    {
-      "title": "AI编程火了之后，下一个被资本押注的方向会是什么？",
-      "video_id": "4y9DR2WwW3o",
-      "channel_title": "硅谷101",
-      "description": "田渊栋的判断是：AI research。Coding之所以能快速商业化，是因为它替代的是高薪、高ROI的工作；而AI研究人才更贵，自动化后 ...",
-      "published_at": "2026-06-22T23:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4y9DR2WwW3o/hqdefault.jpg"
-    },
-    {
-      "title": "46.5亿美元估值的RSI：“最顶级的资本还是看人”",
-      "video_id": "c216-TZTIrM",
-      "channel_title": "硅谷101",
-      "description": "一家还没有产品的AI实验室，为什么能融到6.5亿美元、估值46.5亿美元？ 田渊栋的回答很直接：最顶级的资本，还是看人。在AI变化 ...",
-      "published_at": "2026-06-22T16:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c216-TZTIrM/hqdefault.jpg"
     }
   ]
 }

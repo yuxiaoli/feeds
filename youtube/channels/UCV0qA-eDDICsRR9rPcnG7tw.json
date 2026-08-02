@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-26T03:16:07.343271",
+  "fetched_at": "2026-08-02T03:14:38.470975",
   "channel_id": "UCV0qA-eDDICsRR9rPcnG7tw",
   "channel_title": "Joma Tech",
   "count": 10,
   "videos": [
+    {
+      "title": "I Saved $200 With My Mouth",
+      "video_id": "h6qBa3tLmNo",
+      "channel_title": "Joma Tech",
+      "description": "Download Now https://chatgpt.com/download/ @ChatGPT #ChatGPT_Partner.",
+      "published_at": "2026-07-31T01:54:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h6qBa3tLmNo/hqdefault.jpg"
+    },
     {
       "title": "If Yu-Gu-Oh was about Tech Jobs",
       "video_id": "PibrgKPYHz4",
@@ -75,14 +83,6 @@
       "description": "Leetcode Hard: What is your major weakness? SOCIAL MEDIA ...",
       "published_at": "2022-10-11T21:52:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bn_KRzohcAo/hqdefault.jpg"
-    },
-    {
-      "title": "If Programming Was an Anime 3",
-      "video_id": "DlKl8me4Npw",
-      "channel_title": "Joma Tech",
-      "description": "Kodocharenji = Code Challenge For the people who don't speak anime Production Glorified Tripod - John Zeng ...",
-      "published_at": "2022-09-14T15:45:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DlKl8me4Npw/hqdefault.jpg"
     }
   ]
 }

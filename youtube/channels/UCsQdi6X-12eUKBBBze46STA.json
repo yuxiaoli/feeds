@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-07-26T03:16:30.383552",
+  "fetched_at": "2026-08-02T03:14:59.399687",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "How Ultra-Processing Changes Food",
+      "video_id": "iAZsVIaJvqQ",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-07-30T15:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iAZsVIaJvqQ/hqdefault.jpg"
+    },
+    {
+      "title": "The Best Way to Live Longer",
+      "video_id": "z4NzmlGEgXQ",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-07-28T15:53:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z4NzmlGEgXQ/hqdefault.jpg"
+    },
+    {
+      "title": "2 Things to Know About Kombucha",
+      "video_id": "fi3nS24KlWk",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-07-26T17:46:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fi3nS24KlWk/hqdefault.jpg"
+    },
     {
       "title": "How Light Affects Your Glucose",
       "video_id": "UW6OOJRFWfY",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-07-06T15:04:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/VjgQfG9GK5U/hqdefault.jpg"
-    },
-    {
-      "title": "How Much Is 25g of Sugar?",
-      "video_id": "tbWm7euvUjA",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-07-03T15:37:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tbWm7euvUjA/hqdefault.jpg"
-    },
-    {
-      "title": "“Healthy” Cereal Marketing",
-      "video_id": "Z2ZNQlCtMfA",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-07-01T16:08:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z2ZNQlCtMfA/hqdefault.jpg"
-    },
-    {
-      "title": "My Top 3 GLP-1 Tips",
-      "video_id": "oUm7CCMn0Ds",
-      "channel_title": "Glucose Revolution",
-      "description": "lso, a fourth thing to know when you're taking GLP-1 medications: How to manage your blood sugar. Because GLP-1 medications ...",
-      "published_at": "2026-06-29T15:39:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oUm7CCMn0Ds/hqdefault.jpg"
     }
   ]
 }

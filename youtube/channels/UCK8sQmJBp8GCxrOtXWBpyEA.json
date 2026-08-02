@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-26T03:15:53.881919",
+  "fetched_at": "2026-08-02T03:14:25.974443",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 4,
+  "count": 3,
   "videos": [
+    {
+      "title": "Our spidey senses are telling us you should search “peter parker” in AI Mode 🧐",
+      "video_id": "JUlcgfqCgN4",
+      "channel_title": "Google",
+      "description": "Thwip over to Google to see what happens.",
+      "published_at": "2026-07-30T15:59:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JUlcgfqCgN4/hqdefault.jpg"
+    },
+    {
+      "title": "Just your friendly neighborhood web-slinger reminding you to search “spider-man brand new day” 🕸️",
+      "video_id": "nlz0UmQdhqk",
+      "channel_title": "Google",
+      "description": "Head over to Google to see what happens.",
+      "published_at": "2026-07-27T19:35:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nlz0UmQdhqk/hqdefault.jpg"
+    },
     {
       "title": "See the potential in your yard with Search ✨",
       "video_id": "y6L37mXkTw0",
@@ -11,30 +27,6 @@
       "description": "Ready for a rethink? Tap the in the Google app, take a picture of your yard, and type “help me reimagine my backyard.",
       "published_at": "2026-07-24T17:34:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/y6L37mXkTw0/hqdefault.jpg"
-    },
-    {
-      "title": "How to know if an image is AI generated or not",
-      "video_id": "Sm7OTow3mcY",
-      "channel_title": "Google",
-      "description": "Is this real… or is this AI? As AI-generated images, videos, audio, and text become part of our daily lives, distinguishing them from ...",
-      "published_at": "2026-07-23T16:44:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Sm7OTow3mcY/hqdefault.jpg"
-    },
-    {
-      "title": "How Gemini 3.6 Flash helped this dairy farmer run his business",
-      "video_id": "YSKzyVOQmuA",
-      "channel_title": "Google",
-      "description": "Dairy farming is a highly complex biological system driven by unpredictable market forces. In this video, see how Paul, a Michigan ...",
-      "published_at": "2026-07-22T18:36:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YSKzyVOQmuA/hqdefault.jpg"
-    },
-    {
-      "title": "Scurry over to Google Search and type in “jimothy the raccoon” 🦝",
-      "video_id": "9OmdZgTSp4A",
-      "channel_title": "Google",
-      "description": "Jimothy's just built different.",
-      "published_at": "2026-07-22T15:56:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9OmdZgTSp4A/hqdefault.jpg"
     }
   ]
 }

@@ -1,80 +1,72 @@
 {
-  "fetched_at": "2026-07-26T03:15:50.180722",
+  "fetched_at": "2026-08-02T03:14:22.687272",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "非共识投资的哲学 | 鲁帕尔·班萨利 | 传奇女投资人 | 逆向投资 | 风险管理 | 价值投资 | 英伟达 | 查理·芒格 | 华尔街 | 巴菲特 | 主动管理 | 拥挤交易 | 定价权",
-      "video_id": "TQDQ_rtN0gg",
+      "title": "扎克伯格引爆全球AI股灾？ | Meta | 科技股暴跌| 算力过剩 | Llama 4 | 半导体 | SK海力士 | 三星 | 英伟达 | CoreWeave | 元宇宙 | AI泡沫 | 黄仁勋",
+      "video_id": "LIPzl4OnlTo",
       "channel_title": "最佳拍档",
-      "description": "本期视频分享传奇逆向投资者鲁帕尔·班萨利的深度访谈，她曾供职于索罗斯基金，管理数十亿美元资产。班萨利提出投资中仅正确 ...",
-      "published_at": "2026-07-25T23:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TQDQ_rtN0gg/hqdefault.jpg"
+      "description": "2026年7月全球半导体与AI板块遭遇惨烈股灾，从费城半导体指数到韩国KOSPI再到A股科创50全线暴跌，韩国40万账户爆仓。",
+      "published_at": "2026-08-01T09:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LIPzl4OnlTo/hqdefault.jpg"
     },
     {
-      "title": "AI根本不需要意识？ | 盲视Blindsight | 彼得·沃茨 | AGI | 吸血鬼 | 忒修斯号 | 罗夏 | Agentic系统 | 扰频者 | DDoS攻击 | 进化劣势 | 硬科幻",
-      "video_id": "trR3whnqJIk",
+      "title": "AI写的代码，还要读吗？ | 程序员的重新定义 | Uncle Bob | Mitchell Hashimoto | Vibe Coding | 人工智能 | 软件工程 | 代码整洁之道",
+      "video_id": "Hh3AmV46epI",
       "channel_title": "最佳拍档",
-      "description": "二十年前的硬科幻神作《盲视》预言了今天AI技术的发展方向，更提出了一个颠覆常识的假设：智能可能根本不需要意识，意识不仅 ...",
-      "published_at": "2026-07-25T09:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/trR3whnqJIk/hqdefault.jpg"
+      "description": "两位世界级开发者米切尔·桥本与Uncle Bob，针对AI生成代码是否需要逐行阅读给出截然相反的答案，引发全球开发者社区大讨论。",
+      "published_at": "2026-07-31T09:30:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Hh3AmV46epI/hqdefault.jpg"
     },
     {
-      "title": "大语言模型是如何工作的 | LLM | Transformer | 注意力机制 | 位置编码 | 多头注意力 | 前馈网络 | 残差连接 | MoE | RoPE | 人工智能",
-      "video_id": "jFuft0mKj7E",
+      "title": "Kimi K3为何能领跑开源大模型 | 杨植麟 | 月之暗面 | Muon优化器 | 长上下文 | 智能体蜂群 | 注意力残差 | 多模态融合 | AI开源 | 大语言模型 | Kimi Linear",
+      "video_id": "mwD8CAdFNmY",
       "channel_title": "最佳拍档",
-      "description": "本期视频硬核拆解大语言模型内部工作机制，从分词、嵌入、位置编码讲起，逐层深入注意力、多头注意力、前馈网络、残差流与归 ...",
-      "published_at": "2026-07-24T10:03:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jFuft0mKj7E/hqdefault.jpg"
+      "description": "本期视频深度回溯月之暗面创始人杨植麟在英伟达GTC大会上的技术演讲，完整拆解Kimi K3背后的三大技术扩展路径：通过Muon ...",
+      "published_at": "2026-07-30T23:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mwD8CAdFNmY/hqdefault.jpg"
     },
     {
-      "title": "未来公司都将建立在Harness工程之上 | 黄仁勋 | LangChain | Nemotron | 企业AI | 智能体 | RAG | 开源模型 | AI部署 | 深度学习 | 科技前沿",
-      "video_id": "vxcpXXpG-yA",
+      "title": "Meta Infra千亿AI基建踩坑内幕 | SemiAnalysis | AI芯片 | GPU服务器 | GB200 | Rivos | 大模型训练 | TCO | 数据中心 | AMD MI450",
+      "video_id": "lffdUgPBABY",
       "channel_title": "最佳拍档",
-      "description": "本期视频深度解读2026年7月8日英伟达CEO黄仁勋与LangChain创始人的重磅对话。黄仁勋在对话中提出核心判断：过去六个月AI ...",
-      "published_at": "2026-07-23T23:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vxcpXXpG-yA/hqdefault.jpg"
+      "description": "SemiAnalysis近期发文炮轰Meta基础设施团队存在系统性文化问题，导致千亿级AI基建投入效率低下。本期视频深度拆解四个核心 ...",
+      "published_at": "2026-07-30T09:01:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lffdUgPBABY/hqdefault.jpg"
     },
     {
-      "title": "大模型每个参数能记忆多少东西？| ICML 2026 | 3.6比特 | Transformer | 模型容量 | 非预期记忆 | 泛化能力 | 双下降 | 成员推断 | 训练数据泄露 | 信息论",
-      "video_id": "_OTcigj2rwg",
+      "title": "每一个微秒都重要 | 英伟达联合ETH论文 | AllReduce | NCCL | GB200 | NVLink | vLLM | 张量并行 | 微秒优化 | 推理成本 | 集合通信",
+      "video_id": "umyJuaSqbQ0",
       "channel_title": "最佳拍档",
-      "description": "本期解读ICML 2026杰出论文荣誉提名工作，来自Meta、DeepMind、康奈尔与NVIDIA的联合研究首次量化大模型记忆容量：GPT类 ...",
-      "published_at": "2026-07-23T09:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_OTcigj2rwg/hqdefault.jpg"
+      "description": "英伟达联合苏黎世联邦理工发布最新论文，将多GPU小消息AllReduce延迟从11微秒压至2.37微秒，距离硬件物理极限仅差7%。",
+      "published_at": "2026-07-29T23:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/umyJuaSqbQ0/hqdefault.jpg"
     },
     {
-      "title": "如何用AI找到未知的未知 | Thariq | Claude | Fable | 提示词 | 未知量 | 地图与领土 | 工作方法论 | 效率工具 | AI教程",
-      "video_id": "M-LF4bYjiBY",
+      "title": "AI时代的数学危机 | 陶哲轩ICM 2026演讲 | 哥德尔不完备定理 | 古德哈特定律 | Lean | 形式化验证 | First Proof | 莱顿宣言 | 证明生成 | 同行评审",
+      "video_id": "khSatrY-p9s",
       "channel_title": "最佳拍档",
-      "description": "Anthropic技术团队成员塔里克·希哈帕尔提出的\"地图与领土\"框架正在改变AI使用方式。你给AI的提示词是地图，真实任务环境是领土 ...",
-      "published_at": "2026-07-22T23:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M-LF4bYjiBY/hqdefault.jpg"
+      "description": "2026年国际数学家大会上，陶哲轩发表公开演讲《数学在AI时代》，提出数学界正面临一场类似20世纪初基础危机的新动荡，这次 ...",
+      "published_at": "2026-07-29T09:59:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/khSatrY-p9s/hqdefault.jpg"
     },
     {
-      "title": "69岁图灵奖得主向LLM宣战 | Richard Sutton | Oak Lab | AGI | OaK架构 | 大语言模型 | 大世界模型 | 持续学习 | 世界模型 | 20瓦智能体",
-      "video_id": "fJxvN7FSP28",
+      "title": "十年后钱不再重要 | Elon Musk最新访谈 | AI | 人形机器人 | OpenAI | Kimi | 中美AI竞争 | AI安全 | 全民基本收入 | 奇点 | SpaceX | 未来工作",
+      "video_id": "VFR0VaEr704",
       "channel_title": "最佳拍档",
-      "description": "2026年7月，年近七旬的\"强化学习之父\"、2024年图灵奖得主Richard Sutton宣布离开John Carmack创办的Keen Technologies， ...",
-      "published_at": "2026-07-22T11:14:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fJxvN7FSP28/hqdefault.jpg"
+      "description": "埃隆·马斯克最新访谈给出激进预测：AI五年内超过全人类智慧总和，十年后进入物质极大丰富时代，2036年钱将不再重要。他承认AI ...",
+      "published_at": "2026-07-28T23:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VFR0VaEr704/hqdefault.jpg"
     },
     {
-      "title": "Claude Tag揭秘，Slack会成为新的IDE吗 | Lamis Mukta | Claude Code | 智能体 | Dreaming睡眠整理 | 团队协作 | 大语言模型 | AI生产力",
-      "video_id": "krrWgo4iQgI",
+      "title": "梁文锋四小时讲话为何被全网封杀 | DeepSeek | AGI | 大模型 | 开源 | AI芯片 | 华为昇腾 | 英伟达 | CUDA | 持续学习 | 算力瓶颈 | TileLang",
+      "video_id": "Fy6tKSHGEXQ",
       "channel_title": "最佳拍档",
-      "description": "本期视频深度解读Anthropic应用AI团队研发人员Lamis Mukta在AI Native Dev播客的专访，全面剖析最新团队协作型AI智能体 ...",
-      "published_at": "2026-07-20T23:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/krrWgo4iQgI/hqdefault.jpg"
-    },
-    {
-      "title": "Kimi K3发布，开源模型硬刚闭源前沿 | 月之暗面 | 杨植麟 | 2.8万亿参数 | MoE架构 | AI芯片设计 | GPU编译器 | Claude Fable 5 | GPT-5.6",
-      "video_id": "BGBEnbBCmpk",
-      "channel_title": "最佳拍档",
-      "description": "本期视频深度解读月之暗面最新发布的Kimi K3大模型——这个2.8万亿参数的开源模型在34%基准测试上击败Claude Fable 5，能48 ...",
-      "published_at": "2026-07-20T09:11:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BGBEnbBCmpk/hqdefault.jpg"
+      "description": "本期视频深度解读DeepSeek创始人梁文锋4小时内部投资人讲话实录，内容涵盖DeepSeek的愿景驱动管理哲学、开源战略的底层 ...",
+      "published_at": "2026-07-28T14:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fy6tKSHGEXQ/hqdefault.jpg"
     },
     {
       "title": "【人工智能】AI未来发展的核心支柱 | 钢铁、服务器、能源 | David Cahn红杉美国合伙人 | 数据中心 | 基建效率 | 现金牛 | 房地产 | 资产负债表外融资",
@@ -83,6 +75,14 @@
       "description": "今天我们来分享一个20VC推出的播客节目，在这档节目中，投资人大卫·卡恩David Cahn与播客主持人哈里·斯特宾斯Harry ...",
       "published_at": "2024-08-15T09:00:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5gDrGItwDg4/hqdefault.jpg"
+    },
+    {
+      "title": "【商业】创业公司如何找到产品市场契合点PMF | 红杉资本Arc活动分享 |  产品与客户之间的三种关系 | 如何选择路径 | 燃眉之急 | 铁的事实 | 未来愿景",
+      "video_id": "nJIVpB05eKY",
+      "channel_title": "最佳拍档",
+      "description": "今天这是一期科技创业者必看的视频。对于所有初创公司来说，核心任务就是寻找产品与市场的契合点，也就是所谓 ...",
+      "published_at": "2024-05-01T10:06:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nJIVpB05eKY/hqdefault.jpg"
     }
   ]
 }

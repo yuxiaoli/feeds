@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-07-26T03:15:39.662731",
+  "fetched_at": "2026-08-02T03:14:13.200921",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Microsoft Comic Chat is now open source",
-      "video_id": "AptdL9wYxRU",
+      "title": "How to use voice prompting in the GitHub Copilot app",
+      "video_id": "BOSujC3TrjU",
       "channel_title": "GitHub",
-      "description": "Microsoft Comic Chat is officially open source on GitHub. Originally shipped in 1996 with Internet Explorer 3, this classic IRC client ...",
-      "published_at": "2026-07-25T15:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AptdL9wYxRU/hqdefault.jpg"
-    },
-    {
-      "title": "Replay: Age assurance laws and open source: what maintainers need to know",
-      "video_id": "9TACZ_tBlvY",
-      "channel_title": "GitHub",
-      "description": "Age assurance laws are reaching down to operating systems and app stores. Anne Dickison (FreeBSD Foundation), Katie ...",
-      "published_at": "2026-07-25T05:57:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9TACZ_tBlvY/hqdefault.jpg"
-    },
-    {
-      "title": "The Download: Kimi K3, TypeScript 7 native compiler, VS Code agent host &amp; more",
-      "video_id": "KYJwda0NXGs",
-      "channel_title": "GitHub",
-      "description": "Welcome back to another episode of The Download! This week, we cover TypeScript 7 shipping a new native Go compiler that ...",
-      "published_at": "2026-07-24T15:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KYJwda0NXGs/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays! Come learn about what&#39;s new and hang out!",
-      "video_id": "zS2TlebE4xI",
-      "channel_title": "GitHub",
-      "description": "Cowork, comment, and chill with the GitHub team.",
-      "published_at": "2026-07-24T07:06:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zS2TlebE4xI/hqdefault.jpg"
-    },
-    {
-      "title": "Jueves de Quack",
-      "video_id": "9hq7WC1UWwU",
-      "channel_title": "GitHub",
-      "description": "quackemos hoy.",
-      "published_at": "2026-07-24T03:13:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9hq7WC1UWwU/hqdefault.jpg"
-    },
-    {
-      "title": "Let&#39;s build a personal assistant with Copilot CLI",
-      "video_id": "t2XxVXnZD6s",
-      "channel_title": "GitHub",
-      "description": "In this stream we'll experiment with building a personal assistant with GitHub Copilot CLI. We'll use workflows and experiment ...",
-      "published_at": "2026-07-23T22:32:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t2XxVXnZD6s/hqdefault.jpg"
-    },
-    {
-      "title": "Customize your GitHub Copilot for Jira experience",
-      "video_id": "0Q5nBOEMcXA",
-      "channel_title": "GitHub",
-      "description": "Get to your draft pull requests even faster by tailoring the GitHub Copilot for Jira integration. In this video, we explore how to ...",
-      "published_at": "2026-07-23T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0Q5nBOEMcXA/hqdefault.jpg"
-    },
-    {
-      "title": "How to turn Jira tickets into draft PRs with GitHub Copilot",
-      "video_id": "GyapkL6LVZk",
-      "channel_title": "GitHub",
-      "description": "Get to your draft pull requests even faster by letting GitHub Copilot start the work directly from Jira. In this video, we walk through ...",
-      "published_at": "2026-07-22T15:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GyapkL6LVZk/hqdefault.jpg"
+      "description": "Inspiration is messy, and typing out complex thoughts can slow you down. In this Short, learn how to use voice prompting in the ...",
+      "published_at": "2026-08-01T15:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BOSujC3TrjU/hqdefault.jpg"
     },
     {
       "title": "Open Source Friday: Squad with Brady Gaster",
       "video_id": "jiBpl7Y1D2Q",
       "channel_title": "GitHub",
       "description": "Join us for Open Source Friday as we sit down with Brady Gaster (@bradygaster) to explore Squad, an open source project for ...",
-      "published_at": "2026-07-21T20:52:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jiBpl7Y1D2Q/hqdefault_live.jpg"
+      "published_at": "2026-08-01T06:02:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jiBpl7Y1D2Q/hqdefault.jpg"
     },
     {
-      "title": "Meet the GitHub Copilot app: Your new AI desktop assistant",
-      "video_id": "LsA4vIX_3UY",
+      "title": "OpenClaw made Dave Morin feel 7 years old again",
+      "video_id": "FFFhZCxObIc",
       "channel_title": "GitHub",
-      "description": "Working with AI agents to write code can feel linear and isolated from the rest of your work. The GitHub Copilot app is built ...",
-      "published_at": "2026-07-21T15:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LsA4vIX_3UY/hqdefault.jpg"
+      "description": "During our OpenClaw fireside chat, entrepreneur Dave Morin shares a personal story about his early experiences with Apple ...",
+      "published_at": "2026-07-31T15:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FFFhZCxObIc/hqdefault.jpg"
+    },
+    {
+      "title": "Jueves de Quack con Xavidop",
+      "video_id": "gK_1TUonikI",
+      "channel_title": "GitHub",
+      "description": "Stack PRs te deja partir cambios grandes en capas revisables y mergear el stack completo cuando todo está listo. Xavi Portilla ...",
+      "published_at": "2026-07-31T08:51:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gK_1TUonikI/hqdefault.jpg"
+    },
+    {
+      "title": "Stacked PRs are LIVE on GitHub! | Rubber Duck Thursdays",
+      "video_id": "6SMrPRb-vdY",
+      "channel_title": "GitHub",
+      "description": "Come hang out with the team and talk about Stacked PRs!",
+      "published_at": "2026-07-31T06:50:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6SMrPRb-vdY/hqdefault.jpg"
+    },
+    {
+      "title": "RDT: Building agent Skills and the new MCP release",
+      "video_id": "2AZJbyD-9ME",
+      "channel_title": "GitHub",
+      "description": "In this stream we'll learn what an agent Skill is and how to build one in GitHub Copilot. We'll also discuss the new release of MCP ...",
+      "published_at": "2026-07-30T23:35:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2AZJbyD-9ME/hqdefault.jpg"
+    },
+    {
+      "title": "We can’t fix your attention span, but we can make stacked PRs make sense.",
+      "video_id": "xWFkJ0Bj4H0",
+      "channel_title": "GitHub",
+      "description": "Stacked PRs now on GitHub ...",
+      "published_at": "2026-07-30T19:15:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xWFkJ0Bj4H0/hqdefault.jpg"
+    },
+    {
+      "title": "Lofi beats to code and merge stacked PRs",
+      "video_id": "jNkW7FmDVr8",
+      "channel_title": "GitHub",
+      "description": "Put on your headphones, open your terminal, and enter the flow state. Join a pixelated Mona eating pancakes while you write ...",
+      "published_at": "2026-07-30T19:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jNkW7FmDVr8/hqdefault.jpg"
+    },
+    {
+      "title": "GitHub stacked PRs are now available",
+      "video_id": "kzQzmL2o8vk",
+      "channel_title": "GitHub",
+      "description": "Have you ever started with one small feature and ended up with a massive pull request? Large PRs are slower to review, harder ...",
+      "published_at": "2026-07-30T16:25:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kzQzmL2o8vk/hqdefault.jpg"
+    },
+    {
+      "title": "How to set up custom themes, sounds, and MCP servers in the GitHub Copilot app",
+      "video_id": "qEeo__k2IIg",
+      "channel_title": "GitHub",
+      "description": "Tired of default app settings? In this video, we show you how to fully customize the GitHub Copilot app to match your personal ...",
+      "published_at": "2026-07-29T15:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qEeo__k2IIg/hqdefault.jpg"
     }
   ]
 }

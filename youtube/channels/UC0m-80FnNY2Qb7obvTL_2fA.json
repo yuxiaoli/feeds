@@ -1,7 +1,88 @@
 {
-  "fetched_at": "2026-07-26T03:15:32.055966",
+  "fetched_at": "2026-08-02T03:14:06.308896",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
-  "count": 0,
-  "videos": []
+  "count": 10,
+  "videos": [
+    {
+      "title": "Azure confidential computing for sovereign and regulated workloads",
+      "video_id": "q8DuY7zYfS4",
+      "channel_title": "Microsoft Azure",
+      "description": "Learn how Azure Confidential Computing helps protect sovereign and regulated workloads with hardware-rooted security.",
+      "published_at": "2026-07-28T20:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/q8DuY7zYfS4/hqdefault.jpg"
+    },
+    {
+      "title": "Assess your SQL Server instances for modernization to Azure SQL MI, DB, or VM with Azure Migrate",
+      "video_id": "-gNXQHTHj0s",
+      "channel_title": "Microsoft Azure",
+      "description": "Assess your SQL Server instances for modernization to Azure SQL MI, DB, or VM with Azure Migrate. Learn more: ...",
+      "published_at": "2026-07-15T16:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-gNXQHTHj0s/hqdefault.jpg"
+    },
+    {
+      "title": "Enhance assessments using advanced insights in Azure Migrate",
+      "video_id": "E4HrIWj4_4k",
+      "channel_title": "Microsoft Azure",
+      "description": "Enhance assessments using advanced insights in Azure Migrate. Learn more: ...",
+      "published_at": "2026-07-15T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/E4HrIWj4_4k/hqdefault.jpg"
+    },
+    {
+      "title": "Your Fine-Tuned Model Is Your IP: Open Model Strategy for Developers",
+      "video_id": "IEGtTgN-Tmg",
+      "channel_title": "Microsoft Azure",
+      "description": "Why is fine-tuning open models now a core developer strategy? Microsoft Foundry's Yina Arenas and Fireworks AI CEO Lin Qiao ...",
+      "published_at": "2026-06-02T18:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IEGtTgN-Tmg/hqdefault.jpg"
+    },
+    {
+      "title": "A new way to shop Microsoft Marketplace: say hello to intelligent discovery",
+      "video_id": "Ic2ctmKipKo",
+      "channel_title": "Microsoft Azure",
+      "description": "Watch the audio description version: https://msft.it/56Hc A new way to shop Microsoft Marketplace is here. Meet intelligent ...",
+      "published_at": "2026-06-02T17:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ic2ctmKipKo/hqdefault.jpg"
+    },
+    {
+      "title": "Azure Files Native Entra ID support with AVD FSLogix",
+      "video_id": "2qcPG9Gk2e4",
+      "channel_title": "Microsoft Azure",
+      "description": "This video provides a demonstration of how an end-to-end AVD setup in the cloud works seamless with Azure Files SMB for ...",
+      "published_at": "2026-05-13T16:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2qcPG9Gk2e4/hqdefault.jpg"
+    },
+    {
+      "title": "Resiliency by design: Azure compute",
+      "video_id": "HLQJHBRuRuM",
+      "channel_title": "Microsoft Azure",
+      "description": "Azure compute is built for resiliency, automatically detects and replaces unhealthy VMs, scales to meet demand, and minimizes ...",
+      "published_at": "2026-05-01T17:25:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HLQJHBRuRuM/hqdefault.jpg"
+    },
+    {
+      "title": "Banco Bradesco Scales Generative AI on Azure Red Hat OpenShift",
+      "video_id": "4wvoY3Il2x0",
+      "channel_title": "Microsoft Azure",
+      "description": "Banco Bradesco is powering enterprise-scale AI innovation with Microsoft Foundry and Azure API Management, all running on ...",
+      "published_at": "2026-04-06T23:27:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4wvoY3Il2x0/hqdefault.jpg"
+    },
+    {
+      "title": "S2E4 | Is context engineering the new RAG? — The Shift Podcast by Microsoft Azure",
+      "video_id": "wGpJdn8frYE",
+      "channel_title": "Microsoft Azure",
+      "description": "As retrieval augmented generation (RAG) matures, teams are asking a new question: Is context engineering becoming more ...",
+      "published_at": "2026-03-31T19:14:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wGpJdn8frYE/hqdefault.jpg"
+    },
+    {
+      "title": "Scale Azure compute: Virtual Machine Scale Sets, Azure Compute Fleet, and Scheduled Actions",
+      "video_id": "o6UYBBSDPbQ",
+      "channel_title": "Microsoft Azure",
+      "description": "Learn how to scale Azure Compute efficiently using VM instance mix, Compute Fleet, direct virtualization, standby pools, and ...",
+      "published_at": "2026-03-03T04:09:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o6UYBBSDPbQ/hqdefault.jpg"
+    }
+  ]
 }

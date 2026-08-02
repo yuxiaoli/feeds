@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-26T03:16:12.042802",
+  "fetched_at": "2026-08-02T03:14:42.674034",
   "channel_id": "UCYFpniqsDTy6uBaFUH7cWOg",
   "channel_title": "NS Production",
   "count": 10,
   "videos": [
+    {
+      "title": "#shortvideo",
+      "video_id": "6B7qNTYhMaE",
+      "channel_title": "NS Production",
+      "description": "",
+      "published_at": "2026-07-28T09:23:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6B7qNTYhMaE/hqdefault.jpg"
+    },
     {
       "title": "#shortvideo",
       "video_id": "2Gcq6yRkBxI",
@@ -75,14 +83,6 @@
       "description": "From Within - Khachatryans Music: Khachatryans Video: NS Production. ☑NS Production ○Social Networks▽ ...",
       "published_at": "2026-07-01T18:39:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gt6uE_WeT30/hqdefault.jpg"
-    },
-    {
-      "title": "#shortvideo",
-      "video_id": "m0lOhAmKhCM",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2026-06-21T21:08:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m0lOhAmKhCM/hqdefault.jpg"
     }
   ]
 }

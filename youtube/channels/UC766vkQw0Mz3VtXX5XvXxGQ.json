@@ -1,7 +1,32 @@
 {
-  "fetched_at": "2026-07-26T03:15:38.940281",
+  "fetched_at": "2026-08-02T03:14:12.555748",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 0,
-  "videos": []
+  "count": 3,
+  "videos": [
+    {
+      "title": "Linkin Park x Synth Riders — 13-Song Music Pack Out Now | VR Rhythm Game on Meta Quest",
+      "video_id": "2PNrIMKCTYs",
+      "channel_title": "Meta Quest ",
+      "description": "Linkin Park is now in Synth Riders. The biggest Music Pack in Synth Riders history brings 13 iconic Linkin Park tracks to VR, ...",
+      "published_at": "2026-07-31T21:57:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2PNrIMKCTYs/hqdefault.jpg"
+    },
+    {
+      "title": "Gotta make it all fit together. #cubism",
+      "video_id": "vrY-1B5hSkQ",
+      "channel_title": "Meta Quest ",
+      "description": "",
+      "published_at": "2026-07-31T16:16:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vrY-1B5hSkQ/hqdefault.jpg"
+    },
+    {
+      "title": "New free song in @beatsaber: “Gone for Good” by Haywyre!",
+      "video_id": "N-UDAsY_UAk",
+      "channel_title": "Meta Quest ",
+      "description": "",
+      "published_at": "2026-07-30T17:13:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N-UDAsY_UAk/hqdefault.jpg"
+    }
+  ]
 }

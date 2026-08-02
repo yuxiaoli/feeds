@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-07-26T03:15:30.581518",
+  "fetched_at": "2026-08-02T03:14:04.935844",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Reel of the Week | Creating Underwater Art",
+      "video_id": "jETkJOosLPI",
+      "channel_title": "Meta",
+      "description": "meet Olga—an artist making masterpieces on the ocean floor. seriously. she mixes eco-friendly, non-toxic paint with a passion for ...",
+      "published_at": "2026-07-31T16:03:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jETkJOosLPI/hqdefault.jpg"
+    },
+    {
+      "title": "This AI-Powered Wheelchair Could Change How People Move",
+      "video_id": "W7bOQMEyjQU",
+      "channel_title": "Meta",
+      "description": "Our AI models are powering new ways of moving. See how researchers at the University of Pittsburgh used SAM3 and DINO to ...",
+      "published_at": "2026-07-27T16:40:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W7bOQMEyjQU/hqdefault.jpg"
+    },
     {
       "title": "Hey Meta x All-Star Weekend",
       "video_id": "1SCIc_tH038",
@@ -67,22 +83,6 @@
       "description": "Meta AI is here to glow up your images. Check out the latest in the app.",
       "published_at": "2026-07-07T18:18:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tMZcqHl1NQY/hqdefault.jpg"
-    },
-    {
-      "title": "Impact Stories: Yianni (@yohnmav)",
-      "video_id": "NxALjKM0XRg",
-      "channel_title": "Meta",
-      "description": "Yianni is in his bowling alley era Four years ago, the entrepreneur bought a bowling alley, picked up a camera and started ...",
-      "published_at": "2026-07-06T15:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NxALjKM0XRg/hqdefault.jpg"
-    },
-    {
-      "title": "Hey Meta&quot; with George Russell",
-      "video_id": "i55knpDqWbQ",
-      "channel_title": "Meta",
-      "description": "Spilling tea facts with George Russell.",
-      "published_at": "2026-07-05T16:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i55knpDqWbQ/hqdefault.jpg"
     }
   ]
 }

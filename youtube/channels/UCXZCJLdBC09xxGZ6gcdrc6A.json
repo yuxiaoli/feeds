@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2026-07-26T03:16:11.255469",
+  "fetched_at": "2026-08-02T03:14:42.007656",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Using Voice in ChatGPT Work",
+      "video_id": "_Gd9yzAc-WI",
+      "channel_title": "OpenAI",
+      "description": "Talk through work with ChatGPT Voice while it sees your screen, works across connected apps, and keeps tasks moving in the ...",
+      "published_at": "2026-07-29T22:37:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_Gd9yzAc-WI/hqdefault.jpg"
+    },
+    {
+      "title": "We&#39;re giving 100,000 academic researchers free access to our frontier models",
+      "video_id": "MLehRytu9Zo",
+      "channel_title": "OpenAI",
+      "description": "We're giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10000 researchers and ...",
+      "published_at": "2026-07-29T17:23:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MLehRytu9Zo/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing gpt-transcribe and gpt-live-transcribe",
+      "video_id": "WeP9VUf1OoE",
+      "channel_title": "OpenAI",
+      "description": "Meet gpt-transcribe and gpt-live-transcribe, two new models for batch and live transcription. See how they handle custom ...",
+      "published_at": "2026-07-28T21:49:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WeP9VUf1OoE/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT Work for Sales: Revenue Intelligence for Sales Leaders",
+      "video_id": "g-g6E-qtCjA",
+      "channel_title": "OpenAI",
+      "description": "See how sales teams ChatGPT Work to bring customer conversations, sales activity, and market signals into one weekly report.",
+      "published_at": "2026-07-28T14:25:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g-g6E-qtCjA/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT Work for Sales: Account Research and Customer Outreach",
+      "video_id": "5DbZAMGZ5oM",
+      "channel_title": "OpenAI",
+      "description": "See how sales teams ChatGPT Work to turn customer updates into account research, meeting prep, and sales follow-up.",
+      "published_at": "2026-07-28T14:23:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5DbZAMGZ5oM/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT Work for Sales: Account Planning and Meeting Prep",
+      "video_id": "hjXi7b01s2c",
+      "channel_title": "OpenAI",
+      "description": "See how sales teams use ChatGPT Work to help sellers plan their day, prepare for customer meetings, and create the materials ...",
+      "published_at": "2026-07-28T14:20:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hjXi7b01s2c/hqdefault.jpg"
+    },
+    {
+      "title": "ChatGPT Work for Sales: Pipeline and Forecast Intelligence",
+      "video_id": "q9TPE7pKkIo",
+      "channel_title": "OpenAI",
+      "description": "See how sales teams use ChatGPT Work to spot sales pipeline risks, identify the deals that need attention, and recommend what ...",
+      "published_at": "2026-07-28T14:16:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/q9TPE7pKkIo/hqdefault.jpg"
+    },
+    {
+      "title": "Navigating AI Transformation in the Legal Industry | Jonathan Williams, Head of France, Legora",
+      "video_id": "oXu6JGxW_YM",
+      "channel_title": "OpenAI",
+      "description": "We caught up with Jonathan Williams, Head of France at Legora, at RAISE Summit in Paris to discuss how AI is transforming the ...",
+      "published_at": "2026-07-27T12:37:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oXu6JGxW_YM/hqdefault.jpg"
+    },
     {
       "title": "Build Hour: Valuemaxxing with GPT-5.6",
       "video_id": "jyuyY86GJnA",
@@ -13,76 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jyuyY86GJnA/hqdefault.jpg"
     },
     {
-      "title": "Building at the pace of AI innovation | Grant Lee, Gamma",
-      "video_id": "PB7DBemxl3E",
-      "channel_title": "OpenAI",
-      "description": "We caught up with Grant Lee, Founder and CEO of Gamma, at RAISE Summit in Paris to discuss what it takes to build at the pace ...",
-      "published_at": "2026-07-24T09:12:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PB7DBemxl3E/hqdefault.jpg"
-    },
-    {
       "title": "How IT Admins can manage ChatGPT Work at scale | OpenAI",
       "video_id": "t8Ej9aeW388",
       "channel_title": "OpenAI",
       "description": "As AI adoption grows, so does the admin workload—but it shouldn't have to. ChatGPT Work and the new Admin APIs make ...",
       "published_at": "2026-07-23T20:50:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/t8Ej9aeW388/hqdefault.jpg"
-    },
-    {
-      "title": "What is AI Slop?",
-      "video_id": "-_p2a6uWfjk",
-      "channel_title": "OpenAI",
-      "description": "AI Slop or not? Explore the Epistemologies of Slop at tiat Gallery in San Francisco through July 31.",
-      "published_at": "2026-07-23T20:51:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-_p2a6uWfjk/hqdefault.jpg"
-    },
-    {
-      "title": "How Enterprise Teams Use ChatGPT Work | Zapier, Shopify &amp; Virgin Atlantic",
-      "video_id": "zq88iLsSfMA",
-      "channel_title": "OpenAI",
-      "description": "ChatGPT Work is rolling out to Enterprise plans—available wherever you use ChatGPT: chatgpt.com, desktop, and mobile.",
-      "published_at": "2026-07-23T20:23:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zq88iLsSfMA/hqdefault.jpg"
-    },
-    {
-      "title": "Building with ChatGPT Voice | OpenAI",
-      "video_id": "E0ZMOschrTU",
-      "channel_title": "OpenAI",
-      "description": "Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by ...",
-      "published_at": "2026-07-23T19:40:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E0ZMOschrTU/hqdefault.jpg"
-    },
-    {
-      "title": "Now it won’t take you 10 years to get tickets",
-      "video_id": "oikd-FocWrI",
-      "channel_title": "OpenAI",
-      "description": "Check out ChatGPT Work today: https://openai.com/chatgpt-work/",
-      "published_at": "2026-07-23T18:58:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oikd-FocWrI/hqdefault.jpg"
-    },
-    {
-      "title": "Health in ChatGPT is coming to U.S. users",
-      "video_id": "lR58Dge8jE8",
-      "channel_title": "OpenAI",
-      "description": "Health in ChatGPT is starting to roll out to U.S. users. You can securely connect Apple Health and supported medical records to ...",
-      "published_at": "2026-07-23T17:03:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lR58Dge8jE8/hqdefault.jpg"
-    },
-    {
-      "title": "Work with docs, sheets, and slides in ChatGPT",
-      "video_id": "E3dDr_QtBuo",
-      "channel_title": "OpenAI",
-      "description": "See how you can use ChatGPT to bring context together from your apps and files, make focused edits, analyze data, and use ...",
-      "published_at": "2026-07-23T14:17:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E3dDr_QtBuo/hqdefault.jpg"
-    },
-    {
-      "title": "How AI Agents Will Redesign Enterprise Work | Barak Kaufman, Wonderful",
-      "video_id": "MX95QbxSc9Q",
-      "channel_title": "OpenAI",
-      "description": "We caught up with Barak Kaufman, Chief Strategy Officer at Wonderful, at RAISE Summit in Paris to discuss what the next chapter ...",
-      "published_at": "2026-07-23T09:33:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MX95QbxSc9Q/hqdefault.jpg"
     }
   ]
 }

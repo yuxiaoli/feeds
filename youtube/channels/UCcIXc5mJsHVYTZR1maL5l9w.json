@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-26T03:16:16.562902",
+  "fetched_at": "2026-08-02T03:14:46.700800",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "AI writes your code. Who reviews it?",
+      "video_id": "zBjdLgvZWag",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn More: https://bit.ly/4pCoIqu Learn how to make AI code review effective and build your own review agent in this short course ...",
+      "published_at": "2026-07-29T15:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zBjdLgvZWag/hqdefault.jpg"
+    },
     {
       "title": "Fast inference changes what you can build",
       "video_id": "a9V1XgFOa5I",
@@ -75,14 +83,6 @@
       "description": "From centralized to distributed: In the old world, organizations relied on one centralized data and AI platform. In the new world of ...",
       "published_at": "2026-05-22T16:55:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ycKLqk5tezw/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 26 x SF | Manos Koukoumidis &amp; Stefan Webb: VibeML: Build your AI model in hours, not months",
-      "video_id": "MlVuNCP9uxs",
-      "channel_title": "DeepLearningAI",
-      "description": "The next major shift in enterprise AI is underway; enterprises are moving from generic AI they rent to specialized AI they own.",
-      "published_at": "2026-05-22T16:52:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MlVuNCP9uxs/hqdefault.jpg"
     }
   ]
 }
