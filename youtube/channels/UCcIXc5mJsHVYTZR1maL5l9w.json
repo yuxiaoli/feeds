@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-08-02T03:14:46.700800",
+  "fetched_at": "2026-08-09T01:55:07.449268",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "1st Place Winner: Coding Agent Calls Developer to Resolve Code Block",
+      "video_id": "7ZOjMnbxJYE",
+      "channel_title": "DeepLearningAI",
+      "description": "In this 1st place demo for the 7-Day Voice AI Builder Challenge with @VocalBridgeAI developer Nick sets an AI agent to fix a ...",
+      "published_at": "2026-08-05T14:41:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7ZOjMnbxJYE/hqdefault.jpg"
+    },
+    {
+      "title": "3rd Place Winner: Voice AI Prevents Data Loss. Coding Agent Calls Developer Before Deleting Records",
+      "video_id": "Z4PB98qZBRU",
+      "channel_title": "DeepLearningAI",
+      "description": "In this finalist demo for the 7-Day Voice AI Builder Challenge with @VocalBridgeAI, developer Sapna shows how voice escalation ...",
+      "published_at": "2026-08-05T14:41:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z4PB98qZBRU/hqdefault.jpg"
+    },
+    {
+      "title": "2nd Place Winner: Coding Agent Calls Developer to Pitch Launch Strategy",
+      "video_id": "BHdin6bLGKQ",
+      "channel_title": "DeepLearningAI",
+      "description": "In this finalist demo for the 7-Day Voice AI Builder Challenge (in collaboration with @VocalBridgeAI) developer Eugenia sets an ...",
+      "published_at": "2026-08-05T14:41:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BHdin6bLGKQ/hqdefault.jpg"
+    },
     {
       "title": "AI writes your code. Who reviews it?",
       "video_id": "zBjdLgvZWag",
@@ -59,30 +83,6 @@
       "description": "Budget” and “financials” are different words, but embeddings understand they're related. That's the foundation behind semantic ...",
       "published_at": "2026-05-22T19:12:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/S_xwTgs8zmo/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 26 x SF | Andi Partovi: Why Every Agent Needs a Simulation Sandbox",
-      "video_id": "cnt83ML6-fA",
-      "channel_title": "DeepLearningAI",
-      "description": "AI agents fail in unpredictable ways that traditional testing can't catch — hallucinations, wrong tool calls, policy violations, and ...",
-      "published_at": "2026-05-22T17:21:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cnt83ML6-fA/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 26 x SF | João Moura: Building Recurring, Governed, and Embedded Enterprise Workflows",
-      "video_id": "hsy02uiKcAM",
-      "channel_title": "DeepLearningAI",
-      "description": "Modern enterprises don't struggle to experiment with AI — they struggle to operationalize it reliably. In this talk, CrewAI's CEO ...",
-      "published_at": "2026-05-22T17:18:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hsy02uiKcAM/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 26 x SF | Luke Kim: The Agent Data Stack—Why Every AI Agent Needs Its Own Data Stack",
-      "video_id": "ycKLqk5tezw",
-      "channel_title": "DeepLearningAI",
-      "description": "From centralized to distributed: In the old world, organizations relied on one centralized data and AI platform. In the new world of ...",
-      "published_at": "2026-05-22T16:55:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ycKLqk5tezw/hqdefault.jpg"
     }
   ]
 }

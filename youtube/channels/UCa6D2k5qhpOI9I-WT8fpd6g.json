@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-02T03:14:44.599768",
+  "fetched_at": "2026-08-09T01:55:05.339465",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "Cherry Studio V2 来了，超详细攻略 + 真实使用场景分享",
+      "video_id": "H1kVXogxpQQ",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "CherryStudio #AI桌面客户端#ai #agent #科技#计算机#教程#编程会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 ...",
+      "published_at": "2026-08-05T09:46:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H1kVXogxpQQ/hqdefault.jpg"
+    },
     {
       "title": "一个Skill 让 Agent 自动操作浏览器，告别重复枯燥任务",
       "video_id": "wBN2BniLoHM",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 CLI这个计算机世界里最古老的交互方式，正在迎来一次新的爆发。最近越 ...",
       "published_at": "2026-04-01T13:59:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5rAIU0GBjII/hqdefault.jpg"
-    },
-    {
-      "title": "飞书官方插件一出，龙虾(OpenClaw)的玩法彻底变了",
-      "video_id": "3u9gYM7digA",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 官方插件使用指南： ...",
-      "published_at": "2026-03-14T02:54:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3u9gYM7digA/hqdefault.jpg"
     }
   ]
 }

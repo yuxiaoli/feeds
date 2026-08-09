@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-08-02T03:14:22.687272",
+  "fetched_at": "2026-08-09T01:54:43.233924",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "扎克伯格引爆全球AI股灾？ | Meta | 科技股暴跌| 算力过剩 | Llama 4 | 半导体 | SK海力士 | 三星 | 英伟达 | CoreWeave | 元宇宙 | AI泡沫 | 黄仁勋",
-      "video_id": "LIPzl4OnlTo",
+      "title": "乐高式数据中心，AI基建的狂野西部 | 模块化数据中心 | AI算力 | 乐高式基建 | Meta帐篷 |电力短缺 | 电工短缺 | GPU云 | 液冷 | Nvidia DSX | 预制建筑",
+      "video_id": "VCkoXJwbPiY",
       "channel_title": "最佳拍档",
-      "description": "2026年7月全球半导体与AI板块遭遇惨烈股灾，从费城半导体指数到韩国KOSPI再到A股科创50全线暴跌，韩国40万账户爆仓。",
-      "published_at": "2026-08-01T09:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LIPzl4OnlTo/hqdefault.jpg"
+      "description": "本期深度解析SemiAnalysis最新报告，拆解正在重塑AI算力基建的模块化数据中心革命。面对电工短缺这一资本无法解决的结构性 ...",
+      "published_at": "2026-08-08T09:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VCkoXJwbPiY/hqdefault.jpg"
     },
     {
-      "title": "AI写的代码，还要读吗？ | 程序员的重新定义 | Uncle Bob | Mitchell Hashimoto | Vibe Coding | 人工智能 | 软件工程 | 代码整洁之道",
-      "video_id": "Hh3AmV46epI",
+      "title": "谷歌AI一夜巨震，Jeff Dean离职，哈萨比斯隐退 | Gemini | DeepMind | Discovery Loop | AI创业 | 大模型人才 | 硅谷人事 | AGI | 创新者窘境",
+      "video_id": "oAaf1w2yITY",
       "channel_title": "最佳拍档",
-      "description": "两位世界级开发者米切尔·桥本与Uncle Bob，针对AI生成代码是否需要逐行阅读给出截然相反的答案，引发全球开发者社区大讨论。",
-      "published_at": "2026-07-31T09:30:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hh3AmV46epI/hqdefault.jpg"
+      "description": "2026年8月5日，谷歌AI部门遭遇成立以来最大人事地震：在谷歌效力27年的首席科学家、Google Brain创始人Jeff Dean正式离职， ...",
+      "published_at": "2026-08-07T11:11:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oAaf1w2yITY/hqdefault.jpg"
     },
     {
-      "title": "Kimi K3为何能领跑开源大模型 | 杨植麟 | 月之暗面 | Muon优化器 | 长上下文 | 智能体蜂群 | 注意力残差 | 多模态融合 | AI开源 | 大语言模型 | Kimi Linear",
-      "video_id": "mwD8CAdFNmY",
+      "title": "AI对GDP的影响有限 | 阿西莫格鲁 | 诺贝尔经济学奖 | AI泡沫 | 生产力悖论 | AGI | 自动化 | UBI | OpenAI | 就业冲击 | 技术未来",
+      "video_id": "2E9g7acVGAk",
       "channel_title": "最佳拍档",
-      "description": "本期视频深度回溯月之暗面创始人杨植麟在英伟达GTC大会上的技术演讲，完整拆解Kimi K3背后的三大技术扩展路径：通过Muon ...",
-      "published_at": "2026-07-30T23:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mwD8CAdFNmY/hqdefault.jpg"
+      "description": "2024年诺贝尔经济学奖得主达龙·阿西莫格鲁，在最新访谈中系统拆解AI经济真相。他预测未来十年AI对GDP贡献仅1%-1.5%，远非 ...",
+      "published_at": "2026-08-06T23:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2E9g7acVGAk/hqdefault.jpg"
     },
     {
-      "title": "Meta Infra千亿AI基建踩坑内幕 | SemiAnalysis | AI芯片 | GPU服务器 | GB200 | Rivos | 大模型训练 | TCO | 数据中心 | AMD MI450",
-      "video_id": "lffdUgPBABY",
+      "title": "百川智能掉队了？最后一位联创离职 | 王小川 | 大模型 | AI创业 | AGI | 茹立云 | 智谱AI | MiniMax | Kimi | AI医疗",
+      "video_id": "QbR7wK7phj0",
       "channel_title": "最佳拍档",
-      "description": "SemiAnalysis近期发文炮轰Meta基础设施团队存在系统性文化问题，导致千亿级AI基建投入效率低下。本期视频深度拆解四个核心 ...",
-      "published_at": "2026-07-30T09:01:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lffdUgPBABY/hqdefault.jpg"
+      "description": "曾经估值200亿、被视为中国版OpenAI最有力候选者的百川智能，三年后联创悉数离场，淡出主流视野。本期视频深度复盘王小川的 ...",
+      "published_at": "2026-08-06T09:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QbR7wK7phj0/hqdefault.jpg"
     },
     {
-      "title": "每一个微秒都重要 | 英伟达联合ETH论文 | AllReduce | NCCL | GB200 | NVLink | vLLM | 张量并行 | 微秒优化 | 推理成本 | 集合通信",
-      "video_id": "umyJuaSqbQ0",
+      "title": "大模型会讲因果，是因为人类为它解释了世界 | Judea Pearl | 图灵奖得主 | LLM | AGI | 因果推理 | 贝叶斯网络 | 因果阶梯 | 世界模型 | 机器学习",
+      "video_id": "BMKEiVylEaI",
       "channel_title": "最佳拍档",
-      "description": "英伟达联合苏黎世联邦理工发布最新论文，将多GPU小消息AllReduce延迟从11微秒压至2.37微秒，距离硬件物理极限仅差7%。",
-      "published_at": "2026-07-29T23:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/umyJuaSqbQ0/hqdefault.jpg"
+      "description": "2026年7月，图灵奖得主、因果推理奠基人朱迪亚·珀尔在长篇访谈中，系统阐述了对大语言模型的核心判断。他指出大模型看似具备 ...",
+      "published_at": "2026-08-05T23:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BMKEiVylEaI/hqdefault.jpg"
     },
     {
-      "title": "AI时代的数学危机 | 陶哲轩ICM 2026演讲 | 哥德尔不完备定理 | 古德哈特定律 | Lean | 形式化验证 | First Proof | 莱顿宣言 | 证明生成 | 同行评审",
-      "video_id": "khSatrY-p9s",
+      "title": "DeepSeek V4 Flash一刀斩碎AI定价 | 性价比斩杀线 | 一天8万亿Token | 开源模型 | Claude Opus | GPT | 梁文锋 | 编程AI | API定价",
+      "video_id": "6kzb814ksIs",
       "channel_title": "最佳拍档",
-      "description": "2026年国际数学家大会上，陶哲轩发表公开演讲《数学在AI时代》，提出数学界正面临一场类似20世纪初基础危机的新动荡，这次 ...",
-      "published_at": "2026-07-29T09:59:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/khSatrY-p9s/hqdefault.jpg"
+      "description": "DeepSeek V4 Flash正式版上线后在全球开发者社区引发震动，单日在OpenCode平台消耗8万亿Token，登顶OpenRouter调用量 ...",
+      "published_at": "2026-08-05T09:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6kzb814ksIs/hqdefault.jpg"
     },
     {
-      "title": "十年后钱不再重要 | Elon Musk最新访谈 | AI | 人形机器人 | OpenAI | Kimi | 中美AI竞争 | AI安全 | 全民基本收入 | 奇点 | SpaceX | 未来工作",
-      "video_id": "VFR0VaEr704",
+      "title": "AI泡沫正撞上80年大周期 | Ray Dalio | 桥水基金 | 资产配置 | 黄金 | 比特币 | 通胀 | 多元化投资 | 2008金融危机 | 地缘政治 | 职业规划 | 财富管理",
+      "video_id": "ls59cM1gi38",
       "channel_title": "最佳拍档",
-      "description": "埃隆·马斯克最新访谈给出激进预测：AI五年内超过全人类智慧总和，十年后进入物质极大丰富时代，2036年钱将不再重要。他承认AI ...",
-      "published_at": "2026-07-28T23:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VFR0VaEr704/hqdefault.jpg"
+      "description": "桥水基金创始人瑞·达里奥最新专访深度解析，当前AI投资已显现典型泡沫特征，革命性技术引发的狂热投资、忽略价格的借贷行为与 ...",
+      "published_at": "2026-08-04T23:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ls59cM1gi38/hqdefault.jpg"
     },
     {
-      "title": "梁文锋四小时讲话为何被全网封杀 | DeepSeek | AGI | 大模型 | 开源 | AI芯片 | 华为昇腾 | 英伟达 | CUDA | 持续学习 | 算力瓶颈 | TileLang",
-      "video_id": "Fy6tKSHGEXQ",
+      "title": "为什么大规模失业没有出现？| Sam Altman最新访谈 | OpenAI | 开源大模型 | 模型蒸馏 | AGI | 机器人 | 算力 | 规模效应 | Scaling Law | AI就业",
+      "video_id": "S3jwsMV-DPc",
       "channel_title": "最佳拍档",
-      "description": "本期视频深度解读DeepSeek创始人梁文锋4小时内部投资人讲话实录，内容涵盖DeepSeek的愿景驱动管理哲学、开源战略的底层 ...",
-      "published_at": "2026-07-28T14:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Fy6tKSHGEXQ/hqdefault.jpg"
+      "description": "本期深度解读萨姆·奥特曼（Sam Altman）最新万字访谈。奥特曼首次正面回应Kimi等中国开源模型冲击，承认开源必有一席之地， ...",
+      "published_at": "2026-08-04T09:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S3jwsMV-DPc/hqdefault.jpg"
     },
     {
-      "title": "【人工智能】AI未来发展的核心支柱 | 钢铁、服务器、能源 | David Cahn红杉美国合伙人 | 数据中心 | 基建效率 | 现金牛 | 房地产 | 资产负债表外融资",
-      "video_id": "5gDrGItwDg4",
+      "title": "AMD 2nm GPU迎战英伟达 | 苏姿丰 | MI455X | Helios | Venice | AI芯片 | GPU | 英伟达 | AI推理 | 智能体 | ROCm | 数据中心",
+      "video_id": "fCmohO6b8x0",
       "channel_title": "最佳拍档",
-      "description": "今天我们来分享一个20VC推出的播客节目，在这档节目中，投资人大卫·卡恩David Cahn与播客主持人哈里·斯特宾斯Harry ...",
-      "published_at": "2024-08-15T09:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5gDrGItwDg4/hqdefault.jpg"
+      "description": "本期视频深度解读AMD Advancing AI 2026大会，全面解析全球首款2nm GPU Instinct MI455X、Helios机架级AI平台、Venice ...",
+      "published_at": "2026-08-03T23:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fCmohO6b8x0/hqdefault.jpg"
     },
     {
-      "title": "【商业】创业公司如何找到产品市场契合点PMF | 红杉资本Arc活动分享 |  产品与客户之间的三种关系 | 如何选择路径 | 燃眉之急 | 铁的事实 | 未来愿景",
-      "video_id": "nJIVpB05eKY",
+      "title": "什么是图工程 | Graph Engineering | 循环工程 | Loop Engineering | 多智能体 | LangGraph | ReAct | 提示词工程 | 工作流编排 |验证器",
+      "video_id": "8RedSkw1UjE",
       "channel_title": "最佳拍档",
-      "description": "今天这是一期科技创业者必看的视频。对于所有初创公司来说，核心任务就是寻找产品与市场的契合点，也就是所谓 ...",
-      "published_at": "2024-05-01T10:06:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nJIVpB05eKY/hqdefault.jpg"
+      "description": "2026年AI工程范式正在发生关键迁移，从Loop Engineering转向Graph Engineering。本文深度解析这一转变的本质：从编排单个 ...",
+      "published_at": "2026-08-02T09:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8RedSkw1UjE/hqdefault.jpg"
     }
   ]
 }

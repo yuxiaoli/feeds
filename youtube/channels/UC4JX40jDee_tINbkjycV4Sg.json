@@ -1,80 +1,40 @@
 {
-  "fetched_at": "2026-08-02T03:14:11.244489",
+  "fetched_at": "2026-08-09T01:54:31.450190",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 9,
+  "count": 4,
   "videos": [
     {
-      "title": "Ultimate Vibe Coding Guide for Beginners",
-      "video_id": "SM17ps6-gAY",
+      "title": "Someone in Your Field Already Automated This",
+      "video_id": "yCoJ89qc__A",
       "channel_title": "Tech With Tim",
-      "description": "Deploy your applications using Hostinger: https://www.hostg.xyz/SHJpT Vibe coding is building software without writing or ...",
-      "published_at": "2026-08-01T14:17:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SM17ps6-gAY/hqdefault.jpg"
+      "description": "Someone in your field is automating what you still do manually every morning. Close the gap this week. Link in the description ...",
+      "published_at": "2026-08-08T12:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yCoJ89qc__A/hqdefault.jpg"
     },
     {
-      "title": "How Do AI Agents Remember It&#39;s Not What You Think",
-      "video_id": "N0tY9JXRi_A",
+      "title": "Beginners Who Build Win Faster",
+      "video_id": "jH26BIplM2k",
       "channel_title": "Tech With Tim",
-      "description": "Do AI models actually have memory? No. On their own they store nothing, so ask a follow-up and the model forgets what you said ...",
-      "published_at": "2026-08-01T12:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N0tY9JXRi_A/hqdefault.jpg"
+      "description": "You don't need to be an expert. A beginner in motion beats an expert at rest. The Zero-to-Agent path is free. Link in the description ...",
+      "published_at": "2026-08-07T12:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jH26BIplM2k/hqdefault.jpg"
     },
     {
-      "title": "How AI Agents Use Tools The Harness Explained",
-      "video_id": "wAXfSXewYHg",
+      "title": "Your AI Should Work While You Sleep",
+      "video_id": "YvRlc7M5pJc",
       "channel_title": "Tech With Tim",
-      "description": "How do AI agents actually use tools like web search? The model can't magically go online, it can only predict text. So when it ...",
-      "published_at": "2026-07-31T12:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wAXfSXewYHg/hqdefault.jpg"
+      "description": "Stop using AI like it's Google. Agents read your inbox, watch websites, research overnight. Your first one takes a weekend. Link in ...",
+      "published_at": "2026-08-06T12:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YvRlc7M5pJc/hqdefault.jpg"
     },
     {
-      "title": "Claude Code Is Secretly Just a While Loop",
-      "video_id": "J8fMcbIJ0to",
+      "title": "Build $10,000 Websites using Claude Code (Ultimate Guide)",
+      "video_id": "UQ9PbbPNvnc",
       "channel_title": "Tech With Tim",
-      "description": "Claude Code is secretly just a while loop, and here's the proof. Everything an AI agent actually is comes down to a language ...",
-      "published_at": "2026-07-30T12:28:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J8fMcbIJ0to/hqdefault.jpg"
-    },
-    {
-      "title": "How Does Claude Code Actually Work? Let&#39;s Make Our Own",
-      "video_id": "vp6Dlx5aHDU",
-      "channel_title": "Tech With Tim",
-      "description": "Download the FREE Claude Code for Marketing Guide from HubSpot! https://clickhubspot.com/4388d4 Everyone uses Claude ...",
-      "published_at": "2026-07-30T12:22:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vp6Dlx5aHDU/hqdefault.jpg"
-    },
-    {
-      "title": "Cursor 3.0 - Full Course for Beginners",
-      "video_id": "Tv8mLrLtyxo",
-      "channel_title": "Tech With Tim",
-      "description": "Download Cursor for Free: https://cursor.com/ Start using Wispr Flow for Free: https://ref.wisprflow.ai/TechWithTim-jul26 Cursor 3.0 ...",
-      "published_at": "2026-07-29T13:18:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Tv8mLrLtyxo/hqdefault.jpg"
-    },
-    {
-      "title": "Chatbot vs AI Agent: The Difference Explained",
-      "video_id": "XuzuaYcZ_eQ",
-      "channel_title": "Tech With Tim",
-      "description": "What's the difference between a chatbot and an AI agent? It's the most common confusion in AI right now, and it comes down to ...",
-      "published_at": "2026-07-29T12:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XuzuaYcZ_eQ/hqdefault.jpg"
-    },
-    {
-      "title": "How to Fine-Tune any AI Model Locally (FULL Tutorial)",
-      "video_id": "4JofSJIrjwU",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with HeyGen: https://www.heygen.com/?sid=rewardful&utm_content=creator&utm_medium=influencera&via=0ea234 ...",
-      "published_at": "2026-07-27T14:06:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4JofSJIrjwU/hqdefault.jpg"
-    },
-    {
-      "title": "GLM 5.2 in Claude Code is Blowing My Mind",
-      "video_id": "yRtUkbq_hHo",
-      "channel_title": "Tech With Tim",
-      "description": "Use the Zapier MCP server to connect to over 8000 applications/tools: ﻿https://bit.ly/4vLT37w GLM 5.2 is one of the best open ...",
-      "published_at": "2026-07-23T14:01:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yRtUkbq_hHo/hqdefault.jpg"
+      "description": "Use ImageKit for handling images/videos efficiently: https://tinyurl.com/2sph69zx Create a free Supabase account to use as the ...",
+      "published_at": "2026-08-05T13:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UQ9PbbPNvnc/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-02T03:14:13.902079",
+  "fetched_at": "2026-08-09T01:54:34.122674",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Why Does Atlas Have A Head? #askaroboticist #bostondynamics",
+      "video_id": "VmBS2N1FzmE",
+      "channel_title": "Boston Dynamics",
+      "description": "Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions about why the current iteration of Atlas has a ...",
+      "published_at": "2026-08-04T13:55:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VmBS2N1FzmE/hqdefault.jpg"
+    },
     {
       "title": "Spot at Mariana Minerals | Boston Dynamics",
       "video_id": "KywMP9_SyRg",
@@ -75,14 +83,6 @@
       "description": "If you've ever worked on your feet all day, you know how important a good pair of shoes is. Mechanical design engineer Chastity ...",
       "published_at": "2026-06-02T13:56:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GvByvkp6k5s/hqdefault.jpg"
-    },
-    {
-      "title": "School of Football | The Ghost Rabona | Boston Dynamics x Hyundai",
-      "video_id": "V1Lxp-Q6Y9g",
-      "channel_title": "Boston Dynamics",
-      "description": "Atlas reveals the Ghost Rabona. Atlas takes the Rabona further combining precision, control, and deception. Pushing the limits of ...",
-      "published_at": "2026-05-29T13:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V1Lxp-Q6Y9g/hqdefault.jpg"
     }
   ]
 }

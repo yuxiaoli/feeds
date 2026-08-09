@@ -1,32 +1,16 @@
 {
-  "fetched_at": "2026-08-02T03:14:25.974443",
+  "fetched_at": "2026-08-09T01:54:46.901538",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 3,
+  "count": 1,
   "videos": [
     {
-      "title": "Our spidey senses are telling us you should search “peter parker” in AI Mode 🧐",
-      "video_id": "JUlcgfqCgN4",
+      "title": "How to build apps and automate tasks with Google Antigravity 2.0",
+      "video_id": "bSp-foRDH5M",
       "channel_title": "Google",
-      "description": "Thwip over to Google to see what happens.",
-      "published_at": "2026-07-30T15:59:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JUlcgfqCgN4/hqdefault.jpg"
-    },
-    {
-      "title": "Just your friendly neighborhood web-slinger reminding you to search “spider-man brand new day” 🕸️",
-      "video_id": "nlz0UmQdhqk",
-      "channel_title": "Google",
-      "description": "Head over to Google to see what happens.",
-      "published_at": "2026-07-27T19:35:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nlz0UmQdhqk/hqdefault.jpg"
-    },
-    {
-      "title": "See the potential in your yard with Search ✨",
-      "video_id": "y6L37mXkTw0",
-      "channel_title": "Google",
-      "description": "Ready for a rethink? Tap the in the Google app, take a picture of your yard, and type “help me reimagine my backyard.",
-      "published_at": "2026-07-24T17:34:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y6L37mXkTw0/hqdefault.jpg"
+      "description": "Google Antigravity 2.0 is your standalone desktop command center, designed to run autonomous AI agents in parallel. Watch this ...",
+      "published_at": "2026-08-04T20:46:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bSp-foRDH5M/hqdefault.jpg"
     }
   ]
 }

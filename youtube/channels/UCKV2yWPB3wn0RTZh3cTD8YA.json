@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-08-02T03:14:28.053187",
+  "fetched_at": "2026-08-09T01:54:48.852549",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "挑战GPU、绕过HBM，深挖史上最大芯片背后的Cerebras",
+      "video_id": "l5K_icg5JQA",
+      "channel_title": "硅谷101",
+      "description": "在整个AI行业疯抢HBM的时候，有一家芯片公司，选择了一条不同的路线。 2026年5月，Cerebras登陆纳斯达克，上市首日股价 ...",
+      "published_at": "2026-08-07T02:32:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l5K_icg5JQA/hqdefault.jpg"
+    },
+    {
+      "title": "对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+      "video_id": "svNElhOYajQ",
+      "channel_title": "硅谷101",
+      "description": "我们这期视频播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。 在开源模型 ...",
+      "published_at": "2026-08-03T14:04:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/svNElhOYajQ/hqdefault.jpg"
+    },
     {
       "title": "“榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场",
       "video_id": "cB_X6AImPjQ",
@@ -11,30 +27,6 @@
       "description": "OpenAI、谷歌、Deepseek...各大AI前沿模型最近开始了一场\"造芯大战\"，市场依旧缺卡缺算力，因而如何让手里的GPU发挥出更大 ...",
       "published_at": "2026-07-31T13:00:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cB_X6AImPjQ/hqdefault.jpg"
-    },
-    {
-      "title": "对话叶奇意：“寻找”月之暗面杨植麟、中国两代AI、十年人才迁徙，与AGI信仰",
-      "video_id": "Hq4jFGd4YxE",
-      "channel_title": "硅谷101",
-      "description": "近期Kimi K3发布后再次震动硅谷，也把月之暗面推回全球AI竞争的中心。 Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四 ...",
-      "published_at": "2026-07-28T08:32:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hq4jFGd4YxE/hqdefault.jpg"
-    },
-    {
-      "title": "“万能”的AI，为什么偏偏搞不定足球？",
-      "video_id": "jXZGeF6sJOc",
-      "channel_title": "硅谷101",
-      "description": "AI可以写代码、做研究，甚至预测复杂的现实世界，但面对一场足球比赛，它却常常失灵。即使拥有海量数据和顶级算法，AI依然很 ...",
-      "published_at": "2026-07-24T03:42:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jXZGeF6sJOc/hqdefault.jpg"
-    },
-    {
-      "title": "对话Vincent Koc：OpenClaw的反思与进化，中国的“小龙虾”狂热，与Agent的下一步",
-      "video_id": "tnvyMcmtAiw",
-      "channel_title": "硅谷101",
-      "description": "OpenClaw，这个在2026年初引爆全球AI圈的现象级项目，让Mac Mini卖到断货，也引发了关于AI安全与边界的全民讨论。当喧嚣 ...",
-      "published_at": "2026-07-21T01:07:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tnvyMcmtAiw/hqdefault.jpg"
     },
     {
       "title": "SK海力士崛起史：一个荒诞又狗血的财阀故事，如何卡住全球AI的脖子",
@@ -61,14 +53,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ULi-TCF2cQE/hqdefault.jpg"
     },
     {
-      "title": "当FIFA遇到美国：世界杯，太赚了！",
-      "video_id": "erIEZkMd9_w",
-      "channel_title": "硅谷101",
-      "description": "2026美加墨世界杯，可能是史上最会赚钱的一届世界杯。 门票、停车费、转售佣金、赞助费、转播版权，几乎所有和世界杯有关的 ...",
-      "published_at": "2026-07-01T06:27:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/erIEZkMd9_w/hqdefault.jpg"
-    },
-    {
       "title": "对话王熙乔：AI时代的教育者、十年沉浮，与人类文明的下一步",
       "video_id": "nWc1tpQnhqY",
       "channel_title": "硅谷101",
@@ -83,6 +67,22 @@
       "description": "又是一年高考季。你还记得当年查成绩、等分数、填志愿的那一天吗？ 最近，一所来自北京的创新学校——探月学校，频繁出现在AI ...",
       "published_at": "2026-06-26T01:30:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/y2bZdXZBeBc/hqdefault.jpg"
+    },
+    {
+      "title": "AI编程火了之后，下一个被资本押注的方向会是什么？",
+      "video_id": "4y9DR2WwW3o",
+      "channel_title": "硅谷101",
+      "description": "田渊栋的判断是：AI research。Coding之所以能快速商业化，是因为它替代的是高薪、高ROI的工作；而AI研究人才更贵，自动化后 ...",
+      "published_at": "2026-06-22T23:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4y9DR2WwW3o/hqdefault.jpg"
+    },
+    {
+      "title": "员工蒸馏：水没有了，鱼要变成“四维生物”",
+      "video_id": "TnauzVQkmBo",
+      "channel_title": "硅谷101",
+      "description": "当公司开始“蒸馏员工”，AI时代的个人价值会发生什么变化？ 在田渊栋看来，Meta的争议只是一个开始：公司想沉淀员工经验、降低 ...",
+      "published_at": "2026-06-22T05:05:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TnauzVQkmBo/hqdefault.jpg"
     }
   ]
 }

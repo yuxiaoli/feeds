@@ -1,16 +1,48 @@
 {
-  "fetched_at": "2026-08-02T03:14:30.063799",
+  "fetched_at": "2026-08-09T01:54:50.856993",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 8,
+  "count": 7,
   "videos": [
     {
-      "title": "U.S. Spacewalk Preview News Conference (July 30, 2026)",
-      "video_id": "ea9gZp_KxBU",
+      "title": "U.S. Spacewalk 96",
+      "video_id": "XNKdYbmPKJ8",
       "channel_title": "NASA",
-      "description": "August will be a month of spacewalks. Tune in and find out what's happening! NASA experts are speaking about three upcoming ...",
-      "published_at": "2026-07-30T18:42:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ea9gZp_KxBU/hqdefault.jpg"
+      "description": "At approximately 8:35 a.m. EDT (1235 UTC) on Aug. 6, 2026, NASA astronauts Anil Menon and Jessica Meir will venture outside ...",
+      "published_at": "2026-08-06T20:10:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XNKdYbmPKJ8/hqdefault.jpg"
+    },
+    {
+      "title": "NASA Astronaut Chris Williams Postflight News Conference (Aug. 4, 2026)",
+      "video_id": "mpWTcLv72oE",
+      "channel_title": "NASA",
+      "description": "Tune in as astronaut Chris Williams recaps his eight-month mission aboard the International Space Station. After logging 241 ...",
+      "published_at": "2026-08-04T19:13:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mpWTcLv72oE/hqdefault.jpg"
+    },
+    {
+      "title": "NASA Moon Base Update (Aug. 4, 2026)",
+      "video_id": "VV_JW4iCni0",
+      "channel_title": "NASA",
+      "description": "Lunar landers, assemble! In clean rooms across the country, commercial lunar landers are preparing for upcoming missions to the ...",
+      "published_at": "2026-08-04T16:18:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VV_JW4iCni0/hqdefault.jpg"
+    },
+    {
+      "title": "NASA Moon Base: Lunar Landers (August 2026 Update)",
+      "video_id": "Sempwv5MPMQ",
+      "channel_title": "NASA",
+      "description": "A permanent human presence on the Moon may sound like science fiction, but it's already taking shape. Over a series of Moon ...",
+      "published_at": "2026-08-04T16:03:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Sempwv5MPMQ/hqdefault.jpg"
+    },
+    {
+      "title": "2026 Total Solar Eclipse",
+      "video_id": "rSvCuSQhC3w",
+      "channel_title": "NASA",
+      "description": "Come watch the eclipse with NASA. On Wednesday, Aug. 12, a total solar eclipse will be visible in parts of Greenland, Iceland, ...",
+      "published_at": "2026-07-31T20:29:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rSvCuSQhC3w/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",
@@ -19,46 +51,6 @@
       "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
       "published_at": "2026-07-30T13:13:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/M3HKLzjvKPc/hqdefault_live.jpg"
-    },
-    {
-      "title": "Nancy Grace Roman Space Telescope Mission Preview News Conference (July 29, 2026)",
-      "video_id": "7I-yAwdxWQo",
-      "channel_title": "NASA",
-      "description": "Tune in as we preview the Nancy Grace Roman Space Telescope mission one month ahead of its scheduled launch on Aug. 30!",
-      "published_at": "2026-07-29T19:06:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7I-yAwdxWQo/hqdefault.jpg"
-    },
-    {
-      "title": "2026 Total Solar Eclipse (Official NASA Trailer)",
-      "video_id": "29ixFQIGZaY",
-      "channel_title": "NASA",
-      "description": "The Sun and Moon are coming together to put on a show for Earth, and we'll be sharing it with you. On Aug. 12, 2026, a total solar ...",
-      "published_at": "2026-07-29T15:55:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/29ixFQIGZaY/hqdefault.jpg"
-    },
-    {
-      "title": "NASA Astronaut Chris Williams Postflight News Conference (Aug. 4, 2026)",
-      "video_id": "mpWTcLv72oE",
-      "channel_title": "NASA",
-      "description": "Tune in as astronaut Chris Williams recaps his eight-month mission aboard the International Space Station. After logging 241 ...",
-      "published_at": "2026-07-24T19:11:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mpWTcLv72oE/hqdefault_live.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX Crew-13 Flight Crew News Conference (Aug. 3, 2026)",
-      "video_id": "x8344PSeH30",
-      "channel_title": "NASA",
-      "description": "The four members of NASA's SpaceX Crew-13 mission to the International Space Station, targeted to launch no earlier than ...",
-      "published_at": "2026-07-21T16:19:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x8344PSeH30/hqdefault_live.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX Crew-13 Mission Overview News Conference (Aug. 3, 2026)",
-      "video_id": "IDUtReQSlb0",
-      "channel_title": "NASA",
-      "description": "Leaders from NASA and agency partners are holding a news conference at NASA's Johnson Space Center to discuss final ...",
-      "published_at": "2026-07-21T16:01:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IDUtReQSlb0/hqdefault_live.jpg"
     },
     {
       "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",

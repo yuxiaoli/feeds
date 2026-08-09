@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-02T03:14:04.935844",
+  "fetched_at": "2026-08-09T01:54:25.275712",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "design a logo with Meta AI",
+      "video_id": "xWAmryteQc4",
+      "channel_title": "Meta",
+      "description": "stop dreaming and start building it. you're just a few prompts away from bringing your big (or punny) idea to life with Meta AI.",
+      "published_at": "2026-08-06T16:01:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xWAmryteQc4/hqdefault.jpg"
+    },
     {
       "title": "Reel of the Week | Creating Underwater Art",
       "video_id": "jETkJOosLPI",
@@ -75,14 +83,6 @@
       "description": "Sweet Zori is a content creator specializing in visually satisfying jelly cakes and edible art! she uses our AI glasses to streamline ...",
       "published_at": "2026-07-11T16:00:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/pUuQWUZiEJw/hqdefault.jpg"
-    },
-    {
-      "title": "Meta AI",
-      "video_id": "tMZcqHl1NQY",
-      "channel_title": "Meta",
-      "description": "Meta AI is here to glow up your images. Check out the latest in the app.",
-      "published_at": "2026-07-07T18:18:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tMZcqHl1NQY/hqdefault.jpg"
     }
   ]
 }

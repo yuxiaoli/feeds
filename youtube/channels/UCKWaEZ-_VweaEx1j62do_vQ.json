@@ -1,56 +1,72 @@
 {
-  "fetched_at": "2026-08-02T03:14:28.713976",
+  "fetched_at": "2026-08-09T01:54:49.526171",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Passkeys Stop Phishing Attacks🎣",
-      "video_id": "148_PxIQjZI",
+      "title": "Anthropic’s sandbox breach, EU’s AI transparency push and DeepSeek’s cost-cutting model",
+      "video_id": "W0wXevMkdMM",
       "channel_title": "IBM Technology",
-      "description": "Phishing causes most data breaches—but there's a proven fix. Learn how AI and passkeys are saving companies millions and ...",
-      "published_at": "2026-07-31T16:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/148_PxIQjZI/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~1cu3BYWak It seems OpenAI isn't the only AI ...",
+      "published_at": "2026-08-07T10:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W0wXevMkdMM/hqdefault.jpg"
     },
     {
-      "title": "AI Security Costs Rise: Cost of a Data Breach Report &amp; Claude Opus 5",
-      "video_id": "yb8Chvj--3c",
+      "title": "AI Models Getting Cheaper",
+      "video_id": "gZASEpuSWsM",
       "channel_title": "IBM Technology",
-      "description": "Read the 2026 Cost of a Data Breach Report → https://ibm.biz/~rQKxmFpBi Are AI-powered cyberattacks getting cheaper while ...",
-      "published_at": "2026-07-31T10:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yb8Chvj--3c/hqdefault.jpg"
+      "description": "AI models are shrinking and prices are dropping fast. What does the AI price war mean for the future? Discover why cheaper ...",
+      "published_at": "2026-08-08T16:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gZASEpuSWsM/hqdefault.jpg"
     },
     {
-      "title": "2026 Cost of a Data Breach Report: AI Is Changing Cybersecurity",
-      "video_id": "b2PESRl7De4",
+      "title": "What Is AI Model Collapse? Why AI Could Forget Reality",
+      "video_id": "uhWFLmr7xao",
       "channel_title": "IBM Technology",
-      "description": "Learn more about the 2026 Cost of a Data Breach Report here → https://ibm.biz/~eavIBfqJG AI is accelerating both cyberattacks ...",
-      "published_at": "2026-07-30T11:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b2PESRl7De4/hqdefault.jpg"
+      "description": "Learn more about AI Model Collapse here → https://ibm.biz/~a2mBE0Czn What happens when AI learns mostly from AI?",
+      "published_at": "2026-08-06T11:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uhWFLmr7xao/hqdefault.jpg"
     },
     {
-      "title": "The Cost of a Data Breach 2026, and what we can learn from the Hugging Face hack",
-      "video_id": "lx41qvj80Jo",
+      "title": "The Road to 3 Million Views🚀",
+      "video_id": "AUSylAJS1L4",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/~AzuQjmL4k We're in an AI arms race, and the bad guys might be winning. On this episode ...",
-      "published_at": "2026-07-29T10:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lx41qvj80Jo/hqdefault.jpg"
+      "description": "Three million views later and @cedcodes is still cranking out major videos one at a time. Thanks for watching, learning, and ...",
+      "published_at": "2026-08-07T16:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AUSylAJS1L4/hqdefault.jpg"
     },
     {
-      "title": "Llama.cpp vs vLLM: Which Local LLM Engine Actually Scales?",
-      "video_id": "0ujh7hfutq0",
+      "title": "Oh look. Anthropic’s AI models also broke containment.",
+      "video_id": "A9nnvw2wqmE",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Large Language Models (LLMs) here → https://ibm.biz/~uLCBj5HLQ Choosing a local LLM engine can make ...",
-      "published_at": "2026-07-28T11:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0ujh7hfutq0/hqdefault.jpg"
+      "description": "Explore the podcast → https://ibm.biz/~jDjLVwwSn Last week, OpenAI's models broke out of their sandboxes to cause chaos.",
+      "published_at": "2026-08-05T10:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/A9nnvw2wqmE/hqdefault.jpg"
     },
     {
-      "title": "Why AI Makes the Humanities More Important Than Ever",
-      "video_id": "l-QPwk_f4eE",
+      "title": "What Are Large Database Models? AI for SQL Data",
+      "video_id": "uU1EP9_4qBU",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Human Centered AI here → https://ibm.biz/~tQF2ZHKWO AI can generate answers, but judgment still matters.",
-      "published_at": "2026-07-26T11:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l-QPwk_f4eE/hqdefault.jpg"
+      "description": "Learn more about Large Database Models here → https://ibm.biz/~LdYkjFu30 AI isn't reaching most of your data, until now .",
+      "published_at": "2026-08-04T11:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uU1EP9_4qBU/hqdefault.jpg"
+    },
+    {
+      "title": "Agentic Engineering vs Software Engineering: Beyond Vibe Coding",
+      "video_id": "FgaBdwSvOGM",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about Agentic Engineering here → https://ibm.biz/~ogIZPeOOL Software engineering is entering a new phase.",
+      "published_at": "2026-08-03T11:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FgaBdwSvOGM/hqdefault.jpg"
+    },
+    {
+      "title": "Understanding AI Agent Hallucination in AI Systems",
+      "video_id": "bNRhppHct54",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about AI Hallucinations here → https://ibm.biz/~UAoGwgNhw Confident AI answers are not always grounded in truth.",
+      "published_at": "2026-08-02T11:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bNRhppHct54/hqdefault.jpg"
     },
     {
       "title": "RSA recap, the LiteLLM breach, and the quest to fix AI agent security",
@@ -67,22 +83,6 @@
       "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
       "published_at": "2026-03-10T11:01:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cmEJ-5zYKHA/hqdefault.jpg"
-    },
-    {
-      "title": "Android malware that acts like a person and AI agents that act like malware",
-      "video_id": "iaZS1jer8MY",
-      "channel_title": "IBM Technology",
-      "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
-      "published_at": "2025-11-05T10:01:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
-    },
-    {
-      "title": "Building Decision Agents with LLMs &amp; Machine Learning Models",
-      "video_id": "mRkJTXDromw",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2025-09-25T11:01:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mRkJTXDromw/hqdefault.jpg"
     }
   ]
 }

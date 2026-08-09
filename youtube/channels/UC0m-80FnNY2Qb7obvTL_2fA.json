@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-08-02T03:14:06.308896",
+  "fetched_at": "2026-08-09T01:54:26.766812",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
-    {
-      "title": "Azure confidential computing for sovereign and regulated workloads",
-      "video_id": "q8DuY7zYfS4",
-      "channel_title": "Microsoft Azure",
-      "description": "Learn how Azure Confidential Computing helps protect sovereign and regulated workloads with hardware-rooted security.",
-      "published_at": "2026-07-28T20:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q8DuY7zYfS4/hqdefault.jpg"
-    },
     {
       "title": "Assess your SQL Server instances for modernization to Azure SQL MI, DB, or VM with Azure Migrate",
       "video_id": "-gNXQHTHj0s",
@@ -83,6 +75,14 @@
       "description": "Learn how to scale Azure Compute efficiently using VM instance mix, Compute Fleet, direct virtualization, standby pools, and ...",
       "published_at": "2026-03-03T04:09:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/o6UYBBSDPbQ/hqdefault.jpg"
+    },
+    {
+      "title": "Azure Boost and Cobalt 100 VMs: Arm performance breakthroughs for cloud-native workloads",
+      "video_id": "O5kPJAORTcc",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover how Azure Cobalt 100 Arm‑powered VMs deliver higher throughput, lower latency, and better price‑performance for ...",
+      "published_at": "2026-03-03T04:08:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O5kPJAORTcc/hqdefault.jpg"
     }
   ]
 }

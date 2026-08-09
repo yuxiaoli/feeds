@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-02T03:14:52.220805",
+  "fetched_at": "2026-08-09T01:55:12.938463",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "这款别人收费的生产力工具，我给开源了",
+      "video_id": "DbuRQemay8k",
+      "channel_title": "Find Interesting AI",
+      "description": "项目地址：https://github.com/fishfl/OpenBrowserChat.",
+      "published_at": "2026-08-03T00:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DbuRQemay8k/hqdefault.jpg"
+    },
     {
       "title": "AI偷偷杀死我的编程能力怎么办？",
       "video_id": "vXbIS6Oyzts",
@@ -75,14 +83,6 @@
       "description": "项目地址：https://github.com/fishfl/simple_saas.",
       "published_at": "2026-02-23T00:00:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CPXEb1MICf4/hqdefault.jpg"
-    },
-    {
-      "title": "2026智能体技术选型总结",
-      "video_id": "KNjA6Jkbyzg",
-      "channel_title": "Find Interesting AI",
-      "description": "知识库 ...",
-      "published_at": "2026-02-10T23:30:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KNjA6Jkbyzg/hqdefault.jpg"
     }
   ]
 }

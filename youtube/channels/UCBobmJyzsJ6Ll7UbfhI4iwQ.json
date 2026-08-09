@@ -1,48 +1,88 @@
 {
-  "fetched_at": "2026-08-02T03:14:16.684063",
+  "fetched_at": "2026-08-09T01:54:37.015229",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 5,
+  "count": 10,
   "videos": [
+    {
+      "title": "Building Xbox Games with Unreal Engine&#39;s New GDK Plugins | Unreal Fest Chicago 2026",
+      "video_id": "fQY2UzpTMsY",
+      "channel_title": "Unreal Engine",
+      "description": "Players expect their games to follow them from the devices they have today, from Windows 11 PCs and handhelds to the future of ...",
+      "published_at": "2026-08-08T16:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fQY2UzpTMsY/hqdefault.jpg"
+    },
+    {
+      "title": "Making the Daft Punk Experience: VFX and Stage Design in Fortnite | Unreal Fest Chicago 2026",
+      "video_id": "OST3KcXFs5U",
+      "channel_title": "Unreal Engine",
+      "description": "In September 2025, the Daft Punk Experience launched in Fortnite, inviting millions of fans to step inside the duo's iconic visual ...",
+      "published_at": "2026-08-08T14:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OST3KcXFs5U/hqdefault.jpg"
+    },
+    {
+      "title": "Real-World Animation &amp; Rigging Challenges in Production | Unreal Fest Chicago 2026",
+      "video_id": "XYMad1EutcA",
+      "channel_title": "Unreal Engine",
+      "description": "Over the past few years, working closely with studios and more recently as a Solution Architect at Epic Games, Stéphane Biava ...",
+      "published_at": "2026-08-07T16:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XYMad1EutcA/hqdefault.jpg"
+    },
+    {
+      "title": "The Optimization Journey of &#39;Far Far West&#39; (so far) w/ Tom Looman &amp; Ari Arnbjörnsson | Inside Unreal",
+      "video_id": "kJPqrvB0fdo",
+      "channel_title": "Unreal Engine",
+      "description": "Evil Raptor has spent significant effort optimizing their early access game \"Far Far West\". Join Tom Looman and Ari Arnbjörnsson ...",
+      "published_at": "2026-08-07T15:13:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kJPqrvB0fdo/hqdefault_live.jpg"
+    },
+    {
+      "title": "Scaling AI the Smart Way: Memory Footprint and Runtime Efficiency | Unreal Fest Chicago 2026",
+      "video_id": "BFfebAtBLfU",
+      "channel_title": "Unreal Engine",
+      "description": "As games increasingly adopt real-time inference, memory footprint and runtime efficiency have become just as critical as raw ...",
+      "published_at": "2026-08-07T14:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BFfebAtBLfU/hqdefault.jpg"
+    },
+    {
+      "title": "A Practical Look at Mesh Terrain | Inside Unreal",
+      "video_id": "XlbWtoIk-Zc",
+      "channel_title": "Unreal Engine",
+      "description": "Join us as Etienne Carrier guides us through a breakdown of the Mesh Terrain level presented at the State of Unreal 2026.",
+      "published_at": "2026-08-06T20:15:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XlbWtoIk-Zc/hqdefault.jpg"
+    },
+    {
+      "title": "State of Virtual Production | Unreal Fest Chicago 2026",
+      "video_id": "5SJA1FfRPWs",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this session recorded at Unreal Fest Chicago 2026 to catch up on the latest Unreal Engine virtual production updates.",
+      "published_at": "2026-08-06T16:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5SJA1FfRPWs/hqdefault.jpg"
+    },
+    {
+      "title": "Growing Trees in Unreal Engine: PVE 5.8 New Features and Roadmap | Unreal Fest Chicago 2026",
+      "video_id": "zfFq5e8Pxz0",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this session recorded at Unreal Fest Chicago 2026 for a look at the powerful new features in the Procedural Vegetation ...",
+      "published_at": "2026-08-06T14:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zfFq5e8Pxz0/hqdefault.jpg"
+    },
+    {
+      "title": "Pricing and Packaging your In-Island Transactions | Creating in Fortnite",
+      "video_id": "S1XDXXr2erQ",
+      "channel_title": "Unreal Engine",
+      "description": "In-island transactions add a new revenue stream on top of engagement payouts—and pricing your offers well is a design practice, ...",
+      "published_at": "2026-08-06T13:40:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S1XDXXr2erQ/hqdefault_live.jpg"
+    },
     {
       "title": "Playing Creatures Islands w/ Special Guest: Hannah-Grace Mowery | Cuddles &amp; Chaos",
       "video_id": "JF5Jz0ETccY",
       "channel_title": "Unreal Engine",
       "description": "Cuddles and chaos await! Join us and Ghost Gaming's Hannah-Grace Mowery, one of the UEFN developers behind Sidekick ...",
-      "published_at": "2026-07-30T19:39:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JF5Jz0ETccY/hqdefault_live.jpg"
-    },
-    {
-      "title": "A Deep Dive into GPU Crashes in UE5 | Inside Unreal",
-      "video_id": "Ib_nFhgF4vk",
-      "channel_title": "Unreal Engine",
-      "description": "Join us as Huiwen Jiang shares practical tips and advice from their experience investigating and fixing GPU crashes in UE5.",
-      "published_at": "2026-07-30T19:19:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ib_nFhgF4vk/hqdefault.jpg"
-    },
-    {
-      "title": "How Unreal Engine 5 Is Transforming Halo",
-      "video_id": "Wy59n4KSZUQ",
-      "channel_title": "Unreal Engine",
-      "description": "Get the inside scoop on how Unreal Engine 5 and features like MegaLights, Lumen, and Nanite are helping usher in a new era of ...",
-      "published_at": "2026-07-30T16:43:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wy59n4KSZUQ/hqdefault.jpg"
-    },
-    {
-      "title": "Halo: Campaign Evolved | Developer Interview | Unreal Engine",
-      "video_id": "dQL6N5Xzz2w",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video to discover how UE5 brings high-definition visuals, refined controls, and updated cinematics to 'Halo: Campaign ...",
-      "published_at": "2026-07-30T14:44:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dQL6N5Xzz2w/hqdefault.jpg"
-    },
-    {
-      "title": "Getting Started with In-Island Transactions | Creating in Fortnite",
-      "video_id": "Fjfwxure5Wk",
-      "channel_title": "Unreal Engine",
-      "description": "In-island transactions unlock a new revenue stream in addition to engagement payouts. In this livestream, we use Verse to create ...",
-      "published_at": "2026-07-28T19:05:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Fjfwxure5Wk/hqdefault.jpg"
+      "published_at": "2026-08-04T20:03:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JF5Jz0ETccY/hqdefault.jpg"
     }
   ]
 }

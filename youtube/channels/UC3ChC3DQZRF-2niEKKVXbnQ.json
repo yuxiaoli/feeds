@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-02T03:14:09.221260",
+  "fetched_at": "2026-08-09T01:54:29.409259",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "我让 Qwen3.8-Max 玩游戏, 结果发现了善良的数学意义!",
+      "video_id": "Lz-k4Tn0t1E",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来 Qwen3.8-Max 实测! 本次测试仍然包含了全面的前端 one-shot, 后端 AgenticCoding, 模型 Agent 能力测试! 直接说结论 ...",
+      "published_at": "2026-08-06T06:49:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lz-k4Tn0t1E/hqdefault.jpg"
+    },
     {
       "title": "我用 LongCat-2.0 省了 88% 的 Agent 输入成本!",
       "video_id": "NEp7RpJA2aA",
@@ -48,7 +56,7 @@
       "title": "2分钟教你做一个可以自我迭代的 Agent",
       "video_id": "JUn7j9RxijQ",
       "channel_title": "Karminski-牙医",
-      "description": "给大家分享一个自我迭代 Agent 的构建技巧啊, 也是我在今天字节 seed-2.1 模型发布 demo 中用到的技巧. 这个技巧的核心就是, 干一 ...",
+      "description": "给大家分享一个自我迭代Agent 的构建技巧啊, 也是我在今天字节seed-2.1 模型发布demo 中用到的技巧. 这个技巧的核心就是, 干一件 ...",
       "published_at": "2026-06-23T13:56:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JUn7j9RxijQ/hqdefault.jpg"
     },
@@ -75,14 +83,6 @@
       "description": "给大家带来Qwen3.7-Max 实测! 这次使用了全新的前端测试集, 直接说结论, Qwen3.7-Max 应该是之前测试过的版本中进步特别大的 ...",
       "published_at": "2026-06-01T14:54:42Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vn1-8HPLO7k/hqdefault.jpg"
-    },
-    {
-      "title": "大模型写代码比说话还快是什么体验?",
-      "video_id": "EBJj8Ew5UX8",
-      "channel_title": "Karminski-牙医",
-      "description": "智谱刚出了一个GLM-5.1-highspeed 版本, 赶紧要了个内测给大家做点有趣的APP. 我测了一下这个模型反应速度用来写代码的话, ...",
-      "published_at": "2026-05-26T01:44:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EBJj8Ew5UX8/hqdefault.jpg"
     }
   ]
 }
