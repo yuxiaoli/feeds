@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-09T01:54:46.156501",
+  "fetched_at": "2026-08-16T01:26:56.278690",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "来自PyCon TW的有奖挑战！你敢应战嘛？",
+      "video_id": "smx28aI5rcY",
+      "channel_title": "码农高天",
+      "description": "参与规则： 1. 把你的四个（两道题输出分别变成A和C）答案和步骤（怎么改）发到gaogaotiantian@hotmail.com。 2. 我会从总步数 ...",
+      "published_at": "2026-08-15T04:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/smx28aI5rcY/hqdefault.jpg"
+    },
     {
       "title": "下周要去COSCUP做keynote了！",
       "video_id": "cpz0m1SMFoY",
@@ -75,14 +83,6 @@
       "description": "欧洲之旅的vlog开始啦！第一站，巴塞罗那。巴塞罗那的核心当然是建筑了。圣家堂的美是真的很难用镜头拍出来，圣保罗医院也很 ...",
       "published_at": "2026-02-28T10:30:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/l6Nn6-gJcz4/hqdefault.jpg"
-    },
-    {
-      "title": "《恭喜恭喜》，但是python字幕",
-      "video_id": "OKvEi_AHC2A",
-      "channel_title": "码农高天",
-      "description": "值此新春佳节，给大家献上一首我亲自担任翻译并制作字幕的《恭喜恭喜》，希望大家新的一年可以过得开心！",
-      "published_at": "2026-02-14T10:30:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OKvEi_AHC2A/hqdefault.jpg"
     }
   ]
 }

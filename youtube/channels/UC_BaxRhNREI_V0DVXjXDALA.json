@@ -1,16 +1,40 @@
 {
-  "fetched_at": "2026-08-09T01:55:04.657768",
+  "fetched_at": "2026-08-16T01:27:14.688124",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 1,
+  "count": 4,
   "videos": [
     {
-      "title": "Smooth #short",
-      "video_id": "IRG5FIvJgL0",
+      "title": "Flachbau RS | Bringing an icon back to life",
+      "video_id": "jfsm_CcrKME",
       "channel_title": "Porsche",
-      "description": "An opera in three acts.   IG:@itisardi @porsche.ch ___ 911 Targa 4S (WLTP): Fuel consumption combined: 10.9 – 10.8 l/100 ...",
-      "published_at": "2026-08-04T15:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IRG5FIvJgL0/hqdefault.jpg"
+      "description": "The Flachbau RS is a story of heritage, craftsmanship and performance. Built from a Porsche 911 GT2 RS and based on the ...",
+      "published_at": "2026-08-15T09:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jfsm_CcrKME/hqdefault.jpg"
+    },
+    {
+      "title": "Purple dreamin&#39; #shorts",
+      "video_id": "dT1oXvejP1Q",
+      "channel_title": "Porsche",
+      "description": "Matching with nature.✨ IG: @valentinme_ @hugocappaprod @tombittighoffer ___ 911 GT3 RS (WLTP): Fuel consumption ...",
+      "published_at": "2026-08-13T15:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dT1oXvejP1Q/hqdefault.jpg"
+    },
+    {
+      "title": "The making of the 911 Turbo S Land Down Under",
+      "video_id": "V09wT-tmgE4",
+      "channel_title": "Porsche",
+      "description": "Every Sonderwunsch project begins with an idea. This one began with Australia.​ ​ The 911 Turbo S Land Down Under was ...",
+      "published_at": "2026-08-13T15:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V09wT-tmgE4/hqdefault.jpg"
+    },
+    {
+      "title": "Big reveal #shorts",
+      "video_id": "P4wzMRL9-zs",
+      "channel_title": "Porsche",
+      "description": "Look us in the eye. IG: @lb_c63.",
+      "published_at": "2026-08-11T15:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/P4wzMRL9-zs/hqdefault.jpg"
     }
   ]
 }

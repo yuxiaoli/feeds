@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-09T01:54:45.455862",
+  "fetched_at": "2026-08-16T01:26:55.568484",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "The Colosseum Was Rome’s Ultimate Psychological Device",
+      "video_id": "2OV-ygn7E34",
+      "channel_title": "DamiLee",
+      "description": "The Colosseum wasn't just a stadium. It was a psychological device built to control the emotions of 50000 people at once, and ...",
+      "published_at": "2026-08-12T15:30:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2OV-ygn7E34/hqdefault.jpg"
+    },
     {
       "title": "The Hidden Area Beneath the Colosseum",
       "video_id": "UwviOkOKL7Q",
@@ -75,14 +83,6 @@
       "description": "A store that doesn't want your money — and somehow, that's exactly why it works. Gentle Monster hires 10x more spatial ...",
       "published_at": "2026-07-14T15:30:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/AjrqwGABG0E/hqdefault.jpg"
-    },
-    {
-      "title": "Minas Tirith Is the Best Fortress, But Worst City in Middle-earth",
-      "video_id": "O0jnyDmU4-Q",
-      "channel_title": "DamiLee",
-      "description": "The most legendary city in Middle-earth might also be the most miserable place to actually live in. Minas Tirith looks perfect on ...",
-      "published_at": "2026-07-12T15:30:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O0jnyDmU4-Q/hqdefault.jpg"
     }
   ]
 }

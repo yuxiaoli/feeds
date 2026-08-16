@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-08-09T01:55:19.711307",
+  "fetched_at": "2026-08-16T01:27:29.930403",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "The Right Order to Eat Your Food",
+      "video_id": "DQLrbxZqxQk",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-08-13T11:33:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DQLrbxZqxQk/hqdefault.jpg"
+    },
+    {
+      "title": "Is Plant-Based Meat Lying to You?",
+      "video_id": "ZL4_EKDHTzY",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-08-09T16:24:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZL4_EKDHTzY/hqdefault.jpg"
+    },
     {
       "title": "5 Lessons That Changed My Health",
       "video_id": "sLj_o5KTB0w",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-07-16T16:30:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_uiLFXz2Ck0/hqdefault.jpg"
-    },
-    {
-      "title": "Easy Ways to Reduce Glucose Spikes",
-      "video_id": "PKV2rezwBkk",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-07-13T15:46:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PKV2rezwBkk/hqdefault.jpg"
-    },
-    {
-      "title": "The Truth About Fish Sticks",
-      "video_id": "kY5h74M9PfQ",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-07-11T19:20:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kY5h74M9PfQ/hqdefault.jpg"
     }
   ]
 }

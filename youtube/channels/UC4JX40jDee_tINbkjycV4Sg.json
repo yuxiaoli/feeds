@@ -1,40 +1,64 @@
 {
-  "fetched_at": "2026-08-09T01:54:31.450190",
+  "fetched_at": "2026-08-16T01:26:41.761257",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 4,
+  "count": 7,
   "videos": [
     {
-      "title": "Someone in Your Field Already Automated This",
-      "video_id": "yCoJ89qc__A",
+      "title": "4 Ways to Build an AI Agent",
+      "video_id": "do8Rx6CpQX8",
       "channel_title": "Tech With Tim",
-      "description": "Someone in your field is automating what you still do manually every morning. Close the gap this week. Link in the description ...",
-      "published_at": "2026-08-08T12:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yCoJ89qc__A/hqdefault.jpg"
+      "description": "What's the best way to build an AI agent? It depends how much you want to build yourself, and it breaks into four tiers. At the top: ...",
+      "published_at": "2026-08-15T12:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/do8Rx6CpQX8/hqdefault.jpg"
     },
     {
-      "title": "Beginners Who Build Win Faster",
-      "video_id": "jH26BIplM2k",
+      "title": "How to Become a Forward Deployed Engineer in 2026",
+      "video_id": "vLlIBT0HSSc",
       "channel_title": "Tech With Tim",
-      "description": "You don't need to be an expert. A beginner in motion beats an expert at rest. The Zero-to-Agent path is free. Link in the description ...",
-      "published_at": "2026-08-07T12:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jH26BIplM2k/hqdefault.jpg"
+      "description": "Best courses to learn the tecnical Python and AI skills to become a Forward Deployed Engineer: DataCamp Python for Software ...",
+      "published_at": "2026-08-14T17:42:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vLlIBT0HSSc/hqdefault.jpg"
     },
     {
-      "title": "Your AI Should Work While You Sleep",
-      "video_id": "YvRlc7M5pJc",
+      "title": "The Founding Window Closes Tonight",
+      "video_id": "y29u2FiAIrM",
       "channel_title": "Tech With Tim",
-      "description": "Stop using AI like it's Google. Agents read your inbox, watch websites, research overnight. Your first one takes a weekend. Link in ...",
-      "published_at": "2026-08-06T12:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YvRlc7M5pJc/hqdefault.jpg"
+      "description": "Founding window closes TONIGHT. This is later. Link in the description and pinned comment.",
+      "published_at": "2026-08-14T12:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y29u2FiAIrM/hqdefault.jpg"
     },
     {
-      "title": "Build $10,000 Websites using Claude Code (Ultimate Guide)",
-      "video_id": "UQ9PbbPNvnc",
+      "title": "This Database Handles 630 Billion Rows a Year",
+      "video_id": "3hgRw7E4vQA",
       "channel_title": "Tech With Tim",
-      "description": "Use ImageKit for handling images/videos efficiently: https://tinyurl.com/2sph69zx Create a free Supabase account to use as the ...",
-      "published_at": "2026-08-05T13:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UQ9PbbPNvnc/hqdefault.jpg"
+      "description": "Get started with TimescaleDB from TigerData for free: https://tsdb.co/twt-evc-demo Your Postgres table handles millions of rows ...",
+      "published_at": "2026-08-13T13:02:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3hgRw7E4vQA/hqdefault.jpg"
+    },
+    {
+      "title": "The AI Agent Loop Explained",
+      "video_id": "854E1jORFI0",
+      "channel_title": "Tech With Tim",
+      "description": "How does an AI agent actually run? It's the agent loop, and it's the part most people skip. You start with a system prompt and a ...",
+      "published_at": "2026-08-13T12:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/854E1jORFI0/hqdefault.jpg"
+    },
+    {
+      "title": "The Open Source Claude Cowork Alternative I&#39;ve Been Waiting For",
+      "video_id": "QID-QHVLYYc",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with Mindshub Cowork for free: ...",
+      "published_at": "2026-08-12T13:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QID-QHVLYYc/hqdefault.jpg"
+    },
+    {
+      "title": "Talent Isn’t the Gap. Starting Is.",
+      "video_id": "WZxbzEpdjlU",
+      "channel_title": "Tech With Tim",
+      "description": "The gap isn't talent. They started. This is inside AI Agent Builders, and the founding window closes in two days. Link in the ...",
+      "published_at": "2026-08-12T12:28:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WZxbzEpdjlU/hqdefault.jpg"
     }
   ]
 }

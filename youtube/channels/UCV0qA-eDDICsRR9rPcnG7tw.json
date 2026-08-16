@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-08-09T01:54:59.139556",
+  "fetched_at": "2026-08-16T01:27:09.131467",
   "channel_id": "UCV0qA-eDDICsRR9rPcnG7tw",
   "channel_title": "Joma Tech",
   "count": 10,
   "videos": [
-    {
-      "title": "life of an AI startup founder/CEO",
-      "video_id": "YRddOEtlnEk",
-      "channel_title": "Joma Tech",
-      "description": "Founder Mode now on Spotify! WARNING: Blindr Coin is not real, I didnt launch anything. Don't fall for scams. SUPPORT THE ...",
-      "published_at": "2025-09-23T23:04:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YRddOEtlnEk/hqdefault.jpg"
-    },
     {
       "title": "I Saved $200 With My Mouth",
       "video_id": "h6qBa3tLmNo",
@@ -27,6 +19,38 @@
       "description": "HR rather force a mass layoff than give this guy a promotion.",
       "published_at": "2026-07-03T08:38:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PibrgKPYHz4/hqdefault.jpg"
+    },
+    {
+      "title": "what 10 years of coding looks like…",
+      "video_id": "jRBbxwWw1R0",
+      "channel_title": "Joma Tech",
+      "description": "",
+      "published_at": "2026-07-03T00:40:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jRBbxwWw1R0/hqdefault.jpg"
+    },
+    {
+      "title": "that one awkward co-worker...",
+      "video_id": "siWDrJvZH0A",
+      "channel_title": "Joma Tech",
+      "description": "",
+      "published_at": "2026-07-02T08:24:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/siWDrJvZH0A/hqdefault.jpg"
+    },
+    {
+      "title": "If Yu-Gi-Oh was about Tech Jobs",
+      "video_id": "2LQXrGKq3t0",
+      "channel_title": "Joma Tech",
+      "description": "Start learning Cyber Security for FREE: https://tryhackme.com/JomaTech Use code JOMA30 for 30% off annual subscription ...",
+      "published_at": "2026-06-18T12:05:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2LQXrGKq3t0/hqdefault.jpg"
+    },
+    {
+      "title": "life of an AI startup founder/CEO",
+      "video_id": "YRddOEtlnEk",
+      "channel_title": "Joma Tech",
+      "description": "Founder Mode now on Spotify! WARNING: Blindr Coin is not real, I didnt launch anything. Don't fall for scams. SUPPORT THE ...",
+      "published_at": "2025-09-23T23:04:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YRddOEtlnEk/hqdefault.jpg"
     },
     {
       "title": "the reason why I left YouTube for 3 years...",
@@ -45,44 +69,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/hl-6GpwoTfA/hqdefault.jpg"
     },
     {
+      "title": "when you rob a big tech company, but the employees are...",
+      "video_id": "synJZAtH58E",
+      "channel_title": "Joma Tech",
+      "description": "If you like this video, checkout \"If Yu-Gi-Oh was about Tech Jobs\": https://youtu.be/2LQXrGKq3t0?si=AUEOdSIrDPWbPAjM ...",
+      "published_at": "2022-11-11T14:29:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/synJZAtH58E/hqdefault.jpg"
+    },
+    {
       "title": "if “normal” job interviews were like coding interviews",
       "video_id": "bn_KRzohcAo",
       "channel_title": "Joma Tech",
       "description": "Leetcode Hard: What is your major weakness? SOCIAL MEDIA ...",
       "published_at": "2022-10-11T21:52:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bn_KRzohcAo/hqdefault.jpg"
-    },
-    {
-      "title": "If Programming Was an Anime 3",
-      "video_id": "DlKl8me4Npw",
-      "channel_title": "Joma Tech",
-      "description": "Kodocharenji = Code Challenge For the people who don't speak anime Production Glorified Tripod - John Zeng ...",
-      "published_at": "2022-09-14T15:45:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DlKl8me4Npw/hqdefault.jpg"
-    },
-    {
-      "title": "every “entrepreneur” influencer ever...",
-      "video_id": "CK_BCMA9yoY",
-      "channel_title": "Joma Tech",
-      "description": "Same video, different industry. I stole the fist joke from @CodyKo Social Media https://www.instagram.com/jomakaze/ ...",
-      "published_at": "2022-08-04T14:52:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CK_BCMA9yoY/hqdefault.jpg"
-    },
-    {
-      "title": "that one awkward co-worker...",
-      "video_id": "siWDrJvZH0A",
-      "channel_title": "Joma Tech",
-      "description": "",
-      "published_at": "2026-07-02T08:24:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/siWDrJvZH0A/hqdefault.jpg"
-    },
-    {
-      "title": "how programmers overprepare for job interviews",
-      "video_id": "5bId3N7QZec",
-      "channel_title": "Joma Tech",
-      "description": "Mapa hash. SOCIAL MEDIA ·························· https://www.instagram.com/jomakaze/ ...",
-      "published_at": "2022-07-23T21:32:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5bId3N7QZec/hqdefault.jpg"
     }
   ]
 }

@@ -1,56 +1,40 @@
 {
-  "fetched_at": "2026-08-09T01:54:33.438427",
+  "fetched_at": "2026-08-16T01:26:43.822506",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 10,
+  "count": 7,
   "videos": [
     {
-      "title": "How stacked pull requests break down large code changes",
-      "video_id": "L-HOKmp-CBM",
+      "title": "How developers scale their workflows with automation",
+      "video_id": "KiM3FcVIBmA",
       "channel_title": "GitHub",
-      "description": "Stacked pull requests are now officially in public preview on GitHub. Instead of opening one giant PR that takes forever to review, ...",
-      "published_at": "2026-08-08T15:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/L-HOKmp-CBM/hqdefault.jpg"
+      "description": "In this clip from the OpenClaw fireside chat, Peter Steinberger explains how developers scale their output through compounding ...",
+      "published_at": "2026-08-15T15:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KiM3FcVIBmA/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday: Git in JavaScript with isomorphic-git",
-      "video_id": "E4XGvymLUYQ",
+      "title": "Replay: Open Source Friday  Cua with Francesco Bonacci",
+      "video_id": "JWmbmn0KDkQ",
       "channel_title": "GitHub",
-      "description": "What if your JavaScript application could work directly with Git repositories, without depending on the native Git CLI? This Open ...",
-      "published_at": "2026-08-08T06:18:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E4XGvymLUYQ/hqdefault.jpg"
+      "description": "Join us for Open Source Friday with Francesco Bonacci, CEO of Cua, exploring the future of computer-use agents. We discuss ...",
+      "published_at": "2026-08-15T05:59:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JWmbmn0KDkQ/hqdefault.jpg"
     },
     {
-      "title": "The Download: Stacked PRs on GitHub, an escaped AI model, and pixel art NYC",
-      "video_id": "YyvKOY7FVkY",
+      "title": "Jueves de Quack con Bruno",
+      "video_id": "XFj4AnuWzX8",
       "channel_title": "GitHub",
-      "description": "Stacked pull requests are now in public preview on GitHub, making it easier to break large changes into reviewable layers.",
-      "published_at": "2026-08-07T15:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YyvKOY7FVkY/hqdefault.jpg"
+      "description": "Jueves de Quack con Bruno.",
+      "published_at": "2026-08-14T04:07:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XFj4AnuWzX8/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays! | Come code and cowork and ask questions!",
-      "video_id": "CNEbqfG4sFY",
+      "title": "We don&#39;t need better AI models right now",
+      "video_id": "rSi1fCnZU3k",
       "channel_title": "GitHub",
-      "description": "Come learn about the latest on the GitHub platform and in open source!",
-      "published_at": "2026-08-07T07:07:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CNEbqfG4sFY/hqdefault.jpg"
-    },
-    {
-      "title": "Jueves de Quack",
-      "video_id": "fYVZ3gQhFX4",
-      "channel_title": "GitHub",
-      "description": "Tu agente escribe rápido. Tu revisor sigue siendo una persona con un café. Este jueves nos tomamos ese café juntos y hablamos ...",
-      "published_at": "2026-08-07T03:13:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fYVZ3gQhFX4/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursday - A closer look at Stacked PRs!",
-      "video_id": "Nxo5T_MDS8M",
-      "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2026-08-06T23:56:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nxo5T_MDS8M/hqdefault.jpg"
+      "description": "Many people think we need better models, but the real bottleneck in AI is human imagination. In this clip from the OpenClaw ...",
+      "published_at": "2026-08-13T16:46:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rSi1fCnZU3k/hqdefault.jpg"
     },
     {
       "title": "How to create, review, and merge stacked PRs on GitHub | GitHub Checkout",
@@ -61,28 +45,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jMuoFUzxB8g/hqdefault.jpg"
     },
     {
-      "title": "The My work tab: your mission control in the GitHub Copilot app",
-      "video_id": "h9g4umRfgn0",
+      "title": "Open Source Friday: Cua with Francesco Bonacci",
+      "video_id": "46aUNbqO9yY",
       "channel_title": "GitHub",
-      "description": "Managing multiple tasks across repositories can quickly feel overwhelming. In episode 3 of our beginner series, discover how the ...",
-      "published_at": "2026-08-04T15:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h9g4umRfgn0/hqdefault.jpg"
+      "description": "Join us for Open Source Friday with Francesco Bonacci, CEO of Cua, exploring the future of computer-use agents. We discuss ...",
+      "published_at": "2026-07-18T05:57:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/46aUNbqO9yY/hqdefault.jpg"
     },
     {
-      "title": "Inside GitHub Universe 2026",
-      "video_id": "THXbfE7m9iM",
+      "title": "Jueves de Quack con Alejandro Menocal",
+      "video_id": "dscJaFB7oBU",
       "channel_title": "GitHub",
-      "description": "Get your first look at GitHub Universe 2026 as Andrea Griffiths, Cassidy Williams, and friends take you inside GitHub's biggest ...",
-      "published_at": "2026-08-03T22:34:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/THXbfE7m9iM/hqdefault_live.jpg"
-    },
-    {
-      "title": "How to modify and submit stacked PRs with the GitHub CLI",
-      "video_id": "VpK0vATl3FA",
-      "channel_title": "GitHub",
-      "description": "When working with stacked PRs, every layer needs to make sense on its own. In this video, learn how to use the GitHub CLI ...",
-      "published_at": "2026-08-03T15:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VpK0vATl3FA/hqdefault.jpg"
+      "description": "Jueves de Quack con @acolombiadev y Alejandro Menocal Descubre GitHub Agentic Workflows: un archivo Markdown, ...",
+      "published_at": "2026-07-16T15:57:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dscJaFB7oBU/hqdefault_live.jpg"
     }
   ]
 }

@@ -1,72 +1,64 @@
 {
-  "fetched_at": "2026-08-09T01:54:49.526171",
+  "fetched_at": "2026-08-16T01:26:59.685985",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Anthropic’s sandbox breach, EU’s AI transparency push and DeepSeek’s cost-cutting model",
-      "video_id": "W0wXevMkdMM",
+      "title": "Code Changed in ONLY Nine Months⚡",
+      "video_id": "JNDjf1I91Ps",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~1cu3BYWak It seems OpenAI isn't the only AI ...",
-      "published_at": "2026-08-07T10:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W0wXevMkdMM/hqdefault.jpg"
+      "description": "AI evolved faster than deployment cycles. How can organizations keep up when security changes outpace their response time?",
+      "published_at": "2026-08-14T16:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JNDjf1I91Ps/hqdefault.jpg"
     },
     {
-      "title": "AI Models Getting Cheaper",
-      "video_id": "gZASEpuSWsM",
+      "title": "IBM’s cloud collab, Meta’s Muse Glimmer &amp; OpenAI’s upcoming Astra model",
+      "video_id": "FVXDXi4es8E",
       "channel_title": "IBM Technology",
-      "description": "AI models are shrinking and prices are dropping fast. What does the AI price war mean for the future? Discover why cheaper ...",
-      "published_at": "2026-08-08T16:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gZASEpuSWsM/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~YOqgkKvh7 This week on Mixture of Experts, our ...",
+      "published_at": "2026-08-14T11:57:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FVXDXi4es8E/hqdefault.jpg"
     },
     {
-      "title": "What Is AI Model Collapse? Why AI Could Forget Reality",
-      "video_id": "uhWFLmr7xao",
+      "title": "AI &amp; Data Science Periodic Tables: How They Work Together",
+      "video_id": "jAkB_qeATag",
       "channel_title": "IBM Technology",
-      "description": "Learn more about AI Model Collapse here → https://ibm.biz/~a2mBE0Czn What happens when AI learns mostly from AI?",
-      "published_at": "2026-08-06T11:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uhWFLmr7xao/hqdefault.jpg"
+      "description": "Learn more about Artificial Intelligence (AI) here → https://ibm.biz/~XmOXmQOix Learn more about Data Science here ...",
+      "published_at": "2026-08-13T11:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jAkB_qeATag/hqdefault.jpg"
     },
     {
-      "title": "The Road to 3 Million Views🚀",
-      "video_id": "AUSylAJS1L4",
+      "title": "The OWASP LLM Top 10 has a few surprises for you",
+      "video_id": "auS34nm9VAc",
       "channel_title": "IBM Technology",
-      "description": "Three million views later and @cedcodes is still cranking out major videos one at a time. Thanks for watching, learning, and ...",
-      "published_at": "2026-08-07T16:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AUSylAJS1L4/hqdefault.jpg"
+      "description": "Explore the podcast → https://ibm.biz/~sjnEHEGTG What's the biggest, baddest, most unruly problem in AI security? Turns out that ...",
+      "published_at": "2026-08-12T10:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/auS34nm9VAc/hqdefault.jpg"
     },
     {
-      "title": "Oh look. Anthropic’s AI models also broke containment.",
-      "video_id": "A9nnvw2wqmE",
+      "title": "What Is Context Engineering? Why It Matters for AI Agents",
+      "video_id": "Qx0fCqpkBus",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/~jDjLVwwSn Last week, OpenAI's models broke out of their sandboxes to cause chaos.",
-      "published_at": "2026-08-05T10:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/A9nnvw2wqmE/hqdefault.jpg"
+      "description": "Learn more about Context Engineering here → https://ibm.biz/~P5lLLBd7u More data doesn't always mean better AI.",
+      "published_at": "2026-08-11T11:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qx0fCqpkBus/hqdefault.jpg"
     },
     {
-      "title": "What Are Large Database Models? AI for SQL Data",
-      "video_id": "uU1EP9_4qBU",
+      "title": "5 Best Practices for Building AI Agent Skills",
+      "video_id": "qYNs80FKIVc",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Large Database Models here → https://ibm.biz/~LdYkjFu30 AI isn't reaching most of your data, until now .",
-      "published_at": "2026-08-04T11:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uU1EP9_4qBU/hqdefault.jpg"
+      "description": "Learn more about 2026 Guide to AI Agents here → https://ibm.biz/~e7fElYU4A Building AI agent skills is easier than it looks.",
+      "published_at": "2026-08-10T11:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qYNs80FKIVc/hqdefault.jpg"
     },
     {
-      "title": "Agentic Engineering vs Software Engineering: Beyond Vibe Coding",
-      "video_id": "FgaBdwSvOGM",
+      "title": "What Is Chunkless RAG? How Docling &amp; AI Agents Navigate Documents",
+      "video_id": "vRZNJWw78BQ",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Agentic Engineering here → https://ibm.biz/~ogIZPeOOL Software engineering is entering a new phase.",
-      "published_at": "2026-08-03T11:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FgaBdwSvOGM/hqdefault.jpg"
-    },
-    {
-      "title": "Understanding AI Agent Hallucination in AI Systems",
-      "video_id": "bNRhppHct54",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI Hallucinations here → https://ibm.biz/~UAoGwgNhw Confident AI answers are not always grounded in truth.",
-      "published_at": "2026-08-02T11:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bNRhppHct54/hqdefault.jpg"
+      "description": "Learn more about Chunkless RAG here → https://ibm.biz/~H2I4LXkTq RAG may be throwing away valuable document context.",
+      "published_at": "2026-08-09T11:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vRZNJWw78BQ/hqdefault.jpg"
     },
     {
       "title": "RSA recap, the LiteLLM breach, and the quest to fix AI agent security",
@@ -83,6 +75,14 @@
       "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
       "published_at": "2026-03-10T11:01:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cmEJ-5zYKHA/hqdefault.jpg"
+    },
+    {
+      "title": "Android malware that acts like a person and AI agents that act like malware",
+      "video_id": "iaZS1jer8MY",
+      "channel_title": "IBM Technology",
+      "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
+      "published_at": "2025-11-05T10:01:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
     }
   ]
 }

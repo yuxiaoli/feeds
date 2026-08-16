@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-08-09T01:54:46.901538",
+  "fetched_at": "2026-08-16T01:26:57.019383",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 1,
+  "count": 3,
   "videos": [
     {
-      "title": "How to build apps and automate tasks with Google Antigravity 2.0",
-      "video_id": "bSp-foRDH5M",
+      "title": "Introducing Pixel Tag, our first-ever finder tag.",
+      "video_id": "1fs84Lyp1s0",
       "channel_title": "Google",
-      "description": "Google Antigravity 2.0 is your standalone desktop command center, designed to run autonomous AI agents in parallel. Watch this ...",
-      "published_at": "2026-08-04T20:46:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bSp-foRDH5M/hqdefault.jpg"
+      "description": "Attach it to your keys or slip it into your luggage to easily find the things you love, whether they're near or far, right in Find Hub.",
+      "published_at": "2026-08-12T15:58:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1fs84Lyp1s0/hqdefault.jpg"
+    },
+    {
+      "title": "Here’s your first peek at Pixel Watch 5.",
+      "video_id": "6yysYeHiPDQ",
+      "channel_title": "Google",
+      "description": "Designed for Gemini Intelligence and Google Health, it helps you stay on top of your day with proactive assistance, advanced ...",
+      "published_at": "2026-08-12T15:04:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6yysYeHiPDQ/hqdefault.jpg"
+    },
+    {
+      "title": "Get your first look at the #Pixel11 family.",
+      "video_id": "-eckuctHcoc",
+      "channel_title": "Google",
+      "description": "Refined hardware, made to last. Fresh colors. New cameras. And designed for Gemini Intelligence. #MadeByGoogle.",
+      "published_at": "2026-08-12T14:08:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-eckuctHcoc/hqdefault.jpg"
     }
   ]
 }

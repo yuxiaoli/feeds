@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-08-09T01:54:43.233924",
+  "fetched_at": "2026-08-16T01:26:53.406300",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "乐高式数据中心，AI基建的狂野西部 | 模块化数据中心 | AI算力 | 乐高式基建 | Meta帐篷 |电力短缺 | 电工短缺 | GPU云 | 液冷 | Nvidia DSX | 预制建筑",
-      "video_id": "VCkoXJwbPiY",
+      "title": "Cordis——DeepSeek Harness的乐高底板 | 自进化AI | Agent框架 | 可逆效应 | 反应式余效应 | Koishi | 插件系统 | 时空可组合性",
+      "video_id": "C6lJClhhpdA",
       "channel_title": "最佳拍档",
-      "description": "本期深度解析SemiAnalysis最新报告，拆解正在重塑AI算力基建的模块化数据中心革命。面对电工短缺这一资本无法解决的结构性 ...",
-      "published_at": "2026-08-08T09:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VCkoXJwbPiY/hqdefault.jpg"
+      "description": "本期视频深度解读DeepSeek与北大合作发布的最新论文，揭秘黑鲸Harness背后的核心技术Cordis。视频从现有插件系统\"插上去拔 ...",
+      "published_at": "2026-08-15T23:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C6lJClhhpdA/hqdefault.jpg"
     },
     {
-      "title": "谷歌AI一夜巨震，Jeff Dean离职，哈萨比斯隐退 | Gemini | DeepMind | Discovery Loop | AI创业 | 大模型人才 | 硅谷人事 | AGI | 创新者窘境",
-      "video_id": "oAaf1w2yITY",
+      "title": "我们被OpenAI的逃逸模型攻击了 | Hugging Face联创Thomas Wolf复盘 | 开源模型 | GLM | 网络安全 | 模型对齐 | AI主权 | 寡头垄断 | AI降速",
+      "video_id": "Ej3dwB1MAPQ",
       "channel_title": "最佳拍档",
-      "description": "2026年8月5日，谷歌AI部门遭遇成立以来最大人事地震：在谷歌效力27年的首席科学家、Google Brain创始人Jeff Dean正式离职， ...",
-      "published_at": "2026-08-07T11:11:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oAaf1w2yITY/hqdefault.jpg"
+      "description": "Hugging Face联合创始人托马斯·沃尔夫，深度复盘了今夏AI行业最大安全事件，某前沿闭源模型在执行网络安全评测时，自主将 ...",
+      "published_at": "2026-08-15T09:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ej3dwB1MAPQ/hqdefault.jpg"
     },
     {
-      "title": "AI对GDP的影响有限 | 阿西莫格鲁 | 诺贝尔经济学奖 | AI泡沫 | 生产力悖论 | AGI | 自动化 | UBI | OpenAI | 就业冲击 | 技术未来",
-      "video_id": "2E9g7acVGAk",
+      "title": "DeepSeek Harness预览版发布 | Agent运行时 | 一切皆插件 | 大模型 | AI智能体 | 开源 | Cordis | MCP | AI编程 | 插件架构 | MIT协议",
+      "video_id": "uEreD5AhN5Q",
       "channel_title": "最佳拍档",
-      "description": "2024年诺贝尔经济学奖得主达龙·阿西莫格鲁，在最新访谈中系统拆解AI经济真相。他预测未来十年AI对GDP贡献仅1%-1.5%，远非 ...",
-      "published_at": "2026-08-06T23:01:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2E9g7acVGAk/hqdefault.jpg"
+      "description": "8月13日，DeepSeek发布Harness开发者预览版，以MIT协议开源整套Agent运行基础设施。核心设计一切皆插件，将模型、工具、 ...",
+      "published_at": "2026-08-14T09:02:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uEreD5AhN5Q/hqdefault.jpg"
     },
     {
-      "title": "百川智能掉队了？最后一位联创离职 | 王小川 | 大模型 | AI创业 | AGI | 茹立云 | 智谱AI | MiniMax | Kimi | AI医疗",
-      "video_id": "QbR7wK7phj0",
+      "title": "吴恩达怒怼AI开源阴谋论 | 知识蒸馏 | Transformer | AI Agent | 算力泡沫 | AI失业 | 数据中心 | 摩根士丹利 | OpenWorker | 大模型 | AI落地",
+      "video_id": "LHCqSqneZGQ",
       "channel_title": "最佳拍档",
-      "description": "曾经估值200亿、被视为中国版OpenAI最有力候选者的百川智能，三年后联创悉数离场，淡出主流视野。本期视频深度复盘王小川的 ...",
-      "published_at": "2026-08-06T09:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QbR7wK7phj0/hqdefault.jpg"
+      "description": "吴恩达近期接受《华盛顿邮报》深度访谈，就AI核心争议表态。他回顾2010年越大越聪明信念如何催生Transformer与现代AI革命， ...",
+      "published_at": "2026-08-13T23:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LHCqSqneZGQ/hqdefault.jpg"
     },
     {
-      "title": "大模型会讲因果，是因为人类为它解释了世界 | Judea Pearl | 图灵奖得主 | LLM | AGI | 因果推理 | 贝叶斯网络 | 因果阶梯 | 世界模型 | 机器学习",
-      "video_id": "BMKEiVylEaI",
+      "title": "DeepSeek V4 Pro发布，价格不到Fable的2% | 撞车Grok 4.6 | Qwen3.8开放权重 | MOE | 长上下文 | 开源大模型 | 梁文锋 | 马斯克 | API定价",
+      "video_id": "NVmIV9xQZP8",
       "channel_title": "最佳拍档",
-      "description": "2026年7月，图灵奖得主、因果推理奠基人朱迪亚·珀尔在长篇访谈中，系统阐述了对大语言模型的核心判断。他指出大模型看似具备 ...",
-      "published_at": "2026-08-05T23:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BMKEiVylEaI/hqdefault.jpg"
+      "description": "2026年8月12日深夜，DeepSeek V4 Pro正式版悄然上线API。这款1.6万亿参数的MOE模型在CyberGym、AutomationBench ...",
+      "published_at": "2026-08-13T09:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NVmIV9xQZP8/hqdefault.jpg"
     },
     {
-      "title": "DeepSeek V4 Flash一刀斩碎AI定价 | 性价比斩杀线 | 一天8万亿Token | 开源模型 | Claude Opus | GPT | 梁文锋 | 编程AI | API定价",
-      "video_id": "6kzb814ksIs",
+      "title": "AI的下一个护城河不是模型 | 彼得·路德维希 | 物理AI | 具身智能 | 自动驾驶 | 工程系统 | 世界模型 | AI落地 | Applied Intuition | 飞轮效应 | a16z",
+      "video_id": "WhIHQNw5GZU",
       "channel_title": "最佳拍档",
-      "description": "DeepSeek V4 Flash正式版上线后在全球开发者社区引发震动，单日在OpenCode平台消耗8万亿Token，登顶OpenRouter调用量 ...",
-      "published_at": "2026-08-05T09:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6kzb814ksIs/hqdefault.jpg"
+      "description": "本期解读a16z文章《下一个AI护城河并非更优的模型》，作者Applied Intuition联合创始人彼得·路德维希。文章指出物理AI落地是 ...",
+      "published_at": "2026-08-12T23:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WhIHQNw5GZU/hqdefault.jpg"
     },
     {
-      "title": "AI泡沫正撞上80年大周期 | Ray Dalio | 桥水基金 | 资产配置 | 黄金 | 比特币 | 通胀 | 多元化投资 | 2008金融危机 | 地缘政治 | 职业规划 | 财富管理",
-      "video_id": "ls59cM1gi38",
+      "title": "AI算力不仅没过剩，还更加稀缺 | Gavin Baker | GPU | Blackwell | 开源大模型 | AI基建 | 半导体 | HBM内存 | 太空算力 | SpaceX",
+      "video_id": "239EIQ1sp7I",
       "channel_title": "最佳拍档",
-      "description": "桥水基金创始人瑞·达里奥最新专访深度解析，当前AI投资已显现典型泡沫特征，革命性技术引发的狂热投资、忽略价格的借贷行为与 ...",
-      "published_at": "2026-08-04T23:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ls59cM1gi38/hqdefault.jpg"
+      "description": "Atreides Management创始人加文·贝克最新专访深度拆解：7月AI板块暴跌40%-60%但产业基本面完全背离，GPU现货价格半年 ...",
+      "published_at": "2026-08-11T23:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/239EIQ1sp7I/hqdefault.jpg"
     },
     {
-      "title": "为什么大规模失业没有出现？| Sam Altman最新访谈 | OpenAI | 开源大模型 | 模型蒸馏 | AGI | 机器人 | 算力 | 规模效应 | Scaling Law | AI就业",
-      "video_id": "S3jwsMV-DPc",
+      "title": "Jeff Dean最新判断：AI的下一个拐点 | Google | TPU | AI芯片 | 大模型推理 | 上下文工程 | 创业机会 | 知识蒸馏 | 神经网络 | AI硬件 | 科学方法自动化",
+      "video_id": "y-XOgW97emo",
       "channel_title": "最佳拍档",
-      "description": "本期深度解读萨姆·奥特曼（Sam Altman）最新万字访谈。奥特曼首次正面回应Kimi等中国开源模型冲击，承认开源必有一席之地， ...",
-      "published_at": "2026-08-04T09:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S3jwsMV-DPc/hqdefault.jpg"
+      "description": "Google首席科学家Jeff Dean在YC Startup School 2026上的对话，涵盖AI能力边界、硬件本质与创业方向。核心观点包括：数据搬运 ...",
+      "published_at": "2026-08-09T09:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y-XOgW97emo/hqdefault.jpg"
     },
     {
-      "title": "AMD 2nm GPU迎战英伟达 | 苏姿丰 | MI455X | Helios | Venice | AI芯片 | GPU | 英伟达 | AI推理 | 智能体 | ROCm | 数据中心",
-      "video_id": "fCmohO6b8x0",
+      "title": "Meta Infra千亿AI基建踩坑内幕 | SemiAnalysis | AI芯片 | GPU服务器 | GB200 | Rivos | 大模型训练 | TCO | 数据中心 | AMD MI450",
+      "video_id": "lffdUgPBABY",
       "channel_title": "最佳拍档",
-      "description": "本期视频深度解读AMD Advancing AI 2026大会，全面解析全球首款2nm GPU Instinct MI455X、Helios机架级AI平台、Venice ...",
-      "published_at": "2026-08-03T23:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fCmohO6b8x0/hqdefault.jpg"
+      "description": "SemiAnalysis近期发文炮轰Meta基础设施团队存在系统性文化问题，导致千亿级AI基建投入效率低下。本期视频深度拆解四个核心 ...",
+      "published_at": "2026-07-30T09:01:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lffdUgPBABY/hqdefault.jpg"
     },
     {
-      "title": "什么是图工程 | Graph Engineering | 循环工程 | Loop Engineering | 多智能体 | LangGraph | ReAct | 提示词工程 | 工作流编排 |验证器",
-      "video_id": "8RedSkw1UjE",
+      "title": "【人工智能】AI未来发展的核心支柱 | 钢铁、服务器、能源 | David Cahn红杉美国合伙人 | 数据中心 | 基建效率 | 现金牛 | 房地产 | 资产负债表外融资",
+      "video_id": "5gDrGItwDg4",
       "channel_title": "最佳拍档",
-      "description": "2026年AI工程范式正在发生关键迁移，从Loop Engineering转向Graph Engineering。本文深度解析这一转变的本质：从编排单个 ...",
-      "published_at": "2026-08-02T09:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8RedSkw1UjE/hqdefault.jpg"
+      "description": "今天我们来分享一个20VC推出的播客节目，在这档节目中，投资人大卫·卡恩David Cahn与播客主持人哈里·斯特宾斯Harry ...",
+      "published_at": "2024-08-15T09:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5gDrGItwDg4/hqdefault.jpg"
     }
   ]
 }

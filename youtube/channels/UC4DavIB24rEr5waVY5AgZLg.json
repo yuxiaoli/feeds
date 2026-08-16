@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-09T01:54:30.783353",
+  "fetched_at": "2026-08-16T01:26:41.117796",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "What&#39;s Inside the Walt Disney Imagineering Pavilion at D23?",
+      "video_id": "b3IoaGxzg2g",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Get a first look inside the Walt Disney Imagineering Pavilion at D23. Join Imagineers for a guided walk-through of the space and ...",
+      "published_at": "2026-08-14T15:50:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b3IoaGxzg2g/hqdefault.jpg"
+    },
     {
       "title": "Model Shop ASMR 🛠️ at Walt Disney Imagineering",
       "video_id": "R7CS6Jtf3Sg",
@@ -75,14 +83,6 @@
       "description": "The American Adventure at EPCOT is one of the greatest engineering marvels that Walt Disney Imagineering has created.",
       "published_at": "2026-07-03T21:16:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/32cAJs3zrmU/hqdefault.jpg"
-    },
-    {
-      "title": "Shrink to the size of a rat to see this cool detail 🐀✨ #imagineering #disney",
-      "video_id": "Xc6MVVunvEc",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "Spot this detail at Ratatouille: L'Aventure Totalement Toquée de Rémy at Disney Adventure World! #showmesomethingcool.",
-      "published_at": "2026-07-02T17:41:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xc6MVVunvEc/hqdefault.jpg"
     }
   ]
 }
