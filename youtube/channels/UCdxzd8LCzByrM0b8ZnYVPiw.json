@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-16T01:27:19.534357",
+  "fetched_at": "2026-08-23T01:28:34.604268",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Beoplay H100",
+      "video_id": "cmtwtp_SSL4",
+      "channel_title": "Bang & Olufsen",
+      "description": "For those drawn to beautiful sound. #BangOlufsen.",
+      "published_at": "2026-08-18T13:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cmtwtp_SSL4/hqdefault.jpg"
+    },
     {
       "title": "Escape with Beoplay H100 | Bang &amp; Olufsen",
       "video_id": "mQuhGwNvbb4",
@@ -75,14 +83,6 @@
       "description": "For those who know. This is Bang & Olufsen and Fragment: four iconic products, four new ways to experience beautiful sound.",
       "published_at": "2026-06-03T08:00:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xsUSCOi3nbg/hqdefault.jpg"
-    },
-    {
-      "title": "Bang &amp; Olufsen and Fragment design",
-      "video_id": "KFakLCafKvQ",
-      "channel_title": "Bang & Olufsen",
-      "description": "For those who know. This is Bang & Olufsen and Fragment: four iconic products, four new ways to experience beautiful sound.",
-      "published_at": "2026-06-03T08:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KFakLCafKvQ/hqdefault.jpg"
     }
   ]
 }

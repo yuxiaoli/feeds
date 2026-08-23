@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-16T01:27:09.878565",
+  "fetched_at": "2026-08-23T01:28:24.864957",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "Scikit-Learn || Python Tutorial || Learn Python Programming",
+      "video_id": "2PMplER7W2E",
+      "channel_title": "Socratica",
+      "description": "Scikit-Learn is a collection of tools that turn raw data into knowledge through machine learning. In this tutorial we work through two ...",
+      "published_at": "2026-08-20T10:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2PMplER7W2E/hqdefault.jpg"
+    },
     {
       "title": "Linear Algebra with NumPy: Matrices, Eigenvalues, SVD &amp; PCA",
       "video_id": "_P0-mENUv44",
@@ -75,14 +83,6 @@
       "description": "Join our Patreon: https://www.patreon.com/cw/socratica Sign up for Socratica Courses: ...",
       "published_at": "2026-03-03T11:01:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/u5kq2VpSAgo/hqdefault.jpg"
-    },
-    {
-      "title": "Stock Options Survival Guide - Introduction to Risk",
-      "video_id": "VeCRV8MP7xA",
-      "channel_title": "Socratica",
-      "description": "STOCK OPTIONS COURSE: https://www.socratica.com/courses/stock-options Stock options can amplify gains, but ...",
-      "published_at": "2026-02-17T11:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VeCRV8MP7xA/hqdefault.jpg"
     }
   ]
 }

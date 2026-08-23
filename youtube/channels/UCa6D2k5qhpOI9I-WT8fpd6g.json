@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-16T01:27:15.428690",
+  "fetched_at": "2026-08-23T01:28:30.432680",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "Pi 大道至简，超越Codex和Claude Code的极简Agent，保姆级全攻略， 一期视频精通",
+      "video_id": "HhZcnM9tR7s",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Pi是近期热度超高的AI Agent。用四个字形容那就是大道至简。 Pi只有四 ...",
+      "published_at": "2026-08-16T08:00:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HhZcnM9tR7s/hqdefault.jpg"
+    },
     {
       "title": "Cherry Studio V2 来了，超详细攻略 + 真实使用场景分享",
       "video_id": "H1kVXogxpQQ",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 这套流程可以让AI自动操作浏览器，代替你完成一切机械重复性工作。",
       "published_at": "2026-04-11T14:31:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nlK7-zuYDcs/hqdefault.jpg"
-    },
-    {
-      "title": "为什么巨头都在做CLI(命令行界面)？比起MCP有哪些优势？ #AI #CLI #Agent #科技 #计算机",
-      "video_id": "5rAIU0GBjII",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 CLI这个计算机世界里最古老的交互方式，正在迎来一次新的爆发。最近越 ...",
-      "published_at": "2026-04-01T13:59:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5rAIU0GBjII/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-16T01:26:39.727344",
+  "fetched_at": "2026-08-23T01:27:54.605276",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "那么 DeepSeek Harness 能拯救这次 V4-Pro 的发布吗?",
+      "video_id": "uy4FVwpR2bU",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来DeepSeek-V4-Pro-0813 实测! 本期视频我们只验证4件事: deepseek-v4-pro-0813 拉了吗? v4-pro 推理强度max 甚至 ...",
+      "published_at": "2026-08-16T05:14:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uy4FVwpR2bU/hqdefault.jpg"
+    },
     {
       "title": "我让 Qwen3.8-Max 玩游戏, 结果发现了善良的数学意义!",
       "video_id": "Lz-k4Tn0t1E",
@@ -75,14 +83,6 @@
       "description": "给大家带来MiniMax-M3 实测! 本次测试包含了复杂前端, 后端Agentic Coding, Agent 能力测试, 以及我的使用经验总结. 来看结论: ...",
       "published_at": "2026-06-04T11:13:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/py7M5sZ71Gs/hqdefault.jpg"
-    },
-    {
-      "title": "Agentic Coding 能力大幅提升! Qwen3.7-Max实测!",
-      "video_id": "vn1-8HPLO7k",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来Qwen3.7-Max 实测! 这次使用了全新的前端测试集, 直接说结论, Qwen3.7-Max 应该是之前测试过的版本中进步特别大的 ...",
-      "published_at": "2026-06-01T14:54:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vn1-8HPLO7k/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-16T01:27:17.520144",
+  "fetched_at": "2026-08-23T01:28:32.592775",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The big brain for the big work...  #aiagents #buildinpublic #deeplearning #jetbrains @JetBrainsTV",
+      "video_id": "tRz2bxfPJbE",
+      "channel_title": "DeepLearningAI",
+      "description": "The big brain for the big work, the little brain for the little work. Paul Everitt's rule for splitting coding tasks between frontier and ...",
+      "published_at": "2026-08-20T13:46:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tRz2bxfPJbE/hqdefault.jpg"
+    },
     {
       "title": "Take back control of your AI coding workflow",
       "video_id": "xUXJuPC7gz0",
@@ -67,14 +75,6 @@
       "description": "Earn your certificate here: https://bit.ly/4ejb47H If you've never written code before, this course is for you. In less than 30 minutes, ...",
       "published_at": "2026-06-02T18:02:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ff3j4olCUig/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev 26 x SF | Ara Khan: Evals Are Broken Use Them Anyway",
-      "video_id": "fAfuQN0WwFE",
-      "channel_title": "DeepLearningAI",
-      "description": "This talk by Cline's Ara Khan explains why they went from \"evals are useless\" to using them as a core part of my agent ...",
-      "published_at": "2026-05-22T23:14:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fAfuQN0WwFE/hqdefault.jpg"
     },
     {
       "title": "Semantic Search Starts With Embeddings",

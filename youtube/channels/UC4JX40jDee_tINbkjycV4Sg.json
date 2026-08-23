@@ -1,64 +1,64 @@
 {
-  "fetched_at": "2026-08-16T01:26:41.761257",
+  "fetched_at": "2026-08-23T01:27:56.690196",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 7,
   "videos": [
     {
-      "title": "4 Ways to Build an AI Agent",
-      "video_id": "do8Rx6CpQX8",
+      "title": "Don&#39;t Learn Python First",
+      "video_id": "cAYbjlHiWDU",
       "channel_title": "Tech With Tim",
-      "description": "What's the best way to build an AI agent? It depends how much you want to build yourself, and it breaks into four tiers. At the top: ...",
-      "published_at": "2026-08-15T12:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/do8Rx6CpQX8/hqdefault.jpg"
+      "description": "Building an agent, an automation, or a quick product? Don't start by learning Python. Build first with the AI tools that already exist, ...",
+      "published_at": "2026-08-22T12:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cAYbjlHiWDU/hqdefault.jpg"
     },
     {
-      "title": "How to Become a Forward Deployed Engineer in 2026",
-      "video_id": "vLlIBT0HSSc",
+      "title": "AI Won&#39;t Replace Learning Python",
+      "video_id": "5u8z3X8D674",
       "channel_title": "Tech With Tim",
-      "description": "Best courses to learn the tecnical Python and AI skills to become a Forward Deployed Engineer: DataCamp Python for Software ...",
-      "published_at": "2026-08-14T17:42:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vLlIBT0HSSc/hqdefault.jpg"
+      "description": "Want a job in software, machine learning, or data science in 2026? You still need Python, and honestly you need to know it better ...",
+      "published_at": "2026-08-21T12:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5u8z3X8D674/hqdefault.jpg"
     },
     {
-      "title": "The Founding Window Closes Tonight",
-      "video_id": "y29u2FiAIrM",
+      "title": "One AI agent built a REAL business in 24 hours…",
+      "video_id": "okjvO4BsW98",
       "channel_title": "Tech With Tim",
-      "description": "Founding window closes TONIGHT. This is later. Link in the description and pinned comment.",
-      "published_at": "2026-08-14T12:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y29u2FiAIrM/hqdefault.jpg"
+      "description": "Get started with Runable for free: https://runable.com/?utm_source=ytlong&utm_medium=TechWithTim Coach Navruz IG: ...",
+      "published_at": "2026-08-20T18:13:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/okjvO4BsW98/hqdefault.jpg"
     },
     {
-      "title": "This Database Handles 630 Billion Rows a Year",
-      "video_id": "3hgRw7E4vQA",
+      "title": "AI Code Looks Perfect It Isn&#39;t",
+      "video_id": "pHfRm7lE_Ec",
       "channel_title": "Tech With Tim",
-      "description": "Get started with TimescaleDB from TigerData for free: https://tsdb.co/twt-evc-demo Your Postgres table handles millions of rows ...",
-      "published_at": "2026-08-13T13:02:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3hgRw7E4vQA/hqdefault.jpg"
+      "description": "Now that AI writes your code, reading it matters more, not less. Your role shifts from developer to reviewer, because AI-generated ...",
+      "published_at": "2026-08-20T12:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pHfRm7lE_Ec/hqdefault.jpg"
     },
     {
-      "title": "The AI Agent Loop Explained",
-      "video_id": "854E1jORFI0",
+      "title": "Build Anything with Kimi K3 - The Next Frontier",
+      "video_id": "mq-rVs7oUXw",
       "channel_title": "Tech With Tim",
-      "description": "How does an AI agent actually run? It's the agent loop, and it's the part most people skip. You start with a system prompt and a ...",
-      "published_at": "2026-08-13T12:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/854E1jORFI0/hqdefault.jpg"
+      "description": "Try Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica Kimi K3 is the ...",
+      "published_at": "2026-08-18T13:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mq-rVs7oUXw/hqdefault.jpg"
     },
     {
-      "title": "The Open Source Claude Cowork Alternative I&#39;ve Been Waiting For",
-      "video_id": "QID-QHVLYYc",
+      "title": "Buzz is the BEST AI Tool Of 2026",
+      "video_id": "cHlmP4LYdPg",
       "channel_title": "Tech With Tim",
-      "description": "Get started with Mindshub Cowork for free: ...",
-      "published_at": "2026-08-12T13:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QID-QHVLYYc/hqdefault.jpg"
+      "description": "Deploy Buzz with Hostinger and get 10% off using code \"techwithtim\": https://www.hostg.xyz/SHJv1 Buzz is one of the most useful ...",
+      "published_at": "2026-08-17T15:30:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cHlmP4LYdPg/hqdefault.jpg"
     },
     {
-      "title": "Talent Isn’t the Gap. Starting Is.",
-      "video_id": "WZxbzEpdjlU",
+      "title": "Top 6 AI Certifications That Can Make You Rich in 2026",
+      "video_id": "hAckBGtCwxo",
       "channel_title": "Tech With Tim",
-      "description": "The gap isn't talent. They started. This is inside AI Agent Builders, and the founding window closes in two days. Link in the ...",
-      "published_at": "2026-08-12T12:28:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WZxbzEpdjlU/hqdefault.jpg"
+      "description": "Two of the best AI certifications you can get from DataCamp: DataCamp AI Fundamentals | https://datacamp.pxf.io/X4E2gG ...",
+      "published_at": "2026-08-16T18:06:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hAckBGtCwxo/hqdefault.jpg"
     }
   ]
 }

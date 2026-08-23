@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-08-16T01:27:33.617839",
+  "fetched_at": "2026-08-23T01:28:48.210172",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
     {
-      "title": "✨🌈 Stellar Rainbow: How Temperature Paints the Stars",
-      "video_id": "r0VpDjKfIkE",
+      "title": "On August 27–28, don’t miss the deep partial lunar eclipse 🌕🔴",
+      "video_id": "Y8tjgESU-VI",
       "channel_title": "Star Walk",
-      "description": "Have you ever noticed that stars have different colors? This isn't just an illusion — it's a direct result of their surface temperature.",
-      "published_at": "2026-08-14T13:06:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r0VpDjKfIkE/hqdefault.jpg"
+      "description": "At its peak, about 96% of the Moon will be covered by Earth's dark shadow, making it look almost like a Blood Moon. Where to ...",
+      "published_at": "2026-08-21T10:42:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y8tjgESU-VI/hqdefault.jpg"
+    },
+    {
+      "title": "The full Moon looks peaceful… until you point a telescope at it. 🌕🔭",
+      "video_id": "npCJkj7v5SQ",
+      "channel_title": "Star Walk",
+      "description": "Unlike the Sun, it won't damage your eyes, but it can definitely feel uncomfortable. A Moon filter or variable polarizing filter can ...",
+      "published_at": "2026-08-21T10:10:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/npCJkj7v5SQ/hqdefault.jpg"
+    },
+    {
+      "title": "A deep partial lunar eclipse is coming! 🌕",
+      "video_id": "ECLrqKfz2lI",
+      "channel_title": "Star Walk",
+      "description": "On August 27–28, 2026, Earth's shadow will cover about 96% of the Full Moon, leaving only a thin bright edge. At the peak, the ...",
+      "published_at": "2026-08-20T06:15:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ECLrqKfz2lI/hqdefault.jpg"
     },
     {
       "title": "August 2026 is bringing not one, but TWO eclipses. Don’t panic—it’s not the apocalypse. 🌞🌕",
@@ -67,22 +83,6 @@
       "description": "Comet Shoemaker–Levy 9 had already been torn into 21 fragments by Jupiter's gravity, and between July 16–22, 1994, those ...",
       "published_at": "2026-07-31T09:20:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2OlAEqfperI/hqdefault.jpg"
-    },
-    {
-      "title": "A moon without a planet?",
-      "video_id": "EnmRdfC5Zqs",
-      "channel_title": "Star Walk",
-      "description": "",
-      "published_at": "2026-07-28T14:26:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EnmRdfC5Zqs/hqdefault.jpg"
-    },
-    {
-      "title": "Real stars, live planets, and a new episode every night – no subscription needed 🌌",
-      "video_id": "scLH3KcPNRc",
-      "channel_title": "Star Walk",
-      "description": "",
-      "published_at": "2026-07-28T08:54:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/scLH3KcPNRc/hqdefault.jpg"
     }
   ]
 }

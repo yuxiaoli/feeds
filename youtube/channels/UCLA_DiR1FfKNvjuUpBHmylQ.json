@@ -1,24 +1,24 @@
 {
-  "fetched_at": "2026-08-16T01:27:01.023001",
+  "fetched_at": "2026-08-23T01:28:15.900470",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 9,
+  "count": 7,
   "videos": [
     {
-      "title": "Special Event Announcement (Aug. 14, 2026)",
-      "video_id": "I_GUQdY01b0",
+      "title": "U.S. Spacewalk 98",
+      "video_id": "I0j7as4MLHk",
       "channel_title": "NASA",
-      "description": "We are holding a news conference to preview an upcoming event to be held at NASA's Kennedy Space Center later this year.",
-      "published_at": "2026-08-14T19:14:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I_GUQdY01b0/hqdefault.jpg"
+      "description": "NASA astronaut Anil Menon and ESA (European Space Agency) flight engineer Sophie Adenot will begin a spacewalk at 8:35 ...",
+      "published_at": "2026-08-20T19:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I0j7as4MLHk/hqdefault_live.jpg"
     },
     {
-      "title": "MAX POWER at NASA&#39;s Kennedy Space Center | Nov. 7-8, 2026",
-      "video_id": "UbAsuvO-164",
+      "title": "U.S. Spacewalk 97",
+      "video_id": "yW-VAhqVJok",
       "channel_title": "NASA",
-      "description": "America's newest and most exciting aerospace technology expo and air show is landing at NASA's Kennedy Space Center in ...",
-      "published_at": "2026-08-14T18:39:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UbAsuvO-164/hqdefault.jpg"
+      "description": "At approximately 8:35 a.m. EDT (1235 UTC) on Aug. 18, 2026, NASA astronaut Anil Menon and ESA astronaut Sophie Adenot will ...",
+      "published_at": "2026-08-18T20:27:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yW-VAhqVJok/hqdefault.jpg"
     },
     {
       "title": "2026 Solar Eclipse @ 50,000 Feet",
@@ -29,36 +29,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/myZ9kn9MIWQ/hqdefault.jpg"
     },
     {
-      "title": "2026 Total Solar Eclipse Over Spain",
-      "video_id": "QP5Fs3AYuWE",
-      "channel_title": "NASA",
-      "description": "On Aug. 12, 2026, a total solar eclipse passed over Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small ...",
-      "published_at": "2026-08-12T19:08:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QP5Fs3AYuWE/hqdefault.jpg"
-    },
-    {
-      "title": "2026 Total Solar Eclipse",
-      "video_id": "rSvCuSQhC3w",
-      "channel_title": "NASA",
-      "description": "Come watch the eclipse with NASA. On Wednesday, Aug. 12, a total solar eclipse will be visible in parts of Greenland, Iceland, ...",
-      "published_at": "2026-08-12T18:47:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rSvCuSQhC3w/hqdefault.jpg"
-    },
-    {
-      "title": "U.S. Spacewalk 97",
-      "video_id": "yW-VAhqVJok",
-      "channel_title": "NASA",
-      "description": "At approximately 8:35 a.m. EDT (1235 UTC) on Aug. 18, 2026, NASA astronaut Anil Menon and ESA astronaut Sophie Adenot will ...",
-      "published_at": "2026-08-11T14:33:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yW-VAhqVJok/hqdefault_live.jpg"
-    },
-    {
       "title": "How to Photograph a Total Solar Eclipse",
       "video_id": "Q5_BtWc-G7Y",
       "channel_title": "NASA",
       "description": "On Aug. 12, 2026, a total solar eclipse will be visible in parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, ...",
       "published_at": "2026-08-10T15:29:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Q5_BtWc-G7Y/hqdefault.jpg"
+    },
+    {
+      "title": "NASA Moon Base: Lunar Landers (August 2026 Update)",
+      "video_id": "Sempwv5MPMQ",
+      "channel_title": "NASA",
+      "description": "A permanent human presence on the Moon may sound like science fiction, but it's already taking shape. Over a series of Moon ...",
+      "published_at": "2026-08-04T16:03:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Sempwv5MPMQ/hqdefault.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

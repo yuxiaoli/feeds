@@ -1,16 +1,48 @@
 {
-  "fetched_at": "2026-08-16T01:27:12.706475",
+  "fetched_at": "2026-08-23T01:28:27.714398",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-      "video_id": "EDWbX_-RYws",
+      "title": "How to Turn a Business Question Into a Strategy Deck With ChatGPT Work | Tutorial",
+      "video_id": "XjSJ6ybS9I8",
       "channel_title": "OpenAI",
-      "description": "Today we're previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs ...",
-      "published_at": "2026-08-14T17:19:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EDWbX_-RYws/hqdefault.jpg"
+      "description": "Turn a business question into a clear recommendation—without spending days gathering research and building slides. In this ...",
+      "published_at": "2026-08-18T19:05:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XjSJ6ybS9I8/hqdefault.jpg"
+    },
+    {
+      "title": "How to Create a Solid Blog Draft With ChatGPT Work | Tutorial",
+      "video_id": "0j9yDUDMrBs",
+      "channel_title": "OpenAI",
+      "description": "Turn scattered launch materials into a solid first draft. Sahil from OpenAI's Marketing team shows how he uses ChatGPT Work to ...",
+      "published_at": "2026-08-18T19:02:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0j9yDUDMrBs/hqdefault.jpg"
+    },
+    {
+      "title": "How to Prepare for Customer Meetings With ChatGPT Work | Tutorial",
+      "video_id": "yQZgOSHHxjk",
+      "channel_title": "OpenAI",
+      "description": "Spend less time preparing for customer calls and following up afterward. Alex from OpenAI's Sales team shows how he uses ...",
+      "published_at": "2026-08-18T18:58:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yQZgOSHHxjk/hqdefault.jpg"
+    },
+    {
+      "title": "You can just keep the work moving",
+      "video_id": "wIf9yMGalPU",
+      "channel_title": "OpenAI",
+      "description": "ChatGPT Work keeps projects moving. Monitoring what matters, surfacing what needs attention, and picking up where your team ...",
+      "published_at": "2026-08-17T18:25:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wIf9yMGalPU/hqdefault.jpg"
+    },
+    {
+      "title": "How Base44 Uses GPT-5.6 to Build Apps With 20% Fewer Tokens",
+      "video_id": "Cxp2aZQqkYM",
+      "channel_title": "OpenAI",
+      "description": "Base44 helps people turn natural language into production-ready applications and custom AI agents—no coding required. In this ...",
+      "published_at": "2026-08-17T15:22:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cxp2aZQqkYM/hqdefault.jpg"
     },
     {
       "title": "Inside Cricket’s Smartest Backroom | Rajasthan Royals | ChatGPT @rajasthanroyals",
@@ -29,36 +61,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/W-HhMUe9hOg/hqdefault.jpg"
     },
     {
-      "title": "Get a daily CFO briefing with ChatGPT Work",
-      "video_id": "bl2eGejkbaU",
-      "channel_title": "OpenAI",
-      "description": "Start the day with a clear view of the decisions that matter most. ChatGPT Work brings financial performance, close status, contract ...",
-      "published_at": "2026-08-13T13:06:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bl2eGejkbaU/hqdefault.jpg"
-    },
-    {
       "title": "Reconcile quarter-end financials with ChatGPT Work",
       "video_id": "Ljm3nHQQiSk",
       "channel_title": "OpenAI",
       "description": "Prepare for quarter-end close with a clear view of what changed and why. ChatGPT Work connects board materials in Google ...",
       "published_at": "2026-08-13T13:04:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Ljm3nHQQiSk/hqdefault.jpg"
-    },
-    {
-      "title": "Build custom financial forecasting apps with ChatGPT Work",
-      "video_id": "94Td-y5z5rk",
-      "channel_title": "OpenAI",
-      "description": "Build an interactive financial forecast using the numbers your business already trusts. ChatGPT Work connects approved financial ...",
-      "published_at": "2026-08-13T13:05:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/94Td-y5z5rk/hqdefault.jpg"
-    },
-    {
-      "title": "Use ChatGPT Work to deliver board-ready reporting",
-      "video_id": "_HCks5jkPLw",
-      "channel_title": "OpenAI",
-      "description": "Catch quarter-end mistakes before they reach your board. This is how we use ChatGPT Work to check our financial model, ...",
-      "published_at": "2026-08-13T11:31:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_HCks5jkPLw/hqdefault.jpg"
     },
     {
       "title": "Use ChatGPT Work to build custom forecasting apps",
@@ -75,14 +83,6 @@
       "description": "ChatGPT Work gathers context across your surfaces and helps you go from ambition to action with polished docs, slides, and sites ...",
       "published_at": "2026-08-13T08:12:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6VwIXjFj6YQ/hqdefault.jpg"
-    },
-    {
-      "title": "You can just finish the work | ChatGPT Work",
-      "video_id": "-vvGAKtV_Ek",
-      "channel_title": "OpenAI",
-      "description": "ChatGPT Work turns your team's notes, drafts, and ideas into finished work—while you stay in control. See how ChatGPT Work ...",
-      "published_at": "2026-08-13T08:09:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-vvGAKtV_Ek/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-16T01:26:59.029974",
+  "fetched_at": "2026-08-23T01:28:13.931477",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险",
+      "video_id": "89ThCi5qq-A",
+      "channel_title": "硅谷101",
+      "description": "2026年还没过完八月，美国五大科技巨头已经发了2081亿美元公司债，是2024年全年的十二倍。钱借来了，数据中心也在盖，可翻 ...",
+      "published_at": "2026-08-21T15:06:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/89ThCi5qq-A/hqdefault.jpg"
+    },
     {
       "title": "对话前DeepMind曹原：AI for Science爆发，一个新时代到来了",
       "video_id": "H35nVgNGyo8",
@@ -75,14 +83,6 @@
       "description": "7月10日，SK海力士以ADR形式在纳斯达克挂牌，融资265亿美元，随后市值突破1万亿美元。即便近期经历回调，它的股价仍比一年 ...",
       "published_at": "2026-07-17T12:30:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nilNLfW7izg/hqdefault.jpg"
-    },
-    {
-      "title": "国际足联腐败史：英国老头、足球的权力共生网络与“免死金牌”",
-      "video_id": "i0t3RyLILnw",
-      "channel_title": "硅谷101",
-      "description": "当2026世界杯再次成为全球焦点，很难想象，FIFA这个拥有巨大财富和影响力、掌控全球第一运动的组织，长期以来却只是一个受到 ...",
-      "published_at": "2026-07-13T06:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i0t3RyLILnw/hqdefault.jpg"
     }
   ]
 }

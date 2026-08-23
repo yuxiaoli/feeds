@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-08-16T01:26:57.707216",
+  "fetched_at": "2026-08-23T01:28:12.530770",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Warp Software Factory Live Demo",
+      "video_id": "ZKWpzdych6o",
+      "channel_title": "Warp",
+      "description": "We introduced Warp Factories this week: flexible, open infrastructure for companies building internal cloud software factories.",
+      "published_at": "2026-08-21T09:26:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZKWpzdych6o/hqdefault.jpg"
+    },
+    {
+      "title": "What&#39;s it like to work at Warp?",
+      "video_id": "Th3ShkzPtqQ",
+      "channel_title": "Warp",
+      "description": "We're hiring humans. The agents already work here. → https://www.warp.dev/careers.",
+      "published_at": "2026-08-19T16:24:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Th3ShkzPtqQ/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing Warp Factories",
+      "video_id": "0WBk4ai8y1A",
+      "channel_title": "Warp",
+      "description": "Request early access: warp.dev/factories/request-access Warp Factories provide flexible, open infrastructure to accelerate ...",
+      "published_at": "2026-08-18T14:58:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0WBk4ai8y1A/hqdefault.jpg"
+    },
+    {
+      "title": "We fixed Claude Code&#39;s biggest problem...",
+      "video_id": "ycoLAPxCSxs",
+      "channel_title": "Warp",
+      "description": "",
+      "published_at": "2026-08-17T23:47:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ycoLAPxCSxs/hqdefault.jpg"
+    },
     {
       "title": "Introducing the Warp Agent CLI: a coding agent that does what others can&#39;t",
       "video_id": "8jDz-1l88K8",
@@ -51,38 +83,6 @@
       "description": "Watch the full recording: https://www.warp.dev/events/ai-engineer-after-hours-crafting-software-factories-warp-sequoia.",
       "published_at": "2026-07-09T14:58:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/MaPFUvIdcVs/hqdefault.jpg"
-    },
-    {
-      "title": "OpenClaw creator blew his token budget on an airfryer",
-      "video_id": "GtiTx3_rvSw",
-      "channel_title": "Warp",
-      "description": "Interview with Peter Steinberger (OpenClaw), Paige Bailey (Google DeepMind), and Zach Lloyd (CEO of Warp). Watch the full ...",
-      "published_at": "2026-07-07T14:59:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GtiTx3_rvSw/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Warp - essentials, Claude Code setup, and cloud orchestration",
-      "video_id": "FynteCUvaRQ",
-      "channel_title": "Warp",
-      "description": "Download Warp: https://warp.dev Clone the example repository to follow along: ...",
-      "published_at": "2026-06-26T07:17:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FynteCUvaRQ/hqdefault.jpg"
-    },
-    {
-      "title": "The best terminal for Claude Code is...",
-      "video_id": "hl-4xmQJRcs",
-      "channel_title": "Warp",
-      "description": "Try Warp: https://warp.dev.",
-      "published_at": "2026-06-02T13:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hl-4xmQJRcs/hqdefault.jpg"
-    },
-    {
-      "title": "Neovim is still king 👑",
-      "video_id": "sc4lQfxAbfQ",
-      "channel_title": "Warp",
-      "description": "Try Warp: https://warp.dev.",
-      "published_at": "2026-05-29T13:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sc4lQfxAbfQ/hqdefault.jpg"
     }
   ]
 }

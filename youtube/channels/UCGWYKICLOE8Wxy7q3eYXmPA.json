@@ -1,9 +1,81 @@
 {
-  "fetched_at": "2026-08-16T01:26:53.406300",
+  "fetched_at": "2026-08-23T01:28:08.411994",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
+    {
+      "title": "英伟达的新护城河 | 黄仁勋 | OpenAI | 人工智能 | AI算力 | 数据中心 | GPU | CUDA | 软银 | AI工厂 | 算力基础设施 | AGI | 科技投资 | 半导体",
+      "video_id": "z48U_uUEe8Y",
+      "channel_title": "最佳拍档",
+      "description": "8月17日，英伟达、OpenAI与软银确认在美国俄亥俄州建设8吉瓦AI超级工厂，英伟达提供最高1050亿美元信用担保并入股15亿美元 ...",
+      "published_at": "2026-08-22T09:12:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z48U_uUEe8Y/hqdefault.jpg"
+    },
+    {
+      "title": "Cursor推出代码托管平台Origin | GitHub | AI编程 | AI Agent | 代码托管 | 软件开发 | Git | Stacked PR | Copilot | 开发者工具",
+      "video_id": "eG4MLdFetrE",
+      "channel_title": "最佳拍档",
+      "description": "8月17日，Cursor在被SpaceX以600亿美元收购后不久，正式推出AI Agent时代的代码托管平台Origin，开启早期Beta测试。Origin ...",
+      "published_at": "2026-08-21T23:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eG4MLdFetrE/hqdefault.jpg"
+    },
+    {
+      "title": "智能的基石与未来 | 李飞飞 | 安德鲁·休伯曼 | ImageNet | 计算机视觉 | 空间智能 | 具身智能 | Transformer | 神经网络",
+      "video_id": "Pj7AErvadPA",
+      "channel_title": "最佳拍档",
+      "description": "本期视频整理了斯坦福大学教授李飞飞与神经科学家安德鲁·休伯曼的深度对话。从5.4亿年前寒武纪视觉进化触发智能诞生，到2012 ...",
+      "published_at": "2026-08-21T09:18:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pj7AErvadPA/hqdefault.jpg"
+    },
+    {
+      "title": "草台班子？Claude的安全护栏竟然一年没开！ | Anthropic 168页AI风险报告解读 | Mythos 5 | Model 2 | AI对齐 | 思维链 | CoT | AI研发自动化",
+      "video_id": "F5kobVKQDII",
+      "channel_title": "最佳拍档",
+      "description": "本期视频深度解读Anthropic最新发布的186页风险报告。报告不再局限于单个模型能力评估，而是从公司系统层面审视AI ...",
+      "published_at": "2026-08-20T23:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F5kobVKQDII/hqdefault.jpg"
+    },
+    {
+      "title": "AI内存需求十年涨五倍 | SK海力士崔泰源 | HBM | 内存短缺 | AI Agent | DRAM | 英伟达 | 台积电 | 黄仁勋 | 芯片通胀 | AI算力 | 存储芯片 | CXL",
+      "video_id": "up9RHBMtWts",
+      "channel_title": "最佳拍档",
+      "description": "SK集团会长崔泰源近日接受CNBC专访，以\"这就像一场战争\"形容当前存储芯片抢购潮。他判断所有客户今年内存需求接近翻倍， ...",
+      "published_at": "2026-08-20T09:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/up9RHBMtWts/hqdefault.jpg"
+    },
+    {
+      "title": "首个AI定制mRNA癌症疫苗，III期临床试验成功 | Moderna | 默沙东 | 黑色素瘤 | 个性化医疗 | 新抗原 | Keytruda | 癌症免疫治疗 | 抗癌新突破 | 生物制药",
+      "video_id": "rvdwRCF5kRk",
+      "channel_title": "最佳拍档",
+      "description": "2026年8月19日，Moderna与默沙东联合宣布，全球首个AI设计的个性化mRNA癌症疫苗intismeran autogene在III期临床试验中取得 ...",
+      "published_at": "2026-08-20T05:03:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rvdwRCF5kRk/hqdefault.jpg"
+    },
+    {
+      "title": "【分享】宇树科技上市后王兴兴首次公开演讲 | WRC 2026 | 世界机器人大会 | 现场分享",
+      "video_id": "ZGezjvIMXgs",
+      "channel_title": "最佳拍档",
+      "description": "",
+      "published_at": "2026-08-20T03:44:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZGezjvIMXgs/hqdefault.jpg"
+    },
+    {
+      "title": "信仰的反噬，Dario和他背后的女人 | Anthropic | Cami Clark | 爱泼斯坦 | 埃里克施密特 | AGI | OpenAI | 硅谷 | IPO | AI治理",
+      "video_id": "YV_Jy_qbLU0",
+      "channel_title": "最佳拍档",
+      "description": "本期视频聚焦估值逼近万亿美元的AI明星公司Anthropic。我们从近期内部士气爆料切入，拆解这家以AI安全为信仰的公司如何在高速 ...",
+      "published_at": "2026-08-19T09:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YV_Jy_qbLU0/hqdefault.jpg"
+    },
+    {
+      "title": "GLM-5.3发布，主攻编程和智能体能力 | 智谱AI | Coding Agent | 网络安全 | 漏洞挖掘 | 后训练Scaling | 红队测试 | 开源的盾",
+      "video_id": "OYXv2-3TAu8",
+      "channel_title": "最佳拍档",
+      "description": "智谱发布7430亿参数旗舰模型GLM-5.3，两周内开源。基座与GLM-5.2完全一致，通过极致后训练Scaling实现能力跃升：编程能力 ...",
+      "published_at": "2026-08-16T09:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OYXv2-3TAu8/hqdefault.jpg"
+    },
     {
       "title": "Cordis——DeepSeek Harness的乐高底板 | 自进化AI | Agent框架 | 可逆效应 | 反应式余效应 | Koishi | 插件系统 | 时空可组合性",
       "video_id": "C6lJClhhpdA",
@@ -11,78 +83,6 @@
       "description": "本期视频深度解读DeepSeek与北大合作发布的最新论文，揭秘黑鲸Harness背后的核心技术Cordis。视频从现有插件系统\"插上去拔 ...",
       "published_at": "2026-08-15T23:00:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/C6lJClhhpdA/hqdefault.jpg"
-    },
-    {
-      "title": "我们被OpenAI的逃逸模型攻击了 | Hugging Face联创Thomas Wolf复盘 | 开源模型 | GLM | 网络安全 | 模型对齐 | AI主权 | 寡头垄断 | AI降速",
-      "video_id": "Ej3dwB1MAPQ",
-      "channel_title": "最佳拍档",
-      "description": "Hugging Face联合创始人托马斯·沃尔夫，深度复盘了今夏AI行业最大安全事件，某前沿闭源模型在执行网络安全评测时，自主将 ...",
-      "published_at": "2026-08-15T09:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ej3dwB1MAPQ/hqdefault.jpg"
-    },
-    {
-      "title": "DeepSeek Harness预览版发布 | Agent运行时 | 一切皆插件 | 大模型 | AI智能体 | 开源 | Cordis | MCP | AI编程 | 插件架构 | MIT协议",
-      "video_id": "uEreD5AhN5Q",
-      "channel_title": "最佳拍档",
-      "description": "8月13日，DeepSeek发布Harness开发者预览版，以MIT协议开源整套Agent运行基础设施。核心设计一切皆插件，将模型、工具、 ...",
-      "published_at": "2026-08-14T09:02:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uEreD5AhN5Q/hqdefault.jpg"
-    },
-    {
-      "title": "吴恩达怒怼AI开源阴谋论 | 知识蒸馏 | Transformer | AI Agent | 算力泡沫 | AI失业 | 数据中心 | 摩根士丹利 | OpenWorker | 大模型 | AI落地",
-      "video_id": "LHCqSqneZGQ",
-      "channel_title": "最佳拍档",
-      "description": "吴恩达近期接受《华盛顿邮报》深度访谈，就AI核心争议表态。他回顾2010年越大越聪明信念如何催生Transformer与现代AI革命， ...",
-      "published_at": "2026-08-13T23:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LHCqSqneZGQ/hqdefault.jpg"
-    },
-    {
-      "title": "DeepSeek V4 Pro发布，价格不到Fable的2% | 撞车Grok 4.6 | Qwen3.8开放权重 | MOE | 长上下文 | 开源大模型 | 梁文锋 | 马斯克 | API定价",
-      "video_id": "NVmIV9xQZP8",
-      "channel_title": "最佳拍档",
-      "description": "2026年8月12日深夜，DeepSeek V4 Pro正式版悄然上线API。这款1.6万亿参数的MOE模型在CyberGym、AutomationBench ...",
-      "published_at": "2026-08-13T09:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NVmIV9xQZP8/hqdefault.jpg"
-    },
-    {
-      "title": "AI的下一个护城河不是模型 | 彼得·路德维希 | 物理AI | 具身智能 | 自动驾驶 | 工程系统 | 世界模型 | AI落地 | Applied Intuition | 飞轮效应 | a16z",
-      "video_id": "WhIHQNw5GZU",
-      "channel_title": "最佳拍档",
-      "description": "本期解读a16z文章《下一个AI护城河并非更优的模型》，作者Applied Intuition联合创始人彼得·路德维希。文章指出物理AI落地是 ...",
-      "published_at": "2026-08-12T23:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WhIHQNw5GZU/hqdefault.jpg"
-    },
-    {
-      "title": "AI算力不仅没过剩，还更加稀缺 | Gavin Baker | GPU | Blackwell | 开源大模型 | AI基建 | 半导体 | HBM内存 | 太空算力 | SpaceX",
-      "video_id": "239EIQ1sp7I",
-      "channel_title": "最佳拍档",
-      "description": "Atreides Management创始人加文·贝克最新专访深度拆解：7月AI板块暴跌40%-60%但产业基本面完全背离，GPU现货价格半年 ...",
-      "published_at": "2026-08-11T23:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/239EIQ1sp7I/hqdefault.jpg"
-    },
-    {
-      "title": "Jeff Dean最新判断：AI的下一个拐点 | Google | TPU | AI芯片 | 大模型推理 | 上下文工程 | 创业机会 | 知识蒸馏 | 神经网络 | AI硬件 | 科学方法自动化",
-      "video_id": "y-XOgW97emo",
-      "channel_title": "最佳拍档",
-      "description": "Google首席科学家Jeff Dean在YC Startup School 2026上的对话，涵盖AI能力边界、硬件本质与创业方向。核心观点包括：数据搬运 ...",
-      "published_at": "2026-08-09T09:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y-XOgW97emo/hqdefault.jpg"
-    },
-    {
-      "title": "Meta Infra千亿AI基建踩坑内幕 | SemiAnalysis | AI芯片 | GPU服务器 | GB200 | Rivos | 大模型训练 | TCO | 数据中心 | AMD MI450",
-      "video_id": "lffdUgPBABY",
-      "channel_title": "最佳拍档",
-      "description": "SemiAnalysis近期发文炮轰Meta基础设施团队存在系统性文化问题，导致千亿级AI基建投入效率低下。本期视频深度拆解四个核心 ...",
-      "published_at": "2026-07-30T09:01:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lffdUgPBABY/hqdefault.jpg"
-    },
-    {
-      "title": "【人工智能】AI未来发展的核心支柱 | 钢铁、服务器、能源 | David Cahn红杉美国合伙人 | 数据中心 | 基建效率 | 现金牛 | 房地产 | 资产负债表外融资",
-      "video_id": "5gDrGItwDg4",
-      "channel_title": "最佳拍档",
-      "description": "今天我们来分享一个20VC推出的播客节目，在这档节目中，投资人大卫·卡恩David Cahn与播客主持人哈里·斯特宾斯Harry ...",
-      "published_at": "2024-08-15T09:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5gDrGItwDg4/hqdefault.jpg"
     }
   ]
 }

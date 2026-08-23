@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-08-16T01:26:47.182522",
+  "fetched_at": "2026-08-23T01:28:02.260309",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 7,
+  "count": 10,
   "videos": [
+    {
+      "title": "MCP in UEFN | Creating in Fortnite",
+      "video_id": "acGWIJ1hIlM",
+      "channel_title": "Unreal Engine",
+      "description": "Unreal MCP is now available in Unreal Editor for Fortnite (UEFN). Join UEFN Evangelist Magnus Enebakk as he walks you ...",
+      "published_at": "2026-08-21T20:20:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/acGWIJ1hIlM/hqdefault.jpg"
+    },
+    {
+      "title": "So, You Want to Make Stylized Stuff with Unreal Engine? Meet Odyssey  | Unreal Fest Chicago 2026",
+      "video_id": "5WLUmP0jnL0",
+      "channel_title": "Unreal Engine",
+      "description": "When it comes to creating stylized games and animations in Unreal Engine, many teams rely on the manipulation of materials.",
+      "published_at": "2026-08-21T14:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5WLUmP0jnL0/hqdefault.jpg"
+    },
+    {
+      "title": "Practical Test Automation in Unreal Engine | Inside Unreal",
+      "video_id": "KuIWCzujtag",
+      "channel_title": "Unreal Engine",
+      "description": "Sick of zombie bugs that keep coming back in your most important systems? Do you want to get the most out of your limited QA ...",
+      "published_at": "2026-08-20T20:27:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KuIWCzujtag/hqdefault.jpg"
+    },
+    {
+      "title": "UE for E-commerce: Configurators, Product Visualization, &amp; Content | Unreal Fest Chicago 2026",
+      "video_id": "unOUz2ZIgq4",
+      "channel_title": "Unreal Engine",
+      "description": "The future of retail is immersive, interactive, and instantaneous. In this session recorded at Unreal Fest Chicago 2026, 3D Source ...",
+      "published_at": "2026-08-20T16:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/unOUz2ZIgq4/hqdefault.jpg"
+    },
+    {
+      "title": "Unlocking the Secrets of MetaSounds and the Builder API in &#39;Mix Universe&#39; | Unreal Fest Chicago 2026",
+      "video_id": "F79Ft9b77_w",
+      "channel_title": "Unreal Engine",
+      "description": "In this session recorded at Unreal Fest Chicago 2026, Chris Zukowski of Zuko Media demonstrates an Audio-FX-Stack method of ...",
+      "published_at": "2026-08-20T14:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F79Ft9b77_w/hqdefault.jpg"
+    },
+    {
+      "title": "Building Custom Shops and UI for In-Island Transactions | Creating in Fortnite",
+      "video_id": "DuCFduGXiL0",
+      "channel_title": "Unreal Engine",
+      "description": "Shop UI shapes how players engage with in-island transactions. In this livestream, Derek Diaz, UI/UX Director at Epic Games, ...",
+      "published_at": "2026-08-19T13:53:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DuCFduGXiL0/hqdefault_live.jpg"
+    },
+    {
+      "title": "UI Performance &amp; Invalidation Debugging | Unreal Fest Chicago 2026",
+      "video_id": "VxX1aah6TZM",
+      "channel_title": "Unreal Engine",
+      "description": "Slate performance can be a huge concern for UI-heavy projects, and it's often difficult to tell where exactly to make optimizations.",
+      "published_at": "2026-08-17T16:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VxX1aah6TZM/hqdefault.jpg"
+    },
     {
       "title": "The Last GASP!? Game Animation Sample Updates for 5.8 + Q&amp;A | Inside Unreal",
       "video_id": "6NYC4ryO9ik",
@@ -11,22 +67,6 @@
       "description": "Join us as we dive into the most recent update to the Game Animation Sample Project! We'll walk through the project, explore ...",
       "published_at": "2026-08-14T20:51:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6NYC4ryO9ik/hqdefault.jpg"
-    },
-    {
-      "title": "Evolving a Legend: Bringing Halo to Unreal Engine 5 | Unreal Fest Chicago 2026",
-      "video_id": "aCygPKCDwfY",
-      "channel_title": "Unreal Engine",
-      "description": "How do you move one of the most iconic 25‑year‑old game franchises from its proprietary tech stack onto a modern engine ...",
-      "published_at": "2026-08-14T16:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aCygPKCDwfY/hqdefault.jpg"
-    },
-    {
-      "title": "Building Xbox Games with Unreal Engine&#39;s New GDK Plugins | Unreal Fest Chicago 2026",
-      "video_id": "OQG4OcmG2F0",
-      "channel_title": "Unreal Engine",
-      "description": "Players expect their games to follow them from the devices they have today, from Windows 11 PCs and handhelds to the future of ...",
-      "published_at": "2026-08-13T21:20:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OQG4OcmG2F0/hqdefault.jpg"
     },
     {
       "title": "The Optimization Journey of &#39;Far Far West&#39; (so far) w/ Tom Looman &amp; Ari Arnbjörnsson | Inside Unreal",
@@ -37,28 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kJPqrvB0fdo/hqdefault.jpg"
     },
     {
-      "title": "Making a Mobile Tower Defense Game | UEFN Build-Along",
-      "video_id": "VfVuks8qgnQ",
+      "title": "A Practical Look at Mesh Terrain | Inside Unreal",
+      "video_id": "XlbWtoIk-Zc",
       "channel_title": "Unreal Engine",
-      "description": "In this build-along, UEFN Evangelists Josh Grant and Magnus Enebakk create a mobile-friendly tower defense game from ...",
-      "published_at": "2026-08-10T18:32:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VfVuks8qgnQ/hqdefault_live.jpg"
-    },
-    {
-      "title": "Unlearning OOP: Data-Oriented Gameplay Design with ECS and Mass Entity | Unreal Fest Chicago 2026",
-      "video_id": "UXA8axmAb-U",
-      "channel_title": "Unreal Engine",
-      "description": "Unreal Engine's Mass Entity Framework offers incredible performance scaling but unlocking its full potential requires more than ...",
-      "published_at": "2026-08-09T14:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UXA8axmAb-U/hqdefault.jpg"
-    },
-    {
-      "title": "Growing Trees in Unreal Engine: PVE 5.8 New Features and Roadmap | Unreal Fest Chicago 2026",
-      "video_id": "zfFq5e8Pxz0",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this session recorded at Unreal Fest Chicago 2026 for a look at the powerful new features in the Procedural Vegetation ...",
-      "published_at": "2026-08-06T14:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zfFq5e8Pxz0/hqdefault.jpg"
+      "description": "Join us as Etienne Carrier guides us through a breakdown of the Mesh Terrain level presented at the State of Unreal 2026.",
+      "published_at": "2026-08-06T20:15:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XlbWtoIk-Zc/hqdefault.jpg"
     }
   ]
 }

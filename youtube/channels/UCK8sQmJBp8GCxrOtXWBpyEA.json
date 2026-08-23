@@ -1,32 +1,24 @@
 {
-  "fetched_at": "2026-08-16T01:26:57.019383",
+  "fetched_at": "2026-08-23T01:28:11.825232",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 3,
+  "count": 2,
   "videos": [
     {
-      "title": "Introducing Pixel Tag, our first-ever finder tag.",
-      "video_id": "1fs84Lyp1s0",
+      "title": "The world’s top nature searches answered in one epic national park | Searching For",
+      "video_id": "Nm5e9ok8dIg",
       "channel_title": "Google",
-      "description": "Attach it to your keys or slip it into your luggage to easily find the things you love, whether they're near or far, right in Find Hub.",
-      "published_at": "2026-08-12T15:58:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1fs84Lyp1s0/hqdefault.jpg"
+      "description": "We're celebrating National Park Week with a deep dive into Olympic National Park in Washington State. Join us as an official U.S. ...",
+      "published_at": "2026-08-22T18:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nm5e9ok8dIg/hqdefault.jpg"
     },
     {
-      "title": "Here’s your first peek at Pixel Watch 5.",
-      "video_id": "6yysYeHiPDQ",
+      "title": "Go behind closed doors at the Artemis II test facility | Searching For",
+      "video_id": "dWH8n-FkprM",
       "channel_title": "Google",
-      "description": "Designed for Gemini Intelligence and Google Health, it helps you stay on top of your day with proactive assistance, advanced ...",
-      "published_at": "2026-08-12T15:04:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6yysYeHiPDQ/hqdefault.jpg"
-    },
-    {
-      "title": "Get your first look at the #Pixel11 family.",
-      "video_id": "-eckuctHcoc",
-      "channel_title": "Google",
-      "description": "Refined hardware, made to last. Fresh colors. New cameras. And designed for Gemini Intelligence. #MadeByGoogle.",
-      "published_at": "2026-08-12T14:08:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-eckuctHcoc/hqdefault.jpg"
+      "description": "Ever wonder what happens behind the doors at NASA? Step inside a test facility as we answer the top trending questions about ...",
+      "published_at": "2026-08-20T17:14:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dWH8n-FkprM/hqdefault.jpg"
     }
   ]
 }

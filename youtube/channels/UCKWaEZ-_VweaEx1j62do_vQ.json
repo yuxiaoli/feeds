@@ -1,16 +1,64 @@
 {
-  "fetched_at": "2026-08-16T01:26:59.685985",
+  "fetched_at": "2026-08-23T01:28:14.572433",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
     {
-      "title": "Code Changed in ONLY Nine Months⚡",
-      "video_id": "JNDjf1I91Ps",
+      "title": "Where&#39;s Real Enterprise Value?💡",
+      "video_id": "_LqY-1q50pI",
       "channel_title": "IBM Technology",
-      "description": "AI evolved faster than deployment cycles. How can organizations keep up when security changes outpace their response time?",
-      "published_at": "2026-08-14T16:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JNDjf1I91Ps/hqdefault.jpg"
+      "description": "80% of enterprise value sits in legacy systems. IBM's distribution network beats frontier models. Here's why orchestration trumps ...",
+      "published_at": "2026-08-21T17:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_LqY-1q50pI/hqdefault.jpg"
+    },
+    {
+      "title": "Stripe buys OpenRouter, Ramp’s AI Index &amp; IBM’s OpenAI deal",
+      "video_id": "8LNH7TxvD14",
+      "channel_title": "IBM Technology",
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~OIYjPLWCH This week on Mixture of Experts, we ...",
+      "published_at": "2026-08-21T10:04:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8LNH7TxvD14/hqdefault.jpg"
+    },
+    {
+      "title": "Stop Expecting AI Perfection ❌",
+      "video_id": "GandxSHswYw",
+      "channel_title": "IBM Technology",
+      "description": "AI is like a third grader taking the SATs. We need to become better teachers, not critics. Here's how to shift your AI mindset.",
+      "published_at": "2026-08-20T16:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GandxSHswYw/hqdefault.jpg"
+    },
+    {
+      "title": "AI Agents vs Business Rules: Which Should Make Decisions?",
+      "video_id": "i1ZmNUbRGD4",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about AI Agents here → https://ibm.biz/~gNNWReB6j Learn more about Business Rules here ...",
+      "published_at": "2026-08-20T11:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i1ZmNUbRGD4/hqdefault.jpg"
+    },
+    {
+      "title": "What should security leaders do with AI? They don’t know.",
+      "video_id": "3zhveTN1VzE",
+      "channel_title": "IBM Technology",
+      "description": "Explore the podcast → https://ibm.biz/~msEZOskFL Cybersecurity leaders are flush with cash—earmarked for AI, mind you—and ...",
+      "published_at": "2026-08-19T10:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3zhveTN1VzE/hqdefault.jpg"
+    },
+    {
+      "title": "What Is the AI Security Trilemma? Smart, Fast, or Secure AI?",
+      "video_id": "OvjccOrr-iw",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about AI Security here → https://ibm.biz/~B0pp9rU0b Can AI be smart, fast, and secure at once? Jeff Crume explains ...",
+      "published_at": "2026-08-18T11:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OvjccOrr-iw/hqdefault.jpg"
+    },
+    {
+      "title": "What Is RAD? Why It Matters in the Age of AI Coding",
+      "video_id": "J0zbWsutyA8",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about Rapid Application Development (RAD) here → https://ibm.biz/~t01xtWgB8 AI coding feels new, but the ideas ...",
+      "published_at": "2026-08-17T11:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J0zbWsutyA8/hqdefault.jpg"
     },
     {
       "title": "IBM’s cloud collab, Meta’s Muse Glimmer &amp; OpenAI’s upcoming Astra model",
@@ -21,14 +69,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FVXDXi4es8E/hqdefault.jpg"
     },
     {
-      "title": "AI &amp; Data Science Periodic Tables: How They Work Together",
-      "video_id": "jAkB_qeATag",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Artificial Intelligence (AI) here → https://ibm.biz/~XmOXmQOix Learn more about Data Science here ...",
-      "published_at": "2026-08-13T11:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jAkB_qeATag/hqdefault.jpg"
-    },
-    {
       "title": "The OWASP LLM Top 10 has a few surprises for you",
       "video_id": "auS34nm9VAc",
       "channel_title": "IBM Technology",
@@ -37,52 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/auS34nm9VAc/hqdefault.jpg"
     },
     {
-      "title": "What Is Context Engineering? Why It Matters for AI Agents",
-      "video_id": "Qx0fCqpkBus",
+      "title": "Anthropic’s sandbox breach, EU’s AI transparency push and DeepSeek’s cost-cutting model",
+      "video_id": "W0wXevMkdMM",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Context Engineering here → https://ibm.biz/~P5lLLBd7u More data doesn't always mean better AI.",
-      "published_at": "2026-08-11T11:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Qx0fCqpkBus/hqdefault.jpg"
-    },
-    {
-      "title": "5 Best Practices for Building AI Agent Skills",
-      "video_id": "qYNs80FKIVc",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about 2026 Guide to AI Agents here → https://ibm.biz/~e7fElYU4A Building AI agent skills is easier than it looks.",
-      "published_at": "2026-08-10T11:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qYNs80FKIVc/hqdefault.jpg"
-    },
-    {
-      "title": "What Is Chunkless RAG? How Docling &amp; AI Agents Navigate Documents",
-      "video_id": "vRZNJWw78BQ",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Chunkless RAG here → https://ibm.biz/~H2I4LXkTq RAG may be throwing away valuable document context.",
-      "published_at": "2026-08-09T11:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vRZNJWw78BQ/hqdefault.jpg"
-    },
-    {
-      "title": "RSA recap, the LiteLLM breach, and the quest to fix AI agent security",
-      "video_id": "0nPkGvNS0n8",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about solving agentic AI identity and access gaps → https://ibm.biz/BdpSCg LiteLLM is a nifty little Python library that ...",
-      "published_at": "2026-04-01T10:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0nPkGvNS0n8/hqdefault.jpg"
-    },
-    {
-      "title": "Why AI Agents Need A Human in the Loop Now",
-      "video_id": "cmEJ-5zYKHA",
-      "channel_title": "IBM Technology",
-      "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
-      "published_at": "2026-03-10T11:01:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cmEJ-5zYKHA/hqdefault.jpg"
-    },
-    {
-      "title": "Android malware that acts like a person and AI agents that act like malware",
-      "video_id": "iaZS1jer8MY",
-      "channel_title": "IBM Technology",
-      "description": "Read more about the AI governance gap → https://ibm.biz/Bdbm9Q What do AI agents, the stock market and behavior-based ...",
-      "published_at": "2025-11-05T10:01:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~1cu3BYWak It seems OpenAI isn't the only AI ...",
+      "published_at": "2026-08-07T10:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W0wXevMkdMM/hqdefault.jpg"
     }
   ]
 }
