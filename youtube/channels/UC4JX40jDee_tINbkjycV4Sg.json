@@ -1,64 +1,88 @@
 {
-  "fetched_at": "2026-08-23T01:27:56.690196",
+  "fetched_at": "2026-08-30T04:23:27.965339",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 7,
+  "count": 10,
   "videos": [
     {
-      "title": "Don&#39;t Learn Python First",
-      "video_id": "cAYbjlHiWDU",
+      "title": "Vibe Coding Has A Security Problem (And How To Fix It)",
+      "video_id": "NfctRQhMMdI",
       "channel_title": "Tech With Tim",
-      "description": "Building an agent, an automation, or a quick product? Don't start by learning Python. Build first with the AI tools that already exist, ...",
-      "published_at": "2026-08-22T12:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cAYbjlHiWDU/hqdefault.jpg"
+      "description": "Get started with Superblocks and deploy SECURE AI applications: ...",
+      "published_at": "2026-08-29T13:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NfctRQhMMdI/hqdefault.jpg"
     },
     {
-      "title": "AI Won&#39;t Replace Learning Python",
-      "video_id": "5u8z3X8D674",
+      "title": "What Forward Deployed Actually Means",
+      "video_id": "aP_2FUVtQRk",
       "channel_title": "Tech With Tim",
-      "description": "Want a job in software, machine learning, or data science in 2026? You still need Python, and honestly you need to know it better ...",
-      "published_at": "2026-08-21T12:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5u8z3X8D674/hqdefault.jpg"
+      "description": "What is a forward-deployed engineer, and where did the role come from? It was basically invented at Palantir. Their software was ...",
+      "published_at": "2026-08-29T12:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aP_2FUVtQRk/hqdefault.jpg"
     },
     {
-      "title": "One AI agent built a REAL business in 24 hours…",
-      "video_id": "okjvO4BsW98",
+      "title": "What You Need to Know About Grok Bot... (it&#39;s not that good)",
+      "video_id": "ezANo2RNryU",
       "channel_title": "Tech With Tim",
-      "description": "Get started with Runable for free: https://runable.com/?utm_source=ytlong&utm_medium=TechWithTim Coach Navruz IG: ...",
-      "published_at": "2026-08-20T18:13:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/okjvO4BsW98/hqdefault.jpg"
+      "description": "Host your AI generated sites for FREE with a single prompt using here.now (no signup required), just copy the agent prompt and ...",
+      "published_at": "2026-08-28T13:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ezANo2RNryU/hqdefault.jpg"
     },
     {
-      "title": "AI Code Looks Perfect It Isn&#39;t",
-      "video_id": "pHfRm7lE_Ec",
+      "title": "$400K AI Job Nobody&#39;s Heard Of",
+      "video_id": "eldZxeJ_wqY",
       "channel_title": "Tech With Tim",
-      "description": "Now that AI writes your code, reading it matters more, not less. Your role shifts from developer to reviewer, because AI-generated ...",
-      "published_at": "2026-08-20T12:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pHfRm7lE_Ec/hqdefault.jpg"
+      "description": "There's a tech job right now where mid-level engineers reportedly make $300–400K, job postings grew over 1000% in a single ...",
+      "published_at": "2026-08-28T12:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eldZxeJ_wqY/hqdefault.jpg"
     },
     {
-      "title": "Build Anything with Kimi K3 - The Next Frontier",
-      "video_id": "mq-rVs7oUXw",
+      "title": "Codex vs Claude - an Honest Comparison",
+      "video_id": "sbuwHi1Sz6k",
       "channel_title": "Tech With Tim",
-      "description": "Try Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica Kimi K3 is the ...",
-      "published_at": "2026-08-18T13:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mq-rVs7oUXw/hqdefault.jpg"
+      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
+      "published_at": "2026-08-27T14:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sbuwHi1Sz6k/hqdefault.jpg"
     },
     {
-      "title": "Buzz is the BEST AI Tool Of 2026",
-      "video_id": "cHlmP4LYdPg",
+      "title": "Python is No Longer Mandatory",
+      "video_id": "lf60O2FVqCE",
       "channel_title": "Tech With Tim",
-      "description": "Deploy Buzz with Hostinger and get 10% off using code \"techwithtim\": https://www.hostg.xyz/SHJv1 Buzz is one of the most useful ...",
-      "published_at": "2026-08-17T15:30:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cHlmP4LYdPg/hqdefault.jpg"
+      "description": "Should you learn Python in 2026? Here's the honest verdict: Python isn't dead, but it's no longer mandatory. It comes down to your ...",
+      "published_at": "2026-08-27T12:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lf60O2FVqCE/hqdefault.jpg"
     },
     {
-      "title": "Top 6 AI Certifications That Can Make You Rich in 2026",
-      "video_id": "hAckBGtCwxo",
+      "title": "How I Set Up Python for Machine Learning With AI",
+      "video_id": "cAtKtvmds1o",
       "channel_title": "Tech With Tim",
-      "description": "Two of the best AI certifications you can get from DataCamp: DataCamp AI Fundamentals | https://datacamp.pxf.io/X4E2gG ...",
-      "published_at": "2026-08-16T18:06:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hAckBGtCwxo/hqdefault.jpg"
+      "description": "Doing Machine Learning? Try PyCharm free and set it up like I showed you: https://jb.gg/tt3 AI-generated machine learning code ...",
+      "published_at": "2026-08-26T14:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cAtKtvmds1o/hqdefault.jpg"
+    },
+    {
+      "title": "Stop Memorizing Syntax",
+      "video_id": "0Qs1Sb7fdIc",
+      "channel_title": "Tech With Tim",
+      "description": "Don't waste time memorizing syntax the way you would have ten years ago. AI handles the syntax now. What actually matters is ...",
+      "published_at": "2026-08-26T12:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0Qs1Sb7fdIc/hqdefault.jpg"
+    },
+    {
+      "title": "How I Would Learn Python (Programming, Data and AI in One Place)",
+      "video_id": "An_CJNU9nB0",
+      "channel_title": "Tech With Tim",
+      "description": "Top pick courses to learn Python for programming, data and AI in one place: DataCamp Python Programming Fundamentals ...",
+      "published_at": "2026-08-23T14:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/An_CJNU9nB0/hqdefault.jpg"
+    },
+    {
+      "title": "This Database Handles 630 Billion Rows a Year",
+      "video_id": "3hgRw7E4vQA",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with TimescaleDB from TigerData for free: https://tsdb.co/twt-evc-demo Your Postgres table handles millions of rows ...",
+      "published_at": "2026-08-13T13:02:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3hgRw7E4vQA/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-08-23T01:28:03.711988",
+  "fetched_at": "2026-08-30T04:23:35.223896",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Apple Event — September 9",
+      "video_id": "39BalPDuTo0",
+      "channel_title": "Apple",
+      "description": "Join us for a special event on September 9 at 10 a.m. PT. Click “Notify me” and we'll send you a reminder before showtime.",
+      "published_at": "2026-08-26T16:11:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/39BalPDuTo0/hqdefault_live.jpg"
+    },
+    {
+      "title": "The New Mac Studio with M5 Max and M5 Ultra",
+      "video_id": "3uAIqqg8ZHo",
+      "channel_title": "Apple",
+      "description": "Introducing the new Mac Studio, boosted by M5 Max and M5 Ultra, our most powerful chip for AI and everything else. Pre-order ...",
+      "published_at": "2026-08-25T13:47:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3uAIqqg8ZHo/hqdefault.jpg"
+    },
+    {
+      "title": "The new Mac mini with M6",
+      "video_id": "3WpzNmY35S4",
+      "channel_title": "Apple",
+      "description": "Introducing the far mightier, new Mac mini, with the M6 chip. With up to 40% faster CPU and 2x faster graphics, it's five by five ...",
+      "published_at": "2026-08-25T13:33:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3WpzNmY35S4/hqdefault.jpg"
+    },
     {
       "title": "AirPods Max 2: The ultimate over-ear listening experience",
       "video_id": "RrfJVP-6Quw",
@@ -59,30 +83,6 @@
       "description": "iPad Air features the M4 chip, delivering incredible performance and advanced graphics, and is built for Apple Intelligence.",
       "published_at": "2026-08-20T19:46:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/exxIynPuCpA/hqdefault.jpg"
-    },
-    {
-      "title": "MacBook Air: A laptop that&#39;s thin, fast, powerful, and portable",
-      "video_id": "4Y9ITR44W5s",
-      "channel_title": "Apple",
-      "description": "MacBook Air features the M5 chip and is built for Apple Intelligence. It has a brilliant Liquid Retina display in 13- and 15-inch sizes ...",
-      "published_at": "2026-08-20T19:46:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4Y9ITR44W5s/hqdefault.jpg"
-    },
-    {
-      "title": "MacBook Pro: The most advanced Mac laptop for demanding tasks",
-      "video_id": "JlS6RmAJKnE",
-      "channel_title": "Apple",
-      "description": "MacBook Pro comes with M5, M5 Pro, or M5 Max, Apple's most advanced pro-laptop chips, and the longest battery life ever in a ...",
-      "published_at": "2026-08-20T19:45:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JlS6RmAJKnE/hqdefault.jpg"
-    },
-    {
-      "title": "MacBook Neo: Everything you love about a Mac laptop at a surprising price",
-      "video_id": "XvbIACyf_Fc",
-      "channel_title": "Apple",
-      "description": "MacBook Neo is Apple's most wallet-friendly MacBook, in the most colorful MacBook lineup ever. It has a durable aluminum ...",
-      "published_at": "2026-08-20T19:46:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XvbIACyf_Fc/hqdefault.jpg"
     }
   ]
 }

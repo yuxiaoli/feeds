@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-23T01:28:24.191224",
+  "fetched_at": "2026-08-30T04:23:57.067989",
   "channel_id": "UCV0qA-eDDICsRR9rPcnG7tw",
   "channel_title": "Joma Tech",
   "count": 10,
   "videos": [
+    {
+      "title": "I Forced My AI Employees Back Into the Office #ChatGPT_Partner @OpenAI",
+      "video_id": "yhOAyMVW5k4",
+      "channel_title": "Joma Tech",
+      "description": "I used Codex to create a employee I can have meetings with!",
+      "published_at": "2026-08-25T14:05:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yhOAyMVW5k4/hqdefault.jpg"
+    },
     {
       "title": "I Saved $200 With My Mouth",
       "video_id": "h6qBa3tLmNo",
@@ -21,28 +29,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/PibrgKPYHz4/hqdefault.jpg"
     },
     {
-      "title": "what 10 years of coding looks like…",
-      "video_id": "jRBbxwWw1R0",
-      "channel_title": "Joma Tech",
-      "description": "",
-      "published_at": "2026-07-03T00:40:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jRBbxwWw1R0/hqdefault.jpg"
-    },
-    {
       "title": "that one awkward co-worker...",
       "video_id": "siWDrJvZH0A",
       "channel_title": "Joma Tech",
       "description": "",
       "published_at": "2026-07-02T08:24:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/siWDrJvZH0A/hqdefault.jpg"
-    },
-    {
-      "title": "If Yu-Gi-Oh was about Tech Jobs",
-      "video_id": "2LQXrGKq3t0",
-      "channel_title": "Joma Tech",
-      "description": "Start learning Cyber Security for FREE: https://tryhackme.com/JomaTech Use code JOMA30 for 30% off annual subscription ...",
-      "published_at": "2026-06-18T12:05:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2LQXrGKq3t0/hqdefault.jpg"
     },
     {
       "title": "life of an AI startup founder/CEO",
@@ -69,20 +61,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/hl-6GpwoTfA/hqdefault.jpg"
     },
     {
-      "title": "when you rob a big tech company, but the employees are...",
-      "video_id": "synJZAtH58E",
-      "channel_title": "Joma Tech",
-      "description": "If you like this video, checkout \"If Yu-Gi-Oh was about Tech Jobs\": https://youtu.be/2LQXrGKq3t0?si=AUEOdSIrDPWbPAjM ...",
-      "published_at": "2022-11-11T14:29:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/synJZAtH58E/hqdefault.jpg"
-    },
-    {
       "title": "if “normal” job interviews were like coding interviews",
       "video_id": "bn_KRzohcAo",
       "channel_title": "Joma Tech",
       "description": "Leetcode Hard: What is your major weakness? SOCIAL MEDIA ...",
       "published_at": "2022-10-11T21:52:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bn_KRzohcAo/hqdefault.jpg"
+    },
+    {
+      "title": "If Programming Was an Anime 3",
+      "video_id": "DlKl8me4Npw",
+      "channel_title": "Joma Tech",
+      "description": "Kodocharenji = Code Challenge For the people who don't speak anime Production Glorified Tripod - John Zeng ...",
+      "published_at": "2022-09-14T15:45:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DlKl8me4Npw/hqdefault.jpg"
+    },
+    {
+      "title": "every “entrepreneur” influencer ever...",
+      "video_id": "CK_BCMA9yoY",
+      "channel_title": "Joma Tech",
+      "description": "Same video, different industry. I stole the fist joke from @CodyKo Social Media https://www.instagram.com/jomakaze/ ...",
+      "published_at": "2022-08-04T14:52:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CK_BCMA9yoY/hqdefault.jpg"
     }
   ]
 }

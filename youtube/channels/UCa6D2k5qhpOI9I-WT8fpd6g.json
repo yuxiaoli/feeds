@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-23T01:28:30.432680",
+  "fetched_at": "2026-08-30T04:24:03.533655",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "Agent搜索和记忆的基础设施：腾讯云 Elastichsearch Service 企业版详细攻略",
+      "video_id": "ky7_1K3wfAY",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 引言02:02 腾讯云ES企业版05:15 ES极简教程07:50 RAG应用.",
+      "published_at": "2026-08-26T10:45:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ky7_1K3wfAY/hqdefault.jpg"
+    },
     {
       "title": "Pi 大道至简，超越Codex和Claude Code的极简Agent，保姆级全攻略， 一期视频精通",
       "video_id": "HhZcnM9tR7s",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 从零开始，把新电脑打造成全能AI Agent运行平台。 解锁Claude Code ...",
       "published_at": "2026-04-21T12:01:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7JltMHmSvuY/hqdefault.jpg"
-    },
-    {
-      "title": "告别一切重复枯燥任务，CLI+Skill搭建AI浏览器自动化框架",
-      "video_id": "nlK7-zuYDcs",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 这套流程可以让AI自动操作浏览器，代替你完成一切机械重复性工作。",
-      "published_at": "2026-04-11T14:31:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nlK7-zuYDcs/hqdefault.jpg"
     }
   ]
 }

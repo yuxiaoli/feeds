@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-23T01:28:34.604268",
+  "fetched_at": "2026-08-30T04:24:08.114304",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Beoplay H100",
+      "video_id": "dcpgR8d9tQE",
+      "channel_title": "Bang & Olufsen",
+      "description": "Less hustle. More flow. Feel the difference with Beoplay H100. #BangOlufsen.",
+      "published_at": "2026-08-23T12:00:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dcpgR8d9tQE/hqdefault.jpg"
+    },
     {
       "title": "Beoplay H100",
       "video_id": "cmtwtp_SSL4",
@@ -75,14 +83,6 @@
       "description": "Every element, considered. Every detail, intentional. Meet Beosound A1 3rd Gen Fragment Edition. Created in collaboration with ...",
       "published_at": "2026-06-05T10:00:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/W5siqoTN8Ks/hqdefault.jpg"
-    },
-    {
-      "title": "Bang &amp; Olufsen and Fragment: arriving worldwide",
-      "video_id": "xsUSCOi3nbg",
-      "channel_title": "Bang & Olufsen",
-      "description": "For those who know. This is Bang & Olufsen and Fragment: four iconic products, four new ways to experience beautiful sound.",
-      "published_at": "2026-06-03T08:00:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xsUSCOi3nbg/hqdefault.jpg"
     }
   ]
 }

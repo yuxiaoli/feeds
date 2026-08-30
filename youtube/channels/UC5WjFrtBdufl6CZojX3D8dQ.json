@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-08-23T01:27:57.420408",
+  "fetched_at": "2026-08-30T04:23:28.660754",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Pet Mode keeps your dog chillin’",
+      "video_id": "9D1FnEJ4_HU",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-08-27T20:39:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9D1FnEJ4_HU/hqdefault.jpg"
+    },
+    {
+      "title": "Deploying Megapack At Scale",
+      "video_id": "32C0_8_296k",
+      "channel_title": "Tesla",
+      "description": "At Tesla, we think about the full project as our product. Executing Megapack projects at scale is extremely complex. Our products ...",
+      "published_at": "2026-08-25T17:06:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/32C0_8_296k/hqdefault.jpg"
+    },
     {
       "title": "Tesla Cathode Factory",
       "video_id": "tMhp4-ylrdE",
@@ -11,38 +27,6 @@
       "description": "We are operating the first large scale Cathode production facility in North America as part of our 4680 cell production in Austin, TX.",
       "published_at": "2026-08-21T20:40:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tMhp4-ylrdE/hqdefault.jpg"
-    },
-    {
-      "title": "BAMF",
-      "video_id": "O_Ndcx1LArU",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-08-20T18:43:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O_Ndcx1LArU/hqdefault.jpg"
-    },
-    {
-      "title": "When it rains, it summons",
-      "video_id": "8gvyWy-hCM8",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-07-31T16:31:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8gvyWy-hCM8/hqdefault.jpg"
-    },
-    {
-      "title": "Y like my sootcase",
-      "video_id": "isfJqgyGRFE",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-07-29T22:24:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/isfJqgyGRFE/hqdefault.jpg"
-    },
-    {
-      "title": "Look Up | Model Y L Glass Roof",
-      "video_id": "xSj6rVtQrpc",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-07-29T00:58:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xSj6rVtQrpc/hqdefault.jpg"
     },
     {
       "title": "Tesla Q2 2026 Financial Results and Q&amp;A Webcast",
@@ -53,22 +37,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/9H5y9Uag8AA/hqdefault.jpg"
     },
     {
-      "title": "Sensitive Seats | Model Y L",
-      "video_id": "GI8qKCGxN6I",
-      "channel_title": "Tesla",
-      "description": "When detecting an obstruction, Model Y Long Wheelbase powered seats & liftgate automatically pop back up.",
-      "published_at": "2026-07-21T16:49:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GI8qKCGxN6I/hqdefault.jpg"
-    },
-    {
-      "title": "Autobidder | Tesla Megapack",
-      "video_id": "NqQnHWa-Vxs",
-      "channel_title": "Tesla",
-      "description": "Autobidder is Tesla's energy trading and battery optimization service, designed for Megapack. With Autobidder, battery operators ...",
-      "published_at": "2026-07-07T19:32:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NqQnHWa-Vxs/hqdefault.jpg"
-    },
-    {
       "title": "Tesla Home: Home Energy Management, Powered by AI",
       "video_id": "8aGMLbS3NAo",
       "channel_title": "Tesla",
@@ -77,12 +45,44 @@
       "thumbnail_url": "https://i.ytimg.com/vi/8aGMLbS3NAo/hqdefault.jpg"
     },
     {
-      "title": "How Tesla Vision Helps Deploy Airbags Earlier",
-      "video_id": "Vb-OqxUWPDE",
+      "title": "Tesla Q1 2026 Financial Results and Q&amp;A Webcast",
+      "video_id": "qO7T5zgRvXM",
       "channel_title": "Tesla",
-      "description": "Tesla Vision allows us to deploy airbags up to 70 milliseconds earlier if your Tesla detects an unavoidable collision. Impact ...",
-      "published_at": "2026-06-22T20:18:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Vb-OqxUWPDE/hqdefault.jpg"
+      "description": "Start of call: https://youtu.be/qO7T5zgRvXM?t=415.",
+      "published_at": "2026-04-22T22:34:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qO7T5zgRvXM/hqdefault.jpg"
+    },
+    {
+      "title": "Move any Model Y seat without leaving your seat",
+      "video_id": "mJxWpWRK4lw",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-10-22T16:22:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mJxWpWRK4lw/hqdefault.jpg"
+    },
+    {
+      "title": "Vote Your Tesla Shares",
+      "video_id": "6JwClvNwoYw",
+      "channel_title": "Tesla",
+      "description": "Tesla's Annual Meeting is coming up on November 6 & we need your vote! Optimus will show you how. Voting is quick and easy ...",
+      "published_at": "2025-10-06T21:08:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6JwClvNwoYw/hqdefault.jpg"
+    },
+    {
+      "title": "Sustainable Abundance | Master Plan Part IV",
+      "video_id": "AnunTXBwOlk",
+      "channel_title": "Tesla",
+      "description": "Master Plan Part IV – https://x.com/Tesla/status/1962591324022153607 Since Tesla's founding, each iteration of our master plan ...",
+      "published_at": "2025-09-02T19:29:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AnunTXBwOlk/hqdefault.jpg"
+    },
+    {
+      "title": "Autonomous Tesla Delivery | Full Drive",
+      "video_id": "lRRtW16GalE",
+      "channel_title": "Tesla",
+      "description": "Full drive in 1x speed This Tesla drove itself from Gigafactory Texas to its new owner's home ~30min away — crossing parking ...",
+      "published_at": "2025-06-28T14:16:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lRRtW16GalE/hqdefault.jpg"
     }
   ]
 }

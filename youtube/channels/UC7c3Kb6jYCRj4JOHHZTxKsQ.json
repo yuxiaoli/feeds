@@ -1,24 +1,56 @@
 {
-  "fetched_at": "2026-08-23T01:27:58.712457",
+  "fetched_at": "2026-08-30T04:23:30.029280",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 8,
+  "count": 7,
   "videos": [
     {
-      "title": "GitHub OAuth apps now support refresh tokens and multiple callback URLs",
-      "video_id": "k7VtVpvwIvM",
+      "title": "Open Source Friday: The Zephyr Project",
+      "video_id": "58rKMb123h0",
       "channel_title": "GitHub",
-      "description": "GitHub OAuth apps now support 8-hour access tokens paired with 6-month refresh tokens. In this changelog update, learn how to ...",
-      "published_at": "2026-08-22T15:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k7VtVpvwIvM/hqdefault.jpg"
+      "description": "Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. In this stream of Open Source ...",
+      "published_at": "2026-08-29T06:01:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/58rKMb123h0/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday with Caveman",
-      "video_id": "_VroXl0Wc78",
+      "title": "Rubber Duck Thursdays",
+      "video_id": "RCUYVFcfw8Y",
       "channel_title": "GitHub",
-      "description": "Join us for Open Source Friday with Julius Brussee, creator of Caveman, an open source toolkit that compresses prompts to ...",
-      "published_at": "2026-08-22T05:56:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_VroXl0Wc78/hqdefault.jpg"
+      "description": "Come join us as we explore GitHub, GitHub Copilot, development, and whatever else! Def excited about canvases, so if you're ...",
+      "published_at": "2026-08-28T07:12:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RCUYVFcfw8Y/hqdefault.jpg"
+    },
+    {
+      "title": "Jueves de Quack con Gisela, hablamos de WebMCP",
+      "video_id": "9ZhKn8hA_sI",
+      "channel_title": "GitHub",
+      "description": "En este Jueves de Quack, Bruno y Gisela se juntan para charlar de WebMCP y y de cómo hacer sitios agent-ready con ...",
+      "published_at": "2026-08-28T03:18:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9ZhKn8hA_sI/hqdefault.jpg"
+    },
+    {
+      "title": "RDT: Trying the new GitHub Copilot Teams and Slack Integration",
+      "video_id": "Q3Q4ywUrY2A",
+      "channel_title": "GitHub",
+      "description": "In this stream we will try out the GitHub Copilot Teams and Slack Integration.",
+      "published_at": "2026-08-27T23:49:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q3Q4ywUrY2A/hqdefault.jpg"
+    },
+    {
+      "title": "OpenClaw Went Viral. Meet the Maintainers Building and Securing It.",
+      "video_id": "5VSwaUXtPIE",
+      "channel_title": "GitHub",
+      "description": "Sit down with OpenClaw creator Peter Steinberger and key maintainers to learn what it takes to build and scale the fastest ...",
+      "published_at": "2026-08-27T16:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5VSwaUXtPIE/hqdefault.jpg"
+    },
+    {
+      "title": "GitHub Copilot app for beginners: using the diff, terminal, and browser",
+      "video_id": "IyWlcES85Zw",
+      "channel_title": "GitHub",
+      "description": "When an AI agent makes a change, checking that code usually means bouncing between your editor, terminal, and browser.",
+      "published_at": "2026-08-25T15:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IyWlcES85Zw/hqdefault.jpg"
     },
     {
       "title": "Rubber Duck Thursday",
@@ -27,46 +59,6 @@
       "description": "Cameron Hamilton, founder of Alliance AI, joins Rubber Duck Thursday to talk about building HALIE, his personal AI agent.",
       "published_at": "2026-08-21T22:45:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Osp54zk7Hco/hqdefault_live.jpg"
-    },
-    {
-      "title": "The Download: GitHub OAuth refresh tokens, Cloudflare MCP detection, terminal animations &amp; more",
-      "video_id": "BwhlIP-0m2c",
-      "channel_title": "GitHub",
-      "description": "Welcome back to The Download! This week, we explore the GitHub Universe 2026 speaker lineup and dive into major updates ...",
-      "published_at": "2026-08-21T16:47:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BwhlIP-0m2c/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursdays! Come code and cowork!",
-      "video_id": "CySDfO_tsG8",
-      "channel_title": "GitHub",
-      "description": "Today we're going to check out some new goodies coming to GitHub.",
-      "published_at": "2026-08-21T07:04:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CySDfO_tsG8/hqdefault.jpg"
-    },
-    {
-      "title": "Jueves de Quack con Alejandro Menocal",
-      "video_id": "dscJaFB7oBU",
-      "channel_title": "GitHub",
-      "description": "Jueves de Quack con @acolombiadev y Alejandro Menocal Descubre GitHub Agentic Workflows: un archivo Markdown, ...",
-      "published_at": "2026-08-21T03:18:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dscJaFB7oBU/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursday Livestream - AMA",
-      "video_id": "ZH8N8RiG1bg",
-      "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2026-08-20T23:46:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZH8N8RiG1bg/hqdefault.jpg"
-    },
-    {
-      "title": "How a single README became a free cloud engineering platform",
-      "video_id": "dD8Th4Ro2vA",
-      "channel_title": "GitHub",
-      "description": "Five years ago, GPS set out to create a simple README file on GitHub to share cloud engineering knowledge. What started as a ...",
-      "published_at": "2026-08-20T15:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dD8Th4Ro2vA/hqdefault.jpg"
     }
   ]
 }

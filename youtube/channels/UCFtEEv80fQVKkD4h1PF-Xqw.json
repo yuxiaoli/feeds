@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-08-23T01:28:07.769357",
+  "fetched_at": "2026-08-30T04:23:39.539709",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
+    {
+      "title": "Tech, labor, and token costs: the new AI math",
+      "video_id": "J-3FSw6Upqs",
+      "channel_title": "Microsoft",
+      "description": "In this WorkLab podcast clip, Andy Doyle, Kantar's Chief People and Agent Officer, lays out the new math facing enterprises: tech ...",
+      "published_at": "2026-08-26T20:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J-3FSw6Upqs/hqdefault.jpg"
+    },
+    {
+      "title": "The AI skill everyone should have",
+      "video_id": "3zrMcVRZKFA",
+      "channel_title": "Microsoft",
+      "description": "In this WorkLab podcast clip, Andy Doyle, Kantar's Chief People and Agent Officer, explains why deploying AI isn't the same as ...",
+      "published_at": "2026-08-24T20:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3zrMcVRZKFA/hqdefault.jpg"
+    },
+    {
+      "title": "This company has more AI agents than employees",
+      "video_id": "3_sQZRkwU2g",
+      "channel_title": "Microsoft",
+      "description": "When market research firm Kantar handed Copilot licenses to every employee, chaos and creativity erupted. Andy Doyle, Kantar ...",
+      "published_at": "2026-08-24T16:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3_sQZRkwU2g/hqdefault.jpg"
+    },
     {
       "title": "3 skills you need in the age of AI",
       "video_id": "qH1qnCBPw8g",
@@ -59,30 +83,6 @@
       "description": "Infrastructure doesn't just move people and goods—it moves a nation forward. George Washington recognized this in 1785 when ...",
       "published_at": "2026-07-16T15:18:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2MjbwnXArD0/hqdefault.jpg"
-    },
-    {
-      "title": "Nonprofits empower a nation of problem solvers | Episode 4",
-      "video_id": "CvB_VBSF-mk",
-      "channel_title": "Microsoft",
-      "description": "In 1831, Alexis de Tocqueville arrived in Cincinnati, Ohio, and saw something that set America apart. Looking out over a young ...",
-      "published_at": "2026-07-14T15:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CvB_VBSF-mk/hqdefault.jpg"
-    },
-    {
-      "title": "The real reason AI efforts fail",
-      "video_id": "KNPXPewypDU",
-      "channel_title": "Microsoft",
-      "description": "Why is AI so hard to scale beyond experimentation? WorkLab podcast clip. Rana el Kaliouby, AI scientist and entrepreneur ...",
-      "published_at": "2026-07-13T20:22:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KNPXPewypDU/hqdefault.jpg"
-    },
-    {
-      "title": "Why AI adoption fails (and how to fix it)",
-      "video_id": "mlXbfJf80k8",
-      "channel_title": "Microsoft",
-      "description": "AI's promise is real—but the challenge to realizing its value isn't technology, it's people. AI scientist, entrepreneur, and investor ...",
-      "published_at": "2026-07-13T15:30:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mlXbfJf80k8/hqdefault.jpg"
     }
   ]
 }

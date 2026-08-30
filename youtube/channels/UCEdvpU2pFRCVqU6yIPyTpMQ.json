@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-08-23T01:28:04.396398",
+  "fetched_at": "2026-08-30T04:23:35.959595",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "“Hollow” out now",
+      "video_id": "KM6mXZiAzoA",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-08-28T17:19:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KM6mXZiAzoA/hqdefault.jpg"
+    },
+    {
+      "title": "Cooking something up… @camwhitcomb",
+      "video_id": "3a3SxtqjKXA",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-08-26T19:33:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3a3SxtqjKXA/hqdefault.jpg"
+    },
     {
       "title": "One week until “Hollow” @camwhitcomb",
       "video_id": "KXXMeECz_Y0",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-07-28T18:51:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/co1uqxWcHos/hqdefault.jpg"
-    },
-    {
-      "title": "She knows what she wants @KelseaBallerini",
-      "video_id": "f5hNN-G0IiI",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2026-06-25T19:09:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f5hNN-G0IiI/hqdefault.jpg"
-    },
-    {
-      "title": "Too bad I’m only 6ft @KelseaBallerini",
-      "video_id": "2qct6fEPgm0",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2026-06-20T18:56:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2qct6fEPgm0/hqdefault.jpg"
     }
   ]
 }

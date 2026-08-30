@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-08-23T01:28:32.592775",
+  "fetched_at": "2026-08-30T04:24:05.868795",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
     {
-      "title": "The big brain for the big work...  #aiagents #buildinpublic #deeplearning #jetbrains @JetBrainsTV",
-      "video_id": "tRz2bxfPJbE",
+      "title": "Spec-driven development and local AI are a natural pair.",
+      "video_id": "YVluf1-g0wY",
       "channel_title": "DeepLearningAI",
-      "description": "The big brain for the big work, the little brain for the little work. Paul Everitt's rule for splitting coding tasks between frontier and ...",
-      "published_at": "2026-08-20T13:46:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tRz2bxfPJbE/hqdefault.jpg"
+      "description": "Spec-driven development and local AI are a natural pair: clear specs give smaller models a real shot at the work. Paul Everitt ...",
+      "published_at": "2026-08-28T13:30:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YVluf1-g0wY/hqdefault.jpg"
     },
     {
-      "title": "Take back control of your AI coding workflow",
-      "video_id": "xUXJuPC7gz0",
+      "title": "AI Dev 26 x SF | Daniel Beutel: Flower SuperGrid Agents",
+      "video_id": "C5oYk1bn4_o",
       "channel_title": "DeepLearningAI",
-      "description": "Learn More: https://bit.ly/4q6zSEc AI coding agents like Claude Code and Codex give you a ready-made way to work.",
-      "published_at": "2026-08-12T15:30:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xUXJuPC7gz0/hqdefault.jpg"
+      "description": "At AI Dev 26 x San Francisco, Flower Lab's Daniel Beutel talked about Flower SuperGrid, the industry standard for Federated AI.",
+      "published_at": "2026-05-22T16:44:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/C5oYk1bn4_o/hqdefault.jpg"
     },
     {
-      "title": "3rd Place Winner: Voice AI Prevents Data Loss. Coding Agent Calls Developer Before Deleting Records",
-      "video_id": "Z4PB98qZBRU",
+      "title": "AI Dev 26 x SF | Diamond Bishop: The Next 100 Agents. Building the Agent Native Office",
+      "video_id": "wKAeqSfIX5g",
       "channel_title": "DeepLearningAI",
-      "description": "In this finalist demo for the 7-Day Voice AI Builder Challenge with @VocalBridgeAI, developer Sapna shows how voice escalation ...",
-      "published_at": "2026-08-05T14:41:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z4PB98qZBRU/hqdefault.jpg"
+      "description": "Building your first agent is exciting. Building a platform that can evolve into an office where dozens of teams can safely deploy ...",
+      "published_at": "2026-05-22T15:52:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wKAeqSfIX5g/hqdefault.jpg"
     },
     {
-      "title": "2nd Place Winner: Coding Agent Calls Developer to Pitch Launch Strategy",
-      "video_id": "BHdin6bLGKQ",
+      "title": "AI Dev 26 x SF: Andrew Ng: The Future of Software Engineering",
+      "video_id": "g8um2AEf5ZA",
       "channel_title": "DeepLearningAI",
-      "description": "In this finalist demo for the 7-Day Voice AI Builder Challenge (in collaboration with @VocalBridgeAI) developer Eugenia sets an ...",
-      "published_at": "2026-08-05T14:41:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BHdin6bLGKQ/hqdefault.jpg"
+      "description": "At AI Dev 26 x San Francisco, Andrew Ng discussed the rapid evolution of software engineering driven by AI coding agents and ...",
+      "published_at": "2026-05-20T18:30:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g8um2AEf5ZA/hqdefault.jpg"
     },
     {
-      "title": "AI writes your code. Who reviews it?",
-      "video_id": "zBjdLgvZWag",
+      "title": "Explore Canvas, OpenAI’s latest interface in this new short course",
+      "video_id": "VARe8flqbjE",
       "channel_title": "DeepLearningAI",
-      "description": "Learn More: https://bit.ly/4pCoIqu Learn how to make AI code review effective and build your own review agent in this short course ...",
-      "published_at": "2026-07-29T15:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zBjdLgvZWag/hqdefault.jpg"
+      "description": "Enroll now: https://bit.ly/3VaJG1M We saw your interest in the ChatGPT Prompt Engineering for Developers course and thought ...",
+      "published_at": "2024-12-04T14:24:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VARe8flqbjE/hqdefault.jpg"
     },
     {
-      "title": "Fast inference changes what you can build",
-      "video_id": "a9V1XgFOa5I",
+      "title": "Generative AI for Everyone, a course from Andrew Ng, is live!",
+      "video_id": "dfeoJ55EcXs",
       "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/3Tg20Zd When an LLM generates text, much of the time goes to moving the model's weights from ...",
-      "published_at": "2026-07-15T15:30:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a9V1XgFOa5I/hqdefault.jpg"
+      "description": "Enroll now: https://bit.ly/3QnncHN Introducing Generative AI for Everyone! Learn directly from Andrew Ng about the technology of ...",
+      "published_at": "2023-11-01T15:05:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dfeoJ55EcXs/hqdefault.jpg"
     },
     {
-      "title": "7-day Voice AI Build Challenge",
-      "video_id": "7D3w87YqfA8",
+      "title": "Accelerating Your AI Career",
+      "video_id": "D1W0kS40otM",
       "channel_title": "DeepLearningAI",
-      "description": "Don't miss a night out because you're watching your terminal. Have your coding agent call you instead! Join the 7-Day Voice AI ...",
-      "published_at": "2026-06-24T17:11:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7D3w87YqfA8/hqdefault.jpg"
+      "description": "0:00-6:45 Opening & Speaker Intro 7:44-13:04 How speakers Andrew Ng, Allie K. Miller, and Shravan Goli got started in AI ...",
+      "published_at": "2022-08-03T19:25:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D1W0kS40otM/hqdefault.jpg"
     },
     {
-      "title": "Voice for AI Agents and Applications",
-      "video_id": "z4gueKVs6Bo",
+      "title": "Prioritizing AI/ML Projects in Your Organization",
+      "video_id": "GK03Wje5Wi8",
       "channel_title": "DeepLearningAI",
-      "description": "Learn more: https://bit.ly/4vPQ3HE Voice is one of the most natural human interfaces, but adding it to AI applications has ...",
-      "published_at": "2026-06-17T15:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z4gueKVs6Bo/hqdefault.jpg"
+      "description": "As AI/ML becomes popular, every product/service organization is looking to add these capabilities to improve business outcomes.",
+      "published_at": "2022-04-28T18:17:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GK03Wje5Wi8/hqdefault.jpg"
     },
     {
-      "title": "Build Your Own App In Just 30 Minutes! Full Course with Andrew Ng",
-      "video_id": "ff3j4olCUig",
+      "title": "#14 Machine Learning Engineering for Production (MLOps) Specialization [Course 1, Week 2, Lesson 6]",
+      "video_id": "quEHyoA94rw",
       "channel_title": "DeepLearningAI",
-      "description": "Earn your certificate here: https://bit.ly/4ejb47H If you've never written code before, this course is for you. In less than 30 minutes, ...",
-      "published_at": "2026-06-02T18:02:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ff3j4olCUig/hqdefault.jpg"
+      "description": "The Machine Learning Engineering for Production (MLOps) Specialization teaches you how to conceptualize, build, and maintain ...",
+      "published_at": "2022-04-21T00:03:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/quEHyoA94rw/hqdefault.jpg"
     },
     {
-      "title": "Semantic Search Starts With Embeddings",
-      "video_id": "S_xwTgs8zmo",
+      "title": "#11 Machine Learning Engineering for Production (MLOps) Specialization [Course 1, Week 2, Lesson 3]",
+      "video_id": "fiDmWKh_WeQ",
       "channel_title": "DeepLearningAI",
-      "description": "Budget” and “financials” are different words, but embeddings understand they're related. That's the foundation behind semantic ...",
-      "published_at": "2026-05-22T19:12:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S_xwTgs8zmo/hqdefault.jpg"
+      "description": "The Machine Learning Engineering for Production (MLOps) Specialization teaches you how to conceptualize, build, and maintain ...",
+      "published_at": "2022-04-21T00:03:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fiDmWKh_WeQ/hqdefault.jpg"
     }
   ]
 }

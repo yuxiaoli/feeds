@@ -1,88 +1,48 @@
 {
-  "fetched_at": "2026-08-23T01:28:14.572433",
+  "fetched_at": "2026-08-30T04:23:46.964556",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
-  "count": 10,
+  "count": 5,
   "videos": [
     {
-      "title": "Where&#39;s Real Enterprise Value?💡",
-      "video_id": "_LqY-1q50pI",
+      "title": "NVIDIA&#39;s Open Source Strategy🤖",
+      "video_id": "mErJBZKasWU",
       "channel_title": "IBM Technology",
-      "description": "80% of enterprise value sits in legacy systems. IBM's distribution network beats frontier models. Here's why orchestration trumps ...",
-      "published_at": "2026-08-21T17:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_LqY-1q50pI/hqdefault.jpg"
+      "description": "NVIDIA's Hugging Face acquisition signals a major shift: open AI is their future. What does this mean for the ecosystem? #nvidia ...",
+      "published_at": "2026-08-28T16:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mErJBZKasWU/hqdefault.jpg"
     },
     {
-      "title": "Stripe buys OpenRouter, Ramp’s AI Index &amp; IBM’s OpenAI deal",
-      "video_id": "8LNH7TxvD14",
+      "title": "IBM’s mainframe chip collab, NVIDIA’s Poolside deal &amp; Ox Alpha’s reveal",
+      "video_id": "QxVS86cDpho",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~OIYjPLWCH This week on Mixture of Experts, we ...",
-      "published_at": "2026-08-21T10:04:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8LNH7TxvD14/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~j8AlVLp98 On episode 122 of Mixture of Experts, ...",
+      "published_at": "2026-08-28T10:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QxVS86cDpho/hqdefault.jpg"
     },
     {
-      "title": "Stop Expecting AI Perfection ❌",
-      "video_id": "GandxSHswYw",
+      "title": "LLM &amp; AI Agent Benchmarks vs Reality: Why AI Applications Break",
+      "video_id": "nVImVgKpoOY",
       "channel_title": "IBM Technology",
-      "description": "AI is like a third grader taking the SATs. We need to become better teachers, not critics. Here's how to shift your AI mindset.",
-      "published_at": "2026-08-20T16:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GandxSHswYw/hqdefault.jpg"
+      "description": "Learn more about LLM Benchmarks here → https://ibm.biz/~e64ktvs52 Your AI model scored high, but does it actually work?",
+      "published_at": "2026-08-27T11:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nVImVgKpoOY/hqdefault.jpg"
     },
     {
-      "title": "AI Agents vs Business Rules: Which Should Make Decisions?",
-      "video_id": "i1ZmNUbRGD4",
+      "title": "AI Model vs Agentic Harness: What Actually Drives AI",
+      "video_id": "ZELPNFXJ4_o",
       "channel_title": "IBM Technology",
-      "description": "Learn more about AI Agents here → https://ibm.biz/~gNNWReB6j Learn more about Business Rules here ...",
-      "published_at": "2026-08-20T11:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i1ZmNUbRGD4/hqdefault.jpg"
+      "description": "Learn more about AI Models here → https://ibm.biz/~fAH1kt7jT AI models alone aren't what makes systems powerful. Martin Keen ...",
+      "published_at": "2026-08-25T11:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZELPNFXJ4_o/hqdefault.jpg"
     },
     {
-      "title": "What should security leaders do with AI? They don’t know.",
-      "video_id": "3zhveTN1VzE",
+      "title": "How AI Coding Agents Understand Your Codebase &amp; Developer Tools",
+      "video_id": "zAe-sau06io",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/~msEZOskFL Cybersecurity leaders are flush with cash—earmarked for AI, mind you—and ...",
-      "published_at": "2026-08-19T10:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3zhveTN1VzE/hqdefault.jpg"
-    },
-    {
-      "title": "What Is the AI Security Trilemma? Smart, Fast, or Secure AI?",
-      "video_id": "OvjccOrr-iw",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI Security here → https://ibm.biz/~B0pp9rU0b Can AI be smart, fast, and secure at once? Jeff Crume explains ...",
-      "published_at": "2026-08-18T11:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OvjccOrr-iw/hqdefault.jpg"
-    },
-    {
-      "title": "What Is RAD? Why It Matters in the Age of AI Coding",
-      "video_id": "J0zbWsutyA8",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Rapid Application Development (RAD) here → https://ibm.biz/~t01xtWgB8 AI coding feels new, but the ideas ...",
-      "published_at": "2026-08-17T11:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J0zbWsutyA8/hqdefault.jpg"
-    },
-    {
-      "title": "IBM’s cloud collab, Meta’s Muse Glimmer &amp; OpenAI’s upcoming Astra model",
-      "video_id": "FVXDXi4es8E",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~YOqgkKvh7 This week on Mixture of Experts, our ...",
-      "published_at": "2026-08-14T11:57:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FVXDXi4es8E/hqdefault.jpg"
-    },
-    {
-      "title": "The OWASP LLM Top 10 has a few surprises for you",
-      "video_id": "auS34nm9VAc",
-      "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/~sjnEHEGTG What's the biggest, baddest, most unruly problem in AI security? Turns out that ...",
-      "published_at": "2026-08-12T10:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/auS34nm9VAc/hqdefault.jpg"
-    },
-    {
-      "title": "Anthropic’s sandbox breach, EU’s AI transparency push and DeepSeek’s cost-cutting model",
-      "video_id": "W0wXevMkdMM",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~1cu3BYWak It seems OpenAI isn't the only AI ...",
-      "published_at": "2026-08-07T10:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W0wXevMkdMM/hqdefault.jpg"
+      "description": "Learn more about AI for Code here → https://ibm.biz/~ggidEPSQb Good code is not just code that runs. Prachi Modi explains how ...",
+      "published_at": "2026-08-24T11:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zAe-sau06io/hqdefault.jpg"
     }
   ]
 }

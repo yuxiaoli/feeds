@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-08-23T01:28:44.837045",
+  "fetched_at": "2026-08-30T04:24:19.279680",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "The Cheapest Hack For Glucose",
+      "video_id": "UDGRsSG2Q5o",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-08-26T18:52:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UDGRsSG2Q5o/hqdefault.jpg"
+    },
+    {
+      "title": "This Fruit Tastes Sweet But Isn&#39;t",
+      "video_id": "8snOuMvdDCY",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-08-24T14:57:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8snOuMvdDCY/hqdefault.jpg"
+    },
     {
       "title": "Sweet Breakfast or No Breakfast?",
       "video_id": "Bfi9Z0Ymuz8",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-07-30T15:00:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iAZsVIaJvqQ/hqdefault.jpg"
-    },
-    {
-      "title": "The Best Way to Live Longer",
-      "video_id": "z4NzmlGEgXQ",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-07-28T15:53:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z4NzmlGEgXQ/hqdefault.jpg"
-    },
-    {
-      "title": "2 Things to Know About Kombucha",
-      "video_id": "fi3nS24KlWk",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-07-26T17:46:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fi3nS24KlWk/hqdefault.jpg"
     }
   ]
 }

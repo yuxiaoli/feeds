@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-08-23T01:27:51.671099",
+  "fetched_at": "2026-08-30T04:23:22.384062",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
-    {
-      "title": "Azure small form factor infrastructure: What&#39;s new in 2607",
-      "video_id": "-rTksRjBsGg",
-      "channel_title": "Microsoft Azure",
-      "description": "See the latest enhancements to Azure Local small form factor infrastructure in action. In this demo, we deploy version 2607 on an ...",
-      "published_at": "2026-08-18T15:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-rTksRjBsGg/hqdefault.jpg"
-    },
     {
       "title": "Assess your SQL Server instances for modernization to Azure SQL MI, DB, or VM with Azure Migrate",
       "video_id": "-gNXQHTHj0s",
@@ -77,12 +69,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wGpJdn8frYE/hqdefault.jpg"
     },
     {
-      "title": "Scale Azure compute: Virtual Machine Scale Sets, Azure Compute Fleet, and Scheduled Actions",
-      "video_id": "o6UYBBSDPbQ",
+      "title": "Azure Boost and Cobalt 100 VMs: Arm performance breakthroughs for cloud-native workloads",
+      "video_id": "O5kPJAORTcc",
       "channel_title": "Microsoft Azure",
-      "description": "Learn how to scale Azure Compute efficiently using VM instance mix, Compute Fleet, direct virtualization, standby pools, and ...",
-      "published_at": "2026-03-03T04:09:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o6UYBBSDPbQ/hqdefault.jpg"
+      "description": "Discover how Azure Cobalt 100 Arm‑powered VMs deliver higher throughput, lower latency, and better price‑performance for ...",
+      "published_at": "2026-03-03T04:08:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O5kPJAORTcc/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft Secure Future Initiative advances: Azure network security, in-house chip, and MFA",
+      "video_id": "chLr1kPz01E",
+      "channel_title": "Microsoft Azure",
+      "description": "Learn how Azure strengthens security with the Secure Future Initiative—from identity protection to threat detection and resilient ...",
+      "published_at": "2026-03-03T04:08:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/chLr1kPz01E/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-23T01:28:00.899131",
+  "fetched_at": "2026-08-30T04:23:32.198249",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "1970 Boss 302 Burning Rubber",
+      "video_id": "xXeKyQyUZsE",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-08-25T18:39:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xXeKyQyUZsE/hqdefault.jpg"
+    },
     {
       "title": "2024 Ford Mustang GT in the Rain @90210.eddie #fordmustang #filmmaking #mustang",
       "video_id": "PGN5tSxQQpY",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-07-21T00:14:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1V2j4EnJPLY/hqdefault.jpg"
-    },
-    {
-      "title": "Pure sounds and visuals Dodge Hellcat Redeye #dodge #hellcat",
-      "video_id": "qTFAIf3veCo",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2026-07-10T07:58:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qTFAIf3veCo/hqdefault.jpg"
     }
   ]
 }

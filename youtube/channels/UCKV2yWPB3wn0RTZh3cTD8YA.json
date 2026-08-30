@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-08-23T01:28:13.931477",
+  "fetched_at": "2026-08-30T04:23:46.267595",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "mRNA的第二战场：拆解人类首个肿瘤疫苗三期突破｜对话艾博生物CEO英博【101视频播客】",
+      "video_id": "G-1qbtXJKyQ",
+      "channel_title": "硅谷101",
+      "description": "2026年8月，Moderna与默沙东联合开发的个体化mRNA癌症疫苗公布三期临床积极结果，Moderna股价一度暴涨超过200%。",
+      "published_at": "2026-08-28T05:54:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G-1qbtXJKyQ/hqdefault.jpg"
+    },
+    {
+      "title": "AI可解释性与对齐：J-Space，思维链，AI人格，幻觉，与金门大桥【101视频播客】",
+      "video_id": "J5_90lWxM_o",
+      "channel_title": "硅谷101",
+      "description": "一个模型被问：“会织网的动物有几条腿？”它回答8。问题里没有出现“蜘蛛”，但模型内部其实已经判断这个动物是蜘蛛。研究者没有 ...",
+      "published_at": "2026-08-26T23:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J5_90lWxM_o/hqdefault.jpg"
+    },
     {
       "title": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险",
       "video_id": "89ThCi5qq-A",
@@ -11,30 +27,6 @@
       "description": "2026年还没过完八月，美国五大科技巨头已经发了2081亿美元公司债，是2024年全年的十二倍。钱借来了，数据中心也在盖，可翻 ...",
       "published_at": "2026-08-21T15:06:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/89ThCi5qq-A/hqdefault.jpg"
-    },
-    {
-      "title": "对话前DeepMind曹原：AI for Science爆发，一个新时代到来了",
-      "video_id": "H35nVgNGyo8",
-      "channel_title": "硅谷101",
-      "description": "8月第一周，谷歌灵魂人物Jeff Dean带着其他几位高管离开Google，创办Discovery Loop，将目光投向AI for Science。当大模型学会 ...",
-      "published_at": "2026-08-15T12:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H35nVgNGyo8/hqdefault.jpg"
-    },
-    {
-      "title": "从DeepSeek、Kimi到“黄仁勋联盟”：AI模型开源，到底“开”了什么？",
-      "video_id": "NEHcGq80GQ0",
-      "channel_title": "硅谷101",
-      "description": "DeepSeek、智谱、Kimi接连掀起热潮，黄仁勋亲自下场推动开放模型联盟，AI行业的“开放”正在从中国模型厂商的突围，演变成一场 ...",
-      "published_at": "2026-08-13T03:24:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NEHcGq80GQ0/hqdefault.jpg"
-    },
-    {
-      "title": "挑战GPU、绕过HBM，深挖史上最大芯片背后的Cerebras",
-      "video_id": "l5K_icg5JQA",
-      "channel_title": "硅谷101",
-      "description": "在整个AI行业疯抢HBM的时候，有一家芯片公司，选择了一条不同的路线。 2026年5月，Cerebras登陆纳斯达克，上市首日股价 ...",
-      "published_at": "2026-08-07T02:32:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l5K_icg5JQA/hqdefault.jpg"
     },
     {
       "title": "对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
@@ -53,36 +45,44 @@
       "thumbnail_url": "https://i.ytimg.com/vi/cB_X6AImPjQ/hqdefault.jpg"
     },
     {
-      "title": "对话叶奇意：“寻找”月之暗面杨植麟、中国两代AI、十年人才迁徙，与AGI信仰",
-      "video_id": "Hq4jFGd4YxE",
-      "channel_title": "硅谷101",
-      "description": "近期Kimi K3发布后再次震动硅谷，也把月之暗面推回全球AI竞争的中心。 Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四 ...",
-      "published_at": "2026-07-28T08:32:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hq4jFGd4YxE/hqdefault.jpg"
-    },
-    {
-      "title": "“万能”的AI，为什么偏偏搞不定足球？",
-      "video_id": "jXZGeF6sJOc",
-      "channel_title": "硅谷101",
-      "description": "AI可以写代码、做研究，甚至预测复杂的现实世界，但面对一场足球比赛，它却常常失灵。即使拥有海量数据和顶级算法，AI依然很 ...",
-      "published_at": "2026-07-24T03:42:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jXZGeF6sJOc/hqdefault.jpg"
-    },
-    {
-      "title": "对话Vincent Koc：OpenClaw的反思与进化，中国的“小龙虾”狂热，与Agent的下一步",
-      "video_id": "tnvyMcmtAiw",
-      "channel_title": "硅谷101",
-      "description": "OpenClaw，这个在2026年初引爆全球AI圈的现象级项目，让Mac Mini卖到断货，也引发了关于AI安全与边界的全民讨论。当喧嚣 ...",
-      "published_at": "2026-07-21T01:07:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tnvyMcmtAiw/hqdefault.jpg"
-    },
-    {
       "title": "SK海力士崛起史：一个荒诞又狗血的财阀故事，如何卡住全球AI的脖子",
       "video_id": "nilNLfW7izg",
       "channel_title": "硅谷101",
       "description": "7月10日，SK海力士以ADR形式在纳斯达克挂牌，融资265亿美元，随后市值突破1万亿美元。即便近期经历回调，它的股价仍比一年 ...",
       "published_at": "2026-07-17T12:30:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nilNLfW7izg/hqdefault.jpg"
+    },
+    {
+      "title": "国际足联腐败史：英国老头、足球的权力共生网络与“免死金牌”",
+      "video_id": "i0t3RyLILnw",
+      "channel_title": "硅谷101",
+      "description": "当2026世界杯再次成为全球焦点，很难想象，FIFA这个拥有巨大财富和影响力、掌控全球第一运动的组织，长期以来却只是一个受到 ...",
+      "published_at": "2026-07-13T06:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/i0t3RyLILnw/hqdefault.jpg"
+    },
+    {
+      "title": "AI时代“超级高中生” 、大学外的第三种可能与中国创新教育｜探访北京探月学校",
+      "video_id": "y2bZdXZBeBc",
+      "channel_title": "硅谷101",
+      "description": "又是一年高考季。你还记得当年查成绩、等分数、填志愿的那一天吗？ 最近，一所来自北京的创新学校——探月学校，频繁出现在AI ...",
+      "published_at": "2026-06-26T01:30:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y2bZdXZBeBc/hqdefault.jpg"
+    },
+    {
+      "title": "AI编程火了之后，下一个被资本押注的方向会是什么？",
+      "video_id": "4y9DR2WwW3o",
+      "channel_title": "硅谷101",
+      "description": "田渊栋的判断是：AI research。Coding之所以能快速商业化，是因为它替代的是高薪、高ROI的工作；而AI研究人才更贵，自动化后 ...",
+      "published_at": "2026-06-22T23:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4y9DR2WwW3o/hqdefault.jpg"
+    },
+    {
+      "title": "员工蒸馏：水没有了，鱼要变成“四维生物”",
+      "video_id": "TnauzVQkmBo",
+      "channel_title": "硅谷101",
+      "description": "当公司开始“蒸馏员工”，AI时代的个人价值会发生什么变化？ 在田渊栋看来，Meta的争议只是一个开始：公司想沉淀员工经验、降低 ...",
+      "published_at": "2026-06-22T05:05:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TnauzVQkmBo/hqdefault.jpg"
     }
   ]
 }

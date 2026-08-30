@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-08-23T01:28:17.904114",
+  "fetched_at": "2026-08-30T04:23:50.495448",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "曼德拉效應和既視感，是被抹除的另一段時間線：《遞歸》的科幻故事",
+      "video_id": "hL97kXHiMnM",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2026-08-25T12:30:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hL97kXHiMnM/hqdefault.jpg"
+    },
+    {
+      "title": "遞歸：回到過去的代價",
+      "video_id": "xTMhqIDGnxw",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2026-08-24T13:54:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xTMhqIDGnxw/hqdefault.jpg"
+    },
     {
       "title": "《遞歸》上篇：一場記憶實驗，打開了回到過去的方法｜RECURSION",
       "video_id": "Yu2v1gxBV84",
@@ -67,22 +83,6 @@
       "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
       "published_at": "2026-04-18T12:38:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/J4hrplMqUW8/hqdefault.jpg"
-    },
-    {
-      "title": "这就是你输掉时间战争的方式：因果律的无限循环",
-      "video_id": "BtQhRBvXeXc",
-      "channel_title": "科學漫聊",
-      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
-      "published_at": "2026-03-18T13:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BtQhRBvXeXc/hqdefault.jpg"
-    },
-    {
-      "title": "麦克斯韦方程组统一电磁学，发现电磁波本质，光就是电磁波！ #科普知识 #oppenheimer #百科密码",
-      "video_id": "2qCnEE5il6c",
-      "channel_title": "科學漫聊",
-      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
-      "published_at": "2026-03-11T16:51:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2qCnEE5il6c/hqdefault.jpg"
     }
   ]
 }

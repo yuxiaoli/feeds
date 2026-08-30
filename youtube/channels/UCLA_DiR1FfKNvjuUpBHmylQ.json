@@ -1,48 +1,64 @@
 {
-  "fetched_at": "2026-08-23T01:28:15.900470",
+  "fetched_at": "2026-08-30T04:23:48.363412",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 7,
+  "count": 9,
   "videos": [
+    {
+      "title": "Nancy Grace Roman Space Telescope Prelaunch News Conference (Aug. 29, 2026)",
+      "video_id": "l5OJk1FuEKg",
+      "channel_title": "NASA",
+      "description": "Join us for the latest news on NASA's Nancy Grace Roman Space Telescope, scheduled to lift off from NASA Kennedy on Sunday, ...",
+      "published_at": "2026-08-29T16:34:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l5OJk1FuEKg/hqdefault.jpg"
+    },
+    {
+      "title": "Nancy Grace Roman Space Telescope Science Overview News Conference (Aug. 29, 2026)",
+      "video_id": "0cVnt1bUzLI",
+      "channel_title": "NASA",
+      "description": "Watch as mission experts discuss the science objectives for NASA's Nancy Grace Roman Space Telescope. Named for the ...",
+      "published_at": "2026-08-29T14:05:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0cVnt1bUzLI/hqdefault.jpg"
+    },
+    {
+      "title": "President Donald J. Trump Calls the International Space Station Crew",
+      "video_id": "1icdW32gS8A",
+      "channel_title": "NASA",
+      "description": "On Aug. 28, 2026, President Donald J. Trump spoke with NASA astronauts Jessica Meir, Jack Hathaway, and Anil Menon as they ...",
+      "published_at": "2026-08-28T22:01:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1icdW32gS8A/hqdefault.jpg"
+    },
+    {
+      "title": "Artemis II Congressional Space Medal of Honor Ceremony",
+      "video_id": "tGjffGccQig",
+      "channel_title": "NASA",
+      "description": "Join us as President Donald J. Trump awards each of NASA's Artemis II crew members with the Congressional Space Medal of ...",
+      "published_at": "2026-08-28T17:49:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tGjffGccQig/hqdefault.jpg"
+    },
     {
       "title": "U.S. Spacewalk 98",
       "video_id": "I0j7as4MLHk",
       "channel_title": "NASA",
       "description": "NASA astronaut Anil Menon and ESA (European Space Agency) flight engineer Sophie Adenot will begin a spacewalk at 8:35 ...",
-      "published_at": "2026-08-20T19:27:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I0j7as4MLHk/hqdefault_live.jpg"
+      "published_at": "2026-08-25T20:14:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I0j7as4MLHk/hqdefault.jpg"
     },
     {
-      "title": "U.S. Spacewalk 97",
-      "video_id": "yW-VAhqVJok",
+      "title": "NASA&#39;s Roman Space Telescope: A New Perspective on the Cosmos (Official NASA Trailer)",
+      "video_id": "FkgVB19I6xw",
       "channel_title": "NASA",
-      "description": "At approximately 8:35 a.m. EDT (1235 UTC) on Aug. 18, 2026, NASA astronaut Anil Menon and ESA astronaut Sophie Adenot will ...",
-      "published_at": "2026-08-18T20:27:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yW-VAhqVJok/hqdefault.jpg"
+      "description": "Our newest orbiting observatory, the Nancy Grace Roman Space Telescope, is scheduled to lift off on Aug. 30. After launching, it ...",
+      "published_at": "2026-08-24T21:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FkgVB19I6xw/hqdefault.jpg"
     },
     {
-      "title": "2026 Solar Eclipse @ 50,000 Feet",
-      "video_id": "myZ9kn9MIWQ",
+      "title": "Nancy Grace Roman Space Telescope Launch",
+      "video_id": "9wq3VHsL_bE",
       "channel_title": "NASA",
-      "description": "These views, including footage from GoPro cameras, were captured by NASA's WB-57 aircraft during the 2026 total solar eclipse.",
-      "published_at": "2026-08-14T16:46:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/myZ9kn9MIWQ/hqdefault.jpg"
-    },
-    {
-      "title": "How to Photograph a Total Solar Eclipse",
-      "video_id": "Q5_BtWc-G7Y",
-      "channel_title": "NASA",
-      "description": "On Aug. 12, 2026, a total solar eclipse will be visible in parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, ...",
-      "published_at": "2026-08-10T15:29:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q5_BtWc-G7Y/hqdefault.jpg"
-    },
-    {
-      "title": "NASA Moon Base: Lunar Landers (August 2026 Update)",
-      "video_id": "Sempwv5MPMQ",
-      "channel_title": "NASA",
-      "description": "A permanent human presence on the Moon may sound like science fiction, but it's already taking shape. Over a series of Moon ...",
-      "published_at": "2026-08-04T16:03:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Sempwv5MPMQ/hqdefault.jpg"
+      "description": "Tune in to watch our newest orbiting observatory launch to space. Our Roman Space Telescope is scheduled to lift off at 7:26 a.m. ...",
+      "published_at": "2026-08-20T19:42:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9wq3VHsL_bE/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

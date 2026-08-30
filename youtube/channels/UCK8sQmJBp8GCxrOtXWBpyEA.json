@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-08-23T01:28:11.825232",
+  "fetched_at": "2026-08-30T04:23:43.951019",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 2,
+  "count": 3,
   "videos": [
+    {
+      "title": "Unboxing the brand new Pixel 11 Pro 📦 #MadeByGoogle",
+      "video_id": "QOE798Nd5vw",
+      "channel_title": "Google",
+      "description": "Meet the brand new Google #Pixel11 Pro.",
+      "published_at": "2026-08-26T19:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QOE798Nd5vw/hqdefault.jpg"
+    },
+    {
+      "title": "Come with us to Olympic National Park 🎒",
+      "video_id": "LnSdkakqEVY",
+      "channel_title": "Google",
+      "description": "Packed our salty snacks and headed to Olympic National Park to get a ranger's answers to your most-searched questions.",
+      "published_at": "2026-08-26T16:12:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LnSdkakqEVY/hqdefault.jpg"
+    },
     {
       "title": "The world’s top nature searches answered in one epic national park | Searching For",
       "video_id": "Nm5e9ok8dIg",
@@ -11,14 +27,6 @@
       "description": "We're celebrating National Park Week with a deep dive into Olympic National Park in Washington State. Join us as an official U.S. ...",
       "published_at": "2026-08-22T18:00:20Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Nm5e9ok8dIg/hqdefault.jpg"
-    },
-    {
-      "title": "Go behind closed doors at the Artemis II test facility | Searching For",
-      "video_id": "dWH8n-FkprM",
-      "channel_title": "Google",
-      "description": "Ever wonder what happens behind the doors at NASA? Step inside a test facility as we answer the top trending questions about ...",
-      "published_at": "2026-08-20T17:14:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dWH8n-FkprM/hqdefault.jpg"
     }
   ]
 }

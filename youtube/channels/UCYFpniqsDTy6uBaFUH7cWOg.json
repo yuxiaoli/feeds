@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-08-23T01:28:28.412159",
+  "fetched_at": "2026-08-30T04:24:01.440794",
   "channel_id": "UCYFpniqsDTy6uBaFUH7cWOg",
   "channel_title": "NS Production",
   "count": 10,
   "videos": [
+    {
+      "title": "#shortvideo",
+      "video_id": "Xp_osHjLiRQ",
+      "channel_title": "NS Production",
+      "description": "",
+      "published_at": "2026-08-29T18:09:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xp_osHjLiRQ/hqdefault.jpg"
+    },
+    {
+      "title": "Караван, Чудная Долина #shortvideo",
+      "video_id": "8dc4FgOpnQ4",
+      "channel_title": "NS Production",
+      "description": "",
+      "published_at": "2026-08-28T20:52:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8dc4FgOpnQ4/hqdefault.jpg"
+    },
+    {
+      "title": "Караван, Чудная Долина 2026",
+      "video_id": "AAvv_Zxt5cI",
+      "channel_title": "NS Production",
+      "description": "Karavan Чудная Долина.",
+      "published_at": "2026-08-28T20:15:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AAvv_Zxt5cI/hqdefault.jpg"
+    },
     {
       "title": "Το όνειρό μου",
       "video_id": "9DRq1bRhJ00",
@@ -11,22 +35,6 @@
       "description": "LALI Το όνειρό μου LALI - Мой сон Греческая версия.",
       "published_at": "2026-08-22T17:00:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/9DRq1bRhJ00/hqdefault.jpg"
-    },
-    {
-      "title": "Мой сон (Французская версия)",
-      "video_id": "4cobTEXjKjs",
-      "channel_title": "NS Production",
-      "description": "ANNA - Мой сон Original Song: Таня Буланова Мой сон Французская версия My Dream (French Version) Mon rêve (Version ...",
-      "published_at": "2026-08-19T16:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4cobTEXjKjs/hqdefault.jpg"
-    },
-    {
-      "title": "Sheikh Bola #shortvideo",
-      "video_id": "vvMqhItbKBc",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2026-08-04T11:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vvMqhItbKBc/hqdefault.jpg"
     },
     {
       "title": "#shortvideo",
@@ -38,35 +46,11 @@
     },
     {
       "title": "#shortvideo",
-      "video_id": "6B7qNTYhMaE",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2026-07-28T09:23:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6B7qNTYhMaE/hqdefault.jpg"
-    },
-    {
-      "title": "#shortvideo",
       "video_id": "2Gcq6yRkBxI",
       "channel_title": "NS Production",
       "description": "",
       "published_at": "2026-07-11T15:49:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2Gcq6yRkBxI/hqdefault.jpg"
-    },
-    {
-      "title": "Khachatryans - Escape",
-      "video_id": "X8TlHIYafPw",
-      "channel_title": "NS Production",
-      "description": "Escape - Khachatryans Music: Khachatryans Video: NS Production. ☑NS Production ○Social Networks▽ ...",
-      "published_at": "2026-07-11T12:41:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X8TlHIYafPw/hqdefault.jpg"
-    },
-    {
-      "title": "#shortvideo",
-      "video_id": "yARHYiIX89Y",
-      "channel_title": "NS Production",
-      "description": "",
-      "published_at": "2026-07-09T20:58:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yARHYiIX89Y/hqdefault.jpg"
     },
     {
       "title": "#shortvideo",
@@ -77,12 +61,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7BrU00zFkTg/hqdefault.jpg"
     },
     {
-      "title": "#shortvideo",
-      "video_id": "ObAj4-iCt6Y",
+      "title": "#armenia",
+      "video_id": "RAJHGQIXiCM",
       "channel_title": "NS Production",
       "description": "",
-      "published_at": "2026-07-04T21:00:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ObAj4-iCt6Y/hqdefault.jpg"
+      "published_at": "2026-03-11T06:26:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RAJHGQIXiCM/hqdefault.jpg"
+    },
+    {
+      "title": "#shortvideo",
+      "video_id": "MmRTUX1VCrg",
+      "channel_title": "NS Production",
+      "description": "",
+      "published_at": "2026-03-01T08:04:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MmRTUX1VCrg/hqdefault.jpg"
+    },
+    {
+      "title": "#shortvideo",
+      "video_id": "HQicNYrBJ6M",
+      "channel_title": "NS Production",
+      "description": "",
+      "published_at": "2026-02-27T16:39:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HQicNYrBJ6M/hqdefault.jpg"
     }
   ]
 }

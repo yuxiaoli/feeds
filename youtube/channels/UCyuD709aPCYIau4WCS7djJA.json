@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-08-23T01:28:48.210172",
+  "fetched_at": "2026-08-30T04:24:23.022900",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Sometimes the simplest images say the most. 🌍",
+      "video_id": "Yzs-R_AoJvs",
+      "channel_title": "Star Walk",
+      "description": "Seen from space, there are no borders — only one small world surrounded by darkness. Everything we know and everyone we ...",
+      "published_at": "2026-08-26T07:48:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Yzs-R_AoJvs/hqdefault.jpg"
+    },
+    {
+      "title": "Can we put Earth at the center and make the entire Solar System revolve around it? 🌍✨",
+      "video_id": "kgpr1Jiv5ds",
+      "channel_title": "Star Walk",
+      "description": "Mathematically — yes! If we choose Earth as our reference point, the Sun and planets can be described as moving around us ...",
+      "published_at": "2026-08-25T11:00:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kgpr1Jiv5ds/hqdefault.jpg"
+    },
     {
       "title": "On August 27–28, don’t miss the deep partial lunar eclipse 🌕🔴",
       "video_id": "Y8tjgESU-VI",
@@ -19,14 +35,6 @@
       "description": "Unlike the Sun, it won't damage your eyes, but it can definitely feel uncomfortable. A Moon filter or variable polarizing filter can ...",
       "published_at": "2026-08-21T10:10:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/npCJkj7v5SQ/hqdefault.jpg"
-    },
-    {
-      "title": "A deep partial lunar eclipse is coming! 🌕",
-      "video_id": "ECLrqKfz2lI",
-      "channel_title": "Star Walk",
-      "description": "On August 27–28, 2026, Earth's shadow will cover about 96% of the Full Moon, leaving only a thin bright edge. At the peak, the ...",
-      "published_at": "2026-08-20T06:15:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ECLrqKfz2lI/hqdefault.jpg"
     },
     {
       "title": "August 2026 is bringing not one, but TWO eclipses. Don’t panic—it’s not the apocalypse. 🌞🌕",
@@ -75,14 +83,6 @@
       "description": "From a bright comet and stunning planetary encounters to a total solar eclipse, the Perseids, and a lunar eclipse, this month is ...",
       "published_at": "2026-07-31T11:59:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/k1vCx71hoOQ/hqdefault.jpg"
-    },
-    {
-      "title": "In July 1994, a comet slammed into Jupiter — and we watched it happen ☄️🪐",
-      "video_id": "2OlAEqfperI",
-      "channel_title": "Star Walk",
-      "description": "Comet Shoemaker–Levy 9 had already been torn into 21 fragments by Jupiter's gravity, and between July 16–22, 1994, those ...",
-      "published_at": "2026-07-31T09:20:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2OlAEqfperI/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-23T01:27:54.605276",
+  "fetched_at": "2026-08-30T04:23:25.368080",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "牛来教练VS鲸鱼教练! 谁才是合格的电竞通天代?",
+      "video_id": "VPp3slCVC8Y",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来刚刚发布的DeepSeek-V4-Flash-Vision-Exp 和openrouter 上的匿名模型OX-Alpha 多模态实测! 这次是刚要 ...",
+      "published_at": "2026-08-23T09:54:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VPp3slCVC8Y/hqdefault.jpg"
+    },
     {
       "title": "那么 DeepSeek Harness 能拯救这次 V4-Pro 的发布吗?",
       "video_id": "uy4FVwpR2bU",
@@ -75,14 +83,6 @@
       "description": "GLM-5.2 刚刚正式发布! 给大家带来实测! 直接说结论本次测试中, 提升最大的是Agent能力, 而且是有质的变化! 测试中GLM-5.2 完全 ...",
       "published_at": "2026-06-17T10:08:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bt5x-Eg2cb0/hqdefault.jpg"
-    },
-    {
-      "title": "MiniMax-M3 最佳实践? 这个视频告诉你!",
-      "video_id": "py7M5sZ71Gs",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来MiniMax-M3 实测! 本次测试包含了复杂前端, 后端Agentic Coding, Agent 能力测试, 以及我的使用经验总结. 来看结论: ...",
-      "published_at": "2026-06-04T11:13:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/py7M5sZ71Gs/hqdefault.jpg"
     }
   ]
 }

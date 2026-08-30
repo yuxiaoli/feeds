@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-08-23T01:28:12.530770",
+  "fetched_at": "2026-08-30T04:23:44.758472",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
     {
-      "title": "Warp Software Factory Live Demo",
-      "video_id": "ZKWpzdych6o",
+      "title": "Your agent skills should improve themselves",
+      "video_id": "tjRSWpFnrZc",
       "channel_title": "Warp",
-      "description": "We introduced Warp Factories this week: flexible, open infrastructure for companies building internal cloud software factories.",
-      "published_at": "2026-08-21T09:26:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZKWpzdych6o/hqdefault.jpg"
+      "description": "What if coding agents (Claude Code, Codex, Warp, etc) could improve Skills by reviewing past conversations? Here's the three ...",
+      "published_at": "2026-08-27T16:55:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tjRSWpFnrZc/hqdefault.jpg"
     },
     {
       "title": "What&#39;s it like to work at Warp?",
@@ -21,36 +21,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Th3ShkzPtqQ/hqdefault.jpg"
     },
     {
-      "title": "Introducing Warp Factories",
-      "video_id": "0WBk4ai8y1A",
-      "channel_title": "Warp",
-      "description": "Request early access: warp.dev/factories/request-access Warp Factories provide flexible, open infrastructure to accelerate ...",
-      "published_at": "2026-08-18T14:58:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0WBk4ai8y1A/hqdefault.jpg"
-    },
-    {
-      "title": "We fixed Claude Code&#39;s biggest problem...",
-      "video_id": "ycoLAPxCSxs",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2026-08-17T23:47:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ycoLAPxCSxs/hqdefault.jpg"
-    },
-    {
       "title": "Introducing the Warp Agent CLI: a coding agent that does what others can&#39;t",
       "video_id": "8jDz-1l88K8",
       "channel_title": "Warp",
       "description": "Today we are excited to launch the Warp Agent CLI, a new standalone CLI that lets you use the Warp Agent anywhere. It's the ...",
       "published_at": "2026-08-04T13:54:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8jDz-1l88K8/hqdefault.jpg"
-    },
-    {
-      "title": "Cloud Agents + Software Factories with Safia",
-      "video_id": "FJSQdV0q1u4",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2026-07-22T07:07:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FJSQdV0q1u4/hqdefault.jpg"
     },
     {
       "title": "This is going to REPLACE Claude Code",
@@ -61,28 +37,52 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XKzoeBc8jgs/hqdefault.jpg"
     },
     {
-      "title": "Is the software industry cooked?",
-      "video_id": "b4QdM4DcOfM",
-      "channel_title": "Warp",
-      "description": "ai #claude #startup Watch the full recording: ...",
-      "published_at": "2026-07-14T16:10:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b4QdM4DcOfM/hqdefault.jpg"
-    },
-    {
-      "title": "Intro to Warp - terminal, agents, and cloud",
-      "video_id": "WWcfRaVukZw",
-      "channel_title": "Warp",
-      "description": "Download Warp: https://warp.dev Clone the example repository to follow along: ...",
-      "published_at": "2026-07-10T07:11:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WWcfRaVukZw/hqdefault.jpg"
-    },
-    {
       "title": "What is a software factory? Peter Steinberger explains",
       "video_id": "MaPFUvIdcVs",
       "channel_title": "Warp",
       "description": "Watch the full recording: https://www.warp.dev/events/ai-engineer-after-hours-crafting-software-factories-warp-sequoia.",
       "published_at": "2026-07-09T14:58:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/MaPFUvIdcVs/hqdefault.jpg"
+    },
+    {
+      "title": "Intro to Warp - essentials, Claude Code setup, and cloud orchestration",
+      "video_id": "FynteCUvaRQ",
+      "channel_title": "Warp",
+      "description": "Download Warp: https://warp.dev Clone the example repository to follow along: ...",
+      "published_at": "2026-06-26T07:17:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FynteCUvaRQ/hqdefault.jpg"
+    },
+    {
+      "title": "Intro to Oz",
+      "video_id": "poLkJhO7fdo",
+      "channel_title": "Warp",
+      "description": "00:00 Intro 00:36 Set up an environment 02:55 Live session links 04:02 Scheduling Agents 04:55 Oz CLI 06:35 Start a cloud ...",
+      "published_at": "2026-05-26T19:18:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/poLkJhO7fdo/hqdefault.jpg"
+    },
+    {
+      "title": "How to orchestrate a team of agents in the cloud with Warp",
+      "video_id": "qeR79bhyFOw",
+      "channel_title": "Warp",
+      "description": "Download Warp to run your first /orchestrate command: https://warp.dev Learn more about agent orchestration in Warp: ...",
+      "published_at": "2026-05-20T16:25:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qeR79bhyFOw/hqdefault.jpg"
+    },
+    {
+      "title": "Every terminal should have this feature #ai #coding #codex",
+      "video_id": "xDU3M-U2_Eg",
+      "channel_title": "Warp",
+      "description": "Try Codex in Warp: https://www.warp.dev/agents/codex.",
+      "published_at": "2026-05-20T15:01:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xDU3M-U2_Eg/hqdefault.jpg"
+    },
+    {
+      "title": "Orchestrate a team of agents in Warp",
+      "video_id": "WNwnZybrp60",
+      "channel_title": "Warp",
+      "description": "Download Warp and run /orchestrate: https://warp.dev.",
+      "published_at": "2026-05-19T21:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WNwnZybrp60/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-23T01:28:11.105040",
+  "fetched_at": "2026-08-30T04:23:43.244774",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "茴字有几种写法？看完再也不敢说会Python",
+      "video_id": "ZRo4-ZWIfcI",
+      "channel_title": "码农高天",
+      "description": "这期视频给大家展示一下上一期视频出的题目的答案！或许你做出来了最优解，但是这里一定有你完全想不到的解法！Python就是 ...",
+      "published_at": "2026-08-23T04:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZRo4-ZWIfcI/hqdefault.jpg"
+    },
     {
       "title": "来自PyCon TW的有奖挑战！你敢应战嘛？",
       "video_id": "smx28aI5rcY",
@@ -75,14 +83,6 @@
       "description": "这期视频聊一下overload这个decorator，它可以让我们函数的类型提示更加准确。另外也来聊一下用overload的时候可能遇到的 ...",
       "published_at": "2026-03-22T04:00:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/njFDgzSBM0Q/hqdefault.jpg"
-    },
-    {
-      "title": "圣家堂的美是镜头展示不出来的",
-      "video_id": "l6Nn6-gJcz4",
-      "channel_title": "码农高天",
-      "description": "欧洲之旅的vlog开始啦！第一站，巴塞罗那。巴塞罗那的核心当然是建筑了。圣家堂的美是真的很难用镜头拍出来，圣保罗医院也很 ...",
-      "published_at": "2026-02-28T10:30:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l6Nn6-gJcz4/hqdefault.jpg"
     }
   ]
 }

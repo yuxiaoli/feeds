@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-23T01:27:59.415877",
+  "fetched_at": "2026-08-30T04:23:30.757047",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "What is a robot surgeon? #askaroboticist #bostondynamics #robotics",
+      "video_id": "A0VdM2S3vL4",
+      "channel_title": "Boston Dynamics",
+      "description": "Mark DiLeo, a member of Atlas repair team, shares how Boston Dynamics fixes problems that have never been seen before and ...",
+      "published_at": "2026-08-27T14:22:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/A0VdM2S3vL4/hqdefault.jpg"
+    },
     {
       "title": "Why Does Atlas Have A Head? #askaroboticist #bostondynamics",
       "video_id": "VmBS2N1FzmE",
@@ -75,14 +83,6 @@
       "description": "How did Atlas learn football – and why? Go behind the scenes of School of Football and discover a glimpse of the Next of robotics.",
       "published_at": "2026-06-04T13:33:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/qYy-BwBpxBI/hqdefault.jpg"
-    },
-    {
-      "title": "Do robots need shoes? | Ask a Roboticist #atlas #robot #bostondynamics",
-      "video_id": "GvByvkp6k5s",
-      "channel_title": "Boston Dynamics",
-      "description": "If you've ever worked on your feet all day, you know how important a good pair of shoes is. Mechanical design engineer Chastity ...",
-      "published_at": "2026-06-02T13:56:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GvByvkp6k5s/hqdefault.jpg"
     }
   ]
 }
