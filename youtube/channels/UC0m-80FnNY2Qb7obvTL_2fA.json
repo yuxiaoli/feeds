@@ -1,88 +1,24 @@
 {
-  "fetched_at": "2026-08-30T04:23:22.384062",
+  "fetched_at": "2026-09-06T03:35:23.692859",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
-  "count": 10,
+  "count": 2,
   "videos": [
     {
-      "title": "Assess your SQL Server instances for modernization to Azure SQL MI, DB, or VM with Azure Migrate",
-      "video_id": "-gNXQHTHj0s",
+      "title": "How Microsoft Partners Are Winning the AI Opportunity",
+      "video_id": "G2hyzDJCtf0",
       "channel_title": "Microsoft Azure",
-      "description": "Assess your SQL Server instances for modernization to Azure SQL MI, DB, or VM with Azure Migrate. Learn more: ...",
-      "published_at": "2026-07-15T16:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-gNXQHTHj0s/hqdefault.jpg"
+      "description": "Some partners are waiting for the AI market to mature. Others are building the expertise, capabilities, and customer relationships ...",
+      "published_at": "2026-09-03T23:30:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G2hyzDJCtf0/hqdefault.jpg"
     },
     {
-      "title": "Enhance assessments using advanced insights in Azure Migrate",
-      "video_id": "E4HrIWj4_4k",
+      "title": "Hear from Microsoft Partners on the Azure Modernization Opportunity",
+      "video_id": "NXswQE79wbY",
       "channel_title": "Microsoft Azure",
-      "description": "Enhance assessments using advanced insights in Azure Migrate. Learn more: ...",
-      "published_at": "2026-07-15T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/E4HrIWj4_4k/hqdefault.jpg"
-    },
-    {
-      "title": "Your Fine-Tuned Model Is Your IP: Open Model Strategy for Developers",
-      "video_id": "IEGtTgN-Tmg",
-      "channel_title": "Microsoft Azure",
-      "description": "Why is fine-tuning open models now a core developer strategy? Microsoft Foundry's Yina Arenas and Fireworks AI CEO Lin Qiao ...",
-      "published_at": "2026-06-02T18:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IEGtTgN-Tmg/hqdefault.jpg"
-    },
-    {
-      "title": "A new way to shop Microsoft Marketplace: say hello to intelligent discovery",
-      "video_id": "Ic2ctmKipKo",
-      "channel_title": "Microsoft Azure",
-      "description": "Watch the audio description version: https://msft.it/56Hc A new way to shop Microsoft Marketplace is here. Meet intelligent ...",
-      "published_at": "2026-06-02T17:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ic2ctmKipKo/hqdefault.jpg"
-    },
-    {
-      "title": "Azure Files Native Entra ID support with AVD FSLogix",
-      "video_id": "2qcPG9Gk2e4",
-      "channel_title": "Microsoft Azure",
-      "description": "This video provides a demonstration of how an end-to-end AVD setup in the cloud works seamless with Azure Files SMB for ...",
-      "published_at": "2026-05-13T16:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2qcPG9Gk2e4/hqdefault.jpg"
-    },
-    {
-      "title": "Resiliency by design: Azure compute",
-      "video_id": "HLQJHBRuRuM",
-      "channel_title": "Microsoft Azure",
-      "description": "Azure compute is built for resiliency, automatically detects and replaces unhealthy VMs, scales to meet demand, and minimizes ...",
-      "published_at": "2026-05-01T17:25:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HLQJHBRuRuM/hqdefault.jpg"
-    },
-    {
-      "title": "Banco Bradesco Scales Generative AI on Azure Red Hat OpenShift",
-      "video_id": "4wvoY3Il2x0",
-      "channel_title": "Microsoft Azure",
-      "description": "Banco Bradesco is powering enterprise-scale AI innovation with Microsoft Foundry and Azure API Management, all running on ...",
-      "published_at": "2026-04-06T23:27:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4wvoY3Il2x0/hqdefault.jpg"
-    },
-    {
-      "title": "S2E4 | Is context engineering the new RAG? — The Shift Podcast by Microsoft Azure",
-      "video_id": "wGpJdn8frYE",
-      "channel_title": "Microsoft Azure",
-      "description": "As retrieval augmented generation (RAG) matures, teams are asking a new question: Is context engineering becoming more ...",
-      "published_at": "2026-03-31T19:14:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wGpJdn8frYE/hqdefault.jpg"
-    },
-    {
-      "title": "Azure Boost and Cobalt 100 VMs: Arm performance breakthroughs for cloud-native workloads",
-      "video_id": "O5kPJAORTcc",
-      "channel_title": "Microsoft Azure",
-      "description": "Discover how Azure Cobalt 100 Arm‑powered VMs deliver higher throughput, lower latency, and better price‑performance for ...",
-      "published_at": "2026-03-03T04:08:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O5kPJAORTcc/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Secure Future Initiative advances: Azure network security, in-house chip, and MFA",
-      "video_id": "chLr1kPz01E",
-      "channel_title": "Microsoft Azure",
-      "description": "Learn how Azure strengthens security with the Secure Future Initiative—from identity protection to threat detection and resilient ...",
-      "published_at": "2026-03-03T04:08:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/chLr1kPz01E/hqdefault.jpg"
+      "description": "Modernization isn't a \"someday\" project anymore—it's a now priority. Microsoft partners share why the Azure modernization ...",
+      "published_at": "2026-09-03T23:27:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NXswQE79wbY/hqdefault.jpg"
     }
   ]
 }

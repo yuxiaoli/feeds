@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2026-08-30T04:23:48.363412",
+  "fetched_at": "2026-09-06T03:35:49.677580",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 9,
+  "count": 10,
   "videos": [
+    {
+      "title": "What It Takes",
+      "video_id": "90Kgw_SvK4w",
+      "channel_title": "NASA",
+      "description": "NASA is advancing nuclear power and propulsion in space to accomplish President Trump's national space objectives. With SR-1 ...",
+      "published_at": "2026-09-04T18:01:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/90Kgw_SvK4w/hqdefault.jpg"
+    },
+    {
+      "title": "Progress 96 Cargo Ship Launch",
+      "video_id": "cCpf0BOjlLE",
+      "channel_title": "NASA",
+      "description": "A spacecraft carrying food, fuel, and supplies is launching to the International Space Station. Watch along with us. The unpiloted ...",
+      "published_at": "2026-09-04T15:21:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cCpf0BOjlLE/hqdefault_live.jpg"
+    },
+    {
+      "title": "Artemis III: Our Next Step Back to the Moon",
+      "video_id": "jHKf1eHp3eQ",
+      "channel_title": "NASA",
+      "description": "In April 2026, we flew humans to the Moon for the first time in over 50 years during the Artemis II mission. But this mission was only ...",
+      "published_at": "2026-09-03T18:49:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jHKf1eHp3eQ/hqdefault.jpg"
+    },
+    {
+      "title": "For Earth, With Love: Artemis II",
+      "video_id": "MVt2139voxk",
+      "channel_title": "NASA",
+      "description": "Artemis II marked the first astronaut journey to the Moon in over 50 years—a 10-day test flight that carried NASA's Reid Wiseman, ...",
+      "published_at": "2026-09-03T17:14:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MVt2139voxk/hqdefault.jpg"
+    },
+    {
+      "title": "Artemis Origins: Humanity&#39;s Return to the Moon",
+      "video_id": "_oXt3-YDih4",
+      "channel_title": "NASA",
+      "description": "In 1969, NASA landed humans on the Moon for the first time through the Apollo program. Now, we are going back—this time, ...",
+      "published_at": "2026-09-02T17:23:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_oXt3-YDih4/hqdefault.jpg"
+    },
+    {
+      "title": "U.S. Spacewalk 99",
+      "video_id": "-HQOp1-LpU0",
+      "channel_title": "NASA",
+      "description": "NASA astronaut Jessica Meir and ESA (European Space Agency) flight engineer Sophie Adenot will begin a spacewalk at around ...",
+      "published_at": "2026-09-01T20:34:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-HQOp1-LpU0/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s Nancy Grace Roman Space Telescope Launches (Official NASA Recap)",
+      "video_id": "6o3m9Bw67Os",
+      "channel_title": "NASA",
+      "description": "NASA's Nancy Grace Roman Space Telescope successfully lifted off from NASA's Kennedy Space Center in Florida at 7:26 a.m. ...",
+      "published_at": "2026-08-31T21:45:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6o3m9Bw67Os/hqdefault.jpg"
+    },
+    {
+      "title": "Nancy Grace Roman Space Telescope Launch",
+      "video_id": "9wq3VHsL_bE",
+      "channel_title": "NASA",
+      "description": "Tune in to watch our newest orbiting observatory launch to space. Our Roman Space Telescope is scheduled to lift off at 7:26 a.m. ...",
+      "published_at": "2026-08-30T12:29:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9wq3VHsL_bE/hqdefault.jpg"
+    },
     {
       "title": "Nancy Grace Roman Space Telescope Prelaunch News Conference (Aug. 29, 2026)",
       "video_id": "l5OJk1FuEKg",
@@ -13,68 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/l5OJk1FuEKg/hqdefault.jpg"
     },
     {
-      "title": "Nancy Grace Roman Space Telescope Science Overview News Conference (Aug. 29, 2026)",
-      "video_id": "0cVnt1bUzLI",
-      "channel_title": "NASA",
-      "description": "Watch as mission experts discuss the science objectives for NASA's Nancy Grace Roman Space Telescope. Named for the ...",
-      "published_at": "2026-08-29T14:05:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0cVnt1bUzLI/hqdefault.jpg"
-    },
-    {
-      "title": "President Donald J. Trump Calls the International Space Station Crew",
-      "video_id": "1icdW32gS8A",
-      "channel_title": "NASA",
-      "description": "On Aug. 28, 2026, President Donald J. Trump spoke with NASA astronauts Jessica Meir, Jack Hathaway, and Anil Menon as they ...",
-      "published_at": "2026-08-28T22:01:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1icdW32gS8A/hqdefault.jpg"
-    },
-    {
       "title": "Artemis II Congressional Space Medal of Honor Ceremony",
       "video_id": "tGjffGccQig",
       "channel_title": "NASA",
       "description": "Join us as President Donald J. Trump awards each of NASA's Artemis II crew members with the Congressional Space Medal of ...",
       "published_at": "2026-08-28T17:49:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tGjffGccQig/hqdefault.jpg"
-    },
-    {
-      "title": "U.S. Spacewalk 98",
-      "video_id": "I0j7as4MLHk",
-      "channel_title": "NASA",
-      "description": "NASA astronaut Anil Menon and ESA (European Space Agency) flight engineer Sophie Adenot will begin a spacewalk at 8:35 ...",
-      "published_at": "2026-08-25T20:14:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I0j7as4MLHk/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s Roman Space Telescope: A New Perspective on the Cosmos (Official NASA Trailer)",
-      "video_id": "FkgVB19I6xw",
-      "channel_title": "NASA",
-      "description": "Our newest orbiting observatory, the Nancy Grace Roman Space Telescope, is scheduled to lift off on Aug. 30. After launching, it ...",
-      "published_at": "2026-08-24T21:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FkgVB19I6xw/hqdefault.jpg"
-    },
-    {
-      "title": "Nancy Grace Roman Space Telescope Launch",
-      "video_id": "9wq3VHsL_bE",
-      "channel_title": "NASA",
-      "description": "Tune in to watch our newest orbiting observatory launch to space. Our Roman Space Telescope is scheduled to lift off at 7:26 a.m. ...",
-      "published_at": "2026-08-20T19:42:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9wq3VHsL_bE/hqdefault_live.jpg"
-    },
-    {
-      "title": "Live Video from the International Space Station (Official NASA Stream)",
-      "video_id": "M3HKLzjvKPc",
-      "channel_title": "NASA",
-      "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
-      "published_at": "2026-07-30T13:13:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M3HKLzjvKPc/hqdefault_live.jpg"
-    },
-    {
-      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
-      "video_id": "awQzjn72bI0",
-      "channel_title": "NASA",
-      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
-      "published_at": "2026-06-30T13:11:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/awQzjn72bI0/hqdefault_live.jpg"
     }
   ]
 }

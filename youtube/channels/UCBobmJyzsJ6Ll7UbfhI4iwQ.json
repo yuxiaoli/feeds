@@ -1,16 +1,64 @@
 {
-  "fetched_at": "2026-08-30T04:23:33.583666",
+  "fetched_at": "2026-09-06T03:35:34.884092",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 1,
+  "count": 7,
   "videos": [
     {
-      "title": "Template Abilities | Creating in Fortnite",
-      "video_id": "iZ-z7ZAZLCw",
+      "title": "Reading Your Data and Iterating in Fortnite | Creating in Fortnite",
+      "video_id": "QHscnPldfVU",
       "channel_title": "Unreal Engine",
-      "description": "Join us for Creating in Fortnite: Template Abilities, a practical livestream exploring how to use Template Abilities to create ...",
-      "published_at": "2026-08-25T23:37:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iZ-z7ZAZLCw/hqdefault_live.jpg"
+      "description": "Your in-island transaction analytics in Creator Portal tell you more than how much you earned. Conversion rate, ARPDAU ...",
+      "published_at": "2026-09-04T18:16:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QHscnPldfVU/hqdefault_live.jpg"
+    },
+    {
+      "title": "How We Designed a Puzzle Adventure Game in Unreal Engine",
+      "video_id": "tpq66PFyzf0",
+      "channel_title": "Unreal Engine",
+      "description": "In this video, we'll take a look at how we designed a Puzzle Adventure Game using Unreal Engine. This video acts as an overview ...",
+      "published_at": "2026-09-04T15:55:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tpq66PFyzf0/hqdefault.jpg"
+    },
+    {
+      "title": "How a Solo Dev Made a Blueprint Online Multiplayer Game with UE in 7 Days | Inside Unreal",
+      "video_id": "ZdVN9j8dZq8",
+      "channel_title": "Unreal Engine",
+      "description": "Join us as Christopher Main walks through his workflow for creating an \"Online Puzzle Extraction Game\" in 7 days as a solo ...",
+      "published_at": "2026-09-03T20:51:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZdVN9j8dZq8/hqdefault.jpg"
+    },
+    {
+      "title": "Beyond Native: Real-Time Scientific &amp; Cable Simulation in UE5 | Unreal Fest Chicago 2026",
+      "video_id": "ngx2Cy5tkXo",
+      "channel_title": "Unreal Engine",
+      "description": "Forget baked animations. Software developer Skyreal is bringing scientific real-time physics to Unreal Engine 5. Simulating ...",
+      "published_at": "2026-09-03T16:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ngx2Cy5tkXo/hqdefault.jpg"
+    },
+    {
+      "title": "PAK to the Future: UGC in Unreal Engine | Unreal Fest Chicago 2026",
+      "video_id": "wM2IHCymg8A",
+      "channel_title": "Unreal Engine",
+      "description": "User-generated content (UGC) is becoming a core pillar in game development, backed with industry research showing increased ...",
+      "published_at": "2026-09-03T14:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wM2IHCymg8A/hqdefault.jpg"
+    },
+    {
+      "title": "Building Together: Collaboration &amp; Branching Workflows in UEFN | Unreal Fest Chicago 2026",
+      "video_id": "X5fDa4kNW1E",
+      "channel_title": "Unreal Engine",
+      "description": "Collaboration and iteration on Unreal Editor for Fortnite (UEFN) projects gets more challenging as teams and roadmaps grow.",
+      "published_at": "2026-09-02T18:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X5fDa4kNW1E/hqdefault.jpg"
+    },
+    {
+      "title": "Agora Studio’s Real-Time Animation Workflow in UE5 | Unreal Fest Chicago 2026",
+      "video_id": "hc6xf-3uDX8",
+      "channel_title": "Unreal Engine",
+      "description": "In this session recorded at Unreal Fest Chicago 2026, Agora Studio explores how adopting Unreal Engine 5 has redefined the ...",
+      "published_at": "2026-08-30T14:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hc6xf-3uDX8/hqdefault.jpg"
     }
   ]
 }

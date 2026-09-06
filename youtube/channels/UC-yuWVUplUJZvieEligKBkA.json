@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-30T04:23:20.137936",
+  "fetched_at": "2026-09-06T03:35:21.511853",
   "channel_id": "UC-yuWVUplUJZvieEligKBkA",
   "channel_title": "javidx9",
   "count": 10,
   "videos": [
+    {
+      "title": "Life, Dev, Jam &amp; Shed",
+      "video_id": "ZCYm0wkxpv0",
+      "channel_title": "javidx9",
+      "description": "Hello! The annual OLC CodeJam is almost upon us! (albeit a little later this year). Register your interest here: ...",
+      "published_at": "2026-08-31T12:45:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZCYm0wkxpv0/hqdefault.jpg"
+    },
     {
       "title": "olc::PixelGameEngine 3.0 Tech Preview",
       "video_id": "P5-VRRSphfA",
@@ -75,14 +83,6 @@
       "description": "In this tedious and long video, I talk about an easy to use file format that's great for serilizing and deserializing data, i.e. Saving ...",
       "published_at": "2022-11-19T17:21:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jlS1Y2-yKV0/hqdefault.jpg"
-    },
-    {
-      "title": "olc::CodeJam 2022: Theme Reveal Livestream!",
-      "video_id": "-ZvftZAtaZM",
-      "channel_title": "javidx9",
-      "description": "Register here: https://itch.io/jam/olc-codejam-2022.",
-      "published_at": "2022-08-26T19:05:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-ZvftZAtaZM/hqdefault.jpg"
     }
   ]
 }

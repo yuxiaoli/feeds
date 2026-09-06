@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T04:23:43.244774",
+  "fetched_at": "2026-09-06T03:35:44.518378",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
@@ -19,14 +19,6 @@
       "description": "参与规则： 1. 把你的四个（两道题输出分别变成A和C）答案和步骤（怎么改）发到gaogaotiantian@hotmail.com。 2. 我会从总步数 ...",
       "published_at": "2026-08-15T04:00:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/smx28aI5rcY/hqdefault.jpg"
-    },
-    {
-      "title": "下周要去COSCUP做keynote了！",
-      "video_id": "cpz0m1SMFoY",
-      "channel_title": "码农高天",
-      "description": "明天就要出发去台北啦，下周末就要完成我人生中第一次keynote了！我们COSCUP见！",
-      "published_at": "2026-08-01T03:45:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cpz0m1SMFoY/hqdefault.jpg"
     },
     {
       "title": "世界杯踢完想起来了，我去过诺坎普啊！",
@@ -69,20 +61,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/N3lp0CulKxs/hqdefault.jpg"
     },
     {
-      "title": "程序员提升必经之路，改bug之外的工作",
-      "video_id": "WLzhdp478cY",
+      "title": "圣家堂的美是镜头展示不出来的",
+      "video_id": "l6Nn6-gJcz4",
       "channel_title": "码农高天",
-      "description": "我们在遇到bug的时候，经常只是把bug修完就结束了。但是实际上我们还有非常多的事情可以做，这些事无论对项目还是我们本人， ...",
-      "published_at": "2026-04-18T04:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WLzhdp478cY/hqdefault.jpg"
+      "description": "欧洲之旅的vlog开始啦！第一站，巴塞罗那。巴塞罗那的核心当然是建筑了。圣家堂的美是真的很难用镜头拍出来，圣保罗医院也很 ...",
+      "published_at": "2026-02-28T10:30:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l6Nn6-gJcz4/hqdefault.jpg"
     },
     {
-      "title": "【python】终于有人讲怎么用overload了",
-      "video_id": "njFDgzSBM0Q",
+      "title": "【python】自从用了它，我的程序动不动就死锁！",
+      "video_id": "xJSTbtE9nBo",
       "channel_title": "码农高天",
-      "description": "这期视频聊一下overload这个decorator，它可以让我们函数的类型提示更加准确。另外也来聊一下用overload的时候可能遇到的 ...",
-      "published_at": "2026-03-22T04:00:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/njFDgzSBM0Q/hqdefault.jpg"
+      "description": "这期视频给大家介绍一下危险的__del__，讲讲它是怎么在我们的项目中造成死锁的，以及你应该如何规避这种情况的发生。",
+      "published_at": "2026-02-06T10:30:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xJSTbtE9nBo/hqdefault.jpg"
+    },
+    {
+      "title": "Python背后的神秘组织，竟然这么穷！",
+      "video_id": "g4H9M4F0kyk",
+      "channel_title": "码农高天",
+      "description": "Python的发展离不开PSF多年的宣传和推广，今天我也帮忙宣传一下PSF。希望PSF和Python都可以越来越好~ （投币捐款的部分 ...",
+      "published_at": "2026-01-17T09:00:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/g4H9M4F0kyk/hqdefault.jpg"
     }
   ]
 }

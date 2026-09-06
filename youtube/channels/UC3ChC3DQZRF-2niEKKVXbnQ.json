@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-30T04:23:25.368080",
+  "fetched_at": "2026-09-06T03:35:26.735308",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "真神降临还是偏科怪兽？Hy4实测后端能力杀疯了!",
+      "video_id": "zmjCASOSQDw",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来 Hy4 preview 实测! 这次送外卖Agent测试终于下岗啦! 取而代之的是更复杂的多智能体测试, AI不但要控制游戏角色来打怪, ...",
+      "published_at": "2026-09-04T10:54:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zmjCASOSQDw/hqdefault.jpg"
+    },
     {
       "title": "牛来教练VS鲸鱼教练! 谁才是合格的电竞通天代?",
       "video_id": "VPp3slCVC8Y",
@@ -75,14 +83,6 @@
       "description": "给大家分享一个自我迭代Agent 的构建技巧啊, 也是我在今天字节seed-2.1 模型发布demo 中用到的技巧. 这个技巧的核心就是, 干一件 ...",
       "published_at": "2026-06-23T13:56:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/JUn7j9RxijQ/hqdefault.jpg"
-    },
-    {
-      "title": "GLM-5.2实测! 什么才是Agent能力的提升?",
-      "video_id": "bt5x-Eg2cb0",
-      "channel_title": "Karminski-牙医",
-      "description": "GLM-5.2 刚刚正式发布! 给大家带来实测! 直接说结论本次测试中, 提升最大的是Agent能力, 而且是有质的变化! 测试中GLM-5.2 完全 ...",
-      "published_at": "2026-06-17T10:08:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bt5x-Eg2cb0/hqdefault.jpg"
     }
   ]
 }

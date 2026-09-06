@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T04:23:30.757047",
+  "fetched_at": "2026-09-06T03:35:31.908099",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
@@ -13,28 +13,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/A0VdM2S3vL4/hqdefault.jpg"
     },
     {
-      "title": "Why Does Atlas Have A Head? #askaroboticist #bostondynamics",
-      "video_id": "VmBS2N1FzmE",
-      "channel_title": "Boston Dynamics",
-      "description": "Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions about why the current iteration of Atlas has a ...",
-      "published_at": "2026-08-04T13:55:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VmBS2N1FzmE/hqdefault.jpg"
-    },
-    {
       "title": "Spot at Mariana Minerals | Boston Dynamics",
       "video_id": "KywMP9_SyRg",
       "channel_title": "Boston Dynamics",
       "description": "Mariana Minerals is the world's first software-first mining company, using rich data sources from the field to optimize their ...",
       "published_at": "2026-07-22T13:59:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KywMP9_SyRg/hqdefault.jpg"
-    },
-    {
-      "title": "Atlas&#39; Journey to FIFA World Cup 2026™ | Boston Dynamics",
-      "video_id": "cCNkgD3qXvg",
-      "channel_title": "Boston Dynamics",
-      "description": "Following Atlas' first-of-its-kind live performance at the FIFA World Cup 2026™, we caught up with Seth Davis, senior program ...",
-      "published_at": "2026-07-15T13:56:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cCNkgD3qXvg/hqdefault.jpg"
     },
     {
       "title": "Going the Extra Mile with Spot | Boston Dynamics",
@@ -77,12 +61,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SoK05VMIATA/hqdefault.jpg"
     },
     {
-      "title": "School of Football | Making Of | Boston Dynamics x Hyundai",
-      "video_id": "qYy-BwBpxBI",
+      "title": "School of Football | The Rabona | Boston Dynamics x Hyundai",
+      "video_id": "mCcv90sUNbY",
       "channel_title": "Boston Dynamics",
-      "description": "How did Atlas learn football – and why? Go behind the scenes of School of Football and discover a glimpse of the Next of robotics.",
-      "published_at": "2026-06-04T13:33:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qYy-BwBpxBI/hqdefault.jpg"
+      "description": "Atlas takes on the Rabona. No shortcuts. Only practice and repetition lead to mastery. Next Starts Now #Hyundai #NextStartsNow ...",
+      "published_at": "2026-05-28T13:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mCcv90sUNbY/hqdefault.jpg"
+    },
+    {
+      "title": "School of Football | Can football teach a robot to move? | Boston Dynamics x Hyundai",
+      "video_id": "qaqzZK7ZrZk",
+      "channel_title": "Boston Dynamics",
+      "description": "In School of Football, Atlas meets the world's most beloved sport. With the FIFA World Cup 2026 ahead, can football teach a robot ...",
+      "published_at": "2026-05-25T13:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qaqzZK7ZrZk/hqdefault.jpg"
+    },
+    {
+      "title": "Atlas, can you bring me a drink? | Boston Dynamics",
+      "video_id": "3aQWvdCac9o",
+      "channel_title": "Boston Dynamics",
+      "description": "Everyone asks if Atlas can bring them a drink, but this robot can bring you the whole fridge. Using AI-driven behaviors, Atlas is ...",
+      "published_at": "2026-05-18T12:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3aQWvdCac9o/hqdefault.jpg"
     }
   ]
 }

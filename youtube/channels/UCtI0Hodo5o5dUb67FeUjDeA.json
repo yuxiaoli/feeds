@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-08-30T04:24:20.107258",
+  "fetched_at": "2026-09-06T03:36:21.793126",
   "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
   "channel_title": "SpaceX",
   "count": 10,
   "videos": [
-    {
-      "title": "Starship - Critical Path",
-      "video_id": "-a0ecQMq-rM",
-      "channel_title": "SpaceX",
-      "description": "The path to launch is filled with obstacles and success is only possible through the tireless efforts of many working together ...",
-      "published_at": "2026-07-13T20:13:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-a0ecQMq-rM/hqdefault.jpg"
-    },
     {
       "title": "Starship - Test Like You Fly",
       "video_id": "ANe_HW4X8oc",
@@ -19,54 +11,6 @@
       "description": "Three years since the first flight of Starship, the next generation is here. New ship. New booster. New engines. New pad and new ...",
       "published_at": "2026-04-27T22:33:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ANe_HW4X8oc/hqdefault.jpg"
-    },
-    {
-      "title": "Starship&#39;s Tenth Flight Test",
-      "video_id": "rcd_SQZDlnk",
-      "channel_title": "SpaceX",
-      "description": "Starship's tenth flight test lifted off on August 26, 2025, at 6:30 p.m. CT from Starbase, Texas, taking a significant step forward in ...",
-      "published_at": "2025-09-29T22:53:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rcd_SQZDlnk/hqdefault.jpg"
-    },
-    {
-      "title": "Fram2 Polar Orbit Views",
-      "video_id": "BYTE4MtR0do",
-      "channel_title": "SpaceX",
-      "description": "Views from the Dragon spacecraft during Fram2, the first polar-orbit human spaceflight mission to explore Earth with the ...",
-      "published_at": "2025-05-04T23:29:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BYTE4MtR0do/hqdefault.jpg"
-    },
-    {
-      "title": "Starship&#39;s Seventh Flight Test",
-      "video_id": "Pn6e1O5bEyA",
-      "channel_title": "SpaceX",
-      "description": "The first Starship flight test of 2025 flew with ambitious goals: seeking to repeat our previous success of launching and catching ...",
-      "published_at": "2025-02-25T00:31:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Pn6e1O5bEyA/hqdefault.jpg"
-    },
-    {
-      "title": "Making Life Multi-Planetary",
-      "video_id": "T43sbhCKvBY",
-      "channel_title": "SpaceX",
-      "description": "SpaceX was founded to increase access to space and help make life multiplanetary. In just this year, we've launched 114 ...",
-      "published_at": "2024-11-18T20:10:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/T43sbhCKvBY/hqdefault.jpg"
-    },
-    {
-      "title": "Starship&#39;s Fifth Flight Test",
-      "video_id": "hI9HQfCAw64",
-      "channel_title": "SpaceX",
-      "description": "Starship's fifth flight test lifted off on October 13, 2024, with our most ambitious test objectives yet as we work to demonstrate ...",
-      "published_at": "2024-11-06T18:33:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hI9HQfCAw64/hqdefault.jpg"
-    },
-    {
-      "title": "Polaris Dawn",
-      "video_id": "MaJmUUtr2SI",
-      "channel_title": "SpaceX",
-      "description": "On Tuesday, September 10, SpaceX's Falcon 9 launched the Polaris Dawn mission to orbit from Launch Complex 39A at NASA's ...",
-      "published_at": "2024-10-26T17:19:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MaJmUUtr2SI/hqdefault.jpg"
     },
     {
       "title": "Polaris Dawn | Views from Dragon in flight",
@@ -83,6 +27,62 @@
       "description": "A live webcast of the Polaris Dawn EVA will begin about one hour prior to the beginning of the spacewalk on Thursday, ...",
       "published_at": "2024-09-12T05:36:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HIam99L4vf4/hqdefault.jpg"
+    },
+    {
+      "title": "Starlink Mission",
+      "video_id": "iFY7mtzsNKo",
+      "channel_title": "SpaceX",
+      "description": "On Thursday, August 31 at 10:21 p.m. ET, Falcon 9 launched 22 Starlink satellites to low-Earth orbit from Space Launch Complex ...",
+      "published_at": "2023-09-01T02:32:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iFY7mtzsNKo/hqdefault.jpg"
+    },
+    {
+      "title": "Starship Super Heavy Static Fire",
+      "video_id": "ENxZS6PUDuI",
+      "channel_title": "SpaceX",
+      "description": "Live views of Starship Super Heavy Booster 9's second static fire. Stream will begin a few minutes before ignition. As is the case ...",
+      "published_at": "2023-08-25T17:42:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ENxZS6PUDuI/hqdefault.jpg"
+    },
+    {
+      "title": "Starlink Mission",
+      "video_id": "p28VA2pfa2I",
+      "channel_title": "SpaceX",
+      "description": "SpaceX is targeting Saturday, July 15 at 11:50 p.m. ET (3:50 UTC) for a Falcon 9 launch of 54 Starlink satellites to low-Earth orbit ...",
+      "published_at": "2023-07-16T04:02:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p28VA2pfa2I/hqdefault.jpg"
+    },
+    {
+      "title": "Starlink Mission Control Audio",
+      "video_id": "Owzzi4_L3NI",
+      "channel_title": "SpaceX",
+      "description": "This is the vehicle trajectory and mission control audio without any additional commentary. There may be very long periods of ...",
+      "published_at": "2023-07-14T04:45:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Owzzi4_L3NI/hqdefault.jpg"
+    },
+    {
+      "title": "Ax-2 | In-Flight Update with the Crew",
+      "video_id": "YK-ScDtnNlg",
+      "channel_title": "SpaceX",
+      "description": "Join us for the first live, on-orbit update from the Ax-2 crew. Axiom Space's Ax-2 mission is the second all-private human ...",
+      "published_at": "2023-05-22T00:53:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YK-ScDtnNlg/hqdefault.jpg"
+    },
+    {
+      "title": "ViaSat-3 Americas Mission",
+      "video_id": "YFbp6PVbJQA",
+      "channel_title": "SpaceX",
+      "description": "On Sunday, April 30 at 8:26 p.m. ET, Falcon Heavy launched the ViaSat-3 Americas mission, delivering the ViaSat-3 Americas, ...",
+      "published_at": "2023-05-01T05:43:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YFbp6PVbJQA/hqdefault.jpg"
+    },
+    {
+      "title": "USSF-67 Mission",
+      "video_id": "nfxyF1_Ylkk",
+      "channel_title": "SpaceX",
+      "description": "SpaceX is targeting Sunday, January 15 at 5:56 p.m. ET (22:56 UTC) for Falcon Heavy's launch of the USSF-67 mission to a ...",
+      "published_at": "2023-01-15T23:12:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nfxyF1_Ylkk/hqdefault.jpg"
     }
   ]
 }

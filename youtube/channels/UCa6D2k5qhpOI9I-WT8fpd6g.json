@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-08-30T04:24:03.533655",
+  "fetched_at": "2026-09-06T03:36:05.472755",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
-    {
-      "title": "Agent搜索和记忆的基础设施：腾讯云 Elastichsearch Service 企业版详细攻略",
-      "video_id": "ky7_1K3wfAY",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 引言02:02 腾讯云ES企业版05:15 ES极简教程07:50 RAG应用.",
-      "published_at": "2026-08-26T10:45:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ky7_1K3wfAY/hqdefault.jpg"
-    },
     {
       "title": "Pi 大道至简，超越Codex和Claude Code的极简Agent，保姆级全攻略， 一期视频精通",
       "video_id": "HhZcnM9tR7s",
@@ -19,14 +11,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Pi是近期热度超高的AI Agent。用四个字形容那就是大道至简。 Pi只有四 ...",
       "published_at": "2026-08-16T08:00:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HhZcnM9tR7s/hqdefault.jpg"
-    },
-    {
-      "title": "Cherry Studio V2 来了，超详细攻略 + 真实使用场景分享",
-      "video_id": "H1kVXogxpQQ",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "CherryStudio #AI桌面客户端#ai #agent #科技#计算机#教程#编程会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 ...",
-      "published_at": "2026-08-05T09:46:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H1kVXogxpQQ/hqdefault.jpg"
     },
     {
       "title": "一个Skill 让 Agent 自动操作浏览器，告别重复枯燥任务",
@@ -45,28 +29,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gE2Ju2qoGbU/hqdefault.jpg"
     },
     {
-      "title": "Claude Code平替Kimi Code教程：视频理解，数据插件，Goal，Swarm，ACP等进阶玩法",
-      "video_id": "CeQRz8RQkl0",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 引言00:37 基础配置01:09 硬核实战03:30 视频理解04:47 Kimi ...",
-      "published_at": "2026-06-23T08:39:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CeQRz8RQkl0/hqdefault.jpg"
-    },
-    {
       "title": "长期免费使用Codex，Hermes等Agent工具，保姆级攻略",
       "video_id": "FwAQ75QCEoU",
       "channel_title": "技术爬爬虾  TechShrimp",
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》",
       "published_at": "2026-06-03T07:20:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FwAQ75QCEoU/hqdefault.jpg"
-    },
-    {
-      "title": "Git+Github核心概念大串讲，从零到一全攻略，详细实战教程",
-      "video_id": "bWUUHBVg-7E",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 本期视频带来一个Git 与GitHub 核心概念大串讲，我会使用动画讲解结合 ...",
-      "published_at": "2026-05-18T12:03:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bWUUHBVg-7E/hqdefault.jpg"
     },
     {
       "title": "Codex (APP) 保姆级全攻略，海量实战教程， 一期精通Codex",
@@ -83,6 +51,38 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 从零开始，把新电脑打造成全能AI Agent运行平台。 解锁Claude Code ...",
       "published_at": "2026-04-21T12:01:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7JltMHmSvuY/hqdefault.jpg"
+    },
+    {
+      "title": "飞书官方插件一出，龙虾(OpenClaw)的玩法彻底变了",
+      "video_id": "3u9gYM7digA",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 官方插件使用指南： ...",
+      "published_at": "2026-03-14T02:54:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3u9gYM7digA/hqdefault.jpg"
+    },
+    {
+      "title": "阿里除夕开源千问3.5，原生多模态，全网第一手实测",
+      "video_id": "6LCf5tMO3-c",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》",
+      "published_at": "2026-02-16T16:23:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6LCf5tMO3-c/hqdefault.jpg"
+    },
+    {
+      "title": "解构华为云AI Token服务: 可能是最好的DeepSeek大模型推理服务平台",
+      "video_id": "qavZbGbRy2A",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 #人工智能#ai #大模型#华为云#科技#计算机市面上有很多大模型API ...",
+      "published_at": "2026-02-09T03:36:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qavZbGbRy2A/hqdefault.jpg"
+    },
+    {
+      "title": "OpenClaw(Clawdbot) 海量全玩法攻略，本地部署，国内网络使用方法",
+      "video_id": "657wlbtrzG8",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 引言01:47 本地部署04:08 基础玩法06:57 国产友好09:15 Skills ...",
+      "published_at": "2026-01-31T16:06:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/657wlbtrzG8/hqdefault.jpg"
     }
   ]
 }

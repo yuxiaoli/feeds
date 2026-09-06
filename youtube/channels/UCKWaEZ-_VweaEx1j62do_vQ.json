@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-08-30T04:23:46.964556",
+  "fetched_at": "2026-09-06T03:35:48.238844",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
-  "count": 5,
+  "count": 4,
   "videos": [
     {
-      "title": "NVIDIA&#39;s Open Source Strategy🤖",
-      "video_id": "mErJBZKasWU",
+      "title": "Anthropic reveals hardware specs and Claude updates, OpenAI talks security, and Runway&#39;s new model",
+      "video_id": "W3iQbl5R_Jk",
       "channel_title": "IBM Technology",
-      "description": "NVIDIA's Hugging Face acquisition signals a major shift: open AI is their future. What does this mean for the ecosystem? #nvidia ...",
-      "published_at": "2026-08-28T16:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mErJBZKasWU/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~6DuRx9a12 On episode 123 of Mixture of Experts, ...",
+      "published_at": "2026-09-04T10:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W3iQbl5R_Jk/hqdefault.jpg"
+    },
+    {
+      "title": "Skills vs MCP vs RAG vs Memory: What AI Agents Need to Know",
+      "video_id": "X4FVEEegCbk",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about Types of AI Agents here → https://ibm.biz/~P180J8KFb AI agents need more than training data to solve ...",
+      "published_at": "2026-09-03T11:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X4FVEEegCbk/hqdefault.jpg"
+    },
+    {
+      "title": "Why OpenAI is calling for a ‘cyber defense surge.’ Plus: Find Evil! winners and TeamPCP losers",
+      "video_id": "-0p68wKEitE",
+      "channel_title": "IBM Technology",
+      "description": "Explore the podcast → https://ibm.biz/~LR5oerBlh IBM, OpenAI and 100 other organizations released an open letter calling for ...",
+      "published_at": "2026-09-02T10:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-0p68wKEitE/hqdefault.jpg"
     },
     {
       "title": "IBM’s mainframe chip collab, NVIDIA’s Poolside deal &amp; Ox Alpha’s reveal",
@@ -19,30 +35,6 @@
       "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~j8AlVLp98 On episode 122 of Mixture of Experts, ...",
       "published_at": "2026-08-28T10:00:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/QxVS86cDpho/hqdefault.jpg"
-    },
-    {
-      "title": "LLM &amp; AI Agent Benchmarks vs Reality: Why AI Applications Break",
-      "video_id": "nVImVgKpoOY",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about LLM Benchmarks here → https://ibm.biz/~e64ktvs52 Your AI model scored high, but does it actually work?",
-      "published_at": "2026-08-27T11:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nVImVgKpoOY/hqdefault.jpg"
-    },
-    {
-      "title": "AI Model vs Agentic Harness: What Actually Drives AI",
-      "video_id": "ZELPNFXJ4_o",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI Models here → https://ibm.biz/~fAH1kt7jT AI models alone aren't what makes systems powerful. Martin Keen ...",
-      "published_at": "2026-08-25T11:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZELPNFXJ4_o/hqdefault.jpg"
-    },
-    {
-      "title": "How AI Coding Agents Understand Your Codebase &amp; Developer Tools",
-      "video_id": "zAe-sau06io",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI for Code here → https://ibm.biz/~ggidEPSQb Good code is not just code that runs. Prachi Modi explains how ...",
-      "published_at": "2026-08-24T11:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zAe-sau06io/hqdefault.jpg"
     }
   ]
 }

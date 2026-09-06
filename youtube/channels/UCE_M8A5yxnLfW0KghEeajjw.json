@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-30T04:23:35.223896",
+  "fetched_at": "2026-09-06T03:35:36.439837",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Apple Watch Heart Rate: Amanda’s True Apple Watch Story",
+      "video_id": "TVpTonS1QVw",
+      "channel_title": "Apple",
+      "description": "When Amanda's Apple Watch flagged changes in her resting heart rate and overnight vitals, she saw her GP. Doctors uncovered ...",
+      "published_at": "2026-09-02T16:57:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TVpTonS1QVw/hqdefault.jpg"
+    },
     {
       "title": "Apple Event — September 9",
       "video_id": "39BalPDuTo0",
@@ -11,30 +19,6 @@
       "description": "Join us for a special event on September 9 at 10 a.m. PT. Click “Notify me” and we'll send you a reminder before showtime.",
       "published_at": "2026-08-26T16:11:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/39BalPDuTo0/hqdefault_live.jpg"
-    },
-    {
-      "title": "The New Mac Studio with M5 Max and M5 Ultra",
-      "video_id": "3uAIqqg8ZHo",
-      "channel_title": "Apple",
-      "description": "Introducing the new Mac Studio, boosted by M5 Max and M5 Ultra, our most powerful chip for AI and everything else. Pre-order ...",
-      "published_at": "2026-08-25T13:47:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3uAIqqg8ZHo/hqdefault.jpg"
-    },
-    {
-      "title": "The new Mac mini with M6",
-      "video_id": "3WpzNmY35S4",
-      "channel_title": "Apple",
-      "description": "Introducing the far mightier, new Mac mini, with the M6 chip. With up to 40% faster CPU and 2x faster graphics, it's five by five ...",
-      "published_at": "2026-08-25T13:33:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3WpzNmY35S4/hqdefault.jpg"
-    },
-    {
-      "title": "AirPods Max 2: The ultimate over-ear listening experience",
-      "video_id": "RrfJVP-6Quw",
-      "channel_title": "Apple",
-      "description": "AirPods Max 2 delivers high-fidelity audio powered by the H2 chip, with up to 1.5x more Active Noise Cancellation than the ...",
-      "published_at": "2026-08-22T00:25:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RrfJVP-6Quw/hqdefault.jpg"
     },
     {
       "title": "Apple Watch Series 11: The ultimate way to watch your health",
@@ -69,20 +53,36 @@
       "thumbnail_url": "https://i.ytimg.com/vi/sKJ0_NNcJzI/hqdefault.jpg"
     },
     {
-      "title": "iPhone 17e:  Everything you love about iPhone at a wallet-friendly price",
-      "video_id": "9PbBCc16w_c",
-      "channel_title": "Apple",
-      "description": "iPhone 17e delivers exceptional durability and performance, and all-day battery life, in Apple's most affordable iPhone, starting at ...",
-      "published_at": "2026-08-20T20:03:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9PbBCc16w_c/hqdefault.jpg"
-    },
-    {
       "title": "iPad Air: Serious performance with the M4 chip, in a thin and light design",
       "video_id": "exxIynPuCpA",
       "channel_title": "Apple",
       "description": "iPad Air features the M4 chip, delivering incredible performance and advanced graphics, and is built for Apple Intelligence.",
       "published_at": "2026-08-20T19:46:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/exxIynPuCpA/hqdefault.jpg"
+    },
+    {
+      "title": "Apple Creator Studio: Watch Jungle make 11 music videos in 4 days",
+      "video_id": "4lC38dyszj0",
+      "channel_title": "Apple",
+      "description": "",
+      "published_at": "2026-08-15T00:02:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4lC38dyszj0/hqdefault.jpg"
+    },
+    {
+      "title": "Nido de Villanas: Ep. 4 Explosive rumors",
+      "video_id": "cMIAaW-sxzk",
+      "channel_title": "Apple",
+      "description": "Beatriz pressures Armando into manipulating the will and Catalina drops a bomb. Starring Itatí Cantoral, Gabriela Spanic, Ela ...",
+      "published_at": "2026-07-22T01:01:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cMIAaW-sxzk/hqdefault.jpg"
+    },
+    {
+      "title": "Nido de Villanas: Ep. 1 Don Cristóbal’s inheritance",
+      "video_id": "wG_LaKvlcqM",
+      "channel_title": "Apple",
+      "description": "A microdrama shot on iPhone 17 Pro. Don Cristóbal's funeral begins, where Renata, Catalina, Beatriz, and Emiliano say goodbye ...",
+      "published_at": "2026-07-22T01:02:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wG_LaKvlcqM/hqdefault.jpg"
     }
   ]
 }

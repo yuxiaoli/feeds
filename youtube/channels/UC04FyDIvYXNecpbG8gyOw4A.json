@@ -1,24 +1,16 @@
 {
-  "fetched_at": "2026-08-30T04:23:20.855195",
+  "fetched_at": "2026-09-06T03:35:22.230618",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
     {
-      "title": "Check out AI Glasses",
-      "video_id": "sPEQrWH_GDA",
+      "title": "Get the full story behind the light",
+      "video_id": "tsA0C_cbxZY",
       "channel_title": "Meta",
-      "description": "here's everything you need to know about AI glasses—from how we're building with privacy in mind to some of our team's favorite ...",
-      "published_at": "2026-08-28T16:08:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sPEQrWH_GDA/hqdefault.jpg"
-    },
-    {
-      "title": "Hey Meta x Taylor Townsend",
-      "video_id": "Z1FkzCwJevE",
-      "channel_title": "Meta",
-      "description": "Taylor Townsend can be our doubles partner any day.",
-      "published_at": "2026-08-27T19:02:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z1FkzCwJevE/hqdefault.jpg"
+      "description": "privacy wasn't an afterthought in our AI glasses—it was the starting point for how they were built. the light that turns on when ...",
+      "published_at": "2026-09-03T16:16:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tsA0C_cbxZY/hqdefault.jpg"
     },
     {
       "title": "Vintage TVs turned to into unique cat beds",
@@ -83,6 +75,14 @@
       "description": "Meta AI makes snack time better (without the judgement)",
       "published_at": "2026-03-20T14:01:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_yKYHJ64zRM/hqdefault.jpg"
+    },
+    {
+      "title": "Make a Move",
+      "video_id": "ugg35V3ZC9c",
+      "channel_title": "Meta",
+      "description": "Make a move with @oakleymeta HSTNs - they're here for true athletes (and Ray)",
+      "published_at": "2026-02-13T17:01:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ugg35V3ZC9c/hqdefault.jpg"
     }
   ]
 }

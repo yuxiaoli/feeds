@@ -1,32 +1,16 @@
 {
-  "fetched_at": "2026-08-30T04:23:28.660754",
+  "fetched_at": "2026-09-06T03:35:29.653072",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
     {
-      "title": "Pet Mode keeps your dog chillin’",
-      "video_id": "9D1FnEJ4_HU",
+      "title": "The Future Has Arrived | Cybercab",
+      "video_id": "grdt05okn3Q",
       "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-08-27T20:39:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9D1FnEJ4_HU/hqdefault.jpg"
-    },
-    {
-      "title": "Deploying Megapack At Scale",
-      "video_id": "32C0_8_296k",
-      "channel_title": "Tesla",
-      "description": "At Tesla, we think about the full project as our product. Executing Megapack projects at scale is extremely complex. Our products ...",
-      "published_at": "2026-08-25T17:06:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/32C0_8_296k/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Cathode Factory",
-      "video_id": "tMhp4-ylrdE",
-      "channel_title": "Tesla",
-      "description": "We are operating the first large scale Cathode production facility in North America as part of our 4680 cell production in Austin, TX.",
-      "published_at": "2026-08-21T20:40:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tMhp4-ylrdE/hqdefault.jpg"
+      "description": "Our Robotaxi vehicle lineup now includes Cybercab, our first purpose-built autonomous vehicle without a steering wheel or ...",
+      "published_at": "2026-09-04T00:35:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/grdt05okn3Q/hqdefault.jpg"
     },
     {
       "title": "Tesla Q2 2026 Financial Results and Q&amp;A Webcast",
@@ -83,6 +67,22 @@
       "description": "Full drive in 1x speed This Tesla drove itself from Gigafactory Texas to its new owner's home ~30min away — crossing parking ...",
       "published_at": "2025-06-28T14:16:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lRRtW16GalE/hqdefault.jpg"
+    },
+    {
+      "title": "Tesla Delivers Itself to New Owner",
+      "video_id": "GU16hXSSGKs",
+      "channel_title": "Tesla",
+      "description": "The world's first autonomous delivery of a car! This Model Y drove itself from Gigafactory Texas to its new owner's home ~30min ...",
+      "published_at": "2025-06-28T04:48:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GU16hXSSGKs/hqdefault.jpg"
+    },
+    {
+      "title": "Start FSD from Park",
+      "video_id": "j7YqcdJZ0io",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2025-04-07T21:09:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j7YqcdJZ0io/hqdefault.jpg"
     }
   ]
 }

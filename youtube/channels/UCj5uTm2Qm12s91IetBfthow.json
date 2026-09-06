@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-30T04:24:11.732846",
+  "fetched_at": "2026-09-06T03:36:13.625679",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "找需求的3种方式   怎么判断值不值得做",
+      "video_id": "TKOYz2MSgKw",
+      "channel_title": "Find Interesting AI",
+      "description": "",
+      "published_at": "2026-09-05T11:59:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TKOYz2MSgKw/hqdefault.jpg"
+    },
     {
       "title": "这款别人收费的生产力工具，我给开源了",
       "video_id": "DbuRQemay8k",
@@ -19,14 +27,6 @@
       "description": "",
       "published_at": "2026-07-19T23:00:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vXbIS6Oyzts/hqdefault.jpg"
-    },
-    {
-      "title": "小程序开发全流程踩坑总结",
-      "video_id": "4iWHL_MIuhE",
-      "channel_title": "Find Interesting AI",
-      "description": "",
-      "published_at": "2026-07-13T00:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4iWHL_MIuhE/hqdefault.jpg"
     },
     {
       "title": "OPC时代—程序员的营销基础、工具选择、学习建议",
@@ -53,22 +53,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ad4WVB4jcqE/hqdefault.jpg"
     },
     {
-      "title": "程序员这行还能干多久？",
-      "video_id": "IHpim5tDnoM",
-      "channel_title": "Find Interesting AI",
-      "description": "程序员这行还能挺多久？ 同样是程序员，为什么AI对于有的人就是替代，有的就是增强对于刚毕业的新人，程序员这行还能入吗？",
-      "published_at": "2026-04-06T12:58:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IHpim5tDnoM/hqdefault.jpg"
-    },
-    {
-      "title": "一文搞清楚智能体沙箱选型+实战",
-      "video_id": "0ow5UHWSPE4",
-      "channel_title": "Find Interesting AI",
-      "description": "2月Github项目文档： https://my.feishu.cn/wiki/V9XmwzykGiDVVEkhjyXc4DZtn8b?table=tblxMUw26vxvCF07&view=vewmlG2yKn.",
-      "published_at": "2026-03-14T13:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0ow5UHWSPE4/hqdefault.jpg"
-    },
-    {
       "title": "2026二月精品AI论文分享",
       "video_id": "MprHT4AFrXQ",
       "channel_title": "Find Interesting AI",
@@ -83,6 +67,22 @@
       "description": "项目地址：https://github.com/fishfl/simple_saas.",
       "published_at": "2026-02-23T00:00:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CPXEb1MICf4/hqdefault.jpg"
+    },
+    {
+      "title": "2026智能体技术选型总结",
+      "video_id": "KNjA6Jkbyzg",
+      "channel_title": "Find Interesting AI",
+      "description": "知识库 ...",
+      "published_at": "2026-02-10T23:30:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KNjA6Jkbyzg/hqdefault.jpg"
+    },
+    {
+      "title": "2026年1月AI论文分享",
+      "video_id": "0eb30T3Voi8",
+      "channel_title": "Find Interesting AI",
+      "description": "知识库： my.feishu.cn/wiki/TPKwwEiLJibN4ek9fcQcYaZAnDd?",
+      "published_at": "2026-02-01T11:49:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0eb30T3Voi8/hqdefault.jpg"
     }
   ]
 }

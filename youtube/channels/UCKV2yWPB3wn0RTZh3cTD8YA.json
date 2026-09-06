@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-30T04:23:46.267595",
+  "fetched_at": "2026-09-06T03:35:47.426418",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争｜机器人系列",
+      "video_id": "BmcoQDwdkeM",
+      "channel_title": "硅谷101",
+      "description": "机器人需要触觉吗？越来越多人认为答案是肯定的。 黄仁勋近来数次强调触觉在机器人研发中的重要性，并称其为“机器人迈向物理 ...",
+      "published_at": "2026-09-04T01:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BmcoQDwdkeM/hqdefault.jpg"
+    },
     {
       "title": "mRNA的第二战场：拆解人类首个肿瘤疫苗三期突破｜对话艾博生物CEO英博【101视频播客】",
       "video_id": "G-1qbtXJKyQ",
@@ -11,22 +19,6 @@
       "description": "2026年8月，Moderna与默沙东联合开发的个体化mRNA癌症疫苗公布三期临床积极结果，Moderna股价一度暴涨超过200%。",
       "published_at": "2026-08-28T05:54:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/G-1qbtXJKyQ/hqdefault.jpg"
-    },
-    {
-      "title": "AI可解释性与对齐：J-Space，思维链，AI人格，幻觉，与金门大桥【101视频播客】",
-      "video_id": "J5_90lWxM_o",
-      "channel_title": "硅谷101",
-      "description": "一个模型被问：“会织网的动物有几条腿？”它回答8。问题里没有出现“蜘蛛”，但模型内部其实已经判断这个动物是蜘蛛。研究者没有 ...",
-      "published_at": "2026-08-26T23:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J5_90lWxM_o/hqdefault.jpg"
-    },
-    {
-      "title": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险",
-      "video_id": "89ThCi5qq-A",
-      "channel_title": "硅谷101",
-      "description": "2026年还没过完八月，美国五大科技巨头已经发了2081亿美元公司债，是2024年全年的十二倍。钱借来了，数据中心也在盖，可翻 ...",
-      "published_at": "2026-08-21T15:06:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/89ThCi5qq-A/hqdefault.jpg"
     },
     {
       "title": "对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
@@ -83,6 +75,14 @@
       "description": "当公司开始“蒸馏员工”，AI时代的个人价值会发生什么变化？ 在田渊栋看来，Meta的争议只是一个开始：公司想沉淀员工经验、降低 ...",
       "published_at": "2026-06-22T05:05:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/TnauzVQkmBo/hqdefault.jpg"
+    },
+    {
+      "title": "“没有她，SpaceX早倒闭了”：全世界最有权力的女性工程师是如何炼成的",
+      "video_id": "MIyEX1WOuJI",
+      "channel_title": "硅谷101",
+      "description": "马斯克曾说：“没有她，SpaceX早就倒闭了。”她就是SpaceX的总裁兼COO Gwynne Shotwell。过去二十年，当马斯克站在聚光灯下 ...",
+      "published_at": "2026-06-10T09:24:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MIyEX1WOuJI/hqdefault.jpg"
     }
   ]
 }

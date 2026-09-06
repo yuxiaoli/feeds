@@ -1,64 +1,88 @@
 {
-  "fetched_at": "2026-08-30T04:23:30.029280",
+  "fetched_at": "2026-09-06T03:35:31.095705",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 7,
+  "count": 10,
   "videos": [
     {
-      "title": "Open Source Friday: The Zephyr Project",
-      "video_id": "58rKMb123h0",
+      "title": "How to attach images and videos using the GitHub CLI",
+      "video_id": "YD2vfwIcAao",
       "channel_title": "GitHub",
-      "description": "Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. In this stream of Open Source ...",
-      "published_at": "2026-08-29T06:01:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/58rKMb123h0/hqdefault.jpg"
+      "description": "You can now attach images and videos to pull requests, comments, and issues directly from your terminal using the GitHub CLI.",
+      "published_at": "2026-09-05T15:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YD2vfwIcAao/hqdefault.jpg"
     },
     {
-      "title": "Rubber Duck Thursdays",
-      "video_id": "RCUYVFcfw8Y",
+      "title": "Open Source Friday - Your first contribution to OSS",
+      "video_id": "OsYqwxMC1tA",
       "channel_title": "GitHub",
-      "description": "Come join us as we explore GitHub, GitHub Copilot, development, and whatever else! Def excited about canvases, so if you're ...",
-      "published_at": "2026-08-28T07:12:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RCUYVFcfw8Y/hqdefault.jpg"
+      "description": "Open source can feel intimidating when you're staring at a mature repository with thousands of stars and no idea where to start.",
+      "published_at": "2026-09-05T06:12:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OsYqwxMC1tA/hqdefault.jpg"
     },
     {
-      "title": "Jueves de Quack con Gisela, hablamos de WebMCP",
-      "video_id": "9ZhKn8hA_sI",
+      "title": "How Project HydraFusion optimizes quality, cost, and speed in GitHub Copilot",
+      "video_id": "uug8gCi3Xxk",
       "channel_title": "GitHub",
-      "description": "En este Jueves de Quack, Bruno y Gisela se juntan para charlar de WebMCP y y de cómo hacer sitios agent-ready con ...",
-      "published_at": "2026-08-28T03:18:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9ZhKn8hA_sI/hqdefault.jpg"
+      "description": "Project HydraFusion delivered those results against Claude Opus 5 on Terminal-Bench 2.1 in controlled offline evaluations.",
+      "published_at": "2026-09-04T16:10:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uug8gCi3Xxk/hqdefault.jpg"
     },
     {
-      "title": "RDT: Trying the new GitHub Copilot Teams and Slack Integration",
-      "video_id": "Q3Q4ywUrY2A",
+      "title": "Introducing Project HydraFusion: multi-model orchestration in GitHub Copilot",
+      "video_id": "dJmt1PHsETM",
       "channel_title": "GitHub",
-      "description": "In this stream we will try out the GitHub Copilot Teams and Slack Integration.",
-      "published_at": "2026-08-27T23:49:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q3Q4ywUrY2A/hqdefault.jpg"
+      "description": "Every developer task requires a different balance of quality, cost, and latency, but choosing a single AI model locks you into rigid ...",
+      "published_at": "2026-09-04T16:10:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dJmt1PHsETM/hqdefault.jpg"
     },
     {
-      "title": "OpenClaw Went Viral. Meet the Maintainers Building and Securing It.",
-      "video_id": "5VSwaUXtPIE",
+      "title": "The Download: Attach images in GitHub CLI, Qwen3.8-Max, AI pull request lingo &amp; more",
+      "video_id": "A_PQvLNDt2k",
       "channel_title": "GitHub",
-      "description": "Sit down with OpenClaw creator Peter Steinberger and key maintainers to learn what it takes to build and scale the fastest ...",
-      "published_at": "2026-08-27T16:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5VSwaUXtPIE/hqdefault.jpg"
+      "description": "You can now attach images and videos to pull requests directly from your terminal using the GitHub CLI. In this episode of The ...",
+      "published_at": "2026-09-04T15:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/A_PQvLNDt2k/hqdefault.jpg"
     },
     {
-      "title": "GitHub Copilot app for beginners: using the diff, terminal, and browser",
-      "video_id": "IyWlcES85Zw",
-      "channel_title": "GitHub",
-      "description": "When an AI agent makes a change, checking that code usually means bouncing between your editor, terminal, and browser.",
-      "published_at": "2026-08-25T15:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IyWlcES85Zw/hqdefault.jpg"
-    },
-    {
-      "title": "Rubber Duck Thursday",
+      "title": "Rubber Duck Thursday with Cameron Hamilton",
       "video_id": "Osp54zk7Hco",
       "channel_title": "GitHub",
-      "description": "Cameron Hamilton, founder of Alliance AI, joins Rubber Duck Thursday to talk about building HALIE, his personal AI agent.",
-      "published_at": "2026-08-21T22:45:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Osp54zk7Hco/hqdefault_live.jpg"
+      "description": "Cameron Hamilton (@HangingWithTheHamiltons ) founder of Alliance AI, joins Rubber Duck Thursday to talk about building ...",
+      "published_at": "2026-09-04T07:26:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Osp54zk7Hco/hqdefault.jpg"
+    },
+    {
+      "title": "Jueves de Quack con Axel Labruna",
+      "video_id": "1SadQDgwVbc",
+      "channel_title": "GitHub",
+      "description": "Las organizaciones quieren escalar ingeniería sin quedar atrapadas en procesos manuales. Axel Labruna explora AgentOps: ...",
+      "published_at": "2026-09-04T04:03:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1SadQDgwVbc/hqdefault.jpg"
+    },
+    {
+      "title": "Rubber Duck Thursday - September Updates!",
+      "video_id": "e8t7oaibxI8",
+      "channel_title": "GitHub",
+      "description": "New to streaming or looking to level up? Check out StreamYard and get $10 discount!",
+      "published_at": "2026-09-03T23:24:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e8t7oaibxI8/hqdefault.jpg"
+    },
+    {
+      "title": "How an AI harness guides model execution",
+      "video_id": "_yk_yg_DTeQ",
+      "channel_title": "GitHub",
+      "description": "Think of an LLM like a horse: to direct where it goes, you need to give it a harness. Learn how harness engineering provides the ...",
+      "published_at": "2026-09-03T17:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_yk_yg_DTeQ/hqdefault.jpg"
+    },
+    {
+      "title": "How Cboard uses open source to give people a voice | GitHub Accessibility Spotlight",
+      "video_id": "IknnBdcDDiQ",
+      "channel_title": "GitHub",
+      "description": "In this GitHub Accessibility Spotlight, learn how Cboard grew from a single repository into a global Augmentative and Alternative ...",
+      "published_at": "2026-09-03T15:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IknnBdcDDiQ/hqdefault.jpg"
     }
   ]
 }

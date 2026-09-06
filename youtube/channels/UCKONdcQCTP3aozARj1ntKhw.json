@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2026-08-30T04:23:44.758472",
+  "fetched_at": "2026-09-06T03:35:45.990316",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
     {
-      "title": "Your agent skills should improve themselves",
-      "video_id": "tjRSWpFnrZc",
+      "title": "The secret to cheaper, smarter coding agents",
+      "video_id": "LKx5MeUsptQ",
       "channel_title": "Warp",
-      "description": "What if coding agents (Claude Code, Codex, Warp, etc) could improve Skills by reviewing past conversations? Here's the three ...",
-      "published_at": "2026-08-27T16:55:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tjRSWpFnrZc/hqdefault.jpg"
+      "description": "With Warp Factories Benchmarking it's now possible to build custom coding agent benchmarks (Claude, Codex, Grok, Kimi, etc) ...",
+      "published_at": "2026-09-04T19:04:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LKx5MeUsptQ/hqdefault.jpg"
+    },
+    {
+      "title": "How to build a model bench on your own coding tasks",
+      "video_id": "mojpQjwBXN0",
+      "channel_title": "Warp",
+      "description": "Factory Benchmarks are the model bench generated from your own agent coding tasks. They help you measure, test and improve ...",
+      "published_at": "2026-09-03T17:12:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mojpQjwBXN0/hqdefault.jpg"
     },
     {
       "title": "What&#39;s it like to work at Warp?",
@@ -75,14 +83,6 @@
       "description": "Try Codex in Warp: https://www.warp.dev/agents/codex.",
       "published_at": "2026-05-20T15:01:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xDU3M-U2_Eg/hqdefault.jpg"
-    },
-    {
-      "title": "Orchestrate a team of agents in Warp",
-      "video_id": "WNwnZybrp60",
-      "channel_title": "Warp",
-      "description": "Download Warp and run /orchestrate: https://warp.dev.",
-      "published_at": "2026-05-19T21:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WNwnZybrp60/hqdefault.jpg"
     }
   ]
 }

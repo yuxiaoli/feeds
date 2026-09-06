@@ -1,7 +1,16 @@
 {
-  "fetched_at": "2026-08-30T04:23:29.349166",
+  "fetched_at": "2026-09-06T03:35:30.381351",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 0,
-  "videos": []
+  "count": 1,
+  "videos": [
+    {
+      "title": "Kacey Musgraves in VR, only on Meta Quest. Streaming now on Horizon TV.",
+      "video_id": "QEX8tJuYgDM",
+      "channel_title": "Meta Quest ",
+      "description": "",
+      "published_at": "2026-09-03T16:50:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QEX8tJuYgDM/hqdefault.jpg"
+    }
+  ]
 }

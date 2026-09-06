@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-08-30T04:23:51.241770",
+  "fetched_at": "2026-09-06T03:35:52.605145",
   "channel_id": "UCN0O08BkOBsPnpUQMj9ZiiQ",
   "channel_title": "王OKOK啦",
   "count": 10,
   "videos": [
-    {
-      "title": "爱到最后终作茧",
-      "video_id": "_0FpAKGx664",
-      "channel_title": "王OKOK啦",
-      "description": "",
-      "published_at": "2025-01-18T13:20:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_0FpAKGx664/hqdefault.jpg"
-    },
     {
       "title": "爱到最后终作茧",
       "video_id": "6XlQp9FrG-0",
@@ -37,38 +29,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/VWMObmo5bDc/hqdefault.jpg"
     },
     {
-      "title": "新歌",
-      "video_id": "-QFy2KxEwcg",
-      "channel_title": "王OKOK啦",
-      "description": "",
-      "published_at": "2024-10-18T00:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-QFy2KxEwcg/hqdefault.jpg"
-    },
-    {
-      "title": "小王de西藏打工记",
-      "video_id": "WKKT-e8xLmw",
-      "channel_title": "王OKOK啦",
-      "description": "",
-      "published_at": "2024-10-17T00:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WKKT-e8xLmw/hqdefault.jpg"
-    },
-    {
-      "title": "老歌弹唱",
-      "video_id": "LVwxxDjqE5c",
-      "channel_title": "王OKOK啦",
-      "description": "",
-      "published_at": "2024-10-16T00:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LVwxxDjqE5c/hqdefault.jpg"
-    },
-    {
-      "title": "小王de自救日记-写歌版",
-      "video_id": "9x0q2qhDJZM",
-      "channel_title": "王OKOK啦",
-      "description": "",
-      "published_at": "2024-10-15T00:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9x0q2qhDJZM/hqdefault.jpg"
-    },
-    {
       "title": "我们住在整片星河那最美的一颗",
       "video_id": "-dlU6FTrpcU",
       "channel_title": "王OKOK啦",
@@ -77,12 +37,52 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-dlU6FTrpcU/hqdefault.jpg"
     },
     {
-      "title": "小王de纽约演出Vlog",
-      "video_id": "duMzDKvE-as",
+      "title": "可是宝贝呀 人生又何止这样",
+      "video_id": "MgdX4BycPxM",
       "channel_title": "王OKOK啦",
       "description": "",
-      "published_at": "2024-07-28T00:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/duMzDKvE-as/hqdefault.jpg"
+      "published_at": "2024-07-15T00:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MgdX4BycPxM/hqdefault.jpg"
+    },
+    {
+      "title": "唱唱新歌《No.2》",
+      "video_id": "SGkTBrqSY7k",
+      "channel_title": "王OKOK啦",
+      "description": "",
+      "published_at": "2024-07-09T11:21:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SGkTBrqSY7k/hqdefault.jpg"
+    },
+    {
+      "title": "喜洋洋与灰太狼",
+      "video_id": "Fe8uZj5w0yA",
+      "channel_title": "王OKOK啦",
+      "description": "",
+      "published_at": "2024-03-07T07:28:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fe8uZj5w0yA/hqdefault.jpg"
+    },
+    {
+      "title": "小王的生日开箱",
+      "video_id": "gonaJG4djYs",
+      "channel_title": "王OKOK啦",
+      "description": "",
+      "published_at": "2023-12-29T03:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gonaJG4djYs/hqdefault.jpg"
+    },
+    {
+      "title": "敌密👀",
+      "video_id": "I9ERVYJWywQ",
+      "channel_title": "王OKOK啦",
+      "description": "",
+      "published_at": "2023-12-28T03:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I9ERVYJWywQ/hqdefault.jpg"
+    },
+    {
+      "title": "小王的自救日记5",
+      "video_id": "7IE5UCSSTOk",
+      "channel_title": "王OKOK啦",
+      "description": "",
+      "published_at": "2023-12-27T03:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7IE5UCSSTOk/hqdefault.jpg"
     }
   ]
 }

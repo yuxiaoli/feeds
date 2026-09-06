@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-08-30T04:24:02.131909",
+  "fetched_at": "2026-09-06T03:36:03.971561",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "Scaling Compute",
+      "video_id": "QbuIxdvViv4",
+      "channel_title": "Figure",
+      "description": "Figure is partnering with Nscale to deploy up to 100000 GPUs on the NVIDIA Vera Rubin Platform. We're committing $3.5 billion ...",
+      "published_at": "2026-09-03T13:06:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QbuIxdvViv4/hqdefault.jpg"
+    },
     {
       "title": "Figure 4 years",
       "video_id": "_WGNMkmvEls",
@@ -75,14 +83,6 @@
       "description": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT.",
       "published_at": "2026-05-22T01:09:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/UFbtDRWXE-g/hqdefault.jpg"
-    },
-    {
-      "title": "F.03 Livestream: Day 4 (Hour 84-96)",
-      "video_id": "bvRZK3H3wa8",
-      "channel_title": "Figure",
-      "description": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT.",
-      "published_at": "2026-05-22T01:09:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bvRZK3H3wa8/hqdefault.jpg"
     }
   ]
 }
