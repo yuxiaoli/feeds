@@ -1,32 +1,16 @@
 {
-  "fetched_at": "2026-09-06T03:35:40.859637",
+  "fetched_at": "2026-09-13T03:53:02.127757",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "2,000 people. One team. | Microsoft x Mercedes-AMG PETRONAS F1",
-      "video_id": "qAQTJKZrEeM",
+      "title": "Why Seattle Seahawks coaches rely on this analyst during every game",
+      "video_id": "fdq3aYCVIL0",
       "channel_title": "Microsoft",
-      "description": "The race is only the part you see. Behind every lap are 2000 people working together across engineering, strategy, manufacturing ...",
-      "published_at": "2026-08-28T20:01:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qAQTJKZrEeM/hqdefault.jpg"
-    },
-    {
-      "title": "This company has more AI agents than employees",
-      "video_id": "3_sQZRkwU2g",
-      "channel_title": "Microsoft",
-      "description": "When market research firm Kantar handed Copilot licenses to every employee, chaos and creativity erupted. Andy Doyle, Kantar ...",
-      "published_at": "2026-08-24T16:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3_sQZRkwU2g/hqdefault.jpg"
-    },
-    {
-      "title": "The AI shift most companies didn&#39;t see coming",
-      "video_id": "cazd1z4Eseo",
-      "channel_title": "Microsoft",
-      "description": "What does it take to move the needle with AI? Top AI voice Allie K. Miller joins WorkLab to share why some of the biggest ...",
-      "published_at": "2026-08-10T17:02:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cazd1z4Eseo/hqdefault.jpg"
+      "description": "A Seattle @Seahawks analyst has about 25 seconds between plays to find the right information. Using Copilot in Excel, analysts ...",
+      "published_at": "2026-09-09T22:06:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fdq3aYCVIL0/hqdefault.jpg"
     },
     {
       "title": "What happens when AI enters healthcare? | On Second Thought",
@@ -83,6 +67,22 @@
       "description": "Satya Nadella Keynote Sizzle from Microsoft Build 2024 Subscribe to Microsoft on YouTube here: ...",
       "published_at": "2024-05-21T23:05:52Z",
       "thumbnail_url": "https://i.ytimg.com/vi/vBCrJaLseQc/hqdefault.jpg"
+    },
+    {
+      "title": "GitHub Copilot at Microsoft Inspire 2023",
+      "video_id": "MiHUW75g4Iw",
+      "channel_title": "Microsoft",
+      "description": "At Microsoft Inspire as part of Judson Althoff's keynote, Allison Weins, Sr. Product Manager at GitHub, shared GitHub Copilot, an AI ...",
+      "published_at": "2023-07-19T00:38:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MiHUW75g4Iw/hqdefault.jpg"
+    },
+    {
+      "title": "Strengthening local news with Microsoft Azure OpenAI Service",
+      "video_id": "QX9XbzTc00I",
+      "channel_title": "Microsoft",
+      "description": "For Nota Chief Executive Officer Josh Brandau, empowering local newsrooms with AI-assisted technology is about more than just ...",
+      "published_at": "2023-05-23T16:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QX9XbzTc00I/hqdefault.jpg"
     }
   ]
 }

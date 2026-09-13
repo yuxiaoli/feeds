@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-06T03:35:45.233340",
+  "fetched_at": "2026-09-13T03:53:06.379253",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 3,
+  "count": 2,
   "videos": [
     {
       "title": "The latest updates to Google Translate",
@@ -19,14 +19,6 @@
       "description": "Life is a highway, and your search bar is the fast lane.",
       "published_at": "2026-09-03T16:29:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7k1sXY-ZCkI/hqdefault.jpg"
-    },
-    {
-      "title": "Pixel Watch 5, fresh out of the box. #MadeByGoogle",
-      "video_id": "MzJZuaJkX_0",
-      "channel_title": "Google",
-      "description": "Meet the brand new Pixel Watch 5.",
-      "published_at": "2026-09-02T15:59:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MzJZuaJkX_0/hqdefault.jpg"
     }
   ]
 }

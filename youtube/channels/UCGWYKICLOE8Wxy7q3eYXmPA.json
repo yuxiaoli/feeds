@@ -1,32 +1,48 @@
 {
-  "fetched_at": "2026-09-06T03:35:41.628503",
+  "fetched_at": "2026-09-13T03:53:02.854614",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
-  "count": 10,
+  "count": 6,
   "videos": [
     {
-      "title": "OpenAI Astra循环深度架构：大模型第三条Scaling法则​ | OpenAI Astra | 循环深度 | 循环Transformer | Recurrent Depth",
-      "video_id": "i_1f5OEJIAY",
+      "title": "谷歌DeepMind掌舵人承认当前模型略逊于前沿​ | ​Koray Kavukcuoglu | Gemini 4 | 3.5 Pro | AI前沿 | AGI | 强化学习 | 深度学习 |",
+      "video_id": "OkceW8_9q60",
       "channel_title": "最佳拍档",
-      "description": "本期深度拆解OpenAI下一代旗舰模型Astra被曝采用的\"循环深度\"新架构——这项技术通过让同一组Transformer层在潜在空间中多次 ...",
-      "published_at": "2026-09-05T12:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i_1f5OEJIAY/hqdefault.jpg"
+      "description": "谷歌DeepMind首席技术官Koray Kavukcuoglu做客播客访谈，罕见承认当前模型质量客观上略微落后于行业前沿，但强调没有什么 ...",
+      "published_at": "2026-09-12T12:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OkceW8_9q60/hqdefault.jpg"
     },
     {
-      "title": "SHEIN：千亿独角兽能否老树开新花 | 希音 | 跨境电商 | 快时尚 | 小单快反 | 港股IPO | Temu | 亚马逊 | 柔性供应链 | 估值分析 | 商业模式 | 拼多多",
-      "video_id": "1rxodcQy_No",
+      "title": "递归自我改进AI正在拿人类命运下注 | Anthropic研究员Jacob Coxon辞职警告 | AI安全 | 超级智能 | AI对齐 | Hugging Face事件 | 诸神黄昏",
+      "video_id": "GgZx3DBrWps",
       "channel_title": "最佳拍档",
-      "description": "SHEIN通过港交所聆讯启动全球发售，估值从巅峰982亿美元跌至270亿，缩水超七成。本文深度拆解SHEIN的商业模式：1P自营 ...",
-      "published_at": "2026-09-05T00:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1rxodcQy_No/hqdefault.jpg"
+      "description": "Anthropic预训练研究员Jacob Coxon辞职并连发7帖，指控OpenAI和Anthropic正径直冲向自我改进的超级智能、拿全人类命运下注 ...",
+      "published_at": "2026-09-11T12:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GgZx3DBrWps/hqdefault.jpg"
     },
     {
-      "title": "GPT-6 Astra：OpenAI宣布进入AGI时代 | OpenAI | GPT-6 | Astra | AGI | 计算机使用 | AI Agent | 人工智能 | 网络安全 | 大模型",
-      "video_id": "5uQqPEvrbRc",
+      "title": "AI内存的技术混战 | 伯恩斯坦研究报告 | AI内存 | HBM | CXL | DRAM | NAND | KV缓存 | 存储器产业 | AI算力底层硬件 | 存储级内存 | 人工智能推理",
+      "video_id": "RJyBzzg-c8o",
       "channel_title": "最佳拍档",
-      "description": "OpenAI正式发布GPT-6 Astra，联合创始人Brockman宣布\"AGI时代\"到来。Astra被定位为全球最佳计算机使用模型，可直接操作浏览 ...",
-      "published_at": "2026-09-04T12:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5uQqPEvrbRc/hqdefault.jpg"
+      "description": "本期基于伯恩斯坦2026年8月发布的《Global Memory：An AI memory primer》英文原版报告，系统梳理AI内存的完整技术图景。",
+      "published_at": "2026-09-11T00:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RJyBzzg-c8o/hqdefault.jpg"
+    },
+    {
+      "title": "3000万开发者买光算力，15亿人进场榨干电力铜矿​ | AI算力 | 黄仁勋 | 马斯克 | 英伟达 | 数据中心 | 太空算力 | SpaceX | 人工智能 | 芯片供应链 | 多模型架构",
+      "video_id": "b1nLuLPDxLY",
+      "channel_title": "最佳拍档",
+      "description": "深度解析a16z对顶级投资人Gavin Baker的硬核对谈：当下市场最大的误判，是把供应链即将榨干的\"超级大缺货\"误当成\"产能过剩 ...",
+      "published_at": "2026-09-10T00:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/b1nLuLPDxLY/hqdefault.jpg"
+    },
+    {
+      "title": "Bill Dally对话TPU之父Norman Jouppi ：真正竞争的不是芯片 | AI芯片 | TPU | 英伟达 | 系统工程 | 硅金矿 | CUDA",
+      "video_id": "Ch9GH7UrDHg",
+      "channel_title": "最佳拍档",
+      "description": "2026年8月，在美国计算机历史博物馆的《The Silicon Gold Rush》对谈中，英伟达首席科学家Bill Dally与Google TPU之父Norman ...",
+      "published_at": "2026-09-09T12:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ch9GH7UrDHg/hqdefault.jpg"
     },
     {
       "title": "RoR之父：不要预测任何事 | DHH | Ruby on Rails | AI编程 | Agent开发 | Omarchy | Linux桌面 | 开源社区 | vibe coding",
@@ -35,54 +51,6 @@
       "description": "Ruby on Rails创始人DHH二次做客Lex Fridman播客，完整分享从AI质疑者到Agent实践者的转变历程。他讲述Omarchy Quattro三个 ...",
       "published_at": "2026-09-04T00:00:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Z4Fql7uwexg/hqdefault.jpg"
-    },
-    {
-      "title": "AI Agent时代的FinOps：谁花光了所有Token | FinOps | AI Agent | Token治理 | TokenOps | 多Agent系统 | 成本优化 | 微软Foundry",
-      "video_id": "nTfbAl40l40",
-      "channel_title": "最佳拍档",
-      "description": "本期深入探讨AI Agent时代的成本治理难题。随着token成为新的技术支出单位，企业AI支出失控已成为普遍现象：单价下降八成， ...",
-      "published_at": "2026-09-03T12:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nTfbAl40l40/hqdefault.jpg"
-    },
-    {
-      "title": "Fable 5.1来了：缓存降价75%却未必更省钱 | Claude Fable 5.1 | Anthropic | 缓存读取降价 | AI智能体 | Terminal-Bench | 蛋白质设计",
-      "video_id": "jXK-GqpL12Q",
-      "channel_title": "最佳拍档",
-      "description": "9月1日Anthropic发布Claude Fable 5.1和Mythos 5.1，两款模型共享同一底层模型但安全限制不同。Fable 5.1在科研智能体 ...",
-      "published_at": "2026-09-03T00:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jXK-GqpL12Q/hqdefault.jpg"
-    },
-    {
-      "title": "全球算力未来只属于两家公司​ | AI算力 | OpenAI | Anthropic | SemiAnalysis | Dylan Patel | 数据中心资本支出 | 算力垄断 | 主权债务危机",
-      "video_id": "5krZ6fJ8v-w",
-      "channel_title": "最佳拍档",
-      "description": "本期基于SemiAnalysis创始人迪伦·帕特尔与播客主持人德瓦克什·帕特尔的深度对话，系统梳理全球AI算力的经济学格局与地缘分布。",
-      "published_at": "2026-09-02T00:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5krZ6fJ8v-w/hqdefault.jpg"
-    },
-    {
-      "title": "Bob大叔：AI代码我完全不看​ | Robert C. Martin | AI编程 | AI Agent | 代码整洁之道 | Clean Code | 变异测试 | 测试驱动开发 | TDD",
-      "video_id": "PenFT2xcHp4",
-      "channel_title": "最佳拍档",
-      "description": "编程超过50年的世界级大师Bob大叔（Robert C. Martin）在与Matt Pocock的对谈中分享了他与AI Agent协作写代码的真实经历。",
-      "published_at": "2026-09-01T00:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PenFT2xcHp4/hqdefault.jpg"
-    },
-    {
-      "title": "我随时可以按下重置按钮 | Tibo Sottiaux | Codex | ChatGPT | AI代理 | 强化学习 | 递归自我提升 | 算力瓶颈 | UltraFast | AGI",
-      "video_id": "p8S_S9lxPFc",
-      "channel_title": "最佳拍档",
-      "description": "OpenAI Codex产品负责人Tibo Sottiaux接受科技博主Matthew Berman深度访谈，揭秘OpenAI产品研发幕后。Tibo透露DeepMind ...",
-      "published_at": "2026-08-30T09:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p8S_S9lxPFc/hqdefault.jpg"
-    },
-    {
-      "title": "DeepSeek竟然也遭遇斩杀线 | Qwen3.8-Flash Next | GLM-5.3-Flash | 大模型价格战 | 智谱 | 千问 | MoE架构 | 稀疏注意力 | Qwen4架构",
-      "video_id": "VTBmsvOFlto",
-      "channel_title": "最佳拍档",
-      "description": "8月26日晚，阿里Qwen3.8-Flash与智谱GLM-5.3-Flash同日发布，在DeepSeek涨价、全行业API集体上调的背景下逆势压价。",
-      "published_at": "2026-08-28T09:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VTBmsvOFlto/hqdefault.jpg"
     }
   ]
 }

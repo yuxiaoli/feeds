@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-09-06T03:36:09.959298",
+  "fetched_at": "2026-09-13T03:53:29.817913",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
-    {
-      "title": "A familiar form. A richer expression.",
-      "video_id": "2N72YSdCUco",
-      "channel_title": "Bang & Olufsen",
-      "description": "Do touch the art. Gallery-worthy design. Made for life at home. Introducing Beosound A9 in Sienna Brown. #BangOlufsen.",
-      "published_at": "2026-09-02T12:01:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2N72YSdCUco/hqdefault.jpg"
-    },
     {
       "title": "A familiar form. A richer expression. Introducing Beosound A9 in Sienna Brown.",
       "video_id": "M5nwW_OM6B0",
@@ -83,6 +75,14 @@
       "description": "Some things need no introduction. Bang & Olufsen and Fragment, coming soon.​ ​#BangOlufsen.",
       "published_at": "2026-05-17T10:00:14Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5Y-IYUqfVZA/hqdefault.jpg"
+    },
+    {
+      "title": "Summer of Sport | Bang &amp; Olufsen",
+      "video_id": "_6RrcvlTERQ",
+      "channel_title": "Bang & Olufsen",
+      "description": "Experience an arena of sound. Every serve, swing and shot. Every sprint, swell and surge. Elevated by BeovisionTheatre's ...",
+      "published_at": "2026-04-13T13:00:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_6RrcvlTERQ/hqdefault.jpg"
     }
   ]
 }

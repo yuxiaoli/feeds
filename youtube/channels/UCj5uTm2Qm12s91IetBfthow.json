@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-09-06T03:36:13.625679",
+  "fetched_at": "2026-09-13T03:53:33.174481",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
-    {
-      "title": "找需求的3种方式   怎么判断值不值得做",
-      "video_id": "TKOYz2MSgKw",
-      "channel_title": "Find Interesting AI",
-      "description": "",
-      "published_at": "2026-09-05T11:59:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TKOYz2MSgKw/hqdefault.jpg"
-    },
     {
       "title": "这款别人收费的生产力工具，我给开源了",
       "video_id": "DbuRQemay8k",
@@ -83,6 +75,14 @@
       "description": "知识库： my.feishu.cn/wiki/TPKwwEiLJibN4ek9fcQcYaZAnDd?",
       "published_at": "2026-02-01T11:49:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0eb30T3Voi8/hqdefault.jpg"
+    },
+    {
+      "title": "2026开年Huggingface最火的8个空间",
+      "video_id": "9yjQdq-nnJo",
+      "channel_title": "Find Interesting AI",
+      "description": "LTX-2: https://huggingface.co/papers/2601.03233 FinePDF: ...",
+      "published_at": "2026-01-17T09:10:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9yjQdq-nnJo/hqdefault.jpg"
     }
   ]
 }

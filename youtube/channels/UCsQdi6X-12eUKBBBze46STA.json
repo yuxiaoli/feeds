@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2026-09-06T03:36:21.068571",
+  "fetched_at": "2026-09-13T03:53:40.348291",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
     {
-      "title": "The Worst Time To Eat Sugar",
-      "video_id": "I39ReqkT074",
+      "title": "Ice Cream vs Sorbet",
+      "video_id": "9DRONvxo4ug",
       "channel_title": "Glucose Revolution",
       "description": "",
-      "published_at": "2026-09-04T18:04:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I39ReqkT074/hqdefault.jpg"
+      "published_at": "2026-09-10T14:13:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9DRONvxo4ug/hqdefault.jpg"
+    },
+    {
+      "title": "So Is Fruit Natural Or Not?",
+      "video_id": "yiOZMWQZC_A",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-09-08T14:41:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yiOZMWQZC_A/hqdefault.jpg"
     },
     {
       "title": "Fat Loss Without Trying",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-11-25T14:58:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZGdzpwXjnW4/hqdefault.jpg"
-    },
-    {
-      "title": "Chew Your Food 2️⃣0️⃣ times!",
-      "video_id": "rbXPzkDEqlc",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2025-11-14T18:24:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rbXPzkDEqlc/hqdefault.jpg"
     }
   ]
 }

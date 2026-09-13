@@ -1,24 +1,7 @@
 {
-  "fetched_at": "2026-09-06T03:35:23.692859",
+  "fetched_at": "2026-09-13T03:52:45.873149",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
-  "count": 2,
-  "videos": [
-    {
-      "title": "How Microsoft Partners Are Winning the AI Opportunity",
-      "video_id": "G2hyzDJCtf0",
-      "channel_title": "Microsoft Azure",
-      "description": "Some partners are waiting for the AI market to mature. Others are building the expertise, capabilities, and customer relationships ...",
-      "published_at": "2026-09-03T23:30:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G2hyzDJCtf0/hqdefault.jpg"
-    },
-    {
-      "title": "Hear from Microsoft Partners on the Azure Modernization Opportunity",
-      "video_id": "NXswQE79wbY",
-      "channel_title": "Microsoft Azure",
-      "description": "Modernization isn't a \"someday\" project anymore—it's a now priority. Microsoft partners share why the Azure modernization ...",
-      "published_at": "2026-09-03T23:27:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NXswQE79wbY/hqdefault.jpg"
-    }
-  ]
+  "count": 0,
+  "videos": []
 }

@@ -1,16 +1,48 @@
 {
-  "fetched_at": "2026-09-06T03:35:48.238844",
+  "fetched_at": "2026-09-13T03:53:09.223509",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
-  "count": 4,
+  "count": 6,
   "videos": [
     {
-      "title": "Anthropic reveals hardware specs and Claude updates, OpenAI talks security, and Runway&#39;s new model",
-      "video_id": "W3iQbl5R_Jk",
+      "title": "OpenAI talks GPT-6 Astra and Millenium Prize, researchers create WeWorm exploit &amp; IBM’s US Open app",
+      "video_id": "XPReiOKCzFI",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~6DuRx9a12 On episode 123 of Mixture of Experts, ...",
-      "published_at": "2026-09-04T10:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/W3iQbl5R_Jk/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~AHBoMt9Qu It's been a week that proves AI is ...",
+      "published_at": "2026-09-11T10:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XPReiOKCzFI/hqdefault.jpg"
+    },
+    {
+      "title": "Why AI Agents Don&#39;t Think They&#39;re Cheating",
+      "video_id": "ahK9hZ7L-Kc",
+      "channel_title": "IBM Technology",
+      "description": "AI agents don't see rule-breaking the way humans do. Learn why security requires enforcement, not guidelines, and what ...",
+      "published_at": "2026-09-10T16:01:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ahK9hZ7L-Kc/hqdefault.jpg"
+    },
+    {
+      "title": "How GPUs Accelerate Data &amp; Analytics with AI",
+      "video_id": "zqowMgMgSjA",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about the difference between AI Accelerators & GPUs here → https://ibm.biz/~aQ0A1Q6sb Learn more about GPU ...",
+      "published_at": "2026-09-10T11:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zqowMgMgSjA/hqdefault.jpg"
+    },
+    {
+      "title": "Why won’t AI agents just follow the rules?",
+      "video_id": "6AuYLbHqirk",
+      "channel_title": "IBM Technology",
+      "description": "Explore the podcast → https://ibm.biz/~jShHVJwcb Why bother giving your AI agents rules if they're just gonna reason around ...",
+      "published_at": "2026-09-09T10:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6AuYLbHqirk/hqdefault.jpg"
+    },
+    {
+      "title": "AI Simplified: 6 Concepts You Need to Know About Modern AI",
+      "video_id": "mUw27wG7uFA",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about Artificial Intelligence (AI) here → https://ibm.biz/~yBSrYFMHU AI is everywhere, but the terminology can be ...",
+      "published_at": "2026-09-06T11:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mUw27wG7uFA/hqdefault.jpg"
     },
     {
       "title": "Skills vs MCP vs RAG vs Memory: What AI Agents Need to Know",
@@ -19,22 +51,6 @@
       "description": "Learn more about Types of AI Agents here → https://ibm.biz/~P180J8KFb AI agents need more than training data to solve ...",
       "published_at": "2026-09-03T11:00:15Z",
       "thumbnail_url": "https://i.ytimg.com/vi/X4FVEEegCbk/hqdefault.jpg"
-    },
-    {
-      "title": "Why OpenAI is calling for a ‘cyber defense surge.’ Plus: Find Evil! winners and TeamPCP losers",
-      "video_id": "-0p68wKEitE",
-      "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/~LR5oerBlh IBM, OpenAI and 100 other organizations released an open letter calling for ...",
-      "published_at": "2026-09-02T10:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-0p68wKEitE/hqdefault.jpg"
-    },
-    {
-      "title": "IBM’s mainframe chip collab, NVIDIA’s Poolside deal &amp; Ox Alpha’s reveal",
-      "video_id": "QxVS86cDpho",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~j8AlVLp98 On episode 122 of Mixture of Experts, ...",
-      "published_at": "2026-08-28T10:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QxVS86cDpho/hqdefault.jpg"
     }
   ]
 }

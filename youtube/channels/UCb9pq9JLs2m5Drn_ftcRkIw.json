@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-09-06T03:36:06.205438",
+  "fetched_at": "2026-09-13T03:53:26.165446",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "Bankai",
+      "video_id": "Qpla2Cx3vl4",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-09-12T09:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qpla2Cx3vl4/hqdefault.jpg"
+    },
+    {
+      "title": "المصل اب على الحلقات",
+      "video_id": "H5IRFOAT4t0",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-09-11T11:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/H5IRFOAT4t0/hqdefault.jpg"
+    },
     {
       "title": "اتحداك ما تستمتع",
       "video_id": "0r51UZKFSfA",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-04-15T15:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Rq5xXM1xPOc/hqdefault.jpg"
-    },
-    {
-      "title": "تعلم المشي على اليدين .. How to handstand walk",
-      "video_id": "jDM4O0uTeK4",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-03-25T15:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jDM4O0uTeK4/hqdefault.jpg"
-    },
-    {
-      "title": "عيد فطر مبارك 🤍",
-      "video_id": "qZ9-jRY3Lyc",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-03-19T17:40:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qZ9-jRY3Lyc/hqdefault.jpg"
     }
   ]
 }

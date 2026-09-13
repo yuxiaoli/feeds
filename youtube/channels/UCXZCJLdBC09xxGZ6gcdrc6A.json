@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-09-06T03:36:02.457327",
+  "fetched_at": "2026-09-13T03:53:22.492700",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "GPT-6 Astra with Ben Davis",
-      "video_id": "B-jjnydci50",
+      "title": "GPT-6 Astra needs less babysitting",
+      "video_id": "SiJGdlmdUms",
       "channel_title": "OpenAI",
-      "description": "Ben Davis shares his first impressions of GPT-6 Astra after testing it on some of DEF CON's hardest puzzle challenges.",
-      "published_at": "2026-09-05T00:11:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B-jjnydci50/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-09-12T15:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SiJGdlmdUms/hqdefault.jpg"
     },
     {
-      "title": "Introducing GPT-6 Astra for developers",
-      "video_id": "bOC3DisEOfg",
+      "title": "GPT-6 Astra added unexpected details",
+      "video_id": "ZlvkQYZo3ZE",
       "channel_title": "OpenAI",
-      "description": "Meet GPT-6 Astra, our latest frontier model for tasks where raw intelligence matters. Charlie Guo, Developer Experience Engineer ...",
-      "published_at": "2026-09-04T20:22:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bOC3DisEOfg/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-09-11T21:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZlvkQYZo3ZE/hqdefault.jpg"
     },
     {
-      "title": "Use ChatGPT Work to analyze ad performance and refine creative",
-      "video_id": "5iu0nY9lIy8",
+      "title": "GPT-Live-1 is now in the API",
+      "video_id": "OSaP6bJoU44",
       "channel_title": "OpenAI",
-      "description": "Turn ad insights into your next creative idea. This demo follows a shopper from product discovery to a clearly labeled ad, then ...",
-      "published_at": "2026-09-04T12:29:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5iu0nY9lIy8/hqdefault.jpg"
+      "description": "GPT-Live-1 is now available in the API. Bring ChatGPT's natural back-and-forth to your app, with voice agents that listen while ...",
+      "published_at": "2026-09-11T17:06:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OSaP6bJoU44/hqdefault.jpg"
     },
     {
-      "title": "Use ChatGPT Work to build custom creative tools",
-      "video_id": "D-QteDHdHes",
+      "title": "GPT-6 Astra handles the editing busywork",
+      "video_id": "4bGb2OjU5tA",
       "channel_title": "OpenAI",
-      "description": "Build the creative tools your team needs. This is how our marketing team uses ChatGPT Work to turn a brief, brand book and ...",
-      "published_at": "2026-09-04T12:27:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D-QteDHdHes/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-09-11T15:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4bGb2OjU5tA/hqdefault.jpg"
     },
     {
-      "title": "Use ChatGPT Work to create campaign emails",
-      "video_id": "N-MJ1W8Vj9E",
+      "title": "GPT-6 Astra built a font playground",
+      "video_id": "0NUm552iB3U",
       "channel_title": "OpenAI",
-      "description": "Turn a brief into campaign emails your team can refine. This is how our marketing team uses ChatGPT Work to build a shared ...",
-      "published_at": "2026-09-04T12:23:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N-MJ1W8Vj9E/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-09-11T04:08:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0NUm552iB3U/hqdefault.jpg"
     },
     {
-      "title": "Use ChatGPT Images to explore campaign concepts",
-      "video_id": "Ez-anO32D_s",
+      "title": "Introducing the Agents API",
+      "video_id": "2YHa1vhnmK0",
       "channel_title": "OpenAI",
-      "description": "Explore more campaign ideas before choosing a direction. This is how our marketing team used ChatGPT Images to explore ...",
-      "published_at": "2026-09-04T12:25:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ez-anO32D_s/hqdefault.jpg"
+      "description": "The Agents API brings a hosted version of the Codex harness to your applications. See how to build an agent that investigates ...",
+      "published_at": "2026-09-10T19:26:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2YHa1vhnmK0/hqdefault.jpg"
     },
     {
-      "title": "Use ChatGPT Work to pressure-test marketing campaign briefs",
-      "video_id": "HHt8CPJRviA",
+      "title": "In Harmony",
+      "video_id": "PbfXbDbCthA",
       "channel_title": "OpenAI",
-      "description": "Sharpen your campaign brief before you go to market. This is how our marketing team uses ChatGPT Work to simulate buyer ...",
-      "published_at": "2026-09-04T12:21:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HHt8CPJRviA/hqdefault.jpg"
+      "description": "Work directed by you. Move projects forward and turn ideas into action with ChatGPT Work.",
+      "published_at": "2026-09-10T17:29:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PbfXbDbCthA/hqdefault.jpg"
     },
     {
-      "title": "Use ChatGPT Work to turn marketing ideas into finished work",
-      "video_id": "NSqlZ1L81nQ",
+      "title": "Discovering new antibiotics with ChatGPT",
+      "video_id": "0XLGisanEAs",
       "channel_title": "OpenAI",
-      "description": "Turn marketing ideas into work your team can review. This is how our marketing team uses ChatGPT Work to connect its files and ...",
-      "published_at": "2026-09-04T12:20:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NSqlZ1L81nQ/hqdefault.jpg"
+      "description": "The de la Fuente Lab is using ChatGPT and Codex in the search for new molecules that could help fight antibiotic-resistant ...",
+      "published_at": "2026-09-10T15:59:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0XLGisanEAs/hqdefault.jpg"
     },
     {
-      "title": "First impressions of GPT-6 Astra from developers",
-      "video_id": "-TTyyY3VWh8",
+      "title": "Helping a small business go big with ChatGPT",
+      "video_id": "mPAmXQnhv2E",
       "channel_title": "OpenAI",
-      "description": "See what Ben Davis, Peter Gostev, and Tom Krcha are building with GPT-6 Astra, from a playable 3D history of London to new ...",
-      "published_at": "2026-09-03T21:20:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-TTyyY3VWh8/hqdefault.jpg"
+      "description": "Derek and Larissa Guetter own ATV Big Air Tour – a small business that brings high-octane ATV and motocross shows to events ...",
+      "published_at": "2026-09-10T16:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mPAmXQnhv2E/hqdefault.jpg"
     },
     {
-      "title": "Introducing GPT-6 Astra: the most intelligent and aligned model in the world.",
-      "video_id": "1QNsdr-Qx_I",
+      "title": "Two blind brothers using ChatGPT to navigate life and run their nonprofit",
+      "video_id": "qg_54P-oPgI",
       "channel_title": "OpenAI",
-      "description": "GPT-6 Astra achieves state-of-the-art results on benchmarks for long-running computer-use tasks across professions and desktop ...",
-      "published_at": "2026-09-03T19:40:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1QNsdr-Qx_I/hqdefault.jpg"
+      "description": "Bradford and Bryan Manning have spent their lives adapting to a world built for sight. Both brothers live with Stargardt disease, ...",
+      "published_at": "2026-09-10T16:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qg_54P-oPgI/hqdefault.jpg"
     }
   ]
 }

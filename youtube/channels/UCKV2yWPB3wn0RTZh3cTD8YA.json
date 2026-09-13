@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-06T03:35:47.426418",
+  "fetched_at": "2026-09-13T03:53:08.580254",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "AI开始预测人类：83亿虚拟人格、数字社会，与一门押注未来的生意｜解析AI预测模型｜AI prediction model",
+      "video_id": "--ePbkaRwl4",
+      "channel_title": "硅谷101",
+      "description": "如果AI不仅能回答问题，还能“复制”人类、模拟社会，甚至把尚未发生的未来提前跑一遍，会发生什么？ 从只有25个Agent的“斯坦福 ...",
+      "published_at": "2026-09-10T00:29:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/--ePbkaRwl4/hqdefault.jpg"
+    },
     {
       "title": "机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争｜机器人系列",
       "video_id": "BmcoQDwdkeM",
@@ -11,14 +19,6 @@
       "description": "机器人需要触觉吗？越来越多人认为答案是肯定的。 黄仁勋近来数次强调触觉在机器人研发中的重要性，并称其为“机器人迈向物理 ...",
       "published_at": "2026-09-04T01:00:29Z",
       "thumbnail_url": "https://i.ytimg.com/vi/BmcoQDwdkeM/hqdefault.jpg"
-    },
-    {
-      "title": "mRNA的第二战场：拆解人类首个肿瘤疫苗三期突破｜对话艾博生物CEO英博【101视频播客】",
-      "video_id": "G-1qbtXJKyQ",
-      "channel_title": "硅谷101",
-      "description": "2026年8月，Moderna与默沙东联合开发的个体化mRNA癌症疫苗公布三期临床积极结果，Moderna股价一度暴涨超过200%。",
-      "published_at": "2026-08-28T05:54:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G-1qbtXJKyQ/hqdefault.jpg"
     },
     {
       "title": "对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",

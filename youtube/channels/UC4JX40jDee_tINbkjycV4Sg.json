@@ -1,32 +1,56 @@
 {
-  "fetched_at": "2026-09-06T03:35:28.937451",
+  "fetched_at": "2026-09-13T03:52:50.705819",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 10,
+  "count": 7,
   "videos": [
     {
-      "title": "Everyone Needs an AI Brain (This Is the Easiest Way to Build One)",
-      "video_id": "8yFb8QfAxRg",
+      "title": "The Heavyweight AI Cert",
+      "video_id": "JyEZOSHkpMk",
       "channel_title": "Tech With Tim",
-      "description": "New registered users can get free credits: https://bit.ly/4514TQq Every time you open a new AI conversation, it has no idea who ...",
-      "published_at": "2026-09-05T14:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8yFb8QfAxRg/hqdefault.jpg"
+      "description": "Which AI certification has the biggest salary impact? Google Cloud's Professional Machine Learning Engineer cert is the ...",
+      "published_at": "2026-09-12T12:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JyEZOSHkpMk/hqdefault.jpg"
     },
     {
-      "title": "The AI Skills for an FDE Job",
-      "video_id": "8R5894mUick",
+      "title": "Build a Local AI Agent in 10 Minutes using Python",
+      "video_id": "ByWCsa8DbF8",
       "channel_title": "Tech With Tim",
-      "description": "What AI skills does a forward-deployed engineer actually need? You don't have to build your own large language model from ...",
-      "published_at": "2026-09-05T12:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8R5894mUick/hqdefault.jpg"
+      "description": "All code in this video is available here: https://www.aiagentbuilders.co/yt-resources/local-python-agent Want to LEARN how to ...",
+      "published_at": "2026-09-11T14:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ByWCsa8DbF8/hqdefault.jpg"
     },
     {
-      "title": "The Non Negotiable FDE Skill",
-      "video_id": "bYGw-ONB7WE",
+      "title": "The Highest Value AI Cert",
+      "video_id": "KzaSYYQ-pPE",
       "channel_title": "Tech With Tim",
-      "description": "What skills do you need to become a forward-deployed engineer? It starts with one non-negotiable foundation: real software ...",
-      "published_at": "2026-09-04T12:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bYGw-ONB7WE/hqdefault.jpg"
+      "description": "Is Microsoft's Azure AI Engineer Associate certification worth it? It covers building real solutions with Azure AI Foundry and Azure ...",
+      "published_at": "2026-09-11T12:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KzaSYYQ-pPE/hqdefault.jpg"
+    },
+    {
+      "title": "Lovable ADVANCED Tutorial - FULL Guide for Real Websites",
+      "video_id": "qxygwvBoBTc",
+      "channel_title": "Tech With Tim",
+      "description": "I've built and deployed multiple real sites with Lovable, get started here for free: https://link.lovable.dev/techwithtim In this video, ...",
+      "published_at": "2026-09-10T13:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qxygwvBoBTc/hqdefault.jpg"
+    },
+    {
+      "title": "Is NVIDIA&#39;s AI Certification Worth It",
+      "video_id": "Ruh5WKjWPTA",
+      "channel_title": "Tech With Tim",
+      "description": "Is NVIDIA's generative AI and LLMs certification worth it? It's been called the fastest-growing AI certification going into 2026, and ...",
+      "published_at": "2026-09-10T12:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ruh5WKjWPTA/hqdefault.jpg"
+    },
+    {
+      "title": "Claude Code: The Advanced Guide (99% of Devs Skip These Features)",
+      "video_id": "kt5a-TXmWew",
+      "channel_title": "Tech With Tim",
+      "description": "Try Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica Get access to ...",
+      "published_at": "2026-09-07T18:07:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kt5a-TXmWew/hqdefault.jpg"
     },
     {
       "title": "How AI Agents Actually Work (Every Piece Explained &amp; Built)",
@@ -35,54 +59,6 @@
       "description": "Everyone is talking about AI agents and almost nobody can tell you what one actually is. Ask someone to explain the difference ...",
       "published_at": "2026-09-03T14:00:11Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HzGOWq5UyjY/hqdefault.jpg"
-    },
-    {
-      "title": "I Built an Open Source AI Research Agent",
-      "video_id": "tknqAxs1aw0",
-      "channel_title": "Tech With Tim",
-      "description": "The model was never the problem. Same model, same prompt, no agent = a wall of outdated text. So I gave it the missing pieces: ...",
-      "published_at": "2026-09-03T14:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tknqAxs1aw0/hqdefault.jpg"
-    },
-    {
-      "title": "My Complete Local AI Setup - $7000+",
-      "video_id": "eaEtNXWMwLY",
-      "channel_title": "Tech With Tim",
-      "description": "Want to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt Local AI is ...",
-      "published_at": "2026-09-02T14:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eaEtNXWMwLY/hqdefault.jpg"
-    },
-    {
-      "title": "Good AI Models Aren&#39;t the Problem Anymore",
-      "video_id": "NWzs25y_uls",
-      "channel_title": "Tech With Tim",
-      "description": "Why do forward-deployed engineers exist, and why is the role exploding? Because the hard part of AI is no longer the models, ...",
-      "published_at": "2026-09-02T12:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NWzs25y_uls/hqdefault.jpg"
-    },
-    {
-      "title": "Local AI Explained: How to Run AI Models on Your Computer",
-      "video_id": "edIHPoWgIKU",
-      "channel_title": "Tech With Tim",
-      "description": "Use the MindsHub Cowork agentic harness for free (open-source): ...",
-      "published_at": "2026-08-31T14:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/edIHPoWgIKU/hqdefault.jpg"
-    },
-    {
-      "title": "The AI Job That Pays So Much",
-      "video_id": "KqulKe2sgJM",
-      "channel_title": "Tech With Tim",
-      "description": "What's a forward-deployed engineer, and why does it pay so much? Every enterprise AI product has the same gap: the demo ...",
-      "published_at": "2026-08-31T12:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KqulKe2sgJM/hqdefault.jpg"
-    },
-    {
-      "title": "Building AI Agents in Pure Python - Beginner Course",
-      "video_id": "c9AnqCeyxbI",
-      "channel_title": "Tech With Tim",
-      "description": "Download the free guide from HubSpot on Your 2026 Guide to AI Agents: https://clickhubspot.com/70c662 Code in this video ...",
-      "published_at": "2026-08-30T13:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c9AnqCeyxbI/hqdefault.jpg"
     }
   ]
 }
