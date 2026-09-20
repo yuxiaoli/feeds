@@ -1,7 +1,40 @@
 {
-  "fetched_at": "2026-09-13T03:53:24.691461",
+  "fetched_at": "2026-09-20T04:02:17.604913",
   "channel_id": "UC_BaxRhNREI_V0DVXjXDALA",
   "channel_title": "Porsche",
-  "count": 0,
-  "videos": []
+  "count": 4,
+  "videos": [
+    {
+      "title": "Getting stopped by a street photographer like... #shorts",
+      "video_id": "SNAB0Mvel3A",
+      "channel_title": "Porsche",
+      "description": "When you've got your poses locked down. IG @moorecamedia @bgrowan10 ___ 911 GT3 RS (WLTP): Fuel consumption ...",
+      "published_at": "2026-09-19T15:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SNAB0Mvel3A/hqdefault.jpg"
+    },
+    {
+      "title": "Sportscar Together Day 2026 | One weekend, one global community",
+      "video_id": "JtZSyZ-v0ZA",
+      "channel_title": "Porsche",
+      "description": "From early-morning drives to laps around the track, Sportscar Together Day was all about getting out, getting behind the wheel ...",
+      "published_at": "2026-09-17T17:38:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JtZSyZ-v0ZA/hqdefault.jpg"
+    },
+    {
+      "title": "Serenity has reached its peak #shorts",
+      "video_id": "-y_AHIAJogI",
+      "channel_title": "Porsche",
+      "description": "We've found our inner peace. Have you? IG @onlyoptics ___ 911 GT3 with Touring Package (WLTP): Fuel consumption ...",
+      "published_at": "2026-09-17T15:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-y_AHIAJogI/hqdefault.jpg"
+    },
+    {
+      "title": "Porsche 550 J | Some stories are too good to stay in the archives​",
+      "video_id": "rb_33imUrBM",
+      "channel_title": "Porsche",
+      "description": "Introducing the Porsche 550 J.​ Inspired by the legendary 550 Spyder and created by Hedley Studios, the 550 J brings an iconic ...",
+      "published_at": "2026-09-15T15:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rb_33imUrBM/hqdefault.jpg"
+    }
+  ]
 }

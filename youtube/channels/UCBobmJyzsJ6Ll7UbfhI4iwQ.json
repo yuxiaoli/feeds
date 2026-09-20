@@ -1,40 +1,32 @@
 {
-  "fetched_at": "2026-09-13T03:52:56.379712",
+  "fetched_at": "2026-09-20T04:01:48.637614",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 4,
+  "count": 3,
   "videos": [
     {
-      "title": "Bringing Zebra to Life: Animating in Unreal Engine 5.8 | Inside Unreal",
-      "video_id": "CfhHFFvcRow",
+      "title": "Designing Horror Islands w/ ItsBlind | UEFN Build Along",
+      "video_id": "2VOiBh_QVrE",
       "channel_title": "Unreal Engine",
-      "description": "Discover the power of animating directly in Unreal Engine with the new animation and rigging features in Unreal Engine 5.8.",
-      "published_at": "2026-09-10T20:49:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CfhHFFvcRow/hqdefault.jpg"
+      "description": "Prepare to scare! Fortnitemares is coming. What does it take to build an island that truly terrifies? ItsBlind, the developer behind ...",
+      "published_at": "2026-09-17T13:04:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2VOiBh_QVrE/hqdefault_live.jpg"
     },
     {
-      "title": "MetaHuman Animator Markerless Motion Capture Demo",
-      "video_id": "r_-fEi7fXLA",
+      "title": "Getting Started with the Unreal Engine HMI Template and Data Reduction Pipeline",
+      "video_id": "fyjkR6YDjvM",
       "channel_title": "Unreal Engine",
-      "description": "Learn how to create MetaHuman character animation from your own video footage using the MetaHuman Animator Markerless ...",
-      "published_at": "2026-09-10T20:29:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r_-fEi7fXLA/hqdefault.jpg"
+      "description": "Building automotive HMI in Unreal Engine from scratch means solving the same infrastructure problems every time: ingesting ...",
+      "published_at": "2026-09-17T10:08:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fyjkR6YDjvM/hqdefault.jpg"
     },
     {
       "title": "AAA to UEFN: The Genesis of &#39;The Last Ascent&#39; | Creating in Fortnite",
       "video_id": "G7XmykjCxJA",
       "channel_title": "Unreal Engine",
       "description": "Two AAA veterans with Far Cry, Assassin's Creed, and Rainbow Six Siege on their résumés built their own IP in Unreal Editor for ...",
-      "published_at": "2026-09-09T19:31:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G7XmykjCxJA/hqdefault_live.jpg"
-    },
-    {
-      "title": "Getting Started with MCP in Unreal Engine 5.8",
-      "video_id": "k0tgmrBuIJc",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this Epic Games Education Office Hours session for a hands-on look at the Experimental MCP Plugin in Unreal Engine 5.8.",
-      "published_at": "2026-09-07T17:26:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k0tgmrBuIJc/hqdefault.jpg"
+      "published_at": "2026-09-15T21:27:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G7XmykjCxJA/hqdefault.jpg"
     }
   ]
 }

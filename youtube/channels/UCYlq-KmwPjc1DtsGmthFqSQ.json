@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-09-13T03:53:24.016321",
+  "fetched_at": "2026-09-20T04:02:16.908850",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "30 Home Generalization",
+      "video_id": "HuYXf_3TNW8",
+      "channel_title": "Figure",
+      "description": "Yesterday we announced Helix 2.5 We rented 30 homes in the Bay Area. The robots arrived with no additional training and ...",
+      "published_at": "2026-09-18T16:22:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HuYXf_3TNW8/hqdefault.jpg"
+    },
+    {
+      "title": "Helix 2.5 30-Home Generalization",
+      "video_id": "lJpM_2a1zrE",
+      "channel_title": "Figure",
+      "description": "Today we're releasing Helix 2.5 We rented 30 homes in the Bay Area. The robots arrived with no additional training and started ...",
+      "published_at": "2026-09-17T18:44:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lJpM_2a1zrE/hqdefault.jpg"
+    },
     {
       "title": "Scaling Compute",
       "video_id": "QbuIxdvViv4",
@@ -67,22 +83,6 @@
       "description": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT.",
       "published_at": "2026-05-22T01:09:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/uKY1GfaqQ-o/hqdefault.jpg"
-    },
-    {
-      "title": "F.03 Livestream: Day 7 (Hour 144-156)",
-      "video_id": "SnunwkMlP08",
-      "channel_title": "Figure",
-      "description": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT.",
-      "published_at": "2026-05-22T01:09:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SnunwkMlP08/hqdefault.jpg"
-    },
-    {
-      "title": "F.03 Livestream: Day 5 Man vs. Machine (Hour 96-108)",
-      "video_id": "UFbtDRWXE-g",
-      "channel_title": "Figure",
-      "description": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT.",
-      "published_at": "2026-05-22T01:09:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UFbtDRWXE-g/hqdefault.jpg"
     }
   ]
 }

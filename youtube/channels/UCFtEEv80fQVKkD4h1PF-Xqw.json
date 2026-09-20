@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-09-13T03:53:02.127757",
+  "fetched_at": "2026-09-20T04:01:54.128696",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
-    {
-      "title": "Why Seattle Seahawks coaches rely on this analyst during every game",
-      "video_id": "fdq3aYCVIL0",
-      "channel_title": "Microsoft",
-      "description": "A Seattle @Seahawks analyst has about 25 seconds between plays to find the right information. Using Copilot in Excel, analysts ...",
-      "published_at": "2026-09-09T22:06:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fdq3aYCVIL0/hqdefault.jpg"
-    },
     {
       "title": "What happens when AI enters healthcare? | On Second Thought",
       "video_id": "WKrGCu398ss",
@@ -83,6 +75,14 @@
       "description": "For Nota Chief Executive Officer Josh Brandau, empowering local newsrooms with AI-assisted technology is about more than just ...",
       "published_at": "2023-05-23T16:00:16Z",
       "thumbnail_url": "https://i.ytimg.com/vi/QX9XbzTc00I/hqdefault.jpg"
+    },
+    {
+      "title": "Neil deGrasse Tyson, astrophysicist, on the importance of access to science",
+      "video_id": "ic2Ynl6HQa8",
+      "channel_title": "Microsoft",
+      "description": "Neil deGrasse Tyson is one of America's best-known astrophysicists and a huge advocate for the sciences and scientific thinking.",
+      "published_at": "2023-05-23T15:00:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ic2Ynl6HQa8/hqdefault.jpg"
     }
   ]
 }

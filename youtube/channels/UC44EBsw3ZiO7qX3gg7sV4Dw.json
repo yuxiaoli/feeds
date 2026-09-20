@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-09-13T03:52:49.370434",
+  "fetched_at": "2026-09-20T04:01:41.442561",
   "channel_id": "UC44EBsw3ZiO7qX3gg7sV4Dw",
   "channel_title": "Balitecture",
-  "count": 1,
+  "count": 3,
   "videos": [
     {
-      "title": "The All White House With A Cinema On The Roof",
-      "video_id": "gKYljuO1MmM",
+      "title": "This villa leans into a dark, refined material palette that feels calm and grounded #homedesign",
+      "video_id": "jT9bcQecy_U",
       "channel_title": "Balitecture",
-      "description": "This week we're heading west, past the crowds and out to the rice fields near Tanah Lot, for a full tour of Maison Coucou.",
-      "published_at": "2026-09-06T13:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gKYljuO1MmM/hqdefault.jpg"
+      "description": "Interested in owning one of these high-ROI holiday rental villas? Design yours with us! Find out more: ...",
+      "published_at": "2026-09-19T12:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jT9bcQecy_U/hqdefault.jpg"
+    },
+    {
+      "title": "The bathroom of your dream! Sapta Cemagi turns the bathroom into the quietest luxury in the villa",
+      "video_id": "bg0pjanM3OI",
+      "channel_title": "Balitecture",
+      "description": "Interested in owning one of these high-ROI holiday rental villas? Explore our best off-plan projects ...",
+      "published_at": "2026-09-18T12:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bg0pjanM3OI/hqdefault.jpg"
+    },
+    {
+      "title": "They soften the whole structure, turning a clean modern façade into something warmer #tropicalhouse",
+      "video_id": "tQp0ve7-v48",
+      "channel_title": "Balitecture",
+      "description": "Interested in owning one of these high-ROI holiday rental villas? Design yours with us! Find out more: ...",
+      "published_at": "2026-09-16T12:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tQp0ve7-v48/hqdefault.jpg"
     }
   ]
 }

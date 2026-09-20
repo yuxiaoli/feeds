@@ -1,56 +1,88 @@
 {
-  "fetched_at": "2026-09-13T03:53:02.854614",
+  "fetched_at": "2026-09-20T04:01:54.843331",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
-  "count": 6,
+  "count": 10,
   "videos": [
     {
-      "title": "谷歌DeepMind掌舵人承认当前模型略逊于前沿​ | ​Koray Kavukcuoglu | Gemini 4 | 3.5 Pro | AI前沿 | AGI | 强化学习 | 深度学习 |",
-      "video_id": "OkceW8_9q60",
+      "title": "想要递归自我改进吗？做梦吧！​ | 谷歌Dream-RSI | DeepMind | AlphaEvolve | Gemini | AI自我进化 | 发现树 | 行动轨迹",
+      "video_id": "TulKg6eOZaE",
       "channel_title": "最佳拍档",
-      "description": "谷歌DeepMind首席技术官Koray Kavukcuoglu做客播客访谈，罕见承认当前模型质量客观上略微落后于行业前沿，但强调没有什么 ...",
-      "published_at": "2026-09-12T12:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OkceW8_9q60/hqdefault.jpg"
+      "description": "谷歌联合Google DeepMind、马里兰大学和弗吉尼亚大学发表Dream-RSI论文，提出让AI通过\"做梦\"实现递归自我改进（RSI）。",
+      "published_at": "2026-09-20T00:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TulKg6eOZaE/hqdefault.jpg"
     },
     {
-      "title": "递归自我改进AI正在拿人类命运下注 | Anthropic研究员Jacob Coxon辞职警告 | AI安全 | 超级智能 | AI对齐 | Hugging Face事件 | 诸神黄昏",
-      "video_id": "GgZx3DBrWps",
+      "title": "三个月后的AI很难预测 | OpenAI研究员诺姆·布朗 | 多智能体集群与递归自我改进 | 思维链监控 | 千禧年大奖难题 | Hugging Face | 强化学习 | 测试时计算",
+      "video_id": "U8IOTZ-8UIA",
       "channel_title": "最佳拍档",
-      "description": "Anthropic预训练研究员Jacob Coxon辞职并连发7帖，指控OpenAI和Anthropic正径直冲向自我改进的超级智能、拿全人类命运下注 ...",
-      "published_at": "2026-09-11T12:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GgZx3DBrWps/hqdefault.jpg"
+      "description": "OpenAI研究员诺姆·布朗在两场专访中深度解析了多智能体系统的运作原理、AI数学突破的轨迹以及递归自我改进的技术前景。",
+      "published_at": "2026-09-19T12:32:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/U8IOTZ-8UIA/hqdefault.jpg"
     },
     {
-      "title": "AI内存的技术混战 | 伯恩斯坦研究报告 | AI内存 | HBM | CXL | DRAM | NAND | KV缓存 | 存储器产业 | AI算力底层硬件 | 存储级内存 | 人工智能推理",
-      "video_id": "RJyBzzg-c8o",
+      "title": "马斯克谈AI安全：不能只给自己的模型判卷​ | AI安全 | SpaceX | 星舰 | 星链 | Anthropic | Terafab | 芯片制造 | All-In Summit 2026",
+      "video_id": "ceIBTuYK1UY",
       "channel_title": "最佳拍档",
-      "description": "本期基于伯恩斯坦2026年8月发布的《Global Memory：An AI memory primer》英文原版报告，系统梳理AI内存的完整技术图景。",
-      "published_at": "2026-09-11T00:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RJyBzzg-c8o/hqdefault.jpg"
+      "description": "本期解读All-In Summit 2026上马斯克与SpaceX总裁肖特维尔的深度访谈。肖特维尔回顾24年前因一顿午餐加入SpaceX的经历， ...",
+      "published_at": "2026-09-19T00:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ceIBTuYK1UY/hqdefault.jpg"
     },
     {
-      "title": "3000万开发者买光算力，15亿人进场榨干电力铜矿​ | AI算力 | 黄仁勋 | 马斯克 | 英伟达 | 数据中心 | 太空算力 | SpaceX | 人工智能 | 芯片供应链 | 多模型架构",
-      "video_id": "b1nLuLPDxLY",
+      "title": "System One模型Jev​ | Diogo Almeida | TypeSafe AI | RLCD | RLHF | 结构化输出 | 不会聊天的模型 | 丹尼尔卡尼曼 | 杰文斯悖论",
+      "video_id": "xJ1GrKDpgm4",
       "channel_title": "最佳拍档",
-      "description": "深度解析a16z对顶级投资人Gavin Baker的硬核对谈：当下市场最大的误判，是把供应链即将榨干的\"超级大缺货\"误当成\"产能过剩 ...",
-      "published_at": "2026-09-10T00:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/b1nLuLPDxLY/hqdefault.jpg"
+      "description": "前OpenAI核心研究员Diogo Almeida创立TypeSafe AI，发布首款System One模型Jev。Jev放弃文本生成，直接输出带概率置信度的 ...",
+      "published_at": "2026-09-18T12:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xJ1GrKDpgm4/hqdefault.jpg"
     },
     {
-      "title": "Bill Dally对话TPU之父Norman Jouppi ：真正竞争的不是芯片 | AI芯片 | TPU | 英伟达 | 系统工程 | 硅金矿 | CUDA",
-      "video_id": "Ch9GH7UrDHg",
+      "title": "如何表达| MIT风靡几十年的经典演讲课​ | Patrick Winston | 如何表达 | 演讲技巧 | 沟通方法论 | 赋能承诺 | 温斯顿之星 | 口头表达 | 黑板教学",
+      "video_id": "u9wjz5RJ_bY",
       "channel_title": "最佳拍档",
-      "description": "2026年8月，在美国计算机历史博物馆的《The Silicon Gold Rush》对谈中，英伟达首席科学家Bill Dally与Google TPU之父Norman ...",
-      "published_at": "2026-09-09T12:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ch9GH7UrDHg/hqdefault.jpg"
+      "description": "本期视频深入解读MIT传奇教授帕特里克·温斯顿的经典讲座《如何表达》。温斯顿是MIT人工智能实验室前主任，师从AI之父马文·明 ...",
+      "published_at": "2026-09-18T00:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u9wjz5RJ_bY/hqdefault.jpg"
     },
     {
-      "title": "RoR之父：不要预测任何事 | DHH | Ruby on Rails | AI编程 | Agent开发 | Omarchy | Linux桌面 | 开源社区 | vibe coding",
-      "video_id": "Z4Fql7uwexg",
+      "title": "OpenAI总裁：AGI没有发布日，它正在逐步发生​ | AGI | Greg Brockman | GPT-6 Astra | Codex | 通用人工智能 | 纳维-斯托克斯 | 编程智能体",
+      "video_id": "mSaIEHVYG1E",
       "channel_title": "最佳拍档",
-      "description": "Ruby on Rails创始人DHH二次做客Lex Fridman播客，完整分享从AI质疑者到Agent实践者的转变历程。他讲述Omarchy Quattro三个 ...",
-      "published_at": "2026-09-04T00:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z4Fql7uwexg/hqdefault.jpg"
+      "description": "OpenAI联合创始人兼总裁格雷格·布罗克曼（Greg Brockman）近期分别接受TIME和TBPN专访，系统阐述了AGI作为渐进过程的判断 ...",
+      "published_at": "2026-09-17T12:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mSaIEHVYG1E/hqdefault.jpg"
+    },
+    {
+      "title": "曾鸣的AI时代非共识判断​ | 曾鸣 | AI时代 | 智能体 | Agent | 大模型 | OpenAI | Anthropic | 战略规划 | 原生应用 | 寡头垄断 | AI原生组织",
+      "video_id": "Sg8dAlaGBnA",
+      "channel_title": "最佳拍档",
+      "description": "阿里前总参谋长曾鸣系统分享了对AI时代的十一个非共识判断。他将AI产业化划分为三阶段，认为2026年是基础设施阶段完成的标志 ...",
+      "published_at": "2026-09-17T00:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Sg8dAlaGBnA/hqdefault.jpg"
+    },
+    {
+      "title": "警惕AI移民与意识伪装，人类会失去控制权吗​？| 尤瓦尔·赫拉利 | AI移民 | AI意识 | AI法律人格 | AI控制权 | 信任转移 | AI亲密关系 | 深度伪造 | AI金融系统",
+      "video_id": "xQqI1pbc-6U",
+      "channel_title": "最佳拍档",
+      "description": "本期视频基于《经济学人》对历史学家尤瓦尔·赫拉利的专访，深度解析AI对人类文明的根本性挑战。赫拉利指出AI并非简单工具， ...",
+      "published_at": "2026-09-16T00:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xQqI1pbc-6U/hqdefault.jpg"
+    },
+    {
+      "title": "吴恩达：AI改变的不是岗位而是任务 | AI就业 | AI教育 | 认知卸载 | AI原生工作 | 任务自动化 | 软件工程 | 产品管理瓶颈 | AGI | 主动性agency",
+      "video_id": "orYp8SWDhHs",
+      "channel_title": "最佳拍档",
+      "description": "吴恩达在Silicon Valley Girl播客访谈中系统回应AI就业恐慌。他认为AI不是取代岗位而是自动化其中30%-40%的任务，剩余人类工作 ...",
+      "published_at": "2026-09-15T12:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/orYp8SWDhHs/hqdefault.jpg"
+    },
+    {
+      "title": "AI的异质心智 | OpenAI | Jakub Pachocki | AGI | 通用人工智能 | AI对齐 | 价值对齐 | 思维链监控 | 递归自我改进 | RSI | AI安全",
+      "video_id": "5IzQVc-XtB0",
+      "channel_title": "最佳拍档",
+      "description": "OpenAI首席科学家Jakub Pachocki发表长文《An Alien Mind》，系统回顾AI发展并就机器智能、对齐、监控与递归自我改进提出 ...",
+      "published_at": "2026-09-15T00:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5IzQVc-XtB0/hqdefault.jpg"
     }
   ]
 }

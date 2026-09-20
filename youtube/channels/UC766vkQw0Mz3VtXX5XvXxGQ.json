@@ -1,7 +1,16 @@
 {
-  "fetched_at": "2026-09-13T03:52:52.033950",
+  "fetched_at": "2026-09-20T04:01:44.269615",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta Quest ",
-  "count": 0,
-  "videos": []
+  "count": 1,
+  "videos": [
+    {
+      "title": "see if you can guess the game!",
+      "video_id": "-Hh-iLJPLR4",
+      "channel_title": "Meta Quest ",
+      "description": "",
+      "published_at": "2026-09-17T15:59:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-Hh-iLJPLR4/hqdefault.jpg"
+    }
+  ]
 }

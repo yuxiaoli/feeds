@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-13T03:52:43.707043",
+  "fetched_at": "2026-09-20T04:01:35.670073",
   "channel_id": "UC-yuWVUplUJZvieEligKBkA",
   "channel_title": "javidx9",
   "count": 10,
   "videos": [
+    {
+      "title": "olc::PixelGameEngine 3.0 Open Beta, PGE2 to PGE3 tips...",
+      "video_id": "Z7ZE64NaXbE",
+      "channel_title": "javidx9",
+      "description": "In this video, I introduce the fantastic sponsor of olc::CodeJam2026 CraftPix.net, who have generously donated some ...",
+      "published_at": "2026-09-14T20:32:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z7ZE64NaXbE/hqdefault.jpg"
+    },
     {
       "title": "Life, Dev, Jam &amp; Shed",
       "video_id": "ZCYm0wkxpv0",
@@ -75,14 +83,6 @@
       "description": "Texture Sampling is fundamental to all grahics these days, but I thought I'd have a bit of an exploration of what exactly goes on ...",
       "published_at": "2023-02-02T19:41:08Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4s30cnqxJ-0/hqdefault.jpg"
-    },
-    {
-      "title": "Serialising/Deserialising Structured Memory To Disk, AKA Savin&#39; Stuff",
-      "video_id": "jlS1Y2-yKV0",
-      "channel_title": "javidx9",
-      "description": "In this tedious and long video, I talk about an easy to use file format that's great for serilizing and deserializing data, i.e. Saving ...",
-      "published_at": "2022-11-19T17:21:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jlS1Y2-yKV0/hqdefault.jpg"
     }
   ]
 }

@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-09-13T03:53:08.580254",
+  "fetched_at": "2026-09-20T04:02:00.579224",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
-    {
-      "title": "AI开始预测人类：83亿虚拟人格、数字社会，与一门押注未来的生意｜解析AI预测模型｜AI prediction model",
-      "video_id": "--ePbkaRwl4",
-      "channel_title": "硅谷101",
-      "description": "如果AI不仅能回答问题，还能“复制”人类、模拟社会，甚至把尚未发生的未来提前跑一遍，会发生什么？ 从只有25个Agent的“斯坦福 ...",
-      "published_at": "2026-09-10T00:29:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/--ePbkaRwl4/hqdefault.jpg"
-    },
     {
       "title": "机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争｜机器人系列",
       "video_id": "BmcoQDwdkeM",
@@ -83,6 +75,14 @@
       "description": "马斯克曾说：“没有她，SpaceX早就倒闭了。”她就是SpaceX的总裁兼COO Gwynne Shotwell。过去二十年，当马斯克站在聚光灯下 ...",
       "published_at": "2026-06-10T09:24:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/MIyEX1WOuJI/hqdefault.jpg"
+    },
+    {
+      "title": "再访田渊栋：46.5亿美金估值的RSI，与AI自进化｜Neolabs特辑【101视频播客】",
+      "video_id": "F7oNfszczVc",
+      "channel_title": "硅谷101",
+      "description": "近期，Anthropic公开呼吁全球暂停AI开发，原因是“AI正在以惊人速度加速AI自身的开发进程”。这样的进程被称为之Recursive ...",
+      "published_at": "2026-06-05T14:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F7oNfszczVc/hqdefault.jpg"
     }
   ]
 }

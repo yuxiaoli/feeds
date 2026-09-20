@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-13T03:53:43.874800",
+  "fetched_at": "2026-09-20T04:02:37.165833",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Astronomy events to watch from Sep 18 to 22! ✨",
+      "video_id": "2r3XBNMIUaQ",
+      "channel_title": "Star Walk",
+      "description": "Sep 18 — First Quarter Moon Sep 17–19 — Mars near Pollux Sep 19 — International Observe the Moon Night ⭐ Sep 20 ...",
+      "published_at": "2026-09-18T06:54:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2r3XBNMIUaQ/hqdefault.jpg"
+    },
     {
       "title": "The Perseids — from Earth and from space 🌠",
       "video_id": "AEhaUT41OfY",
@@ -19,14 +27,6 @@
       "description": "",
       "published_at": "2026-07-28T08:54:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/scLH3KcPNRc/hqdefault.jpg"
-    },
-    {
-      "title": "Two reddish lights. One of them is a planet 👀",
-      "video_id": "5s3S654yxME",
-      "channel_title": "Star Walk",
-      "description": "On July 13–14, Mars passes close to Aldebaran — the orange eye of Taurus. Watch them for several mornings: Mars changes ...",
-      "published_at": "2026-07-15T12:45:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5s3S654yxME/hqdefault.jpg"
     },
     {
       "title": "The June Full Moon is coming 🌕🍓",
@@ -77,12 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XynEZltaP18/hqdefault.jpg"
     },
     {
-      "title": "Productive by Default 🌍☀️",
-      "video_id": "_-GErcjBbIk",
+      "title": "January Full Moon 2026 is the Wolf Supermoon! 🐺🌕",
+      "video_id": "Lq9NlNQdZSw",
       "channel_title": "Star Walk",
-      "description": "Even if you haven't left your bed all day, you're still moving through space on a planet that's orbiting the Sun at about 18.6 miles ...",
-      "published_at": "2026-02-02T09:10:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_-GErcjBbIk/hqdefault.jpg"
+      "description": "On January 3 at 10:03 GMT, the first Full Moon of 2026 rises – known as the Wolf Moon. Named for the howling of wolves on cold ...",
+      "published_at": "2026-01-01T23:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lq9NlNQdZSw/hqdefault.jpg"
     }
   ]
 }

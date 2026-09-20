@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-13T03:53:05.039547",
+  "fetched_at": "2026-09-20T04:01:57.035928",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "The Most Popular Pyramid Theory Has a Huge Problem",
+      "video_id": "Jyyoo2x9N54",
+      "channel_title": "DamiLee",
+      "description": "Out of every theory on how the pyramids were built, this is the one most people believe. It's also the one with the biggest hole in it.",
+      "published_at": "2026-09-15T16:07:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Jyyoo2x9N54/hqdefault.jpg"
+    },
     {
       "title": "The Pyramid&#39;s Payroll Survived. The Blueprints Didn&#39;t.",
       "video_id": "yHET74gmTbk",
@@ -75,14 +83,6 @@
       "description": "On Coruscant, a trillion tons of garbage per hour isn't just a problem - it's an engineered system. With over 5000 massive garbage ...",
       "published_at": "2026-03-23T15:31:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DWNDp3F9VQc/hqdefault.jpg"
-    },
-    {
-      "title": "Where would you choose to live on Coruscant?",
-      "video_id": "nIs61b2t920",
-      "channel_title": "DamiLee",
-      "description": "Coruscant is a planet-wide city with 1–2 trillion people living across thousands of vertical layers, where every square kilometer is ...",
-      "published_at": "2026-02-11T16:30:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nIs61b2t920/hqdefault.jpg"
     }
   ]
 }

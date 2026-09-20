@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-13T03:53:07.158043",
+  "fetched_at": "2026-09-20T04:01:59.186079",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "You should have an agent that grades your agents",
+      "video_id": "6q1lFJgdoi8",
+      "channel_title": "Warp",
+      "description": "Try Warp Factories: warp.dev/factories/request-access Let's measure the quality of coding agents (Claude Code, Codex, etc) with ...",
+      "published_at": "2026-09-17T16:04:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6q1lFJgdoi8/hqdefault.jpg"
+    },
     {
       "title": "How to build a model bench on your own coding tasks",
       "video_id": "mojpQjwBXN0",
@@ -75,14 +83,6 @@
       "description": "Try Codex in Warp: https://www.warp.dev/agents/codex.",
       "published_at": "2026-05-20T15:01:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xDU3M-U2_Eg/hqdefault.jpg"
-    },
-    {
-      "title": "Orchestrate a team of agents in Warp",
-      "video_id": "WNwnZybrp60",
-      "channel_title": "Warp",
-      "description": "Download Warp and run /orchestrate: https://warp.dev.",
-      "published_at": "2026-05-19T21:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WNwnZybrp60/hqdefault.jpg"
     }
   ]
 }

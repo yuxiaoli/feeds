@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-09-13T03:53:22.492700",
+  "fetched_at": "2026-09-20T04:02:15.513903",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "GPT-6 Astra needs less babysitting",
-      "video_id": "SiJGdlmdUms",
+      "title": "Use ChatGPT Work to ground analysis in your semantic layer",
+      "video_id": "bbNTY8O0GTY",
       "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2026-09-12T15:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SiJGdlmdUms/hqdefault.jpg"
+      "description": "Your data agent needs to understand how your business defines its metrics. In this clip, OpenAI's data team explains how a ...",
+      "published_at": "2026-09-18T13:28:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bbNTY8O0GTY/hqdefault.jpg"
     },
     {
-      "title": "GPT-6 Astra added unexpected details",
-      "video_id": "ZlvkQYZo3ZE",
+      "title": "Use ChatGPT Work to build dashboards from a business question",
+      "video_id": "GzCsKuDgr6Q",
       "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2026-09-11T21:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZlvkQYZo3ZE/hqdefault.jpg"
+      "description": "Start with the question your team needs to answer: how is product adoption changing? This ChatGPT Work demo shows a prompt ...",
+      "published_at": "2026-09-18T13:27:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GzCsKuDgr6Q/hqdefault.jpg"
     },
     {
-      "title": "GPT-Live-1 is now in the API",
-      "video_id": "OSaP6bJoU44",
+      "title": "Use ChatGPT Work to turn product insights into a team action plan",
+      "video_id": "wK0zWeVyLM4",
       "channel_title": "OpenAI",
-      "description": "GPT-Live-1 is now available in the API. Bring ChatGPT's natural back-and-forth to your app, with voice agents that listen while ...",
-      "published_at": "2026-09-11T17:06:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OSaP6bJoU44/hqdefault.jpg"
+      "description": "A drop-off in your adoption funnel tells you where to look. Customer feedback helps you investigate why. See how usage data and ...",
+      "published_at": "2026-09-18T13:25:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wK0zWeVyLM4/hqdefault.jpg"
     },
     {
-      "title": "GPT-6 Astra handles the editing busywork",
-      "video_id": "4bGb2OjU5tA",
+      "title": "Use ChatGPT Work to help teams answer their own data questions",
+      "video_id": "euED8JRunBA",
       "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2026-09-11T15:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4bGb2OjU5tA/hqdefault.jpg"
+      "description": "Help more people investigate business questions without routing every question through the data team. In this clip, OpenAI's data ...",
+      "published_at": "2026-09-18T13:25:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/euED8JRunBA/hqdefault.jpg"
     },
     {
-      "title": "GPT-6 Astra built a font playground",
-      "video_id": "0NUm552iB3U",
+      "title": "Use ChatGPT Work to tailor dashboards for every stakeholder",
+      "video_id": "Wb8MhkpQpX8",
       "channel_title": "OpenAI",
-      "description": "",
-      "published_at": "2026-09-11T04:08:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0NUm552iB3U/hqdefault.jpg"
+      "description": "Give stakeholders a view of the business that fits the decisions they need to make. Watch this ChatGPT Work demo adapt ...",
+      "published_at": "2026-09-18T13:27:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wb8MhkpQpX8/hqdefault.jpg"
     },
     {
-      "title": "Introducing the Agents API",
-      "video_id": "2YHa1vhnmK0",
+      "title": "Use ChatGPT Work to build your data agent",
+      "video_id": "cXUmFec2PNY",
       "channel_title": "OpenAI",
-      "description": "The Agents API brings a hosted version of the Codex harness to your applications. See how to build an agent that investigates ...",
-      "published_at": "2026-09-10T19:26:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2YHa1vhnmK0/hqdefault.jpg"
+      "description": "Give your data agent the context it needs to work with your business. In this clip, see how to connect tools in ChatGPT Work and ...",
+      "published_at": "2026-09-18T13:25:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cXUmFec2PNY/hqdefault.jpg"
     },
     {
-      "title": "In Harmony",
-      "video_id": "PbfXbDbCthA",
+      "title": "Meet the Data Agent in ChatGPT Work",
+      "video_id": "VMgEQ7ym9WU",
       "channel_title": "OpenAI",
-      "description": "Work directed by you. Move projects forward and turn ideas into action with ChatGPT Work.",
-      "published_at": "2026-09-10T17:29:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PbfXbDbCthA/hqdefault.jpg"
+      "description": "Turn business questions into clear next steps with the Data agent in ChatGPT Work. See how to analyze company data, build ...",
+      "published_at": "2026-09-18T13:24:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VMgEQ7ym9WU/hqdefault.jpg"
     },
     {
-      "title": "Discovering new antibiotics with ChatGPT",
-      "video_id": "0XLGisanEAs",
+      "title": "Astra for Law: Frontier intelligence built for your practice.",
+      "video_id": "YeeGHCixr7o",
       "channel_title": "OpenAI",
-      "description": "The de la Fuente Lab is using ChatGPT and Codex in the search for new molecules that could help fight antibiotic-resistant ...",
-      "published_at": "2026-09-10T15:59:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0XLGisanEAs/hqdefault.jpg"
+      "description": "Astra for Law: A new offering powered by GPT-6 Astra with tools, settings, and context to support the expertise and judgment of ...",
+      "published_at": "2026-09-17T20:41:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YeeGHCixr7o/hqdefault.jpg"
     },
     {
-      "title": "Helping a small business go big with ChatGPT",
-      "video_id": "mPAmXQnhv2E",
+      "title": "ChatGPT for Word is now available",
+      "video_id": "lxVMdEpe0RQ",
       "channel_title": "OpenAI",
-      "description": "Derek and Larissa Guetter own ATV Big Air Tour – a small business that brings high-octane ATV and motocross shows to events ...",
-      "published_at": "2026-09-10T16:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mPAmXQnhv2E/hqdefault.jpg"
+      "description": "Procrastination has met its match. ChatGPT is now in Word. You can add ChatGPT to Microsoft Word to turn rough notes into first ...",
+      "published_at": "2026-09-17T19:12:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lxVMdEpe0RQ/hqdefault.jpg"
     },
     {
-      "title": "Two blind brothers using ChatGPT to navigate life and run their nonprofit",
-      "video_id": "qg_54P-oPgI",
+      "title": "Jump Trading points GPT-6 Astra to its most ambiguous, difficult tasks",
+      "video_id": "s495saGYWFg",
       "channel_title": "OpenAI",
-      "description": "Bradford and Bryan Manning have spent their lives adapting to a world built for sight. Both brothers live with Stargardt disease, ...",
-      "published_at": "2026-09-10T16:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qg_54P-oPgI/hqdefault.jpg"
+      "description": "At Jump Trading, Lucas Baker, Head of LLM R&D, is seeing agents take on broader, less defined work—from building entire ...",
+      "published_at": "2026-09-17T18:03:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s495saGYWFg/hqdefault.jpg"
     }
   ]
 }

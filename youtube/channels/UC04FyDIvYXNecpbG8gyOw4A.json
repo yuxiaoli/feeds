@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-09-13T03:52:44.428572",
+  "fetched_at": "2026-09-20T04:01:36.383111",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Riley&#39;s Rebuilds",
+      "video_id": "oJ4H5WAkHYw",
+      "channel_title": "Meta",
+      "description": "",
+      "published_at": "2026-09-18T17:45:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oJ4H5WAkHYw/hqdefault.jpg"
+    },
+    {
+      "title": "Reel of the Week | AR + VR Street Art",
+      "video_id": "bof56DxMcvo",
+      "channel_title": "Meta",
+      "description": "Margarita is an award-winning visual artist who uses @MetaQuestVR as her primary artistic medium, painting live in virtual reality ...",
+      "published_at": "2026-09-18T16:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bof56DxMcvo/hqdefault.jpg"
+    },
+    {
+      "title": "Meta Connect Save the Date 2026",
+      "video_id": "hdTuRiOYKi4",
+      "channel_title": "Meta",
+      "description": "your front row seat to the future? right this way. Meta Connect is livestreaming on 9/23. come for the latest breakthroughs in AI tech ...",
+      "published_at": "2026-09-17T13:00:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hdTuRiOYKi4/hqdefault.jpg"
+    },
+    {
+      "title": "smartARM: The AI-Powered Bionic Arm",
+      "video_id": "dW_aK5rL1kM",
+      "channel_title": "Meta",
+      "description": "What is smartARM? A vision-first bionic arm that learns how to grip from just a few photos, using our open-source vision model ...",
+      "published_at": "2026-09-16T16:15:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dW_aK5rL1kM/hqdefault.jpg"
+    },
     {
       "title": "Get the full story behind the light",
       "video_id": "tsA0C_cbxZY",
@@ -51,38 +83,6 @@
       "description": "When Gabby and Tom found an old trailer on @facebookapp Marketplace, they got so much more than a new set of wheels.",
       "published_at": "2026-04-23T16:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7M9NWZMCIPk/hqdefault.jpg"
-    },
-    {
-      "title": "Cutting this fabric reveals a secret design ✂️ via @himuroyuri on IG",
-      "video_id": "6HURjWjH5ts",
-      "channel_title": "Meta",
-      "description": "Meet Yuri Himuro (@himuroyuri), a Tokyo-based textile designer and artist whose work invites you to reach out and touch it.",
-      "published_at": "2026-04-22T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6HURjWjH5ts/hqdefault.jpg"
-    },
-    {
-      "title": "Edits App!",
-      "video_id": "KHyaAVI2Tis",
-      "channel_title": "Meta",
-      "description": "with @AIatMeta you can...do all kinds of things. check out the app to start animating photos, discover new products, and more.",
-      "published_at": "2026-04-20T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KHyaAVI2Tis/hqdefault.jpg"
-    },
-    {
-      "title": "Green Screen Fakeout",
-      "video_id": "_yKYHJ64zRM",
-      "channel_title": "Meta",
-      "description": "Meta AI makes snack time better (without the judgement)",
-      "published_at": "2026-03-20T14:01:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_yKYHJ64zRM/hqdefault.jpg"
-    },
-    {
-      "title": "Make a Move",
-      "video_id": "ugg35V3ZC9c",
-      "channel_title": "Meta",
-      "description": "Make a move with @oakleymeta HSTNs - they're here for true athletes (and Ray)",
-      "published_at": "2026-02-13T17:01:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ugg35V3ZC9c/hqdefault.jpg"
     }
   ]
 }

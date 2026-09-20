@@ -1,80 +1,64 @@
 {
-  "fetched_at": "2026-09-13T03:52:52.703092",
+  "fetched_at": "2026-09-20T04:01:44.957908",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 10,
+  "count": 8,
   "videos": [
     {
-      "title": "What is hill climbing in AI agent development?",
-      "video_id": "u5CS4_b8eU8",
+      "title": "How to handle non-compliant AI tool usage without slowing down developers",
+      "video_id": "EIea1OM3M0A",
       "channel_title": "GitHub",
-      "description": "Hill climbing isn't just an exercise term; it is a practical method for improving AI agent performance. In this clip from the GitHub ...",
-      "published_at": "2026-09-12T15:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u5CS4_b8eU8/hqdefault.jpg"
+      "description": "When developers purchase their own AI tools, it signals unmet needs rather than a simple compliance problem. In this video ...",
+      "published_at": "2026-09-19T15:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EIea1OM3M0A/hqdefault.jpg"
     },
     {
-      "title": "From pilot to broad adoption: Avoid the conditions trap",
-      "video_id": "lfsWnaM2vmg",
+      "title": "Open Source Friday: Securing JavaScript Projects with CVE Lite CLI",
+      "video_id": "_Mmf3DLVuOQ",
       "channel_title": "GitHub",
-      "description": "Many organizations launch successful software pilots only to watch momentum stall during full rollout. In this video, GitHub experts ...",
-      "published_at": "2026-09-11T20:24:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lfsWnaM2vmg/hqdefault.jpg"
+      "description": "CVE Lite CLI is a fast, local dependency vulnerability scanner for JavaScript and TypeScript projects. It supports npm, pnpm, Yarn, ...",
+      "published_at": "2026-09-19T06:25:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_Mmf3DLVuOQ/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday: DocumentDB",
-      "video_id": "TkxGupjwdxE",
+      "title": "Dream it, Build it, Ship it! | GitHub Copilot Day",
+      "video_id": "2dy2hFR3-q4",
       "channel_title": "GitHub",
-      "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
-      "published_at": "2026-09-11T18:03:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TkxGupjwdxE/hqdefault.jpg"
+      "description": "Follow James Montemagno and Pierce Boggan as they demonstrate how to build, test, and ship applications using GitHub Copilot ...",
+      "published_at": "2026-09-18T20:42:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2dy2hFR3-q4/hqdefault.jpg"
     },
     {
-      "title": "Jueves de Quack - Innersource con Credicorp",
-      "video_id": "aWz3BWj3d00",
+      "title": "If you need to fine-tune a model on your codebase, is your code bad?",
+      "video_id": "SjFO8dgRBm4",
       "channel_title": "GitHub",
-      "description": "Qué pasaría si los equipos de distintas empresas dentro de una misma corporación pudieran colaborar, reutilizar soluciones y ...",
-      "published_at": "2026-09-11T03:20:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aWz3BWj3d00/hqdefault.jpg"
+      "description": "If an AI model needs fine-tuning just to navigate your codebase, the problem might not be the model. In this clip from the GitHub ...",
+      "published_at": "2026-09-18T15:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SjFO8dgRBm4/hqdefault.jpg"
     },
     {
-      "title": "Attach images to PRs and Issues with GitHub CLI",
-      "video_id": "2-lA7Escqns",
+      "title": "Will tech companies hire developers who do not use AI?",
+      "video_id": "Q7uO3vWP1h4",
       "channel_title": "GitHub",
-      "description": "In this stream we'll explore the new attach flag in the GitHub CLI. Attach images to PR's and Issues with GitHub CLI.",
-      "published_at": "2026-09-10T23:40:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2-lA7Escqns/hqdefault.jpg"
+      "description": "Can refusing to use AI tools cost you a job offer? In this clip from the GitHub Podcast, the team discusses recent interview trends ...",
+      "published_at": "2026-09-17T15:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q7uO3vWP1h4/hqdefault.jpg"
     },
     {
-      "title": "GitHub Copilot Day live: new releases, real workflows, and live coding",
-      "video_id": "0kOXsQUNzss",
+      "title": "How Project HydraFusion reduces the cost of frontier AI",
+      "video_id": "1asMXES_5jY",
       "channel_title": "GitHub",
-      "description": "Join us live for four hours of GitHub Copilot, from the people building it and the developers putting it to work. ⏰ Schedule in PDT ...",
-      "published_at": "2026-09-10T19:14:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0kOXsQUNzss/hqdefault.jpg"
+      "description": "Everyone's racing to build a better model. HydraFusion optimizes the path instead, orchestrating existing models per request ...",
+      "published_at": "2026-09-16T20:31:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1asMXES_5jY/hqdefault.jpg"
     },
     {
-      "title": "What does a forward deployed engineer actually do?",
-      "video_id": "l5_oD32SaH4",
+      "title": "How to continue GitHub Copilot app sessions in VS Code",
+      "video_id": "dNCGfpDho0U",
       "channel_title": "GitHub",
-      "description": "Tech job titles can be confusing, especially as AI changes how we build software. In this clip from the GitHub Podcast, the team ...",
-      "published_at": "2026-09-10T15:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l5_oD32SaH4/hqdefault.jpg"
-    },
-    {
-      "title": "How to teach GitHub Copilot about your codebase | Tutorial for Beginners",
-      "video_id": "QGakvawJc2M",
-      "channel_title": "GitHub",
-      "description": "Every project has its own conventions, scripts, and code style. In episode 8 of our beginner series, discover how to teach the ...",
-      "published_at": "2026-09-08T15:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QGakvawJc2M/hqdefault.jpg"
-    },
-    {
-      "title": "Demystifying AI terms: loop engineering, squads, and harness | S02E02 | The GitHub Podcast",
-      "video_id": "7oqYIRbB6Rc",
-      "channel_title": "GitHub",
-      "description": "AI terminology is evolving fast, with new terms like loop engineering, harness engineering, and squads popping up constantly.",
-      "published_at": "2026-09-02T15:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7oqYIRbB6Rc/hqdefault.jpg"
+      "description": "Want to direct an AI agent in the app but finish coding in your favorite editor? In episode 9 of our beginner series, discover how to ...",
+      "published_at": "2026-09-15T15:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dNCGfpDho0U/hqdefault.jpg"
     },
     {
       "title": "Let&#39;s Learn GitHub Copilot SDK",

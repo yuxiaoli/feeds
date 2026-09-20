@@ -1,16 +1,72 @@
 {
-  "fetched_at": "2026-09-13T03:52:50.705819",
+  "fetched_at": "2026-09-20T04:01:42.884682",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 7,
+  "count": 9,
   "videos": [
     {
-      "title": "The Heavyweight AI Cert",
-      "video_id": "JyEZOSHkpMk",
+      "title": "Is Software Engineering Dying in 2026? (What the Data Actually Says)",
+      "video_id": "1PdgNyOy20w",
       "channel_title": "Tech With Tim",
-      "description": "Which AI certification has the biggest salary impact? Google Cloud's Professional Machine Learning Engineer cert is the ...",
-      "published_at": "2026-09-12T12:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JyEZOSHkpMk/hqdefault.jpg"
+      "description": "My top pick course to add AI to your software engineering stack: DataCamp AI Engineer for Developers Track ...",
+      "published_at": "2026-09-19T13:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1PdgNyOy20w/hqdefault.jpg"
+    },
+    {
+      "title": "My Biggest Python Mistake",
+      "video_id": "hzQ0brWmVyM",
+      "channel_title": "Tech With Tim",
+      "description": "The biggest mistake I made learning Python was not having a plan. I jumped between a ton of resources and learned a lot, but I ...",
+      "published_at": "2026-09-19T12:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hzQ0brWmVyM/hqdefault.jpg"
+    },
+    {
+      "title": "Python Is Still No 1",
+      "video_id": "FGC8-V-UkJs",
+      "channel_title": "Tech With Tim",
+      "description": "Is Python still worth learning in 2026? Yes, it's consistently top three in job demand and the default language of AI, and every ...",
+      "published_at": "2026-09-18T12:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FGC8-V-UkJs/hqdefault.jpg"
+    },
+    {
+      "title": "Top 7 AI Agent Tools That Actually Work",
+      "video_id": "84-sHkG4AQU",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with Browser Use and get $30 in FREE credits! https://link.browser-use.com/tim Want to LEARN how to build useful AI ...",
+      "published_at": "2026-09-17T17:18:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/84-sHkG4AQU/hqdefault.jpg"
+    },
+    {
+      "title": "Stop Learning Python Like This",
+      "video_id": "_If-cxb-nB8",
+      "channel_title": "Tech With Tim",
+      "description": "Why do most people fail at learning Python? The approach is a mess: a Python playlist from one channel, a pandas course from ...",
+      "published_at": "2026-09-17T12:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_If-cxb-nB8/hqdefault.jpg"
+    },
+    {
+      "title": "Cursor Costs $20. This AI Agent Costs $1,000,000.",
+      "video_id": "8u3vB6kPdgY",
+      "channel_title": "Tech With Tim",
+      "description": "Cursor costs $20. So why would anyone build an AI coding agent that costs $1000000? Try Blitzy for yourself here and get 1M ...",
+      "published_at": "2026-09-16T13:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8u3vB6kPdgY/hqdefault.jpg"
+    },
+    {
+      "title": "How I&#39;d Learn Python From Scratch",
+      "video_id": "2_bqKTeg5n0",
+      "channel_title": "Tech With Tim",
+      "description": "How would I learn Python from scratch in 2026 with no coding, no experience, and no degree? Not just the language, because in ...",
+      "published_at": "2026-09-16T11:58:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2_bqKTeg5n0/hqdefault.jpg"
+    },
+    {
+      "title": "How to Build Your Own AI Agent Team From Scratch",
+      "video_id": "0nU4lQnnSz0",
+      "channel_title": "Tech With Tim",
+      "description": "Hyperagent is giving away $100 in bonus credits when you sign up for a paid plan. Claim yours here: ...",
+      "published_at": "2026-09-14T13:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0nU4lQnnSz0/hqdefault.jpg"
     },
     {
       "title": "Build a Local AI Agent in 10 Minutes using Python",
@@ -19,46 +75,6 @@
       "description": "All code in this video is available here: https://www.aiagentbuilders.co/yt-resources/local-python-agent Want to LEARN how to ...",
       "published_at": "2026-09-11T14:00:35Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ByWCsa8DbF8/hqdefault.jpg"
-    },
-    {
-      "title": "The Highest Value AI Cert",
-      "video_id": "KzaSYYQ-pPE",
-      "channel_title": "Tech With Tim",
-      "description": "Is Microsoft's Azure AI Engineer Associate certification worth it? It covers building real solutions with Azure AI Foundry and Azure ...",
-      "published_at": "2026-09-11T12:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KzaSYYQ-pPE/hqdefault.jpg"
-    },
-    {
-      "title": "Lovable ADVANCED Tutorial - FULL Guide for Real Websites",
-      "video_id": "qxygwvBoBTc",
-      "channel_title": "Tech With Tim",
-      "description": "I've built and deployed multiple real sites with Lovable, get started here for free: https://link.lovable.dev/techwithtim In this video, ...",
-      "published_at": "2026-09-10T13:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qxygwvBoBTc/hqdefault.jpg"
-    },
-    {
-      "title": "Is NVIDIA&#39;s AI Certification Worth It",
-      "video_id": "Ruh5WKjWPTA",
-      "channel_title": "Tech With Tim",
-      "description": "Is NVIDIA's generative AI and LLMs certification worth it? It's been called the fastest-growing AI certification going into 2026, and ...",
-      "published_at": "2026-09-10T12:00:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ruh5WKjWPTA/hqdefault.jpg"
-    },
-    {
-      "title": "Claude Code: The Advanced Guide (99% of Devs Skip These Features)",
-      "video_id": "kt5a-TXmWew",
-      "channel_title": "Tech With Tim",
-      "description": "Try Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica Get access to ...",
-      "published_at": "2026-09-07T18:07:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kt5a-TXmWew/hqdefault.jpg"
-    },
-    {
-      "title": "How AI Agents Actually Work (Every Piece Explained &amp; Built)",
-      "video_id": "HzGOWq5UyjY",
-      "channel_title": "Tech With Tim",
-      "description": "Everyone is talking about AI agents and almost nobody can tell you what one actually is. Ask someone to explain the difference ...",
-      "published_at": "2026-09-03T14:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HzGOWq5UyjY/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-13T03:53:09.902866",
+  "fetched_at": "2026-09-20T04:02:02.023219",
   "channel_id": "UCKo61AAaRD00ibCWJZ321MQ",
   "channel_title": "SoKrispyMedia",
   "count": 10,
   "videos": [
+    {
+      "title": "The Chalk Warfare Closed Beta is Finally Here",
+      "video_id": "YLuwPgJkUNw",
+      "channel_title": "SoKrispyMedia",
+      "description": "Use code sokrispy at https://incogni.com/sokrispy to get an exclusive 60% off. Wishlist the game today!",
+      "published_at": "2026-09-13T13:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YLuwPgJkUNw/hqdefault.jpg"
+    },
     {
       "title": "Chalk Warfare 4.5 | Official Video Game Reveal",
       "video_id": "IAYMfaFXPoo",
@@ -75,14 +83,6 @@
       "description": "DIY portal gun took me to an unrecognizable version of Rick and Morty.",
       "published_at": "2025-06-02T01:30:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0kwQNklYkZc/hqdefault.jpg"
-    },
-    {
-      "title": "What happens when you enter a videogame",
-      "video_id": "t-2iVCQql7E",
-      "channel_title": "SoKrispyMedia",
-      "description": "We gotta stop getting trapped inside these video games… FragPunk is now LIVE and free to play on PC! Jump in now to claim ...",
-      "published_at": "2025-04-12T14:01:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t-2iVCQql7E/hqdefault.jpg"
     }
   ]
 }

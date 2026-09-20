@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-13T03:53:05.721790",
+  "fetched_at": "2026-09-20T04:01:57.746269",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "在一杯水8美金的卢塞恩欣赏绝世美景",
+      "video_id": "yx7-Ja43T1M",
+      "channel_title": "码农高天",
+      "description": "瑞士的第一天带给我的感受是震撼，这是一个随时随地拿起手机拍出来就是一张明信片的地方。",
+      "published_at": "2026-09-19T04:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yx7-Ja43T1M/hqdefault.jpg"
+    },
     {
       "title": "茴字有几种写法？看完再也不敢说会Python",
       "video_id": "ZRo4-ZWIfcI",
@@ -75,14 +83,6 @@
       "description": "这期视频给大家介绍一下危险的__del__，讲讲它是怎么在我们的项目中造成死锁的，以及你应该如何规避这种情况的发生。",
       "published_at": "2026-02-06T10:30:45Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xJSTbtE9nBo/hqdefault.jpg"
-    },
-    {
-      "title": "Python背后的神秘组织，竟然这么穷！",
-      "video_id": "g4H9M4F0kyk",
-      "channel_title": "码农高天",
-      "description": "Python的发展离不开PSF多年的宣传和推广，今天我也帮忙宣传一下PSF。希望PSF和Python都可以越来越好~ （投币捐款的部分 ...",
-      "published_at": "2026-01-17T09:00:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g4H9M4F0kyk/hqdefault.jpg"
     }
   ]
 }

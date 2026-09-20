@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-09-13T03:53:10.585591",
+  "fetched_at": "2026-09-20T04:02:02.697253",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
   "count": 5,
   "videos": [
     {
+      "title": "Progress 96 Cargo Ship Docking",
+      "video_id": "v03RjDNwG1o",
+      "channel_title": "NASA",
+      "description": "Watch live as the unpiloted Progress 96 resupply spacecraft docks autonomously to the International Space Station. Docking is ...",
+      "published_at": "2026-09-19T13:54:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v03RjDNwG1o/hqdefault.jpg"
+    },
+    {
       "title": "NASA’s SpaceX Crew-12 Pre-Departure News Conference (Sept. 16, 2026)",
       "video_id": "aujP8wuMTMI",
       "channel_title": "NASA",
       "description": "Tune in as the four members of NASA's SpaceX Crew-12 — NASA astronauts Jessica Meir and Jack Hathaway, ESA (European ...",
-      "published_at": "2026-09-09T21:07:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aujP8wuMTMI/hqdefault_live.jpg"
+      "published_at": "2026-09-16T19:17:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aujP8wuMTMI/hqdefault.jpg"
     },
     {
-      "title": "NASA Moon Base: The First Six Months",
-      "video_id": "IwZVXmQdX1E",
+      "title": "Progress 96 Cargo Ship Launch",
+      "video_id": "cCpf0BOjlLE",
       "channel_title": "NASA",
-      "description": "No aim is too high. No journey is too far. No challenge is too tough. Since NASA announced plans for a Moon Base in March 2026 ...",
-      "published_at": "2026-09-08T18:33:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IwZVXmQdX1E/hqdefault.jpg"
-    },
-    {
-      "title": "For Earth, With Love: Artemis II",
-      "video_id": "MVt2139voxk",
-      "channel_title": "NASA",
-      "description": "Artemis II marked the first astronaut journey to the Moon in over 50 years—a 10-day test flight that carried NASA's Reid Wiseman, ...",
-      "published_at": "2026-09-03T17:14:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MVt2139voxk/hqdefault.jpg"
+      "description": "A spacecraft carrying food, fuel, and supplies is launching to the International Space Station. Watch along with us. The unpiloted ...",
+      "published_at": "2026-09-16T13:49:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cCpf0BOjlLE/hqdefault.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

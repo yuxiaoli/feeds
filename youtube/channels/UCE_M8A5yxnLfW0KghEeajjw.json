@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-13T03:52:57.990434",
+  "fetched_at": "2026-09-20T04:01:50.029546",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Shot on iPhone 18 Pro: &quot;new trick” by ROSÉ",
+      "video_id": "1WLqGs7c_yA",
+      "channel_title": "Apple",
+      "description": "A look at ROSÉ'S new music video for \"new trick\" shot entirely on iPhone 18 Pro. The new variable aperture lens on the 48MP ...",
+      "published_at": "2026-09-18T16:01:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1WLqGs7c_yA/hqdefault.jpg"
+    },
     {
       "title": "New iPhone 18 Pro: Everything announced about the iPhone with the best camera and battery life ever",
       "video_id": "GC0GI4MgTyg",
@@ -11,14 +19,6 @@
       "description": "iPhone 18 Pro is purpose-built for unprecedented performance, featuring the vapor-cooled A20 Pro chip and exceptional AI ...",
       "published_at": "2026-09-09T20:13:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GC0GI4MgTyg/hqdefault.jpg"
-    },
-    {
-      "title": "iPhone Duo: Everything announced about the first foldable iPhone",
-      "video_id": "ZlMvbjknrIg",
-      "channel_title": "Apple",
-      "description": "iPhone Duo is the first foldable iPhone, featuring the largest display ever and reimagined iOS experiences for unprecedented ...",
-      "published_at": "2026-09-09T19:48:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZlMvbjknrIg/hqdefault.jpg"
     },
     {
       "title": "New Apple Watch Series 12 and Ultra 4: Everything announced about the ultimate wearable",
@@ -53,22 +53,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bxSGfpoFP30/hqdefault.jpg"
     },
     {
-      "title": "New Apple Watch Series 12: The most accurate heart rate sensing in a wearable",
-      "video_id": "YUPRm0vJAtA",
-      "channel_title": "Apple",
-      "description": "Apple Watch Series 12 has the most accurate heart rate sensing in a wearable. Unlock new features like high-frequency heart rate ...",
-      "published_at": "2026-09-09T18:54:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YUPRm0vJAtA/hqdefault.jpg"
-    },
-    {
-      "title": "New AirPods 5: Everything announced about the best Active Noise Cancellation in an open-ear design",
-      "video_id": "ZldS1ZXpPHE",
-      "channel_title": "Apple",
-      "description": "AirPods 5 deliver up to 1.5x more Active Noise Cancellation than the previous generation, with a redesigned acoustic architecture ...",
-      "published_at": "2026-09-09T18:52:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZldS1ZXpPHE/hqdefault.jpg"
-    },
-    {
       "title": "Introducing the new Apple Watch Series 12: the most accurate heart rate sensing in a wearable",
       "video_id": "MO9HJsUxEEk",
       "channel_title": "Apple",
@@ -77,12 +61,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/MO9HJsUxEEk/hqdefault.jpg"
     },
     {
-      "title": "Apple Event September ’26: Recapping announcements of iPhone Duo, iPhone 18 Pro, and more",
-      "video_id": "3fAHjTPvF1E",
+      "title": "Introducing the new iPhone 18 Pro",
+      "video_id": "Q3zwkxqh1t0",
       "channel_title": "Apple",
-      "description": "Watch a quick Apple Event recap to learn about iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4, and ...",
-      "published_at": "2026-09-09T18:42:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3fAHjTPvF1E/hqdefault.jpg"
+      "description": "iPhone 18 Pro is Apple's most powerful iPhone yet. It features the A20 Pro chip, which has exceptional AI capabilities and is ...",
+      "published_at": "2026-09-09T18:41:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q3zwkxqh1t0/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing the new iPhone Duo",
+      "video_id": "FUfGcZ092b0",
+      "channel_title": "Apple",
+      "description": "iPhone Duo is a foldable iPhone with the largest iPhone display ever and reimagined iOS experiences for unprecedented ...",
+      "published_at": "2026-09-09T18:33:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FUfGcZ092b0/hqdefault.jpg"
+    },
+    {
+      "title": "Apple Watch Series 11: The ultimate way to watch your health",
+      "video_id": "gVFOOnecU5k",
+      "channel_title": "Apple",
+      "description": "Apple Watch Series 11 can spot signs of chronic high blood pressure and notify you of possible hypertension. Sleep score helps ...",
+      "published_at": "2026-08-21T19:12:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gVFOOnecU5k/hqdefault.jpg"
     }
   ]
 }

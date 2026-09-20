@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-13T03:53:41.085580",
+  "fetched_at": "2026-09-20T04:02:34.355962",
   "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
   "channel_title": "SpaceX",
   "count": 10,
   "videos": [
+    {
+      "title": "Starship - The Holy Grail of Rocketry",
+      "video_id": "EthkNLasUa8",
+      "channel_title": "SpaceX",
+      "description": "A fully and rapidly reusable rocket will fundamentally change how humanity accesses outer space. “The Holy Grail of Rocketry” ...",
+      "published_at": "2026-09-18T18:10:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EthkNLasUa8/hqdefault.jpg"
+    },
     {
       "title": "Starship - Test Like You Fly",
       "video_id": "ANe_HW4X8oc",
@@ -75,14 +83,6 @@
       "description": "On Sunday, April 30 at 8:26 p.m. ET, Falcon Heavy launched the ViaSat-3 Americas mission, delivering the ViaSat-3 Americas, ...",
       "published_at": "2023-05-01T05:43:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/YFbp6PVbJQA/hqdefault.jpg"
-    },
-    {
-      "title": "USSF-67 Mission",
-      "video_id": "nfxyF1_Ylkk",
-      "channel_title": "SpaceX",
-      "description": "SpaceX is targeting Sunday, January 15 at 5:56 p.m. ET (22:56 UTC) for Falcon Heavy's launch of the USSF-67 mission to a ...",
-      "published_at": "2023-01-15T23:12:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nfxyF1_Ylkk/hqdefault.jpg"
     }
   ]
 }
