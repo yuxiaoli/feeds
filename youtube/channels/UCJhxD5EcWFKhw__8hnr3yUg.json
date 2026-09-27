@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-20T04:01:57.746269",
+  "fetched_at": "2026-09-27T04:22:18.296375",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "登顶First，然后坐车车滑下来！瑞士确实好看",
+      "video_id": "o-RcsAQm_7g",
+      "channel_title": "码农高天",
+      "description": "瑞士第二天，我们缆车上了First！小镇和山景都太好看了！下山还可以玩着滑下来！",
+      "published_at": "2026-09-26T04:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o-RcsAQm_7g/hqdefault.jpg"
+    },
     {
       "title": "在一杯水8美金的卢塞恩欣赏绝世美景",
       "video_id": "yx7-Ja43T1M",
@@ -75,14 +83,6 @@
       "description": "欧洲之旅的vlog开始啦！第一站，巴塞罗那。巴塞罗那的核心当然是建筑了。圣家堂的美是真的很难用镜头拍出来，圣保罗医院也很 ...",
       "published_at": "2026-02-28T10:30:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/l6Nn6-gJcz4/hqdefault.jpg"
-    },
-    {
-      "title": "【python】自从用了它，我的程序动不动就死锁！",
-      "video_id": "xJSTbtE9nBo",
-      "channel_title": "码农高天",
-      "description": "这期视频给大家介绍一下危险的__del__，讲讲它是怎么在我们的项目中造成死锁的，以及你应该如何规避这种情况的发生。",
-      "published_at": "2026-02-06T10:30:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xJSTbtE9nBo/hqdefault.jpg"
     }
   ]
 }

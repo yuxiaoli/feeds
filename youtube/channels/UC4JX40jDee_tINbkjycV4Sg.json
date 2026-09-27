@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2026-09-20T04:01:42.884682",
+  "fetched_at": "2026-09-27T04:22:04.040912",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 9,
   "videos": [
+    {
+      "title": "Use AI Like a Pro, Not a Vibe Coder",
+      "video_id": "BAoCx-OlP2A",
+      "channel_title": "Tech With Tim",
+      "description": "What separates using AI coding tools like a pro from doing it wrong? The wrong way is vibe coding your whole job: accept ...",
+      "published_at": "2026-09-26T12:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BAoCx-OlP2A/hqdefault.jpg"
+    },
+    {
+      "title": "LM Studio Full Tutorial - The BEST Way to Run Local Models",
+      "video_id": "XpPtfB2pdio",
+      "channel_title": "Tech With Tim",
+      "description": "Learn how to build useful AI agents that actually get things done. Go here and join my free Skool: https://aiagentbuilders.co/yt LM ...",
+      "published_at": "2026-09-26T11:50:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XpPtfB2pdio/hqdefault.jpg"
+    },
+    {
+      "title": "Reading Code Beats Writing It",
+      "video_id": "3hbE8ga-0A0",
+      "channel_title": "Tech With Tim",
+      "description": "Which matters more now, writing code or reading it? Reading, by a mile. When AI generates this much code, the bottleneck stops ...",
+      "published_at": "2026-09-25T12:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3hbE8ga-0A0/hqdefault.jpg"
+    },
+    {
+      "title": "MCP Servers Explained &amp; Built",
+      "video_id": "He8tUwLzLnU",
+      "channel_title": "Tech With Tim",
+      "description": "Secure your MCP server using Descope for free: https://www.descope.com/ MCP servers are quickly becoming one of the most ...",
+      "published_at": "2026-09-24T13:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/He8tUwLzLnU/hqdefault.jpg"
+    },
+    {
+      "title": "AI has made writing code cheap",
+      "video_id": "D0ij-BgQBqs",
+      "channel_title": "Tech With Tim",
+      "description": "What are developers actually hired for now that AI writes the code? Not typing speed, and not churning out boilerplate, that was ...",
+      "published_at": "2026-09-24T12:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/D0ij-BgQBqs/hqdefault.jpg"
+    },
+    {
+      "title": "How to Build AI Agents in Python - 3 Ways",
+      "video_id": "-RTgK6qX6A8",
+      "channel_title": "Tech With Tim",
+      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
+      "published_at": "2026-09-23T13:30:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-RTgK6qX6A8/hqdefault.jpg"
+    },
+    {
+      "title": "Where the Junior Dev Jobs Went",
+      "video_id": "z6jbk0On37A",
+      "channel_title": "Tech With Tim",
+      "description": "Why are junior developers struggling right now? The jobs didn't disappear, they moved. The routine code juniors used to get hired ...",
+      "published_at": "2026-09-23T12:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z6jbk0On37A/hqdefault.jpg"
+    },
+    {
+      "title": "Understand Local AI in 15 Minutes",
+      "video_id": "oZ-w0kOpylw",
+      "channel_title": "Tech With Tim",
+      "description": "Try Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica By the end of ...",
+      "published_at": "2026-09-21T17:42:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oZ-w0kOpylw/hqdefault.jpg"
+    },
     {
       "title": "Is Software Engineering Dying in 2026? (What the Data Actually Says)",
       "video_id": "1PdgNyOy20w",
@@ -11,70 +75,6 @@
       "description": "My top pick course to add AI to your software engineering stack: DataCamp AI Engineer for Developers Track ...",
       "published_at": "2026-09-19T13:00:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/1PdgNyOy20w/hqdefault.jpg"
-    },
-    {
-      "title": "My Biggest Python Mistake",
-      "video_id": "hzQ0brWmVyM",
-      "channel_title": "Tech With Tim",
-      "description": "The biggest mistake I made learning Python was not having a plan. I jumped between a ton of resources and learned a lot, but I ...",
-      "published_at": "2026-09-19T12:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hzQ0brWmVyM/hqdefault.jpg"
-    },
-    {
-      "title": "Python Is Still No 1",
-      "video_id": "FGC8-V-UkJs",
-      "channel_title": "Tech With Tim",
-      "description": "Is Python still worth learning in 2026? Yes, it's consistently top three in job demand and the default language of AI, and every ...",
-      "published_at": "2026-09-18T12:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FGC8-V-UkJs/hqdefault.jpg"
-    },
-    {
-      "title": "Top 7 AI Agent Tools That Actually Work",
-      "video_id": "84-sHkG4AQU",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with Browser Use and get $30 in FREE credits! https://link.browser-use.com/tim Want to LEARN how to build useful AI ...",
-      "published_at": "2026-09-17T17:18:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/84-sHkG4AQU/hqdefault.jpg"
-    },
-    {
-      "title": "Stop Learning Python Like This",
-      "video_id": "_If-cxb-nB8",
-      "channel_title": "Tech With Tim",
-      "description": "Why do most people fail at learning Python? The approach is a mess: a Python playlist from one channel, a pandas course from ...",
-      "published_at": "2026-09-17T12:00:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_If-cxb-nB8/hqdefault.jpg"
-    },
-    {
-      "title": "Cursor Costs $20. This AI Agent Costs $1,000,000.",
-      "video_id": "8u3vB6kPdgY",
-      "channel_title": "Tech With Tim",
-      "description": "Cursor costs $20. So why would anyone build an AI coding agent that costs $1000000? Try Blitzy for yourself here and get 1M ...",
-      "published_at": "2026-09-16T13:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8u3vB6kPdgY/hqdefault.jpg"
-    },
-    {
-      "title": "How I&#39;d Learn Python From Scratch",
-      "video_id": "2_bqKTeg5n0",
-      "channel_title": "Tech With Tim",
-      "description": "How would I learn Python from scratch in 2026 with no coding, no experience, and no degree? Not just the language, because in ...",
-      "published_at": "2026-09-16T11:58:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2_bqKTeg5n0/hqdefault.jpg"
-    },
-    {
-      "title": "How to Build Your Own AI Agent Team From Scratch",
-      "video_id": "0nU4lQnnSz0",
-      "channel_title": "Tech With Tim",
-      "description": "Hyperagent is giving away $100 in bonus credits when you sign up for a paid plan. Claim yours here: ...",
-      "published_at": "2026-09-14T13:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0nU4lQnnSz0/hqdefault.jpg"
-    },
-    {
-      "title": "Build a Local AI Agent in 10 Minutes using Python",
-      "video_id": "ByWCsa8DbF8",
-      "channel_title": "Tech With Tim",
-      "description": "All code in this video is available here: https://www.aiagentbuilders.co/yt-resources/local-python-agent Want to LEARN how to ...",
-      "published_at": "2026-09-11T14:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ByWCsa8DbF8/hqdefault.jpg"
     }
   ]
 }

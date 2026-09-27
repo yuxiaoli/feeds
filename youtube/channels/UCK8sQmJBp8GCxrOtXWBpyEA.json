@@ -1,24 +1,48 @@
 {
-  "fetched_at": "2026-09-20T04:01:58.488457",
+  "fetched_at": "2026-09-27T04:22:18.909124",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 2,
+  "count": 5,
   "videos": [
     {
-      "title": "Why this college professor is embracing AI",
-      "video_id": "HuGAiGfKqW0",
+      "title": "So what’s inside the Lucas Museum? 🖼️👀",
+      "video_id": "wJOrgRepk_U",
       "channel_title": "Google",
-      "description": "Meet Dr. Sawa Kurotani, a professor at the University of Redlands who believes knowing how to use AI is an essential skill for ...",
-      "published_at": "2026-09-15T20:41:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HuGAiGfKqW0/hqdefault.jpg"
+      "description": "From classic illustrations and comic books to a few familiar friends, Senior Curator Ryan Linkof answers all your FAQs about the ...",
+      "published_at": "2026-09-26T15:35:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wJOrgRepk_U/hqdefault.jpg"
     },
     {
-      "title": "What a NASA astronaut can teach us about discovery and exploration | Christina Koch &amp; James Manyika",
-      "video_id": "x0692zj9jsI",
+      "title": "Lucas Museum: Top searches reveal hidden narratives | Searching For",
+      "video_id": "-uu2N53Ig3M",
       "channel_title": "Google",
-      "description": "What does it mean to stand on the frontiers of human discovery? In this episode of Dialogues on Technology and Society, James ...",
-      "published_at": "2026-09-14T20:30:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x0692zj9jsI/hqdefault.jpg"
+      "description": "Step inside the Lucas Museum for an exclusive guided tour with Senior Curator Ryan Linkof. From fine art and comic books to ...",
+      "published_at": "2026-09-26T15:00:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-uu2N53Ig3M/hqdefault.jpg"
+    },
+    {
+      "title": "Can pigs breathe through their 🍑?",
+      "video_id": "cdt6BB7VAu8",
+      "channel_title": "Google",
+      "description": "We answer this and other trending swine-related questions at the @iastatefair with resident pig expert Ernie Barnes.",
+      "published_at": "2026-09-25T22:03:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cdt6BB7VAu8/hqdefault.jpg"
+    },
+    {
+      "title": "Celebrating Hispanic Heritage Month",
+      "video_id": "PUvQCFzn8Ns",
+      "channel_title": "Google",
+      "description": "Sabor, historia, y puro ritmo In honor of Hispanic Heritage Month, the #GoogleDoodle is spotlighting the evolution of Latin ...",
+      "published_at": "2026-09-25T18:59:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PUvQCFzn8Ns/hqdefault.jpg"
+    },
+    {
+      "title": "Google’s latest moonshot to put machine learning in space",
+      "video_id": "o1JK79jszqo",
+      "channel_title": "Google",
+      "description": "A solar panel in space generates up to 8 times more power than one on Earth. That's the vision behind Project Suncatcher: ...",
+      "published_at": "2026-09-24T13:12:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o1JK79jszqo/hqdefault.jpg"
     }
   ]
 }

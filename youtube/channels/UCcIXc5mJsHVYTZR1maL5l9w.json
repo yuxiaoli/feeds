@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-20T04:02:20.639785",
+  "fetched_at": "2026-09-27T04:22:39.529763",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Full Course: Spec-Driven Development with Coding Agents",
+      "video_id": "hy8UstR2NEg",
+      "channel_title": "DeepLearningAI",
+      "description": "Vibe coding is fast, but it often produces code that doesn't match what you asked for. Spec-driven development is the disciplined ...",
+      "published_at": "2026-09-22T19:32:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hy8UstR2NEg/hqdefault.jpg"
+    },
     {
       "title": "AI Dev 26 x SF | Daniel Beutel: Flower SuperGrid Agents",
       "video_id": "C5oYk1bn4_o",
@@ -75,14 +83,6 @@
       "description": "The Machine Learning Engineering for Production (MLOps) Specialization teaches you how to conceptualize, build, and maintain ...",
       "published_at": "2022-04-21T00:03:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/fiDmWKh_WeQ/hqdefault.jpg"
-    },
-    {
-      "title": "#BeADeepLearner like Aleksandr, Niranjan, I-Chiao, Matt and Yudhiesh",
-      "video_id": "tyn1AFeKv2I",
-      "channel_title": "DeepLearningAI",
-      "description": "Looking to grow your skills and build a career in AI? Join 1 million+ learners and #BeADeepLearner with the Deep Learning ...",
-      "published_at": "2022-04-08T22:56:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tyn1AFeKv2I/hqdefault.jpg"
     }
   ]
 }

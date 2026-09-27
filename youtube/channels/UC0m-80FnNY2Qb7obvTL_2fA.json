@@ -1,16 +1,7 @@
 {
-  "fetched_at": "2026-09-20T04:01:37.766773",
+  "fetched_at": "2026-09-27T04:21:59.215067",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
-  "count": 1,
-  "videos": [
-    {
-      "title": "Building the Modern Quantum Architecture—Lecture 9: Logical Qubits for Utility Scale",
-      "video_id": "gY2teeetdds",
-      "channel_title": "Microsoft Azure",
-      "description": "What are logical qubits, and why do we need them? In Lecture 9, Dr. Matthias Troyer discusses the required capabilities of logical ...",
-      "published_at": "2026-09-17T23:48:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gY2teeetdds/hqdefault.jpg"
-    }
-  ]
+  "count": 0,
+  "videos": []
 }

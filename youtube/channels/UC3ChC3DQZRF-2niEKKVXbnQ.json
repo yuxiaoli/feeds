@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-20T04:01:40.708842",
+  "fetched_at": "2026-09-27T04:22:01.988531",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "把大模型丢进早高峰，它居然把系统玩明白了？Step-5-Preview 实测",
+      "video_id": "Ul1THHD8DyY",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来阶跃Step-5-Preview 实测! 直接说结论, Step-5-Preview 最大的亮点是输出很稳, 这意味着它的后训练极其扎实. 用来写工程 ...",
+      "published_at": "2026-09-25T17:05:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ul1THHD8DyY/hqdefault.jpg"
+    },
     {
       "title": "真神降临还是偏科怪兽？Hy4实测后端能力杀疯了!",
       "video_id": "zmjCASOSQDw",
@@ -75,14 +83,6 @@
       "description": "给大家带来Flash 系列模型横评! 各个厂商除了旗舰级别模型, 也都有Flash级别的模型, 而这些模型的定位主要都是多智能体系统的 ...",
       "published_at": "2026-06-29T06:09:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/r9pTOWMr4DY/hqdefault.jpg"
-    },
-    {
-      "title": "2分钟教你做一个可以自我迭代的 Agent",
-      "video_id": "JUn7j9RxijQ",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家分享一个自我迭代Agent 的构建技巧啊, 也是我在今天字节seed-2.1 模型发布demo 中用到的技巧. 这个技巧的核心就是, 干一件 ...",
-      "published_at": "2026-06-23T13:56:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JUn7j9RxijQ/hqdefault.jpg"
     }
   ]
 }

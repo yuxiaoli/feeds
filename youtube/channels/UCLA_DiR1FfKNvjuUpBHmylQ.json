@@ -1,32 +1,16 @@
 {
-  "fetched_at": "2026-09-20T04:02:02.697253",
+  "fetched_at": "2026-09-27T04:22:22.929418",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 5,
+  "count": 3,
   "videos": [
     {
-      "title": "Progress 96 Cargo Ship Docking",
-      "video_id": "v03RjDNwG1o",
+      "title": "Space Station Operations Update (Sept. 28, 2026)",
+      "video_id": "j9epFget1W8",
       "channel_title": "NASA",
-      "description": "Watch live as the unpiloted Progress 96 resupply spacecraft docks autonomously to the International Space Station. Docking is ...",
-      "published_at": "2026-09-19T13:54:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/v03RjDNwG1o/hqdefault.jpg"
-    },
-    {
-      "title": "NASA’s SpaceX Crew-12 Pre-Departure News Conference (Sept. 16, 2026)",
-      "video_id": "aujP8wuMTMI",
-      "channel_title": "NASA",
-      "description": "Tune in as the four members of NASA's SpaceX Crew-12 — NASA astronauts Jessica Meir and Jack Hathaway, ESA (European ...",
-      "published_at": "2026-09-16T19:17:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aujP8wuMTMI/hqdefault.jpg"
-    },
-    {
-      "title": "Progress 96 Cargo Ship Launch",
-      "video_id": "cCpf0BOjlLE",
-      "channel_title": "NASA",
-      "description": "A spacecraft carrying food, fuel, and supplies is launching to the International Space Station. Watch along with us. The unpiloted ...",
-      "published_at": "2026-09-16T13:49:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cCpf0BOjlLE/hqdefault.jpg"
+      "description": "Leaders from NASA and Boeing hold a news conference at NASA's Kennedy Space Center to provide updates on Starliner ...",
+      "published_at": "2026-09-25T22:24:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j9epFget1W8/hqdefault_live.jpg"
     },
     {
       "title": "Live Video from the International Space Station (Official NASA Stream)",

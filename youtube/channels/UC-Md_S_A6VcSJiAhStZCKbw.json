@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-20T04:01:34.947651",
+  "fetched_at": "2026-09-27T04:21:56.561655",
   "channel_id": "UC-Md_S_A6VcSJiAhStZCKbw",
   "channel_title": "Jordi Koalitic",
   "count": 10,
   "videos": [
+    {
+      "title": "Childhood memories 📸 @NikonEurope #NikonZR",
+      "video_id": "6EoeGB8DXrc",
+      "channel_title": "Jordi Koalitic",
+      "description": "",
+      "published_at": "2026-09-24T15:57:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6EoeGB8DXrc/hqdefault.jpg"
+    },
     {
       "title": "Turning trash into art 🌊♻️ Captured with #RayBanMeta @raybanmeta",
       "video_id": "aOBGL-qaLGk",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-05-07T15:17:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/dfK7afYOh5g/hqdefault.jpg"
-    },
-    {
-      "title": "Cupra x Koalitic Creative Challenge | BTS of the Most Creative Photo &amp; Video Workshop! 🚘📸",
-      "video_id": "7N_rZph98x8",
-      "channel_title": "Jordi Koalitic",
-      "description": "The #CupraXKoaliticCreativeChallenge brought 10 talented finalists to CUPRA HQ in Barcelona for an unforgettable creative ...",
-      "published_at": "2025-04-14T14:09:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7N_rZph98x8/hqdefault.jpg"
     }
   ]
 }

@@ -1,16 +1,24 @@
 {
-  "fetched_at": "2026-09-20T04:01:50.730899",
+  "fetched_at": "2026-09-27T04:22:11.495175",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
     {
-      "title": "in the moment",
-      "video_id": "sureVX7g_9I",
+      "title": "Close My Eyes (live from red rocks) is now playing on YouTube",
+      "video_id": "Pun7zGqYcb8",
       "channel_title": "Marshmello",
       "description": "",
-      "published_at": "2026-09-17T18:23:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sureVX7g_9I/hqdefault.jpg"
+      "published_at": "2026-09-23T17:09:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Pun7zGqYcb8/hqdefault.jpg"
+    },
+    {
+      "title": "Marshmello, ILLENIUM - Close My Eyes (Feat. SACHA) [Live at Red Rocks]",
+      "video_id": "5YpSezDdpyE",
+      "channel_title": "Marshmello",
+      "description": "Marshmello, ILLENIUM - Close My Eyes (Feat. SACHA) Live at Red Rocks Ampitheatre on August 19, 2026 Stream/Download: ...",
+      "published_at": "2026-09-23T17:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5YpSezDdpyE/hqdefault.jpg"
     },
     {
       "title": "Phoenix with @Portugal.TheMan out now",
@@ -75,14 +83,6 @@
       "description": "Marshmello - Proud (Official Lyric Video) Stream/Download: https://marshmello.ffm.to/proud Listen to Joytime III ...",
       "published_at": "2019-08-30T14:30:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-ot6NLsbxjg/hqdefault.jpg"
-    },
-    {
-      "title": "Marshmello - Rescue Me ft. A Day To Remember (Official Music Video)",
-      "video_id": "lPDw1QexVy4",
-      "channel_title": "Marshmello",
-      "description": "Marshmello - Rescue Me ft. A Day To Remember (Official Music Video) Stream/Download: https://marshmello.ffm.to/rescueme ...",
-      "published_at": "2019-06-14T02:25:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lPDw1QexVy4/hqdefault.jpg"
     }
   ]
 }

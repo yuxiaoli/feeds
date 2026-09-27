@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-20T04:01:47.281372",
+  "fetched_at": "2026-09-27T04:22:08.125870",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "The V12 scream of the @TouringSuperleggera  Veloce12 Aperta #veloce12aperta #v12",
+      "video_id": "YEVJTuTPA80",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-09-23T17:19:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YEVJTuTPA80/hqdefault.jpg"
+    },
     {
       "title": "The 1970 boss mustang @RuffianCars",
       "video_id": "D6N8fpAK9rk",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2025-04-28T16:44:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/lJPth73rx84/hqdefault.jpg"
-    },
-    {
-      "title": "Can I make a toy jet look like a full-scale fighter in action? #sr71 #blackbird #cinematic",
-      "video_id": "OO6487Jb3jw",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2025-03-25T18:50:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OO6487Jb3jw/hqdefault.jpg"
     }
   ]
 }

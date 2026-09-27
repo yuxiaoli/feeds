@@ -1,32 +1,7 @@
 {
-  "fetched_at": "2026-09-20T04:01:48.637614",
+  "fetched_at": "2026-09-27T04:22:09.463278",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 3,
-  "videos": [
-    {
-      "title": "Designing Horror Islands w/ ItsBlind | UEFN Build Along",
-      "video_id": "2VOiBh_QVrE",
-      "channel_title": "Unreal Engine",
-      "description": "Prepare to scare! Fortnitemares is coming. What does it take to build an island that truly terrifies? ItsBlind, the developer behind ...",
-      "published_at": "2026-09-17T13:04:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2VOiBh_QVrE/hqdefault_live.jpg"
-    },
-    {
-      "title": "Getting Started with the Unreal Engine HMI Template and Data Reduction Pipeline",
-      "video_id": "fyjkR6YDjvM",
-      "channel_title": "Unreal Engine",
-      "description": "Building automotive HMI in Unreal Engine from scratch means solving the same infrastructure problems every time: ingesting ...",
-      "published_at": "2026-09-17T10:08:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fyjkR6YDjvM/hqdefault.jpg"
-    },
-    {
-      "title": "AAA to UEFN: The Genesis of &#39;The Last Ascent&#39; | Creating in Fortnite",
-      "video_id": "G7XmykjCxJA",
-      "channel_title": "Unreal Engine",
-      "description": "Two AAA veterans with Far Cry, Assassin's Creed, and Rainbow Six Siege on their résumés built their own IP in Unreal Editor for ...",
-      "published_at": "2026-09-15T21:27:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G7XmykjCxJA/hqdefault.jpg"
-    }
-  ]
+  "count": 0,
+  "videos": []
 }

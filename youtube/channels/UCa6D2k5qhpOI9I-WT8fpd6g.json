@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T04:02:18.323265",
+  "fetched_at": "2026-09-27T04:22:37.442005",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
@@ -11,14 +11,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 Pi是近期热度超高的AI Agent。用四个字形容那就是大道至简。 Pi只有四 ...",
       "published_at": "2026-08-16T08:00:46Z",
       "thumbnail_url": "https://i.ytimg.com/vi/HhZcnM9tR7s/hqdefault.jpg"
-    },
-    {
-      "title": "一个Skill 让 Agent 自动操作浏览器，告别重复枯燥任务",
-      "video_id": "wBN2BniLoHM",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 引言00:58 基础使用02:37 技术原理05:26 进阶实战ego lite ...",
-      "published_at": "2026-07-21T07:16:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wBN2BniLoHM/hqdefault.jpg"
     },
     {
       "title": "Windows跑AI Agent，WSL才是终极答案，别羡慕Mac了，  WSL保姆级全攻略，海量实战教程，一期视频精通",
@@ -83,6 +75,14 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 00:00 引言01:47 本地部署04:08 基础玩法06:57 国产友好09:15 Skills ...",
       "published_at": "2026-01-31T16:06:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/657wlbtrzG8/hqdefault.jpg"
+    },
+    {
+      "title": "OpenCode详细攻略，开源版Claude Code，免费模型与神级插件  #ai #科技 #计算机 #编程 #coding",
+      "video_id": "JYVTUU9ClUA",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 OpenCode 是近期热度最高的AI编程工具。 它的最大优势是有开箱即用的 ...",
+      "published_at": "2026-01-17T13:30:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JYVTUU9ClUA/hqdefault.jpg"
     }
   ]
 }

@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-09-20T04:02:37.165833",
+  "fetched_at": "2026-09-27T04:22:55.305378",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
-    {
-      "title": "Astronomy events to watch from Sep 18 to 22! ✨",
-      "video_id": "2r3XBNMIUaQ",
-      "channel_title": "Star Walk",
-      "description": "Sep 18 — First Quarter Moon Sep 17–19 — Mars near Pollux Sep 19 — International Observe the Moon Night ⭐ Sep 20 ...",
-      "published_at": "2026-09-18T06:54:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2r3XBNMIUaQ/hqdefault.jpg"
-    },
     {
       "title": "The Perseids — from Earth and from space 🌠",
       "video_id": "AEhaUT41OfY",
@@ -83,6 +75,14 @@
       "description": "On January 3 at 10:03 GMT, the first Full Moon of 2026 rises – known as the Wolf Moon. Named for the howling of wolves on cold ...",
       "published_at": "2026-01-01T23:00:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Lq9NlNQdZSw/hqdefault.jpg"
+    },
+    {
+      "title": "Best Astronomical Events of 2026 ✨🌌",
+      "video_id": "2qecLpnz8FE",
+      "channel_title": "Star Walk",
+      "description": "Which one are you most excited about? Tell us in the comments and tag a friend who'd want to watch it with you #astronomy ...",
+      "published_at": "2025-12-30T08:41:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2qecLpnz8FE/hqdefault.jpg"
     }
   ]
 }

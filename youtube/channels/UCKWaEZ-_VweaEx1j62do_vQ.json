@@ -1,88 +1,56 @@
 {
-  "fetched_at": "2026-09-20T04:02:01.328736",
+  "fetched_at": "2026-09-27T04:22:21.563333",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
-  "count": 10,
+  "count": 6,
   "videos": [
     {
-      "title": "AI Agents Need More Than Code. Here&#39;s Why.",
-      "video_id": "IldPO6YbqdM",
+      "title": "Why Did The AI Race Just Change? 🏁",
+      "video_id": "SQYwRET4a6Q",
       "channel_title": "IBM Technology",
-      "description": "IBM Research is helping shape the future of AI agents with open-source datasets, reinforcement learning environments, and ...",
-      "published_at": "2026-09-18T16:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IldPO6YbqdM/hqdefault.jpg"
+      "description": "The AI conversation is shifting fast. New foundation models arrive every few weeks, but what really matters to businesses is ...",
+      "published_at": "2026-09-25T16:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SQYwRET4a6Q/hqdefault.jpg"
     },
     {
-      "title": "Pacing the AI frontier, IBM Granite 4.2 &amp; Meta’s Muse assistant",
-      "video_id": "DtKEgRuq_00",
+      "title": "New frontier AI models, TypeSafe’s Jev AI, &amp; NASA’s IBM collab",
+      "video_id": "O4n1jtWzt30",
       "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~pXHrXz07k On episode 125 of Mixture of Experts, ...",
-      "published_at": "2026-09-18T10:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DtKEgRuq_00/hqdefault.jpg"
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~xURz3yfSz It's been a wild week in AI, and on ...",
+      "published_at": "2026-09-25T10:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O4n1jtWzt30/hqdefault.jpg"
     },
     {
-      "title": "What Is MLflow? Tracing AI Agents &amp; LLM Workflows",
-      "video_id": "iZX6d0OdZys",
+      "title": "How AI Agents, LLMs &amp; APIs Use Real-Time Data at the US Open",
+      "video_id": "F3hlZSZc6UI",
       "channel_title": "IBM Technology",
-      "description": "Learn more about AI Observability here → https://ibm.biz/~1VvjeyWZi AI agents fail in ways traditional monitoring can't see.",
-      "published_at": "2026-09-17T11:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iZX6d0OdZys/hqdefault.jpg"
+      "description": "Learn more about Serve Quality here → https://ibm.biz/~nrYtWf9BC AI is analyzing tennis serves at the US Open.",
+      "published_at": "2026-09-24T11:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/F3hlZSZc6UI/hqdefault.jpg"
     },
     {
-      "title": "The vulnpocalypse might not be so bad after all",
-      "video_id": "t8Y-eqZ5_-0",
+      "title": "Are AI labs ignoring cybersecurity experts?",
+      "video_id": "GvPJY72WhoY",
       "channel_title": "IBM Technology",
-      "description": "Explore the podcast → https://ibm.biz/~7vUKC9XTD Depending on who you ask, the AI-driven vulnpocalypse is either the end of ...",
-      "published_at": "2026-09-16T10:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/t8Y-eqZ5_-0/hqdefault.jpg"
+      "description": "Visit Security Intelligence podcast page to get more security content → https://ibm.biz/~UfIWYEqFs Last week, some of the biggest ...",
+      "published_at": "2026-09-23T10:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GvPJY72WhoY/hqdefault.jpg"
     },
     {
-      "title": "What Is Legacy Code? How AI Is Modernizing Legacy Systems",
-      "video_id": "CKC47S92wA4",
+      "title": "AI Agents Aren&#39;t the Revolution. They&#39;re the Catalyst!",
+      "video_id": "XzL_vtYAO-4",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Legacy Code here → https://ibm.biz/~IGoAQN8Qn Legacy code powers some of the world's most important ...",
-      "published_at": "2026-09-15T11:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CKC47S92wA4/hqdefault.jpg"
+      "description": "Learn more about AI Agents here → https://ibm.biz/~4btU3fpmZ Everyone is focused on AI agents, but that may not be the real ...",
+      "published_at": "2026-09-22T11:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XzL_vtYAO-4/hqdefault.jpg"
     },
     {
-      "title": "How Developers Secure AI-Generated Code: 5 Security Best Practices",
-      "video_id": "X0UI0O8YzJM",
+      "title": "Goodbye Tokenmaxxing: From AI Usage to Agentic AI Outcomes",
+      "video_id": "FheRqx7DjbU",
       "channel_title": "IBM Technology",
-      "description": "Learn more about Shift-Left Testing here → https://ibm.biz/~GjS7OaN8v AI can generate software faster than ever, but speed ...",
-      "published_at": "2026-09-14T11:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/X0UI0O8YzJM/hqdefault.jpg"
-    },
-    {
-      "title": "Essential Skills for Becoming an AI Engineer: RAG, AI Agents, &amp; More",
-      "video_id": "XN3xNJvWXsc",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI Agents here → https://ibm.biz/~ym64g2zF3 Want to become an AI engineer but not sure where to start?",
-      "published_at": "2026-09-13T11:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XN3xNJvWXsc/hqdefault.jpg"
-    },
-    {
-      "title": "How GPUs Accelerate Data &amp; Analytics with AI",
-      "video_id": "zqowMgMgSjA",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about the difference between AI Accelerators & GPUs here → https://ibm.biz/~aQ0A1Q6sb Learn more about GPU ...",
-      "published_at": "2026-09-10T11:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zqowMgMgSjA/hqdefault.jpg"
-    },
-    {
-      "title": "An Ancient Guide to Cybersecurity: 8 Lessons from The Art of War",
-      "video_id": "kjoQPn--F7A",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Cost of a Data Breach Report 2026 here → https://ibm.biz/~3LxDJ8rUK What can a 2500-year-old military text ...",
-      "published_at": "2026-09-08T11:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kjoQPn--F7A/hqdefault.jpg"
-    },
-    {
-      "title": "Code Quality in the Age of AI: Why Great Code Isn&#39;t Enough",
-      "video_id": "GRYZR2R20FI",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Code Quality here → https://ibm.biz/~ypVg7mn8p AI can generate clean, working code in seconds. But software ...",
-      "published_at": "2026-09-07T11:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GRYZR2R20FI/hqdefault.jpg"
+      "description": "Learn more about Valuemaxxing here → https://ibm.biz/~XUdepadwq For years, teams measured AI success through adoption ...",
+      "published_at": "2026-09-21T11:00:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FheRqx7DjbU/hqdefault.jpg"
     }
   ]
 }
