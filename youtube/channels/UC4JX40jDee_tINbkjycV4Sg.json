@@ -1,80 +1,88 @@
 {
-  "fetched_at": "2026-09-27T04:22:04.040912",
+  "fetched_at": "2026-10-04T04:55:52.869806",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
-  "count": 9,
+  "count": 10,
   "videos": [
     {
-      "title": "Use AI Like a Pro, Not a Vibe Coder",
-      "video_id": "BAoCx-OlP2A",
+      "title": "Local AI + Cloud AI Is INSANE - Hybrid Computer FULL Tutorial",
+      "video_id": "0F7fGYpqOZg",
       "channel_title": "Tech With Tim",
-      "description": "What separates using AI coding tools like a pro from doing it wrong? The wrong way is vibe coding your whole job: accept ...",
-      "published_at": "2026-09-26T12:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BAoCx-OlP2A/hqdefault.jpg"
+      "description": "Get started with Perplexity Computer: https://www.perplexity.ai/products/computer The best AI models in the world run in data ...",
+      "published_at": "2026-10-03T14:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0F7fGYpqOZg/hqdefault.jpg"
     },
     {
-      "title": "LM Studio Full Tutorial - The BEST Way to Run Local Models",
-      "video_id": "XpPtfB2pdio",
+      "title": "Software Engineering Is Still One of the Best Jobs",
+      "video_id": "zbp8q3SgKZY",
       "channel_title": "Tech With Tim",
-      "description": "Learn how to build useful AI agents that actually get things done. Go here and join my free Skool: https://aiagentbuilders.co/yt LM ...",
-      "published_at": "2026-09-26T11:50:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XpPtfB2pdio/hqdefault.jpg"
+      "description": "Is software engineering still worth it in 2026? It's one of the best jobs in the world, and yes, it's gotten harder to break into, but you ...",
+      "published_at": "2026-10-03T12:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zbp8q3SgKZY/hqdefault.jpg"
     },
     {
-      "title": "Reading Code Beats Writing It",
-      "video_id": "3hbE8ga-0A0",
+      "title": "Why AI Avatars Are Changing Everything (And How to Build One)",
+      "video_id": "OtpdA8Ye2OY",
       "channel_title": "Tech With Tim",
-      "description": "Which matters more now, writing code or reading it? Reading, by a mile. When AI generates this much code, the bottleneck stops ...",
-      "published_at": "2026-09-25T12:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3hbE8ga-0A0/hqdefault.jpg"
+      "description": "Create your AI Avatar using Synthesia: ...",
+      "published_at": "2026-10-02T14:36:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OtpdA8Ye2OY/hqdefault.jpg"
     },
     {
-      "title": "MCP Servers Explained &amp; Built",
-      "video_id": "He8tUwLzLnU",
+      "title": "LeetCode Isn&#39;t the Whole Game Anymore",
+      "video_id": "iKYtddHwkvE",
       "channel_title": "Tech With Tim",
-      "description": "Secure your MCP server using Descope for free: https://www.descope.com/ MCP servers are quickly becoming one of the most ...",
-      "published_at": "2026-09-24T13:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/He8tUwLzLnU/hqdefault.jpg"
+      "description": "Should you still grind LeetCode to land a software job? Do a little, but algorithms alone are the old game. Companies still test ...",
+      "published_at": "2026-10-02T12:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iKYtddHwkvE/hqdefault.jpg"
     },
     {
-      "title": "AI has made writing code cheap",
-      "video_id": "D0ij-BgQBqs",
+      "title": "The Highest Leverage AI Career Move",
+      "video_id": "1iC4b4d4-Zc",
       "channel_title": "Tech With Tim",
-      "description": "What are developers actually hired for now that AI writes the code? Not typing speed, and not churning out boilerplate, that was ...",
-      "published_at": "2026-09-24T12:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D0ij-BgQBqs/hqdefault.jpg"
+      "description": "Already employed and want into AI work? The highest-leverage move isn't job hunting, it's becoming the AI person on your team.",
+      "published_at": "2026-10-01T12:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1iC4b4d4-Zc/hqdefault.jpg"
     },
     {
-      "title": "How to Build AI Agents in Python - 3 Ways",
-      "video_id": "-RTgK6qX6A8",
+      "title": "The Only Guide You Need for Local AI Hardware",
+      "video_id": "x6siPRkPAeQ",
       "channel_title": "Tech With Tim",
-      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
-      "published_at": "2026-09-23T13:30:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-RTgK6qX6A8/hqdefault.jpg"
+      "description": "Get the Memoket Gem for $179 with code TECHWITHTIM (10% off) Official: ...",
+      "published_at": "2026-09-30T13:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x6siPRkPAeQ/hqdefault.jpg"
     },
     {
-      "title": "Where the Junior Dev Jobs Went",
-      "video_id": "z6jbk0On37A",
+      "title": "These AI Skills Are Learnable",
+      "video_id": "Y7BNSNLlqmI",
       "channel_title": "Tech With Tim",
-      "description": "Why are junior developers struggling right now? The jobs didn't disappear, they moved. The routine code juniors used to get hired ...",
-      "published_at": "2026-09-23T12:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/z6jbk0On37A/hqdefault.jpg"
+      "description": "How do you actually stand out in a hyper-competitive job market? Claims are worthless, evidence is everything, and the strongest ...",
+      "published_at": "2026-09-30T12:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y7BNSNLlqmI/hqdefault.jpg"
     },
     {
-      "title": "Understand Local AI in 15 Minutes",
-      "video_id": "oZ-w0kOpylw",
+      "title": "Why You NEED This New Python Tool",
+      "video_id": "lFA-zuZRG4Q",
       "channel_title": "Tech With Tim",
-      "description": "Try Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica By the end of ...",
-      "published_at": "2026-09-21T17:42:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oZ-w0kOpylw/hqdefault.jpg"
+      "description": "Get started with Pyrefly: https://pyrefly.org/twt This code looks completely fine — it even runs — right up until it crashes on a line ...",
+      "published_at": "2026-09-29T13:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lFA-zuZRG4Q/hqdefault.jpg"
     },
     {
-      "title": "Is Software Engineering Dying in 2026? (What the Data Actually Says)",
-      "video_id": "1PdgNyOy20w",
+      "title": "The AI Skills That Sit on Top of Coding",
+      "video_id": "EpHVYqaqw_o",
       "channel_title": "Tech With Tim",
-      "description": "My top pick course to add AI to your software engineering stack: DataCamp AI Engineer for Developers Track ...",
-      "published_at": "2026-09-19T13:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1PdgNyOy20w/hqdefault.jpg"
+      "description": "Do you need a PhD or heavy math to become an AI engineer? No. If you can already code, the AI layer is just a set of learnable ...",
+      "published_at": "2026-09-29T12:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EpHVYqaqw_o/hqdefault.jpg"
+    },
+    {
+      "title": "Every Company Wants This AI Skill",
+      "video_id": "s5E6pwMBgNg",
+      "channel_title": "Tech With Tim",
+      "description": "What's the most valuable software skill right now? Building AI into products, not just using AI to code faster. Writing code quicker ...",
+      "published_at": "2026-09-28T13:47:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s5E6pwMBgNg/hqdefault.jpg"
     }
   ]
 }

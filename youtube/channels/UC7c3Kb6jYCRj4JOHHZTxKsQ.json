@@ -1,24 +1,64 @@
 {
-  "fetched_at": "2026-09-27T04:22:06.075541",
+  "fetched_at": "2026-10-04T04:55:55.054601",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
-  "count": 9,
+  "count": 10,
   "videos": [
     {
-      "title": "How to automate issue metadata with GitHub issue intents",
-      "video_id": "-uMkZDEZCNw",
+      "title": "Replay: Open Source Friday with Mastra",
+      "video_id": "I541TmZiV2Q",
       "channel_title": "GitHub",
-      "description": "Managing incoming repository issues and keeping metadata up to date can be tedious for maintainers. GitHub issue intents allow ...",
-      "published_at": "2026-09-26T15:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-uMkZDEZCNw/hqdefault.jpg"
+      "description": "Abhi Aiyer, CTO at Mastra, joins Open Source Friday to talk about building AI applications with TypeScript. Mastra is a ...",
+      "published_at": "2026-10-03T06:20:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I541TmZiV2Q/hqdefault.jpg"
     },
     {
-      "title": "How to use Claude, Codex, and BYOK in GitHub Copilot for VS Code | GitHub Copilot Day",
-      "video_id": "_Mqr5B3DLgM",
+      "title": "Inside Project HydraFusion: multi-model orchestration in the GitHub Copilot | demo | GitHub Checkout",
+      "video_id": "EeOz2w5wPEI",
       "channel_title": "GitHub",
-      "description": "VS Code now gives developers more choice in how they build, with support for multiple agent harnesses and bring your own key ...",
-      "published_at": "2026-09-25T18:23:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_Mqr5B3DLgM/hqdefault.jpg"
+      "description": "Stop guessing which AI model to use for your coding tasks. In this episode of GitHub Checkout, Julia Kasper joins to break down ...",
+      "published_at": "2026-10-02T15:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EeOz2w5wPEI/hqdefault.jpg"
+    },
+    {
+      "title": "GitHub Universe Day 2 Keynote",
+      "video_id": "ZSMFrM54H2Q",
+      "channel_title": "GitHub",
+      "description": "We're ending Universe the way it started: with the people who build in the open. Join us for a final session of open source voices, ...",
+      "published_at": "2026-10-02T14:45:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZSMFrM54H2Q/hqdefault_live.jpg"
+    },
+    {
+      "title": "GitHub Universe Day 1 Keynote",
+      "video_id": "MZfqId_rrB0",
+      "channel_title": "GitHub",
+      "description": "Join us for the opening keynote as we look at the next era of software, the developers building it, and the tools and workflows ...",
+      "published_at": "2026-10-02T14:31:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MZfqId_rrB0/hqdefault_live.jpg"
+    },
+    {
+      "title": "Modern iPod syncing made easy with iOpenPod",
+      "video_id": "yX24p47vVrY",
+      "channel_title": "GitHub",
+      "description": "Love physical media but hate syncing your iPod with iTunes? In this project pick, we highlight iOpenPod, an open source iTunes ...",
+      "published_at": "2026-10-01T15:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yX24p47vVrY/hqdefault.jpg"
+    },
+    {
+      "title": "How GitHub Copilot app fixes CI failures automatically",
+      "video_id": "SAC1vJk6EGw",
+      "channel_title": "GitHub",
+      "description": "Tired of your code passing locally but failing in continuous integration? The GitHub Copilot app stays involved after you open a ...",
+      "published_at": "2026-09-28T15:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SAC1vJk6EGw/hqdefault.jpg"
+    },
+    {
+      "title": "How to use GitHub Copilot with WSL on Windows",
+      "video_id": "4VnQGyKtMk0",
+      "channel_title": "GitHub",
+      "description": "Build software on Windows using the Linux environments and tools you already rely on. In this video, see how to connect the ...",
+      "published_at": "2026-09-27T15:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4VnQGyKtMk0/hqdefault.jpg"
     },
     {
       "title": "How to build custom tools with Canvas in the GitHub Copilot app",
@@ -43,38 +83,6 @@
       "description": "As AI tools evolve, many developers feel like they are mourning the craft of manually writing software. In this clip from the GitHub ...",
       "published_at": "2026-09-24T15:00:21Z",
       "thumbnail_url": "https://i.ytimg.com/vi/arhEVn0bAdM/hqdefault.jpg"
-    },
-    {
-      "title": "GitHub Copilot everywhere: building code across Slack, Teams, mobile, and VS Code",
-      "video_id": "4xeDfqEsHU4",
-      "channel_title": "GitHub",
-      "description": "Development doesn't happen only in your editor, and it rarely happens alone. Join Meagan to see how Copilot in Teams and ...",
-      "published_at": "2026-09-23T15:15:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4xeDfqEsHU4/hqdefault.jpg"
-    },
-    {
-      "title": "Welcome to GitHub Copilot Day: the future of agentic engineering",
-      "video_id": "wtMaYmkhANQ",
-      "channel_title": "GitHub",
-      "description": "GitHub COO Kyle Daigle kicks off the first-ever GitHub Copilot Day with a look at how software development is shifting from ...",
-      "published_at": "2026-09-22T18:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wtMaYmkhANQ/hqdefault.jpg"
-    },
-    {
-      "title": "How to move AI from code completion to agentic workflows",
-      "video_id": "XVscTlkFl1o",
-      "channel_title": "GitHub",
-      "description": "Many developers start using AI for basic code completion or chat, but get stuck when trying to scale its impact across their ...",
-      "published_at": "2026-09-21T15:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XVscTlkFl1o/hqdefault.jpg"
-    },
-    {
-      "title": "25 agent skills to improve your workflow in GitHub Copilot | Matt Pocock | GitHub Copilot Day",
-      "video_id": "9yPyoxlyc5Q",
-      "channel_title": "GitHub",
-      "description": "Want to get more consistent results from your AI coding agents? In this GitHub Copilot Day session, Matt Pocock walks through his ...",
-      "published_at": "2026-09-20T15:00:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9yPyoxlyc5Q/hqdefault.jpg"
     }
   ]
 }

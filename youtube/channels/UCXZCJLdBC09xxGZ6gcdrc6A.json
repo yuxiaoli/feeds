@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-09-27T04:22:34.738897",
+  "fetched_at": "2026-10-04T04:56:25.231365",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "Get Stuff Done with ChatGPT Voice",
-      "video_id": "96ogPwN9ykM",
+      "title": "The dots demo, take two | OpenAI DevDay 2026",
+      "video_id": "fHEIw5CcN5U",
       "channel_title": "OpenAI",
-      "description": "We heard you loud and clear. ChatGPT Voice can now: - Use plugins like your email, calendar, and Slack. - Be powered by GPT-6 ...",
-      "published_at": "2026-09-23T17:11:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/96ogPwN9ykM/hqdefault.jpg"
+      "description": "Meet dots, always-on AI agents that get to know what matters to you and take work off your plate. See dots in action, from planning ...",
+      "published_at": "2026-10-01T17:20:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fHEIw5CcN5U/hqdefault.jpg"
     },
     {
-      "title": "Figma Gave GPT-6 Astra a Moonshot. Here&#39;s what happened.",
-      "video_id": "rRm3Vnb7UPY",
+      "title": "Build faster with Ultrafast ",
+      "video_id": "sKltfHvsDQM",
       "channel_title": "OpenAI",
-      "description": "John gave GPT-6 Astra a moonshot: design the flight-control experience for a new personal aircraft. The gap between generating ...",
-      "published_at": "2026-09-21T19:25:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rRm3Vnb7UPY/hqdefault.jpg"
+      "description": "Ultrafast is our fastest way to build with Astra yet: in Codex, it runs up to 8x faster than Astra Standard and 4x faster than Astra Fast.",
+      "published_at": "2026-09-29T18:47:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sKltfHvsDQM/hqdefault.jpg"
     },
     {
-      "title": "One Prompt. A Feature Built and Tested. | Ramp × GPT-6 Astra",
-      "video_id": "p7TjXroM4ak",
+      "title": "OpenAI DevDay 2026 Keynote (FULL)",
+      "video_id": "Fls_onRviPM",
       "channel_title": "OpenAI",
-      "description": "Veeral gave GPT-6 Astra a one-line feature request: add routing controls for individual API keys. Astra found the right settings, ...",
-      "published_at": "2026-09-21T19:22:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p7TjXroM4ak/hqdefault.jpg"
+      "description": "Watch Sam Altman, Romain Huet, Tejal Patwardhan, and Holly Li announce and demo 20+ launches at OpenAI DevDay, ...",
+      "published_at": "2026-09-29T18:42:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fls_onRviPM/hqdefault.jpg"
     },
     {
-      "title": "“It Blew Me Away” | Box’s First Look at GPT-6 Astra",
-      "video_id": "QFxDF30qf_4",
+      "title": "Meet the all new Codex Cloud",
+      "video_id": "7Bv68f5szSU",
       "channel_title": "OpenAI",
-      "description": "A 20% incentive, counted twice, could throw off an entire cost analysis. Astra caught it. Yashodha Bhavnani (Box) gave GPT-6 ...",
-      "published_at": "2026-09-21T16:13:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QFxDF30qf_4/hqdefault.jpg"
+      "description": "Start a Codex task, close your laptop, and pick it up from your phone. See how to create a reusable cloud environment with your ...",
+      "published_at": "2026-09-29T18:18:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7Bv68f5szSU/hqdefault.jpg"
     },
     {
-      "title": "Codex just got better for developers",
-      "video_id": "eiQgljOrkWU",
+      "title": "Introducing dots, always-on agents built to handle everything.",
+      "video_id": "uXspbC2srEQ",
       "channel_title": "OpenAI",
-      "description": "Here's what's new in Codex for developers. Thanks for helping us make it better! We packed in a lot: * GPT‑5.6 * Ultra * New ways ...",
-      "published_at": "2026-07-14T23:30:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eiQgljOrkWU/hqdefault.jpg"
+      "description": "Dots are frontier intelligence that have your back. Powered by GPT‑6 Astra, they have their own cloud computer, learn from ...",
+      "published_at": "2026-09-29T18:04:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uXspbC2srEQ/hqdefault.jpg"
     },
     {
-      "title": "How Zendesk CEO Tom Eggemeier goes from Idea to Action",
-      "video_id": "27-GjDIWGo0",
+      "title": "Meet the builders of our time - the Codex Originals.",
+      "video_id": "m8VkCbkFAKA",
       "channel_title": "OpenAI",
-      "description": "We're excited to launch our new Monday Morning series, a leadership first take on going from idea to action in the AI era. First up ...",
-      "published_at": "2026-06-22T17:45:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/27-GjDIWGo0/hqdefault.jpg"
+      "description": "These builders aren't just writing code. They're rewriting what's possible.",
+      "published_at": "2026-09-29T17:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m8VkCbkFAKA/hqdefault.jpg"
     },
     {
-      "title": "Introducing the Codex app",
-      "video_id": "HFM3se4lNiw",
+      "title": "The Defender&#39;s Window at enterprise scale with Standard Chartered",
+      "video_id": "a75xDflRooI",
       "channel_title": "OpenAI",
-      "description": "The Codex app is a powerful command center for building with agents. • Multitask effortlessly: Work with multiple agents in parallel ...",
-      "published_at": "2026-02-02T22:16:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/HFM3se4lNiw/hqdefault.jpg"
+      "description": "Matt Weaver, Head of Applied AI Architects at OpenAI, and Reuben Athaide, Head of Innovation, Applications & Assurance at ...",
+      "published_at": "2026-09-29T10:01:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/a75xDflRooI/hqdefault.jpg"
     },
     {
-      "title": "My dog, the maths tutor",
-      "video_id": "zhqVZF6fDoM",
+      "title": "Building the partner ecosystem with Sophos",
+      "video_id": "zoohZ1BiHs0",
       "channel_title": "OpenAI",
-      "description": "ChatGPT and personal tutoring.",
-      "published_at": "2025-02-05T03:38:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zhqVZF6fDoM/hqdefault.jpg"
+      "description": "Claire Lawlor, Digital Native AD EMEA at OpenAI, and John Peterson, CTO at Sophos, explain the role of technology partnerships ...",
+      "published_at": "2026-09-29T10:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zoohZ1BiHs0/hqdefault.jpg"
     },
     {
-      "title": "OpenAI DevDay 2024 | OpenAI Research",
-      "video_id": "vlqEwE2wVr4",
+      "title": "GPT-6 Astra in practice: Turning ideas into projects",
+      "video_id": "6wNqpZdHE_s",
       "channel_title": "OpenAI",
-      "description": "Building with o1.",
-      "published_at": "2024-12-17T17:01:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vlqEwE2wVr4/hqdefault.jpg"
+      "description": "See what members of the OpenAI Developer Experience team are building with Astra, from a YouTube thumbnail generator and ...",
+      "published_at": "2026-09-28T18:05:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6wNqpZdHE_s/hqdefault.jpg"
     },
     {
-      "title": "Live demo of GPT4-o voice variation",
-      "video_id": "D9byh4MAsUQ",
+      "title": "The Defender&#39;s Window: Cyber security keynote",
+      "video_id": "3jDhHA9JGUE",
       "channel_title": "OpenAI",
-      "description": "This was a live demo from our OpenAI Spring Update event. Read more about GPT-4o: ...",
-      "published_at": "2024-05-13T20:37:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D9byh4MAsUQ/hqdefault.jpg"
+      "description": "OpenAI's security experts explain why every organization needs a cyber defence factory, and how to build it with Daybreak.",
+      "published_at": "2026-09-28T13:29:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3jDhHA9JGUE/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-09-27T04:22:39.529763",
+  "fetched_at": "2026-10-04T04:56:31.258078",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "The Data Engineering Professional Certificate is now on DeepLearning.AI",
+      "video_id": "yUyfHQBXSzs",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn More: https://bit.ly/3ViOXHF Data underlies all modern AI systems, and engineers who know how to build the systems that ...",
+      "published_at": "2026-09-29T05:51:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yUyfHQBXSzs/hqdefault.jpg"
+    },
+    {
+      "title": "Building AI Assistants with On-Device Memory",
+      "video_id": "uRGHx-1CqBQ",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn More: https://bit.ly/4AlVW2n A cloud-based assistant can remember what it sees, hears, and is told, but only by staying ...",
+      "published_at": "2026-09-23T13:30:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/uRGHx-1CqBQ/hqdefault.jpg"
+    },
     {
       "title": "Full Course: Spec-Driven Development with Coding Agents",
       "video_id": "hy8UstR2NEg",
@@ -13,76 +29,60 @@
       "thumbnail_url": "https://i.ytimg.com/vi/hy8UstR2NEg/hqdefault.jpg"
     },
     {
-      "title": "AI Dev 26 x SF | Daniel Beutel: Flower SuperGrid Agents",
-      "video_id": "C5oYk1bn4_o",
+      "title": "AI Agents for Image and Video Generation. #GoogleCloud #DeepLearningAI #AIAgents",
+      "video_id": "AIXQ8qsC3J0",
       "channel_title": "DeepLearningAI",
-      "description": "At AI Dev 26 x San Francisco, Flower Lab's Daniel Beutel talked about Flower SuperGrid, the industry standard for Federated AI.",
-      "published_at": "2026-05-22T16:44:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/C5oYk1bn4_o/hqdefault.jpg"
+      "description": "One good AI image is easy. Consistent quality at scale is an evaluation problem. This UI design agent reads brand guidelines, ...",
+      "published_at": "2026-09-04T13:30:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AIXQ8qsC3J0/hqdefault.jpg"
     },
     {
-      "title": "AI Dev 26 x SF | Diamond Bishop: The Next 100 Agents. Building the Agent Native Office",
-      "video_id": "wKAeqSfIX5g",
+      "title": "Local AI is just getting started, and there’s room for you to shape it.",
+      "video_id": "8tpXt9CGdZE",
       "channel_title": "DeepLearningAI",
-      "description": "Building your first agent is exciting. Building a platform that can evolve into an office where dozens of teams can safely deploy ...",
-      "published_at": "2026-05-22T15:52:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wKAeqSfIX5g/hqdefault.jpg"
+      "description": "A note from Paul Everitt for everyone taking the course: local AI is just getting started, and there's room for you to shape it. Take the ...",
+      "published_at": "2026-09-02T13:30:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8tpXt9CGdZE/hqdefault.jpg"
     },
     {
-      "title": "AI Dev 26 x SF: Andrew Ng: The Future of Software Engineering",
-      "video_id": "g8um2AEf5ZA",
+      "title": "AI Dev | San Francisco 2026 | 2,599 AI Developers",
+      "video_id": "Y_bxMqcCNbU",
       "channel_title": "DeepLearningAI",
-      "description": "At AI Dev 26 x San Francisco, Andrew Ng discussed the rapid evolution of software engineering driven by AI coding agents and ...",
-      "published_at": "2026-05-20T18:30:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/g8um2AEf5ZA/hqdefault.jpg"
+      "description": "Thousands of developers, two days on the San Francisco waterfront, and a whole lot of code. AI Dev in San Francisco brought the ...",
+      "published_at": "2026-09-01T21:18:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y_bxMqcCNbU/hqdefault.jpg"
     },
     {
-      "title": "Explore Canvas, OpenAI’s latest interface in this new short course",
-      "video_id": "VARe8flqbjE",
+      "title": "Spec-driven development and local AI are a natural pair.",
+      "video_id": "YVluf1-g0wY",
       "channel_title": "DeepLearningAI",
-      "description": "Enroll now: https://bit.ly/3VaJG1M We saw your interest in the ChatGPT Prompt Engineering for Developers course and thought ...",
-      "published_at": "2024-12-04T14:24:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VARe8flqbjE/hqdefault.jpg"
+      "description": "Spec-driven development and local AI are a natural pair: clear specs give smaller models a real shot at the work. Paul Everitt ...",
+      "published_at": "2026-08-28T13:30:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YVluf1-g0wY/hqdefault.jpg"
     },
     {
-      "title": "Generative AI for Everyone, a course from Andrew Ng, is live!",
-      "video_id": "dfeoJ55EcXs",
+      "title": "Frontier models for the big problems. #aiagents #jetbrains #deeplearning",
+      "video_id": "1LZSKYLSKno",
       "channel_title": "DeepLearningAI",
-      "description": "Enroll now: https://bit.ly/3QnncHN Introducing Generative AI for Everyone! Learn directly from Andrew Ng about the technology of ...",
-      "published_at": "2023-11-01T15:05:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dfeoJ55EcXs/hqdefault.jpg"
+      "description": "Frontier models for the big problems. Local models when you want control, privacy, and to keep your stuff yours. Knowing how to ...",
+      "published_at": "2026-08-24T13:30:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1LZSKYLSKno/hqdefault.jpg"
     },
     {
-      "title": "Accelerating Your AI Career",
-      "video_id": "D1W0kS40otM",
+      "title": "The big brain for the big work...  #aiagents #buildinpublic #deeplearning #jetbrains @JetBrainsTV",
+      "video_id": "tRz2bxfPJbE",
       "channel_title": "DeepLearningAI",
-      "description": "0:00-6:45 Opening & Speaker Intro 7:44-13:04 How speakers Andrew Ng, Allie K. Miller, and Shravan Goli got started in AI ...",
-      "published_at": "2022-08-03T19:25:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D1W0kS40otM/hqdefault.jpg"
+      "description": "The big brain for the big work, the little brain for the little work. Paul Everitt's rule for splitting coding tasks between frontier and ...",
+      "published_at": "2026-08-20T13:46:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tRz2bxfPJbE/hqdefault.jpg"
     },
     {
-      "title": "Prioritizing AI/ML Projects in Your Organization",
-      "video_id": "GK03Wje5Wi8",
+      "title": "7-day Voice AI Build Challenge",
+      "video_id": "7D3w87YqfA8",
       "channel_title": "DeepLearningAI",
-      "description": "As AI/ML becomes popular, every product/service organization is looking to add these capabilities to improve business outcomes.",
-      "published_at": "2022-04-28T18:17:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GK03Wje5Wi8/hqdefault.jpg"
-    },
-    {
-      "title": "#14 Machine Learning Engineering for Production (MLOps) Specialization [Course 1, Week 2, Lesson 6]",
-      "video_id": "quEHyoA94rw",
-      "channel_title": "DeepLearningAI",
-      "description": "The Machine Learning Engineering for Production (MLOps) Specialization teaches you how to conceptualize, build, and maintain ...",
-      "published_at": "2022-04-21T00:03:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/quEHyoA94rw/hqdefault.jpg"
-    },
-    {
-      "title": "#11 Machine Learning Engineering for Production (MLOps) Specialization [Course 1, Week 2, Lesson 3]",
-      "video_id": "fiDmWKh_WeQ",
-      "channel_title": "DeepLearningAI",
-      "description": "The Machine Learning Engineering for Production (MLOps) Specialization teaches you how to conceptualize, build, and maintain ...",
-      "published_at": "2022-04-21T00:03:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fiDmWKh_WeQ/hqdefault.jpg"
+      "description": "Don't miss a night out because you're watching your terminal. Have your coding agent call you instead! Join the 7-Day Voice AI ...",
+      "published_at": "2026-06-24T17:11:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7D3w87YqfA8/hqdefault.jpg"
     }
   ]
 }

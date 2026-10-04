@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-09-27T04:22:14.764720",
+  "fetched_at": "2026-10-04T04:56:04.344632",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
     {
-      "title": "What happens when AI enters healthcare? | On Second Thought",
-      "video_id": "WKrGCu398ss",
+      "title": "Tech, labor, and token costs: the new AI math",
+      "video_id": "J-3FSw6Upqs",
       "channel_title": "Microsoft",
-      "description": "How is AI changing healthcare, and what does that mean for patients and clinicians? In the first episode of On Second Thought, ...",
-      "published_at": "2026-01-15T17:00:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WKrGCu398ss/hqdefault.jpg"
+      "description": "In this WorkLab podcast clip, Andy Doyle, Kantar's Chief People and Agent Officer, lays out the new math facing enterprises: tech ...",
+      "published_at": "2026-08-26T20:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J-3FSw6Upqs/hqdefault.jpg"
     },
     {
-      "title": "Microsoft 365 Copilot and Copilot Studio Demo: Microsoft Build 2025",
-      "video_id": "apDSSh1ppLo",
+      "title": "The AI skill everyone should have",
+      "video_id": "3zrMcVRZKFA",
       "channel_title": "Microsoft",
-      "description": "Miti Joshi shows the developer opportunity across Microsoft 365 Copilot, Copilot Studio and Copilot Tuning at Microsoft Build ...",
-      "published_at": "2025-05-20T13:21:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/apDSSh1ppLo/hqdefault.jpg"
+      "description": "In this WorkLab podcast clip, Andy Doyle, Kantar's Chief People and Agent Officer, explains why deploying AI isn't the same as ...",
+      "published_at": "2026-08-24T20:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3zrMcVRZKFA/hqdefault.jpg"
     },
     {
-      "title": "AI Meets the NFL Combine: Satya Nadella at Microsoft Build 2025",
-      "video_id": "DNRys7kOMiA",
+      "title": "What CEOs are quietly admitting about AI",
+      "video_id": "vPnkarnJnVs",
       "channel_title": "Microsoft",
-      "description": "Using Azure AI Foundry and Azure Cosmos DB, the NFL and its partners are exploring new ways to assess talent, enhance ...",
-      "published_at": "2025-05-19T17:34:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DNRys7kOMiA/hqdefault.jpg"
+      "description": "In this WorkLab podcast clip, Allie K. Miller, AI leader, investor, and former Global Head of Machine Learning at AWS, calls out a ...",
+      "published_at": "2026-08-18T20:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vPnkarnJnVs/hqdefault.jpg"
     },
     {
-      "title": "Introducing Muse—a groundbreaking gen AI model that reimagines and pushes the boundaries of gaming",
-      "video_id": "5DhNBXrgl5o",
+      "title": "The biggest AI mistake?",
+      "video_id": "qU9BgAMQ1k4",
       "channel_title": "Microsoft",
-      "description": "gaming #microsoft #xbox #genai #artificialintelligence #ai Subscribe to Microsoft on YouTube here: ...",
-      "published_at": "2025-02-19T23:48:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5DhNBXrgl5o/hqdefault.jpg"
+      "description": "In this WorkLab podcast clip, Allie K. Miller, AI leader, investor, and former Global Head of Machine Learning at AWS, explains ...",
+      "published_at": "2026-08-14T20:42:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qU9BgAMQ1k4/hqdefault.jpg"
     },
     {
-      "title": "How AI is helping companies accelerate climate innovation",
-      "video_id": "y8jkj2rT8jo",
+      "title": "3 skills you need in the age of AI",
+      "video_id": "qH1qnCBPw8g",
       "channel_title": "Microsoft",
-      "description": "Microsoft's Climate Innovation Fund is a $1 billion investment to accelerate adoption and scale of climate solutions. Meet 3 ...",
-      "published_at": "2024-11-14T17:06:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y8jkj2rT8jo/hqdefault.jpg"
+      "description": "In this WorkLab podcast clip, Allie K. Miller, CEO of Open Machine and former Global Head of Machine Learning at AWS, shares ...",
+      "published_at": "2026-08-10T19:03:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qH1qnCBPw8g/hqdefault.jpg"
     },
     {
-      "title": "BWT Alpine F1 Team&#39;s Everyday AI Companion | Microsoft Copilot",
-      "video_id": "DA2_e-qB9dQ",
+      "title": "The AI question every team should ask",
+      "video_id": "Z0wqxv-oo48",
       "channel_title": "Microsoft",
-      "description": "When team driver Pierre Gasly forgets a birthday, Microsoft Copilot has his back. Learn more: ...",
-      "published_at": "2024-06-03T15:30:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DA2_e-qB9dQ/hqdefault.jpg"
+      "description": "Microsoft CVP of Workforce Transformation Katy George on how to spot where AI actually adds value in a workflow—and why ...",
+      "published_at": "2026-07-29T20:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Z0wqxv-oo48/hqdefault.jpg"
     },
     {
-      "title": "90-Second Recap: Satya Nadella&#39;s Keynote at Microsoft Build 2024",
-      "video_id": "vBCrJaLseQc",
+      "title": "Your job will never stop changing",
+      "video_id": "oPGtv7cOB8g",
       "channel_title": "Microsoft",
-      "description": "Satya Nadella Keynote Sizzle from Microsoft Build 2024 Subscribe to Microsoft on YouTube here: ...",
-      "published_at": "2024-05-21T23:05:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vBCrJaLseQc/hqdefault.jpg"
+      "description": "Microsoft CVP of Workforce Transformation Katy George on why AI transformation isn't a one-and-done event—it's the new reality ...",
+      "published_at": "2026-07-27T19:45:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oPGtv7cOB8g/hqdefault.jpg"
     },
     {
-      "title": "GitHub Copilot at Microsoft Inspire 2023",
-      "video_id": "MiHUW75g4Iw",
+      "title": "Doris Kearns Goodwin meets Teddy Roosevelt",
+      "video_id": "MJu_-hiK_qk",
       "channel_title": "Microsoft",
-      "description": "At Microsoft Inspire as part of Judson Althoff's keynote, Allison Weins, Sr. Product Manager at GitHub, shared GitHub Copilot, an AI ...",
-      "published_at": "2023-07-19T00:38:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MiHUW75g4Iw/hqdefault.jpg"
+      "description": "To coincide with the Americas' 250th celebration, Microsoft unveiled an AI experience that lets visitors have a conversation with ...",
+      "published_at": "2026-07-17T20:02:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MJu_-hiK_qk/hqdefault.jpg"
     },
     {
-      "title": "Strengthening local news with Microsoft Azure OpenAI Service",
-      "video_id": "QX9XbzTc00I",
+      "title": "AI can&#39;t fix broken workflows",
+      "video_id": "CCNmGkT-M9M",
       "channel_title": "Microsoft",
-      "description": "For Nota Chief Executive Officer Josh Brandau, empowering local newsrooms with AI-assisted technology is about more than just ...",
-      "published_at": "2023-05-23T16:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QX9XbzTc00I/hqdefault.jpg"
+      "description": "If a workflow is broken, AI won't fix it. WorkLab podcast clip. Rana el Kaliouby, AI scientist and entrepreneur (formerly CEO of ...",
+      "published_at": "2026-07-15T20:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CCNmGkT-M9M/hqdefault.jpg"
     },
     {
-      "title": "Neil deGrasse Tyson, astrophysicist, on the importance of access to science",
-      "video_id": "ic2Ynl6HQa8",
+      "title": "Nonprofits empower a nation of problem solvers | Episode 4",
+      "video_id": "CvB_VBSF-mk",
       "channel_title": "Microsoft",
-      "description": "Neil deGrasse Tyson is one of America's best-known astrophysicists and a huge advocate for the sciences and scientific thinking.",
-      "published_at": "2023-05-23T15:00:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ic2Ynl6HQa8/hqdefault.jpg"
+      "description": "In 1831, Alexis de Tocqueville arrived in Cincinnati, Ohio, and saw something that set America apart. Looking out over a young ...",
+      "published_at": "2026-07-14T15:01:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CvB_VBSF-mk/hqdefault.jpg"
     }
   ]
 }

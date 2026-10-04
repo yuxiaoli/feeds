@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-09-27T04:22:05.399612",
+  "fetched_at": "2026-10-04T04:55:54.383348",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta VR",
-  "count": 6,
+  "count": 10,
   "videos": [
+    {
+      "title": "A morning in the life of Draymond Green. &quot;Open Season&quot; is streaming now in the TV app on Meta Quest.",
+      "video_id": "ac1hehQjXL8",
+      "channel_title": "Meta VR",
+      "description": "",
+      "published_at": "2026-10-02T16:03:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ac1hehQjXL8/hqdefault.jpg"
+    },
+    {
+      "title": "It’s really, really, Draymond. #openseason",
+      "video_id": "3gJJ9BfdBAc",
+      "channel_title": "Meta VR",
+      "description": "",
+      "published_at": "2026-10-01T16:25:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3gJJ9BfdBAc/hqdefault.jpg"
+    },
+    {
+      "title": "What three words would Draymond Green use to describe “Open Season?” https://bit.ly/4AFrpwP",
+      "video_id": "AN4-Pv9LTo8",
+      "channel_title": "Meta VR",
+      "description": "",
+      "published_at": "2026-09-30T21:12:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AN4-Pv9LTo8/hqdefault.jpg"
+    },
+    {
+      "title": "Sir Matthew Vaughn tries Meta VR Glasses",
+      "video_id": "xNKbOx3eSU0",
+      "channel_title": "Meta VR",
+      "description": "",
+      "published_at": "2026-09-27T20:26:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xNKbOx3eSU0/hqdefault.jpg"
+    },
     {
       "title": "A first look at Meta VR Glasses. See How It Feels. Coming Spring 2027.",
       "video_id": "gAHvJ3R3LRw",
@@ -11,6 +43,14 @@
       "description": "",
       "published_at": "2026-09-24T20:19:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gAHvJ3R3LRw/hqdefault.jpg"
+    },
+    {
+      "title": "Meta Presents “Open Season.” Coming soon to the TV app on Meta Quest.",
+      "video_id": "LDKPZifUbjA",
+      "channel_title": "Meta VR",
+      "description": "",
+      "published_at": "2026-09-24T02:12:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LDKPZifUbjA/hqdefault.jpg"
     },
     {
       "title": "Meta VR Glasses. Coming Spring 2027.",
@@ -21,36 +61,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/S3c979Gimgg/hqdefault.jpg"
     },
     {
-      "title": "Meta Presents OPEN SEASON on Draymond Green | Official Trailer",
-      "video_id": "-cLGqBYEJcU",
-      "channel_title": "Meta VR",
-      "description": "In the middle of one of the most turbulent seasons of his career, four-time NBA champion Draymond Green makes a decision no ...",
-      "published_at": "2026-09-24T00:04:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-cLGqBYEJcU/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Meta VR Glasses | Spring 2027",
-      "video_id": "xyD_bmMy5nQ",
-      "channel_title": "Meta VR",
-      "description": "Meta VR Glasses Coming Spring 2027 https://www.meta.com/vr-glasses/ Watch your favorite movies, shows, and sports on a ...",
-      "published_at": "2026-09-23T23:49:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xyD_bmMy5nQ/hqdefault.jpg"
-    },
-    {
-      "title": "Put your pride aside, playing on Easy is ok too!",
-      "video_id": "j-4MFjLTw0c",
+      "title": "see if you can guess the game!",
+      "video_id": "-Hh-iLJPLR4",
       "channel_title": "Meta VR",
       "description": "",
-      "published_at": "2026-09-08T16:05:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j-4MFjLTw0c/hqdefault.jpg"
+      "published_at": "2026-09-17T15:59:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-Hh-iLJPLR4/hqdefault.jpg"
     },
     {
-      "title": "We drew all 8 new Beat Saber songs from memory 🎨 How&#39;d we do?#BeatSaber #MetaQuest #Shorts #HipHop",
-      "video_id": "SEX3RhovVNg",
+      "title": "Big teeth, big fun. #guessthegame",
+      "video_id": "K87OeZcMDV8",
       "channel_title": "Meta VR",
       "description": "",
-      "published_at": "2026-08-26T17:35:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SEX3RhovVNg/hqdefault.jpg"
+      "published_at": "2026-09-14T22:19:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K87OeZcMDV8/hqdefault.jpg"
+    },
+    {
+      "title": "Hip Hop Mixtape 2 is live now on @BeatSaber!",
+      "video_id": "PDXj3nhV7M4",
+      "channel_title": "Meta VR",
+      "description": "",
+      "published_at": "2026-09-09T16:07:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PDXj3nhV7M4/hqdefault.jpg"
     }
   ]
 }

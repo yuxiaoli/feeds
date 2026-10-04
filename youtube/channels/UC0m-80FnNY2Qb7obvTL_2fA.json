@@ -1,7 +1,88 @@
 {
-  "fetched_at": "2026-09-27T04:21:59.215067",
+  "fetched_at": "2026-10-04T04:55:48.147454",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
-  "count": 0,
-  "videos": []
+  "count": 10,
+  "videos": [
+    {
+      "title": "Azure Copilot Troubleshooting Agent is now general available",
+      "video_id": "KX4o-uQOaJ8",
+      "channel_title": "Microsoft Azure",
+      "description": "Azure Copilot is announcing the general availability of Troubleshooting Agent, a unified, built-in Azure Copilot capability that ...",
+      "published_at": "2026-10-02T20:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KX4o-uQOaJ8/hqdefault.jpg"
+    },
+    {
+      "title": "Build, test, monitor and optimize a voice agent in Microsoft Foundry",
+      "video_id": "u8usaIQMR5s",
+      "channel_title": "Microsoft Azure",
+      "description": "An in-depth walkthrough of building a voice agent in Microsoft Foundry—from first configuration through to production ...",
+      "published_at": "2026-09-28T17:10:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u8usaIQMR5s/hqdefault.jpg"
+    },
+    {
+      "title": "Smooth sailing starts here",
+      "video_id": "y22MAsql0Hg",
+      "channel_title": "Microsoft Azure",
+      "description": "If navigating the tech landscape feels a little chaotic right now, take a deep breath. You don't have to weather it alone. With Azure's ...",
+      "published_at": "2026-07-01T13:15:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/y22MAsql0Hg/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing the one-stop shop for your business",
+      "video_id": "7DAqcgNT1wQ",
+      "channel_title": "Microsoft Azure",
+      "description": "Find cloud solutions, AI apps, and agents on Microsoft Marketplace to help you meet your organization's specific needs.",
+      "published_at": "2026-06-26T15:00:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7DAqcgNT1wQ/hqdefault.jpg"
+    },
+    {
+      "title": "Find Your Solution(s) #Shorts",
+      "video_id": "NgrV3ABbskg",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover solutions for your organization across infrastructure, databases, security, collaboration, and AI apps and agents.",
+      "published_at": "2026-06-25T15:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NgrV3ABbskg/hqdefault.jpg"
+    },
+    {
+      "title": "Stop doing all the juggling yourself​",
+      "video_id": "FhEQZs9sjoY",
+      "channel_title": "Microsoft Azure",
+      "description": "Microsoft Marketplace helps to simplify the discovery, purchase, deployment, and management of cloud solutions in one platform.",
+      "published_at": "2026-06-22T16:29:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FhEQZs9sjoY/hqdefault.jpg"
+    },
+    {
+      "title": "Shop solutions with Microsoft Marketplace",
+      "video_id": "jcX_ptg7KYA",
+      "channel_title": "Microsoft Azure",
+      "description": "Find cloud solutions, AI apps, and agents from trusted partners at Microsoft Marketplace. Here you can discover solutions that ...",
+      "published_at": "2026-06-17T14:48:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jcX_ptg7KYA/hqdefault.jpg"
+    },
+    {
+      "title": "More Models, More Power: Fireworks AI on Foundry Keeps Raising the Bar",
+      "video_id": "CjYaiFXnalw",
+      "channel_title": "Microsoft Azure",
+      "description": "The enterprise AI landscape is shifting fast. Are you ready? Get a sneak peek at our upcoming fireside chat where Yina and Lin sit ...",
+      "published_at": "2026-05-14T15:59:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CjYaiFXnalw/hqdefault.jpg"
+    },
+    {
+      "title": "Fans can access deep Premier League stats anytime",
+      "video_id": "4RNoOGExAPc",
+      "channel_title": "Microsoft Azure",
+      "description": "Azure AI turns data into fan‑centric experiences in the Premier League Companion app. Proof that what works for fans can work ...",
+      "published_at": "2026-02-27T17:19:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4RNoOGExAPc/hqdefault.jpg"
+    },
+    {
+      "title": "Fans can access deep Premier League stats anytime",
+      "video_id": "tC0pdsInjUM",
+      "channel_title": "Microsoft Azure",
+      "description": "From the pitch to fan's hands. With Azure powering the Premier League Companion app, deep football insights are accessible ...",
+      "published_at": "2026-02-25T05:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tC0pdsInjUM/hqdefault.jpg"
+    }
+  ]
 }

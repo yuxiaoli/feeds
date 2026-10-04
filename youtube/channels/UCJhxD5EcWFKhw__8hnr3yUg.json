@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-09-27T04:22:18.296375",
+  "fetched_at": "2026-10-04T04:56:07.894527",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "七小时成为Apache Spark贡献者",
+      "video_id": "fTU0SFfweNQ",
+      "channel_title": "码农高天",
+      "description": "我会在10月11号的PyCon TW sprint上host一个专门帮助大家给spark做贡献的项目。到时候我会带着大家从零开始做好给spark做 ...",
+      "published_at": "2026-10-04T04:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fTU0SFfweNQ/hqdefault.jpg"
+    },
+    {
+      "title": "【Code Review】AI时代的CR还有意义么？一起看一个模板解析库",
+      "video_id": "lWbY9R8qR-w",
+      "channel_title": "码农高天",
+      "description": "很多人会觉得AI时代，Code Review已经没有什么意义了。我们今天就一起来看一个小巧的模板解析库。研究一下在看似“规整”的 ...",
+      "published_at": "2026-10-03T04:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lWbY9R8qR-w/hqdefault.jpg"
+    },
     {
       "title": "登顶First，然后坐车车滑下来！瑞士确实好看",
       "video_id": "o-RcsAQm_7g",
@@ -37,6 +53,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/smx28aI5rcY/hqdefault.jpg"
     },
     {
+      "title": "下周要去COSCUP做keynote了！",
+      "video_id": "cpz0m1SMFoY",
+      "channel_title": "码农高天",
+      "description": "明天就要出发去台北啦，下周末就要完成我人生中第一次keynote了！我们COSCUP见！",
+      "published_at": "2026-08-01T03:45:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cpz0m1SMFoY/hqdefault.jpg"
+    },
+    {
       "title": "世界杯踢完想起来了，我去过诺坎普啊！",
       "video_id": "UPA08NUBuHY",
       "channel_title": "码农高天",
@@ -59,30 +83,6 @@
       "description": "由于我世界旅行的视频剪的太慢，大家对我现状的了解千奇百怪，借这个视频的机会对齐一下！更重要的是和大家聊一下视频更新 ...",
       "published_at": "2026-06-06T04:00:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EQmBi2aRTEA/hqdefault.jpg"
-    },
-    {
-      "title": "【python】lazy import详解，3.15新特性它来啦！",
-      "video_id": "UYdxbADcYEw",
-      "channel_title": "码农高天",
-      "description": "这期视频来介绍一下3.15的一个新语法，lazy import。几乎每一个用python的人都值得了解一下它！",
-      "published_at": "2026-05-23T04:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UYdxbADcYEw/hqdefault.jpg"
-    },
-    {
-      "title": "高迪一日游！巴特罗米拉奎尔！还偶遇了江疏影",
-      "video_id": "N3lp0CulKxs",
-      "channel_title": "码农高天",
-      "description": "巴塞罗那第二天，今天全都是高迪！巴特罗之家，米拉之家，奎尔公园，外加西班牙tapas！",
-      "published_at": "2026-04-25T04:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N3lp0CulKxs/hqdefault.jpg"
-    },
-    {
-      "title": "圣家堂的美是镜头展示不出来的",
-      "video_id": "l6Nn6-gJcz4",
-      "channel_title": "码农高天",
-      "description": "欧洲之旅的vlog开始啦！第一站，巴塞罗那。巴塞罗那的核心当然是建筑了。圣家堂的美是真的很难用镜头拍出来，圣保罗医院也很 ...",
-      "published_at": "2026-02-28T10:30:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l6Nn6-gJcz4/hqdefault.jpg"
     }
   ]
 }

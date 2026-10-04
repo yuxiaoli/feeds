@@ -1,7 +1,88 @@
 {
-  "fetched_at": "2026-09-27T04:22:09.463278",
+  "fetched_at": "2026-10-04T04:55:58.621241",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
-  "count": 0,
-  "videos": []
+  "count": 10,
+  "videos": [
+    {
+      "title": "Procedural Cities for Tech Artists: Geometry Scripting &amp; PCG | Unreal Fest Chicago 2026",
+      "video_id": "7uuFPOKIw8I",
+      "channel_title": "Unreal Engine",
+      "description": "Watch the recording of this session from Unreal Fest Chicago 2026 to dive into the Procedural Content Generation (PCG) and ...",
+      "published_at": "2026-10-03T16:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7uuFPOKIw8I/hqdefault.jpg"
+    },
+    {
+      "title": "Building a Fortnite World Live from a Museum Floor | Unreal Fest Chicago 2026",
+      "video_id": "XEuaRjnuHlc",
+      "channel_title": "Unreal Engine",
+      "description": "In September 2025, Immersive Enterprise Laboratories partnered with the Fleet Science Center in San Diego to create The ...",
+      "published_at": "2026-10-03T14:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XEuaRjnuHlc/hqdefault.jpg"
+    },
+    {
+      "title": "Agentic Development in Unreal Engine with Rider | Unreal Fest Chicago 2026",
+      "video_id": "0C7GjShUnlY",
+      "channel_title": "Unreal Engine",
+      "description": "Generic AI generates code and solves the easy part. The hard parts of Unreal Engine development—like Gameplay Ability System ...",
+      "published_at": "2026-10-02T16:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0C7GjShUnlY/hqdefault.jpg"
+    },
+    {
+      "title": "UE for E-commerce: Driving Conversion with Pixel-Streamed Configurators | Unreal Fest Chicago 2026",
+      "video_id": "cdPwuFL1Um8",
+      "channel_title": "Unreal Engine",
+      "description": "Modern e-commerce demands more than static imagery. Today's consumers expect highly interactive, photorealistic experiences ...",
+      "published_at": "2026-10-02T14:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cdPwuFL1Um8/hqdefault.jpg"
+    },
+    {
+      "title": "Gears of War: E-Day | Developer Interview | Unreal Engine",
+      "video_id": "0WlGEWk7TPU",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video to find out how UE5 helped The Coalition recapture the desperate “destroyed beauty” aesthetic of the original ...",
+      "published_at": "2026-10-01T13:59:52Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0WlGEWk7TPU/hqdefault.jpg"
+    },
+    {
+      "title": "LEGO Batman: Legacy of the Dark Knight | Game Profile | Unreal Engine",
+      "video_id": "I_3Ua-53JFs",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video to discover how UE5 features such as World Partition and the Gameplay Ability System helped TT Games fulfill ...",
+      "published_at": "2026-09-21T15:29:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I_3Ua-53JFs/hqdefault.jpg"
+    },
+    {
+      "title": "Bringing Zebra to Life: Animating in Unreal Engine 5.8 | Inside Unreal",
+      "video_id": "CfhHFFvcRow",
+      "channel_title": "Unreal Engine",
+      "description": "Discover the power of animating directly in Unreal Engine with the new animation and rigging features in Unreal Engine 5.8.",
+      "published_at": "2026-09-10T20:49:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CfhHFFvcRow/hqdefault.jpg"
+    },
+    {
+      "title": "MetaHuman Animator Markerless Motion Capture Demo",
+      "video_id": "r_-fEi7fXLA",
+      "channel_title": "Unreal Engine",
+      "description": "Learn how to create MetaHuman character animation from your own video footage using the MetaHuman Animator Markerless ...",
+      "published_at": "2026-09-10T20:29:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r_-fEi7fXLA/hqdefault.jpg"
+    },
+    {
+      "title": "Getting Started with MCP in Unreal Engine 5.8 I Epic Games Education Webinar",
+      "video_id": "k0tgmrBuIJc",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this Epic Games Education Office Hours session for a hands-on look at the Experimental MCP Plugin in Unreal Engine 5.8.",
+      "published_at": "2026-09-07T17:26:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k0tgmrBuIJc/hqdefault.jpg"
+    },
+    {
+      "title": "Template Abilities | Creating in Fortnite",
+      "video_id": "iZ-z7ZAZLCw",
+      "channel_title": "Unreal Engine",
+      "description": "Join us for Creating in Fortnite: Template Abilities, a practical livestream exploring how to use Template Abilities to create ...",
+      "published_at": "2026-09-01T19:38:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iZ-z7ZAZLCw/hqdefault.jpg"
+    }
+  ]
 }

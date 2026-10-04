@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T04:22:10.821457",
+  "fetched_at": "2026-10-04T04:56:00.221925",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
@@ -37,6 +37,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/GC0GI4MgTyg/hqdefault.jpg"
     },
     {
+      "title": "iPhone Duo: Everything announced about the first foldable iPhone",
+      "video_id": "ZlMvbjknrIg",
+      "channel_title": "Apple",
+      "description": "iPhone Duo is the first foldable iPhone, featuring the largest display ever and reimagined iOS experiences for unprecedented ...",
+      "published_at": "2026-09-09T19:48:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZlMvbjknrIg/hqdefault.jpg"
+    },
+    {
       "title": "New Apple Watch Series 12 and Ultra 4: Everything announced about the ultimate wearable",
       "video_id": "Pe2ugye7Ya4",
       "channel_title": "Apple",
@@ -69,20 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/bxSGfpoFP30/hqdefault.jpg"
     },
     {
-      "title": "Introducing the new Apple Watch Series 12: the most accurate heart rate sensing in a wearable",
-      "video_id": "MO9HJsUxEEk",
+      "title": "New AirPods 5: Everything announced about the best Active Noise Cancellation in an open-ear design",
+      "video_id": "ZldS1ZXpPHE",
       "channel_title": "Apple",
-      "description": "The all-new Apple Watch Series 12, featuring the most accurate heart rate sensing in a wearable, is worth the upgrade.",
-      "published_at": "2026-09-09T18:44:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MO9HJsUxEEk/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing the new iPhone 18 Pro",
-      "video_id": "Q3zwkxqh1t0",
-      "channel_title": "Apple",
-      "description": "iPhone 18 Pro is Apple's most powerful iPhone yet. It features the A20 Pro chip, which has exceptional AI capabilities and is ...",
-      "published_at": "2026-09-09T18:41:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q3zwkxqh1t0/hqdefault.jpg"
+      "description": "AirPods 5 deliver up to 1.5x more Active Noise Cancellation than the previous generation, with a redesigned acoustic architecture ...",
+      "published_at": "2026-09-09T18:52:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZldS1ZXpPHE/hqdefault.jpg"
     }
   ]
 }

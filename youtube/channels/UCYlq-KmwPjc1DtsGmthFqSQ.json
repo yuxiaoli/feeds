@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-09-27T04:22:36.072071",
+  "fetched_at": "2026-10-04T04:56:26.682694",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "F.02 Decomission",
+      "video_id": "pfAh5oQDPDM",
+      "channel_title": "Figure",
+      "description": "We love Figure 02. It is an incredible robot. F.02 marked many firsts for the company: our first deployment at BMW, the birth of ...",
+      "published_at": "2026-09-30T15:17:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pfAh5oQDPDM/hqdefault.jpg"
+    },
     {
       "title": "30 Home Generalization",
       "video_id": "HuYXf_3TNW8",
@@ -75,14 +83,6 @@
       "description": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT.",
       "published_at": "2026-05-22T13:48:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LewqAffahfQ/hqdefault.jpg"
-    },
-    {
-      "title": "F.03 Livestream: Day 5 (Hour 108-120)",
-      "video_id": "uKY1GfaqQ-o",
-      "channel_title": "Figure",
-      "description": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT.",
-      "published_at": "2026-05-22T01:09:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uKY1GfaqQ-o/hqdefault.jpg"
     }
   ]
 }

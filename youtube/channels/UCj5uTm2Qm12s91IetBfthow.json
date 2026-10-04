@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-09-27T04:22:44.983099",
+  "fetched_at": "2026-10-04T04:56:36.832089",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "AI改变了哪些，应该接受哪些",
+      "video_id": "xf8DlvZBrPA",
+      "channel_title": "Find Interesting AI",
+      "description": "AI带给我们哪些改变，你愿意接受哪些？",
+      "published_at": "2026-09-30T23:30:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xf8DlvZBrPA/hqdefault.jpg"
+    },
+    {
+      "title": "找需求的3种方式   怎么判断值不值得做",
+      "video_id": "TKOYz2MSgKw",
+      "channel_title": "Find Interesting AI",
+      "description": "",
+      "published_at": "2026-09-05T11:59:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TKOYz2MSgKw/hqdefault.jpg"
+    },
     {
       "title": "这款别人收费的生产力工具，我给开源了",
       "video_id": "DbuRQemay8k",
@@ -45,44 +61,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Ad4WVB4jcqE/hqdefault.jpg"
     },
     {
+      "title": "程序员这行还能干多久？",
+      "video_id": "IHpim5tDnoM",
+      "channel_title": "Find Interesting AI",
+      "description": "程序员这行还能挺多久？ 同样是程序员，为什么AI对于有的人就是替代，有的就是增强对于刚毕业的新人，程序员这行还能入吗？",
+      "published_at": "2026-04-06T12:58:53Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IHpim5tDnoM/hqdefault.jpg"
+    },
+    {
+      "title": "一文搞清楚智能体沙箱选型+实战",
+      "video_id": "0ow5UHWSPE4",
+      "channel_title": "Find Interesting AI",
+      "description": "2月Github项目文档： https://my.feishu.cn/wiki/V9XmwzykGiDVVEkhjyXc4DZtn8b?table=tblxMUw26vxvCF07&view=vewmlG2yKn.",
+      "published_at": "2026-03-14T13:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0ow5UHWSPE4/hqdefault.jpg"
+    },
+    {
       "title": "2026二月精品AI论文分享",
       "video_id": "MprHT4AFrXQ",
       "channel_title": "Find Interesting AI",
       "description": "论文知识库： https://my.feishu.cn/wiki/V9XmwzykGiDVVEkhjyXc4DZtn8b.",
       "published_at": "2026-03-07T10:26:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/MprHT4AFrXQ/hqdefault.jpg"
-    },
-    {
-      "title": "低成本搭建出海saas喂饭教程",
-      "video_id": "CPXEb1MICf4",
-      "channel_title": "Find Interesting AI",
-      "description": "项目地址：https://github.com/fishfl/simple_saas.",
-      "published_at": "2026-02-23T00:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CPXEb1MICf4/hqdefault.jpg"
-    },
-    {
-      "title": "2026智能体技术选型总结",
-      "video_id": "KNjA6Jkbyzg",
-      "channel_title": "Find Interesting AI",
-      "description": "知识库 ...",
-      "published_at": "2026-02-10T23:30:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KNjA6Jkbyzg/hqdefault.jpg"
-    },
-    {
-      "title": "2026年1月AI论文分享",
-      "video_id": "0eb30T3Voi8",
-      "channel_title": "Find Interesting AI",
-      "description": "知识库： my.feishu.cn/wiki/TPKwwEiLJibN4ek9fcQcYaZAnDd?",
-      "published_at": "2026-02-01T11:49:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0eb30T3Voi8/hqdefault.jpg"
-    },
-    {
-      "title": "2026开年Huggingface最火的8个空间",
-      "video_id": "9yjQdq-nnJo",
-      "channel_title": "Find Interesting AI",
-      "description": "LTX-2: https://huggingface.co/papers/2601.03233 FinePDF: ...",
-      "published_at": "2026-01-17T09:10:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9yjQdq-nnJo/hqdefault.jpg"
     }
   ]
 }

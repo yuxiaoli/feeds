@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2026-09-27T04:22:18.909124",
+  "fetched_at": "2026-10-04T04:56:08.557631",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
-  "count": 5,
+  "count": 10,
   "videos": [
+    {
+      "title": "Making sure AI chips don’t overheat in space",
+      "video_id": "ktdbUIZKeSE",
+      "channel_title": "Google",
+      "description": "Project Suncatcher is Google's moonshot to launch solar-powered AI into Earth's orbit. But operating TPU clusters in space ...",
+      "published_at": "2026-09-30T16:07:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ktdbUIZKeSE/hqdefault.jpg"
+    },
+    {
+      "title": "Keeping flying satellites connected with lasers",
+      "video_id": "KO2bNK9L7WA",
+      "channel_title": "Google",
+      "description": "To make space-based AI work, thousands of chips must communicate across a vacuum orbit with minimal delay, orbiting in a ...",
+      "published_at": "2026-09-29T16:12:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KO2bNK9L7WA/hqdefault.jpg"
+    },
+    {
+      "title": "Time for WNBA Playoffs 🔥",
+      "video_id": "aSV48uAywcg",
+      "channel_title": "Google",
+      "description": "WNBA Playoffs are here Follow your favorite teams with Google.",
+      "published_at": "2026-09-29T13:31:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aSV48uAywcg/hqdefault.jpg"
+    },
+    {
+      "title": "Come with us to the Lucas Museum 🎒🏛️🖼️",
+      "video_id": "_fTT7TEOBH8",
+      "channel_title": "Google",
+      "description": "What happens when you get early access to LA's newest museum before the doors open? Here's a look behind the camera.",
+      "published_at": "2026-09-28T16:31:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_fTT7TEOBH8/hqdefault.jpg"
+    },
+    {
+      "title": "Testing AI chips to survive in space",
+      "video_id": "8NPgswgbTnE",
+      "channel_title": "Google",
+      "description": "Project Suncatcher is a moonshot initiative by Google that aims to put AI into orbit and capture space-based solar energy to power ...",
+      "published_at": "2026-09-28T14:10:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8NPgswgbTnE/hqdefault.jpg"
+    },
+    {
+      "title": "It’s Google’s birthday!",
+      "video_id": "3_hg2lYDvf0",
+      "channel_title": "Google",
+      "description": "Celebrating 28 years of curiosity, learning, and discovery. Today's #GoogleDoodle celebrates with a beloved throwback logo ...",
+      "published_at": "2026-09-27T16:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3_hg2lYDvf0/hqdefault.jpg"
+    },
     {
       "title": "So what’s inside the Lucas Museum? 🖼️👀",
       "video_id": "wJOrgRepk_U",
@@ -35,14 +83,6 @@
       "description": "Sabor, historia, y puro ritmo In honor of Hispanic Heritage Month, the #GoogleDoodle is spotlighting the evolution of Latin ...",
       "published_at": "2026-09-25T18:59:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PUvQCFzn8Ns/hqdefault.jpg"
-    },
-    {
-      "title": "Google’s latest moonshot to put machine learning in space",
-      "video_id": "o1JK79jszqo",
-      "channel_title": "Google",
-      "description": "A solar panel in space generates up to 8 times more power than one on Earth. That's the vision behind Project Suncatcher: ...",
-      "published_at": "2026-09-24T13:12:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/o1JK79jszqo/hqdefault.jpg"
     }
   ]
 }

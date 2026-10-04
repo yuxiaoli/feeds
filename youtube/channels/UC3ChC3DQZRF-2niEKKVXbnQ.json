@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T04:22:01.988531",
+  "fetched_at": "2026-10-04T04:55:50.772793",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
@@ -19,6 +19,14 @@
       "description": "给大家带来Hy4 preview 实测! 这次送外卖Agent测试终于下岗啦! 取而代之的是更复杂的多智能体测试, AI不但要控制游戏角色来打怪, ...",
       "published_at": "2026-09-04T10:54:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/zmjCASOSQDw/hqdefault.jpg"
+    },
+    {
+      "title": "谁是源神? 51个小模型全面评测!",
+      "video_id": "dMx22meTqJ8",
+      "channel_title": "Karminski-牙医",
+      "description": "终于搞完了! 给大家带来小模型竞技场, 这次测试了8款模型, 包括: Qwen3.8-27B Qwen3.6-27B Qwen3.6-35B-A3B ...",
+      "published_at": "2026-08-31T06:27:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dMx22meTqJ8/hqdefault.jpg"
     },
     {
       "title": "牛来教练VS鲸鱼教练! 谁才是合格的电竞通天代?",
@@ -75,14 +83,6 @@
       "description": "混元3正式版已经发布! 给大家带来实测! 本次测试最大的亮点是在300B参数量下获得了超高的Agent能力, 极具性价比, 可以用作龙虾 ...",
       "published_at": "2026-07-09T01:25:05Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Xitmz1TyJtM/hqdefault.jpg"
-    },
-    {
-      "title": "Flash模型横评! 性价比之选竟然是这个?",
-      "video_id": "r9pTOWMr4DY",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来Flash 系列模型横评! 各个厂商除了旗舰级别模型, 也都有Flash级别的模型, 而这些模型的定位主要都是多智能体系统的 ...",
-      "published_at": "2026-06-29T06:09:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r9pTOWMr4DY/hqdefault.jpg"
     }
   ]
 }

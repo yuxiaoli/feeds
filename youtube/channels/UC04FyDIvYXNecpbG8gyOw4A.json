@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-09-27T04:21:57.895230",
+  "fetched_at": "2026-10-04T04:55:46.781859",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Meta&#39;s CTO shares thoughts on our latest announcements",
+      "video_id": "DgdCQ38Qitw",
+      "channel_title": "Meta",
+      "description": "Andrew Bosworth, aka Boz, talks all things AI agents, AI wearables, and the future of entertainment in 60 seconds.",
+      "published_at": "2026-10-01T16:01:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DgdCQ38Qitw/hqdefault.jpg"
+    },
+    {
+      "title": "Meet Meta VR Glasses",
+      "video_id": "X2duObJWK5k",
+      "channel_title": "Meta",
+      "description": "meet Meta VR Glasses. the result of more than a decade of innovation—a cinema, stadium, workspace, and console. all lighter ...",
+      "published_at": "2026-09-30T16:11:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/X2duObJWK5k/hqdefault.jpg"
+    },
+    {
+      "title": "George Russell x Muse",
+      "video_id": "Mgd07SgjC8c",
+      "channel_title": "Meta",
+      "description": "George knows a thing or two about the hustle. Meet Muse, the personal AI agent that hustles for you.",
+      "published_at": "2026-09-29T13:59:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Mgd07SgjC8c/hqdefault.jpg"
+    },
+    {
+      "title": "Everything you missed at Meta Connect 2026",
+      "video_id": "Xr-EDQ5w-DI",
+      "channel_title": "Meta",
+      "description": "everything we just announced in three minutes. check out a future that's for everyone. #metaconnect.",
+      "published_at": "2026-09-28T21:38:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xr-EDQ5w-DI/hqdefault.jpg"
+    },
+    {
+      "title": "All the latest on Meta Glasses",
+      "video_id": "MfToE6Umn1w",
+      "channel_title": "Meta",
+      "description": "so many styles and even more ways AI can help you, hands-free. even lighter, with the longest battery life to date. #metaconnect.",
+      "published_at": "2026-09-28T03:52:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MfToE6Umn1w/hqdefault.jpg"
+    },
     {
       "title": "Meta Connect Key Beats",
       "video_id": "bMe04_HLTNU",
@@ -43,46 +83,6 @@
       "description": "In the latest episode of Boz To The Future, Meta CTO and host Andrew \"Boz\" Bosworth talks to Aparna Chennapragada, VP of ...",
       "published_at": "2026-09-25T20:28:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/W9usb907BeQ/hqdefault.jpg"
-    },
-    {
-      "title": "Meta Connect 2026: A Community Builder&#39;s First-Hand POV",
-      "video_id": "mZXJevMqkBM",
-      "channel_title": "Meta",
-      "description": "5300 miles. Six years. First Connect. Michael made it from London to Meta HQ and did it ALL — demos, community, and the latest ...",
-      "published_at": "2026-09-25T19:26:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mZXJevMqkBM/hqdefault.jpg"
-    },
-    {
-      "title": "Meta Artist Spotlight: Refik Anadol",
-      "video_id": "H_f5c3Qgatw",
-      "channel_title": "Meta",
-      "description": "Step inside the dreams of a machine, shaped by your imagination of nature and Muse Image, our AI image model. Enter Nature ...",
-      "published_at": "2026-09-25T17:05:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H_f5c3Qgatw/hqdefault.jpg"
-    },
-    {
-      "title": "Meta Connect Keynote 2026 | ASL",
-      "video_id": "rOJgyaH23OE",
-      "channel_title": "Meta",
-      "description": "We believe the future is for everyone, so we're putting superintelligence in everyone's hands. Check out our latest breakthrough ...",
-      "published_at": "2026-09-25T00:15:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rOJgyaH23OE/hqdefault.jpg"
-    },
-    {
-      "title": "From Sketch to Scale: How Our Teams Built Meta VR Glasses",
-      "video_id": "wL8AWEpK8-c",
-      "channel_title": "Meta",
-      "description": "Get an inside look at the hardware engineering and industrial design driving our all-new Meta VR Glasses. See how our team is ...",
-      "published_at": "2026-09-24T23:40:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wL8AWEpK8-c/hqdefault.jpg"
-    },
-    {
-      "title": "All the AI glasses we just dropped",
-      "video_id": "vsUCLKo206A",
-      "channel_title": "Meta",
-      "description": "come peep all the latest AI glasses—the slimmest frames, more customization, the longest battery life yet, and our first-ever audio ...",
-      "published_at": "2026-09-24T22:38:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vsUCLKo206A/hqdefault.jpg"
     }
   ]
 }

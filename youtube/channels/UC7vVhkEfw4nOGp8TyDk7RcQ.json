@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-09-27T04:22:06.754112",
+  "fetched_at": "2026-10-04T04:55:55.734611",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "New Hands for Atlas | Boston Dynamics",
+      "video_id": "4whgw2gLBS8",
+      "channel_title": "Boston Dynamics",
+      "description": "This new generation hand is the perfect companion for Atlas. With 13 degrees of freedom, these hands are directly actuated, built ...",
+      "published_at": "2026-10-01T13:59:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4whgw2gLBS8/hqdefault.jpg"
+    },
+    {
+      "title": "Inside the Robotics Race | Boston Dynamics x Hyundai Motor Group x Bloomberg Media Studios",
+      "video_id": "CFS_zU1kWQw",
+      "channel_title": "Boston Dynamics",
+      "description": "Why will Boston Dynamics win the humanoid robotics race? We've already commercialized autonomous mobile robots, creating ...",
+      "published_at": "2026-09-30T08:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CFS_zU1kWQw/hqdefault.jpg"
+    },
     {
       "title": "Ask A Roboticist | Meet Diane | Boston Dynamics #robot #bostondynamics #robotics",
       "video_id": "eTzDOGql56c",
@@ -21,12 +37,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/A0VdM2S3vL4/hqdefault.jpg"
     },
     {
+      "title": "Why Does Atlas Have A Head? #askaroboticist #bostondynamics",
+      "video_id": "VmBS2N1FzmE",
+      "channel_title": "Boston Dynamics",
+      "description": "Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions about why the current iteration of Atlas has a ...",
+      "published_at": "2026-08-04T13:55:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VmBS2N1FzmE/hqdefault.jpg"
+    },
+    {
       "title": "Spot at Mariana Minerals | Boston Dynamics",
       "video_id": "KywMP9_SyRg",
       "channel_title": "Boston Dynamics",
       "description": "Mariana Minerals is the world's first software-first mining company, using rich data sources from the field to optimize their ...",
       "published_at": "2026-07-22T13:59:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KywMP9_SyRg/hqdefault.jpg"
+    },
+    {
+      "title": "Atlas&#39; Journey to FIFA World Cup 2026™ | Boston Dynamics",
+      "video_id": "cCNkgD3qXvg",
+      "channel_title": "Boston Dynamics",
+      "description": "Following Atlas' first-of-its-kind live performance at the FIFA World Cup 2026™, we caught up with Seth Davis, senior program ...",
+      "published_at": "2026-07-15T13:56:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cCNkgD3qXvg/hqdefault.jpg"
     },
     {
       "title": "Going the Extra Mile with Spot | Boston Dynamics",
@@ -51,38 +83,6 @@
       "description": "Spot has arrived at Coca-Cola Europacific Partners (CCEP) in East Kilbride, Scotland! Avoiding downtime is paramount for ...",
       "published_at": "2026-07-08T13:00:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/em5RQCq5zyc/hqdefault.jpg"
-    },
-    {
-      "title": "Atlas at the FIFA World Cup 2026™",
-      "video_id": "ezPLXk78Cfk",
-      "channel_title": "Boston Dynamics",
-      "description": "Atlas arrived pitchside at NYNJ Stadium in front of 80000 people gathered to see Brazil vs Norway. After performing some of the ...",
-      "published_at": "2026-07-07T11:59:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ezPLXk78Cfk/hqdefault.jpg"
-    },
-    {
-      "title": "Celebrating Soccer | Boston Dynamics",
-      "video_id": "SoK05VMIATA",
-      "channel_title": "Boston Dynamics",
-      "description": "Spot's celebrating with the global soccer community ⚽ With robots deployed on 6 continents and in 46 countries - including 20 in ...",
-      "published_at": "2026-06-29T20:16:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SoK05VMIATA/hqdefault.jpg"
-    },
-    {
-      "title": "School of Football | The Rabona | Boston Dynamics x Hyundai",
-      "video_id": "mCcv90sUNbY",
-      "channel_title": "Boston Dynamics",
-      "description": "Atlas takes on the Rabona. No shortcuts. Only practice and repetition lead to mastery. Next Starts Now #Hyundai #NextStartsNow ...",
-      "published_at": "2026-05-28T13:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mCcv90sUNbY/hqdefault.jpg"
-    },
-    {
-      "title": "School of Football | Can football teach a robot to move? | Boston Dynamics x Hyundai",
-      "video_id": "qaqzZK7ZrZk",
-      "channel_title": "Boston Dynamics",
-      "description": "In School of Football, Atlas meets the world's most beloved sport. With the FIFA World Cup 2026 ahead, can football teach a robot ...",
-      "published_at": "2026-05-25T13:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qaqzZK7ZrZk/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,81 @@
 {
-  "fetched_at": "2026-09-27T04:22:15.445106",
+  "fetched_at": "2026-10-04T04:56:05.171518",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
-  "count": 8,
+  "count": 10,
   "videos": [
+    {
+      "title": "【分享】Claude Fable 5.5一句提示词生成的动画，一段展示所有人类进步的视频，然后延伸到未来 30 年。",
+      "video_id": "PzcA0qQc6xY",
+      "channel_title": "最佳拍档",
+      "description": "https://x.com/imjustnewatai/status/2106081142143168580.",
+      "published_at": "2026-10-03T16:50:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PzcA0qQc6xY/hqdefault.jpg"
+    },
+    {
+      "title": "Claude发布Mods 插件：让你可以直接定制 Claude Code 的界面和运行行为",
+      "video_id": "FNP2ORdnbjw",
+      "channel_title": "最佳拍档",
+      "description": "",
+      "published_at": "2026-10-03T09:46:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FNP2ORdnbjw/hqdefault.jpg"
+    },
+    {
+      "title": "我看到了Scaling Law的信号​ | 徐梦迪 | 具身智能 | Scaling Law | 上下文学习 | 清华叉院 | 机器人泛化 | 机器人学习 | VLA",
+      "video_id": "YJMROGooKik",
+      "channel_title": "最佳拍档",
+      "description": "本期对谈清华叉院助理教授徐梦迪，深入探讨具身智能的核心命题——机器人上下文学习（ICL）。从清华车辆工程到CMU、斯坦福 ...",
+      "published_at": "2026-10-02T12:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YJMROGooKik/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI Dots演示翻车后，重新又录了个视频",
+      "video_id": "_AnJrmlvONQ",
+      "channel_title": "最佳拍档",
+      "description": "原视频：https://youtu.be/fHEIw5CcN5U?si=HqWNRGC6dfjlb6kH.",
+      "published_at": "2026-10-02T06:33:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_AnJrmlvONQ/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI DevDay 2026：Dots登场，AI从工具变同事 | GPT-6.1 Sol | AI智能体 | Ultrafast | Codex云端 | Pro 500",
+      "video_id": "nmU272u2hVQ",
+      "channel_title": "最佳拍档",
+      "description": "OpenAI DevDay 2026发布二十余项重磅更新。核心产品Dots是全天候在线智能体，由GPT-6 Astra驱动，拥有独立云端电脑与浏览器 ...",
+      "published_at": "2026-10-02T04:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nmU272u2hVQ/hqdefault.jpg"
+    },
+    {
+      "title": "中国AI基础设施热潮 | 数据中心 | 东数西算 | 字节跳动 | 阿里云 | 腾讯云 |  人工智能 | 中国科技 | 模块化数据中心 | 资本开支 | 华为昇腾 | 昆仑芯",
+      "video_id": "K2lkhD-Oitc",
+      "channel_title": "最佳拍档",
+      "description": "深度解析中国AI基础设施热潮的真实面貌。基于SemiAnalysis最新发布的中国数据中心模型，从24GW的市场规模、四阶段产业发展 ...",
+      "published_at": "2026-10-01T09:03:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K2lkhD-Oitc/hqdefault.jpg"
+    },
+    {
+      "title": "82亿美元的质疑：AMD买World Labs到底值不值 | 苏姿丰 | 李飞飞 | 物理AI | 空间智能 | 世界模型 | Atlas模型 | 具身智能 | 英伟达 | 估值溢价 | 全股票交易",
+      "video_id": "FAiG6bf_e4E",
+      "channel_title": "最佳拍档",
+      "description": "本期视频从质疑视角解读AMD 82亿美元收购World Labs交易。从市场第一反应（AMD股价下跌3.61%）和估值溢价（7个月从50亿 ...",
+      "published_at": "2026-09-30T10:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FAiG6bf_e4E/hqdefault.jpg"
+    },
+    {
+      "title": "就业不会被AI摧毁​ | 白宫顾问David Friedberg | 美国经济 | 社会主义 | AI就业 | 开源AI | 表观遗传重编程 | 财富税 | 美国梦 | 2028美国大选",
+      "video_id": "R6674TpUr_g",
+      "channel_title": "最佳拍档",
+      "description": "本期解读白宫科技顾问大卫·弗里德伯格深度访谈。他指出63%美国人月光族，政府干预反而推高教育、医疗、住房成本，社会主义在 ...",
+      "published_at": "2026-09-29T12:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/R6674TpUr_g/hqdefault.jpg"
+    },
+    {
+      "title": "DeepSeek公开DSec平台技术细节 | Agent训练 | 沙盒平台 | 梁文锋 | AI基础设施 | 容器技术 | Firecracker | 微虚拟机 | rollout | EROFS |",
+      "video_id": "YnJM3IPg7wk",
+      "channel_title": "最佳拍档",
+      "description": "DeepSeek公开了Agent训练沙盒平台DSec的完整技术论文。DSec为从V3.2到V4.1的全部强化学习训练提供沙盒支撑，单生产单元 ...",
+      "published_at": "2026-09-29T00:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YnJM3IPg7wk/hqdefault.jpg"
+    },
     {
       "title": "万亿美元AI资本开支的回报在哪里 | 黑石Jon Gray | 数据中心 | AI算力 | 工业革命 | 投资回报 | 超大规模云厂商 | 芯片短缺 | 电力基础设施 | 生产率 | AI应用场景",
       "video_id": "NAR-1j8cIDE",
@@ -11,62 +83,6 @@
       "description": "黑石集团总裁乔恩·格雷在2026年投资者大会上发表深度演讲，围绕万亿美元AI资本开支是否有真实回报这一核心问题展开。演讲回顾 ...",
       "published_at": "2026-09-26T14:13:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NAR-1j8cIDE/hqdefault.jpg"
-    },
-    {
-      "title": "【分享】Elon Musk央视采访完整版",
-      "video_id": "DvbK4V27Y1A",
-      "channel_title": "最佳拍档",
-      "description": "",
-      "published_at": "2026-09-25T17:48:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DvbK4V27Y1A/hqdefault.jpg"
-    },
-    {
-      "title": "JEV CEO：RLHF是走弯路​ | RLHF | OpenAI | 大语言模型 | 人工智能 | Diogo Almeida | JEV | 机器学习 | AI泡沫 | AI经济革命",
-      "video_id": "ivFAIn55it0",
-      "channel_title": "最佳拍档",
-      "description": "前OpenAI核心成员、GPT-4与ChatGPT共同作者Diogo Almeida在两场技术分享中深入剖析了当前AI领域的核心矛盾：模型在辅助 ...",
-      "published_at": "2026-09-25T12:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ivFAIn55it0/hqdefault.jpg"
-    },
-    {
-      "title": "中国具身智能泡沫 | 人形机器人 | 数采中心 | 邵天兰 | 宇树科技 | 银河通用 | 梅卡曼德 | 935亿融资 | 循环融资 | 关联交易 | 地方国资 | 估值泡沫 | 硬科技",
-      "video_id": "6x6I8U8Aq0g",
-      "channel_title": "最佳拍档",
-      "description": "2026年上半年，中国具身智能赛道融资935亿、半年催生23家百亿估值公司，但91%收入来自科研表演而非真实工业场景。揭秘数采 ...",
-      "published_at": "2026-09-25T05:41:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6x6I8U8Aq0g/hqdefault.jpg"
-    },
-    {
-      "title": "GPT-6与Claude Opus 5.5同日发布 | 模型价格战升级​ | GPT-6 Luna | OpenAI | Anthropic | 大模型价格战 | AI性价比 | 模型评测 | 大模型",
-      "video_id": "ruogKhvrO98",
-      "channel_title": "最佳拍档",
-      "description": "2026年9月23日，OpenAI与Anthropic同日发布新模型：GPT-6 Sol/Luna与Claude Opus 5.5。本次发布的核心不再是单纯比拼性能 ...",
-      "published_at": "2026-09-24T12:03:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ruogKhvrO98/hqdefault.jpg"
-    },
-    {
-      "title": "AI 2040计划：为超级智能争取时间​ | 超级智能 | AI安全 | AI对齐 | AI控制 | Daniel Kokotajlo | Thomas Larsen | AI预测 | AI 2027",
-      "video_id": "pngZj1YguQA",
-      "channel_title": "最佳拍档",
-      "description": "本期视频深度解读AI Futures Project的\"AI 2040计划A\"方案。丹尼尔·科科塔伊洛和托马斯·拉森在播客Machine Learning Street Talk ...",
-      "published_at": "2026-09-24T00:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pngZj1YguQA/hqdefault.jpg"
-    },
-    {
-      "title": "Shopify如何用AI重构：托比·卢特克访谈​ | Tobi Lütke | AI重构 | AI员工River | AI战略决策 | 审美与判断力 | 卡尼曼直觉理论 | 数字员工 | AI垃圾弹",
-      "video_id": "rHmQ_v7OpY4",
-      "channel_title": "最佳拍档",
-      "description": "本期基于Shopify CEO托比·卢特克在The Knowledge Project播客的深度访谈。托比分享了Shopify内部AI使用的真实状态：近50% ...",
-      "published_at": "2026-09-23T12:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rHmQ_v7OpY4/hqdefault.jpg"
-    },
-    {
-      "title": "【分享】AGI竞赛 | 网友自制AI视频 | The race for AGI",
-      "video_id": "pRHMcAi_q4g",
-      "channel_title": "最佳拍档",
-      "description": "Script: Sherpa by Pocket FMVideo: Seedance 2.5 https://x.com/maxxmalist/status/2102429352650514714.",
-      "published_at": "2026-09-23T07:27:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pRHMcAi_q4g/hqdefault.jpg"
     }
   ]
 }

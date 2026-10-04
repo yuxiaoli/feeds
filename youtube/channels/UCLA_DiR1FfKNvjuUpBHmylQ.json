@@ -1,32 +1,88 @@
 {
-  "fetched_at": "2026-09-27T04:22:22.929418",
+  "fetched_at": "2026-10-04T04:56:12.687397",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
-  "count": 3,
+  "count": 10,
   "videos": [
+    {
+      "title": "NASA&#39;s SpaceX Crew-13 Arrival &amp; Welcome Remarks",
+      "video_id": "FCCJRyhxZSo",
+      "channel_title": "NASA",
+      "description": "Watch as four explorers arrive at the International Space Station. After lifting off from Cape Canaveral Space Force Station on ...",
+      "published_at": "2026-10-02T02:02:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FCCJRyhxZSo/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-13 Postlaunch News Conference (Oct. 1, 2026)",
+      "video_id": "QSJVOZOUmek",
+      "channel_title": "NASA",
+      "description": "After the successful launch of NASA's SpaceX Crew-13 mission, leaders discuss the mission and answer questions from media.",
+      "published_at": "2026-10-01T18:03:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QSJVOZOUmek/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-13 Launch",
+      "video_id": "7ZiUbT1-djA",
+      "channel_title": "NASA",
+      "description": "Four new crew members are heading to the International Space Station! NASA astronauts Jessica Watkins and Luke Delaney, ...",
+      "published_at": "2026-10-01T15:53:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7ZiUbT1-djA/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-13 Prelaunch News Conference (Sept. 30, 2026)",
+      "video_id": "mlfzT_nD6GE",
+      "channel_title": "NASA",
+      "description": "Mission experts give a preview of NASA's SpaceX Crew-13 mission to the International Space Station ahead of its launch.",
+      "published_at": "2026-09-30T22:59:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mlfzT_nD6GE/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-13 Mission (Official NASA Trailer)",
+      "video_id": "ErAqN6gXqZQ",
+      "channel_title": "NASA",
+      "description": "NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos ...",
+      "published_at": "2026-09-30T18:48:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ErAqN6gXqZQ/hqdefault.jpg"
+    },
+    {
+      "title": "NASA’s SpaceX Crew-12 Farewell and International Space Station Change of Command",
+      "video_id": "RU6gEobXVHA",
+      "channel_title": "NASA",
+      "description": "Watch as the members of NASA's SpaceX Crew-12 mission – NASA astronauts Jessica Meir and Jack Hathaway, ESA (European ...",
+      "published_at": "2026-09-30T18:29:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RU6gEobXVHA/hqdefault_live.jpg"
+    },
     {
       "title": "Space Station Operations Update (Sept. 28, 2026)",
       "video_id": "j9epFget1W8",
       "channel_title": "NASA",
       "description": "Leaders from NASA and Boeing hold a news conference at NASA's Kennedy Space Center to provide updates on Starliner ...",
-      "published_at": "2026-09-25T22:24:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j9epFget1W8/hqdefault_live.jpg"
+      "published_at": "2026-09-28T20:03:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/j9epFget1W8/hqdefault.jpg"
     },
     {
-      "title": "Live Video from the International Space Station (Official NASA Stream)",
-      "video_id": "M3HKLzjvKPc",
+      "title": "2026 Solar Eclipse @ 50,000 Feet",
+      "video_id": "myZ9kn9MIWQ",
       "channel_title": "NASA",
-      "description": "Watch live video from the International Space Station, including inside views when the crew aboard the space station is on duty.",
-      "published_at": "2026-07-30T13:13:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M3HKLzjvKPc/hqdefault_live.jpg"
+      "description": "These views, including footage from GoPro cameras, were captured by NASA's WB-57 aircraft during the 2026 total solar eclipse.",
+      "published_at": "2026-08-14T16:46:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/myZ9kn9MIWQ/hqdefault.jpg"
     },
     {
-      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
-      "video_id": "awQzjn72bI0",
+      "title": "2026 Total Solar Eclipse Over Spain",
+      "video_id": "QP5Fs3AYuWE",
       "channel_title": "NASA",
-      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
-      "published_at": "2026-06-30T13:11:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/awQzjn72bI0/hqdefault_live.jpg"
+      "description": "On Aug. 12, 2026, a total solar eclipse passed over Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small ...",
+      "published_at": "2026-08-12T19:08:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QP5Fs3AYuWE/hqdefault.jpg"
+    },
+    {
+      "title": "NASA Moon Base Update (Aug. 4, 2026)",
+      "video_id": "VV_JW4iCni0",
+      "channel_title": "NASA",
+      "description": "Lunar landers, assemble! In clean rooms across the country, commercial lunar landers are preparing for upcoming missions to the ...",
+      "published_at": "2026-08-04T16:18:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VV_JW4iCni0/hqdefault.jpg"
     }
   ]
 }
