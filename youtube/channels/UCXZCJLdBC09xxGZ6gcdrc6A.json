@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-10-04T04:56:25.231365",
+  "fetched_at": "2026-10-11T04:46:01.848809",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "The dots demo, take two | OpenAI DevDay 2026",
-      "video_id": "fHEIw5CcN5U",
+      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
+      "video_id": "Ju-JyxDgV7g",
       "channel_title": "OpenAI",
-      "description": "Meet dots, always-on AI agents that get to know what matters to you and take work off your plate. See dots in action, from planning ...",
-      "published_at": "2026-10-01T17:20:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fHEIw5CcN5U/hqdefault.jpg"
+      "description": "Richard Lam, Group Vice President at Oracle Applications Lab, shares how his team uses Codex to help business users get ...",
+      "published_at": "2026-10-10T21:40:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ju-JyxDgV7g/hqdefault.jpg"
     },
     {
-      "title": "Build faster with Ultrafast ",
-      "video_id": "sKltfHvsDQM",
+      "title": "Set up your dot in the ChatGPT mobile app",
+      "video_id": "p5KxBTUncoE",
       "channel_title": "OpenAI",
-      "description": "Ultrafast is our fastest way to build with Astra yet: in Codex, it runs up to 8x faster than Astra Standard and 4x faster than Astra Fast.",
-      "published_at": "2026-09-29T18:47:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sKltfHvsDQM/hqdefault.jpg"
+      "description": "You can now create a dot from the ChatGPT mobile app. Set up your dot, edit the name, customize the avatar, and set your dot to ...",
+      "published_at": "2026-10-09T19:13:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p5KxBTUncoE/hqdefault.jpg"
     },
     {
-      "title": "OpenAI DevDay 2026 Keynote (FULL)",
-      "video_id": "Fls_onRviPM",
+      "title": "Building the Codex community",
+      "video_id": "enPbh_A5F7E",
       "channel_title": "OpenAI",
-      "description": "Watch Sam Altman, Romain Huet, Tejal Patwardhan, and Holly Li announce and demo 20+ launches at OpenAI DevDay, ...",
-      "published_at": "2026-09-29T18:42:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Fls_onRviPM/hqdefault.jpg"
+      "description": "See how the Codex community brings people together to build, learn, and share. Pauline Narvas and VB talk about growing the ...",
+      "published_at": "2026-10-09T17:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/enPbh_A5F7E/hqdefault.jpg"
     },
     {
-      "title": "Meet the all new Codex Cloud",
-      "video_id": "7Bv68f5szSU",
+      "title": "How Sophos cuts threat response time by 96% with OpenAI Daybreak",
+      "video_id": "MUHjyljBPHI",
       "channel_title": "OpenAI",
-      "description": "Start a Codex task, close your laptop, and pick it up from your phone. See how to create a reusable cloud environment with your ...",
-      "published_at": "2026-09-29T18:18:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7Bv68f5szSU/hqdefault.jpg"
+      "description": "Sophos CTO John Peterson shares how agents built through OpenAI Daybreak combine AI with Sophos's cybersecurity expertise ...",
+      "published_at": "2026-10-09T08:37:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MUHjyljBPHI/hqdefault.jpg"
     },
     {
-      "title": "Introducing dots, always-on agents built to handle everything.",
-      "video_id": "uXspbC2srEQ",
+      "title": "Production Monitoring with Codex: Grafana, Kubernetes, &amp; Security",
+      "video_id": "RQfg-zo4R-g",
       "channel_title": "OpenAI",
-      "description": "Dots are frontier intelligence that have your back. Powered by GPT‑6 Astra, they have their own cloud computer, learn from ...",
-      "published_at": "2026-09-29T18:04:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uXspbC2srEQ/hqdefault.jpg"
+      "description": "It's 3 a.m. and checkout errors are climbing. What do you check first? Join cohosts Tony Loehr and Anke Hao for three practical ...",
+      "published_at": "2026-10-08T21:35:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RQfg-zo4R-g/hqdefault.jpg"
     },
     {
-      "title": "Meet the builders of our time - the Codex Originals.",
-      "video_id": "m8VkCbkFAKA",
+      "title": "More visual answers from GPT-6 with Intelligent UI",
+      "video_id": "OgjMGn4T6Ok",
       "channel_title": "OpenAI",
-      "description": "These builders aren't just writing code. They're rewriting what's possible.",
-      "published_at": "2026-09-29T17:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m8VkCbkFAKA/hqdefault.jpg"
+      "description": "GPT‑6 in ChatGPT introduces Intelligent UI, a new capability that allows ChatGPT to answer quickly with fully interactive user ...",
+      "published_at": "2026-10-08T17:46:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OgjMGn4T6Ok/hqdefault.jpg"
     },
     {
-      "title": "The Defender&#39;s Window at enterprise scale with Standard Chartered",
-      "video_id": "a75xDflRooI",
+      "title": "Get a more visual answer from GPT-6 with Intelligent UI",
+      "video_id": "Wv0PRPMzkJg",
       "channel_title": "OpenAI",
-      "description": "Matt Weaver, Head of Applied AI Architects at OpenAI, and Reuben Athaide, Head of Innovation, Applications & Assurance at ...",
-      "published_at": "2026-09-29T10:01:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/a75xDflRooI/hqdefault.jpg"
+      "description": "GPT‑6 in ChatGPT introduces Intelligent UI, a new capability that allows ChatGPT to answer quickly with fully interactive user ...",
+      "published_at": "2026-10-08T17:41:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wv0PRPMzkJg/hqdefault.jpg"
     },
     {
-      "title": "Building the partner ecosystem with Sophos",
-      "video_id": "zoohZ1BiHs0",
+      "title": "How Oracle Uses ChatGPT Work to Transform Recruitment",
+      "video_id": "Rs5qLAnkNcI",
       "channel_title": "OpenAI",
-      "description": "Claire Lawlor, Digital Native AD EMEA at OpenAI, and John Peterson, CTO at Sophos, explain the role of technology partnerships ...",
-      "published_at": "2026-09-29T10:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zoohZ1BiHs0/hqdefault.jpg"
+      "description": "We've gone from zero to 100, not zero to 60.” Jan Ackerman shares how Oracle built a talent market intelligence tool with ...",
+      "published_at": "2026-10-08T17:43:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Rs5qLAnkNcI/hqdefault.jpg"
     },
     {
-      "title": "GPT-6 Astra in practice: Turning ideas into projects",
-      "video_id": "6wNqpZdHE_s",
+      "title": "Play a game against GPT-6 with Intelligent UI",
+      "video_id": "BHQF1xl2ScU",
       "channel_title": "OpenAI",
-      "description": "See what members of the OpenAI Developer Experience team are building with Astra, from a YouTube thumbnail generator and ...",
-      "published_at": "2026-09-28T18:05:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6wNqpZdHE_s/hqdefault.jpg"
+      "description": "GPT‑6 in ChatGPT introduces Intelligent UI, a new capability that allows ChatGPT to answer quickly with fully interactive user ...",
+      "published_at": "2026-10-08T17:40:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BHQF1xl2ScU/hqdefault.jpg"
     },
     {
-      "title": "The Defender&#39;s Window: Cyber security keynote",
-      "video_id": "3jDhHA9JGUE",
+      "title": "How Oracle Uses ChatGPT Work to Transform Recruitment",
+      "video_id": "Mm3EsJL73tM",
       "channel_title": "OpenAI",
-      "description": "OpenAI's security experts explain why every organization needs a cyber defence factory, and how to build it with Daybreak.",
-      "published_at": "2026-09-28T13:29:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3jDhHA9JGUE/hqdefault.jpg"
+      "description": "We've gone from zero to 100, not zero to 60.” Jan Ackerman shares how Oracle built a talent market intelligence tool with ...",
+      "published_at": "2026-10-08T17:38:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Mm3EsJL73tM/hqdefault.jpg"
     }
   ]
 }

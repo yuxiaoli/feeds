@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-04T04:56:07.238742",
+  "fetched_at": "2026-10-11T04:45:44.511040",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "How the Pyramids Got a Giant CT Scan",
+      "video_id": "l5905iuIhi8",
+      "channel_title": "DamiLee",
+      "description": "Did you know muon tomography was invented for the pyramids?| In 1965 a physicist named Luis Alvarez put detectors in a ...",
+      "published_at": "2026-10-09T15:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l5905iuIhi8/hqdefault.jpg"
+    },
     {
       "title": "Is There a Secret Ramp Inside the Great Pyramid?",
       "video_id": "IQTMgdBjpC8",
@@ -75,14 +83,6 @@
       "description": "The Colosseum wasn't just a stadium. It was a psychological device built to control the emotions of 50000 people at once, and ...",
       "published_at": "2026-08-12T15:30:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2OV-ygn7E34/hqdefault.jpg"
-    },
-    {
-      "title": "The Hidden Area Beneath the Colosseum",
-      "video_id": "UwviOkOKL7Q",
-      "channel_title": "DamiLee",
-      "description": "The Colosseum had a secret hiding in plain sight, buried under the arena floor for nearly 2000 years. A two-level substructure ...",
-      "published_at": "2026-08-07T15:30:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UwviOkOKL7Q/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2026-10-04T04:56:11.344954",
+  "fetched_at": "2026-10-11T04:45:48.556637",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
+    {
+      "title": "Human Bias is Harder to Fix than AI Bias🧠",
+      "video_id": "3Tk0sFoFYvM",
+      "channel_title": "IBM Technology",
+      "description": "Machine bias can often be measured, detected, and corrected. Human bias is far more difficult to recognize. Learn why this ...",
+      "published_at": "2026-10-09T16:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3Tk0sFoFYvM/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI&#39;s always-on agents, 700+ math manuscripts &amp; HackerRank&#39;s AI interviewer",
+      "video_id": "IO6Bhs2iNfk",
+      "channel_title": "IBM Technology",
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~qrhY7KEYZ Can AI take mathematics beyond ...",
+      "published_at": "2026-10-09T10:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IO6Bhs2iNfk/hqdefault.jpg"
+    },
+    {
+      "title": "Even Tech Experts Hate CAPTCHAs 😅",
+      "video_id": "gebskF8HP7g",
+      "channel_title": "IBM Technology",
+      "description": "Why are CAPTCHAs still so frustrating? Norman Dorsch shares a surprisingly relatable take on the internet's most annoying ...",
+      "published_at": "2026-10-08T16:15:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gebskF8HP7g/hqdefault.jpg"
+    },
+    {
+      "title": "Hiding in plain sight: Fake GPTs, SMTP malware and NetScaler zero-days",
+      "video_id": "wZFseoVpSTM",
+      "channel_title": "IBM Technology",
+      "description": "Visit Security Intelligence podcast page to get more cybersecurity content → https://ibm.biz/~u3JW3XeWL That ChatGPT ad might ...",
+      "published_at": "2026-10-08T10:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wZFseoVpSTM/hqdefault.jpg"
+    },
+    {
+      "title": "How AI Models Scale Beyond a Single GPU Across LLM Workloads",
+      "video_id": "qZBibWYcKH4",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about AI Models here → https://ibm.biz/~GnXROtDog The biggest AI models can't fit on one GPU. Grace Ableidinger ...",
+      "published_at": "2026-10-06T11:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qZBibWYcKH4/hqdefault.jpg"
+    },
+    {
+      "title": "IDE vs CLI: What Every DevOps Engineer Should Know",
+      "video_id": "5RtmQSKKQo8",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about AI IDE here → https://ibm.biz/~ita5zGsXu Most developers use both an IDE and a CLI, but each solves a ...",
+      "published_at": "2026-10-05T11:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5RtmQSKKQo8/hqdefault.jpg"
+    },
     {
       "title": "Does Safety Beat Hype with AI Models❔🤖",
       "video_id": "iMv9sCg7vxo",
@@ -11,14 +59,6 @@
       "description": "Chris Hay calls himself a model addict. He wants every new AI model the moment it launches. So why does he agree with ...",
       "published_at": "2026-10-02T18:15:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iMv9sCg7vxo/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI cancels Astra release, Sonnet 5.5 &amp; what Meta Muse means for work",
-      "video_id": "oBdLhD5nPYw",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~g2OhVoI8Y What makes an AI company pull the ...",
-      "published_at": "2026-10-02T10:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/oBdLhD5nPYw/hqdefault.jpg"
     },
     {
       "title": "What Is Jev? The AI Model That Doesn&#39;t Generate Text",
@@ -37,52 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/fWFkw70yJwk/hqdefault.jpg"
     },
     {
-      "title": "Ransomware Detection: Why Storage Finds the Attack First",
-      "video_id": "7jUcTG1eeTM",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Cyber Resilience here → https://ibm.biz/~VtUoOk5oA Ransomware rarely starts with a ransom note. Jeff Crume ...",
-      "published_at": "2026-09-29T11:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7jUcTG1eeTM/hqdefault.jpg"
-    },
-    {
-      "title": "Prompt to Production: The Future of AI Code Workflows",
-      "video_id": "bs1qPy_CWkM",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Agentic Coding here → https://ibm.biz/~eVuLdAOOj Writing code is becoming the easy part. Sam Anthony ...",
-      "published_at": "2026-09-28T11:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bs1qPy_CWkM/hqdefault.jpg"
-    },
-    {
-      "title": "AI Is Exposing Your Data: An AI Security Problem You Can&#39;t See",
-      "video_id": "kyJ1vd7yEPc",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Data Tools here → https://ibm.biz/~DSFj8t9c9 AI is exposing your data in ways most teams can't see.",
-      "published_at": "2026-09-27T11:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kyJ1vd7yEPc/hqdefault.jpg"
-    },
-    {
       "title": "Why Did The AI Race Just Change? 🏁",
       "video_id": "SQYwRET4a6Q",
       "channel_title": "IBM Technology",
       "description": "The AI conversation is shifting fast. New foundation models arrive every few weeks, but what really matters to businesses is ...",
       "published_at": "2026-09-25T16:00:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SQYwRET4a6Q/hqdefault.jpg"
-    },
-    {
-      "title": "You Can&#39;t Keep Powerful AI Secret for Long🤖",
-      "video_id": "jl-2xaMLiE0",
-      "channel_title": "IBM Technology",
-      "description": "What happens when every AI company tries to restrict access to powerful models?   According to Jeff Crume, it's only a matter of ...",
-      "published_at": "2026-09-23T16:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jl-2xaMLiE0/hqdefault.jpg"
-    },
-    {
-      "title": "The 4️⃣ Pillars of Digital Sovereignty",
-      "video_id": "jsMGpTpPZJ4",
-      "channel_title": "IBM Technology",
-      "description": "Digital sovereignty gives your organization the ability to retain complete control and authority over your technology systems, data, ...",
-      "published_at": "2026-09-22T16:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jsMGpTpPZJ4/hqdefault.jpg"
     }
   ]
 }

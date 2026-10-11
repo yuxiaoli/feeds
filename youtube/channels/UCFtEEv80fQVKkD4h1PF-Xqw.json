@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-10-04T04:56:04.344632",
+  "fetched_at": "2026-10-11T04:45:41.635873",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
+    {
+      "title": "How AI gives her more time to focus on people",
+      "video_id": "cAMjVquiEL0",
+      "channel_title": "Microsoft",
+      "description": "The code needs attention. So does the person who'll use it. @ATT data scientist Natalie Gilbert shares how @GitHub Copilot ...",
+      "published_at": "2026-10-06T19:30:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cAMjVquiEL0/hqdefault.jpg"
+    },
+    {
+      "title": "How this data scientist is using AI to help 130,000 AT&amp;T employees",
+      "video_id": "4mjXPWPkWo8",
+      "channel_title": "Microsoft",
+      "description": "ATT data scientist Natalie Gilbert found a way to turn her drive to help people into work that can reach thousands. See how ...",
+      "published_at": "2026-10-06T16:30:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/4mjXPWPkWo8/hqdefault.jpg"
+    },
+    {
+      "title": "Why Seattle Seahawks coaches rely on this analyst every game",
+      "video_id": "fdq3aYCVIL0",
+      "channel_title": "Microsoft",
+      "description": "A Seattle @Seahawks analyst has about 25 seconds between plays to find the right information. Using Copilot in Excel, analysts ...",
+      "published_at": "2026-09-09T22:06:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fdq3aYCVIL0/hqdefault.jpg"
+    },
     {
       "title": "Tech, labor, and token costs: the new AI math",
       "video_id": "J-3FSw6Upqs",
@@ -59,30 +83,6 @@
       "description": "Microsoft CVP of Workforce Transformation Katy George on why AI transformation isn't a one-and-done event—it's the new reality ...",
       "published_at": "2026-07-27T19:45:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/oPGtv7cOB8g/hqdefault.jpg"
-    },
-    {
-      "title": "Doris Kearns Goodwin meets Teddy Roosevelt",
-      "video_id": "MJu_-hiK_qk",
-      "channel_title": "Microsoft",
-      "description": "To coincide with the Americas' 250th celebration, Microsoft unveiled an AI experience that lets visitors have a conversation with ...",
-      "published_at": "2026-07-17T20:02:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MJu_-hiK_qk/hqdefault.jpg"
-    },
-    {
-      "title": "AI can&#39;t fix broken workflows",
-      "video_id": "CCNmGkT-M9M",
-      "channel_title": "Microsoft",
-      "description": "If a workflow is broken, AI won't fix it. WorkLab podcast clip. Rana el Kaliouby, AI scientist and entrepreneur (formerly CEO of ...",
-      "published_at": "2026-07-15T20:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CCNmGkT-M9M/hqdefault.jpg"
-    },
-    {
-      "title": "Nonprofits empower a nation of problem solvers | Episode 4",
-      "video_id": "CvB_VBSF-mk",
-      "channel_title": "Microsoft",
-      "description": "In 1831, Alexis de Tocqueville arrived in Cincinnati, Ohio, and saw something that set America apart. Looking out over a young ...",
-      "published_at": "2026-07-14T15:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CvB_VBSF-mk/hqdefault.jpg"
     }
   ]
 }

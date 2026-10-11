@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-04T04:56:31.258078",
+  "fetched_at": "2026-10-11T04:46:07.362847",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Building AI Assistants with On-Device Memory #aiagents #deeplearningai",
+      "video_id": "dffaE-nftA4",
+      "channel_title": "DeepLearningAI",
+      "description": "No network connection. No remote server. Build an assistant whose memory never leaves the device in Building AI Assistants with ...",
+      "published_at": "2026-10-07T15:15:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dffaE-nftA4/hqdefault.jpg"
+    },
     {
       "title": "The Data Engineering Professional Certificate is now on DeepLearning.AI",
       "video_id": "yUyfHQBXSzs",
@@ -75,14 +83,6 @@
       "description": "The big brain for the big work, the little brain for the little work. Paul Everitt's rule for splitting coding tasks between frontier and ...",
       "published_at": "2026-08-20T13:46:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tRz2bxfPJbE/hqdefault.jpg"
-    },
-    {
-      "title": "7-day Voice AI Build Challenge",
-      "video_id": "7D3w87YqfA8",
-      "channel_title": "DeepLearningAI",
-      "description": "Don't miss a night out because you're watching your terminal. Have your coding agent call you instead! Join the 7-Day Voice AI ...",
-      "published_at": "2026-06-24T17:11:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7D3w87YqfA8/hqdefault.jpg"
     }
   ]
 }

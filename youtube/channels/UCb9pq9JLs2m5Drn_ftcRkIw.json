@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-04T04:56:28.957727",
+  "fetched_at": "2026-10-11T04:46:05.333831",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "جمال القوة",
+      "video_id": "e7CADouz8Ew",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-10-10T10:56:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e7CADouz8Ew/hqdefault.jpg"
+    },
     {
       "title": "The beauty of strength",
       "video_id": "9Rj699iYH2I",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-08-11T12:26:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZbLGcp4xGh4/hqdefault.jpg"
-    },
-    {
-      "title": "فين اللي يقول الكالسثنكس مو رياضة",
-      "video_id": "ogiGM79eLGU",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-08-02T10:08:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ogiGM79eLGU/hqdefault.jpg"
     }
   ]
 }

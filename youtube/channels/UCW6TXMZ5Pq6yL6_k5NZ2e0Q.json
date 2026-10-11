@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-04T04:56:22.013139",
+  "fetched_at": "2026-10-11T04:45:58.952342",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "Probability vs Statistics - How do you know which to use?",
+      "video_id": "epKVYbu7aaw",
+      "channel_title": "Socratica",
+      "description": "SIGN UP for tastefully infrequent updates about our upcoming Probability & Statistics course.",
+      "published_at": "2026-10-05T10:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/epKVYbu7aaw/hqdefault.jpg"
+    },
     {
       "title": "Socratica + Patreon = Everyone Gets to Learn 💜🦉",
       "video_id": "ewp9UZoaiSs",
@@ -53,6 +61,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lOGd6ysc2j4/hqdefault.jpg"
     },
     {
+      "title": "Probability Density Functions (PDFs) Explained Clearly | Continuous Random Variables",
+      "video_id": "5iUOa3fz-X4",
+      "channel_title": "Socratica",
+      "description": "Probability Density Functions (PDFs) are essential for working with continuous random variables—but they can feel unintuitive at ...",
+      "published_at": "2026-05-04T10:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5iUOa3fz-X4/hqdefault.jpg"
+    },
+    {
       "title": "SciPy - A Scientific Extension of NumPy | Python",
       "video_id": "wuIrxCrXIyc",
       "channel_title": "Socratica",
@@ -67,22 +83,6 @@
       "description": "SIGN UP for tastefully infrequent updates about our upcoming Probability & Statistics course.",
       "published_at": "2026-03-12T10:00:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/5pGWJUcSAX4/hqdefault.jpg"
-    },
-    {
-      "title": "Numpy Arrays - Fast Linear Algebra in Python",
-      "video_id": "u5kq2VpSAgo",
-      "channel_title": "Socratica",
-      "description": "Join our Patreon: https://www.patreon.com/cw/socratica Sign up for Socratica Courses: ...",
-      "published_at": "2026-03-03T11:01:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u5kq2VpSAgo/hqdefault.jpg"
-    },
-    {
-      "title": "tkinter - Building UIs with Python",
-      "video_id": "VmCbkSEyMM0",
-      "channel_title": "Socratica",
-      "description": "Join our Patreon: https://www.patreon.com/cw/socratica Sign up for Socratica Courses: ...",
-      "published_at": "2026-02-02T11:01:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VmCbkSEyMM0/hqdefault.jpg"
     }
   ]
 }

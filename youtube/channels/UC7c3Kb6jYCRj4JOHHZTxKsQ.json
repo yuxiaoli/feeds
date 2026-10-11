@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-10-04T04:55:55.054601",
+  "fetched_at": "2026-10-11T04:45:32.673632",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
+    {
+      "title": "Live Coding with Wes Bos, Burke Holland, Pierce Boggan &amp; Friends | GitHub Copilot Day",
+      "video_id": "ql_-cPc_ZYQ",
+      "channel_title": "GitHub",
+      "description": "Join Wes Bos, Burke Holland, and Pierce Boggan for two hours of live coding with GitHub Copilot. Watch as the team takes a 3D ...",
+      "published_at": "2026-10-10T15:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ql_-cPc_ZYQ/hqdefault.jpg"
+    },
+    {
+      "title": "ScreenMind: Vision, Audio &amp; Chat with Local AI | Open Source Friday",
+      "video_id": "N_cGKFGMxxc",
+      "channel_title": "GitHub",
+      "description": "What if one local AI model could understand your screen, transcribe meetings, and answer questions about what you've seen?",
+      "published_at": "2026-10-10T05:51:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N_cGKFGMxxc/hqdefault.jpg"
+    },
+    {
+      "title": "What really happens at a 48-hour hackathon",
+      "video_id": "ICi1LPxx0ck",
+      "channel_title": "GitHub",
+      "description": "Hackathons are much more than continuous coding and zero sleep; they are invention marathons where developers, students, ...",
+      "published_at": "2026-10-09T15:59:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ICi1LPxx0ck/hqdefault.jpg"
+    },
+    {
+      "title": "How to run GitHub Copilot agent sessions across any device | GitHub Copilot Day",
+      "video_id": "KT6p0MNXoCE",
+      "channel_title": "GitHub",
+      "description": "Agent sessions shouldn't be locked into a single code editor or terminal window. Patrick Nikoletich explains how GitHub's shared ...",
+      "published_at": "2026-10-08T21:19:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KT6p0MNXoCE/hqdefault.jpg"
+    },
+    {
+      "title": "Intelligent local model routing is coming to GitHub Copilot",
+      "video_id": "QIHnmqYU614",
+      "channel_title": "GitHub",
+      "description": "GitHub Copilot is extending intelligent model orchestration from the cloud down to your local machine. Copilot can automatically ...",
+      "published_at": "2026-10-07T18:10:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QIHnmqYU614/hqdefault.jpg"
+    },
+    {
+      "title": "How GitHub PR limits help maintainers stop AI slop",
+      "video_id": "8VslAmTPo3I",
+      "channel_title": "GitHub",
+      "description": "Low-quality pull requests and automated spam, often referred to as AI slop, have become a major burden for open-source ...",
+      "published_at": "2026-10-06T15:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8VslAmTPo3I/hqdefault.jpg"
+    },
+    {
+      "title": "How to protect your repo in 2 minutes with gh-secure",
+      "video_id": "J3Z6bO3LvUw",
+      "channel_title": "GitHub",
+      "description": "Just one command can help you stop leaking secrets into your public code. Give your repositories essential security hygiene with ...",
+      "published_at": "2026-10-04T15:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/J3Z6bO3LvUw/hqdefault.jpg"
+    },
     {
       "title": "Replay: Open Source Friday with Mastra",
       "video_id": "I541TmZiV2Q",
@@ -11,30 +67,6 @@
       "description": "Abhi Aiyer, CTO at Mastra, joins Open Source Friday to talk about building AI applications with TypeScript. Mastra is a ...",
       "published_at": "2026-10-03T06:20:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/I541TmZiV2Q/hqdefault.jpg"
-    },
-    {
-      "title": "Inside Project HydraFusion: multi-model orchestration in the GitHub Copilot | demo | GitHub Checkout",
-      "video_id": "EeOz2w5wPEI",
-      "channel_title": "GitHub",
-      "description": "Stop guessing which AI model to use for your coding tasks. In this episode of GitHub Checkout, Julia Kasper joins to break down ...",
-      "published_at": "2026-10-02T15:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EeOz2w5wPEI/hqdefault.jpg"
-    },
-    {
-      "title": "GitHub Universe Day 2 Keynote",
-      "video_id": "ZSMFrM54H2Q",
-      "channel_title": "GitHub",
-      "description": "We're ending Universe the way it started: with the people who build in the open. Join us for a final session of open source voices, ...",
-      "published_at": "2026-10-02T14:45:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZSMFrM54H2Q/hqdefault_live.jpg"
-    },
-    {
-      "title": "GitHub Universe Day 1 Keynote",
-      "video_id": "MZfqId_rrB0",
-      "channel_title": "GitHub",
-      "description": "Join us for the opening keynote as we look at the next era of software, the developers building it, and the tools and workflows ...",
-      "published_at": "2026-10-02T14:31:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MZfqId_rrB0/hqdefault_live.jpg"
     },
     {
       "title": "Modern iPod syncing made easy with iOpenPod",
@@ -51,38 +83,6 @@
       "description": "Tired of your code passing locally but failing in continuous integration? The GitHub Copilot app stays involved after you open a ...",
       "published_at": "2026-09-28T15:00:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/SAC1vJk6EGw/hqdefault.jpg"
-    },
-    {
-      "title": "How to use GitHub Copilot with WSL on Windows",
-      "video_id": "4VnQGyKtMk0",
-      "channel_title": "GitHub",
-      "description": "Build software on Windows using the Linux environments and tools you already rely on. In this video, see how to connect the ...",
-      "published_at": "2026-09-27T15:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4VnQGyKtMk0/hqdefault.jpg"
-    },
-    {
-      "title": "How to build custom tools with Canvas in the GitHub Copilot app",
-      "video_id": "Ln0L9Ptey_8",
-      "channel_title": "GitHub",
-      "description": "What if you could describe your ideal developer workspace interface and have AI build it for you? Canvas in the GitHub Copilot ...",
-      "published_at": "2026-09-25T15:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ln0L9Ptey_8/hqdefault.jpg"
-    },
-    {
-      "title": "Let&#39;s Learn GitHub Copilot SDK",
-      "video_id": "IAEQt_yqfLA",
-      "channel_title": "GitHub",
-      "description": "Join this beginner-friendly virtual training to get started with the GitHub Copilot SDK, your toolkit for building custom agent ...",
-      "published_at": "2026-09-24T18:24:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IAEQt_yqfLA/hqdefault.jpg"
-    },
-    {
-      "title": "Are developers mourning the craft of coding in the AI era?",
-      "video_id": "arhEVn0bAdM",
-      "channel_title": "GitHub",
-      "description": "As AI tools evolve, many developers feel like they are mourning the craft of manually writing software. In this clip from the GitHub ...",
-      "published_at": "2026-09-24T15:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/arhEVn0bAdM/hqdefault.jpg"
     }
   ]
 }

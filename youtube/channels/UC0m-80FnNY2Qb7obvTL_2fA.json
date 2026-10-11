@@ -1,24 +1,24 @@
 {
-  "fetched_at": "2026-10-04T04:55:48.147454",
+  "fetched_at": "2026-10-11T04:45:25.636066",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "Azure Copilot Troubleshooting Agent is now general available",
-      "video_id": "KX4o-uQOaJ8",
+      "title": "Real-Time Multichannel Speech-to-Text: Transcribe Stereo Audio in One Stream",
+      "video_id": "Bl2RV7Edt-k",
       "channel_title": "Microsoft Azure",
-      "description": "Azure Copilot is announcing the general availability of Troubleshooting Agent, a unified, built-in Azure Copilot capability that ...",
-      "published_at": "2026-10-02T20:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KX4o-uQOaJ8/hqdefault.jpg"
+      "description": "Stereo recordings are everywhere, from contact center calls to doctor-patient conversations. The challenge is turning both sides ...",
+      "published_at": "2026-10-08T19:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Bl2RV7Edt-k/hqdefault.jpg"
     },
     {
-      "title": "Build, test, monitor and optimize a voice agent in Microsoft Foundry",
-      "video_id": "u8usaIQMR5s",
+      "title": "Azure Speech LLM 2607: Better Multilingual Transcription in Microsoft Foundry",
+      "video_id": "f7wc7RmKFEc",
       "channel_title": "Microsoft Azure",
-      "description": "An in-depth walkthrough of building a voice agent in Microsoft Foundry—from first configuration through to production ...",
-      "published_at": "2026-09-28T17:10:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u8usaIQMR5s/hqdefault.jpg"
+      "description": "Azure Speech LLM 2607 is here, with more accurate speech-to-text for multilingual and mixed-language audio. In this quick demo ...",
+      "published_at": "2026-10-08T15:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f7wc7RmKFEc/hqdefault.jpg"
     },
     {
       "title": "Smooth sailing starts here",

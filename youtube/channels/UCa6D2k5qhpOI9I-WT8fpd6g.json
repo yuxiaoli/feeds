@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-04T04:56:28.190281",
+  "fetched_at": "2026-10-11T04:46:04.627300",
   "channel_id": "UCa6D2k5qhpOI9I-WT8fpd6g",
   "channel_title": "技术爬爬虾  TechShrimp",
   "count": 10,
   "videos": [
+    {
+      "title": "大数据平台进入 Agent 时代：DataBuddy全链路实战教程",
+      "video_id": "hIPfdmEHLKY",
+      "channel_title": "技术爬爬虾  TechShrimp",
+      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 #DataBuddy #Agent #腾讯云#大数据#数据平台#数据仓库#AI #数据分析# ...",
+      "published_at": "2026-10-10T07:48:56Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hIPfdmEHLKY/hqdefault.jpg"
+    },
     {
       "title": "盘点Codex(ChatGPT)半年间更新，省Token技巧 + 新奇玩法",
       "video_id": "K9Ed7M_Cms0",
@@ -75,14 +83,6 @@
       "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》",
       "published_at": "2026-06-03T07:20:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FwAQ75QCEoU/hqdefault.jpg"
-    },
-    {
-      "title": "Git+Github核心概念大串讲，从零到一全攻略，详细实战教程",
-      "video_id": "bWUUHBVg-7E",
-      "channel_title": "技术爬爬虾  TechShrimp",
-      "description": "会员频道有自制课程《小白玩转Git/Github，全功能精讲》 本期视频带来一个Git 与GitHub 核心概念大串讲，我会使用动画讲解结合 ...",
-      "published_at": "2026-05-18T12:03:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bWUUHBVg-7E/hqdefault.jpg"
     }
   ]
 }

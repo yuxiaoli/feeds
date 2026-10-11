@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-04T04:55:54.383348",
+  "fetched_at": "2026-10-11T04:45:31.983537",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta VR",
   "count": 10,
   "videos": [
+    {
+      "title": "Myth vs. Reality with Draymond Green. Watch &quot;Open Season&quot; in the TV app.",
+      "video_id": "PvdWa7at7h8",
+      "channel_title": "Meta VR",
+      "description": "",
+      "published_at": "2026-10-07T17:19:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PvdWa7at7h8/hqdefault.jpg"
+    },
     {
       "title": "A morning in the life of Draymond Green. &quot;Open Season&quot; is streaming now in the TV app on Meta Quest.",
       "video_id": "ac1hehQjXL8",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-09-14T22:19:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/K87OeZcMDV8/hqdefault.jpg"
-    },
-    {
-      "title": "Hip Hop Mixtape 2 is live now on @BeatSaber!",
-      "video_id": "PDXj3nhV7M4",
-      "channel_title": "Meta VR",
-      "description": "",
-      "published_at": "2026-09-09T16:07:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PDXj3nhV7M4/hqdefault.jpg"
     }
   ]
 }

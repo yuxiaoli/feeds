@@ -1,9 +1,73 @@
 {
-  "fetched_at": "2026-10-04T04:56:12.687397",
+  "fetched_at": "2026-10-11T04:45:50.040952",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
   "count": 10,
   "videos": [
+    {
+      "title": "NASA&#39;s Northrop Grumman Commercial Resupply Services 24 Departure",
+      "video_id": "IoL51xLkMSY",
+      "channel_title": "NASA",
+      "description": "Watch Northrop Grumman's Cygnus XL spacecraft undock and depart from the International Space Station. Flight controllers on ...",
+      "published_at": "2026-10-09T17:14:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/IoL51xLkMSY/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX 35th Commercial Resupply Services Launch",
+      "video_id": "f8FE2R7esZ0",
+      "channel_title": "NASA",
+      "description": "Tune in as a new shipment of science and supplies lifts off to the International Space Station. NASA and SpaceX are targeting ...",
+      "published_at": "2026-10-09T14:36:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f8FE2R7esZ0/hqdefault_live.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-12 Re-Entry &amp; Splashdown",
+      "video_id": "x6p9Ri0DlNE",
+      "channel_title": "NASA",
+      "description": "Welcome Crew-12 back to Earth with us! NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) ...",
+      "published_at": "2026-10-08T16:52:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x6p9Ri0DlNE/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX 35th Commercial Resupply Services Rendezvous and Docking",
+      "video_id": "-jPQmjMWy9I",
+      "channel_title": "NASA",
+      "description": "Following a successful launch on Oct. 13, 2026, an uncrewed SpaceX Dragon cargo spacecraft will plan to rendezvous with and ...",
+      "published_at": "2026-10-08T16:38:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-jPQmjMWy9I/hqdefault_live.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-12 Postflight News Conference",
+      "video_id": "ivng4U5xeYM",
+      "channel_title": "NASA",
+      "description": "After spending over seven months in space, members of NASA's SpaceX Crew-12 will discuss their mission aboard the ...",
+      "published_at": "2026-10-07T17:47:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ivng4U5xeYM/hqdefault_live.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-12 Undocking",
+      "video_id": "dGSqblvgLIE",
+      "channel_title": "NASA",
+      "description": "Watch the four members of NASA's SpaceX Crew-12 mission — NASA astronauts Jessica Meir and Jack Hathaway, ESA ...",
+      "published_at": "2026-10-07T12:32:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dGSqblvgLIE/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX Crew-12 Hatch Close",
+      "video_id": "JB5HKi8Pxqs",
+      "channel_title": "NASA",
+      "description": "Watch as NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and ...",
+      "published_at": "2026-10-07T10:40:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JB5HKi8Pxqs/hqdefault.jpg"
+    },
+    {
+      "title": "From the Moon to the 50-Yard Line",
+      "video_id": "-62C9R_41Sc",
+      "channel_title": "NASA",
+      "description": "From the Moon to the 50-yard line. Six months ago, NASA astronaut Christina Koch flew Philadelphia Eagles Super Bowl confetti ...",
+      "published_at": "2026-10-05T23:21:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-62C9R_41Sc/hqdefault.jpg"
+    },
     {
       "title": "NASA&#39;s SpaceX Crew-13 Arrival &amp; Welcome Remarks",
       "video_id": "FCCJRyhxZSo",
@@ -13,76 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FCCJRyhxZSo/hqdefault.jpg"
     },
     {
-      "title": "NASA&#39;s SpaceX Crew-13 Postlaunch News Conference (Oct. 1, 2026)",
-      "video_id": "QSJVOZOUmek",
-      "channel_title": "NASA",
-      "description": "After the successful launch of NASA's SpaceX Crew-13 mission, leaders discuss the mission and answer questions from media.",
-      "published_at": "2026-10-01T18:03:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QSJVOZOUmek/hqdefault.jpg"
-    },
-    {
       "title": "NASA&#39;s SpaceX Crew-13 Launch",
       "video_id": "7ZiUbT1-djA",
       "channel_title": "NASA",
       "description": "Four new crew members are heading to the International Space Station! NASA astronauts Jessica Watkins and Luke Delaney, ...",
       "published_at": "2026-10-01T15:53:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7ZiUbT1-djA/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX Crew-13 Prelaunch News Conference (Sept. 30, 2026)",
-      "video_id": "mlfzT_nD6GE",
-      "channel_title": "NASA",
-      "description": "Mission experts give a preview of NASA's SpaceX Crew-13 mission to the International Space Station ahead of its launch.",
-      "published_at": "2026-09-30T22:59:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mlfzT_nD6GE/hqdefault.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX Crew-13 Mission (Official NASA Trailer)",
-      "video_id": "ErAqN6gXqZQ",
-      "channel_title": "NASA",
-      "description": "NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos ...",
-      "published_at": "2026-09-30T18:48:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ErAqN6gXqZQ/hqdefault.jpg"
-    },
-    {
-      "title": "NASA’s SpaceX Crew-12 Farewell and International Space Station Change of Command",
-      "video_id": "RU6gEobXVHA",
-      "channel_title": "NASA",
-      "description": "Watch as the members of NASA's SpaceX Crew-12 mission – NASA astronauts Jessica Meir and Jack Hathaway, ESA (European ...",
-      "published_at": "2026-09-30T18:29:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RU6gEobXVHA/hqdefault_live.jpg"
-    },
-    {
-      "title": "Space Station Operations Update (Sept. 28, 2026)",
-      "video_id": "j9epFget1W8",
-      "channel_title": "NASA",
-      "description": "Leaders from NASA and Boeing hold a news conference at NASA's Kennedy Space Center to provide updates on Starliner ...",
-      "published_at": "2026-09-28T20:03:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/j9epFget1W8/hqdefault.jpg"
-    },
-    {
-      "title": "2026 Solar Eclipse @ 50,000 Feet",
-      "video_id": "myZ9kn9MIWQ",
-      "channel_title": "NASA",
-      "description": "These views, including footage from GoPro cameras, were captured by NASA's WB-57 aircraft during the 2026 total solar eclipse.",
-      "published_at": "2026-08-14T16:46:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/myZ9kn9MIWQ/hqdefault.jpg"
-    },
-    {
-      "title": "2026 Total Solar Eclipse Over Spain",
-      "video_id": "QP5Fs3AYuWE",
-      "channel_title": "NASA",
-      "description": "On Aug. 12, 2026, a total solar eclipse passed over Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small ...",
-      "published_at": "2026-08-12T19:08:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QP5Fs3AYuWE/hqdefault.jpg"
-    },
-    {
-      "title": "NASA Moon Base Update (Aug. 4, 2026)",
-      "video_id": "VV_JW4iCni0",
-      "channel_title": "NASA",
-      "description": "Lunar landers, assemble! In clean rooms across the country, commercial lunar landers are preparing for upcoming missions to the ...",
-      "published_at": "2026-08-04T16:18:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VV_JW4iCni0/hqdefault.jpg"
     }
   ]
 }

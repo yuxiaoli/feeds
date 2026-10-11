@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-10-04T04:56:47.264892",
+  "fetched_at": "2026-10-11T04:46:23.311753",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "Jupiter. Gone for an hour.",
+      "video_id": "bdmBkJhGf4E",
+      "channel_title": "Star Walk",
+      "description": "On October 6, 2026, the Moon hides Jupiter from parts of North America and Africa. This sped-up visualization shows the event ...",
+      "published_at": "2026-10-06T11:03:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bdmBkJhGf4E/hqdefault.jpg"
+    },
+    {
+      "title": "A star’s color tells you how hot it is ⭐🌈",
+      "video_id": "XXpT9wGYoC8",
+      "channel_title": "Star Walk",
+      "description": "Stars come in different colors because their surface temperatures are different — and their spectra also reveal which elements are ...",
+      "published_at": "2026-10-06T07:39:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XXpT9wGYoC8/hqdefault.jpg"
+    },
     {
       "title": "🌍 Earth has plenty of freshwater… or does it?",
       "video_id": "wOTjI96KxV8",
@@ -67,22 +83,6 @@
       "description": "At its peak, about 96% of the Moon will be covered by Earth's dark shadow, making it look almost like a Blood Moon. Where to ...",
       "published_at": "2026-08-21T10:42:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Y8tjgESU-VI/hqdefault.jpg"
-    },
-    {
-      "title": "The full Moon looks peaceful… until you point a telescope at it. 🌕🔭",
-      "video_id": "npCJkj7v5SQ",
-      "channel_title": "Star Walk",
-      "description": "Unlike the Sun, it won't damage your eyes, but it can definitely feel uncomfortable. A Moon filter or variable polarizing filter can ...",
-      "published_at": "2026-08-21T10:10:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/npCJkj7v5SQ/hqdefault.jpg"
-    },
-    {
-      "title": "A deep partial lunar eclipse is coming! 🌕",
-      "video_id": "ECLrqKfz2lI",
-      "channel_title": "Star Walk",
-      "description": "On August 27–28, 2026, Earth's shadow will cover about 96% of the Full Moon, leaving only a thin bright edge. At the peak, the ...",
-      "published_at": "2026-08-20T06:15:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ECLrqKfz2lI/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-10-04T04:55:47.486751",
+  "fetched_at": "2026-10-11T04:45:24.872188",
   "channel_id": "UC0ZMT-llb5zaecfPYYt5d6A",
   "channel_title": "The Castellows",
   "count": 10,
   "videos": [
+    {
+      "title": "Dancing through heartbreak (and writing bangers)",
+      "video_id": "ApPQ6Z9vd2s",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2026-10-09T18:15:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ApPQ6Z9vd2s/hqdefault.jpg"
+    },
+    {
+      "title": "Excited to start getting new music out!",
+      "video_id": "yakGqEUB5jA",
+      "channel_title": "The Castellows",
+      "description": "",
+      "published_at": "2026-10-06T17:25:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yakGqEUB5jA/hqdefault.jpg"
+    },
     {
       "title": "rock and roll (but banjo) #countrymusic #thecastellows #concert #livemusic #ontour",
       "video_id": "0XkaK8mhkm0",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-04-16T14:00:14Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ATPls7xMp0M/hqdefault.jpg"
-    },
-    {
-      "title": "Willow Avalon, the queen you are! #countrymusic #twostep #dancing",
-      "video_id": "PFO3NKyevwI",
-      "channel_title": "The Castellows",
-      "description": "",
-      "published_at": "2026-04-15T15:08:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PFO3NKyevwI/hqdefault.jpg"
-    },
-    {
-      "title": "Love is just a game… #countrymusic #concert #newmusic #thecastellows #livemusic",
-      "video_id": "DHff8xJ45WY",
-      "channel_title": "The Castellows",
-      "description": "",
-      "published_at": "2026-03-31T18:51:50Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DHff8xJ45WY/hqdefault.jpg"
     }
   ]
 }

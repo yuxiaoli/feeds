@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-10-04T04:56:02.349118",
+  "fetched_at": "2026-10-11T04:45:39.740067",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
-    {
-      "title": "Could high altitude wind be the answer to consistent energy?",
-      "video_id": "u41wrkEyHfc",
-      "channel_title": "Interesting Engineering",
-      "description": "Four hundred metres above us, the wind never stops, and almost nobody is using it. In this video, we look at high-altitude wind ...",
-      "published_at": "2026-09-27T09:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/u41wrkEyHfc/hqdefault.jpg"
-    },
     {
       "title": "Could high altitude wind be the answer to consistent energy?",
       "video_id": "mgs1GNZ0Blk",
@@ -83,6 +75,14 @@
       "description": "Ferrari just unveiled the Luce — its first-ever electric car, designed Jony Ive, lost 8% of its stock value within hours. The internet ...",
       "published_at": "2026-05-28T19:30:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KKlF8qhg3-c/hqdefault.jpg"
+    },
+    {
+      "title": "These missiles are customizable. Why?",
+      "video_id": "boGCHs2qG98",
+      "channel_title": "Interesting Engineering",
+      "description": "As the battlefield evolves, new capabilities need to move faster. Weapons are having a modular moment: new defense systems ...",
+      "published_at": "2026-05-26T14:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/boGCHs2qG98/hqdefault.jpg"
     }
   ]
 }

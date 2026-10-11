@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-04T04:56:14.829034",
+  "fetched_at": "2026-10-11T04:45:52.076841",
   "channel_id": "UCMpdDePtwZ6Zr3-IewEOQUg",
   "channel_title": "科學漫聊",
   "count": 10,
   "videos": [
+    {
+      "title": "刨根問底：時間到底是什麼？它真的存在嗎？",
+      "video_id": "wghRM59IE-c",
+      "channel_title": "科學漫聊",
+      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
+      "published_at": "2026-10-07T12:45:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wghRM59IE-c/hqdefault.jpg"
+    },
     {
       "title": "當人類能篡改時間，整個世界開始崩塌：《遞歸 》完結篇｜RECURSION｜記憶的玩物｜",
       "video_id": "GGH85-AWmGM",
@@ -75,14 +83,6 @@
       "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
       "published_at": "2026-04-18T13:30:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/K9Q0XONIGJs/hqdefault.jpg"
-    },
-    {
-      "title": "辐射到底是什么?#放射危机#核辐射",
-      "video_id": "J4hrplMqUW8",
-      "channel_title": "科學漫聊",
-      "description": "加入頻道會員，第一時間觀看新內容，並享受會員專屬無廣告版影片。你的支持將直接幫助我持續創作！ 立即 ...",
-      "published_at": "2026-04-18T12:38:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J4hrplMqUW8/hqdefault.jpg"
     }
   ]
 }

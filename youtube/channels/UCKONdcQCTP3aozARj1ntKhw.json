@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-04T04:56:09.205723",
+  "fetched_at": "2026-10-11T04:45:46.473192",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
@@ -69,20 +69,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/0WBk4ai8y1A/hqdefault.jpg"
     },
     {
-      "title": "We fixed Claude Code&#39;s biggest problem...",
-      "video_id": "ycoLAPxCSxs",
-      "channel_title": "Warp",
-      "description": "",
-      "published_at": "2026-08-17T23:47:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ycoLAPxCSxs/hqdefault.jpg"
-    },
-    {
       "title": "Introducing the Warp Agent CLI: a coding agent that does what others can&#39;t",
       "video_id": "8jDz-1l88K8",
       "channel_title": "Warp",
       "description": "Today we are excited to launch the Warp Agent CLI, a new standalone CLI that lets you use the Warp Agent anywhere. It's the ...",
       "published_at": "2026-08-04T13:54:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/8jDz-1l88K8/hqdefault.jpg"
+    },
+    {
+      "title": "This is going to REPLACE Claude Code",
+      "video_id": "XKzoeBc8jgs",
+      "channel_title": "Warp",
+      "description": "ai #coding #startup Watch the full recording: ...",
+      "published_at": "2026-07-15T15:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XKzoeBc8jgs/hqdefault.jpg"
     }
   ]
 }

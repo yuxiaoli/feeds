@@ -1,40 +1,80 @@
 {
-  "fetched_at": "2026-10-04T04:56:05.171518",
+  "fetched_at": "2026-10-11T04:45:42.347607",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "【分享】Claude Fable 5.5一句提示词生成的动画，一段展示所有人类进步的视频，然后延伸到未来 30 年。",
-      "video_id": "PzcA0qQc6xY",
+      "title": "薄肌孙宇晨：年轻人如何抓住AI时代的机会 | 财富自由 | 薄肌理论 | Crypto | 波场 | 认知升级 | 黄毛理论 | 地球online",
+      "video_id": "yOoaydV0pkU",
       "channel_title": "最佳拍档",
-      "description": "https://x.com/imjustnewatai/status/2106081142143168580.",
-      "published_at": "2026-10-03T16:50:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PzcA0qQc6xY/hqdefault.jpg"
+      "description": "本期视频深度解读孙宇晨与邵艾伦的4.5小时长谈。孙宇晨分享了用AI全流程管理饮食、训练和睡眠的日常实践，提出\"先全部AI化\"再 ...",
+      "published_at": "2026-10-11T04:08:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yOoaydV0pkU/hqdefault.jpg"
     },
     {
-      "title": "Claude发布Mods 插件：让你可以直接定制 Claude Code 的界面和运行行为",
-      "video_id": "FNP2ORdnbjw",
+      "title": "AI正在制造佛经中的末法时代​ | 法灭尽经 | 信号理论 | 斯宾塞 | 阿克洛夫 | 柠檬市场 | 混同均衡 | cheap talk | 教行证 | 责任 |  造像",
+      "video_id": "M2JKlkTtkJc",
       "channel_title": "最佳拍档",
-      "description": "",
-      "published_at": "2026-10-03T09:46:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FNP2ORdnbjw/hqdefault.jpg"
+      "description": "本期从佛经\"末法\"的结构出发，解读AI如何成为人类历史上规模最大的造像机器。当教、行、证中的\"证\"被技术稀释，万象繁荣却无从 ...",
+      "published_at": "2026-10-10T12:01:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M2JKlkTtkJc/hqdefault.jpg"
     },
     {
-      "title": "我看到了Scaling Law的信号​ | 徐梦迪 | 具身智能 | Scaling Law | 上下文学习 | 清华叉院 | 机器人泛化 | 机器人学习 | VLA",
-      "video_id": "YJMROGooKik",
+      "title": "尊界V800刹车踏板为何会断 | 懂车帝测试 | 华为 | 江淮 | 汽车制动系统 | 玻璃纤维增强PP | 踏板支架 | 汽车安全 | 失效分析 | 汽车工程 | 线控制动 | 汽车召回",
+      "video_id": "WmeHBr_LZIs",
       "channel_title": "最佳拍档",
-      "description": "本期对谈清华叉院助理教授徐梦迪，深入探讨具身智能的核心命题——机器人上下文学习（ICL）。从清华车辆工程到CMU、斯坦福 ...",
-      "published_at": "2026-10-02T12:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YJMROGooKik/hqdefault.jpg"
+      "description": "懂车帝测试中尊界V800三台车刹车踏板支架连续断裂，第三台车断裂时传感器读数1612牛，究竟是什么原因导致百万豪车丧失了最 ...",
+      "published_at": "2026-10-10T06:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WmeHBr_LZIs/hqdefault.jpg"
     },
     {
-      "title": "OpenAI Dots演示翻车后，重新又录了个视频",
-      "video_id": "_AnJrmlvONQ",
+      "title": "暴力堆卡已到尽头？| Google Research负责人 Yossi Matias | AI突破 | 环境智能 | 科学发现 | 洪水预测 | 行星级智能 | 医疗AI | 量子计算",
+      "video_id": "Xlpqd8ut8ns",
       "channel_title": "最佳拍档",
-      "description": "原视频：https://youtu.be/fHEIw5CcN5U?si=HqWNRGC6dfjlb6kH.",
-      "published_at": "2026-10-02T06:33:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_AnJrmlvONQ/hqdefault.jpg"
+      "description": "本期对话Google Research负责人Yossi Matias，深入探讨AI的下一次突破将发生在哪里。内容涵盖：超越Scaling Law的架构创新 ...",
+      "published_at": "2026-10-10T00:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xlpqd8ut8ns/hqdefault.jpg"
+    },
+    {
+      "title": "2026诺贝尔三大科学奖揭晓​ | 光遗传学 | ChR2 | 中微子天文学 | IceCube | Francis Halzen | 切伦科夫辐射 | 手性化学 | 同手性 | 不对称催化",
+      "video_id": "nYQICv-vjJs",
+      "channel_title": "最佳拍档",
+      "description": "2026年诺贝尔三大科学奖于10月5日至7日连续揭晓。生理学或医学奖授予戴塞罗思、黑格曼和内格尔，表彰他们发现光门控离子 ...",
+      "published_at": "2026-10-09T12:40:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nYQICv-vjJs/hqdefault.jpg"
+    },
+    {
+      "title": "没有App的百亿估值AI助理Instinct​ | AI助理 | 个人智能体 | Noah Shinn | 智能代理 | 红杉资本 | AI信任机制 | 邀请制增长 | Reflexion论文",
+      "video_id": "9Rsv06AoDJQ",
+      "channel_title": "最佳拍档",
+      "description": "本期深度解读硅谷最火的AI助理Instinct。创始人诺亚·申（Noah Shinn）在《Invest Like the Best》播客中首次公开讲述产品逻辑：一 ...",
+      "published_at": "2026-10-09T00:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9Rsv06AoDJQ/hqdefault.jpg"
+    },
+    {
+      "title": "A16Z年度报告：AI被连续低估4年​ | AI投资 | 资本开支 | 人工智能 | State of Markets | hyperscaler | AI应用落地 | 私募市场 | a16z",
+      "video_id": "PG-ScwYWi6s",
+      "channel_title": "最佳拍档",
+      "description": "a16z发布2026年度State of Markets报告，Growth团队四位合伙人深度解读25张核心图表。报告指出，科技已成为驱动全球经济的 ...",
+      "published_at": "2026-10-08T12:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PG-ScwYWi6s/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI发布722项数学成果，多领域世纪难题获突破​ | 准黎曼猜想 | 霍奇猜想 | 唯一游戏猜想 | 挂谷猜想 | 自由群因子 | NP困难 | Lean形式化 | 陶哲轩 | 智能爆炸",
+      "video_id": "VU0-Nnh0fR4",
+      "channel_title": "最佳拍档",
+      "description": "OpenAI于2026年10月6日一次性发布722篇数学手稿，归入372个成果族，涵盖准黎曼猜想、霍奇猜想、唯一游戏猜想、四维挂谷 ...",
+      "published_at": "2026-10-07T09:30:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VU0-Nnh0fR4/hqdefault.jpg"
+    },
+    {
+      "title": "Peter Thiel：AI是人类唯一的破局点 | 技术停滞 | 欧洲衰落 | 2028美国大选 | Palantir | 万斯 | 米莱 | 德国创业 | 抗衰老 | 零和博弈 | 硅谷 | AfD",
+      "video_id": "7xbe74Bo_cQ",
+      "channel_title": "最佳拍档",
+      "description": "2026年9月，彼得·蒂尔领取阿克塞尔·施普林格奖前夕接受德普夫纳深度访谈，全面阐述对AI、欧美政治与人类未来的判断。",
+      "published_at": "2026-10-05T00:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7xbe74Bo_cQ/hqdefault.jpg"
     },
     {
       "title": "OpenAI DevDay 2026：Dots登场，AI从工具变同事 | GPT-6.1 Sol | AI智能体 | Ultrafast | Codex云端 | Pro 500",
@@ -43,46 +83,6 @@
       "description": "OpenAI DevDay 2026发布二十余项重磅更新。核心产品Dots是全天候在线智能体，由GPT-6 Astra驱动，拥有独立云端电脑与浏览器 ...",
       "published_at": "2026-10-02T04:00:32Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nmU272u2hVQ/hqdefault.jpg"
-    },
-    {
-      "title": "中国AI基础设施热潮 | 数据中心 | 东数西算 | 字节跳动 | 阿里云 | 腾讯云 |  人工智能 | 中国科技 | 模块化数据中心 | 资本开支 | 华为昇腾 | 昆仑芯",
-      "video_id": "K2lkhD-Oitc",
-      "channel_title": "最佳拍档",
-      "description": "深度解析中国AI基础设施热潮的真实面貌。基于SemiAnalysis最新发布的中国数据中心模型，从24GW的市场规模、四阶段产业发展 ...",
-      "published_at": "2026-10-01T09:03:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K2lkhD-Oitc/hqdefault.jpg"
-    },
-    {
-      "title": "82亿美元的质疑：AMD买World Labs到底值不值 | 苏姿丰 | 李飞飞 | 物理AI | 空间智能 | 世界模型 | Atlas模型 | 具身智能 | 英伟达 | 估值溢价 | 全股票交易",
-      "video_id": "FAiG6bf_e4E",
-      "channel_title": "最佳拍档",
-      "description": "本期视频从质疑视角解读AMD 82亿美元收购World Labs交易。从市场第一反应（AMD股价下跌3.61%）和估值溢价（7个月从50亿 ...",
-      "published_at": "2026-09-30T10:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FAiG6bf_e4E/hqdefault.jpg"
-    },
-    {
-      "title": "就业不会被AI摧毁​ | 白宫顾问David Friedberg | 美国经济 | 社会主义 | AI就业 | 开源AI | 表观遗传重编程 | 财富税 | 美国梦 | 2028美国大选",
-      "video_id": "R6674TpUr_g",
-      "channel_title": "最佳拍档",
-      "description": "本期解读白宫科技顾问大卫·弗里德伯格深度访谈。他指出63%美国人月光族，政府干预反而推高教育、医疗、住房成本，社会主义在 ...",
-      "published_at": "2026-09-29T12:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/R6674TpUr_g/hqdefault.jpg"
-    },
-    {
-      "title": "DeepSeek公开DSec平台技术细节 | Agent训练 | 沙盒平台 | 梁文锋 | AI基础设施 | 容器技术 | Firecracker | 微虚拟机 | rollout | EROFS |",
-      "video_id": "YnJM3IPg7wk",
-      "channel_title": "最佳拍档",
-      "description": "DeepSeek公开了Agent训练沙盒平台DSec的完整技术论文。DSec为从V3.2到V4.1的全部强化学习训练提供沙盒支撑，单生产单元 ...",
-      "published_at": "2026-09-29T00:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YnJM3IPg7wk/hqdefault.jpg"
-    },
-    {
-      "title": "万亿美元AI资本开支的回报在哪里 | 黑石Jon Gray | 数据中心 | AI算力 | 工业革命 | 投资回报 | 超大规模云厂商 | 芯片短缺 | 电力基础设施 | 生产率 | AI应用场景",
-      "video_id": "NAR-1j8cIDE",
-      "channel_title": "最佳拍档",
-      "description": "黑石集团总裁乔恩·格雷在2026年投资者大会上发表深度演讲，围绕万亿美元AI资本开支是否有真实回报这一核心问题展开。演讲回顾 ...",
-      "published_at": "2026-09-26T14:13:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NAR-1j8cIDE/hqdefault.jpg"
     }
   ]
 }

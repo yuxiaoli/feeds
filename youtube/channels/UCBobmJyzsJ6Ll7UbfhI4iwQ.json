@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2026-10-04T04:55:58.621241",
+  "fetched_at": "2026-10-11T04:45:36.256511",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 10,
   "videos": [
+    {
+      "title": "Artist&#39;s Guide to Using MegaLights in Unreal Engine 5.8 | Inside Unreal",
+      "video_id": "Nrb17mtBJPM",
+      "channel_title": "Unreal Engine",
+      "description": "Join Dan Hutnik and Daryl Obert as they walk through what MegaLights is, how it works, and how to set it up, along with best ...",
+      "published_at": "2026-10-08T21:13:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nrb17mtBJPM/hqdefault.jpg"
+    },
+    {
+      "title": "A First Look at Unreal MCP in Unreal Engine 5.8",
+      "video_id": "FON_noub0C0",
+      "channel_title": "Unreal Engine",
+      "description": "Unreal Model Context Protocol (MCP) provides an official, Epic-supported way to connect your favorite agentic LLM tools directly ...",
+      "published_at": "2026-10-08T15:59:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FON_noub0C0/hqdefault.jpg"
+    },
+    {
+      "title": "Unreal Engine&#39;s World Partition was a real boon for The Coalition in Gears of War: E-Day",
+      "video_id": "pPrI31of3fg",
+      "channel_title": "Unreal Engine",
+      "description": "The automated grid-based streaming, fast geo and memory management allowed the team to create larger environments, giving ...",
+      "published_at": "2026-10-07T16:32:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pPrI31of3fg/hqdefault.jpg"
+    },
+    {
+      "title": "State of Mobile Workflows in Unreal Engine 5.8 | Inside Unreal",
+      "video_id": "2OCeuCj0swQ",
+      "channel_title": "Unreal Engine",
+      "description": "In this episode of Inside Unreal, Epic's Paul Georges, Arvind Neelakantan, and Ari Arnbjörnsson will break down where mobile ...",
+      "published_at": "2026-10-07T13:12:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2OCeuCj0swQ/hqdefault_live.jpg"
+    },
+    {
+      "title": "Ozone Subdivision Surfaces: Character Modeling Best Practices | Unreal Fest Chicago 2026",
+      "video_id": "-VWQSh_b36Y",
+      "channel_title": "Unreal Engine",
+      "description": "Subdivision surfaces are a key technology in traditional animation and visual effects. They enable artists to create lower-density ...",
+      "published_at": "2026-10-06T14:00:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-VWQSh_b36Y/hqdefault.jpg"
+    },
+    {
+      "title": "Cross-Platform Mobile Games Sizzle Reel | Unreal Engine",
+      "video_id": "WyauiSVtJII",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video for a look at some of the stunning cross-platform mobile games that have been created recently in Unreal Engine.",
+      "published_at": "2026-10-05T15:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WyauiSVtJII/hqdefault.jpg"
+    },
     {
       "title": "Procedural Cities for Tech Artists: Geometry Scripting &amp; PCG | Unreal Fest Chicago 2026",
       "video_id": "7uuFPOKIw8I",
@@ -21,30 +69,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/XEuaRjnuHlc/hqdefault.jpg"
     },
     {
-      "title": "Agentic Development in Unreal Engine with Rider | Unreal Fest Chicago 2026",
-      "video_id": "0C7GjShUnlY",
-      "channel_title": "Unreal Engine",
-      "description": "Generic AI generates code and solves the easy part. The hard parts of Unreal Engine development—like Gameplay Ability System ...",
-      "published_at": "2026-10-02T16:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0C7GjShUnlY/hqdefault.jpg"
-    },
-    {
-      "title": "UE for E-commerce: Driving Conversion with Pixel-Streamed Configurators | Unreal Fest Chicago 2026",
-      "video_id": "cdPwuFL1Um8",
-      "channel_title": "Unreal Engine",
-      "description": "Modern e-commerce demands more than static imagery. Today's consumers expect highly interactive, photorealistic experiences ...",
-      "published_at": "2026-10-02T14:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cdPwuFL1Um8/hqdefault.jpg"
-    },
-    {
-      "title": "Gears of War: E-Day | Developer Interview | Unreal Engine",
-      "video_id": "0WlGEWk7TPU",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video to find out how UE5 helped The Coalition recapture the desperate “destroyed beauty” aesthetic of the original ...",
-      "published_at": "2026-10-01T13:59:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0WlGEWk7TPU/hqdefault.jpg"
-    },
-    {
       "title": "LEGO Batman: Legacy of the Dark Knight | Game Profile | Unreal Engine",
       "video_id": "I_3Ua-53JFs",
       "channel_title": "Unreal Engine",
@@ -59,30 +83,6 @@
       "description": "Discover the power of animating directly in Unreal Engine with the new animation and rigging features in Unreal Engine 5.8.",
       "published_at": "2026-09-10T20:49:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CfhHFFvcRow/hqdefault.jpg"
-    },
-    {
-      "title": "MetaHuman Animator Markerless Motion Capture Demo",
-      "video_id": "r_-fEi7fXLA",
-      "channel_title": "Unreal Engine",
-      "description": "Learn how to create MetaHuman character animation from your own video footage using the MetaHuman Animator Markerless ...",
-      "published_at": "2026-09-10T20:29:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r_-fEi7fXLA/hqdefault.jpg"
-    },
-    {
-      "title": "Getting Started with MCP in Unreal Engine 5.8 I Epic Games Education Webinar",
-      "video_id": "k0tgmrBuIJc",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this Epic Games Education Office Hours session for a hands-on look at the Experimental MCP Plugin in Unreal Engine 5.8.",
-      "published_at": "2026-09-07T17:26:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/k0tgmrBuIJc/hqdefault.jpg"
-    },
-    {
-      "title": "Template Abilities | Creating in Fortnite",
-      "video_id": "iZ-z7ZAZLCw",
-      "channel_title": "Unreal Engine",
-      "description": "Join us for Creating in Fortnite: Template Abilities, a practical livestream exploring how to use Template Abilities to create ...",
-      "published_at": "2026-09-01T19:38:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iZ-z7ZAZLCw/hqdefault.jpg"
     }
   ]
 }

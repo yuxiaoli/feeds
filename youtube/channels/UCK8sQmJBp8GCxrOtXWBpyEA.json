@@ -1,24 +1,32 @@
 {
-  "fetched_at": "2026-10-04T04:56:08.557631",
+  "fetched_at": "2026-10-11T04:45:45.830771",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
   "count": 10,
   "videos": [
     {
-      "title": "Making sure AI chips don’t overheat in space",
-      "video_id": "ktdbUIZKeSE",
+      "title": "Guess who’s #1 ... again 🏆",
+      "video_id": "VFiWYLSQNP4",
       "channel_title": "Google",
-      "description": "Project Suncatcher is Google's moonshot to launch solar-powered AI into Earth's orbit. But operating TPU clusters in space ...",
-      "published_at": "2026-09-30T16:07:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ktdbUIZKeSE/hqdefault.jpg"
+      "description": "Head to the search bar and type “A'ja Wilson” to celebrate 5 years as the best.",
+      "published_at": "2026-10-09T15:00:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VFiWYLSQNP4/hqdefault.jpg"
     },
     {
-      "title": "Keeping flying satellites connected with lasers",
-      "video_id": "KO2bNK9L7WA",
+      "title": "How big is space really? 🤔",
+      "video_id": "MSf34rqZxbU",
       "channel_title": "Google",
-      "description": "To make space-based AI work, thousands of chips must communicate across a vacuum orbit with minimal delay, orbiting in a ...",
-      "published_at": "2026-09-29T16:12:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KO2bNK9L7WA/hqdefault.jpg"
+      "description": "Fun fact: It would take 100 million Moons lined up to cross the TON 618 black hole Track down more space facts with Google ...",
+      "published_at": "2026-10-08T16:22:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MSf34rqZxbU/hqdefault.jpg"
+    },
+    {
+      "title": "Turn notes into quizzes with Google Search 📝",
+      "video_id": "vCiOLi-NDic",
+      "channel_title": "Google",
+      "description": "Upgrade your study sessions by asking Google Search to turn your notes into a custom practice quiz. Here's how: Head to AI ...",
+      "published_at": "2026-10-06T13:14:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vCiOLi-NDic/hqdefault.jpg"
     },
     {
       "title": "Time for WNBA Playoffs 🔥",
@@ -37,14 +45,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/_fTT7TEOBH8/hqdefault.jpg"
     },
     {
-      "title": "Testing AI chips to survive in space",
-      "video_id": "8NPgswgbTnE",
-      "channel_title": "Google",
-      "description": "Project Suncatcher is a moonshot initiative by Google that aims to put AI into orbit and capture space-based solar energy to power ...",
-      "published_at": "2026-09-28T14:10:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8NPgswgbTnE/hqdefault.jpg"
-    },
-    {
       "title": "It’s Google’s birthday!",
       "video_id": "3_hg2lYDvf0",
       "channel_title": "Google",
@@ -61,14 +61,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/wJOrgRepk_U/hqdefault.jpg"
     },
     {
-      "title": "Lucas Museum: Top searches reveal hidden narratives | Searching For",
-      "video_id": "-uu2N53Ig3M",
-      "channel_title": "Google",
-      "description": "Step inside the Lucas Museum for an exclusive guided tour with Senior Curator Ryan Linkof. From fine art and comic books to ...",
-      "published_at": "2026-09-26T15:00:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-uu2N53Ig3M/hqdefault.jpg"
-    },
-    {
       "title": "Can pigs breathe through their 🍑?",
       "video_id": "cdt6BB7VAu8",
       "channel_title": "Google",
@@ -83,6 +75,14 @@
       "description": "Sabor, historia, y puro ritmo In honor of Hispanic Heritage Month, the #GoogleDoodle is spotlighting the evolution of Latin ...",
       "published_at": "2026-09-25T18:59:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/PUvQCFzn8Ns/hqdefault.jpg"
+    },
+    {
+      "title": "Turn tough topics into interactive visuals with Google Search 🌌",
+      "video_id": "P7ICr5WAZUE",
+      "channel_title": "Google",
+      "description": "Some concepts are just too massive to picture in your head Make complex topics finally click by generating interactive visuals ...",
+      "published_at": "2026-09-22T16:13:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/P7ICr5WAZUE/hqdefault.jpg"
     }
   ]
 }
