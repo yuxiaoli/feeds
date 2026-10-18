@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-10-11T04:46:09.463664",
+  "fetched_at": "2026-10-18T03:39:45.945264",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "We see sound differently",
+      "video_id": "ZCaGyS1YQy4",
+      "channel_title": "Bang & Olufsen",
+      "description": "Sculptural. Intentional. Balanced for home. #BangOlufsen.",
+      "published_at": "2026-10-17T13:31:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZCaGyS1YQy4/hqdefault.jpg"
+    },
+    {
+      "title": "Beosound Balance | Sculptural speaker for your home",
+      "video_id": "eqFW-jCRZaw",
+      "channel_title": "Bang & Olufsen",
+      "description": "We see sound differently. Sculptural. Intentional. Balanced for home. #BangOlufsen​",
+      "published_at": "2026-10-17T13:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eqFW-jCRZaw/hqdefault.jpg"
+    },
+    {
+      "title": "Beosound Balance | Sculptural Speaker for your home",
+      "video_id": "wWbL82p2Xkw",
+      "channel_title": "Bang & Olufsen",
+      "description": "We see sound differently. Sculptural. Intentional. Balanced for home. #bangolufsen ​",
+      "published_at": "2026-10-17T13:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wWbL82p2Xkw/hqdefault.jpg"
+    },
     {
       "title": "Bang &amp; Olufsen | Reloved",
       "video_id": "SQi4rEVb3-g",
@@ -59,30 +83,6 @@
       "description": "Do touch the art. Gallery-worthy design. Made for life at home. Introducing Beosound A9 in Sienna Brown. #BangOlufsen.",
       "published_at": "2026-09-02T12:01:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2N72YSdCUco/hqdefault.jpg"
-    },
-    {
-      "title": "A familiar form. A richer expression. Introducing Beosound A9 in Sienna Brown.",
-      "video_id": "M5nwW_OM6B0",
-      "channel_title": "Bang & Olufsen",
-      "description": "Do touch the art. Gallery-worthy design. Made for life at home. #BangOlufsen.",
-      "published_at": "2026-09-02T12:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/M5nwW_OM6B0/hqdefault.jpg"
-    },
-    {
-      "title": "Beoplay H100",
-      "video_id": "dcpgR8d9tQE",
-      "channel_title": "Bang & Olufsen",
-      "description": "Less hustle. More flow. Feel the difference with Beoplay H100. #BangOlufsen.",
-      "published_at": "2026-08-23T12:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dcpgR8d9tQE/hqdefault.jpg"
-    },
-    {
-      "title": "Beoplay H100",
-      "video_id": "cmtwtp_SSL4",
-      "channel_title": "Bang & Olufsen",
-      "description": "For those drawn to beautiful sound. #BangOlufsen.",
-      "published_at": "2026-08-18T13:00:52Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cmtwtp_SSL4/hqdefault.jpg"
     }
   ]
 }

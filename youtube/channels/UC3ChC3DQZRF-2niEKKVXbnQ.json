@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-11T04:45:28.489556",
+  "fetched_at": "2026-10-18T03:39:03.223436",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "心FLash模型不好用? 定心丸来了!",
+      "video_id": "Ld9kt27t3Mk",
+      "channel_title": "Karminski-牙医",
+      "description": "我觉得大家遇到最多的问题会是: 旗舰大模型太贵了, 日常任务是不是能用flash 模型跑? 但是又觉得Flash 模型可能效果不好, 甚至 ...",
+      "published_at": "2026-10-13T08:45:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ld9kt27t3Mk/hqdefault.jpg"
+    },
     {
       "title": "把大模型丢进早高峰，它居然把系统玩明白了？Step-5-Preview 实测",
       "video_id": "Ul1THHD8DyY",
@@ -75,14 +83,6 @@
       "description": "给大家带来蚂蚁灵波LingBot-Vision 实测! 本次测试最大的亮点是在仅1B (10亿) 参数量下, 展现出了极强的空间几何和边界感知能力, ...",
       "published_at": "2026-07-09T01:53:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/D0fN76uAro8/hqdefault.jpg"
-    },
-    {
-      "title": "混元3实测! 300B参数竟然有这种Agent能力!",
-      "video_id": "Xitmz1TyJtM",
-      "channel_title": "Karminski-牙医",
-      "description": "混元3正式版已经发布! 给大家带来实测! 本次测试最大的亮点是在300B参数量下获得了超高的Agent能力, 极具性价比, 可以用作龙虾 ...",
-      "published_at": "2026-07-09T01:25:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xitmz1TyJtM/hqdefault.jpg"
     }
   ]
 }

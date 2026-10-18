@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-10-11T04:45:36.256511",
+  "fetched_at": "2026-10-18T03:39:11.438767",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 10,
   "videos": [
+    {
+      "title": "Building UEFN Source Assets for Fab | Creating in Fortnite",
+      "video_id": "5IX2c2NrHak",
+      "channel_title": "Unreal Engine",
+      "description": "UEFN source assets are now available on Fab! Join Derek Diaz, UI/UX Director at Epic Games, and Martín de Greiff, Fab Creator ...",
+      "published_at": "2026-10-16T20:22:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5IX2c2NrHak/hqdefault.jpg"
+    },
+    {
+      "title": "UEFN Student Bootcamp | Class of 2026 Sizzle Reel",
+      "video_id": "bOUfOObPneo",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video and check out some of the best Fortnite islands created during the intensive three-week UEFN Student Bootcamp ...",
+      "published_at": "2026-10-16T14:59:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bOUfOObPneo/hqdefault.jpg"
+    },
+    {
+      "title": "State of Mobile Workflows in Unreal Engine 5.8 | Inside Unreal",
+      "video_id": "2OCeuCj0swQ",
+      "channel_title": "Unreal Engine",
+      "description": "In this episode of Inside Unreal, Epic's Paul Georges, Arvind Neelakantan, and Ari Arnbjörnsson will break down where mobile ...",
+      "published_at": "2026-10-15T20:20:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2OCeuCj0swQ/hqdefault.jpg"
+    },
+    {
+      "title": "Apply today for our free UEFN Professional Bootcamp!",
+      "video_id": "_xHljpDgMKk",
+      "channel_title": "Unreal Engine",
+      "description": "With UE6's roadmap bringing together Unreal Engine and UEFN, get prepared with our free UEFN Professional Bootcamp.",
+      "published_at": "2026-10-15T16:53:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_xHljpDgMKk/hqdefault.jpg"
+    },
+    {
+      "title": "SILENT HILL: Townfall | Game Profile | Unreal Engine",
+      "video_id": "1eNzNMmUXAA",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video to discover how UE5 tools including Lumen, Nanite, and MetaHuman helped Screen Burn Interactive craft ...",
+      "published_at": "2026-10-15T14:59:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1eNzNMmUXAA/hqdefault.jpg"
+    },
+    {
+      "title": "Unreal Engine&#39;s Sequencer helped bring the drama and striking feel to the events of Emergence Day",
+      "video_id": "8vMkQAi_ePw",
+      "channel_title": "Unreal Engine",
+      "description": "Burrow into our feature on Gears of War: E-Day to learn more about how The Coalition's use of high fidelity, dynamically controlled ...",
+      "published_at": "2026-10-14T16:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8vMkQAi_ePw/hqdefault.jpg"
+    },
+    {
+      "title": "Star Wars: Galactic Racer™ | Game Profile | Unreal Engine",
+      "video_id": "CuOeU9pkuMg",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video to discover how Fuse Games used UE5's Lumen, Nanite, and World Partition to create striking visuals that do ...",
+      "published_at": "2026-10-13T14:00:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CuOeU9pkuMg/hqdefault.jpg"
+    },
     {
       "title": "Artist&#39;s Guide to Using MegaLights in Unreal Engine 5.8 | Inside Unreal",
       "video_id": "Nrb17mtBJPM",
@@ -11,14 +67,6 @@
       "description": "Join Dan Hutnik and Daryl Obert as they walk through what MegaLights is, how it works, and how to set it up, along with best ...",
       "published_at": "2026-10-08T21:13:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Nrb17mtBJPM/hqdefault.jpg"
-    },
-    {
-      "title": "A First Look at Unreal MCP in Unreal Engine 5.8",
-      "video_id": "FON_noub0C0",
-      "channel_title": "Unreal Engine",
-      "description": "Unreal Model Context Protocol (MCP) provides an official, Epic-supported way to connect your favorite agentic LLM tools directly ...",
-      "published_at": "2026-10-08T15:59:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FON_noub0C0/hqdefault.jpg"
     },
     {
       "title": "Unreal Engine&#39;s World Partition was a real boon for The Coalition in Gears of War: E-Day",
@@ -29,60 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/pPrI31of3fg/hqdefault.jpg"
     },
     {
-      "title": "State of Mobile Workflows in Unreal Engine 5.8 | Inside Unreal",
-      "video_id": "2OCeuCj0swQ",
-      "channel_title": "Unreal Engine",
-      "description": "In this episode of Inside Unreal, Epic's Paul Georges, Arvind Neelakantan, and Ari Arnbjörnsson will break down where mobile ...",
-      "published_at": "2026-10-07T13:12:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2OCeuCj0swQ/hqdefault_live.jpg"
-    },
-    {
-      "title": "Ozone Subdivision Surfaces: Character Modeling Best Practices | Unreal Fest Chicago 2026",
-      "video_id": "-VWQSh_b36Y",
-      "channel_title": "Unreal Engine",
-      "description": "Subdivision surfaces are a key technology in traditional animation and visual effects. They enable artists to create lower-density ...",
-      "published_at": "2026-10-06T14:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-VWQSh_b36Y/hqdefault.jpg"
-    },
-    {
-      "title": "Cross-Platform Mobile Games Sizzle Reel | Unreal Engine",
-      "video_id": "WyauiSVtJII",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video for a look at some of the stunning cross-platform mobile games that have been created recently in Unreal Engine.",
-      "published_at": "2026-10-05T15:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WyauiSVtJII/hqdefault.jpg"
-    },
-    {
       "title": "Procedural Cities for Tech Artists: Geometry Scripting &amp; PCG | Unreal Fest Chicago 2026",
       "video_id": "7uuFPOKIw8I",
       "channel_title": "Unreal Engine",
       "description": "Watch the recording of this session from Unreal Fest Chicago 2026 to dive into the Procedural Content Generation (PCG) and ...",
       "published_at": "2026-10-03T16:00:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7uuFPOKIw8I/hqdefault.jpg"
-    },
-    {
-      "title": "Building a Fortnite World Live from a Museum Floor | Unreal Fest Chicago 2026",
-      "video_id": "XEuaRjnuHlc",
-      "channel_title": "Unreal Engine",
-      "description": "In September 2025, Immersive Enterprise Laboratories partnered with the Fleet Science Center in San Diego to create The ...",
-      "published_at": "2026-10-03T14:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XEuaRjnuHlc/hqdefault.jpg"
-    },
-    {
-      "title": "LEGO Batman: Legacy of the Dark Knight | Game Profile | Unreal Engine",
-      "video_id": "I_3Ua-53JFs",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video to discover how UE5 features such as World Partition and the Gameplay Ability System helped TT Games fulfill ...",
-      "published_at": "2026-09-21T15:29:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I_3Ua-53JFs/hqdefault.jpg"
-    },
-    {
-      "title": "Bringing Zebra to Life: Animating in Unreal Engine 5.8 | Inside Unreal",
-      "video_id": "CfhHFFvcRow",
-      "channel_title": "Unreal Engine",
-      "description": "Discover the power of animating directly in Unreal Engine with the new animation and rigging features in Unreal Engine 5.8.",
-      "published_at": "2026-09-10T20:49:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CfhHFFvcRow/hqdefault.jpg"
     }
   ]
 }

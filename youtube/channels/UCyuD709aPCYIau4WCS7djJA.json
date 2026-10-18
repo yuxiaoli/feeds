@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-10-11T04:46:23.311753",
+  "fetched_at": "2026-10-18T03:40:00.110302",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "✨ Three stars in a row? You’ve found Orion’s Belt!",
+      "video_id": "V4P4yvS7puM",
+      "channel_title": "Star Walk",
+      "description": "October is a great time to get reacquainted with Orion. Look before dawn to catch the Hunter high in the sky. Here's what to look ...",
+      "published_at": "2026-10-16T06:27:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V4P4yvS7puM/hqdefault.jpg"
+    },
+    {
+      "title": "A truly starry sky is becoming a rare sight 🌌",
+      "video_id": "3wk_HMMRO0A",
+      "channel_title": "Star Walk",
+      "description": "In many cities, light pollution washes out all but the brightest stars — and sometimes you have to travel far from home just to see ...",
+      "published_at": "2026-10-15T11:26:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3wk_HMMRO0A/hqdefault.jpg"
+    },
+    {
+      "title": "A passing star could steal Neptune",
+      "video_id": "xPJMelWGLkc",
+      "channel_title": "Star Walk",
+      "description": "In this simulation, a star with the Sun's mass passes through the outer Solar System. Planetary orbits change, icy objects in the ...",
+      "published_at": "2026-10-15T06:58:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xPJMelWGLkc/hqdefault.jpg"
+    },
+    {
+      "title": "✨ Follow a W to another galaxy!",
+      "video_id": "vago2GBZmsk",
+      "channel_title": "Star Walk",
+      "description": "October evenings are a great time to find the Andromeda Galaxy, especially from the Northern Hemisphere. Here's how: 1️⃣ ...",
+      "published_at": "2026-10-14T11:29:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vago2GBZmsk/hqdefault.jpg"
+    },
     {
       "title": "Jupiter. Gone for an hour.",
       "video_id": "bdmBkJhGf4E",
@@ -51,38 +83,6 @@
       "description": "The Moon is making its way past several planets this month — some easy to spot, others a real skywatching challenge.",
       "published_at": "2026-09-07T13:47:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CAK8hNrxFJo/hqdefault.jpg"
-    },
-    {
-      "title": "🌌 September 2026 brings plenty of exciting sights to the night sky!",
-      "video_id": "3dYspfUrBNA",
-      "channel_title": "Star Walk",
-      "description": "From rare planetary occultations and a dark-sky meteor shower to brilliant Venus and the Harvest Moon, there's something worth ...",
-      "published_at": "2026-09-01T07:28:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3dYspfUrBNA/hqdefault.jpg"
-    },
-    {
-      "title": "Sometimes the simplest images say the most. 🌍",
-      "video_id": "Yzs-R_AoJvs",
-      "channel_title": "Star Walk",
-      "description": "Seen from space, there are no borders — only one small world surrounded by darkness. Everything we know and everyone we ...",
-      "published_at": "2026-08-26T07:48:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Yzs-R_AoJvs/hqdefault.jpg"
-    },
-    {
-      "title": "Can we put Earth at the center and make the entire Solar System revolve around it? 🌍✨",
-      "video_id": "kgpr1Jiv5ds",
-      "channel_title": "Star Walk",
-      "description": "Mathematically — yes! If we choose Earth as our reference point, the Sun and planets can be described as moving around us ...",
-      "published_at": "2026-08-25T11:00:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/kgpr1Jiv5ds/hqdefault.jpg"
-    },
-    {
-      "title": "On August 27–28, don’t miss the deep partial lunar eclipse 🌕🔴",
-      "video_id": "Y8tjgESU-VI",
-      "channel_title": "Star Walk",
-      "description": "At its peak, about 96% of the Moon will be covered by Earth's dark shadow, making it look almost like a Blood Moon. Where to ...",
-      "published_at": "2026-08-21T10:42:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y8tjgESU-VI/hqdefault.jpg"
     }
   ]
 }

@@ -1,25 +1,9 @@
 {
-  "fetched_at": "2026-10-11T04:45:25.636066",
+  "fetched_at": "2026-10-18T03:39:00.526967",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
-    {
-      "title": "Real-Time Multichannel Speech-to-Text: Transcribe Stereo Audio in One Stream",
-      "video_id": "Bl2RV7Edt-k",
-      "channel_title": "Microsoft Azure",
-      "description": "Stereo recordings are everywhere, from contact center calls to doctor-patient conversations. The challenge is turning both sides ...",
-      "published_at": "2026-10-08T19:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Bl2RV7Edt-k/hqdefault.jpg"
-    },
-    {
-      "title": "Azure Speech LLM 2607: Better Multilingual Transcription in Microsoft Foundry",
-      "video_id": "f7wc7RmKFEc",
-      "channel_title": "Microsoft Azure",
-      "description": "Azure Speech LLM 2607 is here, with more accurate speech-to-text for multilingual and mixed-language audio. In this quick demo ...",
-      "published_at": "2026-10-08T15:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f7wc7RmKFEc/hqdefault.jpg"
-    },
     {
       "title": "Smooth sailing starts here",
       "video_id": "y22MAsql0Hg",
@@ -69,6 +53,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CjYaiFXnalw/hqdefault.jpg"
     },
     {
+      "title": "S2E8 | How do we draw agentic borders? — The Shift Podcast by Microsoft Azure",
+      "video_id": "O9nqK23LRbA",
+      "channel_title": "Microsoft Azure",
+      "description": "As AI agents become more capable—and more autonomous—one question rises fast: How do we draw agentic borders?",
+      "published_at": "2026-04-28T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/O9nqK23LRbA/hqdefault.jpg"
+    },
+    {
       "title": "Fans can access deep Premier League stats anytime",
       "video_id": "4RNoOGExAPc",
       "channel_title": "Microsoft Azure",
@@ -83,6 +75,14 @@
       "description": "From the pitch to fan's hands. With Azure powering the Premier League Companion app, deep football insights are accessible ...",
       "published_at": "2026-02-25T05:00:00Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tC0pdsInjUM/hqdefault.jpg"
+    },
+    {
+      "title": "30 seasons of Premier League data is in your hands",
+      "video_id": "jsxF314qV4k",
+      "channel_title": "Microsoft Azure",
+      "description": "Go era to era in seconds. Azure AI powers the Premier League Companion—compare across seasons, dive into moments, and ...",
+      "published_at": "2026-02-19T16:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jsxF314qV4k/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-11T04:45:44.511040",
+  "fetched_at": "2026-10-18T03:39:20.146621",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "The Point of the Pyramids",
+      "video_id": "GbMl4cPHOZc",
+      "channel_title": "DamiLee",
+      "description": "Did you know the tip of an Egyptian pyramid had its own name and its own celebration? It's called a pyramidion, or benbenet in ...",
+      "published_at": "2026-10-15T16:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GbMl4cPHOZc/hqdefault.jpg"
+    },
     {
       "title": "How the Pyramids Got a Giant CT Scan",
       "video_id": "l5905iuIhi8",
@@ -75,14 +83,6 @@
       "description": "Someone emailed me a pyramid theory I almost deleted. He had 10 years of research behind it, and what he said stopped me ...",
       "published_at": "2026-08-19T15:30:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/WI_Vb68TZaM/hqdefault.jpg"
-    },
-    {
-      "title": "The Colosseum Was Rome’s Ultimate Psychological Device",
-      "video_id": "2OV-ygn7E34",
-      "channel_title": "DamiLee",
-      "description": "The Colosseum wasn't just a stadium. It was a psychological device built to control the emotions of 50000 people at once, and ...",
-      "published_at": "2026-08-12T15:30:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2OV-ygn7E34/hqdefault.jpg"
     }
   ]
 }

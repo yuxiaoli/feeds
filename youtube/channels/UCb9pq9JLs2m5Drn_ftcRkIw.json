@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-11T04:46:05.333831",
+  "fetched_at": "2026-10-18T03:39:41.596366",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "تمرين في الحلقات",
+      "video_id": "HSTasNu-Ffg",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-10-12T09:48:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/HSTasNu-Ffg/hqdefault.jpg"
+    },
     {
       "title": "جمال القوة",
       "video_id": "e7CADouz8Ew",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-08-31T11:46:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XI6gt4wghgs/hqdefault.jpg"
-    },
-    {
-      "title": "اختيار صعب",
-      "video_id": "ZbLGcp4xGh4",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-08-11T12:26:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZbLGcp4xGh4/hqdefault.jpg"
     }
   ]
 }

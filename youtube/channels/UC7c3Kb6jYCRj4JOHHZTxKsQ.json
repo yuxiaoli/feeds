@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-10-11T04:45:32.673632",
+  "fetched_at": "2026-10-18T03:39:07.870276",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
+    {
+      "title": "Track tokens and models with the My AI Usage Canvas | GitHub Copilot",
+      "video_id": "2xiyBnQFM20",
+      "channel_title": "GitHub",
+      "description": "Ever wonder how many tokens you use or which AI models you reach for the most? In this demo, explore the My AI Usage Canvas ...",
+      "published_at": "2026-10-17T15:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2xiyBnQFM20/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Friday: Spec Kit part 2",
+      "video_id": "8hHCpNVLhmI",
+      "channel_title": "GitHub",
+      "description": "This week on Open Source Friday, we're joined by Manfred Riem and Nicole Haugen to celebrate the 1.0.0 release of Spec Kit!",
+      "published_at": "2026-10-17T06:14:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8hHCpNVLhmI/hqdefault.jpg"
+    },
+    {
+      "title": "Inside the GitHub Universe keyboard kit: unboxing and assembly",
+      "video_id": "q3Jod8Xu8BY",
+      "channel_title": "GitHub",
+      "description": "Building your custom mechanical keyboard from GitHub Universe? Follow this step-by-step assembly guide to put together your ...",
+      "published_at": "2026-10-16T18:04:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/q3Jod8Xu8BY/hqdefault.jpg"
+    },
+    {
+      "title": "GitHub Copilot app with the Logitech MX Keypad",
+      "video_id": "EQeJj0hoPS8",
+      "channel_title": "GitHub",
+      "description": "Want to manage your AI coding sessions without leaving your flow? In this video, we show you how the Logitech MX Keypad ...",
+      "published_at": "2026-10-15T19:38:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/EQeJj0hoPS8/hqdefault.jpg"
+    },
+    {
+      "title": "LangChain Deep Agents",
+      "video_id": "PkB6_nSI0Hc",
+      "channel_title": "GitHub",
+      "description": "Deep Agents is an open source agent harness — an opinionated agent that runs out of the box. Extend, override, or replace any ...",
+      "published_at": "2026-10-15T15:16:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PkB6_nSI0Hc/hqdefault_live.jpg"
+    },
+    {
+      "title": "What it takes to make stacked PRs a first-class feature on GitHub",
+      "video_id": "G4wZsbwztQI",
+      "channel_title": "GitHub",
+      "description": "From the outside, merging stacked pull requests might sound simple: just link related PRs together and merge them in sequence.",
+      "published_at": "2026-10-15T15:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G4wZsbwztQI/hqdefault.jpg"
+    },
+    {
+      "title": "How stacked PRs work behind the scenes at GitHub | S02E05 | The GitHub Podcast",
+      "video_id": "sbHoDdAalMI",
+      "channel_title": "GitHub",
+      "description": "In episode 5 of season 2 of The GitHub Podcast, Cassidy and Andrea welcome Sameen Karim, Senior Product Manager at ...",
+      "published_at": "2026-10-14T15:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/sbHoDdAalMI/hqdefault.jpg"
+    },
     {
       "title": "Live Coding with Wes Bos, Burke Holland, Pierce Boggan &amp; Friends | GitHub Copilot Day",
       "video_id": "ql_-cPc_ZYQ",
@@ -21,68 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/N_cGKFGMxxc/hqdefault.jpg"
     },
     {
-      "title": "What really happens at a 48-hour hackathon",
-      "video_id": "ICi1LPxx0ck",
-      "channel_title": "GitHub",
-      "description": "Hackathons are much more than continuous coding and zero sleep; they are invention marathons where developers, students, ...",
-      "published_at": "2026-10-09T15:59:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ICi1LPxx0ck/hqdefault.jpg"
-    },
-    {
       "title": "How to run GitHub Copilot agent sessions across any device | GitHub Copilot Day",
       "video_id": "KT6p0MNXoCE",
       "channel_title": "GitHub",
       "description": "Agent sessions shouldn't be locked into a single code editor or terminal window. Patrick Nikoletich explains how GitHub's shared ...",
       "published_at": "2026-10-08T21:19:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KT6p0MNXoCE/hqdefault.jpg"
-    },
-    {
-      "title": "Intelligent local model routing is coming to GitHub Copilot",
-      "video_id": "QIHnmqYU614",
-      "channel_title": "GitHub",
-      "description": "GitHub Copilot is extending intelligent model orchestration from the cloud down to your local machine. Copilot can automatically ...",
-      "published_at": "2026-10-07T18:10:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QIHnmqYU614/hqdefault.jpg"
-    },
-    {
-      "title": "How GitHub PR limits help maintainers stop AI slop",
-      "video_id": "8VslAmTPo3I",
-      "channel_title": "GitHub",
-      "description": "Low-quality pull requests and automated spam, often referred to as AI slop, have become a major burden for open-source ...",
-      "published_at": "2026-10-06T15:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8VslAmTPo3I/hqdefault.jpg"
-    },
-    {
-      "title": "How to protect your repo in 2 minutes with gh-secure",
-      "video_id": "J3Z6bO3LvUw",
-      "channel_title": "GitHub",
-      "description": "Just one command can help you stop leaking secrets into your public code. Give your repositories essential security hygiene with ...",
-      "published_at": "2026-10-04T15:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J3Z6bO3LvUw/hqdefault.jpg"
-    },
-    {
-      "title": "Replay: Open Source Friday with Mastra",
-      "video_id": "I541TmZiV2Q",
-      "channel_title": "GitHub",
-      "description": "Abhi Aiyer, CTO at Mastra, joins Open Source Friday to talk about building AI applications with TypeScript. Mastra is a ...",
-      "published_at": "2026-10-03T06:20:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/I541TmZiV2Q/hqdefault.jpg"
-    },
-    {
-      "title": "Modern iPod syncing made easy with iOpenPod",
-      "video_id": "yX24p47vVrY",
-      "channel_title": "GitHub",
-      "description": "Love physical media but hate syncing your iPod with iTunes? In this project pick, we highlight iOpenPod, an open source iTunes ...",
-      "published_at": "2026-10-01T15:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yX24p47vVrY/hqdefault.jpg"
-    },
-    {
-      "title": "How GitHub Copilot app fixes CI failures automatically",
-      "video_id": "SAC1vJk6EGw",
-      "channel_title": "GitHub",
-      "description": "Tired of your code passing locally but failing in continuous integration? The GitHub Copilot app stays involved after you open a ...",
-      "published_at": "2026-09-28T15:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SAC1vJk6EGw/hqdefault.jpg"
     }
   ]
 }

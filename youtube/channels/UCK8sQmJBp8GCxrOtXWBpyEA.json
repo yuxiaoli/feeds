@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-10-11T04:45:45.830771",
+  "fetched_at": "2026-10-18T03:39:21.634427",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
   "count": 10,
   "videos": [
+    {
+      "title": "The WNBA Finals are on 🔥",
+      "video_id": "lns1MoLvttU",
+      "channel_title": "Google",
+      "description": "Dream Valkyries, the WNBA Finals are underway! Drop a if you're locked in from tip-off to final buzzer.",
+      "published_at": "2026-10-17T13:26:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/lns1MoLvttU/hqdefault.jpg"
+    },
+    {
+      "title": "Why the future of healthcare is prevention | Dr. Eric Topol &amp; Josh Woodward",
+      "video_id": "eSGqW_VMMXQ",
+      "channel_title": "Google",
+      "description": "In this episode of Dialogues, Josh Woodward, VP, Google Labs and Gemini, sits down with Dr. Eric Topol, practicing cardiologist, ...",
+      "published_at": "2026-10-16T18:59:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eSGqW_VMMXQ/hqdefault.jpg"
+    },
     {
       "title": "Guess who’s #1 ... again 🏆",
       "video_id": "VFiWYLSQNP4",
@@ -67,22 +83,6 @@
       "description": "We answer this and other trending swine-related questions at the @iastatefair with resident pig expert Ernie Barnes.",
       "published_at": "2026-09-25T22:03:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cdt6BB7VAu8/hqdefault.jpg"
-    },
-    {
-      "title": "Celebrating Hispanic Heritage Month",
-      "video_id": "PUvQCFzn8Ns",
-      "channel_title": "Google",
-      "description": "Sabor, historia, y puro ritmo In honor of Hispanic Heritage Month, the #GoogleDoodle is spotlighting the evolution of Latin ...",
-      "published_at": "2026-09-25T18:59:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PUvQCFzn8Ns/hqdefault.jpg"
-    },
-    {
-      "title": "Turn tough topics into interactive visuals with Google Search 🌌",
-      "video_id": "P7ICr5WAZUE",
-      "channel_title": "Google",
-      "description": "Some concepts are just too massive to picture in your head Make complex topics finally click by generating interactive visuals ...",
-      "published_at": "2026-09-22T16:13:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/P7ICr5WAZUE/hqdefault.jpg"
     }
   ]
 }

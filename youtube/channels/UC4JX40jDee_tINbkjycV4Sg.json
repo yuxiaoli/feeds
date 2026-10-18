@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-10-11T04:45:30.569473",
+  "fetched_at": "2026-10-18T03:39:05.551559",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "The business AI implementation gap",
-      "video_id": "-4Z-xZZghug",
+      "title": "Mac or PC for AI Models",
+      "video_id": "3Cwnie5_3aw",
       "channel_title": "Tech With Tim",
-      "description": "There's a new way to make money. Businesses are being told to adopt AI, most have no idea what to build or how to use it.",
-      "published_at": "2026-10-10T11:34:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-4Z-xZZghug/hqdefault.jpg"
+      "description": "Mac or PC for running local AI models, which should you actually buy? Using real benchmarks across Mac, PC, and NVIDIA's ...",
+      "published_at": "2026-10-17T12:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3Cwnie5_3aw/hqdefault.jpg"
     },
     {
-      "title": "Every Type of AI Agent Explained (and Deployed) in One Video",
-      "video_id": "mU5Hgbpff_s",
+      "title": "The Most Underrated Tool for AI Agents Right Now",
+      "video_id": "c2QukPONnfE",
       "channel_title": "Tech With Tim",
-      "description": "Deploy your AI Agent with Hostinger using their one-click install options : http://hostinger.com/tim10 Free live AI Agent ...",
-      "published_at": "2026-10-09T15:58:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mU5Hgbpff_s/hqdefault.jpg"
+      "description": "Get started with Apify and use code TIM25 for $25 in free credits: https://apify.it/4xGIvHG Most AI agents are only as good as the ...",
+      "published_at": "2026-10-16T14:05:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/c2QukPONnfE/hqdefault.jpg"
     },
     {
-      "title": "Don&#39;t Skip SQL",
-      "video_id": "cRMKQo_RaCU",
+      "title": "Proof Beats Claims Build This to Stand Out in Interviews",
+      "video_id": "QGBJ5T63Txw",
       "channel_title": "Tech With Tim",
-      "description": "Should you learn SQL alongside Python? Yes, even though people love to skip it because it's boring and doesn't feel like real ...",
-      "published_at": "2026-10-09T12:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cRMKQo_RaCU/hqdefault.jpg"
+      "description": "How do you actually back up your skills in an interview? Don't just say \"I know XYZ\", say \"I know XYZ because I did it in this project ...",
+      "published_at": "2026-10-16T12:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QGBJ5T63Txw/hqdefault.jpg"
     },
     {
-      "title": "I Tested Jev, the AI Model That Makes Decisions Instead of Text",
-      "video_id": "vNnTeuNCPYY",
+      "title": "3 Jobs My Team Handed to Viktor, Our AI Employee",
+      "video_id": "AjTF6FUp9to",
       "channel_title": "Tech With Tim",
-      "description": "Get started with OpenRouter here: https://openrouter.plug.dev/DQFLEpP This AI model can't write a single sentence. It can't code, ...",
-      "published_at": "2026-10-08T18:22:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vNnTeuNCPYY/hqdefault.jpg"
+      "description": "Hire Viktor for your team: https://ref.viktor.com/techwithtim-yt. Code TECHWITHTIM100: $100 of his work free, no credit card.",
+      "published_at": "2026-10-15T14:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AjTF6FUp9to/hqdefault.jpg"
     },
     {
-      "title": "You do not need an AI startup",
-      "video_id": "pclw-q_jCUc",
+      "title": "The AI Skills Python Developers Need to Stand Out",
+      "video_id": "ImvxN0-27R0",
       "channel_title": "Tech With Tim",
-      "description": "You do not need a billion-dollar AI startup to make money with AI. You need to identify a painful business task, AI agents, and the ...",
-      "published_at": "2026-10-08T12:33:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pclw-q_jCUc/hqdefault.jpg"
+      "description": "What AI skills do Python jobs actually want now? This layer isn't about using AI tools, it's about building AI features into products.",
+      "published_at": "2026-10-15T12:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ImvxN0-27R0/hqdefault.jpg"
     },
     {
-      "title": "Every Python Job Needs This",
-      "video_id": "FjAdjZmprg0",
+      "title": "I Had Opus 5.5 Build me 3 Apps at Every Effort Level",
+      "video_id": "1J_zOJlBPGc",
       "channel_title": "Tech With Tim",
-      "description": "What data skill does every Python job expect? No matter the title, developer, analyst, engineer, someone will eventually hand you ...",
-      "published_at": "2026-10-08T12:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FjAdjZmprg0/hqdefault.jpg"
+      "description": "Go to https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for boot.dev.",
+      "published_at": "2026-10-14T14:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1J_zOJlBPGc/hqdefault.jpg"
     },
     {
-      "title": "Register free through the event link on my channel.",
-      "video_id": "gwysoMn-n3Q",
+      "title": "Building With AI vs Building AI",
+      "video_id": "dIPXSa3czi4",
       "channel_title": "Tech With Tim",
-      "description": "Curious about making money with AI? On October 13–14, I'll show you the path from working agent to real business offer.",
-      "published_at": "2026-10-07T14:44:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gwysoMn-n3Q/hqdefault.jpg"
+      "description": "What does \"building with AI\" actually mean for developers? There are two layers, and they're different skills. Layer one is building ...",
+      "published_at": "2026-10-14T11:34:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dIPXSa3czi4/hqdefault.jpg"
     },
     {
-      "title": "How to Pass a Python Live Coding Interview in 2026",
-      "video_id": "TwpizYlIcbg",
+      "title": "Hobbyist vs Professional",
+      "video_id": "Gxt7JXVLkzI",
       "channel_title": "Tech With Tim",
-      "description": "Here's what live coding interviews actually test in 2026, from someone who ran a program helping people land Python jobs: not ...",
-      "published_at": "2026-10-07T12:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TwpizYlIcbg/hqdefault.jpg"
+      "description": "What separates hobbyist coders from professional developers? Testing and debugging. On a real job you write far less new code ...",
+      "published_at": "2026-10-13T12:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gxt7JXVLkzI/hqdefault.jpg"
     },
     {
-      "title": "I Unleashed 100 AI Agents at Once. Here’s What Happened.",
-      "video_id": "uccBE9Tun6M",
+      "title": "From working agent to paid implementation",
+      "video_id": "6oA95Xzl9gA",
       "channel_title": "Tech With Tim",
-      "description": "Get started with EvoX Agent for free: ...",
-      "published_at": "2026-10-06T13:54:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/uccBE9Tun6M/hqdefault.jpg"
+      "description": "Wondering how to start a business in AI? On October 13–14, I'm showing you the technical system, business model, and path to ...",
+      "published_at": "2026-10-12T11:34:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6oA95Xzl9gA/hqdefault.jpg"
     },
     {
-      "title": "Write Code That Others People Can Work With",
-      "video_id": "-Xlvmc6Y8Eg",
+      "title": "The API Skill Every Python Developer Needs",
+      "video_id": "enJeKfePoOc",
       "channel_title": "Tech With Tim",
-      "description": "Why doesn't a working Python script get you hired? Because there's a huge gap between code that runs once on your machine ...",
-      "published_at": "2026-10-06T12:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-Xlvmc6Y8Eg/hqdefault.jpg"
+      "description": "What's one skill that fits you into almost any dev team? APIs. Modern software engineering is really just connecting systems ...",
+      "published_at": "2026-10-11T12:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/enJeKfePoOc/hqdefault.jpg"
     }
   ]
 }

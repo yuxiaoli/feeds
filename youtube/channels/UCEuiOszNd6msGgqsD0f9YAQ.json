@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-10-11T04:45:39.740067",
+  "fetched_at": "2026-10-18T03:39:15.220257",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
+    {
+      "title": "MIT&#39;s new drone planner can dodge moving obstacles",
+      "video_id": "m957FBCEVFA",
+      "channel_title": "Interesting Engineering",
+      "description": "MIT researchers have built SANDO, a flight planner that steers drones through unmapped spaces around moving obstacles it ...",
+      "published_at": "2026-10-16T15:45:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m957FBCEVFA/hqdefault.jpg"
+    },
+    {
+      "title": "China Deploys Grain-Leveling Robots That Do a Three-Day Granary Job in Under a Day",
+      "video_id": "yhVbXpSeLOE",
+      "channel_title": "Interesting Engineering",
+      "description": "China has put its first intelligent grain-leveling robot to work at a Sinograin depot in Beijing, taking over one of the dustiest, most ...",
+      "published_at": "2026-10-15T18:30:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yhVbXpSeLOE/hqdefault.jpg"
+    },
+    {
+      "title": "Powerus Guardian-3: This Drone Interceptor Takes Off Like a Quadcopter",
+      "video_id": "eyszzudjU5I",
+      "channel_title": "Interesting Engineering",
+      "description": "US defence firm Powerus has unveiled Guardian-3, the third generation of its Guardian counter-drone interceptor, at the AUSA ...",
+      "published_at": "2026-10-14T21:30:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/eyszzudjU5I/hqdefault.jpg"
+    },
+    {
+      "title": "Forget giant turbines: Here are 3 radical new ways we&#39;re harvesting wind",
+      "video_id": "G5QHRFnApDA",
+      "channel_title": "Interesting Engineering",
+      "description": "What if everything you thought you knew about wind energy was wrong? Modern offshore turbines stand 260 metres tall, with ...",
+      "published_at": "2026-10-11T08:07:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G5QHRFnApDA/hqdefault.jpg"
+    },
+    {
+      "title": "Alternative wind energy: the most interesting projects right now",
+      "video_id": "YhU0nSWDBcQ",
+      "channel_title": "Interesting Engineering",
+      "description": "What if everything you thought you knew about wind energy was wrong? Modern offshore turbines stand 260 metres tall, with ...",
+      "published_at": "2026-10-11T08:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/YhU0nSWDBcQ/hqdefault.jpg"
+    },
     {
       "title": "Could high altitude wind be the answer to consistent energy?",
       "video_id": "mgs1GNZ0Blk",
@@ -37,52 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/prMM07vjPvM/hqdefault.jpg"
     },
     {
-      "title": "Wuji Hand 2: The Next Gen of Robotic Dexterity",
-      "video_id": "Yz2VL_pZA2Q",
+      "title": "How General Atomics Is Building the Future of Flight",
+      "video_id": "_Wx8LSRLVSI",
       "channel_title": "Interesting Engineering",
-      "description": "Meet the Wuji Hand 2, Wuji Tech's next-generation dexterous hand designed for robot learning, teleoperation, and Physical AI ...",
-      "published_at": "2026-07-24T14:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Yz2VL_pZA2Q/hqdefault.jpg"
-    },
-    {
-      "title": "How sodium-ion could unlock battery manufacturing to developing nations",
-      "video_id": "y7XqVmAD3Fg",
-      "channel_title": "Interesting Engineering",
-      "description": "Lithium-ion batteries power almost everything but could sodium be the future? In this video, we break down how sodium-ion ...",
-      "published_at": "2026-06-20T09:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/y7XqVmAD3Fg/hqdefault.jpg"
-    },
-    {
-      "title": "The problem with sodium-ion batteries",
-      "video_id": "he7cLZC-nyM",
-      "channel_title": "Interesting Engineering",
-      "description": "Lithium-ion batteries power almost everything but could sodium be the future? In this video, we break down how sodium-ion ...",
-      "published_at": "2026-06-20T09:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/he7cLZC-nyM/hqdefault.jpg"
-    },
-    {
-      "title": "Engineering the Future: Stories from the CSU",
-      "video_id": "B2g6ooB9bMk",
-      "channel_title": "Interesting Engineering",
-      "description": "While still students, Siana Iniguez and Imani Maywear used engineering to take on urgent, real-world challenges. Iniguez ...",
-      "published_at": "2026-06-09T14:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/B2g6ooB9bMk/hqdefault.jpg"
-    },
-    {
-      "title": "Did Ferrari just make a bad decision? Luce faces massive backlash!",
-      "video_id": "KKlF8qhg3-c",
-      "channel_title": "Interesting Engineering",
-      "description": "Ferrari just unveiled the Luce — its first-ever electric car, designed Jony Ive, lost 8% of its stock value within hours. The internet ...",
-      "published_at": "2026-05-28T19:30:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KKlF8qhg3-c/hqdefault.jpg"
-    },
-    {
-      "title": "These missiles are customizable. Why?",
-      "video_id": "boGCHs2qG98",
-      "channel_title": "Interesting Engineering",
-      "description": "As the battlefield evolves, new capabilities need to move faster. Weapons are having a modular moment: new defense systems ...",
-      "published_at": "2026-05-26T14:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/boGCHs2qG98/hqdefault.jpg"
+      "description": "General Atomics Aeronautical Systems, Inc., is shaping the future of uncrewed aviation with semi-autonomous unmanned aircraft ...",
+      "published_at": "2026-08-31T15:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_Wx8LSRLVSI/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-11T04:46:10.802594",
+  "fetched_at": "2026-10-18T03:39:47.267240",
   "channel_id": "UCgLUl1WDoDXUtxPaZeSZHsw",
   "channel_title": "李自然说",
   "count": 10,
   "videos": [
+    {
+      "title": "认为AI赢不了人类，是我10年前犯的错误【TEDx】",
+      "video_id": "wMotC6o6mZ8",
+      "channel_title": "李自然说",
+      "description": "",
+      "published_at": "2026-10-12T08:14:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wMotC6o6mZ8/hqdefault.jpg"
+    },
     {
       "title": "我曾以为，哲学早就过时了",
       "video_id": "JZehosp4hSE",
@@ -75,14 +83,6 @@
       "description": "本期节目邀请到朱萧木老师来聊聊养生，一起揭秘顶级大佬的养生之道https://www.youtube.com/@XiaoMuZhu朱萧木感谢全球高 ...",
       "published_at": "2025-06-10T08:11:59Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jTBUoreQ11M/hqdefault.jpg"
-    },
-    {
-      "title": "2025-26 AI趋势洞察（腾讯内网千人观看）",
-      "video_id": "lFVvIXa6Jzc",
-      "channel_title": "李自然说",
-      "description": "有趣的灵魂聊科技人文欢迎关注「李自然说」，与你分享关于商业、创业、人文的经历与见解。 欢迎在评论区讨论交流。 推荐视频： ...",
-      "published_at": "2025-05-19T10:04:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lFVvIXa6Jzc/hqdefault.jpg"
     }
   ]
 }

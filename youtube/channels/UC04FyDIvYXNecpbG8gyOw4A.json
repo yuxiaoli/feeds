@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-10-11T04:45:24.191921",
+  "fetched_at": "2026-10-18T03:38:59.035769",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Inside the Making of Meta VR Glasses",
+      "video_id": "ca6EzNHSHRg",
+      "channel_title": "Meta",
+      "description": "how did we fit IMAX level tech into VR Glasses as light as a deck of cards? that—and everything else you wanted to know about ...",
+      "published_at": "2026-10-15T16:01:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ca6EzNHSHRg/hqdefault.jpg"
+    },
+    {
+      "title": "Reel of the Week | Surreal Instagram Illustrator",
+      "video_id": "N1fhLtHmJ1I",
+      "channel_title": "Meta",
+      "description": "Natasha is an illustrator who translates everyday observations into imaginative characters, then uses the Edits app to discover the ...",
+      "published_at": "2026-10-13T16:04:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N1fhLtHmJ1I/hqdefault.jpg"
+    },
     {
       "title": "climate scientist breaks down biology in the Everglades",
       "video_id": "DWoO0PowIuk",
@@ -67,22 +83,6 @@
       "description": "Make some noise for Meta Connect. So many exciting announcements, so naturally, they needed a soundtrack. From personal ...",
       "published_at": "2026-09-26T18:42:54Z",
       "thumbnail_url": "https://i.ytimg.com/vi/VD_z4f29xw0/hqdefault.jpg"
-    },
-    {
-      "title": "Inside the Meta Lab at #MetaConnect 2026 | A Tour with Meta Creative Director Matt Jacobson",
-      "video_id": "s5ztr13K1gg",
-      "channel_title": "Meta",
-      "description": "Community, creativity, and self-expression. That is what the Meta Lab at Meta Connect is built around. Take a tour through the ...",
-      "published_at": "2026-09-26T18:04:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/s5ztr13K1gg/hqdefault.jpg"
-    },
-    {
-      "title": "Meet Muse",
-      "video_id": "iI7qazRvzJc",
-      "channel_title": "Meta",
-      "description": "meet Muse, your personal AI agent. it gets to know you and your goals, works across different parts of your life, and gives you back ...",
-      "published_at": "2026-09-26T17:17:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/iI7qazRvzJc/hqdefault.jpg"
     }
   ]
 }

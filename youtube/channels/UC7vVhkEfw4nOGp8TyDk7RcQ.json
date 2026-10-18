@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-11T04:45:33.474314",
+  "fetched_at": "2026-10-18T03:39:08.556323",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "Machine, Assemble, Repair: How We Build Atlas | Boston Dynamics",
+      "video_id": "dP_i7hRvGpE",
+      "channel_title": "Boston Dynamics",
+      "description": "From custom part to running robot, the Atlas shop floor is built on precision, rapid assembly, and real-time collaboration.",
+      "published_at": "2026-10-14T14:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dP_i7hRvGpE/hqdefault.jpg"
+    },
     {
       "title": "New Hands for Atlas | Boston Dynamics",
       "video_id": "4whgw2gLBS8",
@@ -75,14 +83,6 @@
       "description": "World Cup fever continues!",
       "published_at": "2026-07-10T16:57:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tw0uJ1T5bzE/hqdefault.jpg"
-    },
-    {
-      "title": "Spot at Coca-Cola Europacific Partners | Boston Dynamics",
-      "video_id": "em5RQCq5zyc",
-      "channel_title": "Boston Dynamics",
-      "description": "Spot has arrived at Coca-Cola Europacific Partners (CCEP) in East Kilbride, Scotland! Avoiding downtime is paramount for ...",
-      "published_at": "2026-07-08T13:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/em5RQCq5zyc/hqdefault.jpg"
     }
   ]
 }

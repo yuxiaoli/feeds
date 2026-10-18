@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-11T04:45:29.870566",
+  "fetched_at": "2026-10-18T03:39:04.735712",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Let there be light! And a DMX system!!!",
+      "video_id": "5uJoNrmUfaI",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Harrison and Brandon tell us about the lighting updates in the Primeval World and Grand Canyon dioramas at the Disneyland ...",
+      "published_at": "2026-10-16T00:48:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5uJoNrmUfaI/hqdefault.jpg"
+    },
     {
       "title": "We have something cool and chilling to show you in the Unlucky Nugget at Disneyland Paris 👻",
       "video_id": "y8I-VYPxsA4",
@@ -75,14 +83,6 @@
       "description": "The Magic of Disney Animation at Disney's Hollywood Studios is filled with experiences that help further the story of the short ...",
       "published_at": "2026-09-09T12:15:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/GW86N0mc8lI/hqdefault.jpg"
-    },
-    {
-      "title": "Go Away Green doesn’t exist 😮 And you’ve seen it everywhere 🎨👀✨",
-      "video_id": "7NvLw2rLqcE",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "imagineering #disneyparks #colortheory.",
-      "published_at": "2026-09-03T18:20:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7NvLw2rLqcE/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-11T04:45:47.848526",
+  "fetched_at": "2026-10-18T03:39:23.727957",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "美光崛起背后：美国内存“独苗”的生存战、资本博弈与AI重生",
+      "video_id": "nuD-P-AFjG0",
+      "channel_title": "硅谷101",
+      "description": "在美国“土豆之州”爱达荷，一位给麦当劳供应冷冻薯条的土豆大亨，把100万美元投给一家从牙医诊所地下室起步的芯片公司。而近五 ...",
+      "published_at": "2026-10-15T23:33:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/nuD-P-AFjG0/hqdefault.jpg"
+    },
     {
       "title": "10月10日，硅谷101年度科技大会线下见！｜World Labs、OpenAI、Anthropic、Google DeepMind、Meta、Nvdia、明星Neolabs及startups齐聚",
       "video_id": "0FCDUfQvN2c",
@@ -75,14 +83,6 @@
       "description": "在整个AI行业疯抢HBM的时候，有一家芯片公司，选择了一条不同的路线。 2026年5月，Cerebras登陆纳斯达克，上市首日股价 ...",
       "published_at": "2026-08-07T02:32:22Z",
       "thumbnail_url": "https://i.ytimg.com/vi/l5K_icg5JQA/hqdefault.jpg"
-    },
-    {
-      "title": "对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
-      "video_id": "svNElhOYajQ",
-      "channel_title": "硅谷101",
-      "description": "我们这期视频播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。 在开源模型 ...",
-      "published_at": "2026-08-03T14:04:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/svNElhOYajQ/hqdefault.jpg"
     }
   ]
 }

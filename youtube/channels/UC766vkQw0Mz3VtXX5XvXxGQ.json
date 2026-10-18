@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-11T04:45:31.983537",
+  "fetched_at": "2026-10-18T03:39:07.073288",
   "channel_id": "UC766vkQw0Mz3VtXX5XvXxGQ",
   "channel_title": "Meta VR",
   "count": 10,
   "videos": [
+    {
+      "title": "Meta VR Glasses. Cinema-scale, anywhere. Spring 2027.",
+      "video_id": "kRqrNn6doWQ",
+      "channel_title": "Meta VR",
+      "description": "",
+      "published_at": "2026-10-15T19:03:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kRqrNn6doWQ/hqdefault.jpg"
+    },
     {
       "title": "Myth vs. Reality with Draymond Green. Watch &quot;Open Season&quot; in the TV app.",
       "video_id": "PvdWa7at7h8",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-09-17T15:59:49Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-Hh-iLJPLR4/hqdefault.jpg"
-    },
-    {
-      "title": "Big teeth, big fun. #guessthegame",
-      "video_id": "K87OeZcMDV8",
-      "channel_title": "Meta VR",
-      "description": "",
-      "published_at": "2026-09-14T22:19:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/K87OeZcMDV8/hqdefault.jpg"
     }
   ]
 }

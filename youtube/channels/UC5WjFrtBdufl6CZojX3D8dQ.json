@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-10-11T04:45:31.258775",
+  "fetched_at": "2026-10-18T03:39:06.359804",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "The 0-60 | Roadster",
+      "video_id": "Zg9Q56t7bdo",
+      "channel_title": "Tesla",
+      "description": "The 3rd live demo during the Roadster event — 0-60 mph in 0.81 seconds. 0.67 seconds (w/ rollout subtracted)",
+      "published_at": "2026-10-16T05:51:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Zg9Q56t7bdo/hqdefault.jpg"
+    },
+    {
+      "title": "The Kickflip | Roadster",
+      "video_id": "Uq_0kEthH3U",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-10-16T03:14:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Uq_0kEthH3U/hqdefault.jpg"
+    },
+    {
+      "title": "The Ramp | Roadster",
+      "video_id": "-yRQsurykGw",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-10-16T03:04:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-yRQsurykGw/hqdefault.jpg"
+    },
+    {
+      "title": "The Kickflip | Roadster",
+      "video_id": "r5vsHHPVhJg",
+      "channel_title": "Tesla",
+      "description": "The 2nd live demo during the Roadster event. Tony would be proud.",
+      "published_at": "2026-10-16T02:52:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/r5vsHHPVhJg/hqdefault.jpg"
+    },
+    {
+      "title": "The Ramp | Roadster",
+      "video_id": "7p5LxFdc-Qg",
+      "channel_title": "Tesla",
+      "description": "The first live demo during the Roadster event. Real life, baby.",
+      "published_at": "2026-10-16T02:23:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7p5LxFdc-Qg/hqdefault.jpg"
+    },
+    {
+      "title": "Roadster Event",
+      "video_id": "qt5p-_tE8d0",
+      "channel_title": "Tesla",
+      "description": "Buckle up. https://www.tesla.com/roadster Ramp Demo: 6:03-10:55 Kickflip Demo: 10:56-12:43 Design: 12:47-14:38 Aero: ...",
+      "published_at": "2026-10-16T01:34:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qt5p-_tE8d0/hqdefault.jpg"
+    },
+    {
+      "title": "Roadster | The Last Best Driver&#39;s Car",
+      "video_id": "cvKIR-c1SsU",
+      "channel_title": "Tesla",
+      "description": "Roadster is a true pilot's car: active aerodynamics, a multi-mode suction system & cold-gas thrusters Reserve Roadster ...",
+      "published_at": "2026-10-16T01:34:45Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cvKIR-c1SsU/hqdefault.jpg"
+    },
     {
       "title": "Halloween Mode | Tesla",
       "video_id": "bZjsD89p5mo",
@@ -27,62 +83,6 @@
       "description": "by @Gjeebs.",
       "published_at": "2026-09-06T18:52:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bpPJbRjIpxg/hqdefault.jpg"
-    },
-    {
-      "title": "The Future Has Arrived | Cybercab",
-      "video_id": "grdt05okn3Q",
-      "channel_title": "Tesla",
-      "description": "Our Robotaxi vehicle lineup now includes Cybercab, our first purpose-built autonomous vehicle without a steering wheel or ...",
-      "published_at": "2026-09-04T00:35:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/grdt05okn3Q/hqdefault.jpg"
-    },
-    {
-      "title": "Pet Mode keeps your dog chillin’",
-      "video_id": "9D1FnEJ4_HU",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-08-27T20:39:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9D1FnEJ4_HU/hqdefault.jpg"
-    },
-    {
-      "title": "Deploying Megapack At Scale",
-      "video_id": "32C0_8_296k",
-      "channel_title": "Tesla",
-      "description": "At Tesla, we think about the full project as our product. Executing Megapack projects at scale is extremely complex. Our products ...",
-      "published_at": "2026-08-25T17:06:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/32C0_8_296k/hqdefault.jpg"
-    },
-    {
-      "title": "Tesla Cathode Factory",
-      "video_id": "tMhp4-ylrdE",
-      "channel_title": "Tesla",
-      "description": "We are operating the first large scale Cathode production facility in North America as part of our 4680 cell production in Austin, TX.",
-      "published_at": "2026-08-21T20:40:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tMhp4-ylrdE/hqdefault.jpg"
-    },
-    {
-      "title": "BAMF",
-      "video_id": "O_Ndcx1LArU",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-08-20T18:43:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O_Ndcx1LArU/hqdefault.jpg"
-    },
-    {
-      "title": "When it rains, it summons",
-      "video_id": "8gvyWy-hCM8",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-07-31T16:31:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8gvyWy-hCM8/hqdefault.jpg"
-    },
-    {
-      "title": "Y like my sootcase",
-      "video_id": "isfJqgyGRFE",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-07-29T22:24:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/isfJqgyGRFE/hqdefault.jpg"
     }
   ]
 }

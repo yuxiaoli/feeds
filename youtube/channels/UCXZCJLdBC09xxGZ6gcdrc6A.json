@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-10-11T04:46:01.848809",
+  "fetched_at": "2026-10-18T03:39:38.154883",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
+      "title": "Put your dot on call",
+      "video_id": "GBOZIRK1ujw",
+      "channel_title": "OpenAI",
+      "description": "Ali, an engineer at OpenAI, used his dot to triage an on-call incident at 3am. His dot investigated the issue and started a Codex ...",
+      "published_at": "2026-10-16T21:43:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GBOZIRK1ujw/hqdefault.jpg"
+    },
+    {
+      "title": "Put ChatGPT to work on shared team tasks",
+      "video_id": "OMxEUdIgsQc",
+      "channel_title": "OpenAI",
+      "description": "Set up recurring work your team can manage together with team tasks in ChatGPT. Follow a legal team's daily intake ...",
+      "published_at": "2026-10-16T18:00:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/OMxEUdIgsQc/hqdefault.jpg"
+    },
+    {
+      "title": "Build more personal sites with Codex",
+      "video_id": "KJ_7KPKlO_Q",
+      "channel_title": "OpenAI",
+      "description": "Keep your team's Sites up to date and make them personal to each visitor. Connect scheduled tasks to refresh site data ...",
+      "published_at": "2026-10-15T20:48:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KJ_7KPKlO_Q/hqdefault.jpg"
+    },
+    {
+      "title": "GPT-Live-1.1 has new voices and better accents.",
+      "video_id": "GyO8Ao7yKJc",
+      "channel_title": "OpenAI",
+      "description": "New voices. Better accents. And less \"checking...\" GPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with ...",
+      "published_at": "2026-10-15T18:24:44Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GyO8Ao7yKJc/hqdefault.jpg"
+    },
+    {
+      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
+      "video_id": "3IVo-MNwk2I",
+      "channel_title": "OpenAI",
+      "description": "Cybersecurity research, moving from weeks to hours. SentinelOne's Gregor Stewart describes OpenAI's cyber capabilities ...",
+      "published_at": "2026-10-15T14:13:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3IVo-MNwk2I/hqdefault.jpg"
+    },
+    {
+      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
+      "video_id": "BOTAeAU5ExQ",
+      "channel_title": "OpenAI",
+      "description": "Cybersecurity research, moving from weeks to hours. SentinelOne's Gregor Stewart describes OpenAI's cyber capabilities ...",
+      "published_at": "2026-10-15T14:12:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BOTAeAU5ExQ/hqdefault.jpg"
+    },
+    {
+      "title": "Cooking up a catering business with ChatGPT",
+      "video_id": "PZxbaIp8PzE",
+      "channel_title": "OpenAI",
+      "description": "Running a restaurant is a 24/7 commitment. And apparently finding catering clients is just as time-consuming. Nick Baumann ...",
+      "published_at": "2026-10-14T17:47:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PZxbaIp8PzE/hqdefault.jpg"
+    },
+    {
       "title": "How Oracle Uses Codex to Help Business Users Get Answers",
-      "video_id": "Ju-JyxDgV7g",
+      "video_id": "DTcK95TAZ-k",
       "channel_title": "OpenAI",
       "description": "Richard Lam, Group Vice President at Oracle Applications Lab, shares how his team uses Codex to help business users get ...",
-      "published_at": "2026-10-10T21:40:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ju-JyxDgV7g/hqdefault.jpg"
+      "published_at": "2026-10-14T09:35:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DTcK95TAZ-k/hqdefault.jpg"
     },
     {
-      "title": "Set up your dot in the ChatGPT mobile app",
-      "video_id": "p5KxBTUncoE",
+      "title": "Work with your team in ChatGPT Space",
+      "video_id": "G-9Y2xNiDKQ",
       "channel_title": "OpenAI",
-      "description": "You can now create a dot from the ChatGPT mobile app. Set up your dot, edit the name, customize the avatar, and set your dot to ...",
-      "published_at": "2026-10-09T19:13:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p5KxBTUncoE/hqdefault.jpg"
+      "description": "Explore a shared place to work with people and ChatGPT. See how Space brings conversations, context and collaborative work ...",
+      "published_at": "2026-10-13T21:01:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/G-9Y2xNiDKQ/hqdefault.jpg"
     },
     {
-      "title": "Building the Codex community",
-      "video_id": "enPbh_A5F7E",
+      "title": "Block on Finding and Fixing Security Risks with OpenAI",
+      "video_id": "9aDuSpVoB-Y",
       "channel_title": "OpenAI",
-      "description": "See how the Codex community brings people together to build, learn, and share. Pauline Narvas and VB talk about growing the ...",
-      "published_at": "2026-10-09T17:00:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/enPbh_A5F7E/hqdefault.jpg"
-    },
-    {
-      "title": "How Sophos cuts threat response time by 96% with OpenAI Daybreak",
-      "video_id": "MUHjyljBPHI",
-      "channel_title": "OpenAI",
-      "description": "Sophos CTO John Peterson shares how agents built through OpenAI Daybreak combine AI with Sophos's cybersecurity expertise ...",
-      "published_at": "2026-10-09T08:37:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MUHjyljBPHI/hqdefault.jpg"
-    },
-    {
-      "title": "Production Monitoring with Codex: Grafana, Kubernetes, &amp; Security",
-      "video_id": "RQfg-zo4R-g",
-      "channel_title": "OpenAI",
-      "description": "It's 3 a.m. and checkout errors are climbing. What do you check first? Join cohosts Tony Loehr and Anke Hao for three practical ...",
-      "published_at": "2026-10-08T21:35:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RQfg-zo4R-g/hqdefault.jpg"
-    },
-    {
-      "title": "More visual answers from GPT-6 with Intelligent UI",
-      "video_id": "OgjMGn4T6Ok",
-      "channel_title": "OpenAI",
-      "description": "GPT‑6 in ChatGPT introduces Intelligent UI, a new capability that allows ChatGPT to answer quickly with fully interactive user ...",
-      "published_at": "2026-10-08T17:46:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OgjMGn4T6Ok/hqdefault.jpg"
-    },
-    {
-      "title": "Get a more visual answer from GPT-6 with Intelligent UI",
-      "video_id": "Wv0PRPMzkJg",
-      "channel_title": "OpenAI",
-      "description": "GPT‑6 in ChatGPT introduces Intelligent UI, a new capability that allows ChatGPT to answer quickly with fully interactive user ...",
-      "published_at": "2026-10-08T17:41:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wv0PRPMzkJg/hqdefault.jpg"
-    },
-    {
-      "title": "How Oracle Uses ChatGPT Work to Transform Recruitment",
-      "video_id": "Rs5qLAnkNcI",
-      "channel_title": "OpenAI",
-      "description": "We've gone from zero to 100, not zero to 60.” Jan Ackerman shares how Oracle built a talent market intelligence tool with ...",
-      "published_at": "2026-10-08T17:43:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Rs5qLAnkNcI/hqdefault.jpg"
-    },
-    {
-      "title": "Play a game against GPT-6 with Intelligent UI",
-      "video_id": "BHQF1xl2ScU",
-      "channel_title": "OpenAI",
-      "description": "GPT‑6 in ChatGPT introduces Intelligent UI, a new capability that allows ChatGPT to answer quickly with fully interactive user ...",
-      "published_at": "2026-10-08T17:40:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BHQF1xl2ScU/hqdefault.jpg"
-    },
-    {
-      "title": "How Oracle Uses ChatGPT Work to Transform Recruitment",
-      "video_id": "Mm3EsJL73tM",
-      "channel_title": "OpenAI",
-      "description": "We've gone from zero to 100, not zero to 60.” Jan Ackerman shares how Oracle built a talent market intelligence tool with ...",
-      "published_at": "2026-10-08T17:38:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Mm3EsJL73tM/hqdefault.jpg"
+      "description": "Now you know and now you can take action before someone else knows.” A weakness in your code can be part of a much bigger ...",
+      "published_at": "2026-10-13T18:02:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9aDuSpVoB-Y/hqdefault.jpg"
     }
   ]
 }

@@ -1,48 +1,48 @@
 {
-  "fetched_at": "2026-10-11T04:45:50.040952",
+  "fetched_at": "2026-10-18T03:39:25.827047",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
   "count": 10,
   "videos": [
     {
-      "title": "NASA&#39;s Northrop Grumman Commercial Resupply Services 24 Departure",
-      "video_id": "IoL51xLkMSY",
+      "title": "NASA&#39;s SpaceX Crew-12 Postflight News Conference (Oct. 15, 2026)",
+      "video_id": "ivng4U5xeYM",
       "channel_title": "NASA",
-      "description": "Watch Northrop Grumman's Cygnus XL spacecraft undock and depart from the International Space Station. Flight controllers on ...",
-      "published_at": "2026-10-09T17:14:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IoL51xLkMSY/hqdefault.jpg"
+      "description": "After spending over seven months in space, members of NASA's SpaceX Crew-12 will discuss their mission aboard the ...",
+      "published_at": "2026-10-15T20:12:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ivng4U5xeYM/hqdefault.jpg"
     },
     {
-      "title": "NASA&#39;s SpaceX 35th Commercial Resupply Services Launch",
-      "video_id": "f8FE2R7esZ0",
+      "title": "U.S. Spacewalk Preview News Conference (Oct. 20, 2026)",
+      "video_id": "UleiRdWFG7o",
       "channel_title": "NASA",
-      "description": "Tune in as a new shipment of science and supplies lifts off to the International Space Station. NASA and SpaceX are targeting ...",
-      "published_at": "2026-10-09T14:36:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f8FE2R7esZ0/hqdefault_live.jpg"
-    },
-    {
-      "title": "NASA&#39;s SpaceX Crew-12 Re-Entry &amp; Splashdown",
-      "video_id": "x6p9Ri0DlNE",
-      "channel_title": "NASA",
-      "description": "Welcome Crew-12 back to Earth with us! NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) ...",
-      "published_at": "2026-10-08T16:52:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/x6p9Ri0DlNE/hqdefault.jpg"
+      "description": "We're giving a preview of two upcoming spacewalks on Oct. 29 and Nov. 5 to finish installing solar arrays that will provide more ...",
+      "published_at": "2026-10-15T16:05:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UleiRdWFG7o/hqdefault_live.jpg"
     },
     {
       "title": "NASA&#39;s SpaceX 35th Commercial Resupply Services Rendezvous and Docking",
       "video_id": "-jPQmjMWy9I",
       "channel_title": "NASA",
       "description": "Following a successful launch on Oct. 13, 2026, an uncrewed SpaceX Dragon cargo spacecraft will plan to rendezvous with and ...",
-      "published_at": "2026-10-08T16:38:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-jPQmjMWy9I/hqdefault_live.jpg"
+      "published_at": "2026-10-15T14:49:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-jPQmjMWy9I/hqdefault.jpg"
     },
     {
-      "title": "NASA&#39;s SpaceX Crew-12 Postflight News Conference",
-      "video_id": "ivng4U5xeYM",
+      "title": "Planetary Defenders: This Is Not an Exercise",
+      "video_id": "5b3n-u_0QAI",
       "channel_title": "NASA",
-      "description": "After spending over seven months in space, members of NASA's SpaceX Crew-12 will discuss their mission aboard the ...",
-      "published_at": "2026-10-07T17:47:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ivng4U5xeYM/hqdefault_live.jpg"
+      "description": "When a newly discovered asteroid posed a potential risk to Earth, a global planetary defense system was put to the test like never ...",
+      "published_at": "2026-10-14T15:05:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5b3n-u_0QAI/hqdefault.jpg"
+    },
+    {
+      "title": "NASA&#39;s SpaceX 35th Commercial Resupply Services Launch",
+      "video_id": "f8FE2R7esZ0",
+      "channel_title": "NASA",
+      "description": "Tune in as a new shipment of science and supplies lifts off to the International Space Station. NASA and SpaceX are targeting ...",
+      "published_at": "2026-10-13T11:06:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f8FE2R7esZ0/hqdefault.jpg"
     },
     {
       "title": "NASA&#39;s SpaceX Crew-12 Undocking",
@@ -53,14 +53,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/dGSqblvgLIE/hqdefault.jpg"
     },
     {
-      "title": "NASA&#39;s SpaceX Crew-12 Hatch Close",
-      "video_id": "JB5HKi8Pxqs",
-      "channel_title": "NASA",
-      "description": "Watch as NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and ...",
-      "published_at": "2026-10-07T10:40:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/JB5HKi8Pxqs/hqdefault.jpg"
-    },
-    {
       "title": "From the Moon to the 50-Yard Line",
       "video_id": "-62C9R_41Sc",
       "channel_title": "NASA",
@@ -69,20 +61,28 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-62C9R_41Sc/hqdefault.jpg"
     },
     {
-      "title": "NASA&#39;s SpaceX Crew-13 Arrival &amp; Welcome Remarks",
-      "video_id": "FCCJRyhxZSo",
+      "title": "Progress 96 Cargo Ship Docking",
+      "video_id": "v03RjDNwG1o",
       "channel_title": "NASA",
-      "description": "Watch as four explorers arrive at the International Space Station. After lifting off from Cape Canaveral Space Force Station on ...",
-      "published_at": "2026-10-02T02:02:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FCCJRyhxZSo/hqdefault.jpg"
+      "description": "Watch live as the unpiloted Progress 96 resupply spacecraft docks autonomously to the International Space Station. Docking is ...",
+      "published_at": "2026-09-19T13:54:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v03RjDNwG1o/hqdefault.jpg"
     },
     {
-      "title": "NASA&#39;s SpaceX Crew-13 Launch",
-      "video_id": "7ZiUbT1-djA",
+      "title": "NASA&#39;s Nancy Grace Roman Space Telescope Launches (Official NASA Recap)",
+      "video_id": "6o3m9Bw67Os",
       "channel_title": "NASA",
-      "description": "Four new crew members are heading to the International Space Station! NASA astronauts Jessica Watkins and Luke Delaney, ...",
-      "published_at": "2026-10-01T15:53:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7ZiUbT1-djA/hqdefault.jpg"
+      "description": "NASA's Nancy Grace Roman Space Telescope successfully lifted off from NASA's Kennedy Space Center in Florida at 7:26 a.m. ...",
+      "published_at": "2026-08-31T21:45:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6o3m9Bw67Os/hqdefault.jpg"
+    },
+    {
+      "title": "2026 Solar Eclipse @ 50,000 Feet",
+      "video_id": "myZ9kn9MIWQ",
+      "channel_title": "NASA",
+      "description": "These views, including footage from GoPro cameras, were captured by NASA's WB-57 aircraft during the 2026 total solar eclipse.",
+      "published_at": "2026-08-14T16:46:54Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/myZ9kn9MIWQ/hqdefault.jpg"
     }
   ]
 }

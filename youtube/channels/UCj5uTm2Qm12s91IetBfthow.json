@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-11T04:46:12.941606",
+  "fetched_at": "2026-10-18T03:39:49.366637",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "AI生成检测的攻和防",
+      "video_id": "NesMzVDzNhM",
+      "channel_title": "Find Interesting AI",
+      "description": "怎么让AI写作的更像人类.",
+      "published_at": "2026-10-14T23:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NesMzVDzNhM/hqdefault.jpg"
+    },
     {
       "title": "AI改变了哪些，应该接受哪些",
       "video_id": "xf8DlvZBrPA",
@@ -75,14 +83,6 @@
       "description": "2月Github项目文档： https://my.feishu.cn/wiki/V9XmwzykGiDVVEkhjyXc4DZtn8b?table=tblxMUw26vxvCF07&view=vewmlG2yKn.",
       "published_at": "2026-03-14T13:00:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0ow5UHWSPE4/hqdefault.jpg"
-    },
-    {
-      "title": "2026二月精品AI论文分享",
-      "video_id": "MprHT4AFrXQ",
-      "channel_title": "Find Interesting AI",
-      "description": "论文知识库： https://my.feishu.cn/wiki/V9XmwzykGiDVVEkhjyXc4DZtn8b.",
-      "published_at": "2026-03-07T10:26:51Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MprHT4AFrXQ/hqdefault.jpg"
     }
   ]
 }

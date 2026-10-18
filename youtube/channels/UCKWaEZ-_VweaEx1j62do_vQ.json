@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-10-11T04:45:48.556637",
+  "fetched_at": "2026-10-18T03:39:24.418454",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
+    {
+      "title": "Been Rude to a Chatbot?🤖",
+      "video_id": "yZUzeYLaIME",
+      "channel_title": "IBM Technology",
+      "description": "Ever notice you're nicer to people than AI? The latest episode of Mixture of Experts explores why perfectly polite humans turn into ...",
+      "published_at": "2026-10-16T17:35:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yZUzeYLaIME/hqdefault.jpg"
+    },
+    {
+      "title": "Decision models take off &amp; Anthropic bans cruelty to Claude",
+      "video_id": "0FBdWvkgNQE",
+      "channel_title": "IBM Technology",
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~ryIAcW59Q This week on Mixture of Experts, host ...",
+      "published_at": "2026-10-16T10:00:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0FBdWvkgNQE/hqdefault.jpg"
+    },
+    {
+      "title": "Context Engineering for AI Agents: 4 Failure Modes to Avoid",
+      "video_id": "BwXremQ-i6I",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about Context Engineering here → https://ibm.biz/~5YM1VAeG0 More context should make AI agents better. It often ...",
+      "published_at": "2026-10-15T11:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BwXremQ-i6I/hqdefault.jpg"
+    },
+    {
+      "title": "Is AI Replacing Entry-Level Jobs?💼",
+      "video_id": "zKvaoG5Jlh0",
+      "channel_title": "IBM Technology",
+      "description": "AI is handling entry-level security work—but how do we train the next generation? Explore the talent pipeline challenge reshaping ...",
+      "published_at": "2026-10-14T16:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zKvaoG5Jlh0/hqdefault.jpg"
+    },
+    {
+      "title": "AI slop stalls bug bounties, malware hides in IoT and agents hit Wikipedia",
+      "video_id": "W6F4QZlknkc",
+      "channel_title": "IBM Technology",
+      "description": "Visit Security Intelligence podcast page to get more AI content →https://ibm.biz/~H5jRdf9Xb What happens when AI agents start ...",
+      "published_at": "2026-10-14T10:00:40Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/W6F4QZlknkc/hqdefault.jpg"
+    },
+    {
+      "title": "Every Generation Thinks This Time Is Different: The AI Job Myth",
+      "video_id": "wSuWuPUTC10",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about AI & the Future of Work here → https://ibm.biz/~9TPlzzY4X Every generation thinks new technology will ...",
+      "published_at": "2026-10-13T11:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wSuWuPUTC10/hqdefault.jpg"
+    },
+    {
+      "title": "5 Concepts to Know for Coding with AI Agents",
+      "video_id": "hTAWHgQI4xg",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about AI Agents here → https://ibm.biz/~qNwedZihN AI coding is changing how software gets built. Cedric Clyburn ...",
+      "published_at": "2026-10-12T11:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hTAWHgQI4xg/hqdefault.jpg"
+    },
     {
       "title": "Human Bias is Harder to Fix than AI Bias🧠",
       "video_id": "3Tk0sFoFYvM",
@@ -11,14 +67,6 @@
       "description": "Machine bias can often be measured, detected, and corrected. Human bias is far more difficult to recognize. Learn why this ...",
       "published_at": "2026-10-09T16:00:01Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3Tk0sFoFYvM/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI&#39;s always-on agents, 700+ math manuscripts &amp; HackerRank&#39;s AI interviewer",
-      "video_id": "IO6Bhs2iNfk",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~qrhY7KEYZ Can AI take mathematics beyond ...",
-      "published_at": "2026-10-09T10:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IO6Bhs2iNfk/hqdefault.jpg"
     },
     {
       "title": "Even Tech Experts Hate CAPTCHAs 😅",
@@ -29,60 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/gebskF8HP7g/hqdefault.jpg"
     },
     {
-      "title": "Hiding in plain sight: Fake GPTs, SMTP malware and NetScaler zero-days",
-      "video_id": "wZFseoVpSTM",
-      "channel_title": "IBM Technology",
-      "description": "Visit Security Intelligence podcast page to get more cybersecurity content → https://ibm.biz/~u3JW3XeWL That ChatGPT ad might ...",
-      "published_at": "2026-10-08T10:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wZFseoVpSTM/hqdefault.jpg"
-    },
-    {
-      "title": "How AI Models Scale Beyond a Single GPU Across LLM Workloads",
-      "video_id": "qZBibWYcKH4",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI Models here → https://ibm.biz/~GnXROtDog The biggest AI models can't fit on one GPU. Grace Ableidinger ...",
-      "published_at": "2026-10-06T11:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qZBibWYcKH4/hqdefault.jpg"
-    },
-    {
-      "title": "IDE vs CLI: What Every DevOps Engineer Should Know",
-      "video_id": "5RtmQSKKQo8",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about AI IDE here → https://ibm.biz/~ita5zGsXu Most developers use both an IDE and a CLI, but each solves a ...",
-      "published_at": "2026-10-05T11:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5RtmQSKKQo8/hqdefault.jpg"
-    },
-    {
       "title": "Does Safety Beat Hype with AI Models❔🤖",
       "video_id": "iMv9sCg7vxo",
       "channel_title": "IBM Technology",
       "description": "Chris Hay calls himself a model addict. He wants every new AI model the moment it launches. So why does he agree with ...",
       "published_at": "2026-10-02T18:15:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/iMv9sCg7vxo/hqdefault.jpg"
-    },
-    {
-      "title": "What Is Jev? The AI Model That Doesn&#39;t Generate Text",
-      "video_id": "YGgNBcIgI4s",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about New Frontier AI Models here → https://ibm.biz/~rGiO8LVz1 What if an AI model didn't need to generate text?",
-      "published_at": "2026-10-01T11:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YGgNBcIgI4s/hqdefault.jpg"
-    },
-    {
-      "title": "Why AI Gets Fooled So Easily❓",
-      "video_id": "fWFkw70yJwk",
-      "channel_title": "IBM Technology",
-      "description": "AI agents can automate tasks, make decisions, and assist users, but they're still vulnerable to manipulation. Kimmie Farrington ...",
-      "published_at": "2026-09-30T16:30:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/fWFkw70yJwk/hqdefault.jpg"
-    },
-    {
-      "title": "Why Did The AI Race Just Change? 🏁",
-      "video_id": "SQYwRET4a6Q",
-      "channel_title": "IBM Technology",
-      "description": "The AI conversation is shifting fast. New foundation models arrive every few weeks, but what really matters to businesses is ...",
-      "published_at": "2026-09-25T16:00:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/SQYwRET4a6Q/hqdefault.jpg"
     }
   ]
 }

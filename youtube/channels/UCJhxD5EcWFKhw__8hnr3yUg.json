@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-11T04:45:45.176747",
+  "fetched_at": "2026-10-18T03:39:20.809876",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "【python】t-string详解，从实现到使用",
+      "video_id": "_9PR0C0Z5JE",
+      "channel_title": "码农高天",
+      "description": "这期视频聊一下3.14的新feature t-string。它和f-string有什么关系，它是如何实现的，它该如何使用？一期视频全讲清楚！",
+      "published_at": "2026-10-17T04:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_9PR0C0Z5JE/hqdefault.jpg"
+    },
     {
       "title": "七小时成为Apache Spark贡献者",
       "video_id": "fTU0SFfweNQ",
@@ -75,14 +83,6 @@
       "description": "谁能想到，第一次被人说黑帮，竟然是在做开源的时候。究竟发生了什么事情，让一位开源贡献者如此愤怒？在开源社区的我们， ...",
       "published_at": "2026-07-05T04:00:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/6Qy-J_CELeI/hqdefault.jpg"
-    },
-    {
-      "title": "世界旅行之后的生活，和一点未来的计划",
-      "video_id": "EQmBi2aRTEA",
-      "channel_title": "码农高天",
-      "description": "由于我世界旅行的视频剪的太慢，大家对我现状的了解千奇百怪，借这个视频的机会对齐一下！更重要的是和大家聊一下视频更新 ...",
-      "published_at": "2026-06-06T04:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EQmBi2aRTEA/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-10-11T04:45:46.473192",
+  "fetched_at": "2026-10-18T03:39:22.329826",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "How to make a software factory that&#39;s not expensive (full walkthrough)",
+      "video_id": "XuvFo0q5TpU",
+      "channel_title": "Warp",
+      "description": "Request early access to Warp Factories! https://www.warp.dev/get-started 00:00 Intro 01:32 Factory architecture 13:27 Why ...",
+      "published_at": "2026-10-14T14:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XuvFo0q5TpU/hqdefault.jpg"
+    },
+    {
+      "title": "How to build self-improving agents (full walkthrough)",
+      "video_id": "FqafKuH8F3k",
+      "channel_title": "Warp",
+      "description": "Request early access to Warp Factories! https://www.warp.dev/get-started 00:00 Intro 01:37 How self-improvement works 03:41 ...",
+      "published_at": "2026-10-13T14:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FqafKuH8F3k/hqdefault.jpg"
+    },
+    {
+      "title": "From coding agents to software factories with Uber and Faire",
+      "video_id": "0gDHnH89aQs",
+      "channel_title": "Warp",
+      "description": "Start your own factory / request early access: https://www.warp.dev/get-started 00:00 Intro & panelists 03:23 What's a software ...",
+      "published_at": "2026-10-12T17:38:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0gDHnH89aQs/hqdefault.jpg"
+    },
     {
       "title": "Warp Factories - the complete guide",
       "video_id": "pkO1eHkr1v0",
@@ -59,30 +83,6 @@
       "description": "We're hiring humans. The agents already work here. → https://www.warp.dev/careers.",
       "published_at": "2026-08-19T16:24:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/Th3ShkzPtqQ/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing Warp Factories",
-      "video_id": "0WBk4ai8y1A",
-      "channel_title": "Warp",
-      "description": "Request early access: warp.dev/factories/request-access Warp Factories provide flexible, open infrastructure to accelerate ...",
-      "published_at": "2026-08-18T14:58:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0WBk4ai8y1A/hqdefault.jpg"
-    },
-    {
-      "title": "Introducing the Warp Agent CLI: a coding agent that does what others can&#39;t",
-      "video_id": "8jDz-1l88K8",
-      "channel_title": "Warp",
-      "description": "Today we are excited to launch the Warp Agent CLI, a new standalone CLI that lets you use the Warp Agent anywhere. It's the ...",
-      "published_at": "2026-08-04T13:54:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8jDz-1l88K8/hqdefault.jpg"
-    },
-    {
-      "title": "This is going to REPLACE Claude Code",
-      "video_id": "XKzoeBc8jgs",
-      "channel_title": "Warp",
-      "description": "ai #coding #startup Watch the full recording: ...",
-      "published_at": "2026-07-15T15:00:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XKzoeBc8jgs/hqdefault.jpg"
     }
   ]
 }
