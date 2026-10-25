@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-10-18T03:38:59.035769",
+  "fetched_at": "2026-10-25T03:47:00.727218",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Every Dream Deserves A Shot",
+      "video_id": "mZ1IcqsaTwg",
+      "channel_title": "Meta",
+      "description": "It doesn't matter who you are, where you're from, or what you're up against — Meta gives everyone the tools to take their shot.",
+      "published_at": "2026-10-23T19:16:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mZ1IcqsaTwg/hqdefault.jpg"
+    },
+    {
+      "title": "The Future Is for Everyone: Sensing Art with AI Glasses",
+      "video_id": "WFxgq6HWT0k",
+      "channel_title": "Meta",
+      "description": "At Milan's Pinacoteca di Brera, AI glasses are helping people who are blind or have low vision experience eight masterpieces ...",
+      "published_at": "2026-10-23T19:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WFxgq6HWT0k/hqdefault.jpg"
+    },
+    {
+      "title": "Reel of the Week: Faridi (@faridisartwork)",
+      "video_id": "FWY4Trijf7o",
+      "channel_title": "Meta",
+      "description": "Faridi (@faridisartwork) is an artist, muralist, and live wedding painter who brings large-scale art to life by using Meta Quest 3 as ...",
+      "published_at": "2026-10-22T16:31:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FWY4Trijf7o/hqdefault.jpg"
+    },
+    {
+      "title": "Azzi Fudd Basketball Camp Builds Community using Instagram and Facebook",
+      "video_id": "Mw2-d-hV0_M",
+      "channel_title": "Meta",
+      "description": "you know Azzi Fudd on the court, but what you may not know is that she's hosted the Azzi Fudd Basketball Camp for ten years for ...",
+      "published_at": "2026-10-21T16:57:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Mw2-d-hV0_M/hqdefault.jpg"
+    },
+    {
+      "title": "From Sketch to Scale: How Our Teams Built Meta VR Glasses",
+      "video_id": "29jCT5zL_O0",
+      "channel_title": "Meta",
+      "description": "Get an inside look at the hardware engineering and industrial design driving our all-new Meta VR Glasses. See how our team is ...",
+      "published_at": "2026-10-19T22:40:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/29jCT5zL_O0/hqdefault.jpg"
+    },
     {
       "title": "Inside the Making of Meta VR Glasses",
       "video_id": "ca6EzNHSHRg",
@@ -43,46 +83,6 @@
       "description": "meet Meta VR Glasses. the result of more than a decade of innovation—a cinema, stadium, workspace, and console. all lighter ...",
       "published_at": "2026-09-30T16:11:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/X2duObJWK5k/hqdefault.jpg"
-    },
-    {
-      "title": "George Russell x Muse",
-      "video_id": "Mgd07SgjC8c",
-      "channel_title": "Meta",
-      "description": "George knows a thing or two about the hustle. Meet Muse, the personal AI agent that hustles for you.",
-      "published_at": "2026-09-29T13:59:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Mgd07SgjC8c/hqdefault.jpg"
-    },
-    {
-      "title": "Everything you missed at Meta Connect 2026",
-      "video_id": "Xr-EDQ5w-DI",
-      "channel_title": "Meta",
-      "description": "everything we just announced in three minutes. check out a future that's for everyone. #metaconnect.",
-      "published_at": "2026-09-28T21:38:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xr-EDQ5w-DI/hqdefault.jpg"
-    },
-    {
-      "title": "All the latest on Meta Glasses",
-      "video_id": "MfToE6Umn1w",
-      "channel_title": "Meta",
-      "description": "so many styles and even more ways AI can help you, hands-free. even lighter, with the longest battery life to date. #metaconnect.",
-      "published_at": "2026-09-28T03:52:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MfToE6Umn1w/hqdefault.jpg"
-    },
-    {
-      "title": "Meta Connect Key Beats",
-      "video_id": "bMe04_HLTNU",
-      "channel_title": "Meta",
-      "description": "key beats from Meta Connect in case you missed it.",
-      "published_at": "2026-09-26T19:59:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bMe04_HLTNU/hqdefault.jpg"
-    },
-    {
-      "title": "Meta Connect Recap — Soundtracked",
-      "video_id": "VD_z4f29xw0",
-      "channel_title": "Meta",
-      "description": "Make some noise for Meta Connect. So many exciting announcements, so naturally, they needed a soundtrack. From personal ...",
-      "published_at": "2026-09-26T18:42:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/VD_z4f29xw0/hqdefault.jpg"
     }
   ]
 }

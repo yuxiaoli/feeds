@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-10-18T03:39:18.110859",
+  "fetched_at": "2026-10-25T03:47:19.878976",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "双面田柯宇：字节实习生投毒的罗生门 ​| 字节跳动 | 田柯宇 | 字节投毒实习生 | NeurIPS最佳论文 | VAR | 算力竞争 | 五源资本 | Goku | 索赔800万",
-      "video_id": "vG5_Ul2r-Xc",
+      "title": "黄仁勋GTC柏林2026：AI不是软件，是制造业 | GTC柏林2026 | 英伟达 | AI工厂 | OpenShell | DSX Pod | Hyperion | MicroDuck",
+      "video_id": "0y-tXzs1phc",
       "channel_title": "最佳拍档",
-      "description": "本期内容复盘AI圈近年最具戏剧性的罗生门事件：NeurIPS 2024最佳论文第一作者田柯宇，在播客中首次完整讲述\"字节投毒实习生\" ...",
-      "published_at": "2026-10-17T12:00:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vG5_Ul2r-Xc/hqdefault.jpg"
+      "description": "2026年10月黄仁勋在柏林GTC首次欧洲主场演讲，抛出核心判断：AI不是软件，而是制造业。十年间英伟达通过极致协同设计实现AI ...",
+      "published_at": "2026-10-24T12:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0y-tXzs1phc/hqdefault.jpg"
     },
     {
-      "title": "【分享】特斯拉Roadster之后，收费站估计也要升级了",
-      "video_id": "forMznmQswA",
+      "title": "DeepSeek 开源推理引擎DeepInfer | 推理框架开源 | 推理引擎 | V4.1 Flash |KV缓存 | 集群调度 | 3FS | PD分离 | 投机解码",
+      "video_id": "RNdnfCpQTZU",
+      "channel_title": "最佳拍档",
+      "description": "10月20日，DeepSeek 开源线上推理框架DeepInfer 与协议编解码组件deepseek-recipe，同时公开了单集群155万亿Token、每卡每 ...",
+      "published_at": "2026-10-23T12:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RNdnfCpQTZU/hqdefault.jpg"
+    },
+    {
+      "title": "AI是怎么思考的：Anthropic研究员打开黑箱 | Claude | 可解释性 | Emmanuel Ameisen | Lenny Podcast | 语言模型 | 预训练 | 缩放定律",
+      "video_id": "TI0mVVUcQEQ",
+      "channel_title": "最佳拍档",
+      "description": "本期节目解读Anthropic可解释性研究员Emmanuel Ameisen在Lenny Podcast访谈中的核心发现：大模型能力是\"长出来\"而非设计 ...",
+      "published_at": "2026-10-23T00:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TI0mVVUcQEQ/hqdefault.jpg"
+    },
+    {
+      "title": "丘成桐：数学家与一个功利时代 | 菲尔兹奖 | 王虹 | 邓煜 | 中国数学 | 求真书院 | 院士制度 | 奥数 | 好奇心 | 无用之用 | 基础科学 | 人工智能 | 纳维斯托克斯方程",
+      "video_id": "vP3R-XsS1zU",
+      "channel_title": "最佳拍档",
+      "description": "77岁的菲尔兹奖得主丘成桐，2026年两位中国数学家获奖后公开希望他们回国，却因\"你当年为什么不回来\"被质疑。他在《 ...",
+      "published_at": "2026-10-22T12:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vP3R-XsS1zU/hqdefault.jpg"
+    },
+    {
+      "title": "【分享】宇树Unitree发布了新机器人， H2-X 功夫传奇守护者，就问这一套连招下来你怕不怕😂",
+      "video_id": "1TP1JubiboA",
       "channel_title": "最佳拍档",
       "description": "",
-      "published_at": "2026-10-17T04:51:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/forMznmQswA/hqdefault.jpg"
+      "published_at": "2026-10-22T01:09:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1TP1JubiboA/hqdefault.jpg"
     },
     {
-      "title": "Anthropic重构版本控制：AI编程压垮Git​ | Claude | Scion | Git | 版本控制 | AI编程 | 代码仓库 | 软件工程 | 代码审查 | CI/CD | 开发者工具",
-      "video_id": "mKbpD9KfKfY",
+      "title": "奇点已至：AI 四年内把美国 GDP 推向 44 万亿美元​ | AI奇点 | Jack Clark | Anthropic | AI推动GDP | 人类最终测试 | 前沿数学测试 | 理论物理评估",
+      "video_id": "XEVU4NnWSG0",
       "channel_title": "最佳拍档",
-      "description": "AI编程的爆发让Anthropic的代码合并量从5月的每天2500次暴涨到9月的超3万次，Git为人类离线开发设计的架构被每天2500万次检 ...",
-      "published_at": "2026-10-17T00:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mKbpD9KfKfY/hqdefault.jpg"
+      "description": "Anthropic 联合创始人杰克·克拉克（Jack Clark）在国际货币基金组织与世界银行年会上给出一个激进推演：在类似奇点的假定条件下 ...",
+      "published_at": "2026-10-21T12:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XEVU4NnWSG0/hqdefault.jpg"
     },
     {
-      "title": "诺奖得主阿西莫格鲁：AI应成为提升人类生产力的工具​ | 诺贝尔经济学奖 | AI替代人工 | 赋能劳动者AI | 智能体 | AGI | AI应用落地 | 锯齿状前沿 | 人机协作 | 高质量数据",
-      "video_id": "qZBaRWlX_WQ",
+      "title": "Codex 逆袭：从失败到 ChatGPT 底座​ | OpenAI | ChatGPT | GPT-5 | Claude Code | o1 | 思维链 | 创新者的窘境 | Sam Altman",
+      "video_id": "DVYJ1nm7RnE",
       "channel_title": "最佳拍档",
-      "description": "2024年诺贝尔经济学奖得主、麻省理工学院经济学家阿西莫格鲁在专访中提出反常识判断：单纯用AI替代人类员工，往往是一笔糟糕 ...",
-      "published_at": "2026-10-16T12:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qZBaRWlX_WQ/hqdefault.jpg"
+      "description": "本期复盘OpenAI 的Codex 如何从一次失败的云端产品，逆袭成为ChatGPT 的底座。故事从GPT-5 发布前夜讲起，串起三代计算范式 ...",
+      "published_at": "2026-10-21T00:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DVYJ1nm7RnE/hqdefault.jpg"
     },
     {
-      "title": "【分享】特斯拉发布全新的Roadster跑车 | 汽车真的飞起来了",
-      "video_id": "O-zv05DsikE",
+      "title": "AI 不是黑箱，99% 神经元清晰可见​ | AI可解释性 | 神经网络 | 稀疏自编码器 | SAE | 叠加假说 | 递归泛化 | 机制可解释性 | AI对齐 | InceptionV1",
+      "video_id": "LMm7QCoieMc",
       "channel_title": "最佳拍档",
-      "description": "特斯拉发布全新的Roadster跑车。包括三个版本：Performance 是双座公路版，Thrust 是双座推进增强版，Rocket 是单座邀请制 ...",
-      "published_at": "2026-10-16T08:59:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O-zv05DsikE/hqdefault.jpg"
+      "description": "AI 可解释性领域流传十年的\"猫车神经元\"经典案例，被当年亲手把它写进里程碑论文《Zoom In》的作者尼克·卡马拉塔（Nick ...",
+      "published_at": "2026-10-20T00:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LMm7QCoieMc/hqdefault.jpg"
     },
     {
-      "title": "AI 能让手机再次有趣吗？高通 CEO 谈端侧算力 | 高通 | 骁龙 | 端侧算力 | 混合计算 | Cristiano Amon | 智能眼镜 | 6G | Modular | 端云协同",
-      "video_id": "AUw787LA3j8",
+      "title": "黄仁勋算账：AI收入撑得起几万亿美元的资本开支吗​ | 黄仁勋 | 英伟达 | AI泡沫 | 资本开支 | AI基建 | 数据中心 | OpenAI | Anthropic | 太空数据中心",
+      "video_id": "8IOqkjte3no",
       "channel_title": "最佳拍档",
-      "description": "本期解读高通CEO 克里斯蒂亚诺·安蒙在Sources 播客中的深度访谈。安蒙指出中美AI 落地路径差异显著，中国侧重终端设备渗透， ...",
-      "published_at": "2026-10-15T12:18:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AUw787LA3j8/hqdefault.jpg"
+      "description": "黄仁勋第三次做客BG2 Pod，正面回应市场最焦虑的问题：AI收入撑不撑得起几万亿美元的资本开支？他认为市场盯错了地方，不该 ...",
+      "published_at": "2026-10-19T12:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8IOqkjte3no/hqdefault.jpg"
     },
     {
-      "title": "AI的底层真相：1100个大模型指向同一子空间 | 通用权重子空间假设 | LoRA |  HOSVD | 海森矩阵 | 戴维斯-卡汉界| HumanEval | StyleGAN2",
-      "video_id": "OMpobdckB3c",
+      "title": "H-JEPA开源 | Yann LeCun世界模型创业交卷 | 杨立昆 | 世界模型 | JEPA | AMI | 大语言模型 | AGI | 具身智能 | 表征学习",
+      "video_id": "6eHi1hGKw_k",
       "channel_title": "最佳拍档",
-      "description": "本期视频解读约翰霍普金斯大学论文《通用权重子空间假设》：研究团队用HOSVD算法分析1200多个神经网络，发现不同任务、 ...",
-      "published_at": "2026-10-15T00:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OMpobdckB3c/hqdefault.jpg"
-    },
-    {
-      "title": "AI不会取代电影 | 本·阿弗莱克 | Netflix | InterPositive | Artists Equity | AI视频生成 | AI电影制作 | 马特·达蒙",
-      "video_id": "-5AErwVc5-E",
-      "channel_title": "最佳拍档",
-      "description": "本·阿弗莱克在GQ播客《One More Question》中完整复盘了自己创办AI公司InterPositive并被Netflix收购的经历。他从小痴迷 ...",
-      "published_at": "2026-10-14T12:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/-5AErwVc5-E/hqdefault.jpg"
-    },
-    {
-      "title": "前英特尔CEO：设计缩到3个月，物理世界仍要9个月​ | 帕特·基辛格 | 英特尔 | HBM | 芯片设计 | EDA | 先进封装 | 数据中心 | 光模块 | 存内计算 | 英伟达",
-      "video_id": "A7_9AMaMDQs",
-      "channel_title": "最佳拍档",
-      "description": "英特尔前CEO帕特·基辛格做客a16z播客，谈为什么现在是做硬件最好的时机。核心观点：AI让芯片设计缩到3个月，但流片、封装、 ...",
-      "published_at": "2026-10-14T00:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/A7_9AMaMDQs/hqdefault.jpg"
-    },
-    {
-      "title": "精神病学动荡史：从疯人院到百忧解 | 精神疾病 | 疯人院 | 脑白质切除术 | 电休克疗法 | 弗洛伊德 | 认知行为疗法 | 抗精神病药 | 百忧解 | 安德鲁·斯卡尔 | 莱克斯·弗里德曼",
-      "video_id": "jZgKTeNW6a0",
-      "channel_title": "最佳拍档",
-      "description": "本期基于Lex Fridman播客第502期与精神病学史学家安德鲁·斯卡尔的深度对话，系统梳理了精神病学从疯人院时代到现代药物治疗 ...",
-      "published_at": "2026-10-13T12:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jZgKTeNW6a0/hqdefault.jpg"
+      "description": "图灵奖得主杨立昆创办的AMI公司发布分层世界模型H-JEPA并全面开源。该模型让每一层在自己的潜空间、自己的时间尺度上做预测 ...",
+      "published_at": "2026-10-18T10:29:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6eHi1hGKw_k/hqdefault.jpg"
     }
   ]
 }

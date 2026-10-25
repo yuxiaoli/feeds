@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-18T03:39:39.507549",
+  "fetched_at": "2026-10-25T03:47:41.201169",
   "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
   "channel_title": "Figure",
   "count": 10,
   "videos": [
+    {
+      "title": "Figure All Hands 2026",
+      "video_id": "AoFwpf43wK0",
+      "channel_title": "Figure",
+      "description": "",
+      "published_at": "2026-10-22T15:31:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AoFwpf43wK0/hqdefault.jpg"
+    },
     {
       "title": "F.02 Decomission",
       "video_id": "pfAh5oQDPDM",
@@ -75,14 +83,6 @@
       "description": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT.",
       "published_at": "2026-05-23T01:40:25Z",
       "thumbnail_url": "https://i.ytimg.com/vi/bxCUVfXUzrQ/hqdefault.jpg"
-    },
-    {
-      "title": "F.03 Livestream: Day 3 (Hour 48-60)",
-      "video_id": "LewqAffahfQ",
-      "channel_title": "Figure",
-      "description": "Replay of the F.03 Livestream that started May 13, 2026 at 10AM PT.",
-      "published_at": "2026-05-22T13:48:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LewqAffahfQ/hqdefault.jpg"
     }
   ]
 }

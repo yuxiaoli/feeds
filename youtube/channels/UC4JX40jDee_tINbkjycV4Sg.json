@@ -1,9 +1,81 @@
 {
-  "fetched_at": "2026-10-18T03:39:05.551559",
+  "fetched_at": "2026-10-25T03:47:07.634352",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
+    {
+      "title": "Learn 99% Of Claude Code in One Video",
+      "video_id": "3TwbE7gv6qo",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with Claude Code: https://clau.de/TechWithTim Most people install Claude Code, type a prompt, and never touch the ...",
+      "published_at": "2026-10-24T14:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3TwbE7gv6qo/hqdefault.jpg"
+    },
+    {
+      "title": "Chatbot vs Agent",
+      "video_id": "Hgk9RtJoTSQ",
+      "channel_title": "Tech With Tim",
+      "description": "What's the real difference between a chatbot and an AI agent? A chatbot answers your question and stops. An agent gets a goal ...",
+      "published_at": "2026-10-24T12:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Hgk9RtJoTSQ/hqdefault.jpg"
+    },
+    {
+      "title": "Understand Base44 in 15 Minutes",
+      "video_id": "5h4qzPxXIqc",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with Base44 for free: https://base44.pxf.io/QYrkgP Base44 is the AI app builder that one guy bootstrapped to an $80 ...",
+      "published_at": "2026-10-23T14:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5h4qzPxXIqc/hqdefault.jpg"
+    },
+    {
+      "title": "I Built a Real Data App with Claude Code (and It Cost $0)",
+      "video_id": "3rgd2Xx5ceg",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with a Databricks free account: https://www.databricks.com/learn/free-edition Most AI coding videos end with an app ...",
+      "published_at": "2026-10-21T14:00:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3rgd2Xx5ceg/hqdefault.jpg"
+    },
+    {
+      "title": "Which AI Agent Should You Actually Use",
+      "video_id": "8Inu1FNd8mc",
+      "channel_title": "Tech With Tim",
+      "description": "There are now so many AI agents that nobody can keep track, and new ones drop almost daily. They all claim to be autonomous, ...",
+      "published_at": "2026-10-21T12:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8Inu1FNd8mc/hqdefault.jpg"
+    },
+    {
+      "title": "Why Your Local AI Is Slow",
+      "video_id": "5J6OXXe4SeM",
+      "channel_title": "Tech With Tim",
+      "description": "Here's the thing nobody tells you about local AI speed: for every single token a model generates, it rereads itself entirely from ...",
+      "published_at": "2026-10-20T12:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5J6OXXe4SeM/hqdefault.jpg"
+    },
+    {
+      "title": "VRAM Explained What Decides If a Model Fits",
+      "video_id": "Dpg7pcPa4WE",
+      "channel_title": "Tech With Tim",
+      "description": "Can your machine run that AI model? It comes down to capacity, the fast memory your GPU can reach. On Windows that's VRAM ...",
+      "published_at": "2026-10-19T12:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Dpg7pcPa4WE/hqdefault.jpg"
+    },
+    {
+      "title": "Build a Multimodal AI App in Python (Beginner Project)",
+      "video_id": "aypkvuGFq5Y",
+      "channel_title": "Tech With Tim",
+      "description": "Get started with OpenRouter here: https://openrouter.plug.dev/DQFLEpP Speak to your computer, tell it what you want to create, ...",
+      "published_at": "2026-10-18T14:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aypkvuGFq5Y/hqdefault.jpg"
+    },
+    {
+      "title": "Why You Can’t Run That AI Model",
+      "video_id": "LLFpLVvK9Dk",
+      "channel_title": "Tech With Tim",
+      "description": "Why can't you run an AI model even when you have enough storage? Because an AI model is just billions of numbers, and \"8B\" ...",
+      "published_at": "2026-10-18T12:00:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LLFpLVvK9Dk/hqdefault.jpg"
+    },
     {
       "title": "Mac or PC for AI Models",
       "video_id": "3Cwnie5_3aw",
@@ -11,78 +83,6 @@
       "description": "Mac or PC for running local AI models, which should you actually buy? Using real benchmarks across Mac, PC, and NVIDIA's ...",
       "published_at": "2026-10-17T12:00:14Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3Cwnie5_3aw/hqdefault.jpg"
-    },
-    {
-      "title": "The Most Underrated Tool for AI Agents Right Now",
-      "video_id": "c2QukPONnfE",
-      "channel_title": "Tech With Tim",
-      "description": "Get started with Apify and use code TIM25 for $25 in free credits: https://apify.it/4xGIvHG Most AI agents are only as good as the ...",
-      "published_at": "2026-10-16T14:05:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/c2QukPONnfE/hqdefault.jpg"
-    },
-    {
-      "title": "Proof Beats Claims Build This to Stand Out in Interviews",
-      "video_id": "QGBJ5T63Txw",
-      "channel_title": "Tech With Tim",
-      "description": "How do you actually back up your skills in an interview? Don't just say \"I know XYZ\", say \"I know XYZ because I did it in this project ...",
-      "published_at": "2026-10-16T12:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/QGBJ5T63Txw/hqdefault.jpg"
-    },
-    {
-      "title": "3 Jobs My Team Handed to Viktor, Our AI Employee",
-      "video_id": "AjTF6FUp9to",
-      "channel_title": "Tech With Tim",
-      "description": "Hire Viktor for your team: https://ref.viktor.com/techwithtim-yt. Code TECHWITHTIM100: $100 of his work free, no credit card.",
-      "published_at": "2026-10-15T14:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AjTF6FUp9to/hqdefault.jpg"
-    },
-    {
-      "title": "The AI Skills Python Developers Need to Stand Out",
-      "video_id": "ImvxN0-27R0",
-      "channel_title": "Tech With Tim",
-      "description": "What AI skills do Python jobs actually want now? This layer isn't about using AI tools, it's about building AI features into products.",
-      "published_at": "2026-10-15T12:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ImvxN0-27R0/hqdefault.jpg"
-    },
-    {
-      "title": "I Had Opus 5.5 Build me 3 Apps at Every Effort Level",
-      "video_id": "1J_zOJlBPGc",
-      "channel_title": "Tech With Tim",
-      "description": "Go to https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for boot.dev.",
-      "published_at": "2026-10-14T14:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1J_zOJlBPGc/hqdefault.jpg"
-    },
-    {
-      "title": "Building With AI vs Building AI",
-      "video_id": "dIPXSa3czi4",
-      "channel_title": "Tech With Tim",
-      "description": "What does \"building with AI\" actually mean for developers? There are two layers, and they're different skills. Layer one is building ...",
-      "published_at": "2026-10-14T11:34:46Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/dIPXSa3czi4/hqdefault.jpg"
-    },
-    {
-      "title": "Hobbyist vs Professional",
-      "video_id": "Gxt7JXVLkzI",
-      "channel_title": "Tech With Tim",
-      "description": "What separates hobbyist coders from professional developers? Testing and debugging. On a real job you write far less new code ...",
-      "published_at": "2026-10-13T12:00:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Gxt7JXVLkzI/hqdefault.jpg"
-    },
-    {
-      "title": "From working agent to paid implementation",
-      "video_id": "6oA95Xzl9gA",
-      "channel_title": "Tech With Tim",
-      "description": "Wondering how to start a business in AI? On October 13–14, I'm showing you the technical system, business model, and path to ...",
-      "published_at": "2026-10-12T11:34:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6oA95Xzl9gA/hqdefault.jpg"
-    },
-    {
-      "title": "The API Skill Every Python Developer Needs",
-      "video_id": "enJeKfePoOc",
-      "channel_title": "Tech With Tim",
-      "description": "What's one skill that fits you into almost any dev team? APIs. Modern software engineering is really just connecting systems ...",
-      "published_at": "2026-10-11T12:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/enJeKfePoOc/hqdefault.jpg"
     }
   ]
 }

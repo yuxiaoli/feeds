@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-10-18T03:39:23.727957",
+  "fetched_at": "2026-10-25T03:47:25.465653",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "AI助理争夺战：解析Muse、Grok Bot与Instinct背后的产品布局、入口生意与盈利难题",
+      "video_id": "ARocqV7DtC8",
+      "channel_title": "硅谷101",
+      "description": "10月21日，Anthropic发布了Claude Duet：AI不只等着回答问题，还能主动提醒、在后台持续处理任务。从卖二手家具、订机票， ...",
+      "published_at": "2026-10-22T23:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ARocqV7DtC8/hqdefault.jpg"
+    },
+    {
+      "title": "智能体手机加速爆发？换机困境、端侧AI与下一代入口之争",
+      "video_id": "l_Yc7YeBSxc",
+      "channel_title": "硅谷101",
+      "description": "本期视频由高通赞助播出。 2026年，AI智能体手机的发展突然开始加速，苹果、谷歌、OpenAI纷纷下场，国内手机厂商也在密集 ...",
+      "published_at": "2026-10-20T23:30:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l_Yc7YeBSxc/hqdefault.jpg"
+    },
+    {
+      "title": "再访Dyna Robotics：被部署教训了300天后，找到机器人Scaling Law【101视频播客】",
+      "video_id": "pC3QbOu7_s4",
+      "channel_title": "硅谷101",
+      "description": "Dyna Robotics发布Dyna-2称，机器人通过100万小时人类第一人称视角数据找到了Scaling Law的曙光。 最近，《纽约邮报》 ...",
+      "published_at": "2026-10-19T00:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pC3QbOu7_s4/hqdefault.jpg"
+    },
     {
       "title": "美光崛起背后：美国内存“独苗”的生存战、资本博弈与AI重生",
       "video_id": "nuD-P-AFjG0",
@@ -29,6 +53,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2pZ9Gl7qVUo/hqdefault.jpg"
     },
     {
+      "title": "AI开始预测人类：83亿虚拟人格、数字社会，与一门押注未来的生意｜解析AI预测模型｜AI prediction model",
+      "video_id": "--ePbkaRwl4",
+      "channel_title": "硅谷101",
+      "description": "如果AI不仅能回答问题，还能“复制”人类、模拟社会，甚至把尚未发生的未来提前跑一遍，会发生什么？ 从只有25个Agent的“斯坦福 ...",
+      "published_at": "2026-09-10T00:29:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/--ePbkaRwl4/hqdefault.jpg"
+    },
+    {
       "title": "机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争｜机器人系列",
       "video_id": "BmcoQDwdkeM",
       "channel_title": "硅谷101",
@@ -51,38 +83,6 @@
       "description": "一个模型被问：“会织网的动物有几条腿？”它回答8。问题里没有出现“蜘蛛”，但模型内部其实已经判断这个动物是蜘蛛。研究者没有 ...",
       "published_at": "2026-08-26T23:00:13Z",
       "thumbnail_url": "https://i.ytimg.com/vi/J5_90lWxM_o/hqdefault.jpg"
-    },
-    {
-      "title": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险",
-      "video_id": "89ThCi5qq-A",
-      "channel_title": "硅谷101",
-      "description": "2026年还没过完八月，美国五大科技巨头已经发了2081亿美元公司债，是2024年全年的十二倍。钱借来了，数据中心也在盖，可翻 ...",
-      "published_at": "2026-08-21T15:06:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/89ThCi5qq-A/hqdefault.jpg"
-    },
-    {
-      "title": "对话前DeepMind曹原：AI for Science爆发，一个新时代到来了",
-      "video_id": "H35nVgNGyo8",
-      "channel_title": "硅谷101",
-      "description": "8月第一周，谷歌灵魂人物Jeff Dean带着其他几位高管离开Google，创办Discovery Loop，将目光投向AI for Science。当大模型学会 ...",
-      "published_at": "2026-08-15T12:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H35nVgNGyo8/hqdefault.jpg"
-    },
-    {
-      "title": "从DeepSeek、Kimi到“黄仁勋联盟”：AI模型开源，到底“开”了什么？",
-      "video_id": "NEHcGq80GQ0",
-      "channel_title": "硅谷101",
-      "description": "DeepSeek、智谱、Kimi接连掀起热潮，黄仁勋亲自下场推动开放模型联盟，AI行业的“开放”正在从中国模型厂商的突围，演变成一场 ...",
-      "published_at": "2026-08-13T03:24:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NEHcGq80GQ0/hqdefault.jpg"
-    },
-    {
-      "title": "挑战GPU、绕过HBM，深挖史上最大芯片背后的Cerebras",
-      "video_id": "l5K_icg5JQA",
-      "channel_title": "硅谷101",
-      "description": "在整个AI行业疯抢HBM的时候，有一家芯片公司，选择了一条不同的路线。 2026年5月，Cerebras登陆纳斯达克，上市首日股价 ...",
-      "published_at": "2026-08-07T02:32:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l5K_icg5JQA/hqdefault.jpg"
     }
   ]
 }

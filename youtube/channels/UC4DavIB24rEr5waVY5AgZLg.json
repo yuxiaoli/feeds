@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-18T03:39:04.735712",
+  "fetched_at": "2026-10-25T03:47:06.874621",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Space Mountain at Disneyland Paris: Two Imagineers Talk Past &amp; Future | D23 Center Stage",
+      "video_id": "jzU6eKAxL6k",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Three... two... one... liftoff! Two Imagineers, one legendary mountain. Portfolio Executive Creative Director Michel Den Dulk and ...",
+      "published_at": "2026-10-21T18:07:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jzU6eKAxL6k/hqdefault.jpg"
+    },
     {
       "title": "Let there be light! And a DMX system!!!",
       "video_id": "5uJoNrmUfaI",
@@ -75,14 +83,6 @@
       "description": "Step behind the scenes with Disney Live Entertainment as our team programs and rehearses with Solara, the Enchanted Pumpkin ...",
       "published_at": "2026-09-10T17:20:56Z",
       "thumbnail_url": "https://i.ytimg.com/vi/aBT7QR65dlk/hqdefault.jpg"
-    },
-    {
-      "title": "The Magic of Disney Animation Imagineering Easter Egg Tour",
-      "video_id": "GW86N0mc8lI",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "The Magic of Disney Animation at Disney's Hollywood Studios is filled with experiences that help further the story of the short ...",
-      "published_at": "2026-09-09T12:15:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GW86N0mc8lI/hqdefault.jpg"
     }
   ]
 }

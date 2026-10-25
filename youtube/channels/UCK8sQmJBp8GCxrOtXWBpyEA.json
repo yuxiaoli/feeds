@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-10-18T03:39:21.634427",
+  "fetched_at": "2026-10-25T03:47:23.351378",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
   "count": 10,
   "videos": [
+    {
+      "title": "Avengers fans assemble ⚡",
+      "video_id": "I7Nlw9rSCeo",
+      "channel_title": "Google",
+      "description": "How well do you really know the Marvel universe? Search “Avengers: Doomsday” on Google to see if you can ace the quiz.",
+      "published_at": "2026-10-23T16:03:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I7Nlw9rSCeo/hqdefault.jpg"
+    },
+    {
+      "title": "Giannis x Google Search: Miami Pickup Hoops",
+      "video_id": "WMjVP7QQyDI",
+      "channel_title": "Google",
+      "description": "For @GiannisAntetokounmpo getting to know Miami starts with the hoops. Let's see if Google Search can help him find the best ...",
+      "published_at": "2026-10-20T14:32:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WMjVP7QQyDI/hqdefault.jpg"
+    },
+    {
+      "title": "Turn messy notes into clean PDFs with Google Search ✨",
+      "video_id": "yI5C7LqBVEM",
+      "channel_title": "Google",
+      "description": "Upload your handwritten notes and ask Google Search to generate a study guide outlining all the important concepts.",
+      "published_at": "2026-10-19T16:01:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yI5C7LqBVEM/hqdefault.jpg"
+    },
+    {
+      "title": "Who could it be? 🧐",
+      "video_id": "RcEmV2BB_XE",
+      "channel_title": "Google",
+      "description": "Float over to AI Mode and search to reveal.",
+      "published_at": "2026-10-18T15:59:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RcEmV2BB_XE/hqdefault.jpg"
+    },
     {
       "title": "The WNBA Finals are on 🔥",
       "video_id": "lns1MoLvttU",
@@ -45,44 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/vCiOLi-NDic/hqdefault.jpg"
     },
     {
-      "title": "Time for WNBA Playoffs 🔥",
-      "video_id": "aSV48uAywcg",
+      "title": "Making sure AI chips don’t overheat in space",
+      "video_id": "ktdbUIZKeSE",
       "channel_title": "Google",
-      "description": "WNBA Playoffs are here Follow your favorite teams with Google.",
-      "published_at": "2026-09-29T13:31:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aSV48uAywcg/hqdefault.jpg"
-    },
-    {
-      "title": "Come with us to the Lucas Museum 🎒🏛️🖼️",
-      "video_id": "_fTT7TEOBH8",
-      "channel_title": "Google",
-      "description": "What happens when you get early access to LA's newest museum before the doors open? Here's a look behind the camera.",
-      "published_at": "2026-09-28T16:31:41Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_fTT7TEOBH8/hqdefault.jpg"
-    },
-    {
-      "title": "It’s Google’s birthday!",
-      "video_id": "3_hg2lYDvf0",
-      "channel_title": "Google",
-      "description": "Celebrating 28 years of curiosity, learning, and discovery. Today's #GoogleDoodle celebrates with a beloved throwback logo ...",
-      "published_at": "2026-09-27T16:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3_hg2lYDvf0/hqdefault.jpg"
-    },
-    {
-      "title": "So what’s inside the Lucas Museum? 🖼️👀",
-      "video_id": "wJOrgRepk_U",
-      "channel_title": "Google",
-      "description": "From classic illustrations and comic books to a few familiar friends, Senior Curator Ryan Linkof answers all your FAQs about the ...",
-      "published_at": "2026-09-26T15:35:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wJOrgRepk_U/hqdefault.jpg"
-    },
-    {
-      "title": "Can pigs breathe through their 🍑?",
-      "video_id": "cdt6BB7VAu8",
-      "channel_title": "Google",
-      "description": "We answer this and other trending swine-related questions at the @iastatefair with resident pig expert Ernie Barnes.",
-      "published_at": "2026-09-25T22:03:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cdt6BB7VAu8/hqdefault.jpg"
+      "description": "Project Suncatcher is Google's moonshot to launch solar-powered AI into Earth's orbit. But operating TPU clusters in space ...",
+      "published_at": "2026-09-30T16:07:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ktdbUIZKeSE/hqdefault.jpg"
     }
   ]
 }

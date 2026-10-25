@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-18T03:39:35.252661",
+  "fetched_at": "2026-10-25T03:47:36.908491",
   "channel_id": "UCW6TXMZ5Pq6yL6_k5NZ2e0Q",
   "channel_title": "Socratica",
   "count": 10,
   "videos": [
+    {
+      "title": "How did they &quot;SEE&quot; a Black Hole? #Astronomy",
+      "video_id": "PmFz1a0UgYw",
+      "channel_title": "Socratica",
+      "description": "Full length Black Holes video: https://youtu.be/EuC-yVzHhMI Black Holes for Kids: Socratica Kids: http://bit.ly/BlackHoles4Kids The ...",
+      "published_at": "2026-10-19T10:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PmFz1a0UgYw/hqdefault.jpg"
+    },
     {
       "title": "Probability vs Statistics - How do you know which to use?",
       "video_id": "epKVYbu7aaw",
@@ -11,14 +19,6 @@
       "description": "SIGN UP for tastefully infrequent updates about our upcoming Probability & Statistics course.",
       "published_at": "2026-10-05T10:00:34Z",
       "thumbnail_url": "https://i.ytimg.com/vi/epKVYbu7aaw/hqdefault.jpg"
-    },
-    {
-      "title": "Socratica + Patreon = Everyone Gets to Learn 💜🦉",
-      "video_id": "ewp9UZoaiSs",
-      "channel_title": "Socratica",
-      "description": "Join our Socratica Friends on PATREON: https://www.patreon.com/socratica This year marks our 10 year anniversary on Patreon!",
-      "published_at": "2026-09-21T07:12:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ewp9UZoaiSs/hqdefault.jpg"
     },
     {
       "title": "Linear Algebra with NumPy: Matrices, Eigenvalues, SVD &amp; PCA",

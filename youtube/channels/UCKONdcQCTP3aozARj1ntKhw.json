@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-18T03:39:22.329826",
+  "fetched_at": "2026-10-25T03:47:24.048508",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "What it takes to build a software factory",
+      "video_id": "x-PK3yx_MJg",
+      "channel_title": "Warp",
+      "description": "Try Warp Factories: https://www.warp.dev/factories Software factories are the next step after interactive coding agents.",
+      "published_at": "2026-10-19T19:57:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/x-PK3yx_MJg/hqdefault.jpg"
+    },
     {
       "title": "How to make a software factory that&#39;s not expensive (full walkthrough)",
       "video_id": "XuvFo0q5TpU",
@@ -75,14 +83,6 @@
       "description": "We introduced Warp Factories this week: flexible, open infrastructure for companies building internal cloud software factories.",
       "published_at": "2026-08-21T09:26:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ZKWpzdych6o/hqdefault.jpg"
-    },
-    {
-      "title": "What&#39;s it like to work at Warp?",
-      "video_id": "Th3ShkzPtqQ",
-      "channel_title": "Warp",
-      "description": "We're hiring humans. The agents already work here. → https://www.warp.dev/careers.",
-      "published_at": "2026-08-19T16:24:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Th3ShkzPtqQ/hqdefault.jpg"
     }
   ]
 }

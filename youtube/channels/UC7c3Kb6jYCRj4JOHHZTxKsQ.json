@@ -1,16 +1,64 @@
 {
-  "fetched_at": "2026-10-18T03:39:07.870276",
+  "fetched_at": "2026-10-25T03:47:09.790696",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Track tokens and models with the My AI Usage Canvas | GitHub Copilot",
-      "video_id": "2xiyBnQFM20",
+      "title": "Open Source Friday: OpenClaw with Hannes Rudolph",
+      "video_id": "Xe0fZxAA-Ys",
       "channel_title": "GitHub",
-      "description": "Ever wonder how many tokens you use or which AI models you reach for the most? In this demo, explore the My AI Usage Canvas ...",
-      "published_at": "2026-10-17T15:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2xiyBnQFM20/hqdefault.jpg"
+      "description": "Hannes joins us to talk about OpenClaw, a local, open-source AI assistant. Come bring your questions on AI assistants, managing ...",
+      "published_at": "2026-10-24T06:31:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xe0fZxAA-Ys/hqdefault.jpg"
+    },
+    {
+      "title": "How to build and ship an AI agent in the GitHub Copilot app",
+      "video_id": "AT3EltQ4gTM",
+      "channel_title": "GitHub",
+      "description": "Go from a GitHub issue prompt to a deployed, production-ready AI agent without switching between browser tabs or cloud portals.",
+      "published_at": "2026-10-23T17:27:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AT3EltQ4gTM/hqdefault.jpg"
+    },
+    {
+      "title": "Stop waiting on pull request reviews with GitHub Copilot approvals",
+      "video_id": "exBCpV9eJnc",
+      "channel_title": "GitHub",
+      "description": "Waiting on a teammate just to get a routine pull request approved can stall team velocity. With delegated code review approvals, ...",
+      "published_at": "2026-10-22T15:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/exBCpV9eJnc/hqdefault.jpg"
+    },
+    {
+      "title": "Inside GitHub&#39;s September updates: Project HydraFusion, sandboxing, and PR approvals",
+      "video_id": "ZQ0Qq6LlAmI",
+      "channel_title": "GitHub",
+      "description": "In this episode, Andrea Griffiths sits down with Julia Kasper and Brady Gaster to break down the major platform updates shipped ...",
+      "published_at": "2026-10-21T16:53:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZQ0Qq6LlAmI/hqdefault.jpg"
+    },
+    {
+      "title": "Fix GitHub issues without leaving JetBrains IntelliJ using GitHub Copilot",
+      "video_id": "Y9dEqpQeD8w",
+      "channel_title": "GitHub",
+      "description": "Fix repository issues without ever leaving JetBrains IntelliJ. In this short video, learn how to install the GitHub Copilot plugin from ...",
+      "published_at": "2026-10-20T15:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y9dEqpQeD8w/hqdefault.jpg"
+    },
+    {
+      "title": "What&#39;s in your tech bag?",
+      "video_id": "WVHj-snTE0c",
+      "channel_title": "GitHub",
+      "description": "Grab a #GitHubUniverse pass to join us in-person October 28-29 or sign up to join us virtually: ...",
+      "published_at": "2026-10-19T22:06:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WVHj-snTE0c/hqdefault.jpg"
+    },
+    {
+      "title": "How GitHub uses AI agents to stress test new features",
+      "video_id": "zqvJ9YjZXqM",
+      "channel_title": "GitHub",
+      "description": "Before shipping new features like stacked pull requests, how does GitHub make sure nobody can break the system? In this clip ...",
+      "published_at": "2026-10-18T15:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zqvJ9YjZXqM/hqdefault.jpg"
     },
     {
       "title": "Open Source Friday: Spec Kit part 2",
@@ -35,54 +83,6 @@
       "description": "Want to manage your AI coding sessions without leaving your flow? In this video, we show you how the Logitech MX Keypad ...",
       "published_at": "2026-10-15T19:38:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EQeJj0hoPS8/hqdefault.jpg"
-    },
-    {
-      "title": "LangChain Deep Agents",
-      "video_id": "PkB6_nSI0Hc",
-      "channel_title": "GitHub",
-      "description": "Deep Agents is an open source agent harness — an opinionated agent that runs out of the box. Extend, override, or replace any ...",
-      "published_at": "2026-10-15T15:16:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PkB6_nSI0Hc/hqdefault_live.jpg"
-    },
-    {
-      "title": "What it takes to make stacked PRs a first-class feature on GitHub",
-      "video_id": "G4wZsbwztQI",
-      "channel_title": "GitHub",
-      "description": "From the outside, merging stacked pull requests might sound simple: just link related PRs together and merge them in sequence.",
-      "published_at": "2026-10-15T15:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G4wZsbwztQI/hqdefault.jpg"
-    },
-    {
-      "title": "How stacked PRs work behind the scenes at GitHub | S02E05 | The GitHub Podcast",
-      "video_id": "sbHoDdAalMI",
-      "channel_title": "GitHub",
-      "description": "In episode 5 of season 2 of The GitHub Podcast, Cassidy and Andrea welcome Sameen Karim, Senior Product Manager at ...",
-      "published_at": "2026-10-14T15:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sbHoDdAalMI/hqdefault.jpg"
-    },
-    {
-      "title": "Live Coding with Wes Bos, Burke Holland, Pierce Boggan &amp; Friends | GitHub Copilot Day",
-      "video_id": "ql_-cPc_ZYQ",
-      "channel_title": "GitHub",
-      "description": "Join Wes Bos, Burke Holland, and Pierce Boggan for two hours of live coding with GitHub Copilot. Watch as the team takes a 3D ...",
-      "published_at": "2026-10-10T15:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ql_-cPc_ZYQ/hqdefault.jpg"
-    },
-    {
-      "title": "ScreenMind: Vision, Audio &amp; Chat with Local AI | Open Source Friday",
-      "video_id": "N_cGKFGMxxc",
-      "channel_title": "GitHub",
-      "description": "What if one local AI model could understand your screen, transcribe meetings, and answer questions about what you've seen?",
-      "published_at": "2026-10-10T05:51:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/N_cGKFGMxxc/hqdefault.jpg"
-    },
-    {
-      "title": "How to run GitHub Copilot agent sessions across any device | GitHub Copilot Day",
-      "video_id": "KT6p0MNXoCE",
-      "channel_title": "GitHub",
-      "description": "Agent sessions shouldn't be locked into a single code editor or terminal window. Patrick Nikoletich explains how GitHub's shared ...",
-      "published_at": "2026-10-08T21:19:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KT6p0MNXoCE/hqdefault.jpg"
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-10-18T03:39:38.154883",
+  "fetched_at": "2026-10-25T03:47:39.825461",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "Put your dot on call",
-      "video_id": "GBOZIRK1ujw",
+      "title": "Hunt bugs with your dot",
+      "video_id": "6f7ojkd4_Wc",
       "channel_title": "OpenAI",
-      "description": "Ali, an engineer at OpenAI, used his dot to triage an on-call incident at 3am. His dot investigated the issue and started a Codex ...",
-      "published_at": "2026-10-16T21:43:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GBOZIRK1ujw/hqdefault.jpg"
+      "description": "We're using dots to build better dots. Rennie Song, an engineer at OpenAI, uses her dot to gather feedback from social media and ...",
+      "published_at": "2026-10-23T22:05:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6f7ojkd4_Wc/hqdefault.jpg"
     },
     {
-      "title": "Put ChatGPT to work on shared team tasks",
-      "video_id": "OMxEUdIgsQc",
+      "title": "From notes to AI training with ChatGPT Work | Realpage.",
+      "video_id": "7Cs5qyBlYQk",
       "channel_title": "OpenAI",
-      "description": "Set up recurring work your team can manage together with team tasks in ChatGPT. Follow a legal team's daily intake ...",
-      "published_at": "2026-10-16T18:00:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/OMxEUdIgsQc/hqdefault.jpg"
+      "description": "Austin Braham at Realpage. uses ChatGPT Work to turn ideas, notes and source materials into complete AI training packages ...",
+      "published_at": "2026-10-23T18:42:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7Cs5qyBlYQk/hqdefault.jpg"
     },
     {
-      "title": "Build more personal sites with Codex",
-      "video_id": "KJ_7KPKlO_Q",
+      "title": "How Realpage. builds AI training with ChatGPT Work",
+      "video_id": "hgX1hgyWD4g",
       "channel_title": "OpenAI",
-      "description": "Keep your team's Sites up to date and make them personal to each visitor. Connect scheduled tasks to refresh site data ...",
-      "published_at": "2026-10-15T20:48:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KJ_7KPKlO_Q/hqdefault.jpg"
+      "description": "At Realpage., Austin Braham creates AI training for different teams, roles and skill levels. He uses ChatGPT Work to turn ideas, ...",
+      "published_at": "2026-10-23T18:39:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hgX1hgyWD4g/hqdefault.jpg"
     },
     {
-      "title": "GPT-Live-1.1 has new voices and better accents.",
-      "video_id": "GyO8Ao7yKJc",
+      "title": "AI agents for everyday IT fixes | Shield and OpenAI",
+      "video_id": "2lNUGkCg_qc",
       "channel_title": "OpenAI",
-      "description": "New voices. Better accents. And less \"checking...\" GPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with ...",
-      "published_at": "2026-10-15T18:24:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GyO8Ao7yKJc/hqdefault.jpg"
+      "description": "Shield's AI agents use Astra to work directly in business software and handle routine IT fixes, giving technicians more time for ...",
+      "published_at": "2026-10-23T18:36:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2lNUGkCg_qc/hqdefault.jpg"
     },
     {
-      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
-      "video_id": "3IVo-MNwk2I",
+      "title": "How Shield uses OpenAI’s Astra to support IT teams",
+      "video_id": "m6MlxaFMmPI",
       "channel_title": "OpenAI",
-      "description": "Cybersecurity research, moving from weeks to hours. SentinelOne's Gregor Stewart describes OpenAI's cyber capabilities ...",
-      "published_at": "2026-10-15T14:13:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3IVo-MNwk2I/hqdefault.jpg"
+      "description": "When someone can't log in or get online, their IT team often has to put other work on hold. Shield is building Forge to help IT ...",
+      "published_at": "2026-10-23T18:34:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/m6MlxaFMmPI/hqdefault.jpg"
     },
     {
-      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
-      "video_id": "BOTAeAU5ExQ",
+      "title": "How AT&amp;T is building AI-powered legal workflows with OpenAI",
+      "video_id": "V39_L7uh66M",
       "channel_title": "OpenAI",
-      "description": "Cybersecurity research, moving from weeks to hours. SentinelOne's Gregor Stewart describes OpenAI's cyber capabilities ...",
-      "published_at": "2026-10-15T14:12:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BOTAeAU5ExQ/hqdefault.jpg"
+      "description": "AT&T's David McAtee and Bill Ryan describe how AI is changing their legal team's work—and what they plan to build with OpenAI ...",
+      "published_at": "2026-10-23T18:32:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/V39_L7uh66M/hqdefault.jpg"
     },
     {
-      "title": "Cooking up a catering business with ChatGPT",
-      "video_id": "PZxbaIp8PzE",
+      "title": "From analyst to builder with Codex | Benefit Street Partners",
+      "video_id": "qyGvwLgqmaU",
       "channel_title": "OpenAI",
-      "description": "Running a restaurant is a 24/7 commitment. And apparently finding catering clients is just as time-consuming. Nick Baumann ...",
-      "published_at": "2026-10-14T17:47:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/PZxbaIp8PzE/hqdefault.jpg"
+      "description": "Anant Kumar at Benefit Street Partners used Codex to build a tool that collects loan valuations from SEC filings and turns them ...",
+      "published_at": "2026-10-23T18:22:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qyGvwLgqmaU/hqdefault.jpg"
     },
     {
-      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
-      "video_id": "DTcK95TAZ-k",
+      "title": "How Benefit Street Partners is building financial analysis tools with Codex",
+      "video_id": "CTkDi1THc_g",
       "channel_title": "OpenAI",
-      "description": "Richard Lam, Group Vice President at Oracle Applications Lab, shares how his team uses Codex to help business users get ...",
-      "published_at": "2026-10-14T09:35:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DTcK95TAZ-k/hqdefault.jpg"
+      "description": "I've gone from being just an analyst and a portfolio manager to being a developer as well now. I can build things.” Benefit Street ...",
+      "published_at": "2026-10-23T18:20:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CTkDi1THc_g/hqdefault.jpg"
     },
     {
-      "title": "Work with your team in ChatGPT Space",
-      "video_id": "G-9Y2xNiDKQ",
+      "title": "Messi asks ChatGPT to teach him a chess opening",
+      "video_id": "RLQR5_5fJDA",
       "channel_title": "OpenAI",
-      "description": "Explore a shared place to work with people and ChatGPT. See how Space brings conversations, context and collaborative work ...",
-      "published_at": "2026-10-13T21:01:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G-9Y2xNiDKQ/hqdefault.jpg"
+      "description": "Messi asked ChatGPT to teach him a chess opening that matched his style. It suggested Goat Horns. Try ChatGPT's ...",
+      "published_at": "2026-10-22T21:58:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RLQR5_5fJDA/hqdefault.jpg"
     },
     {
-      "title": "Block on Finding and Fixing Security Risks with OpenAI",
-      "video_id": "9aDuSpVoB-Y",
+      "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
+      "video_id": "l16Gw7oVLNQ",
       "channel_title": "OpenAI",
-      "description": "Now you know and now you can take action before someone else knows.” A weakness in your code can be part of a much bigger ...",
-      "published_at": "2026-10-13T18:02:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/9aDuSpVoB-Y/hqdefault.jpg"
+      "description": "Following a 1000-person pilot, Uber is bringing ChatGPT Work to more than 30000 employees worldwide in its first company-wide ...",
+      "published_at": "2026-10-22T18:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/l16Gw7oVLNQ/hqdefault.jpg"
     }
   ]
 }

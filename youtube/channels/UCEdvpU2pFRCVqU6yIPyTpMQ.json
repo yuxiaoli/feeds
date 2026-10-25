@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-18T03:39:13.730666",
+  "fetched_at": "2026-10-25T03:47:15.639945",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
+    {
+      "title": "Marshmello Live at Pokémon Night Out (Intuit Dome - Los Angeles, CA)",
+      "video_id": "840gfYiHN7c",
+      "channel_title": "Marshmello",
+      "description": "A Pokémon Party Like No Other Join fellow fans for a first-of-its-kind Pokémon celebration! Pokémon Night Out will be an ...",
+      "published_at": "2026-10-20T19:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/840gfYiHN7c/hqdefault.jpg"
+    },
     {
       "title": "Close My Eyes (live from red rocks) is now playing on YouTube",
       "video_id": "Pun7zGqYcb8",
@@ -45,6 +53,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/IsVEIOvZlvA/hqdefault.jpg"
     },
     {
+      "title": "Marshmello, ILLENIUM - Close My Eyes (Feat. SACHA) [Official Visualizer]",
+      "video_id": "Mkk9-CVu1qg",
+      "channel_title": "Marshmello",
+      "description": "Marshmello, ILLENIUM - Close My Eyes (Feat. SACHA) [Official Visualizer] Stream/Download: ...",
+      "published_at": "2026-09-09T04:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Mkk9-CVu1qg/hqdefault.jpg"
+    },
+    {
       "title": "that feeling when the song finally drops at midnight",
       "video_id": "gUzxMoMFHLg",
       "channel_title": "Marshmello",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-08-28T17:19:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KM6mXZiAzoA/hqdefault.jpg"
-    },
-    {
-      "title": "Cooking something up… @camwhitcomb",
-      "video_id": "3a3SxtqjKXA",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2026-08-26T19:33:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3a3SxtqjKXA/hqdefault.jpg"
-    },
-    {
-      "title": "One week until “Hollow” @camwhitcomb",
-      "video_id": "KXXMeECz_Y0",
-      "channel_title": "Marshmello",
-      "description": "",
-      "published_at": "2026-08-21T21:02:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KXXMeECz_Y0/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-10-18T03:39:42.419909",
+  "fetched_at": "2026-10-25T03:47:44.137808",
   "channel_id": "UCbipI7oQJsOUXXWRvGjkYmg",
   "channel_title": "Andry Strong",
   "count": 10,
   "videos": [
+    {
+      "title": "Aquaman in Miami",
+      "video_id": "5wJ_XuEiEz0",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-10-25T01:23:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5wJ_XuEiEz0/hqdefault.jpg"
+    },
+    {
+      "title": "No one Ever Done This",
+      "video_id": "9lRfHLqtwFs",
+      "channel_title": "Andry Strong",
+      "description": "",
+      "published_at": "2026-10-23T15:15:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9lRfHLqtwFs/hqdefault.jpg"
+    },
+    {
+      "title": "Skill Guys Aren’t Strong. Let’s Find Out.",
+      "video_id": "LliOtPTY9aw",
+      "channel_title": "Andry Strong",
+      "description": "Skills vs streetlifting: who is stronger? Calisthenics skill athlete vs a streetlifting champion in a 1-rep max battle. Four exercises.",
+      "published_at": "2026-10-18T13:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LliOtPTY9aw/hqdefault.jpg"
+    },
     {
       "title": "6 Years Ago, I Started with One Mission",
       "video_id": "rlhlbqmJlTA",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-10-08T17:23:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NYTmdFWqQmI/hqdefault.jpg"
-    },
-    {
-      "title": "From a Small Village in Ukraine to New York",
-      "video_id": "pClfuFDuZ50",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2026-10-06T13:35:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pClfuFDuZ50/hqdefault.jpg"
-    },
-    {
-      "title": "I Thought I Would Win Easily… I Was Wrong",
-      "video_id": "MymNnWFNMFM",
-      "channel_title": "Andry Strong",
-      "description": "Calisthenics vs circus in Miami Beach - I challenged Ariadna, the best handstand balancer in Florida (USA) and professional ...",
-      "published_at": "2026-10-04T12:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MymNnWFNMFM/hqdefault.jpg"
-    },
-    {
-      "title": "From Boy to a Man | 2012-2026",
-      "video_id": "cy3kslB-6YA",
-      "channel_title": "Andry Strong",
-      "description": "",
-      "published_at": "2026-10-03T19:49:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cy3kslB-6YA/hqdefault.jpg"
     }
   ]
 }

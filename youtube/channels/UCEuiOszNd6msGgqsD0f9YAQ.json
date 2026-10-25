@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-10-18T03:39:15.220257",
+  "fetched_at": "2026-10-25T03:47:17.214971",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
+    {
+      "title": "This robot parks your car at the airport, and you get to keep the keys",
+      "video_id": "xNen6pC1Li4",
+      "channel_title": "Interesting Engineering",
+      "description": "London Gatwick has started letting passengers hand their cars to Stan, an autonomous valet robot from Paris-based Stanley ...",
+      "published_at": "2026-10-23T17:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xNen6pC1Li4/hqdefault.jpg"
+    },
+    {
+      "title": "How Promise Robotics builds house frames in a factory",
+      "video_id": "TD59b7padvI",
+      "channel_title": "Interesting Engineering",
+      "description": "D.R. Horton, America's largest homebuilder by volume, has signed a multi-year deal with Toronto-based Promise Robotics to ...",
+      "published_at": "2026-10-23T00:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TD59b7padvI/hqdefault.jpg"
+    },
+    {
+      "title": "Unitree&#39;s Kung Fu humanoid is pitched as your guardian",
+      "video_id": "zAj244s09v0",
+      "channel_title": "Interesting Engineering",
+      "description": "Unitree has introduced the H2-X Kung Fu Legend Guardian, the newest member of its 1.8-metre H2 humanoid line, pitched to ...",
+      "published_at": "2026-10-21T19:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zAj244s09v0/hqdefault.jpg"
+    },
+    {
+      "title": "Shanghai&#39;s 3-Kilometre Superconducting Tape Could Make Fusion Magnets More Reliable",
+      "video_id": "h7Ll2VA5PSU",
+      "channel_title": "Interesting Engineering",
+      "description": "Shanghai Superconductor has unveiled a second-generation high-temperature superconducting tape made in a single ...",
+      "published_at": "2026-10-20T17:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/h7Ll2VA5PSU/hqdefault.jpg"
+    },
+    {
+      "title": "Why Build a Digital Twin in the Amazon?",
+      "video_id": "0fLanY6WT8A",
+      "channel_title": "Interesting Engineering",
+      "description": "How do you see what happens inside a vat of plants and steam? In Brazil's Amazon, Siemens engineers are working with Natura ...",
+      "published_at": "2026-10-20T14:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0fLanY6WT8A/hqdefault.jpg"
+    },
+    {
+      "title": "How Planar Motor&#39;s factory bots float, tilt and rotate on magnets",
+      "video_id": "wnbbmI6JI-Q",
+      "channel_title": "Interesting Engineering",
+      "description": "Canadian company Planar Motor builds XBots, stainless steel movers that levitate a few millimetres above modular tiles called ...",
+      "published_at": "2026-10-19T16:30:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wnbbmI6JI-Q/hqdefault.jpg"
+    },
+    {
+      "title": "What makes Galileo X capable of all-terrain mobility?",
+      "video_id": "GNd304C-B0w",
+      "channel_title": "Interesting Engineering",
+      "description": "One machine for construction sites, warehouses, and last-mile delivery. How versatile can a robot get? Galileo X may have the ...",
+      "published_at": "2026-10-19T14:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GNd304C-B0w/hqdefault.jpg"
+    },
     {
       "title": "MIT&#39;s new drone planner can dodge moving obstacles",
       "video_id": "m957FBCEVFA",
@@ -27,62 +83,6 @@
       "description": "US defence firm Powerus has unveiled Guardian-3, the third generation of its Guardian counter-drone interceptor, at the AUSA ...",
       "published_at": "2026-10-14T21:30:31Z",
       "thumbnail_url": "https://i.ytimg.com/vi/eyszzudjU5I/hqdefault.jpg"
-    },
-    {
-      "title": "Forget giant turbines: Here are 3 radical new ways we&#39;re harvesting wind",
-      "video_id": "G5QHRFnApDA",
-      "channel_title": "Interesting Engineering",
-      "description": "What if everything you thought you knew about wind energy was wrong? Modern offshore turbines stand 260 metres tall, with ...",
-      "published_at": "2026-10-11T08:07:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G5QHRFnApDA/hqdefault.jpg"
-    },
-    {
-      "title": "Alternative wind energy: the most interesting projects right now",
-      "video_id": "YhU0nSWDBcQ",
-      "channel_title": "Interesting Engineering",
-      "description": "What if everything you thought you knew about wind energy was wrong? Modern offshore turbines stand 260 metres tall, with ...",
-      "published_at": "2026-10-11T08:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/YhU0nSWDBcQ/hqdefault.jpg"
-    },
-    {
-      "title": "Could high altitude wind be the answer to consistent energy?",
-      "video_id": "mgs1GNZ0Blk",
-      "channel_title": "Interesting Engineering",
-      "description": "Four hundred metres above us, the wind never stops, and almost nobody is using it. In this video, we look at high-altitude wind ...",
-      "published_at": "2026-09-27T09:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mgs1GNZ0Blk/hqdefault.jpg"
-    },
-    {
-      "title": "Why this company is putting underwater living pods in the Florida Keys",
-      "video_id": "Q9ryBuA1oU4",
-      "channel_title": "Interesting Engineering",
-      "description": "DEEP has deployed Vanguard, a 465-ton subsea habitat 56 feet below the surface at Tennessee Reef in the Florida Keys. Built to ...",
-      "published_at": "2026-09-22T15:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q9ryBuA1oU4/hqdefault.jpg"
-    },
-    {
-      "title": "One Pilot, Six Aircraft: How Fighter Formations Are Changing",
-      "video_id": "p7bJVx1LMk4",
-      "channel_title": "Interesting Engineering",
-      "description": "As the battlespace evolves, airpower must evolve with it. Discover how General Atomics Aeronautical Systems is helping shape ...",
-      "published_at": "2026-09-14T15:00:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/p7bJVx1LMk4/hqdefault.jpg"
-    },
-    {
-      "title": "Why this Canadian company is now drilling for Hydrogen",
-      "video_id": "prMM07vjPvM",
-      "channel_title": "Interesting Engineering",
-      "description": "Hydrogen is well known as a clean source of energy, but making it has always been problematic. Electrolysis is expensive, and ...",
-      "published_at": "2026-09-12T21:07:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/prMM07vjPvM/hqdefault.jpg"
-    },
-    {
-      "title": "How General Atomics Is Building the Future of Flight",
-      "video_id": "_Wx8LSRLVSI",
-      "channel_title": "Interesting Engineering",
-      "description": "General Atomics Aeronautical Systems, Inc., is shaping the future of uncrewed aviation with semi-autonomous unmanned aircraft ...",
-      "published_at": "2026-08-31T15:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_Wx8LSRLVSI/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-10-18T03:39:00.526967",
+  "fetched_at": "2026-10-25T03:47:02.278645",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
+    {
+      "title": "How Microsoft Is Putting Europe in Control of Its AI Future | Satya Nadella on Sovereign Cloud",
+      "video_id": "rfYJ4SgvrEs",
+      "channel_title": "Microsoft Azure",
+      "description": "Discover how Microsoft is advancing digital sovereignty in Europe. At Microsoft Frontier Tour in Paris, CEO Satya Nadella unveils ...",
+      "published_at": "2026-10-23T19:28:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rfYJ4SgvrEs/hqdefault.jpg"
+    },
+    {
+      "title": "Introducing Azure Maia 300",
+      "video_id": "DkzQGISPBow",
+      "channel_title": "Microsoft Azure",
+      "description": "Microsoft introduces Azure Maia 300, powering efficiency for frontier workloads. Learn more: https://msft.it/6050aqH6C ...",
+      "published_at": "2026-10-20T17:42:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DkzQGISPBow/hqdefault.jpg"
+    },
+    {
+      "title": "Cloud cost optimization using AMD based virtual machines on Azure",
+      "video_id": "Nr6reQi-awU",
+      "channel_title": "Microsoft Azure",
+      "description": "Learn how Azure Infrastructure as a Service choices can help optimize cloud costs with AMD-powered Azure VMs. Andrew Ruffin ...",
+      "published_at": "2026-07-28T18:01:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nr6reQi-awU/hqdefault.jpg"
+    },
     {
       "title": "Smooth sailing starts here",
       "video_id": "y22MAsql0Hg",
@@ -45,44 +69,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jcX_ptg7KYA/hqdefault.jpg"
     },
     {
+      "title": "Azure Container Storage for AKS | Free, fast, open‑source storage for Kubernetes on Azure",
+      "video_id": "MlwkUN7oo0E",
+      "channel_title": "Microsoft Azure",
+      "description": "Announcing Azure Container Storage v2.0.0: Supercharge Kubernetes workloads with the fastest storage for AKS. Azure ...",
+      "published_at": "2026-05-29T13:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MlwkUN7oo0E/hqdefault.jpg"
+    },
+    {
       "title": "More Models, More Power: Fireworks AI on Foundry Keeps Raising the Bar",
       "video_id": "CjYaiFXnalw",
       "channel_title": "Microsoft Azure",
       "description": "The enterprise AI landscape is shifting fast. Are you ready? Get a sneak peek at our upcoming fireside chat where Yina and Lin sit ...",
       "published_at": "2026-05-14T15:59:55Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CjYaiFXnalw/hqdefault.jpg"
-    },
-    {
-      "title": "S2E8 | How do we draw agentic borders? — The Shift Podcast by Microsoft Azure",
-      "video_id": "O9nqK23LRbA",
-      "channel_title": "Microsoft Azure",
-      "description": "As AI agents become more capable—and more autonomous—one question rises fast: How do we draw agentic borders?",
-      "published_at": "2026-04-28T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/O9nqK23LRbA/hqdefault.jpg"
-    },
-    {
-      "title": "Fans can access deep Premier League stats anytime",
-      "video_id": "4RNoOGExAPc",
-      "channel_title": "Microsoft Azure",
-      "description": "Azure AI turns data into fan‑centric experiences in the Premier League Companion app. Proof that what works for fans can work ...",
-      "published_at": "2026-02-27T17:19:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4RNoOGExAPc/hqdefault.jpg"
-    },
-    {
-      "title": "Fans can access deep Premier League stats anytime",
-      "video_id": "tC0pdsInjUM",
-      "channel_title": "Microsoft Azure",
-      "description": "From the pitch to fan's hands. With Azure powering the Premier League Companion app, deep football insights are accessible ...",
-      "published_at": "2026-02-25T05:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tC0pdsInjUM/hqdefault.jpg"
-    },
-    {
-      "title": "30 seasons of Premier League data is in your hands",
-      "video_id": "jsxF314qV4k",
-      "channel_title": "Microsoft Azure",
-      "description": "Go era to era in seconds. Azure AI powers the Premier League Companion—compare across seasons, dive into moments, and ...",
-      "published_at": "2026-02-19T16:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jsxF314qV4k/hqdefault.jpg"
     }
   ]
 }

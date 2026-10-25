@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-18T03:39:20.809876",
+  "fetched_at": "2026-10-25T03:47:22.661591",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "夏天也能看到雪！从少女峰到大瀑布",
+      "video_id": "yFuDqUP6FAQ",
+      "channel_title": "码农高天",
+      "description": "瑞士的第三天，我们上了少女峰，火车一路上行就上了雪线啦！9月份也能看到雪！接着从少女峰缓缓向下，路边的风景慢慢变化， ...",
+      "published_at": "2026-10-24T05:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yFuDqUP6FAQ/hqdefault.jpg"
+    },
     {
       "title": "【python】t-string详解，从实现到使用",
       "video_id": "_9PR0C0Z5JE",
@@ -75,14 +83,6 @@
       "description": "vlog终于续上了！正好世界杯结束，把巴塞罗那最后一天的行程剪出来。去了一趟诺坎普，还转了转奥运区，巴塞罗那就到这里啦！",
       "published_at": "2026-07-25T04:00:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/UPA08NUBuHY/hqdefault.jpg"
-    },
-    {
-      "title": "我就做个开源怎么成了黑帮成员了？",
-      "video_id": "6Qy-J_CELeI",
-      "channel_title": "码农高天",
-      "description": "谁能想到，第一次被人说黑帮，竟然是在做开源的时候。究竟发生了什么事情，让一位开源贡献者如此愤怒？在开源社区的我们， ...",
-      "published_at": "2026-07-05T04:00:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6Qy-J_CELeI/hqdefault.jpg"
     }
   ]
 }

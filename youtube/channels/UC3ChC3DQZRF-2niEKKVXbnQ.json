@@ -1,11 +1,19 @@
 {
-  "fetched_at": "2026-10-18T03:39:03.223436",
+  "fetched_at": "2026-10-25T03:47:05.432091",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
     {
-      "title": "心FLash模型不好用? 定心丸来了!",
+      "title": "DeepSeek 1017 变抠门了???",
+      "video_id": "iWl1AGlF8RU",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来DeepSeek-v4.1-Flash-1017 的实测! 说实话这是一个你绝对不能错过的模型, 因为它的能力提升非常大, 我测下来后 ...",
+      "published_at": "2026-10-24T13:44:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/iWl1AGlF8RU/hqdefault.jpg"
+    },
+    {
+      "title": "担心FLash模型不好用? 定心丸来了!",
       "video_id": "Ld9kt27t3Mk",
       "channel_title": "Karminski-牙医",
       "description": "我觉得大家遇到最多的问题会是: 旗舰大模型太贵了, 日常任务是不是能用flash 模型跑? 但是又觉得Flash 模型可能效果不好, 甚至 ...",
@@ -75,14 +83,6 @@
       "description": "给大家带来Kimi-K3全方位编程能力实测! 包含前端, 后端, Agent能力. 并且包含现有SOTA级别模型横评! 这次Kimi-K3 交了一个让我都 ...",
       "published_at": "2026-07-20T00:40:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CYRqgwNXQGM/hqdefault.jpg"
-    },
-    {
-      "title": "1B就能达到这种效果?LingBot-Vision实测!",
-      "video_id": "D0fN76uAro8",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来蚂蚁灵波LingBot-Vision 实测! 本次测试最大的亮点是在仅1B (10亿) 参数量下, 展现出了极强的空间几何和边界感知能力, ...",
-      "published_at": "2026-07-09T01:53:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D0fN76uAro8/hqdefault.jpg"
     }
   ]
 }

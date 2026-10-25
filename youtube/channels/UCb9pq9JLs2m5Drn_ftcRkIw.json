@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-10-18T03:39:41.596366",
+  "fetched_at": "2026-10-25T03:47:43.442370",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "تمرين مهارات كالسثنكس",
+      "video_id": "PX5Sr8qNHNw",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-10-23T11:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PX5Sr8qNHNw/hqdefault.jpg"
+    },
+    {
+      "title": "الكالسثنكس ليست مجرد استعراض",
+      "video_id": "ZiGl1q1hFHw",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-10-22T11:17:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZiGl1q1hFHw/hqdefault.jpg"
+    },
+    {
+      "title": "كيف ترجع تتمرن بعد ما تمرض",
+      "video_id": "hiQbZwM62D0",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-10-19T09:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hiQbZwM62D0/hqdefault.jpg"
+    },
     {
       "title": "تمرين في الحلقات",
       "video_id": "HSTasNu-Ffg",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-09-15T12:20:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/IpBCq0JwSOo/hqdefault.jpg"
-    },
-    {
-      "title": "Bankai",
-      "video_id": "Qpla2Cx3vl4",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-09-12T09:00:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Qpla2Cx3vl4/hqdefault.jpg"
-    },
-    {
-      "title": "المصل اب على الحلقات",
-      "video_id": "H5IRFOAT4t0",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-09-11T11:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/H5IRFOAT4t0/hqdefault.jpg"
-    },
-    {
-      "title": "نهاية القناة ؟",
-      "video_id": "XI6gt4wghgs",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-08-31T11:46:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XI6gt4wghgs/hqdefault.jpg"
     }
   ]
 }

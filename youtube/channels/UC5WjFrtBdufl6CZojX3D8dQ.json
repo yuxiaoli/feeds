@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-10-18T03:39:06.359804",
+  "fetched_at": "2026-10-25T03:47:08.363614",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Tesla App, Big Screens",
+      "video_id": "PFVOThWzcAQ",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-10-24T20:20:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PFVOThWzcAQ/hqdefault.jpg"
+    },
+    {
+      "title": "Roadster Interface",
+      "video_id": "fdFyXTdJPLA",
+      "channel_title": "Tesla",
+      "description": "A closer look at Roadster's display. Inspired by fighter jet cockpits, Roadster's interface was designed around the pilot.",
+      "published_at": "2026-10-24T19:36:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fdFyXTdJPLA/hqdefault.jpg"
+    },
+    {
+      "title": "Roadster Encore",
+      "video_id": "qFpRyEg2y5k",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-10-22T01:05:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qFpRyEg2y5k/hqdefault.jpg"
+    },
+    {
+      "title": "Tesla Q3 2026 Financial Results and Q&amp;A Webcast",
+      "video_id": "tFezqXBF-gw",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-10-21T22:39:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tFezqXBF-gw/hqdefault.jpg"
+    },
+    {
+      "title": "Zero to sixty faster than you can read this",
+      "video_id": "BII3FrsTBlU",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-10-19T18:40:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BII3FrsTBlU/hqdefault.jpg"
+    },
     {
       "title": "The 0-60 | Roadster",
       "video_id": "Zg9Q56t7bdo",
@@ -32,7 +72,7 @@
       "title": "The Kickflip | Roadster",
       "video_id": "r5vsHHPVhJg",
       "channel_title": "Tesla",
-      "description": "The 2nd live demo during the Roadster event. Tony would be proud.",
+      "description": "The 2nd live demo during the Roadster event. Advanced cold-gas thrusters use all-electric actuators to offer precise thrust, ...",
       "published_at": "2026-10-16T02:52:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/r5vsHHPVhJg/hqdefault.jpg"
     },
@@ -40,49 +80,9 @@
       "title": "The Ramp | Roadster",
       "video_id": "7p5LxFdc-Qg",
       "channel_title": "Tesla",
-      "description": "The first live demo during the Roadster event. Real life, baby.",
+      "description": "The first live demo during the Roadster event. Our multi-mode fan and ground sealing system acts as a downforce generator, ...",
       "published_at": "2026-10-16T02:23:48Z",
       "thumbnail_url": "https://i.ytimg.com/vi/7p5LxFdc-Qg/hqdefault.jpg"
-    },
-    {
-      "title": "Roadster Event",
-      "video_id": "qt5p-_tE8d0",
-      "channel_title": "Tesla",
-      "description": "Buckle up. https://www.tesla.com/roadster Ramp Demo: 6:03-10:55 Kickflip Demo: 10:56-12:43 Design: 12:47-14:38 Aero: ...",
-      "published_at": "2026-10-16T01:34:18Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qt5p-_tE8d0/hqdefault.jpg"
-    },
-    {
-      "title": "Roadster | The Last Best Driver&#39;s Car",
-      "video_id": "cvKIR-c1SsU",
-      "channel_title": "Tesla",
-      "description": "Roadster is a true pilot's car: active aerodynamics, a multi-mode suction system & cold-gas thrusters Reserve Roadster ...",
-      "published_at": "2026-10-16T01:34:45Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cvKIR-c1SsU/hqdefault.jpg"
-    },
-    {
-      "title": "Halloween Mode | Tesla",
-      "video_id": "bZjsD89p5mo",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-10-07T18:20:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bZjsD89p5mo/hqdefault.jpg"
-    },
-    {
-      "title": "Halloween is coming",
-      "video_id": "3SsXy3Mp_iM",
-      "channel_title": "Tesla",
-      "description": "",
-      "published_at": "2026-10-01T22:36:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3SsXy3Mp_iM/hqdefault.jpg"
-    },
-    {
-      "title": "POV Hailing a Cybercab",
-      "video_id": "bpPJbRjIpxg",
-      "channel_title": "Tesla",
-      "description": "by @Gjeebs.",
-      "published_at": "2026-09-06T18:52:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bpPJbRjIpxg/hqdefault.jpg"
     }
   ]
 }

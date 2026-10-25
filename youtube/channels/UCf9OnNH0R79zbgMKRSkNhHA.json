@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-18T03:39:46.595520",
+  "fetched_at": "2026-10-25T03:47:48.353688",
   "channel_id": "UCf9OnNH0R79zbgMKRSkNhHA",
   "channel_title": "Meow Cat studio",
-  "count": 1,
+  "count": 2,
   "videos": [
     {
       "title": "Cat photography📸😍🐈‍⬛🐈#cat#catlovers#catvideos",
@@ -11,6 +11,14 @@
       "description": "",
       "published_at": "2025-01-23T13:32:27Z",
       "thumbnail_url": "https://i.ytimg.com/vi/MPU60NJuAi0/hqdefault.jpg"
+    },
+    {
+      "title": "Cat sounds🥺🎀#cat #catlovers",
+      "video_id": "ZDBrMqe7UDo",
+      "channel_title": "Meow Cat studio",
+      "description": "",
+      "published_at": "2025-01-22T21:08:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZDBrMqe7UDo/hqdefault.jpg"
     }
   ]
 }

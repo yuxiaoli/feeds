@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-18T03:40:00.110302",
+  "fetched_at": "2026-10-25T03:48:02.073073",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "❗️A new Moon crater nobody noticed",
+      "video_id": "WUJ1nvWke44",
+      "channel_title": "Star Walk",
+      "description": "During a routine check of images from NASA's Lunar Reconnaissance Orbiter, scientist Robert Wagner noticed a bright spot ...",
+      "published_at": "2026-10-20T06:57:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WUJ1nvWke44/hqdefault.jpg"
+    },
     {
       "title": "✨ Three stars in a row? You’ve found Orion’s Belt!",
       "video_id": "V4P4yvS7puM",
@@ -75,14 +83,6 @@
       "description": "After sunset, find the thin crescent Moon low above the western horizon. The dazzling point beside it is Venus — the brightest ...",
       "published_at": "2026-09-13T09:00:03Z",
       "thumbnail_url": "https://i.ytimg.com/vi/w9sApMiVKqk/hqdefault.jpg"
-    },
-    {
-      "title": "5 Moon meetups to watch this September 🌙",
-      "video_id": "CAK8hNrxFJo",
-      "channel_title": "Star Walk",
-      "description": "The Moon is making its way past several planets this month — some easy to spot, others a real skywatching challenge.",
-      "published_at": "2026-09-07T13:47:54Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CAK8hNrxFJo/hqdefault.jpg"
     }
   ]
 }
