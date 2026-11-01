@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-10-25T03:47:09.790696",
+  "fetched_at": "2026-11-01T05:00:08.121873",
   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "channel_title": "GitHub",
   "count": 10,
   "videos": [
     {
-      "title": "Open Source Friday: OpenClaw with Hannes Rudolph",
-      "video_id": "Xe0fZxAA-Ys",
+      "title": "Security in 60 Seconds: Reachability Analysis for Dependabot",
+      "video_id": "6r9prGBlaSc",
       "channel_title": "GitHub",
-      "description": "Hannes joins us to talk about OpenClaw, a local, open-source AI assistant. Come bring your questions on AI assistants, managing ...",
-      "published_at": "2026-10-24T06:31:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xe0fZxAA-Ys/hqdefault.jpg"
+      "description": "Dependabot told you a dependency is vulnerable. But can your app actually reach the vulnerable code? In this Security in 60 ...",
+      "published_at": "2026-10-31T13:00:02Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6r9prGBlaSc/hqdefault.jpg"
     },
     {
-      "title": "How to build and ship an AI agent in the GitHub Copilot app",
-      "video_id": "AT3EltQ4gTM",
+      "title": "GitHub Universe 2026 closing keynote: open source voices, demos, and the craft of coding",
+      "video_id": "Gh-hg7lwA0o",
       "channel_title": "GitHub",
-      "description": "Go from a GitHub issue prompt to a deployed, production-ready AI agent without switching between browser tabs or cloud portals.",
-      "published_at": "2026-10-23T17:27:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AT3EltQ4gTM/hqdefault.jpg"
+      "description": "We are ending GitHub Universe 2026 the way it started: with the people who build in the open. Join Maggie Appleton, Martin ...",
+      "published_at": "2026-10-30T00:02:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gh-hg7lwA0o/hqdefault.jpg"
     },
     {
-      "title": "Stop waiting on pull request reviews with GitHub Copilot approvals",
-      "video_id": "exBCpV9eJnc",
+      "title": "Can you commit to the answer? Git trivia at GitHub Universe 2026",
+      "video_id": "-qx1qD_3hus",
       "channel_title": "GitHub",
-      "description": "Waiting on a teammate just to get a routine pull request approved can stall team velocity. With delegated code review approvals, ...",
-      "published_at": "2026-10-22T15:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/exBCpV9eJnc/hqdefault.jpg"
+      "description": "You can commit to code, but can you commit to the answer under pressure? We put attendees on the spot at GitHub Universe ...",
+      "published_at": "2026-10-29T22:13:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-qx1qD_3hus/hqdefault.jpg"
     },
     {
-      "title": "Inside GitHub&#39;s September updates: Project HydraFusion, sandboxing, and PR approvals",
-      "video_id": "ZQ0Qq6LlAmI",
+      "title": "Playing Super Mona on the GitHub Universe 2026 badge",
+      "video_id": "5pK-8AL_wVs",
       "channel_title": "GitHub",
-      "description": "In this episode, Andrea Griffiths sits down with Julia Kasper and Brady Gaster to break down the major platform updates shipped ...",
-      "published_at": "2026-10-21T16:53:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZQ0Qq6LlAmI/hqdefault.jpg"
+      "description": "Did you know the GitHub Universe 2026 conference badge has hidden capacitive gaming buttons on the back? In this quick demo ...",
+      "published_at": "2026-10-29T18:27:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5pK-8AL_wVs/hqdefault.jpg"
     },
     {
-      "title": "Fix GitHub issues without leaving JetBrains IntelliJ using GitHub Copilot",
-      "video_id": "Y9dEqpQeD8w",
+      "title": "Everything announced at GitHub Universe 2026: opening keynote recap",
+      "video_id": "xbCa0aa4tRM",
       "channel_title": "GitHub",
-      "description": "Fix repository issues without ever leaving JetBrains IntelliJ. In this short video, learn how to install the GitHub Copilot plugin from ...",
-      "published_at": "2026-10-20T15:00:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y9dEqpQeD8w/hqdefault.jpg"
+      "description": "Missed the opening keynote at GitHub Universe 2026? Catch up on every major announcement and live demo in this cutdown of ...",
+      "published_at": "2026-10-29T13:57:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xbCa0aa4tRM/hqdefault.jpg"
     },
     {
-      "title": "What&#39;s in your tech bag?",
-      "video_id": "WVHj-snTE0c",
+      "title": "GitHub Universe 2026 opening keynote recap in 90 seconds",
+      "video_id": "A_N9HM237BA",
       "channel_title": "GitHub",
-      "description": "Grab a #GitHubUniverse pass to join us in-person October 28-29 or sign up to join us virtually: ...",
-      "published_at": "2026-10-19T22:06:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WVHj-snTE0c/hqdefault.jpg"
+      "description": "Missed the GitHub Universe 2026 opening keynote? Here is everything announced in 60 seconds, from 225 million developers ...",
+      "published_at": "2026-10-29T05:10:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/A_N9HM237BA/hqdefault.jpg"
     },
     {
-      "title": "How GitHub uses AI agents to stress test new features",
-      "video_id": "zqvJ9YjZXqM",
+      "title": "Opening keynote: building the next era of software at GitHub Universe 2026",
+      "video_id": "AArI948SDz8",
       "channel_title": "GitHub",
-      "description": "Before shipping new features like stacked pull requests, how does GitHub make sure nobody can break the system? In this clip ...",
-      "published_at": "2026-10-18T15:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zqvJ9YjZXqM/hqdefault.jpg"
+      "description": "Join us for the GitHub Universe 2026 opening keynote as we look at the next era of software, the developers building it, and the ...",
+      "published_at": "2026-10-28T22:12:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AArI948SDz8/hqdefault.jpg"
     },
     {
-      "title": "Open Source Friday: Spec Kit part 2",
-      "video_id": "8hHCpNVLhmI",
+      "title": "Unboxing GitHub&#39;s mystery blind box keyboard",
+      "video_id": "_ESyA2B1qas",
       "channel_title": "GitHub",
-      "description": "This week on Open Source Friday, we're joined by Manfred Riem and Nicole Haugen to celebrate the 1.0.0 release of Spec Kit!",
-      "published_at": "2026-10-17T06:14:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8hHCpNVLhmI/hqdefault.jpg"
+      "description": "GitHub just released a mystery blind box keyboard where every kit includes a random colorway, enclosure, switch plate, and ...",
+      "published_at": "2026-10-28T21:08:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_ESyA2B1qas/hqdefault.jpg"
     },
     {
-      "title": "Inside the GitHub Universe keyboard kit: unboxing and assembly",
-      "video_id": "q3Jod8Xu8BY",
+      "title": "Universe week, hackable badges, and GitHub&#39;s open source dilemma | S02E06 | The GitHub Podcast",
+      "video_id": "FAjvVlHRfy8",
       "channel_title": "GitHub",
-      "description": "Building your custom mechanical keyboard from GitHub Universe? Follow this step-by-step assembly guide to put together your ...",
-      "published_at": "2026-10-16T18:04:28Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/q3Jod8Xu8BY/hqdefault.jpg"
+      "description": "Cassidy Williams and GPS welcome GitHub VP of Developer Relations Martin Woodward to The GitHub Podcast to celebrate ...",
+      "published_at": "2026-10-28T15:00:00Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/FAjvVlHRfy8/hqdefault.jpg"
     },
     {
-      "title": "GitHub Copilot app with the Logitech MX Keypad",
-      "video_id": "EQeJj0hoPS8",
+      "title": "A quick spoiler for GitHub Universe 2026",
+      "video_id": "k5xamEC-QR8",
       "channel_title": "GitHub",
-      "description": "Want to manage your AI coding sessions without leaving your flow? In this video, we show you how the Logitech MX Keypad ...",
-      "published_at": "2026-10-15T19:38:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EQeJj0hoPS8/hqdefault.jpg"
+      "description": "GitHub Universe 2026 kicks off this week with major keynote announcements, new developer tools, and fresh drops in the GitHub ...",
+      "published_at": "2026-10-27T19:34:55Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/k5xamEC-QR8/hqdefault.jpg"
     }
   ]
 }

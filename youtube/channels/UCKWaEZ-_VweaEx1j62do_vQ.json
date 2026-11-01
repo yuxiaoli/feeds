@@ -1,9 +1,65 @@
 {
-  "fetched_at": "2026-10-25T03:47:26.179934",
+  "fetched_at": "2026-11-01T05:00:25.094370",
   "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
   "channel_title": "IBM Technology",
   "count": 10,
   "videos": [
+    {
+      "title": "When Security Patches Leak",
+      "video_id": "mfgSBLGePuA",
+      "channel_title": "IBM Technology",
+      "description": "What happens when vulnerabilities leak before patches are ready? Discover why one point of failure puts 70% of the web at risk.",
+      "published_at": "2026-10-31T16:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mfgSBLGePuA/hqdefault.jpg"
+    },
+    {
+      "title": "AI Exposes Legacy Code",
+      "video_id": "hOVaubDnu5A",
+      "channel_title": "IBM Technology",
+      "description": "AI is forcing teams to revisit abandoned code. What dependencies are lurking? Time to modernize your stack before ...",
+      "published_at": "2026-10-30T16:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hOVaubDnu5A/hqdefault.jpg"
+    },
+    {
+      "title": "AI exposes a major web security flaw, plus a new kind of voice model",
+      "video_id": "K8NgeOuZmWU",
+      "channel_title": "IBM Technology",
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~7OaIQxINM This week on Mixture of Experts, host ...",
+      "published_at": "2026-10-30T10:00:19Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/K8NgeOuZmWU/hqdefault.jpg"
+    },
+    {
+      "title": "What Is Quantization? How AI Models Get Smaller &amp; Faster",
+      "video_id": "mmns33BsBcY",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about Quantization here → https://ibm.biz/~NdqpU881V Huge AI models come with huge memory requirements.",
+      "published_at": "2026-10-29T11:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mmns33BsBcY/hqdefault.jpg"
+    },
+    {
+      "title": "The PHP bug threatening the web. Plus, who&#39;s auditing AI?",
+      "video_id": "VoSQZBguB1A",
+      "channel_title": "IBM Technology",
+      "description": "Visit Security Intelligence podcast page to get more AI content → https://ibm.biz/~G9cZuMJdW An AI model helped researchers ...",
+      "published_at": "2026-10-28T10:00:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VoSQZBguB1A/hqdefault.jpg"
+    },
+    {
+      "title": "Open Source Security in the Age of AI",
+      "video_id": "5WlmyncEcNM",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about Open Source Security here → https://ibm.biz/~PzvauipSt AI is finding open-source vulnerabilities faster than ...",
+      "published_at": "2026-10-27T11:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5WlmyncEcNM/hqdefault.jpg"
+    },
+    {
+      "title": "Agentic Engineering: 5 Terms Every AI Developer Should Know",
+      "video_id": "SIZsFGvtClM",
+      "channel_title": "IBM Technology",
+      "description": "Learn more about Agentic Engineering here → https://ibm.biz/~Tlo2yQJqq AI engineering is becoming more than writing code.",
+      "published_at": "2026-10-26T11:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/SIZsFGvtClM/hqdefault.jpg"
+    },
     {
       "title": "AI Home Security Threat",
       "video_id": "4ivd3zRiuys",
@@ -11,22 +67,6 @@
       "description": "Hackers can hijack AI agents through email. Learn how attackers exploit home AI systems and what threats lie ahead.",
       "published_at": "2026-10-23T17:00:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/4ivd3zRiuys/hqdefault.jpg"
-    },
-    {
-      "title": "Self-replicating AI, your doctor’s chatbot &amp; agents at dinner",
-      "video_id": "WLhh5FeLpy0",
-      "channel_title": "IBM Technology",
-      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~orPNK02xR What happens when an AI model can ...",
-      "published_at": "2026-10-23T10:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/WLhh5FeLpy0/hqdefault.jpg"
-    },
-    {
-      "title": "What Is LLM Inference? How AI Models Generate Responses",
-      "video_id": "615-yWyS1n0",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about LLM Inference here → https://ibm.biz/~CCvvB5TvB Every LLM response starts with much more than a prompt.",
-      "published_at": "2026-10-22T11:00:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/615-yWyS1n0/hqdefault.jpg"
     },
     {
       "title": "Mapping Cyber Attack Paths⚠️",
@@ -37,52 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2-KIcgIpCgw/hqdefault.jpg"
     },
     {
-      "title": "The patching gap: Hacked fridges, AI ransomware and Mythos finds",
-      "video_id": "qV36V-WOsDo",
-      "channel_title": "IBM Technology",
-      "description": "That melted ice cream might not be the freezer's fault. On episode 56 of Security Intelligence, Claire Nunez and MJ Vaidya join ...",
-      "published_at": "2026-10-21T10:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qV36V-WOsDo/hqdefault.jpg"
-    },
-    {
-      "title": "The Problem with Jev: Can You Trust AI Decisions?",
-      "video_id": "_yO_Q7qo0HQ",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about New Frontier AI Models here → https://ibm.biz/~QV9RAqelj A confident AI decision isn't necessarily a ...",
-      "published_at": "2026-10-20T16:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_yO_Q7qo0HQ/hqdefault.jpg"
-    },
-    {
       "title": "What Is Loop Engineering? Building Better AI Agents",
       "video_id": "DQBqh6gcx7U",
       "channel_title": "IBM Technology",
       "description": "Learn more about Loop Engineering here → https://ibm.biz/~LqlzZo42O AI agents need more than one perfectly written prompt.",
       "published_at": "2026-10-19T11:00:06Z",
       "thumbnail_url": "https://i.ytimg.com/vi/DQBqh6gcx7U/hqdefault.jpg"
-    },
-    {
-      "title": "The AI Memory Wall: Why LLMs &amp; AI Accelerators Hit a Bottleneck",
-      "video_id": "4b6KpFN7Rio",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about the Memory Wall here → https://ibm.biz/~NjOWdJHJy More GPU compute doesn't always mean faster AI ...",
-      "published_at": "2026-10-18T11:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/4b6KpFN7Rio/hqdefault.jpg"
-    },
-    {
-      "title": "Been Rude to a Chatbot?🤖",
-      "video_id": "yZUzeYLaIME",
-      "channel_title": "IBM Technology",
-      "description": "Ever notice you're nicer to people than AI? The latest episode of Mixture of Experts explores why perfectly polite humans turn into ...",
-      "published_at": "2026-10-16T17:35:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yZUzeYLaIME/hqdefault.jpg"
-    },
-    {
-      "title": "Context Engineering for AI Agents: 4 Failure Modes to Avoid",
-      "video_id": "BwXremQ-i6I",
-      "channel_title": "IBM Technology",
-      "description": "Learn more about Context Engineering here → https://ibm.biz/~5YM1VAeG0 More context should make AI agents better. It often ...",
-      "published_at": "2026-10-15T11:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BwXremQ-i6I/hqdefault.jpg"
     }
   ]
 }

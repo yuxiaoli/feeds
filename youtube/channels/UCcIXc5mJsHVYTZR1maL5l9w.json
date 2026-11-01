@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-10-25T03:47:45.580073",
+  "fetched_at": "2026-11-01T05:00:45.094123",
   "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
   "channel_title": "DeepLearningAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Join Andrew Ng at AI Dev NYC for two days of technical sessions and workshops.",
+      "video_id": "p1jhV6LlbFY",
+      "channel_title": "DeepLearningAI",
+      "description": "What AI engineering skills will you build next? Join Andrew Ng at AI Dev NYC for two days of technical sessions and workshops ...",
+      "published_at": "2026-10-28T15:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/p1jhV6LlbFY/hqdefault.jpg"
+    },
+    {
+      "title": "Agents on longer tasks need more than one loop",
+      "video_id": "Zo2oyjbTEXA",
+      "channel_title": "DeepLearningAI",
+      "description": "Learn More: https://bit.ly/4BuaMVb An agent that calls tools and decides its next step can complete a task. Making that agent ...",
+      "published_at": "2026-10-28T11:30:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Zo2oyjbTEXA/hqdefault.jpg"
+    },
+    {
+      "title": "7 AI code review best practices #deeplearningai #qodo",
+      "video_id": "CQ_Cfw6QxSk",
+      "channel_title": "DeepLearningAI",
+      "description": "A pull request can look clean and still miss a requirement or hide a security issue. When AI writes more of your code, there is often ...",
+      "published_at": "2026-10-26T22:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CQ_Cfw6QxSk/hqdefault.jpg"
+    },
+    {
+      "title": "Learn from OpenAI, Hugging Face, Andrew Ng and Yann LeCun | AI Dev NYC #aidev #shorts",
+      "video_id": "VgF5aP0amXA",
+      "channel_title": "DeepLearningAI",
+      "description": "Build your AI engineering skills at AI Dev NYC. Learn from Salil Sethi (OpenAI) on turning new model capabilities into reliable ...",
+      "published_at": "2026-10-26T15:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VgF5aP0amXA/hqdefault.jpg"
+    },
     {
       "title": "Learn to build better AI Agents through better context",
       "video_id": "CUjHZlvQufk",
@@ -19,6 +51,14 @@
       "description": "Learn more: deeplearning.ai/business Our enterprise program gives your team AI skills you can trust. Engineering teams are ...",
       "published_at": "2026-10-14T18:05:18Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2IuO_80wB0s/hqdefault.jpg"
+    },
+    {
+      "title": "Building AI Assistants with On-Device Memory #aiagents #deeplearningai",
+      "video_id": "dffaE-nftA4",
+      "channel_title": "DeepLearningAI",
+      "description": "No network connection. No remote server. Build an assistant whose memory never leaves the device in Building AI Assistants with ...",
+      "published_at": "2026-10-07T15:15:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dffaE-nftA4/hqdefault.jpg"
     },
     {
       "title": "The Data Engineering Professional Certificate is now on DeepLearning.AI",
@@ -43,46 +83,6 @@
       "description": "Vibe coding is fast, but it often produces code that doesn't match what you asked for. Spec-driven development is the disciplined ...",
       "published_at": "2026-09-22T19:32:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hy8UstR2NEg/hqdefault.jpg"
-    },
-    {
-      "title": "AI Agents for Image and Video Generation. #GoogleCloud #DeepLearningAI #AIAgents",
-      "video_id": "AIXQ8qsC3J0",
-      "channel_title": "DeepLearningAI",
-      "description": "One good AI image is easy. Consistent quality at scale is an evaluation problem. This UI design agent reads brand guidelines, ...",
-      "published_at": "2026-09-04T13:30:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AIXQ8qsC3J0/hqdefault.jpg"
-    },
-    {
-      "title": "Local AI is just getting started, and there’s room for you to shape it.",
-      "video_id": "8tpXt9CGdZE",
-      "channel_title": "DeepLearningAI",
-      "description": "A note from Paul Everitt for everyone taking the course: local AI is just getting started, and there's room for you to shape it. Take the ...",
-      "published_at": "2026-09-02T13:30:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8tpXt9CGdZE/hqdefault.jpg"
-    },
-    {
-      "title": "AI Dev | San Francisco 2026 | 2,599 AI Developers",
-      "video_id": "Y_bxMqcCNbU",
-      "channel_title": "DeepLearningAI",
-      "description": "Thousands of developers, two days on the San Francisco waterfront, and a whole lot of code. AI Dev in San Francisco brought the ...",
-      "published_at": "2026-09-01T21:18:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Y_bxMqcCNbU/hqdefault.jpg"
-    },
-    {
-      "title": "Build AI agents that learn from experience",
-      "video_id": "MbB1gNIj3G0",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn More: https://bit.ly/4iu7p9F Introducing Building Adaptive AI Agents, a short course built in partnership with Oracle and ...",
-      "published_at": "2026-08-26T13:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MbB1gNIj3G0/hqdefault.jpg"
-    },
-    {
-      "title": "Take back control of your AI coding workflow",
-      "video_id": "xUXJuPC7gz0",
-      "channel_title": "DeepLearningAI",
-      "description": "Learn More: https://bit.ly/4q6zSEc AI coding agents like Claude Code and Codex give you a ready-made way to work.",
-      "published_at": "2026-08-12T15:30:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xUXJuPC7gz0/hqdefault.jpg"
     }
   ]
 }

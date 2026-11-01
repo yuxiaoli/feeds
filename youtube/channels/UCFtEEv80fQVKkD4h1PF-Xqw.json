@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-25T03:47:19.209690",
+  "fetched_at": "2026-11-01T05:00:17.628843",
   "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "channel_title": "Microsoft",
   "count": 10,
   "videos": [
+    {
+      "title": "​@Seahawks 🤝 Copilot in Excel",
+      "video_id": "aCNvcXxTSlE",
+      "channel_title": "Microsoft",
+      "description": "Brian Eayrs runs football analysis for the Seattle Seahawks. He works with Copilot in Excel to turn real-time data into insights, ...",
+      "published_at": "2026-10-26T16:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aCNvcXxTSlE/hqdefault.jpg"
+    },
     {
       "title": "Building smarter tools for the way we work",
       "video_id": "l7HGtHMDx38",
@@ -11,30 +19,6 @@
       "description": "ATT data scientists Natalie Gilbert and Hector Tejada are building ways to help employees navigate critical HR tasks when they ...",
       "published_at": "2026-10-23T16:54:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/l7HGtHMDx38/hqdefault.jpg"
-    },
-    {
-      "title": "How TK Elevator technicians use agentic AI to prepare for every job",
-      "video_id": "CEEP7RecnFM",
-      "channel_title": "Microsoft",
-      "description": "TK Elevator is using agentic AI, created with Azure AI Foundry and Azure Databricks, to brief its service technicians before they ...",
-      "published_at": "2026-10-22T12:02:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CEEP7RecnFM/hqdefault.jpg"
-    },
-    {
-      "title": "How NHS ambulance teams are using Microsoft Copilot to rethink patient pathways",
-      "video_id": "sAYti12cStU",
-      "channel_title": "Microsoft",
-      "description": "Yorkshire Ambulance Service, part of England's National Health Service (NHS) is using Microsoft Copilot to bring together data ...",
-      "published_at": "2026-10-21T20:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/sAYti12cStU/hqdefault.jpg"
-    },
-    {
-      "title": "How agentic discovery can help the construction industry reduce its carbon footprint",
-      "video_id": "i8IZfeuQypc",
-      "channel_title": "Microsoft",
-      "description": "Researchers at Saint-Gobain are using Microsoft Discovery to accelerate scientific research and identify promising new molecules ...",
-      "published_at": "2026-10-20T08:15:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/i8IZfeuQypc/hqdefault.jpg"
     },
     {
       "title": "How AI gives her more time to focus on people",
@@ -83,6 +67,22 @@
       "description": "When market research firm Kantar handed Copilot licenses to every employee, chaos and creativity erupted. Andy Doyle, Kantar ...",
       "published_at": "2026-08-24T16:00:12Z",
       "thumbnail_url": "https://i.ytimg.com/vi/3_sQZRkwU2g/hqdefault.jpg"
+    },
+    {
+      "title": "What CEOs are quietly admitting about AI",
+      "video_id": "vPnkarnJnVs",
+      "channel_title": "Microsoft",
+      "description": "In this WorkLab podcast clip, Allie K. Miller, AI leader, investor, and former Global Head of Machine Learning at AWS, calls out a ...",
+      "published_at": "2026-08-18T20:00:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vPnkarnJnVs/hqdefault.jpg"
+    },
+    {
+      "title": "The biggest AI mistake?",
+      "video_id": "qU9BgAMQ1k4",
+      "channel_title": "Microsoft",
+      "description": "In this WorkLab podcast clip, Allie K. Miller, AI leader, investor, and former Global Head of Machine Learning at AWS, explains ...",
+      "published_at": "2026-08-14T20:42:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/qU9BgAMQ1k4/hqdefault.jpg"
     }
   ]
 }

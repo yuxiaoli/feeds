@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-10-25T03:47:10.555537",
+  "fetched_at": "2026-11-01T05:00:08.822338",
   "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
   "channel_title": "Boston Dynamics",
   "count": 10,
   "videos": [
+    {
+      "title": "The gripper sucks #bostondynamics  #robot",
+      "video_id": "5bvjSRy76GM",
+      "channel_title": "Boston Dynamics",
+      "description": "This gripper sucks—literally. Stretch's vacuum gripper uses individually actuated cups to handle a range of boxes with ease.",
+      "published_at": "2026-10-28T17:23:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5bvjSRy76GM/hqdefault.jpg"
+    },
+    {
+      "title": "Robot Hands for Real Work #bostondynamics #robotics #atlas",
+      "video_id": "UQGjePfKmRI",
+      "channel_title": "Boston Dynamics",
+      "description": "Atlas' new hands are strong and dexterous, capable of precise grasps, object reorientation, and tool use.",
+      "published_at": "2026-10-26T14:46:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UQGjePfKmRI/hqdefault.jpg"
+    },
     {
       "title": "Machine, Assemble, Repair: How We Build Atlas | Boston Dynamics",
       "video_id": "dP_i7hRvGpE",
@@ -67,22 +83,6 @@
       "description": "Following Atlas' first-of-its-kind live performance at the FIFA World Cup 2026™, we caught up with Seth Davis, senior program ...",
       "published_at": "2026-07-15T13:56:50Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cCNkgD3qXvg/hqdefault.jpg"
-    },
-    {
-      "title": "Going the Extra Mile with Spot | Boston Dynamics",
-      "video_id": "EI1zFxLVkrs",
-      "channel_title": "Boston Dynamics",
-      "description": "Boston Dynamics is testing a last-mile delivery solution. Spot will help get packages from van to doorstep with less strain and ...",
-      "published_at": "2026-07-14T14:14:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/EI1zFxLVkrs/hqdefault.jpg"
-    },
-    {
-      "title": "Viking Row | Atlas | Boston Dynamics",
-      "video_id": "tw0uJ1T5bzE",
-      "channel_title": "Boston Dynamics",
-      "description": "World Cup fever continues!",
-      "published_at": "2026-07-10T16:57:57Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/tw0uJ1T5bzE/hqdefault.jpg"
     }
   ]
 }

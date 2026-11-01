@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-25T03:47:05.432091",
+  "fetched_at": "2026-11-01T05:00:03.598156",
   "channel_id": "UC3ChC3DQZRF-2niEKKVXbnQ",
   "channel_title": "Karminski-牙医",
   "count": 10,
   "videos": [
+    {
+      "title": "kimi-K3.1-Pro实测! 怎么还抢我装备?",
+      "video_id": "WDbVmzVucqc",
+      "channel_title": "Karminski-牙医",
+      "description": "给大家带来Kimi-K3.1-Pro 实测! 直接说结论, K3.1-Pro保持了一直以来的高质量前端水平. 无论是审美还是空间理解, 3D建模, 光影特效 ...",
+      "published_at": "2026-10-29T20:40:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WDbVmzVucqc/hqdefault.jpg"
+    },
     {
       "title": "DeepSeek 1017 变抠门了???",
       "video_id": "iWl1AGlF8RU",
@@ -75,14 +83,6 @@
       "description": "给大家补上LongCat-2.0 的评测! 简单来讲, 性价比模型又被刷新了! LongCat-2.0 只要缓存命中基本就是不要钱. 所以我这期视频在 ...",
       "published_at": "2026-07-22T04:30:36Z",
       "thumbnail_url": "https://i.ytimg.com/vi/NEp7RpJA2aA/hqdefault.jpg"
-    },
-    {
-      "title": "Kimi-K3 全方位实测! 我竟然打游戏输给了她?!",
-      "video_id": "CYRqgwNXQGM",
-      "channel_title": "Karminski-牙医",
-      "description": "给大家带来Kimi-K3全方位编程能力实测! 包含前端, 后端, Agent能力. 并且包含现有SOTA级别模型横评! 这次Kimi-K3 交了一个让我都 ...",
-      "published_at": "2026-07-20T00:40:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CYRqgwNXQGM/hqdefault.jpg"
     }
   ]
 }

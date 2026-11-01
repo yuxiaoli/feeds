@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-10-25T03:47:13.461987",
+  "fetched_at": "2026-11-01T05:00:11.768389",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 10,
   "videos": [
+    {
+      "title": "Check out our spine-tingling feature on the suspenseful Scotland-set ‘SILENT HILL: Townfall’⚓",
+      "video_id": "LC5sUGCmRg4",
+      "channel_title": "Unreal Engine",
+      "description": "As Halloween approaches like a creeping fog, there's no better time to get enthralled in the unsettling world of Screen Burn's ...",
+      "published_at": "2026-10-29T17:00:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LC5sUGCmRg4/hqdefault.jpg"
+    },
+    {
+      "title": "Getting Started with Megalights in Unreal Engine 5.8 I Epic Games Education Webinar",
+      "video_id": "LPKz7gH-T0U",
+      "channel_title": "Unreal Engine",
+      "description": "Discover how MegaLights in Unreal Engine 5.8 can transform the way you light your environments with thousands of dynamic, ...",
+      "published_at": "2026-10-28T15:45:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LPKz7gH-T0U/hqdefault.jpg"
+    },
+    {
+      "title": "Fast-paced action RPG Phantom Blade Zero takes full advantage of Unreal Engine 5",
+      "video_id": "itZ04ZHWUKg",
+      "channel_title": "Unreal Engine",
+      "description": "Fast-paced action RPG Phantom Blade Zero takes full advantage of Unreal Engine 5 to achieve scale and quality with S-Game's ...",
+      "published_at": "2026-10-27T15:59:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/itZ04ZHWUKg/hqdefault.jpg"
+    },
     {
       "title": "Last week, we showed off next-gen Unreal Engine tools/systems that run on mobile 📲",
       "video_id": "nkNUmOg3Ucc",
@@ -13,20 +37,20 @@
       "thumbnail_url": "https://i.ytimg.com/vi/nkNUmOg3Ucc/hqdefault.jpg"
     },
     {
-      "title": "See Zebra Sample in Action: Live Animation Demo in UE5.8 with Jeff Gabor | Inside Unreal",
-      "video_id": "w0-iU6EBhrY",
-      "channel_title": "Unreal Engine",
-      "description": "Join Principal Animator Jeff Gabor for a live animation demo in UE5.8 using the Zebra Character and Rig from the free Zebra ...",
-      "published_at": "2026-10-22T20:53:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w0-iU6EBhrY/hqdefault.jpg"
-    },
-    {
       "title": "UE 5.8&#39;s Iris system provided crucial communication between client &amp; server for Gears of War: E-Day",
       "video_id": "nv1qf7Av7po",
       "channel_title": "Unreal Engine",
       "description": "Unreal Engine 5.8's new Iris replication system provided crucial communication between client and server for Gears of War: ...",
       "published_at": "2026-10-21T16:00:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nv1qf7Av7po/hqdefault.jpg"
+    },
+    {
+      "title": "State of Mobile Workflows in Unreal Engine 5.8 | Inside Unreal",
+      "video_id": "2OCeuCj0swQ",
+      "channel_title": "Unreal Engine",
+      "description": "In this episode of Inside Unreal, Epic's Paul Georges, Arvind Neelakantan, and Ari Arnbjörnsson will break down where mobile ...",
+      "published_at": "2026-10-15T20:20:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2OCeuCj0swQ/hqdefault.jpg"
     },
     {
       "title": "Apply today for our free UEFN Professional Bootcamp!",
@@ -59,30 +83,6 @@
       "description": "Watch this video to discover how Fuse Games used UE5's Lumen, Nanite, and World Partition to create striking visuals that do ...",
       "published_at": "2026-10-13T14:00:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/CuOeU9pkuMg/hqdefault.jpg"
-    },
-    {
-      "title": "Artist&#39;s Guide to Using MegaLights in Unreal Engine 5.8 | Inside Unreal",
-      "video_id": "Nrb17mtBJPM",
-      "channel_title": "Unreal Engine",
-      "description": "Join Dan Hutnik and Daryl Obert as they walk through what MegaLights is, how it works, and how to set it up, along with best ...",
-      "published_at": "2026-10-08T21:13:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Nrb17mtBJPM/hqdefault.jpg"
-    },
-    {
-      "title": "A First Look at Unreal MCP in Unreal Engine 5.8",
-      "video_id": "FON_noub0C0",
-      "channel_title": "Unreal Engine",
-      "description": "Unreal Model Context Protocol (MCP) provides an official, Epic-supported way to connect your favorite agentic LLM tools directly ...",
-      "published_at": "2026-10-08T15:59:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FON_noub0C0/hqdefault.jpg"
-    },
-    {
-      "title": "Unreal Engine&#39;s World Partition was a real boon for The Coalition in Gears of War: E-Day",
-      "video_id": "pPrI31of3fg",
-      "channel_title": "Unreal Engine",
-      "description": "The automated grid-based streaming, fast geo and memory management allowed the team to create larger environments, giving ...",
-      "published_at": "2026-10-07T16:32:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pPrI31of3fg/hqdefault.jpg"
     }
   ]
 }

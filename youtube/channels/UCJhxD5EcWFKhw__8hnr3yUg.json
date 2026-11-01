@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-25T03:47:22.661591",
+  "fetched_at": "2026-11-01T05:00:21.206059",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "瑞士火车美景与日内瓦湖，丹麦超级给力的胶囊旅馆",
+      "video_id": "3T52mAOSX0E",
+      "channel_title": "码农高天",
+      "description": "瑞士的最后一天过得也不错，吃了好吃的汉堡，游了美丽的日内瓦湖。终于要到丹麦了，我们住在一个我见过最好的胶囊旅馆里， ...",
+      "published_at": "2026-10-31T04:00:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3T52mAOSX0E/hqdefault.jpg"
+    },
     {
       "title": "夏天也能看到雪！从少女峰到大瀑布",
       "video_id": "yFuDqUP6FAQ",
@@ -75,14 +83,6 @@
       "description": "明天就要出发去台北啦，下周末就要完成我人生中第一次keynote了！我们COSCUP见！",
       "published_at": "2026-08-01T03:45:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/cpz0m1SMFoY/hqdefault.jpg"
-    },
-    {
-      "title": "世界杯踢完想起来了，我去过诺坎普啊！",
-      "video_id": "UPA08NUBuHY",
-      "channel_title": "码农高天",
-      "description": "vlog终于续上了！正好世界杯结束，把巴塞罗那最后一天的行程剪出来。去了一趟诺坎普，还转了转奥运区，巴塞罗那就到这里啦！",
-      "published_at": "2026-07-25T04:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UPA08NUBuHY/hqdefault.jpg"
     }
   ]
 }

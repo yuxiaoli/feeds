@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-10-25T03:47:19.878976",
+  "fetched_at": "2026-11-01T05:00:18.363400",
   "channel_id": "UCGWYKICLOE8Wxy7q3eYXmPA",
   "channel_title": "Best Partners TV",
   "count": 10,
   "videos": [
     {
-      "title": "黄仁勋GTC柏林2026：AI不是软件，是制造业 | GTC柏林2026 | 英伟达 | AI工厂 | OpenShell | DSX Pod | Hyperion | MicroDuck",
-      "video_id": "0y-tXzs1phc",
+      "title": "DeepSeek走入崔添翼时代​ | 梁文锋 | DeepSeek Harness | 产品部 | Jane Street | Claude Code | 背包问题九讲",
+      "video_id": "WEblesRoMdU",
       "channel_title": "最佳拍档",
-      "description": "2026年10月黄仁勋在柏林GTC首次欧洲主场演讲，抛出核心判断：AI不是软件，而是制造业。十年间英伟达通过极致协同设计实现AI ...",
-      "published_at": "2026-10-24T12:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0y-tXzs1phc/hqdefault.jpg"
+      "description": "10 月15 日DeepSeek 宕机近5 小时，次日公司宣布合并Harness、Web、App、Platform 四大团队成立产品部，由加入仅7 个月的 ...",
+      "published_at": "2026-10-31T12:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WEblesRoMdU/hqdefault.jpg"
     },
     {
-      "title": "DeepSeek 开源推理引擎DeepInfer | 推理框架开源 | 推理引擎 | V4.1 Flash |KV缓存 | 集群调度 | 3FS | PD分离 | 投机解码",
-      "video_id": "RNdnfCpQTZU",
+      "title": "【分享】魏哲巍：AI时代数学三问",
+      "video_id": "WOusCqgU3Jw",
       "channel_title": "最佳拍档",
-      "description": "10月20日，DeepSeek 开源线上推理框架DeepInfer 与协议编解码组件deepseek-recipe，同时公开了单集群155万亿Token、每卡每 ...",
-      "published_at": "2026-10-23T12:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RNdnfCpQTZU/hqdefault.jpg"
+      "description": "2026年10月25日，中国人民大学高瓴人工智能学院教授魏哲巍受邀在《知识分子》《赛先生》举办的“AI对数学家到底意味着什么” ...",
+      "published_at": "2026-10-31T03:08:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/WOusCqgU3Jw/hqdefault.jpg"
     },
     {
-      "title": "AI是怎么思考的：Anthropic研究员打开黑箱 | Claude | 可解释性 | Emmanuel Ameisen | Lenny Podcast | 语言模型 | 预训练 | 缩放定律",
-      "video_id": "TI0mVVUcQEQ",
+      "title": "Gemini 4 Carbon：谷歌两周一更抢回第一，但你现在还用不上​ | Gemini 4 Argon | Artificial Analysis | 网络安全 | 长程任务 | AI智能体",
+      "video_id": "w6gKhB8VO2Y",
       "channel_title": "最佳拍档",
-      "description": "本期节目解读Anthropic可解释性研究员Emmanuel Ameisen在Lenny Podcast访谈中的核心发现：大模型能力是\"长出来\"而非设计 ...",
-      "published_at": "2026-10-23T00:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TI0mVVUcQEQ/hqdefault.jpg"
+      "description": "10 月28 日，谷歌发布Gemini 4 Carbon，距上一代Argon 仅两周。它以59 分登顶Artificial Analysis 智能指数v5.0，官方14 项核心 ...",
+      "published_at": "2026-10-30T12:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w6gKhB8VO2Y/hqdefault.jpg"
     },
     {
-      "title": "丘成桐：数学家与一个功利时代 | 菲尔兹奖 | 王虹 | 邓煜 | 中国数学 | 求真书院 | 院士制度 | 奥数 | 好奇心 | 无用之用 | 基础科学 | 人工智能 | 纳维斯托克斯方程",
-      "video_id": "vP3R-XsS1zU",
+      "title": "牺牲云利润，也要赢下前沿模型之战​ | 谷歌CEO皮查伊 | Gemini 4 Argon | 谷歌 | 前沿模型 | 递归自我改进 | 算力 | 数据中心 | 太空计算 | 智能体 | AI原生",
+      "video_id": "-9ejc6KCW8U",
       "channel_title": "最佳拍档",
-      "description": "77岁的菲尔兹奖得主丘成桐，2026年两位中国数学家获奖后公开希望他们回国，却因\"你当年为什么不回来\"被质疑。他在《 ...",
-      "published_at": "2026-10-22T12:00:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vP3R-XsS1zU/hqdefault.jpg"
+      "description": "谷歌CEO皮查伊在《Big Technology Podcast》中罕见披露内部算力分配：为保障DeepMind的前沿模型研发，谷歌云会主动放弃能 ...",
+      "published_at": "2026-10-30T00:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-9ejc6KCW8U/hqdefault.jpg"
     },
     {
-      "title": "【分享】宇树Unitree发布了新机器人， H2-X 功夫传奇守护者，就问这一套连招下来你怕不怕😂",
-      "video_id": "1TP1JubiboA",
+      "title": "智谱蒸发万亿市值 | GLM | 大模型 | AI估值 | Kimi K3 | 月之暗面 | DeepSeek | 稀缺性溢价 | 单位经济模型 | API价格战 | 港股",
+      "video_id": "-kgQ7_O84Jc",
       "channel_title": "最佳拍档",
-      "description": "",
-      "published_at": "2026-10-22T01:09:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1TP1JubiboA/hqdefault.jpg"
+      "description": "智谱港股上市不到半年市值冲上1.33万亿港元，随后4个月跌去1.1万亿。模型能力没退步、收入增长4倍，市值为何缩水8成？本期拆 ...",
+      "published_at": "2026-10-29T12:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/-kgQ7_O84Jc/hqdefault.jpg"
     },
     {
-      "title": "奇点已至：AI 四年内把美国 GDP 推向 44 万亿美元​ | AI奇点 | Jack Clark | Anthropic | AI推动GDP | 人类最终测试 | 前沿数学测试 | 理论物理评估",
-      "video_id": "XEVU4NnWSG0",
+      "title": "华为与DeepSeek的共生：昇腾950PR实测​ | 华为昇腾 | DeepSeek | 昇腾950PR | 国产AI芯片 | TileLang | DeepEP | 推理性能 | HBM带宽",
+      "video_id": "5DUwED9Whdg",
       "channel_title": "最佳拍档",
-      "description": "Anthropic 联合创始人杰克·克拉克（Jack Clark）在国际货币基金组织与世界银行年会上给出一个激进推演：在类似奇点的假定条件下 ...",
-      "published_at": "2026-10-21T12:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XEVU4NnWSG0/hqdefault.jpg"
+      "description": "9月30日，DeepSeek 为TileLang、DeepGEMM、DeepEP 等六个仓库发布昇腾支持，SemiAnalysis 称这是华为与DeepSeek 的\" ...",
+      "published_at": "2026-10-29T00:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5DUwED9Whdg/hqdefault.jpg"
     },
     {
-      "title": "Codex 逆袭：从失败到 ChatGPT 底座​ | OpenAI | ChatGPT | GPT-5 | Claude Code | o1 | 思维链 | 创新者的窘境 | Sam Altman",
-      "video_id": "DVYJ1nm7RnE",
+      "title": "意识并非一直在线？大脑每秒15次切换意识状态​ | 神经科学 | 曹颖 | Doris Tsao | 双眼竞争 | 意识的神经相关物 | 下颞叶皮层 | 前额叶 | 全局工作空间理论 | 卡弗里奖",
+      "video_id": "M_yv2ikGk0A",
       "channel_title": "最佳拍档",
-      "description": "本期复盘OpenAI 的Codex 如何从一次失败的云端产品，逆袭成为ChatGPT 的底座。故事从GPT-5 发布前夜讲起，串起三代计算范式 ...",
-      "published_at": "2026-10-21T00:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DVYJ1nm7RnE/hqdefault.jpg"
+      "description": "意识到底藏在大脑哪个位置？前额叶阵营与后部皮层阵营争论多年，2025年《自然》发表的对抗性实验显示双方核心预测都缺乏充分 ...",
+      "published_at": "2026-10-28T12:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/M_yv2ikGk0A/hqdefault.jpg"
     },
     {
-      "title": "AI 不是黑箱，99% 神经元清晰可见​ | AI可解释性 | 神经网络 | 稀疏自编码器 | SAE | 叠加假说 | 递归泛化 | 机制可解释性 | AI对齐 | InceptionV1",
-      "video_id": "LMm7QCoieMc",
+      "title": "解密：速成车是怎么造出来的",
+      "video_id": "tUL8opbBOUs",
       "channel_title": "最佳拍档",
-      "description": "AI 可解释性领域流传十年的\"猫车神经元\"经典案例，被当年亲手把它写进里程碑论文《Zoom In》的作者尼克·卡马拉塔（Nick ...",
-      "published_at": "2026-10-20T00:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LMm7QCoieMc/hqdefault.jpg"
+      "description": "看了篇晚点的新闻报道，用AI直出了个动画视频，配乐AI生成的太差，自己找了个。",
+      "published_at": "2026-10-28T01:53:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/tUL8opbBOUs/hqdefault.jpg"
     },
     {
-      "title": "黄仁勋算账：AI收入撑得起几万亿美元的资本开支吗​ | 黄仁勋 | 英伟达 | AI泡沫 | 资本开支 | AI基建 | 数据中心 | OpenAI | Anthropic | 太空数据中心",
-      "video_id": "8IOqkjte3no",
+      "title": "Kimi K3.1 Pro：您的额度已用完​ | 月之暗面 | Moonshot AI | Kimi会员额度 | AI大模型评测 | 大模型API价格 | 国产AI芯片 | 华为昇腾",
+      "video_id": "dBdzmTSSEGs",
       "channel_title": "最佳拍档",
-      "description": "黄仁勋第三次做客BG2 Pod，正面回应市场最焦虑的问题：AI收入撑不撑得起几万亿美元的资本开支？他认为市场盯错了地方，不该 ...",
-      "published_at": "2026-10-19T12:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8IOqkjte3no/hqdefault.jpg"
+      "description": "Kimi K3.1 Pro发布后口碑两极：Terminal-Bench 4.0拿到65.7%直逼Claude Opus 5.5，AA实测终端编程67%甚至超过Sonnet 5.5， ...",
+      "published_at": "2026-10-27T12:17:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/dBdzmTSSEGs/hqdefault.jpg"
     },
     {
-      "title": "H-JEPA开源 | Yann LeCun世界模型创业交卷 | 杨立昆 | 世界模型 | JEPA | AMI | 大语言模型 | AGI | 具身智能 | 表征学习",
-      "video_id": "6eHi1hGKw_k",
+      "title": "AI挖出的PHP漏洞，为何逼得多国政府集体关站​ | PHP2Shell | AI安全漏洞 | CVE-2026-109618 | CVE-2026-109619 | 网络安全 | 零日漏洞",
+      "video_id": "JasRfjsQBNU",
       "channel_title": "最佳拍档",
-      "description": "图灵奖得主杨立昆创办的AMI公司发布分层世界模型H-JEPA并全面开源。该模型让每一层在自己的潜空间、自己的时间尺度上做预测 ...",
-      "published_at": "2026-10-18T10:29:49Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6eHi1hGKw_k/hqdefault.jpg"
+      "description": "10月下旬一周内，全球技术栈遭遇集中安全风暴：PHP2Shell（CVE-2026-109618/19，9.2分）是其中最具标志性事件——由AI挖掘 ...",
+      "published_at": "2026-10-27T00:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JasRfjsQBNU/hqdefault.jpg"
     }
   ]
 }

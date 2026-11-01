@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-10-25T03:47:39.825461",
+  "fetched_at": "2026-11-01T05:00:39.180178",
   "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
   "channel_title": "OpenAI",
   "count": 10,
   "videos": [
     {
-      "title": "Hunt bugs with your dot",
-      "video_id": "6f7ojkd4_Wc",
+      "title": "There are many futures. Which do you want to build?",
+      "video_id": "o4D1J1YWjhg",
       "channel_title": "OpenAI",
-      "description": "We're using dots to build better dots. Rennie Song, an engineer at OpenAI, uses her dot to gather feedback from social media and ...",
-      "published_at": "2026-10-23T22:05:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6f7ojkd4_Wc/hqdefault.jpg"
+      "description": "",
+      "published_at": "2026-10-30T20:17:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/o4D1J1YWjhg/hqdefault.jpg"
     },
     {
-      "title": "From notes to AI training with ChatGPT Work | Realpage.",
-      "video_id": "7Cs5qyBlYQk",
+      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
+      "video_id": "7TtGMileCus",
       "channel_title": "OpenAI",
-      "description": "Austin Braham at Realpage. uses ChatGPT Work to turn ideas, notes and source materials into complete AI training packages ...",
-      "published_at": "2026-10-23T18:42:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7Cs5qyBlYQk/hqdefault.jpg"
+      "description": "Before ChatGPT Work, we were walking. Now with ChatGPT Work, we are running.” For Gen's Howie Xu, that means ...",
+      "published_at": "2026-10-30T15:24:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7TtGMileCus/hqdefault.jpg"
     },
     {
-      "title": "How Realpage. builds AI training with ChatGPT Work",
-      "video_id": "hgX1hgyWD4g",
+      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
+      "video_id": "Oi9DHk57KeQ",
       "channel_title": "OpenAI",
-      "description": "At Realpage., Austin Braham creates AI training for different teams, roles and skill levels. He uses ChatGPT Work to turn ideas, ...",
-      "published_at": "2026-10-23T18:39:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/hgX1hgyWD4g/hqdefault.jpg"
+      "description": "Before ChatGPT Work, we were walking. Now with ChatGPT Work, we are running.” For Gen's Howie Xu, that means ...",
+      "published_at": "2026-10-30T15:22:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Oi9DHk57KeQ/hqdefault.jpg"
     },
     {
-      "title": "AI agents for everyday IT fixes | Shield and OpenAI",
-      "video_id": "2lNUGkCg_qc",
+      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
+      "video_id": "GNYHDltnwZQ",
       "channel_title": "OpenAI",
-      "description": "Shield's AI agents use Astra to work directly in business software and handle routine IT fixes, giving technicians more time for ...",
-      "published_at": "2026-10-23T18:36:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2lNUGkCg_qc/hqdefault.jpg"
+      "description": "We have about 600 applications that have been built by different people in the company.” At Zendesk, teams across sales, ...",
+      "published_at": "2026-10-29T22:48:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GNYHDltnwZQ/hqdefault.jpg"
     },
     {
-      "title": "How Shield uses OpenAI’s Astra to support IT teams",
-      "video_id": "m6MlxaFMmPI",
+      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
+      "video_id": "L6pzlo1QvoM",
       "channel_title": "OpenAI",
-      "description": "When someone can't log in or get online, their IT team often has to put other work on hold. Shield is building Forge to help IT ...",
-      "published_at": "2026-10-23T18:34:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m6MlxaFMmPI/hqdefault.jpg"
+      "description": "We have about 600 applications that have been built by different people in the company.” At Zendesk, teams across sales, ...",
+      "published_at": "2026-10-29T16:23:43Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/L6pzlo1QvoM/hqdefault.jpg"
     },
     {
-      "title": "How AT&amp;T is building AI-powered legal workflows with OpenAI",
-      "video_id": "V39_L7uh66M",
+      "title": "API credits, now in ChatGPT Pro and Business plans",
+      "video_id": "ujmyzWSj8IU",
       "channel_title": "OpenAI",
-      "description": "AT&T's David McAtee and Bill Ryan describe how AI is changing their legal team's work—and what they plan to build with OpenAI ...",
-      "published_at": "2026-10-23T18:32:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/V39_L7uh66M/hqdefault.jpg"
+      "description": "Starting today, eligible ChatGPT Pro and Business subscribers can claim up to $500 per month in API credits to build apps and ...",
+      "published_at": "2026-10-28T23:45:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ujmyzWSj8IU/hqdefault.jpg"
     },
     {
-      "title": "From analyst to builder with Codex | Benefit Street Partners",
-      "video_id": "qyGvwLgqmaU",
+      "title": "Merge CEO Shensi Ding: AI fluency starts at the top",
+      "video_id": "kP26OlW5PBk",
       "channel_title": "OpenAI",
-      "description": "Anant Kumar at Benefit Street Partners used Codex to build a tool that collects loan valuations from SEC filings and turns them ...",
-      "published_at": "2026-10-23T18:22:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/qyGvwLgqmaU/hqdefault.jpg"
+      "description": "If you're an executive, you are the ceiling for AI fluency for your organization.” Merge co-founder and CEO Shensi Ding manages ...",
+      "published_at": "2026-10-28T11:51:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kP26OlW5PBk/hqdefault.jpg"
     },
     {
-      "title": "How Benefit Street Partners is building financial analysis tools with Codex",
-      "video_id": "CTkDi1THc_g",
+      "title": "Why Merge CEO Shensi Ding stays hands-on with Codex",
+      "video_id": "6ep8Vvm4Bdw",
       "channel_title": "OpenAI",
-      "description": "I've gone from being just an analyst and a portfolio manager to being a developer as well now. I can build things.” Benefit Street ...",
-      "published_at": "2026-10-23T18:20:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CTkDi1THc_g/hqdefault.jpg"
+      "description": "If you're an executive, you are the ceiling for AI fluency for your organization.” Merge co-founder and CEO Shensi Ding manages ...",
+      "published_at": "2026-10-28T11:50:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6ep8Vvm4Bdw/hqdefault.jpg"
     },
     {
-      "title": "Messi asks ChatGPT to teach him a chess opening",
-      "video_id": "RLQR5_5fJDA",
+      "title": "Faster contract review. Broader legal analysis. | Legora’s Alex Fortescue-Webb",
+      "video_id": "z-WZMjNsg-k",
       "channel_title": "OpenAI",
-      "description": "Messi asked ChatGPT to teach him a chess opening that matched his style. It suggested Goat Horns. Try ChatGPT's ...",
-      "published_at": "2026-10-22T21:58:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RLQR5_5fJDA/hqdefault.jpg"
+      "description": "When deadlines limit how many contracts lawyers can examine, important risks can go unseen. Alex Fortescue-Webb, Global ...",
+      "published_at": "2026-10-28T09:45:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/z-WZMjNsg-k/hqdefault.jpg"
     },
     {
-      "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
-      "video_id": "l16Gw7oVLNQ",
+      "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
+      "video_id": "UOfmD1fY-i8",
       "channel_title": "OpenAI",
-      "description": "Following a 1000-person pilot, Uber is bringing ChatGPT Work to more than 30000 employees worldwide in its first company-wide ...",
-      "published_at": "2026-10-22T18:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/l16Gw7oVLNQ/hqdefault.jpg"
+      "description": "Legora co-founder and CEO Max Junestrand wants to make legal expertise available wherever it's needed. He shares how ...",
+      "published_at": "2026-10-28T09:45:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UOfmD1fY-i8/hqdefault.jpg"
     }
   ]
 }

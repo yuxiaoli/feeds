@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-10-25T03:47:25.465653",
+  "fetched_at": "2026-11-01T05:00:24.304524",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "机器人也需要“手感”：帕西尼谈触觉、数据与物理AI｜硅谷101年度线下大会",
+      "video_id": "RalUwb0uqbI",
+      "channel_title": "硅谷101",
+      "description": "感谢帕西尼对Alignment 2026大会的现场赞助支持当AI开始走进物理世界，机器人也需要学会感受每一次接触。拿起一个物体，该用 ...",
+      "published_at": "2026-10-29T14:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RalUwb0uqbI/hqdefault.jpg"
+    },
+    {
+      "title": "天文学的AI革命：在海量数据中寻找新天体，让微弱的宇宙信号被看见｜硅谷101年度线下大会",
+      "video_id": "hrQBNhpIFlc",
+      "channel_title": "硅谷101",
+      "description": "人类正在迎来一个全新的宇宙探索时代。新一代观测设施正以前所未有的速度，收集来自宇宙深处的数据。每天数TB甚至数十TB的 ...",
+      "published_at": "2026-10-28T04:20:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hrQBNhpIFlc/hqdefault.jpg"
+    },
+    {
+      "title": "半导体的未来：从新材料到新芯片，AI能否推动自身进化？｜硅谷101年度线下大会",
+      "video_id": "cmhym0OcoS8",
+      "channel_title": "硅谷101",
+      "description": "下一代芯片会用上什么新材料？AI又能怎样参与研发与制造？ 在硅谷101 Alignment 2026大会上，杜克大学助理教授Harry Wang从 ...",
+      "published_at": "2026-10-27T04:48:12Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cmhym0OcoS8/hqdefault.jpg"
+    },
+    {
+      "title": "AI重构跨境支付：效率、风控与Agent商业时代",
+      "video_id": "wPMjMlgJuU4",
+      "channel_title": "硅谷101",
+      "description": "本期视频由蚂蚁国际赞助播出。 跨境支付，正在变得越来越简单。点一下、扫一下，一笔付款就完成了。但看似简单的操作，背后却 ...",
+      "published_at": "2026-10-25T23:00:13Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wPMjMlgJuU4/hqdefault.jpg"
+    },
     {
       "title": "AI助理争夺战：解析Muse、Grok Bot与Instinct背后的产品布局、入口生意与盈利难题",
       "video_id": "ARocqV7DtC8",
@@ -51,38 +83,6 @@
       "description": "9月初，没有方向盘、没有踏板的Cybercab正式在美国德州奥斯汀投入运营。 在此之际，我们也前往奥斯汀，实地体验了这辆出租车 ...",
       "published_at": "2026-09-28T05:38:23Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2pZ9Gl7qVUo/hqdefault.jpg"
-    },
-    {
-      "title": "AI开始预测人类：83亿虚拟人格、数字社会，与一门押注未来的生意｜解析AI预测模型｜AI prediction model",
-      "video_id": "--ePbkaRwl4",
-      "channel_title": "硅谷101",
-      "description": "如果AI不仅能回答问题，还能“复制”人类、模拟社会，甚至把尚未发生的未来提前跑一遍，会发生什么？ 从只有25个Agent的“斯坦福 ...",
-      "published_at": "2026-09-10T00:29:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/--ePbkaRwl4/hqdefault.jpg"
-    },
-    {
-      "title": "机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争｜机器人系列",
-      "video_id": "BmcoQDwdkeM",
-      "channel_title": "硅谷101",
-      "description": "机器人需要触觉吗？越来越多人认为答案是肯定的。 黄仁勋近来数次强调触觉在机器人研发中的重要性，并称其为“机器人迈向物理 ...",
-      "published_at": "2026-09-04T01:00:29Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/BmcoQDwdkeM/hqdefault.jpg"
-    },
-    {
-      "title": "mRNA的第二战场：拆解人类首个肿瘤疫苗三期突破｜对话艾博生物CEO英博【101视频播客】",
-      "video_id": "G-1qbtXJKyQ",
-      "channel_title": "硅谷101",
-      "description": "2026年8月，Moderna与默沙东联合开发的个体化mRNA癌症疫苗公布三期临床积极结果，Moderna股价一度暴涨超过200%。",
-      "published_at": "2026-08-28T05:54:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/G-1qbtXJKyQ/hqdefault.jpg"
-    },
-    {
-      "title": "AI可解释性与对齐：J-Space，思维链，AI人格，幻觉，与金门大桥【101视频播客】",
-      "video_id": "J5_90lWxM_o",
-      "channel_title": "硅谷101",
-      "description": "一个模型被问：“会织网的动物有几条腿？”它回答8。问题里没有出现“蜘蛛”，但模型内部其实已经判断这个动物是蜘蛛。研究者没有 ...",
-      "published_at": "2026-08-26T23:00:13Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/J5_90lWxM_o/hqdefault.jpg"
     }
   ]
 }

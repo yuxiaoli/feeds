@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-10-25T03:47:21.972448",
+  "fetched_at": "2026-11-01T05:00:20.489718",
   "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
   "channel_title": "DamiLee",
   "count": 10,
   "videos": [
+    {
+      "title": "Happy halloween everyone ☠️👻☠️",
+      "video_id": "XFncrDhMDic",
+      "channel_title": "DamiLee",
+      "description": "",
+      "published_at": "2026-10-31T21:24:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/XFncrDhMDic/hqdefault.jpg"
+    },
+    {
+      "title": "The Hidden Pattern in Khafre’s Pyramid",
+      "video_id": "Dn5dCPg_yTc",
+      "channel_title": "DamiLee",
+      "description": "Why is Khafre's pyramid the only one at Giza that still has its smooth cap? The casing is Tura limestone: a fine white stone ...",
+      "published_at": "2026-10-28T15:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Dn5dCPg_yTc/hqdefault.jpg"
+    },
+    {
+      "title": "How Did Prehistoric People Build the Dolmens?",
+      "video_id": "Ozv4k-deZy8",
+      "channel_title": "DamiLee",
+      "description": "Did you know most dolmens were never meant to be seen? What's standing today is the skeleton. Most dolmens were burial ...",
+      "published_at": "2026-10-26T15:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ozv4k-deZy8/hqdefault.jpg"
+    },
     {
       "title": "This Pyramid Theory Changes Everything",
       "video_id": "F8dLrGoZkis",
@@ -59,30 +83,6 @@
       "description": "Ready to bring your idea to launch with Framer's AI Design agent? Use code DAMI2 for 30% off an annual pro plan.",
       "published_at": "2026-09-27T15:30:19Z",
       "thumbnail_url": "https://i.ytimg.com/vi/TPTtcV3qJ4U/hqdefault.jpg"
-    },
-    {
-      "title": "The Most Popular Pyramid Theory Has a Huge Problem",
-      "video_id": "Jyyoo2x9N54",
-      "channel_title": "DamiLee",
-      "description": "Out of every theory on how the pyramids were built, this is the one most people believe. It's also the one with the biggest hole in it.",
-      "published_at": "2026-09-15T16:07:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Jyyoo2x9N54/hqdefault.jpg"
-    },
-    {
-      "title": "The Pyramid&#39;s Payroll Survived. The Blueprints Didn&#39;t.",
-      "video_id": "yHET74gmTbk",
-      "channel_title": "DamiLee",
-      "description": "We have the payroll for the Great Pyramids, but we don't have the blueprints. This is a construction logbook from 4500 years ago.",
-      "published_at": "2026-09-01T16:03:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yHET74gmTbk/hqdefault.jpg"
-    },
-    {
-      "title": "The Genius of the Great Pyramid&#39;s Architecture",
-      "video_id": "XbQHK8suS5Q",
-      "channel_title": "DamiLee",
-      "description": "They built it without compasses, lasers, or GPS. Just the stars, and somehow ended up within 1/15th of a degree of true north.",
-      "published_at": "2026-08-26T16:57:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XbQHK8suS5Q/hqdefault.jpg"
     }
   ]
 }

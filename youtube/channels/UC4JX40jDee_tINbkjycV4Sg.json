@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-10-25T03:47:07.634352",
+  "fetched_at": "2026-11-01T05:00:05.846345",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "Learn 99% Of Claude Code in One Video",
-      "video_id": "3TwbE7gv6qo",
+      "title": "Jev Python Tutorial: AI Decisions in 10 Minutes",
+      "video_id": "Jwos3ibkEeM",
       "channel_title": "Tech With Tim",
-      "description": "Get started with Claude Code: https://clau.de/TechWithTim Most people install Claude Code, type a prompt, and never touch the ...",
-      "published_at": "2026-10-24T14:00:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3TwbE7gv6qo/hqdefault.jpg"
+      "description": "Download \"The AI Stack I Run My Business On\" in collaboration with HubSpot: https://clickhubspot.com/92149a What if you could ...",
+      "published_at": "2026-10-31T13:04:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Jwos3ibkEeM/hqdefault.jpg"
     },
     {
-      "title": "Chatbot vs Agent",
-      "video_id": "Hgk9RtJoTSQ",
+      "title": "The AI Agent That Teaches Itself",
+      "video_id": "LNu8NAJo62Y",
       "channel_title": "Tech With Tim",
-      "description": "What's the real difference between a chatbot and an AI agent? A chatbot answers your question and stops. An agent gets a goal ...",
-      "published_at": "2026-10-24T12:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hgk9RtJoTSQ/hqdefault.jpg"
+      "description": "What makes Hermes Agent different from other AI agents? It learns. On the surface it looks like Open Claw, but the difference is ...",
+      "published_at": "2026-10-31T12:00:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/LNu8NAJo62Y/hqdefault.jpg"
     },
     {
-      "title": "Understand Base44 in 15 Minutes",
-      "video_id": "5h4qzPxXIqc",
+      "title": "How to Build RAG From Scratch in 50 Lines of Python - Full Tutorial",
+      "video_id": "f9uAG3AQGWM",
       "channel_title": "Tech With Tim",
-      "description": "Get started with Base44 for free: https://base44.pxf.io/QYrkgP Base44 is the AI app builder that one guy bootstrapped to an $80 ...",
-      "published_at": "2026-10-23T14:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5h4qzPxXIqc/hqdefault.jpg"
+      "description": "This video is sponsored by TripleTen, a professional education platform designed to help tech professionals and career changers ...",
+      "published_at": "2026-10-30T13:00:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/f9uAG3AQGWM/hqdefault.jpg"
     },
     {
-      "title": "I Built a Real Data App with Claude Code (and It Cost $0)",
-      "video_id": "3rgd2Xx5ceg",
+      "title": "The Simplest AI Assistant to Deploy",
+      "video_id": "NH9jVwWa23Q",
       "channel_title": "Tech With Tim",
-      "description": "Get started with a Databricks free account: https://www.databricks.com/learn/free-edition Most AI coding videos end with an app ...",
-      "published_at": "2026-10-21T14:00:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3rgd2Xx5ceg/hqdefault.jpg"
+      "description": "Who should actually use Open Claw? Reach for it if you want an assistant you can message like a person and keep simple.",
+      "published_at": "2026-10-30T12:00:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/NH9jVwWa23Q/hqdefault.jpg"
     },
     {
-      "title": "Which AI Agent Should You Actually Use",
-      "video_id": "8Inu1FNd8mc",
+      "title": "OpenClaw The Honest Pros and Cons",
+      "video_id": "e1vuX2svBrE",
       "channel_title": "Tech With Tim",
-      "description": "There are now so many AI agents that nobody can keep track, and new ones drop almost daily. They all claim to be autonomous, ...",
-      "published_at": "2026-10-21T12:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8Inu1FNd8mc/hqdefault.jpg"
+      "description": "Should you use OpenClaw as your AI assistant? The pros: it's one of the fastest and easiest to set up, works with any model, and ...",
+      "published_at": "2026-10-29T12:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/e1vuX2svBrE/hqdefault.jpg"
     },
     {
-      "title": "Why Your Local AI Is Slow",
-      "video_id": "5J6OXXe4SeM",
+      "title": "I Tested The Viral Reverse Engineering Repo",
+      "video_id": "KlZDeqvD52A",
       "channel_title": "Tech With Tim",
-      "description": "Here's the thing nobody tells you about local AI speed: for every single token a model generates, it rereads itself entirely from ...",
-      "published_at": "2026-10-20T12:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/5J6OXXe4SeM/hqdefault.jpg"
+      "description": "Get started with OpenRouter here: https://openrouter.plug.dev/NY7fmtI What if you could reverse engineer almost any app and ...",
+      "published_at": "2026-10-28T14:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/KlZDeqvD52A/hqdefault.jpg"
     },
     {
-      "title": "VRAM Explained What Decides If a Model Fits",
-      "video_id": "Dpg7pcPa4WE",
+      "title": "The AI Agent in Your Chat Apps",
+      "video_id": "6dsRGjyjqN4",
       "channel_title": "Tech With Tim",
-      "description": "Can your machine run that AI model? It comes down to capacity, the fast memory your GPU can reach. On Windows that's VRAM ...",
-      "published_at": "2026-10-19T12:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Dpg7pcPa4WE/hqdefault.jpg"
+      "description": "What if your AI agent lived inside the chat apps you already use? That's OpenClaw, an always-on personal assistant you run from ...",
+      "published_at": "2026-10-28T12:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6dsRGjyjqN4/hqdefault.jpg"
     },
     {
-      "title": "Build a Multimodal AI App in Python (Beginner Project)",
-      "video_id": "aypkvuGFq5Y",
+      "title": "Everything New in Hermes Agent (Full Setup Guide)",
+      "video_id": "S8fc9na4pA8",
       "channel_title": "Tech With Tim",
-      "description": "Get started with OpenRouter here: https://openrouter.plug.dev/DQFLEpP Speak to your computer, tell it what you want to create, ...",
-      "published_at": "2026-10-18T14:00:36Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aypkvuGFq5Y/hqdefault.jpg"
+      "description": "Deploy Hermes agent with Hostinger and use code 'techwithtim' for 10% off: https://www.hostg.xyz/SHKIW This video will teach ...",
+      "published_at": "2026-10-27T14:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S8fc9na4pA8/hqdefault.jpg"
     },
     {
-      "title": "Why You Can’t Run That AI Model",
-      "video_id": "LLFpLVvK9Dk",
+      "title": "6 AI Agents, 6 Different Jobs",
+      "video_id": "rPoLNjfda2w",
       "channel_title": "Tech With Tim",
-      "description": "Why can't you run an AI model even when you have enough storage? Because an AI model is just billions of numbers, and \"8B\" ...",
-      "published_at": "2026-10-18T12:00:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LLFpLVvK9Dk/hqdefault.jpg"
+      "description": "Which AI agent is actually right for you? Here are six worth knowing, ordered from easiest to get value out of to most specialized, ...",
+      "published_at": "2026-10-27T12:00:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/rPoLNjfda2w/hqdefault.jpg"
     },
     {
-      "title": "Mac or PC for AI Models",
-      "video_id": "3Cwnie5_3aw",
+      "title": "How I Would Learn Python for Machine Learning (If I Started Over)",
+      "video_id": "3UFpGesW2_U",
       "channel_title": "Tech With Tim",
-      "description": "Mac or PC for running local AI models, which should you actually buy? Using real benchmarks across Mac, PC, and NVIDIA's ...",
-      "published_at": "2026-10-17T12:00:14Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3Cwnie5_3aw/hqdefault.jpg"
+      "description": "Best hands-on course to learn Python for Machine Learning: DataCamp Python Data Fundamentals Track ...",
+      "published_at": "2026-10-26T14:02:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3UFpGesW2_U/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-25T03:47:57.427346",
+  "fetched_at": "2026-11-01T05:00:58.198227",
   "channel_id": "UCqdwM6M5SPmuX779w-6iQTA",
   "channel_title": "Joma Clips",
   "count": 10,
   "videos": [
+    {
+      "title": "Me reacting to the Binance Hack",
+      "video_id": "9XOKC9_7lV8",
+      "channel_title": "Joma Clips",
+      "description": "",
+      "published_at": "2026-11-01T02:08:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/9XOKC9_7lV8/hqdefault.jpg"
+    },
     {
       "title": "coding on my phone before we had AI (2020)",
       "video_id": "a8ImcvefiU8",
@@ -75,14 +83,6 @@
       "description": "Full video on @Joma Tech https://www.youtube.com/watch?v=YRddOEtlnEk.",
       "published_at": "2025-09-25T07:35:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/T1A4CpaoeSA/hqdefault.jpg"
-    },
-    {
-      "title": "when you&#39;re afraid of AI #ad Mailchimp",
-      "video_id": "LKe__lyU95k",
-      "channel_title": "Joma Clips",
-      "description": "Thanks to Mailchimp for sponsoring this video! Get started at https://mailchimp.com/",
-      "published_at": "2023-03-16T20:19:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LKe__lyU95k/hqdefault.jpg"
     }
   ]
 }

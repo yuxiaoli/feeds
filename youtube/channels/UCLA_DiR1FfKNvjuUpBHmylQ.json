@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-10-25T03:47:27.678566",
+  "fetched_at": "2026-11-01T05:00:26.561179",
   "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "channel_title": "NASA",
   "count": 10,
   "videos": [
+    {
+      "title": "U.S. Spacewalk 100",
+      "video_id": "hv867HnY4j4",
+      "channel_title": "NASA",
+      "description": "Join us for a spacewalk milestone! NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk are ...",
+      "published_at": "2026-10-29T20:05:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/hv867HnY4j4/hqdefault.jpg"
+    },
     {
       "title": "Artemis Acceleration (Oct. 23, 2026)",
       "video_id": "pAKqJxuxDgk",
@@ -19,14 +27,6 @@
       "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module.",
       "published_at": "2026-10-22T14:29:44Z",
       "thumbnail_url": "https://i.ytimg.com/vi/ROboUHfPUrU/hqdefault.jpg"
-    },
-    {
-      "title": "U.S. Spacewalk Preview News Conference (Oct. 20, 2026)",
-      "video_id": "UleiRdWFG7o",
-      "channel_title": "NASA",
-      "description": "We're giving a preview of two upcoming spacewalks on Oct. 29 and Nov. 5 to finish installing solar arrays that will provide more ...",
-      "published_at": "2026-10-20T18:30:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/UleiRdWFG7o/hqdefault.jpg"
     },
     {
       "title": "NASA Moon Base: Rovers and Lunar Terrain Vehicles (October 2026 Update)",

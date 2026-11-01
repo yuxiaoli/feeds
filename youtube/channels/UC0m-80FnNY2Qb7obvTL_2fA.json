@@ -1,16 +1,32 @@
 {
-  "fetched_at": "2026-10-25T03:47:02.278645",
+  "fetched_at": "2026-11-01T05:00:00.646680",
   "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
   "channel_title": "Microsoft Azure",
   "count": 10,
   "videos": [
     {
-      "title": "How Microsoft Is Putting Europe in Control of Its AI Future | Satya Nadella on Sovereign Cloud",
-      "video_id": "rfYJ4SgvrEs",
+      "title": "Content Creation &amp; Production: Valorem Reply on Accelerating Content Workflows — Jamie Burgess",
+      "video_id": "1T5fTau5bfc",
       "channel_title": "Microsoft Azure",
-      "description": "Discover how Microsoft is advancing digital sovereignty in Europe. At Microsoft Frontier Tour in Paris, CEO Satya Nadella unveils ...",
-      "published_at": "2026-10-23T19:28:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rfYJ4SgvrEs/hqdefault.jpg"
+      "description": "Jamie Burgess, AI Innovation and Transformation Leader at Valorem Reply, discusses how the Microsoft partner is helping media ...",
+      "published_at": "2026-10-31T05:40:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1T5fTau5bfc/hqdefault.jpg"
+    },
+    {
+      "title": "What Is Orchestrated Media Intelligence? | Microsoft Media &amp; Entertainment",
+      "video_id": "7cQwWUjv3mQ",
+      "channel_title": "Microsoft Azure",
+      "description": "What is orchestrated media intelligence, and what could it mean for media and entertainment? Microsoft introduces its approach ...",
+      "published_at": "2026-10-31T05:39:23Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7cQwWUjv3mQ/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft Foundry: The Platform for Smarter AI Model Selection",
+      "video_id": "_YbkY-vFTRU",
+      "channel_title": "Microsoft Azure",
+      "description": "Building great AI applications takes more than choosing the right model. See how Microsoft Foundry helps teams continuously ...",
+      "published_at": "2026-10-26T15:00:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_YbkY-vFTRU/hqdefault.jpg"
     },
     {
       "title": "Introducing Azure Maia 300",
@@ -67,22 +83,6 @@
       "description": "Find cloud solutions, AI apps, and agents from trusted partners at Microsoft Marketplace. Here you can discover solutions that ...",
       "published_at": "2026-06-17T14:48:43Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jcX_ptg7KYA/hqdefault.jpg"
-    },
-    {
-      "title": "Azure Container Storage for AKS | Free, fast, open‑source storage for Kubernetes on Azure",
-      "video_id": "MlwkUN7oo0E",
-      "channel_title": "Microsoft Azure",
-      "description": "Announcing Azure Container Storage v2.0.0: Supercharge Kubernetes workloads with the fastest storage for AKS. Azure ...",
-      "published_at": "2026-05-29T13:00:30Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MlwkUN7oo0E/hqdefault.jpg"
-    },
-    {
-      "title": "More Models, More Power: Fireworks AI on Foundry Keeps Raising the Bar",
-      "video_id": "CjYaiFXnalw",
-      "channel_title": "Microsoft Azure",
-      "description": "The enterprise AI landscape is shifting fast. Are you ready? Get a sneak peek at our upcoming fireside chat where Yina and Lin sit ...",
-      "published_at": "2026-05-14T15:59:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CjYaiFXnalw/hqdefault.jpg"
     }
   ]
 }

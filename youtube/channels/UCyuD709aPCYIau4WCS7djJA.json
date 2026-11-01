@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-10-25T03:48:02.073073",
+  "fetched_at": "2026-11-01T05:01:03.085183",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "🌌 November 2026 is packed with spectacular celestial events!",
+      "video_id": "AVjXViCaizw",
+      "channel_title": "Star Walk",
+      "description": "From a four-planet parade and fast-moving meteors to the first Supermoon since January and an exceptionally rare celestial ...",
+      "published_at": "2026-10-31T22:00:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AVjXViCaizw/hqdefault.jpg"
+    },
+    {
+      "title": "Why is the Moon out during the day? 🌙☀️",
+      "video_id": "QvjYLlL_Riw",
+      "channel_title": "Star Walk",
+      "description": "Because she can appear whenever she wants! But seriously: the Moon orbits Earth, and for much of the month, it spends part of ...",
+      "published_at": "2026-10-30T10:01:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/QvjYLlL_Riw/hqdefault.jpg"
+    },
+    {
+      "title": "You Won’t Believe How the Sun Moves Through the Galaxy! ☀️",
+      "video_id": "PZ3TGCOX5F4",
+      "channel_title": "Star Walk",
+      "description": "Earth takes one year to orbit the Sun. The Sun needs about 230 million years to complete one orbit around the center of the Milky ...",
+      "published_at": "2026-10-30T10:02:37Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PZ3TGCOX5F4/hqdefault.jpg"
+    },
     {
       "title": "❗️A new Moon crater nobody noticed",
       "video_id": "WUJ1nvWke44",
@@ -59,30 +83,6 @@
       "description": "Stars come in different colors because their surface temperatures are different — and their spectra also reveal which elements are ...",
       "published_at": "2026-10-06T07:39:37Z",
       "thumbnail_url": "https://i.ytimg.com/vi/XXpT9wGYoC8/hqdefault.jpg"
-    },
-    {
-      "title": "🌍 Earth has plenty of freshwater… or does it?",
-      "video_id": "wOTjI96KxV8",
-      "channel_title": "Star Walk",
-      "description": "From space, Earth looks like a world dominated by water. Oceans cover most of its surface, and the total volume of water on our ...",
-      "published_at": "2026-09-21T11:56:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wOTjI96KxV8/hqdefault.jpg"
-    },
-    {
-      "title": "Astronomy events to watch from Sep 18 to 22! ✨",
-      "video_id": "2r3XBNMIUaQ",
-      "channel_title": "Star Walk",
-      "description": "Sep 18 — First Quarter Moon Sep 17–19 — Mars near Pollux Sep 19 — International Observe the Moon Night ⭐ Sep 20 ...",
-      "published_at": "2026-09-18T06:54:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2r3XBNMIUaQ/hqdefault.jpg"
-    },
-    {
-      "title": "🌙 Look for the Moon and Venus together on September 14!",
-      "video_id": "w9sApMiVKqk",
-      "channel_title": "Star Walk",
-      "description": "After sunset, find the thin crescent Moon low above the western horizon. The dazzling point beside it is Venus — the brightest ...",
-      "published_at": "2026-09-13T09:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/w9sApMiVKqk/hqdefault.jpg"
     }
   ]
 }

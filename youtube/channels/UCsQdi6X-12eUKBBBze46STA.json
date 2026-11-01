@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-10-25T03:47:58.149596",
+  "fetched_at": "2026-11-01T05:00:59.183603",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "The Worst Coffee Shop Breakfast",
+      "video_id": "RKnHwdcim_4",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-10-29T18:20:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/RKnHwdcim_4/hqdefault.jpg"
+    },
+    {
+      "title": "Eating Cake? Add This",
+      "video_id": "kAW_LBh7TlE",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-10-27T16:10:34Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kAW_LBh7TlE/hqdefault.jpg"
+    },
+    {
+      "title": "Oat Milk vs Dairy Milk",
+      "video_id": "0z8MBvqBbY0",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-10-25T19:47:57Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0z8MBvqBbY0/hqdefault.jpg"
+    },
     {
       "title": "What Is A Glucose Spike?",
       "video_id": "sOWMNdUY5BA",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-10-07T16:49:24Z",
       "thumbnail_url": "https://i.ytimg.com/vi/gKq5nmgA3ag/hqdefault.jpg"
-    },
-    {
-      "title": "My Most Used Glucose Trick",
-      "video_id": "ue9rcK_U6v0",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-10-05T17:52:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ue9rcK_U6v0/hqdefault.jpg"
-    },
-    {
-      "title": "What COVID Did To My Glucose",
-      "video_id": "RUgkTNqGrz4",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-10-03T16:34:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RUgkTNqGrz4/hqdefault.jpg"
-    },
-    {
-      "title": "These Aren&#39;t Vegetables",
-      "video_id": "AItvkGWAVa4",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-10-01T15:51:40Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/AItvkGWAVa4/hqdefault.jpg"
     }
   ]
 }

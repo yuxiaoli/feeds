@@ -1,9 +1,49 @@
 {
-  "fetched_at": "2026-10-25T03:47:17.214971",
+  "fetched_at": "2026-11-01T05:00:15.577216",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
+    {
+      "title": "This machine draws blueprints with a real pen, not a printer",
+      "video_id": "_RmQXWsfPcM",
+      "channel_title": "Interesting Engineering",
+      "description": "Drawscape turns aircraft, cars, sailboats and marathon routes into custom blueprint-style art, drawn line by line with real ink pens ...",
+      "published_at": "2026-10-29T21:00:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/_RmQXWsfPcM/hqdefault.jpg"
+    },
+    {
+      "title": "This humanoid robot climbs ladders and vaults obstacles with one AI system",
+      "video_id": "xsw-1EtT8Wc",
+      "channel_title": "Interesting Engineering",
+      "description": "ETH Zurich's Robotic Systems Lab has built a control system that lets Unitree's G1 humanoid climb ladders, cross stepping stones, ...",
+      "published_at": "2026-10-27T23:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xsw-1EtT8Wc/hqdefault.jpg"
+    },
+    {
+      "title": "Why this humanoid robot wears a drone as a backpack",
+      "video_id": "JDKZ_M9LuOA",
+      "channel_title": "Interesting Engineering",
+      "description": "Caltech and Abu Dhabi's Technology Innovation Institute have built X1, a robot duo that pairs a modified Unitree G1 humanoid ...",
+      "published_at": "2026-10-26T23:05:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/JDKZ_M9LuOA/hqdefault.jpg"
+    },
+    {
+      "title": "Can the Moon Power Our Grid? The Rise of Tidal Energy",
+      "video_id": "jVRoSPcNP0o",
+      "channel_title": "Interesting Engineering",
+      "description": "Tidal energy is moving from the lab to the grid. Explore how underwater turbines generate predictable electricity, why ...",
+      "published_at": "2026-10-25T08:44:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/jVRoSPcNP0o/hqdefault.jpg"
+    },
+    {
+      "title": "What tidal can offer the grid, that wind and solar can&#39;t",
+      "video_id": "2Sccp0HR_5Y",
+      "channel_title": "Interesting Engineering",
+      "description": "Wind can stop and the sun can set, but the tides never take a break. After decades of promise, tidal stream energy is finally moving ...",
+      "published_at": "2026-10-25T08:00:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/2Sccp0HR_5Y/hqdefault.jpg"
+    },
     {
       "title": "This robot parks your car at the airport, and you get to keep the keys",
       "video_id": "xNen6pC1Li4",
@@ -43,46 +83,6 @@
       "description": "How do you see what happens inside a vat of plants and steam? In Brazil's Amazon, Siemens engineers are working with Natura ...",
       "published_at": "2026-10-20T14:00:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/0fLanY6WT8A/hqdefault.jpg"
-    },
-    {
-      "title": "How Planar Motor&#39;s factory bots float, tilt and rotate on magnets",
-      "video_id": "wnbbmI6JI-Q",
-      "channel_title": "Interesting Engineering",
-      "description": "Canadian company Planar Motor builds XBots, stainless steel movers that levitate a few millimetres above modular tiles called ...",
-      "published_at": "2026-10-19T16:30:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/wnbbmI6JI-Q/hqdefault.jpg"
-    },
-    {
-      "title": "What makes Galileo X capable of all-terrain mobility?",
-      "video_id": "GNd304C-B0w",
-      "channel_title": "Interesting Engineering",
-      "description": "One machine for construction sites, warehouses, and last-mile delivery. How versatile can a robot get? Galileo X may have the ...",
-      "published_at": "2026-10-19T14:00:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/GNd304C-B0w/hqdefault.jpg"
-    },
-    {
-      "title": "MIT&#39;s new drone planner can dodge moving obstacles",
-      "video_id": "m957FBCEVFA",
-      "channel_title": "Interesting Engineering",
-      "description": "MIT researchers have built SANDO, a flight planner that steers drones through unmapped spaces around moving obstacles it ...",
-      "published_at": "2026-10-16T15:45:09Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/m957FBCEVFA/hqdefault.jpg"
-    },
-    {
-      "title": "China Deploys Grain-Leveling Robots That Do a Three-Day Granary Job in Under a Day",
-      "video_id": "yhVbXpSeLOE",
-      "channel_title": "Interesting Engineering",
-      "description": "China has put its first intelligent grain-leveling robot to work at a Sinograin depot in Beijing, taking over one of the dustiest, most ...",
-      "published_at": "2026-10-15T18:30:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yhVbXpSeLOE/hqdefault.jpg"
-    },
-    {
-      "title": "Powerus Guardian-3: This Drone Interceptor Takes Off Like a Quadcopter",
-      "video_id": "eyszzudjU5I",
-      "channel_title": "Interesting Engineering",
-      "description": "US defence firm Powerus has unveiled Guardian-3, the third generation of its Guardian counter-drone interceptor, at the AUSA ...",
-      "published_at": "2026-10-14T21:30:31Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eyszzudjU5I/hqdefault.jpg"
     }
   ]
 }

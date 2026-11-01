@@ -1,17 +1,9 @@
 {
-  "fetched_at": "2026-10-25T03:47:15.639945",
+  "fetched_at": "2026-11-01T05:00:14.056469",
   "channel_id": "UCEdvpU2pFRCVqU6yIPyTpMQ",
   "channel_title": "Marshmello",
   "count": 10,
   "videos": [
-    {
-      "title": "Marshmello Live at Pokémon Night Out (Intuit Dome - Los Angeles, CA)",
-      "video_id": "840gfYiHN7c",
-      "channel_title": "Marshmello",
-      "description": "A Pokémon Party Like No Other Join fellow fans for a first-of-its-kind Pokémon celebration! Pokémon Night Out will be an ...",
-      "published_at": "2026-10-20T19:00:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/840gfYiHN7c/hqdefault.jpg"
-    },
     {
       "title": "Close My Eyes (live from red rocks) is now playing on YouTube",
       "video_id": "Pun7zGqYcb8",
@@ -83,6 +75,14 @@
       "description": "",
       "published_at": "2026-08-28T17:19:57Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KM6mXZiAzoA/hqdefault.jpg"
+    },
+    {
+      "title": "Cooking something up… @camwhitcomb",
+      "video_id": "3a3SxtqjKXA",
+      "channel_title": "Marshmello",
+      "description": "",
+      "published_at": "2026-08-26T19:33:33Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3a3SxtqjKXA/hqdefault.jpg"
     }
   ]
 }

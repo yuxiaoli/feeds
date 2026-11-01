@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-10-25T03:47:24.048508",
+  "fetched_at": "2026-11-01T05:00:22.739618",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "We built the debugger for software factories",
+      "video_id": "77aU_J2vpb0",
+      "channel_title": "Warp",
+      "description": "Try Warp Factories: warp.dev/get-started DevEx Engineer Lead Ben Holmes shows the Warp Factories agent debugger.",
+      "published_at": "2026-10-30T20:44:58Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/77aU_J2vpb0/hqdefault.jpg"
+    },
+    {
+      "title": "Get agent sessions off your machine",
+      "video_id": "3lz_QKhL18w",
+      "channel_title": "Warp",
+      "description": "Try Warp Factories: warp.dev/get-started DevEx Engineering Lead Ben Holmes shows how conversations are stored in Warp ...",
+      "published_at": "2026-10-29T17:00:39Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3lz_QKhL18w/hqdefault.jpg"
+    },
+    {
+      "title": "The framework for building software factories as code",
+      "video_id": "GRs7VeI7M94",
+      "channel_title": "Warp",
+      "description": "Try Warp Factories: warp.dev/get-started DevEx Engineer Sathvik Vangavolu shows how to configure software factories as code ...",
+      "published_at": "2026-10-28T17:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/GRs7VeI7M94/hqdefault.jpg"
+    },
     {
       "title": "What it takes to build a software factory",
       "video_id": "x-PK3yx_MJg",
@@ -59,30 +83,6 @@
       "description": "With Warp Factories Benchmarking it's now possible to build custom coding agent benchmarks (Claude, Codex, Grok, Kimi, etc) ...",
       "published_at": "2026-09-04T19:04:53Z",
       "thumbnail_url": "https://i.ytimg.com/vi/LKx5MeUsptQ/hqdefault.jpg"
-    },
-    {
-      "title": "How to build a model bench on your own coding tasks",
-      "video_id": "mojpQjwBXN0",
-      "channel_title": "Warp",
-      "description": "Factory Benchmarks are the model bench generated from your own agent coding tasks. They help you measure, test and improve ...",
-      "published_at": "2026-09-03T17:12:00Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/mojpQjwBXN0/hqdefault.jpg"
-    },
-    {
-      "title": "Your agent skills should improve themselves",
-      "video_id": "_hBKoK5ij88",
-      "channel_title": "Warp",
-      "description": "What if coding agents (Claude Code, Codex, Warp, etc) could improve Skills by reviewing past conversations? Here's the three ...",
-      "published_at": "2026-08-31T15:54:26Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_hBKoK5ij88/hqdefault.jpg"
-    },
-    {
-      "title": "Warp Software Factory Live Demo",
-      "video_id": "ZKWpzdych6o",
-      "channel_title": "Warp",
-      "description": "We introduced Warp Factories this week: flexible, open infrastructure for companies building internal cloud software factories.",
-      "published_at": "2026-08-21T09:26:55Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZKWpzdych6o/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-10-25T03:47:08.363614",
+  "fetched_at": "2026-11-01T05:00:06.589160",
   "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
   "channel_title": "Tesla",
   "count": 10,
   "videos": [
+    {
+      "title": "Bone Voyage 💀",
+      "video_id": "0oaW9AydaEo",
+      "channel_title": "Tesla",
+      "description": "",
+      "published_at": "2026-10-31T17:48:49Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0oaW9AydaEo/hqdefault.jpg"
+    },
+    {
+      "title": "Tesla Halloween Mode",
+      "video_id": "P1s0L_RQ5MU",
+      "channel_title": "Tesla",
+      "description": "Trick or treaters beware Enable Trick or Treat in Halloween Mode and your Tesla will play spooky sounds & lights when visitors ...",
+      "published_at": "2026-10-29T00:46:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/P1s0L_RQ5MU/hqdefault.jpg"
+    },
     {
       "title": "Tesla App, Big Screens",
       "video_id": "PFVOThWzcAQ",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-10-16T03:04:38Z",
       "thumbnail_url": "https://i.ytimg.com/vi/-yRQsurykGw/hqdefault.jpg"
-    },
-    {
-      "title": "The Kickflip | Roadster",
-      "video_id": "r5vsHHPVhJg",
-      "channel_title": "Tesla",
-      "description": "The 2nd live demo during the Roadster event. Advanced cold-gas thrusters use all-electric actuators to offer precise thrust, ...",
-      "published_at": "2026-10-16T02:52:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/r5vsHHPVhJg/hqdefault.jpg"
-    },
-    {
-      "title": "The Ramp | Roadster",
-      "video_id": "7p5LxFdc-Qg",
-      "channel_title": "Tesla",
-      "description": "The first live demo during the Roadster event. Our multi-mode fan and ground sealing system acts as a downforce generator, ...",
-      "published_at": "2026-10-16T02:23:48Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/7p5LxFdc-Qg/hqdefault.jpg"
     }
   ]
 }
