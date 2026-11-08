@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-11-01T05:00:11.029925",
+  "fetched_at": "2026-11-08T05:05:29.571600",
   "channel_id": "UCBUH38E0ngqvmTqdchWunwQ",
   "channel_title": "美投讲美股",
   "count": 10,
   "videos": [
+    {
+      "title": "投资能赚钱，还做什么博主？业内人告诉你，如何筛选好博主！",
+      "video_id": "6LiHFqguqcQ",
+      "channel_title": "美投讲美股",
+      "description": "美投Pro——中文美股第一投研品牌】 华人投资者的专业股票研究平台，新用户7天免费试用~ 详情 ...",
+      "published_at": "2026-11-08T02:21:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6LiHFqguqcQ/hqdefault.jpg"
+    },
     {
       "title": "个人Agent横空出世！新一轮军备竞赛即将展开！AI又要变天了？",
       "video_id": "U6DV0MzMBJs",
@@ -75,14 +83,6 @@
       "description": "美投Pro——中文美股第一投研品牌】 华人投资者的专业股票研究平台，新用户7天免费试用~ 详情 ...",
       "published_at": "2026-09-06T02:03:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/01s3YdYUCcU/hqdefault.jpg"
-    },
-    {
-      "title": "AI产业巨变！英伟达将迎来二次爆发？",
-      "video_id": "yDGpqBKJBpc",
-      "channel_title": "美投讲美股",
-      "description": "美投Pro——中文美股第一投研品牌】 华人投资者的专业股票研究平台，新用户7天免费试用~ 详情 ...",
-      "published_at": "2026-08-30T02:01:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yDGpqBKJBpc/hqdefault.jpg"
     }
   ]
 }

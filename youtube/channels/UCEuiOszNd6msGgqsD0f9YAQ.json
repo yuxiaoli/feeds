@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2026-11-01T05:00:15.577216",
+  "fetched_at": "2026-11-08T05:05:33.846165",
   "channel_id": "UCEuiOszNd6msGgqsD0f9YAQ",
   "channel_title": "Interesting Engineering",
   "count": 10,
   "videos": [
+    {
+      "title": "This Robot Brain Can Try a New Task After Watching It Once",
+      "video_id": "bxSTOfXxkyU",
+      "channel_title": "Interesting Engineering",
+      "description": "US robotics startup Generalist has shown its GEN-1.5 model fitting an even thinner rubber O-ring onto a metal part, fully ...",
+      "published_at": "2026-11-06T18:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/bxSTOfXxkyU/hqdefault.jpg"
+    },
+    {
+      "title": "Monumental&#39;s robots lay every brick of a Dutch house",
+      "video_id": "kvqjpWc0TcM",
+      "channel_title": "Interesting Engineering",
+      "description": "Amsterdam-based Monumental says its autonomous robots laid every brick of a house in Almere, the Netherlands, including ...",
+      "published_at": "2026-11-06T00:00:09Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kvqjpWc0TcM/hqdefault.jpg"
+    },
+    {
+      "title": "This Floor Lamp Folds Your Laundry and Makes Your Bed",
+      "video_id": "31yIEy1Idl8",
+      "channel_title": "Interesting Engineering",
+      "description": "Palo Alto startup Syncere's Lume, a floor lamp with a hidden robotic arm that folds laundry, makes the bed and tidies up, has been ...",
+      "published_at": "2026-11-04T23:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/31yIEy1Idl8/hqdefault.jpg"
+    },
+    {
+      "title": "A Dexterous Hand and a Tactile Sensing Glove Built for Physical AI",
+      "video_id": "DDxkHeLtYbg",
+      "channel_title": "Interesting Engineering",
+      "description": "ETH Zurich researchers taught an off-the-shelf WUJI robotic hand to walk on its own fingers. Meet the WUJI Hand 2, ...",
+      "published_at": "2026-11-04T14:00:05Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/DDxkHeLtYbg/hqdefault.jpg"
+    },
+    {
+      "title": "Velos Rotors&#39; new V4 promises 2 hours of flight, 11 kg payload",
+      "video_id": "VhA5blSsaWE",
+      "channel_title": "Interesting Engineering",
+      "description": "Greek drone maker Velos Rotors has launched the V4, its newest electric unmanned helicopter. According to Velos investor ...",
+      "published_at": "2026-11-03T21:30:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/VhA5blSsaWE/hqdefault.jpg"
+    },
+    {
+      "title": "How Max Planck&#39;s Floaty steers the wind",
+      "video_id": "Fi8VsiRRJzk",
+      "channel_title": "Interesting Engineering",
+      "description": "Researchers at the Max Planck Institute for Intelligent Systems and the University of Stuttgart have built Floaty, a 340-gram robot ...",
+      "published_at": "2026-11-02T19:00:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Fi8VsiRRJzk/hqdefault.jpg"
+    },
     {
       "title": "This machine draws blueprints with a real pen, not a printer",
       "video_id": "_RmQXWsfPcM",
@@ -35,54 +83,6 @@
       "description": "Tidal energy is moving from the lab to the grid. Explore how underwater turbines generate predictable electricity, why ...",
       "published_at": "2026-10-25T08:44:47Z",
       "thumbnail_url": "https://i.ytimg.com/vi/jVRoSPcNP0o/hqdefault.jpg"
-    },
-    {
-      "title": "What tidal can offer the grid, that wind and solar can&#39;t",
-      "video_id": "2Sccp0HR_5Y",
-      "channel_title": "Interesting Engineering",
-      "description": "Wind can stop and the sun can set, but the tides never take a break. After decades of promise, tidal stream energy is finally moving ...",
-      "published_at": "2026-10-25T08:00:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2Sccp0HR_5Y/hqdefault.jpg"
-    },
-    {
-      "title": "This robot parks your car at the airport, and you get to keep the keys",
-      "video_id": "xNen6pC1Li4",
-      "channel_title": "Interesting Engineering",
-      "description": "London Gatwick has started letting passengers hand their cars to Stan, an autonomous valet robot from Paris-based Stanley ...",
-      "published_at": "2026-10-23T17:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/xNen6pC1Li4/hqdefault.jpg"
-    },
-    {
-      "title": "How Promise Robotics builds house frames in a factory",
-      "video_id": "TD59b7padvI",
-      "channel_title": "Interesting Engineering",
-      "description": "D.R. Horton, America's largest homebuilder by volume, has signed a multi-year deal with Toronto-based Promise Robotics to ...",
-      "published_at": "2026-10-23T00:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TD59b7padvI/hqdefault.jpg"
-    },
-    {
-      "title": "Unitree&#39;s Kung Fu humanoid is pitched as your guardian",
-      "video_id": "zAj244s09v0",
-      "channel_title": "Interesting Engineering",
-      "description": "Unitree has introduced the H2-X Kung Fu Legend Guardian, the newest member of its 1.8-metre H2 humanoid line, pitched to ...",
-      "published_at": "2026-10-21T19:00:05Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/zAj244s09v0/hqdefault.jpg"
-    },
-    {
-      "title": "Shanghai&#39;s 3-Kilometre Superconducting Tape Could Make Fusion Magnets More Reliable",
-      "video_id": "h7Ll2VA5PSU",
-      "channel_title": "Interesting Engineering",
-      "description": "Shanghai Superconductor has unveiled a second-generation high-temperature superconducting tape made in a single ...",
-      "published_at": "2026-10-20T17:00:27Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/h7Ll2VA5PSU/hqdefault.jpg"
-    },
-    {
-      "title": "Why Build a Digital Twin in the Amazon?",
-      "video_id": "0fLanY6WT8A",
-      "channel_title": "Interesting Engineering",
-      "description": "How do you see what happens inside a vat of plants and steam? In Brazil's Amazon, Siemens engineers are working with Natura ...",
-      "published_at": "2026-10-20T14:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0fLanY6WT8A/hqdefault.jpg"
     }
   ]
 }

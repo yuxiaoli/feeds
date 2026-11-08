@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-11-01T05:00:13.318659",
+  "fetched_at": "2026-11-08T05:05:31.639458",
   "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
   "channel_title": "Apple",
   "count": 10,
   "videos": [
+    {
+      "title": "Apple Card: Apply and use in minutes",
+      "video_id": "1JiNcQ-BbFc",
+      "channel_title": "Apple",
+      "description": "Apple Card is is built into iPhone, and you can apply in as little as a minute. No waiting for a physical credit card, no friction.",
+      "published_at": "2026-11-06T16:57:30Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1JiNcQ-BbFc/hqdefault.jpg"
+    },
     {
       "title": "New MacBook Pro with PROLED XDR Display and Touch: The world’s best laptop display",
       "video_id": "WzuIZLoHqqA",
@@ -19,14 +27,6 @@
       "description": "Introducing the new MacBook Pro with PROLED XDR Display. The first MacBook Pro with Touch, it features a stunning tandem ...",
       "published_at": "2026-10-28T17:13:26Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hnZI5uUSdEo/hqdefault.jpg"
-    },
-    {
-      "title": "Apple Watch Activity Rings: Josh&#39;s True Apple Watch Story",
-      "video_id": "nBmS3DOebLc",
-      "channel_title": "Apple",
-      "description": "Activity Rings on Apple Watch helped Josh take control of his fitness, completely changing his life in the process. Learn more ...",
-      "published_at": "2026-10-27T23:08:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nBmS3DOebLc/hqdefault.jpg"
     },
     {
       "title": "Apple Watch Heart Rate: Morgan’s True Apple Watch Story",

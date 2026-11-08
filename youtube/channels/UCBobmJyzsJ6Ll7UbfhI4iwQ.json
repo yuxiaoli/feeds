@@ -1,16 +1,56 @@
 {
-  "fetched_at": "2026-11-01T05:00:11.768389",
+  "fetched_at": "2026-11-08T05:05:30.259227",
   "channel_id": "UCBobmJyzsJ6Ll7UbfhI4iwQ",
   "channel_title": "Unreal Engine",
   "count": 10,
   "videos": [
     {
-      "title": "Check out our spine-tingling feature on the suspenseful Scotland-set ‘SILENT HILL: Townfall’⚓",
-      "video_id": "LC5sUGCmRg4",
+      "title": "How The Coalition Brought Gears of War: E-Day to Life in Unreal Engine 5 | Inside Unreal",
+      "video_id": "S91UEeVdspo",
       "channel_title": "Unreal Engine",
-      "description": "As Halloween approaches like a creeping fog, there's no better time to get enthralled in the unsettling world of Screen Burn's ...",
-      "published_at": "2026-10-29T17:00:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LC5sUGCmRg4/hqdefault.jpg"
+      "description": "Join Colin Penty, Phil Cousins, and Kate Rayner from The Coalition as they break down the development of Gears of War: E-Day.",
+      "published_at": "2026-11-05T22:00:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/S91UEeVdspo/hqdefault.jpg"
+    },
+    {
+      "title": "UEFN Student Bootcamp Project Showcase | Creating in Fortnite",
+      "video_id": "Epqk_HsHf88",
+      "channel_title": "Unreal Engine",
+      "description": "Go behind the scenes with creators from the UEFN Student Bootcamp. Hosts Dan Hutnik and Matthew Zanazzo (Immature Gamer) ...",
+      "published_at": "2026-11-03T22:09:46Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Epqk_HsHf88/hqdefault.jpg"
+    },
+    {
+      "title": "NO LAW | Developer Interview | Unreal Engine",
+      "video_id": "Iz1JkX3xJoc",
+      "channel_title": "Unreal Engine",
+      "description": "Watch this video and discover how Neon Giant used UE5 to craft NO LAW, a first-person cyber-noir immersive shooter with ...",
+      "published_at": "2026-11-03T14:58:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Iz1JkX3xJoc/hqdefault.jpg"
+    },
+    {
+      "title": "The Unreal Engine Student Showcase 2026",
+      "video_id": "ZXQa3LEHfwI",
+      "channel_title": "Unreal Engine",
+      "description": "Watch the Unreal Engine Student Showcase 2026 to get a glimpse at some of the best student-created content we've seen this ...",
+      "published_at": "2026-11-02T21:04:51Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZXQa3LEHfwI/hqdefault.jpg"
+    },
+    {
+      "title": "Epic MegaJam 2025 Winner Highlights",
+      "video_id": "Vm1iw8sAQ7Q",
+      "channel_title": "Unreal Engine",
+      "description": "Check out these incredible games from last year's MegaJam.",
+      "published_at": "2026-11-01T18:12:21Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vm1iw8sAQ7Q/hqdefault.jpg"
+    },
+    {
+      "title": "Say hello to the Epic MegaJam 2025 Winners",
+      "video_id": "TXS3-wdwBt0",
+      "channel_title": "Unreal Engine",
+      "description": "Check out these incredible games from last year's MegaJam🕹️ Get involved this year online or in-person! Sign ups for the ...",
+      "published_at": "2026-11-01T15:00:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/TXS3-wdwBt0/hqdefault.jpg"
     },
     {
       "title": "Getting Started with Megalights in Unreal Engine 5.8 I Epic Games Education Webinar",
@@ -21,6 +61,14 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LPKz7gH-T0U/hqdefault.jpg"
     },
     {
+      "title": "Turning Music into Playable Worlds with SoWhen? | Creating in Fortnite",
+      "video_id": "5sCuFhm3V5s",
+      "channel_title": "Unreal Engine",
+      "description": "Join the SoWhen? team for a look at how the Paris createch turns music artists' worlds into playable experiences in Fortnite, from ...",
+      "published_at": "2026-10-27T21:30:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/5sCuFhm3V5s/hqdefault.jpg"
+    },
+    {
       "title": "Fast-paced action RPG Phantom Blade Zero takes full advantage of Unreal Engine 5",
       "video_id": "itZ04ZHWUKg",
       "channel_title": "Unreal Engine",
@@ -29,60 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/itZ04ZHWUKg/hqdefault.jpg"
     },
     {
-      "title": "Last week, we showed off next-gen Unreal Engine tools/systems that run on mobile 📲",
-      "video_id": "nkNUmOg3Ucc",
+      "title": "See Zebra Sample in Action: Live Animation Demo in UE5.8 with Jeff Gabor | Inside Unreal",
+      "video_id": "w0-iU6EBhrY",
       "channel_title": "Unreal Engine",
-      "description": "If you missed our deep dive with Epic experts Ari Arnbjörnsson, Arvind Neelakantan and Paul Georges, you can catch the VoD for ...",
-      "published_at": "2026-10-24T18:00:11Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nkNUmOg3Ucc/hqdefault.jpg"
-    },
-    {
-      "title": "UE 5.8&#39;s Iris system provided crucial communication between client &amp; server for Gears of War: E-Day",
-      "video_id": "nv1qf7Av7po",
-      "channel_title": "Unreal Engine",
-      "description": "Unreal Engine 5.8's new Iris replication system provided crucial communication between client and server for Gears of War: ...",
-      "published_at": "2026-10-21T16:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nv1qf7Av7po/hqdefault.jpg"
-    },
-    {
-      "title": "State of Mobile Workflows in Unreal Engine 5.8 | Inside Unreal",
-      "video_id": "2OCeuCj0swQ",
-      "channel_title": "Unreal Engine",
-      "description": "In this episode of Inside Unreal, Epic's Paul Georges, Arvind Neelakantan, and Ari Arnbjörnsson will break down where mobile ...",
-      "published_at": "2026-10-15T20:20:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2OCeuCj0swQ/hqdefault.jpg"
-    },
-    {
-      "title": "Apply today for our free UEFN Professional Bootcamp!",
-      "video_id": "_xHljpDgMKk",
-      "channel_title": "Unreal Engine",
-      "description": "With UE6's roadmap bringing together Unreal Engine and UEFN, get prepared with our free UEFN Professional Bootcamp.",
-      "published_at": "2026-10-15T16:53:15Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_xHljpDgMKk/hqdefault.jpg"
-    },
-    {
-      "title": "SILENT HILL: Townfall | Game Profile | Unreal Engine",
-      "video_id": "1eNzNMmUXAA",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video to discover how UE5 tools including Lumen, Nanite, and MetaHuman helped Screen Burn Interactive craft ...",
-      "published_at": "2026-10-15T14:59:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/1eNzNMmUXAA/hqdefault.jpg"
-    },
-    {
-      "title": "Unreal Engine&#39;s Sequencer helped bring the drama and striking feel to the events of Emergence Day",
-      "video_id": "8vMkQAi_ePw",
-      "channel_title": "Unreal Engine",
-      "description": "Burrow into our feature on Gears of War: E-Day to learn more about how The Coalition's use of high fidelity, dynamically controlled ...",
-      "published_at": "2026-10-14T16:00:06Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/8vMkQAi_ePw/hqdefault.jpg"
-    },
-    {
-      "title": "Star Wars: Galactic Racer™ | Game Profile | Unreal Engine",
-      "video_id": "CuOeU9pkuMg",
-      "channel_title": "Unreal Engine",
-      "description": "Watch this video to discover how Fuse Games used UE5's Lumen, Nanite, and World Partition to create striking visuals that do ...",
-      "published_at": "2026-10-13T14:00:47Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/CuOeU9pkuMg/hqdefault.jpg"
+      "description": "Join Principal Animator Jeff Gabor for a live animation demo in UE5.8 using the Zebra Character and Rig from the free Zebra ...",
+      "published_at": "2026-10-22T20:53:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/w0-iU6EBhrY/hqdefault.jpg"
     }
   ]
 }

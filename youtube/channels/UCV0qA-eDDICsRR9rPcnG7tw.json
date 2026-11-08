@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-11-01T05:00:35.262488",
+  "fetched_at": "2026-11-08T05:05:52.546324",
   "channel_id": "UCV0qA-eDDICsRR9rPcnG7tw",
   "channel_title": "Joma Tech",
   "count": 10,
   "videos": [
+    {
+      "title": "Me reacting to the Binance Hack",
+      "video_id": "AH9v6FgkV9s",
+      "channel_title": "Joma Tech",
+      "description": "Can't wait to post this video again when AI hacks our banks.",
+      "published_at": "2026-11-01T12:00:10Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AH9v6FgkV9s/hqdefault.jpg"
+    },
     {
       "title": "ChatGPT washes my dishes",
       "video_id": "bqjhaGYZv7g",
@@ -75,14 +83,6 @@
       "description": "Founder Mode now on Spotify! WARNING: Blindr Coin is not real, I didnt launch anything. Don't fall for scams. SUPPORT THE ...",
       "published_at": "2025-09-23T23:04:28Z",
       "thumbnail_url": "https://i.ytimg.com/vi/YRddOEtlnEk/hqdefault.jpg"
-    },
-    {
-      "title": "the reason why I left YouTube for 3 years...",
-      "video_id": "nbBP7FurTcI",
-      "channel_title": "Joma Tech",
-      "description": "",
-      "published_at": "2025-09-19T12:15:33Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/nbBP7FurTcI/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-11-01T05:01:03.085183",
+  "fetched_at": "2026-11-08T05:06:17.330973",
   "channel_id": "UCyuD709aPCYIau4WCS7djJA",
   "channel_title": "Star Walk",
   "count": 10,
   "videos": [
+    {
+      "title": "This is what the Milky Way’s stellar nurseries look like in 3D 🌌",
+      "video_id": "Vwyh2tugKHI",
+      "channel_title": "Star Walk",
+      "description": "Using data from ESA's Gaia space telescope, scientists created the most accurate 3D map yet of nearby star-forming regions in ...",
+      "published_at": "2026-11-06T10:40:08Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Vwyh2tugKHI/hqdefault.jpg"
+    },
+    {
+      "title": "Mercury Retrograde",
+      "video_id": "cmpxTzPTRGI",
+      "channel_title": "Star Walk",
+      "description": "Mercury goes retrograde three or four times a year. Its position relative to Earth and the Sun repeats roughly every 116 days ...",
+      "published_at": "2026-11-05T11:55:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/cmpxTzPTRGI/hqdefault.jpg"
+    },
+    {
+      "title": "I need some space 💫",
+      "video_id": "0z0j7NuVvtQ",
+      "channel_title": "Star Walk",
+      "description": "A dark field, a clear sky, and a few billion stars should do. #space #stargazing #spacelovers #astronomy #starwalk.",
+      "published_at": "2026-11-02T07:37:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/0z0j7NuVvtQ/hqdefault.jpg"
+    },
     {
       "title": "🌌 November 2026 is packed with spectacular celestial events!",
       "video_id": "AVjXViCaizw",
@@ -59,30 +83,6 @@
       "description": "In this simulation, a star with the Sun's mass passes through the outer Solar System. Planetary orbits change, icy objects in the ...",
       "published_at": "2026-10-15T06:58:02Z",
       "thumbnail_url": "https://i.ytimg.com/vi/xPJMelWGLkc/hqdefault.jpg"
-    },
-    {
-      "title": "✨ Follow a W to another galaxy!",
-      "video_id": "vago2GBZmsk",
-      "channel_title": "Star Walk",
-      "description": "October evenings are a great time to find the Andromeda Galaxy, especially from the Northern Hemisphere. Here's how: 1️⃣ ...",
-      "published_at": "2026-10-14T11:29:20Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/vago2GBZmsk/hqdefault.jpg"
-    },
-    {
-      "title": "Jupiter. Gone for an hour.",
-      "video_id": "bdmBkJhGf4E",
-      "channel_title": "Star Walk",
-      "description": "On October 6, 2026, the Moon hides Jupiter from parts of North America and Africa. This sped-up visualization shows the event ...",
-      "published_at": "2026-10-06T11:03:43Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/bdmBkJhGf4E/hqdefault.jpg"
-    },
-    {
-      "title": "A star’s color tells you how hot it is ⭐🌈",
-      "video_id": "XXpT9wGYoC8",
-      "channel_title": "Star Walk",
-      "description": "Stars come in different colors because their surface temperatures are different — and their spectra also reveal which elements are ...",
-      "published_at": "2026-10-06T07:39:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XXpT9wGYoC8/hqdefault.jpg"
     }
   ]
 }

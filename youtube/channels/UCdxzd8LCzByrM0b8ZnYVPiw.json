@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-11-01T05:00:47.180695",
+  "fetched_at": "2026-11-08T05:06:03.626645",
   "channel_id": "UCdxzd8LCzByrM0b8ZnYVPiw",
   "channel_title": "Bang & Olufsen",
   "count": 10,
   "videos": [
+    {
+      "title": "Worth the wait",
+      "video_id": "vbLtlzIAB3g",
+      "channel_title": "Bang & Olufsen",
+      "description": "As the door to one season closes, another one opens. ​ Explore the Bang & Olufsen gift guide: ...",
+      "published_at": "2026-11-03T14:00:14Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/vbLtlzIAB3g/hqdefault.jpg"
+    },
+    {
+      "title": "Worth the wait",
+      "video_id": "u3TlgpCv8rg",
+      "channel_title": "Bang & Olufsen",
+      "description": "As the door to one season closes, another one opens. ​ #BangOlufsen.",
+      "published_at": "2026-11-03T14:01:01Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/u3TlgpCv8rg/hqdefault.jpg"
+    },
     {
       "title": "We see sound differently",
       "video_id": "ZCaGyS1YQy4",
@@ -67,22 +83,6 @@
       "description": "Before the guests arrive, Beosound 2 sets the scene. #BangOlufsen.",
       "published_at": "2026-09-14T12:00:42Z",
       "thumbnail_url": "https://i.ytimg.com/vi/sQllNMNCIKI/hqdefault.jpg"
-    },
-    {
-      "title": "The centre of attention in every room",
-      "video_id": "_LlJrNjxsD0",
-      "channel_title": "Bang & Olufsen",
-      "description": "Before the guests arrive, Beosound 2 sets the scene. #BangOlufsen​",
-      "published_at": "2026-09-14T12:00:39Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/_LlJrNjxsD0/hqdefault.jpg"
-    },
-    {
-      "title": "A familiar form. A richer expression.",
-      "video_id": "2N72YSdCUco",
-      "channel_title": "Bang & Olufsen",
-      "description": "Do touch the art. Gallery-worthy design. Made for life at home. Introducing Beosound A9 in Sienna Brown. #BangOlufsen.",
-      "published_at": "2026-09-02T12:01:44Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2N72YSdCUco/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-11-01T05:00:30.842286",
+  "fetched_at": "2026-11-08T05:05:48.437903",
   "channel_id": "UCOnXADW1ewm6qOgyBpc-JPQ",
   "channel_title": "Leo Wang",
   "count": 10,
   "videos": [
+    {
+      "title": "Calisthenics is Beautiful                      #calisthenics #gymmotivation",
+      "video_id": "8B2IUYcFKT8",
+      "channel_title": "Leo Wang",
+      "description": "The expression of strength through ease of movement.",
+      "published_at": "2026-11-07T16:55:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8B2IUYcFKT8/hqdefault.jpg"
+    },
+    {
+      "title": "Flying in the Night #calisthenics #gymmotivation",
+      "video_id": "zgBmZUMgHFA",
+      "channel_title": "Leo Wang",
+      "description": "Night sesh with @Maxefrt.",
+      "published_at": "2026-11-01T18:16:59Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/zgBmZUMgHFA/hqdefault.jpg"
+    },
     {
       "title": "Park Boy | A Calisthenics Documentary",
       "video_id": "hL5apLhOzC4",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-09-05T15:00:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EZW1rBjObUA/hqdefault.jpg"
-    },
-    {
-      "title": "Nothing beats this peace #calisthenics #motivation",
-      "video_id": "ibv2Qd-IeCY",
-      "channel_title": "Leo Wang",
-      "description": "nothing beats it. 1 on 1 coaching in bio . . . . . #calisthenics #gym #streetworkout #motivation.",
-      "published_at": "2026-08-29T15:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/ibv2Qd-IeCY/hqdefault.jpg"
-    },
-    {
-      "title": "Demon Back In Real Life? #calisthenics #gymmotivation #physique",
-      "video_id": "D1s6hoebEC0",
-      "channel_title": "Leo Wang",
-      "description": "Trying to make yujiro proud 1 on coaching in bio . . . . . . #calisthenics #gym #gymmotivation #physique #back.",
-      "published_at": "2026-08-22T15:00:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/D1s6hoebEC0/hqdefault.jpg"
     }
   ]
 }

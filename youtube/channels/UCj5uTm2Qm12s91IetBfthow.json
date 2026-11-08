@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-11-01T05:00:50.722656",
+  "fetched_at": "2026-11-08T05:06:06.980700",
   "channel_id": "UCj5uTm2Qm12s91IetBfthow",
   "channel_title": "Find Interesting AI",
   "count": 10,
   "videos": [
+    {
+      "title": "开发者入刑指南",
+      "video_id": "N3yKq12_J-w",
+      "channel_title": "Find Interesting AI",
+      "description": "那些程序员开发者最容易触犯的5条法律法规.",
+      "published_at": "2026-11-01T23:00:16Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/N3yKq12_J-w/hqdefault.jpg"
+    },
     {
       "title": "创业成功项目共性？独立开发者SOP？",
       "video_id": "hOtJyOW1gO4",
@@ -75,14 +83,6 @@
       "description": "思维导图：https://docs.qq.com/mind/DVFRMaXRSY01WZGRI?mode=mind comfyUI秋叶 ...",
       "published_at": "2026-05-17T08:51:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/KkyFmp9B-10/hqdefault.jpg"
-    },
-    {
-      "title": "skill上车指南",
-      "video_id": "Ad4WVB4jcqE",
-      "channel_title": "Find Interesting AI",
-      "description": "",
-      "published_at": "2026-04-25T09:05:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ad4WVB4jcqE/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-11-01T05:00:42.863439",
+  "fetched_at": "2026-11-08T05:05:59.531814",
   "channel_id": "UCb9pq9JLs2m5Drn_ftcRkIw",
   "channel_title": "Hemo Calisthenics",
   "count": 10,
   "videos": [
+    {
+      "title": "فلوق تمرين كالسثنكس متقدم",
+      "video_id": "AsA8a54_BCg",
+      "channel_title": "Hemo Calisthenics",
+      "description": "",
+      "published_at": "2026-11-07T11:00:27Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/AsA8a54_BCg/hqdefault.jpg"
+    },
     {
       "title": "تمرين مهارات كالسثنكس",
       "video_id": "PX5Sr8qNHNw",
@@ -75,14 +83,6 @@
       "description": "",
       "published_at": "2026-09-18T13:02:17Z",
       "thumbnail_url": "https://i.ytimg.com/vi/EpPZvWrCgWg/hqdefault.jpg"
-    },
-    {
-      "title": "فقط بالكالسثتكس",
-      "video_id": "IpBCq0JwSOo",
-      "channel_title": "Hemo Calisthenics",
-      "description": "",
-      "published_at": "2026-09-15T12:20:19Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IpBCq0JwSOo/hqdefault.jpg"
     }
   ]
 }

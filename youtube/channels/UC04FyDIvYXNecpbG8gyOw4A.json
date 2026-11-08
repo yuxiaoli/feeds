@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-11-01T04:59:59.156125",
+  "fetched_at": "2026-11-08T05:05:18.120475",
   "channel_id": "UC04FyDIvYXNecpbG8gyOw4A",
   "channel_title": "Meta",
   "count": 10,
   "videos": [
+    {
+      "title": "Meta AI assists Riley&#39;s car rebuilding business",
+      "video_id": "3izhk1dJ6VY",
+      "channel_title": "Meta",
+      "description": "when Riley shared her passion for rebuilding cars on @facebookapp, her video took off and connected her with a community of ...",
+      "published_at": "2026-11-06T21:50:42Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/3izhk1dJ6VY/hqdefault.jpg"
+    },
+    {
+      "title": "AI Glasses in 60 seconds",
+      "video_id": "yox5STy6Fu4",
+      "channel_title": "Meta",
+      "description": "For comedian Chris McCausland, AI glasses are making everyday life a little easier—from the practical things to a few unexpected ...",
+      "published_at": "2026-11-05T22:05:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/yox5STy6Fu4/hqdefault.jpg"
+    },
     {
       "title": "Meta at Future Forum London 2026 | Three Days in King&#39;s Cross",
       "video_id": "UhXxrc76q_c",
@@ -67,22 +83,6 @@
       "description": "Faridi (@faridisartwork) is an artist, muralist, and live wedding painter who brings large-scale art to life by using Meta Quest 3 as ...",
       "published_at": "2026-10-22T16:31:07Z",
       "thumbnail_url": "https://i.ytimg.com/vi/FWY4Trijf7o/hqdefault.jpg"
-    },
-    {
-      "title": "Azzi Fudd Basketball Camp Builds Community using Instagram and Facebook",
-      "video_id": "Mw2-d-hV0_M",
-      "channel_title": "Meta",
-      "description": "you know Azzi Fudd on the court, but what you may not know is that she's hosted the Azzi Fudd Basketball Camp for ten years for ...",
-      "published_at": "2026-10-21T16:57:38Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Mw2-d-hV0_M/hqdefault.jpg"
-    },
-    {
-      "title": "From Sketch to Scale: How Our Teams Built Meta VR Glasses",
-      "video_id": "29jCT5zL_O0",
-      "channel_title": "Meta",
-      "description": "Get an inside look at the hardware engineering and industrial design driving our all-new Meta VR Glasses. See how our team is ...",
-      "published_at": "2026-10-19T22:40:22Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/29jCT5zL_O0/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-11-01T05:01:00.154548",
+  "fetched_at": "2026-11-08T05:06:14.498654",
   "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
   "channel_title": "SpaceX",
   "count": 10,
   "videos": [
+    {
+      "title": "Starship - Go For Orbit",
+      "video_id": "8ySMdUIF3cY",
+      "channel_title": "SpaceX",
+      "description": "More than a dozen flight tests and years of development, with countless hours worked by SpaceX engineers and technicians, ...",
+      "published_at": "2026-11-07T15:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/8ySMdUIF3cY/hqdefault.jpg"
+    },
     {
       "title": "Starship - The Holy Grail of Rocketry",
       "video_id": "EthkNLasUa8",
@@ -75,14 +83,6 @@
       "description": "Starship's fifth flight test lifted off on October 13, 2024, with our most ambitious test objectives yet as we work to demonstrate ...",
       "published_at": "2024-11-06T18:33:40Z",
       "thumbnail_url": "https://i.ytimg.com/vi/hI9HQfCAw64/hqdefault.jpg"
-    },
-    {
-      "title": "Polaris Dawn",
-      "video_id": "MaJmUUtr2SI",
-      "channel_title": "SpaceX",
-      "description": "On Tuesday, September 10, SpaceX's Falcon 9 launched the Polaris Dawn mission to orbit from Launch Complex 39A at NASA's ...",
-      "published_at": "2024-10-26T17:19:01Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/MaJmUUtr2SI/hqdefault.jpg"
     }
   ]
 }

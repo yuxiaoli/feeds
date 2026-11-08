@@ -1,9 +1,33 @@
 {
-  "fetched_at": "2026-11-01T05:00:59.183603",
+  "fetched_at": "2026-11-08T05:06:13.862036",
   "channel_id": "UCsQdi6X-12eUKBBBze46STA",
   "channel_title": "Glucose Revolution",
   "count": 10,
   "videos": [
+    {
+      "title": "A Simple Hack For Cravings",
+      "video_id": "CjGquiUoU2g",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-11-06T17:41:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/CjGquiUoU2g/hqdefault.jpg"
+    },
+    {
+      "title": "My Top 3 GLP-1 Hacks",
+      "video_id": "I07p53M8tAk",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-11-03T18:32:31Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/I07p53M8tAk/hqdefault.jpg"
+    },
+    {
+      "title": "Syrup Or Peanut Butter?",
+      "video_id": "pqYQ1MCG7qI",
+      "channel_title": "Glucose Revolution",
+      "description": "",
+      "published_at": "2026-11-01T19:15:24Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/pqYQ1MCG7qI/hqdefault.jpg"
+    },
     {
       "title": "The Worst Coffee Shop Breakfast",
       "video_id": "RKnHwdcim_4",
@@ -59,30 +83,6 @@
       "description": "",
       "published_at": "2026-10-12T18:52:30Z",
       "thumbnail_url": "https://i.ytimg.com/vi/tqZfJT5ZurU/hqdefault.jpg"
-    },
-    {
-      "title": "Can You Reverse Type 2 Diabetes?",
-      "video_id": "jYhwBOorHYM",
-      "channel_title": "Glucose Revolution",
-      "description": "Small, everyday changes can be a powerful tool for type 2 diabetes. Here are some of my favourite glucose hacks: Start your ...",
-      "published_at": "2026-10-11T15:52:16Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jYhwBOorHYM/hqdefault.jpg"
-    },
-    {
-      "title": "I Didn&#39;t Believe This Until I Tried",
-      "video_id": "IGMmv-DpN7Q",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-10-09T17:18:12Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/IGMmv-DpN7Q/hqdefault.jpg"
-    },
-    {
-      "title": "The Best Exercise For Fat Burning",
-      "video_id": "gKq5nmgA3ag",
-      "channel_title": "Glucose Revolution",
-      "description": "",
-      "published_at": "2026-10-07T16:49:24Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/gKq5nmgA3ag/hqdefault.jpg"
     }
   ]
 }

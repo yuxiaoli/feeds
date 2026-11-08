@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-11-01T05:00:05.125380",
+  "fetched_at": "2026-11-08T05:05:23.678126",
   "channel_id": "UC4DavIB24rEr5waVY5AgZLg",
   "channel_title": "Walt Disney Imagineering",
   "count": 10,
   "videos": [
+    {
+      "title": "Inside Remy’s Ratatouille Adventure: New Show Sets 🧀",
+      "video_id": "ec0QIlFTHt0",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Sarah takes us on a culinary adventure by walking us through the new show sets at Remy's Ratatouille Adventure at EPCOT!",
+      "published_at": "2026-11-06T00:00:32Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ec0QIlFTHt0/hqdefault.jpg"
+    },
+    {
+      "title": "The Electric Mayhem is getting ready for the holidays 🎸🎄",
+      "video_id": "Xh3OM7BvTOw",
+      "channel_title": "Walt Disney Imagineering",
+      "description": "Take a look at how Walt Disney Imagineering installed the festive details for Rock 'n' Roller Coaster Starring The Muppets: ...",
+      "published_at": "2026-11-04T13:59:11Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Xh3OM7BvTOw/hqdefault.jpg"
+    },
     {
       "title": "Space Mountain at Disneyland Paris: Two Imagineers Talk Past &amp; Future | D23 Center Stage",
       "video_id": "jzU6eKAxL6k",
@@ -67,22 +83,6 @@
       "description": "Buckle up, rookie—it's time to join the ZPD! Hop in with Imagineers as we ride along through Zootopia: Hot Pursuit at Shanghai ...",
       "published_at": "2026-09-17T18:30:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/2lxQRgdN9D8/hqdefault.jpg"
-    },
-    {
-      "title": "Spin it back Lilypad 🎶  #imagineering #disneyparks",
-      "video_id": "jWgaZc-oSW8",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "Imagineers are bringing some new magic and tunes to Alien Swirling Saucers at Walt Disney World, debuting Sept. 25.",
-      "published_at": "2026-09-16T17:00:37Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/jWgaZc-oSW8/hqdefault.jpg"
-    },
-    {
-      "title": "How Disney Destiny&#39;s Pumpkin Tree Comes to Life 🎃",
-      "video_id": "aBT7QR65dlk",
-      "channel_title": "Walt Disney Imagineering",
-      "description": "Step behind the scenes with Disney Live Entertainment as our team programs and rehearses with Solara, the Enchanted Pumpkin ...",
-      "published_at": "2026-09-10T17:20:56Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/aBT7QR65dlk/hqdefault.jpg"
     }
   ]
 }

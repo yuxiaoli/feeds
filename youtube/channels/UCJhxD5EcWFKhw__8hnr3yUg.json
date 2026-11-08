@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-11-01T05:00:21.206059",
+  "fetched_at": "2026-11-08T05:05:39.257921",
   "channel_id": "UCJhxD5EcWFKhw__8hnr3yUg",
   "channel_title": "码农高天",
   "count": 10,
   "videos": [
+    {
+      "title": "你损失63亿美金，是因为员工去别的公司面试？",
+      "video_id": "fA7gNVUkkc8",
+      "channel_title": "码农高天",
+      "description": "10月30号币安被黑客攻击，涉及财产高达63亿美元。币安官方在几天之后发布了一个初步调查报告，竟然把矛头指向了去面试的员工 ...",
+      "published_at": "2026-11-07T07:00:36Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fA7gNVUkkc8/hqdefault.jpg"
+    },
     {
       "title": "瑞士火车美景与日内瓦湖，丹麦超级给力的胶囊旅馆",
       "video_id": "3T52mAOSX0E",
@@ -75,14 +83,6 @@
       "description": "参与规则： 1. 把你的四个（两道题输出分别变成A和C）答案和步骤（怎么改）发到gaogaotiantian@hotmail.com。 2. 我会从总步数 ...",
       "published_at": "2026-08-15T04:00:04Z",
       "thumbnail_url": "https://i.ytimg.com/vi/smx28aI5rcY/hqdefault.jpg"
-    },
-    {
-      "title": "下周要去COSCUP做keynote了！",
-      "video_id": "cpz0m1SMFoY",
-      "channel_title": "码农高天",
-      "description": "明天就要出发去台北啦，下周末就要完成我人生中第一次keynote了！我们COSCUP见！",
-      "published_at": "2026-08-01T03:45:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/cpz0m1SMFoY/hqdefault.jpg"
     }
   ]
 }

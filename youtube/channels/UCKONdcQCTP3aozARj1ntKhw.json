@@ -1,9 +1,57 @@
 {
-  "fetched_at": "2026-11-01T05:00:22.739618",
+  "fetched_at": "2026-11-08T05:05:40.816814",
   "channel_id": "UCKONdcQCTP3aozARj1ntKhw",
   "channel_title": "Warp",
   "count": 10,
   "videos": [
+    {
+      "title": "Warp Factories complete walkthrough",
+      "video_id": "gdFqUnD19lw",
+      "channel_title": "Warp",
+      "description": "Take a tour of Warp Factories with Killian, a solutions engineer at Warp. He walks through how a software factory goes from a ...",
+      "published_at": "2026-11-05T22:50:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/gdFqUnD19lw/hqdefault.jpg"
+    },
+    {
+      "title": "The chat UI every software factory needs",
+      "video_id": "7SoGm9BtQwM",
+      "channel_title": "Warp",
+      "description": "Try Warp Factories: warp.dev/get-started Engineer Lili Wilson shows how Warp Factories chat works. Start a task in Slack, review ...",
+      "published_at": "2026-11-05T16:17:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/7SoGm9BtQwM/hqdefault.jpg"
+    },
+    {
+      "title": "The missing paper trail for agents",
+      "video_id": "ni3TTYXHEJs",
+      "channel_title": "Warp",
+      "description": "Try Warp Factories: warp.dev/get-started DevEx Engineering lead Ben Holmes shows how Warp Factories stores agent output as ...",
+      "published_at": "2026-11-05T02:59:07Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ni3TTYXHEJs/hqdefault.jpg"
+    },
+    {
+      "title": "Building better computer use for agents",
+      "video_id": "6Qk8Ueu7Ze8",
+      "channel_title": "Warp",
+      "description": "Try Warp Factories: warp.dev/get-started Engineer Varoon Kodithala shows Warp Factories' built-in computer use. Warp's cloud ...",
+      "published_at": "2026-11-03T14:50:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/6Qk8Ueu7Ze8/hqdefault.jpg"
+    },
+    {
+      "title": "How to build an agentic self improvement loop",
+      "video_id": "PMRlYAB8kkI",
+      "channel_title": "Warp",
+      "description": "Try skill doctor: warp.dev/skill-doctor Try Warp Factories: warp.dev/factories Build a self-improvement loop for agents in 4 steps: 1.",
+      "published_at": "2026-11-02T21:57:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/PMRlYAB8kkI/hqdefault.jpg"
+    },
+    {
+      "title": "Stop trusting public model benchmarks.",
+      "video_id": "kSClal3yz0w",
+      "channel_title": "Warp",
+      "description": "Try Warp Factories: warp.dev/factories DevEx Engineer Sathvik Vangavolu walks through factory benchmarks in Warp: rerunning ...",
+      "published_at": "2026-11-02T19:41:03Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/kSClal3yz0w/hqdefault.jpg"
+    },
     {
       "title": "We built the debugger for software factories",
       "video_id": "77aU_J2vpb0",
@@ -35,54 +83,6 @@
       "description": "Try Warp Factories: https://www.warp.dev/factories Software factories are the next step after interactive coding agents.",
       "published_at": "2026-10-19T19:57:10Z",
       "thumbnail_url": "https://i.ytimg.com/vi/x-PK3yx_MJg/hqdefault.jpg"
-    },
-    {
-      "title": "How to make a software factory that&#39;s not expensive (full walkthrough)",
-      "video_id": "XuvFo0q5TpU",
-      "channel_title": "Warp",
-      "description": "Request early access to Warp Factories! https://www.warp.dev/get-started 00:00 Intro 01:32 Factory architecture 13:27 Why ...",
-      "published_at": "2026-10-14T14:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/XuvFo0q5TpU/hqdefault.jpg"
-    },
-    {
-      "title": "How to build self-improving agents (full walkthrough)",
-      "video_id": "FqafKuH8F3k",
-      "channel_title": "Warp",
-      "description": "Request early access to Warp Factories! https://www.warp.dev/get-started 00:00 Intro 01:37 How self-improvement works 03:41 ...",
-      "published_at": "2026-10-13T14:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/FqafKuH8F3k/hqdefault.jpg"
-    },
-    {
-      "title": "From coding agents to software factories with Uber and Faire",
-      "video_id": "0gDHnH89aQs",
-      "channel_title": "Warp",
-      "description": "Start your own factory / request early access: https://www.warp.dev/get-started 00:00 Intro & panelists 03:23 What's a software ...",
-      "published_at": "2026-10-12T17:38:02Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0gDHnH89aQs/hqdefault.jpg"
-    },
-    {
-      "title": "Warp Factories - the complete guide",
-      "video_id": "pkO1eHkr1v0",
-      "channel_title": "Warp",
-      "description": "A complete tour of Warp Factories, infrastructure to build your own AI software factory. I'll show how to set up agents and ...",
-      "published_at": "2026-09-28T17:22:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/pkO1eHkr1v0/hqdefault.jpg"
-    },
-    {
-      "title": "You should have an agent that grades your agents",
-      "video_id": "6q1lFJgdoi8",
-      "channel_title": "Warp",
-      "description": "Try Warp Factories: warp.dev/factories/request-access Let's measure the quality of coding agents (Claude Code, Codex, etc) with ...",
-      "published_at": "2026-09-17T16:04:58Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6q1lFJgdoi8/hqdefault.jpg"
-    },
-    {
-      "title": "The secret to cheaper, smarter coding agents",
-      "video_id": "LKx5MeUsptQ",
-      "channel_title": "Warp",
-      "description": "With Warp Factories Benchmarking it's now possible to build custom coding agent benchmarks (Claude, Codex, Grok, Kimi, etc) ...",
-      "published_at": "2026-09-04T19:04:53Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LKx5MeUsptQ/hqdefault.jpg"
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-11-01T05:00:05.846345",
+  "fetched_at": "2026-11-08T05:05:24.363905",
   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
   "channel_title": "Tech With Tim",
   "count": 10,
   "videos": [
     {
-      "title": "Jev Python Tutorial: AI Decisions in 10 Minutes",
-      "video_id": "Jwos3ibkEeM",
+      "title": "The AI Coding Agent for Your Ticket Backlog",
+      "video_id": "BTaLk9W-SMo",
       "channel_title": "Tech With Tim",
-      "description": "Download \"The AI Stack I Run My Business On\" in collaboration with HubSpot: https://clickhubspot.com/92149a What if you could ...",
-      "published_at": "2026-10-31T13:04:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/Jwos3ibkEeM/hqdefault.jpg"
+      "description": "Is OpenHands the right AI coding agent for you? The upside: it gives the best end-to-end coding performance of any agent here, ...",
+      "published_at": "2026-11-07T12:00:18Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/BTaLk9W-SMo/hqdefault.jpg"
     },
     {
-      "title": "The AI Agent That Teaches Itself",
-      "video_id": "LNu8NAJo62Y",
+      "title": "Learn 99% of Codex in One Video",
+      "video_id": "oBvuhcdSsuw",
       "channel_title": "Tech With Tim",
-      "description": "What makes Hermes Agent different from other AI agents? It learns. On the surface it looks like Open Claw, but the difference is ...",
-      "published_at": "2026-10-31T12:00:03Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/LNu8NAJo62Y/hqdefault.jpg"
+      "description": "Deploy a Hostinger VPS and connect Hostinger connector to deploy the apps you build with Codex and use code TECHWITHTIM ...",
+      "published_at": "2026-11-06T13:56:35Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/oBvuhcdSsuw/hqdefault.jpg"
     },
     {
-      "title": "How to Build RAG From Scratch in 50 Lines of Python - Full Tutorial",
-      "video_id": "f9uAG3AQGWM",
+      "title": "The Open Source AI Software Engineer",
+      "video_id": "s1EPftuxlAo",
       "channel_title": "Tech With Tim",
-      "description": "This video is sponsored by TripleTen, a professional education platform designed to help tech professionals and career changers ...",
-      "published_at": "2026-10-30T13:00:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/f9uAG3AQGWM/hqdefault.jpg"
+      "description": "What can an AI software engineer actually do? OpenHands (formerly OpenDevin) is the one agent built specifically for coding, ...",
+      "published_at": "2026-11-06T12:00:25Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/s1EPftuxlAo/hqdefault.jpg"
     },
     {
-      "title": "The Simplest AI Assistant to Deploy",
-      "video_id": "NH9jVwWa23Q",
+      "title": "The Most Transparent AI Agent",
+      "video_id": "q79euz_J1ag",
       "channel_title": "Tech With Tim",
-      "description": "Who should actually use Open Claw? Reach for it if you want an assistant you can message like a person and keep simple.",
-      "published_at": "2026-10-30T12:00:08Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/NH9jVwWa23Q/hqdefault.jpg"
+      "description": "Should you use Agent Zero? Reach for it if you want a flexible agent with access to its own computer, and skip it if you just want ...",
+      "published_at": "2026-11-05T12:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/q79euz_J1ag/hqdefault.jpg"
     },
     {
-      "title": "OpenClaw The Honest Pros and Cons",
-      "video_id": "e1vuX2svBrE",
+      "title": "The New Job of a Software Engineer (It&#39;s Not Writing Code)",
+      "video_id": "v5FYtD1hy6w",
       "channel_title": "Tech With Tim",
-      "description": "Should you use OpenClaw as your AI assistant? The pros: it's one of the fastest and easiest to set up, works with any model, and ...",
-      "published_at": "2026-10-29T12:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/e1vuX2svBrE/hqdefault.jpg"
+      "description": "Try Air in JetBrains IDEs: https://jb.gg/uf1rym Google says about 75% of its new code is AI-generated. Anthropic says more than ...",
+      "published_at": "2026-11-04T13:00:38Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/v5FYtD1hy6w/hqdefault.jpg"
     },
     {
-      "title": "I Tested The Viral Reverse Engineering Repo",
-      "video_id": "KlZDeqvD52A",
+      "title": "The AI Agent That Writes Its Own Tools",
+      "video_id": "aZ1Ae7vjafk",
       "channel_title": "Tech With Tim",
-      "description": "Get started with OpenRouter here: https://openrouter.plug.dev/NY7fmtI What if you could reverse engineer almost any app and ...",
-      "published_at": "2026-10-28T14:00:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/KlZDeqvD52A/hqdefault.jpg"
+      "description": "What makes Agent Zero different from other AI agents? It gets a full Linux machine inside Docker all to itself, and instead of ...",
+      "published_at": "2026-11-04T12:00:28Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aZ1Ae7vjafk/hqdefault.jpg"
     },
     {
-      "title": "The AI Agent in Your Chat Apps",
-      "video_id": "6dsRGjyjqN4",
+      "title": "I Built an Entire AI Ad Campaign in One Chat Window",
+      "video_id": "UUrTt-vTdTQ",
       "channel_title": "Tech With Tim",
-      "description": "What if your AI agent lived inside the chat apps you already use? That's OpenClaw, an always-on personal assistant you run from ...",
-      "published_at": "2026-10-28T12:00:21Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/6dsRGjyjqN4/hqdefault.jpg"
+      "description": "Normally, creating an ad campaign means bouncing between chat, image generation tools, video editors, and downloads. But by ...",
+      "published_at": "2026-11-03T18:15:50Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/UUrTt-vTdTQ/hqdefault.jpg"
     },
     {
-      "title": "Everything New in Hermes Agent (Full Setup Guide)",
-      "video_id": "S8fc9na4pA8",
+      "title": "I Looked Inside my Agents Context Window...",
+      "video_id": "Sc_D4o9-vNk",
       "channel_title": "Tech With Tim",
-      "description": "Deploy Hermes agent with Hostinger and use code 'techwithtim' for 10% off: https://www.hostg.xyz/SHKIW This video will teach ...",
-      "published_at": "2026-10-27T14:00:10Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/S8fc9na4pA8/hqdefault.jpg"
+      "description": "Get started with BrightData's Scraper Studio here: https://brdta.com/twt_context The context window is the single most important ...",
+      "published_at": "2026-11-03T14:06:47Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Sc_D4o9-vNk/hqdefault.jpg"
     },
     {
-      "title": "6 AI Agents, 6 Different Jobs",
-      "video_id": "rPoLNjfda2w",
+      "title": "This AI Can Teach Itself Wrong",
+      "video_id": "fBW4CFf9ztw",
       "channel_title": "Tech With Tim",
-      "description": "Which AI agent is actually right for you? Here are six worth knowing, ordered from easiest to get value out of to most specialized, ...",
-      "published_at": "2026-10-27T12:00:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/rPoLNjfda2w/hqdefault.jpg"
+      "description": "What's the downside of a self-learning AI agent like Hermes? It can teach itself the wrong skills, and then it keeps repeating those ...",
+      "published_at": "2026-11-03T12:00:15Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/fBW4CFf9ztw/hqdefault.jpg"
     },
     {
-      "title": "How I Would Learn Python for Machine Learning (If I Started Over)",
-      "video_id": "3UFpGesW2_U",
+      "title": "This AI Agent Gets Smarter Over Time",
+      "video_id": "1oMTgxXTFpI",
       "channel_title": "Tech With Tim",
-      "description": "Best hands-on course to learn Python for Machine Learning: DataCamp Python Data Fundamentals Track ...",
-      "published_at": "2026-10-26T14:02:34Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/3UFpGesW2_U/hqdefault.jpg"
+      "description": "Should you use Hermes Agent? Go for it if you'll chat with it a lot and have workflows you want it to learn, because the more you ...",
+      "published_at": "2026-11-02T12:00:22Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1oMTgxXTFpI/hqdefault.jpg"
     }
   ]
 }

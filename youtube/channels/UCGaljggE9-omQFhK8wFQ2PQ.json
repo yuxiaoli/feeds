@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-11-01T05:00:19.071516",
+  "fetched_at": "2026-11-08T05:05:37.153250",
   "channel_id": "UCGaljggE9-omQFhK8wFQ2PQ",
   "channel_title": "MrGrantGregoryAI",
   "count": 10,
   "videos": [
+    {
+      "title": "Happy N7 Day! - The Full Aussie Podcast",
+      "video_id": "29bPNllooU4",
+      "channel_title": "MrGrantGregoryAI",
+      "description": "It's N7 Day! Come join us as we talk about Mass Effect, shoot the sh*t and watch some disgusting cooking videos! It's gonna be fun ...",
+      "published_at": "2026-11-07T15:29:29Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/29bPNllooU4/hqdefault.jpg"
+    },
     {
       "title": "HAPPY FAPPOWEEN",
       "video_id": "-uqtgKHQ6tQ",
@@ -75,14 +83,6 @@
       "description": "The Full Aussie crew get into it tonight; why does Amazon keep doing this, what does it mean for good TV, and is there any hope ...",
       "published_at": "2026-09-12T14:22:58Z",
       "thumbnail_url": "https://i.ytimg.com/vi/_f1EtNOlZzM/hqdefault.jpg"
-    },
-    {
-      "title": "The Fap Remembers",
-      "video_id": "woghi0oDrTU",
-      "channel_title": "MrGrantGregoryAI",
-      "description": "Join us tonight where we talk about the Marvel Homework you MUST do before watching the new Avengers film and more.",
-      "published_at": "2026-08-29T14:56:59Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/woghi0oDrTU/hqdefault.jpg"
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-11-01T05:00:10.316312",
+  "fetched_at": "2026-11-08T05:05:28.908273",
   "channel_id": "UC8xuHaE2iu7bQMdt08lG6oA",
   "channel_title": "noah.bowman",
   "count": 10,
   "videos": [
+    {
+      "title": "This might be the smallest car I’ve ever filmed. But watch how it turns out.🎥🏁 #rccar #supercar",
+      "video_id": "ak6t7mtDNwE",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-11-06T01:09:41Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/ak6t7mtDNwE/hqdefault.jpg"
+    },
+    {
+      "title": "I asked a stranger about her Lamborghini at a red light. This is how it went. #lamborghini #v12",
+      "video_id": "Rigpsj58_Tk",
+      "channel_title": "noah.bowman",
+      "description": "",
+      "published_at": "2026-11-01T19:59:17Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/Rigpsj58_Tk/hqdefault.jpg"
+    },
     {
       "title": "Batman and Catwoman brought a Hellcat Redeye to the streets of Gotham. #hellcat #batman #dodge",
       "video_id": "Cpd1X8jH2Do",
@@ -67,22 +83,6 @@
       "description": "",
       "published_at": "2026-10-16T23:56:51Z",
       "thumbnail_url": "https://i.ytimg.com/vi/I09-c0yF1Zw/hqdefault.jpg"
-    },
-    {
-      "title": "I asked Missy what her Factory Five GTM means to her, and her answer was heartfelt @lilmissfroh",
-      "video_id": "eEc9swSnzUU",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2026-10-11T02:35:04Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/eEc9swSnzUU/hqdefault.jpg"
-    },
-    {
-      "title": "1970 El Camino Burns out #americanmuscle #elcamino #musclecars",
-      "video_id": "TlniPfs1yyA",
-      "channel_title": "noah.bowman",
-      "description": "",
-      "published_at": "2026-10-09T21:06:17Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/TlniPfs1yyA/hqdefault.jpg"
     }
   ]
 }

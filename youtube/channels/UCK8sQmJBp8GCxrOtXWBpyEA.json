@@ -1,9 +1,41 @@
 {
-  "fetched_at": "2026-11-01T05:00:21.994313",
+  "fetched_at": "2026-11-08T05:05:39.975617",
   "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "channel_title": "Google",
   "count": 10,
   "videos": [
+    {
+      "title": "Google Search Task: Stargazing Edition",
+      "video_id": "mdSB_Fizm0A",
+      "channel_title": "Google",
+      "description": "Set up a task in AI Mode to stay updated on upcoming meteor shower conditions ✨ #GoogleSearch #Space #Stargazing.",
+      "published_at": "2026-11-06T15:16:04Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/mdSB_Fizm0A/hqdefault.jpg"
+    },
+    {
+      "title": "Happy Hunger Games 🐍",
+      "video_id": "MFwdoEtxbwA",
+      "channel_title": "Google",
+      "description": "Search “the hunger games: sunrise on the reaping” to play.",
+      "published_at": "2026-11-05T20:59:20Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/MFwdoEtxbwA/hqdefault.jpg"
+    },
+    {
+      "title": "Search “Ocarina of Time” to test if you’re a true Hero of Time 🗡️",
+      "video_id": "wNZdVkiEZtE",
+      "channel_title": "Google",
+      "description": "See what happens when you enter it in the search bar ✨ @NintendoAmerica.",
+      "published_at": "2026-11-05T18:49:06Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/wNZdVkiEZtE/hqdefault.jpg"
+    },
+    {
+      "title": "Double tap to break the ice, then search what’s inside ❄️",
+      "video_id": "aRg5DWHAC_g",
+      "channel_title": "Google",
+      "description": "Search “mariah carey” on Google for a holiday miracle ✨ @MariahCarey.",
+      "published_at": "2026-11-01T14:00:48Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/aRg5DWHAC_g/hqdefault.jpg"
+    },
     {
       "title": "Happy Halloween 🎃",
       "video_id": "22YWTc-KaNo",
@@ -45,44 +77,12 @@
       "thumbnail_url": "https://i.ytimg.com/vi/dQMYDBGX0uk/hqdefault.jpg"
     },
     {
-      "title": "What’s New in Google Accessibility | Episode 13 | American Sign Language",
-      "video_id": "DDjr6gXqtN8",
-      "channel_title": "Google",
-      "description": "Welcome back to another episode of What's New in a Accessibility at Google at Google, a series where we share the latest ...",
-      "published_at": "2026-10-26T16:41:42Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/DDjr6gXqtN8/hqdefault.jpg"
-    },
-    {
-      "title": "What’s New in Google Accessibility | Episode 13",
-      "video_id": "lL7L6DiGeLc",
-      "channel_title": "Google",
-      "description": "Welcome back to another episode of What's New in a Accessibility at Google, a series where we share the latest product and ...",
-      "published_at": "2026-10-26T16:41:35Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/lL7L6DiGeLc/hqdefault.jpg"
-    },
-    {
       "title": "Avengers fans assemble ⚡",
       "video_id": "I7Nlw9rSCeo",
       "channel_title": "Google",
       "description": "How well do you really know the Marvel universe? Search “Avengers: Doomsday” on Google to see if you can ace the quiz.",
       "published_at": "2026-10-23T16:03:39Z",
       "thumbnail_url": "https://i.ytimg.com/vi/I7Nlw9rSCeo/hqdefault.jpg"
-    },
-    {
-      "title": "Turn messy notes into clean PDFs with Google Search ✨",
-      "video_id": "yI5C7LqBVEM",
-      "channel_title": "Google",
-      "description": "Upload your handwritten notes and ask Google Search to generate a study guide outlining all the important concepts.",
-      "published_at": "2026-10-19T16:01:07Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/yI5C7LqBVEM/hqdefault.jpg"
-    },
-    {
-      "title": "Who could it be? 🧐",
-      "video_id": "RcEmV2BB_XE",
-      "channel_title": "Google",
-      "description": "Float over to AI Mode and search to reveal.",
-      "published_at": "2026-10-18T15:59:32Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/RcEmV2BB_XE/hqdefault.jpg"
     }
   ]
 }

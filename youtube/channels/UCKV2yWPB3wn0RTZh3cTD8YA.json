@@ -1,9 +1,25 @@
 {
-  "fetched_at": "2026-11-01T05:00:24.304524",
+  "fetched_at": "2026-11-08T05:05:42.303630",
   "channel_id": "UCKV2yWPB3wn0RTZh3cTD8YA",
   "channel_title": "硅谷101",
   "count": 10,
   "videos": [
+    {
+      "title": "“只要敢借，就有人敢贷”：聊数据中心融资、电力、算力与泡沫｜硅谷101年度线下大会",
+      "video_id": "xzc99JOBMlY",
+      "channel_title": "硅谷101",
+      "description": "去年，我们在大会上把数据中心比作“新的石油”。一年过去，AI基建热潮仍在继续，能够按时通电、交付算力的机房却十分稀缺。",
+      "published_at": "2026-11-05T15:05:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/xzc99JOBMlY/hqdefault.jpg"
+    },
+    {
+      "title": "对话Maxinsights：具身“卖铲人”的250倍增长、机器人Ego数据狂潮、Doordash与丰田模式，与“自由的鸟”【101视频播客】",
+      "video_id": "1b6qVM0fKbk",
+      "channel_title": "硅谷101",
+      "description": "当机器人公司们还在探索模型、算法、数据和部署的时候，一家并不生产机器人的硅谷公司，把机器人数据做成了一门年化收入数亿 ...",
+      "published_at": "2026-11-02T00:30:26Z",
+      "thumbnail_url": "https://i.ytimg.com/vi/1b6qVM0fKbk/hqdefault.jpg"
+    },
     {
       "title": "机器人也需要“手感”：帕西尼谈触觉、数据与物理AI｜硅谷101年度线下大会",
       "video_id": "RalUwb0uqbI",
@@ -67,22 +83,6 @@
       "description": "在美国“土豆之州”爱达荷，一位给麦当劳供应冷冻薯条的土豆大亨，把100万美元投给一家从牙医诊所地下室起步的芯片公司。而近五 ...",
       "published_at": "2026-10-15T23:33:33Z",
       "thumbnail_url": "https://i.ytimg.com/vi/nuD-P-AFjG0/hqdefault.jpg"
-    },
-    {
-      "title": "10月10日，硅谷101年度科技大会线下见！｜World Labs、OpenAI、Anthropic、Google DeepMind、Meta、Nvdia、明星Neolabs及startups齐聚",
-      "video_id": "0FCDUfQvN2c",
-      "channel_title": "硅谷101",
-      "description": "期待在硅谷线下见到大家   购票链接：https://luma.com/alignment2026 （用折扣码【FANS15】注册，还可以获得15%折扣） 黑客 ...",
-      "published_at": "2026-10-03T15:00:25Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/0FCDUfQvN2c/hqdefault.jpg"
-    },
-    {
-      "title": "让人类交出方向盘：特斯拉FSD十三年的冒险、争议与进化",
-      "video_id": "2pZ9Gl7qVUo",
-      "channel_title": "硅谷101",
-      "description": "9月初，没有方向盘、没有踏板的Cybercab正式在美国德州奥斯汀投入运营。 在此之际，我们也前往奥斯汀，实地体验了这辆出租车 ...",
-      "published_at": "2026-09-28T05:38:23Z",
-      "thumbnail_url": "https://i.ytimg.com/vi/2pZ9Gl7qVUo/hqdefault.jpg"
     }
   ]
 }
